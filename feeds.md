@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-31 16:23:23 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-31 17:21:46 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, May 31, 2026 - 16:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, May 31, 2026 - 17:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained?traffic_source=rss" target="_blank">Ethiopia’s election: Parties, coalitions and candidates explained</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-31 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak" target="_blank">WHO calls for community cooperation to contain Ebola outbreak in DRC</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-31 15:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +95,6 @@
                 <span class="title"><a href="https://news.sky.com/story/israeli-forces-seize-strategically-important-crusades-era-fortress-in-lebanon-13549504" target="_blank">Israel seizes Crusades-built fortress in Lebanon as it expands offensive</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-05-31 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations" target="_blank">Death of Congolese man renews scrutiny of race relations in Ireland</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-31 13:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/31/world-health-organization-hails-recovery-of-five-ebola-patients?traffic_source=rss" target="_blank">World Health Organization hails recovery of five Ebola patients</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-31 13:57</span>
             </div>
         </div>
 </div>
@@ -167,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Linux-May-2026" target="_blank">KDE Linux Prunes Its Insecure &amp; Unused Software</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-31 17:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yogesh23012001/what-a-go-engineer-learns-building-their-first-real-python-service-3b0c" target="_blank">What a Go Engineer Learns Building Their First Real Python Service</a></span>
                 <span class="feed">DEV Community</span>
@@ -194,28 +200,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting" target="_blank">Cloudflare Turnstile requiring fingerprintable WebGL</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-31 14:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc6-Input" target="_blank">Linux 7.1-rc6 To Support The ASUS ROG RAIKIRI II &amp; Nova 2 Lite Controllers</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-31 13:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ghostlyinc/how-to-share-client-links-safely-custom-urls-passwords-and-expiration-dates-4id1" target="_blank">How to Share Client Links Safely: Custom URLs, Passwords, and Expiration Dates</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-31 12:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jbkempf.com/blog/2026/dav2d/" target="_blank">Dav2d</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-31 11:44</span>
             </div>
         </div>
 </div>
@@ -223,6 +220,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/A-McNugget-docks-with-the-port-in-a-screengrab-f.jpg?fit=1080%2C709&amp;quality=60&amp;ssl=1" alt="YouTuber banned from Six Flags after smuggling McNuggets onto 93 MPH rollercoaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/31/youtuber-banned.html" target="_blank">YouTuber banned from Six Flags after smuggling McNuggets onto 93 MPH rollercoaster</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-31 16:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/VibeFarm.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Your Notes app isn&#x27;t a prompt strategy—VibeFarm is &amp; it&#x27;s just $30 for lifetime access through 6/14" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +274,6 @@
                 <span class="time">2026-05-30 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/levertige.jpg" alt="Rubber Director’s New Film Follows Low-Poly Man Convinced He’s In A PlayStation Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rubber-directors-next-film-follows-low-poly-man-convinced-hes-in-a-playstation-game-2000700825" target="_blank">Rubber Director’s New Film Follows Low-Poly Man Convinced He’s In A PlayStation Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-30 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 16:23 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
