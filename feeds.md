@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-31 22:18:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-31 23:20:28 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, May 31, 2026 - 22:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, May 31, 2026 - 23:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a187b03ed6e2578ab7573b3/master/pass/Microsoft%20Is%20Learning%20the%20Wrong%20Lessons%20From%20Apple%20top%20art%20(2)%20052026%20SOURCE%20Microsoft.jpg" alt="Everyone Has Their Targets Set on the MacBook Neo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/" target="_blank">Everyone Has Their Targets Set on the MacBook Neo</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-31 23:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -152,20 +159,20 @@
                 <span class="time">2026-05-31 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/940221/asus-rog-strix-scar-18-elmb-gaming-laptop-motion-blur-handson-impressions" target="_blank">This extravagant gaming laptop could ruin other screens for you</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-31 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/naveenayalla1cs50/building-a-pyspark-and-aws-glue-etl-pipeline-for-search-keyword-revenue-analysis-6gp" target="_blank">Building a PySpark and AWS Glue ETL Pipeline for Search Keyword Revenue Analysis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-31 23:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3961631%2F3bda9bbb-8de7-466f-a410-f81e413413b6.jpg" alt="GIT Referencia Rápida" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +218,6 @@
                 <span class="time">2026-05-31 16:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yogesh23012001/what-a-go-engineer-learns-building-their-first-real-python-service-3b0c" target="_blank">What a Go Engineer Learns Building Their First Real Python Service</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-31 16:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -232,6 +230,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/31/get-lifetime-access-to-mondly-for-80-and-learn-up-to-41-global-languages.html" target="_blank">Get lifetime access to Mondly for $80 and learn up to 41 global languages</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-31 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/normalgolf.jpg" alt="Jetpack Joyride Designer’s Surprise Golfing Sim Makes A Very Compelling Case For Miserable Controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/jetpack-joyride-designers-upcoming-golf-sim-makes-compelling-case-for-miserable-controls-2000700905" target="_blank">Jetpack Joyride Designer’s Surprise Golfing Sim Makes A Very Compelling Case For Miserable Controls</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-31 19:19</span>
             </div>
         </div>
 <div class="story">
@@ -270,15 +277,6 @@
                 <span class="time">2026-05-31 13:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/shutterstock_2571063915.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="United flight declares emergency over Bluetooth broadcast, passengers say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/30/united-declares-emergency-over-bluetooth.html" target="_blank">United flight declares emergency over Bluetooth broadcast, passengers say</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-31 03:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 22:18 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 23:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
