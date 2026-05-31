@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-31 10:38:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-31 11:30:19 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, May 31, 2026 - 10:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, May 31, 2026 - 11:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8859/live/667c3560-5cdd-11f1-8b8c-6d33e1d5abb6.jpg" alt="Hundreds arrested and dozens of police injured after Champions League riots in France" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss" target="_blank">Hundreds arrested and dozens of police injured after Champions League riots in France</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-31 11:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-forces-cross-lebanons-litani-river-and-seize-12th-century-castle?traffic_source=rss" target="_blank">Israeli forces cross Lebanon’s Litani River and seize 12th century castle</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-31 11:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +95,29 @@
                 <span class="time">2026-05-31 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-14-ap-gmh-260527_1779902435461_hpMain_4x3t_384.jpg" alt="Trump to headline 250th celebration on National Mall after several artists back out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/growing-number-artists-pull-250th-anniversary-celebration-national/story?id=133417043" target="_blank">Trump to headline 250th celebration on National Mall after several artists back out</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-31 02:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_more-survivors-pulled-from-flooded-laos-cave-300526?traffic_source=rss" target="_blank">Emotional scenes as more survivors pulled from flooded Laos cave</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-31 02:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a179f045921527be667b754/master/pass/Review%20M-Audio%20M%20Track%20Duo%20HD%20USB-C%20Audio%20Interface%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/" target="_blank">M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-31 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs" target="_blank">The Mercedes CLA offers great EV specs for an average price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-31 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68bf50b180e9634d4134ea2f/master/pass/Should%20I%20Buy%20a%20Mesh%20System%20or%20a%20Wi-Fi%20Router_.png" alt="Wi-Fi Router vs. Mesh System: Which Is Best for You?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +154,20 @@
                 <span class="time">2026-05-30 21:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/" target="_blank">Snap alums unveil Ghost Angels fund</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-30 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening" target="_blank">Backrooms is a certified blockbuster with a $38 million opening day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-30 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Servo-0.2-Released" target="_blank">Servo 0.2 Released With Revamped Android Browser UI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-31 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc6-USB" target="_blank">Various USB Quirks Merged Ahead Of Linux 7.1-rc6</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-31 00:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3uf2767uk1nqgkt88ma.gif" alt="Streaming an LLM response, in 4 GIFs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jasmin/streaming-an-llm-response-in-4-gifs-16dh" target="_blank">Streaming an LLM response, in 4 GIFs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-31 00:16</span>
             </div>
         </div>
 </div>
@@ -302,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 10:38 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 11:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
