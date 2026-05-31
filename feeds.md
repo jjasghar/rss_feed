@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-05-31 18:19:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-31 19:27:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, May 31, 2026 - 18:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, May 31, 2026 - 19:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -73,6 +68,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-15-gty-gmh-260527_1779902436683_hpMain_4x3t_384.jpg" alt="Sen. Booker says he&#x27;s &#x27;absolutely expecting&#x27; more Republican opposition to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/booker-absolutely-expecting-republican-opposition-trump/story?id=133462204" target="_blank">Sen. Booker says he&#x27;s &#x27;absolutely expecting&#x27; more Republican opposition to Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-31 16:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -90,15 +94,6 @@
                 <span class="time">2026-05-31 15:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/economy-20260531-gty-jh_1780234306504_hpMain_4x3t_384.jpg" alt="White House economic director downplays economic anxiety amid higher prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/white-house-economic-director-downplays-americans-economic-anxiety/story?id=133462207" target="_blank">White House economic director downplays economic anxiety amid higher prices</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-31 15:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,9 +103,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/" target="_blank">This weekend’s two biggest movies were both directed by YouTubers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-31 18:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/" target="_blank">TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-31 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review" target="_blank">Feeble Little Horse leans into digital weirdness on bitknot</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-31 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -138,24 +151,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/" target="_blank">What happens in Vega$: steroids, swimmers, and a billion-dollar hustle</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-31 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation" target="_blank">User-replaceable batteries are coming back in a big way</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-31 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/spacecamp_all_aboard-500x500.jpg" alt="On its 40th anniversary, we reassess 1986&#x27;s SpaceCamp" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/" target="_blank">On its 40th anniversary, we reassess 1986&#x27;s SpaceCamp</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-31 11:15</span>
             </div>
         </div>
 </div>
@@ -290,22 +285,13 @@
                 <span class="time">2026-05-31 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/30/modernity" target="_blank">Modernity</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-30 18:32</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 19:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
