@@ -1,31 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-05-31 00:25:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-31 01:39:23 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, May 31, 2026 - 00:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, May 31, 2026 - 01:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss" target="_blank">Iran war live: Lebanon accuses Israel of pursuing a ‘scorched earth policy’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-31 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1780183485862_wnn_JTS_TrumpArtists_260530_S3_1920x1080-dds1o7.jpg" alt="Trump to hold rally at ‘Great America State Fair’ after artists back out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-to-hold-rally-at-great-america-state-fair-after-artists-back-out-264231493607" target="_blank">Trump to hold rally at ‘Great America State Fair’ after artists back out</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-30 23:24</span>
             </div>
         </div>
 <div class="story">
@@ -84,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/30/women-bear-the-brunt-of-drcs-ebola-outbreak?traffic_source=rss" target="_blank">Women bear the brunt of DRC’s Ebola outbreak</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-30 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-14-ap-gmh-260527_1779902435461_hpMain_4x3t_384.jpg" alt="Trump announces rally after artists pull out of 250th anniversary celebration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/growing-number-artists-pull-250th-anniversary-celebration-national/story?id=133417043" target="_blank">Trump announces rally after artists pull out of 250th anniversary celebration</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-30 17:22</span>
             </div>
         </div>
 </div>
@@ -160,12 +159,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc6-USB" target="_blank">Various USB Quirks Merged Ahead Of Linux 7.1-rc6</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-31 00:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3uf2767uk1nqgkt88ma.gif" alt="Streaming an LLM response, in 4 GIFs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jasmin/streaming-an-llm-response-in-4-gifs-16dh" target="_blank">Streaming an LLM response, in 4 GIFs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-31 00:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)" target="_blank">Microsoft degrades functionality of perpetually-licensed offline products</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-30 23:26</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +210,6 @@
                 <span class="title"><a href="https://dev.to/skomfi/hermes-blueprint-a-multi-agent-hedge-fund-morning-briefing-system-4ih3" target="_blank">Hermes Blueprint: A Multi-Agent Hedge Fund Morning Briefing System</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-30 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/" target="_blank">Domain expertise has always been the real moat</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-30 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/arm-metis-agentic-security/en/headerimage/arm-metis-1780165811953.jpeg" alt="Arm Open-Sources Metis, an AI Security Framework Outperforming Traditional SAST Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/arm-metis-agentic-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Arm Open-Sources Metis, an AI Security Framework Outperforming Traditional SAST Tools</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-30 19:00</span>
             </div>
         </div>
 </div>
@@ -300,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 00:25 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 01:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
