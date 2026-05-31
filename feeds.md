@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-31 14:30:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-31 15:26:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, May 31, 2026 - 14:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, May 31, 2026 - 15:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,55 +50,55 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/31/nx-s1-5841876/us-strike-drug-boat-kills-3-pacific-ocean" target="_blank">U.S. strike on alleged drug boat kills 3 in Pacific Ocean, in fourth attack this week</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-31 15:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/economy-20260531-gty-jh_1780234306504_hpMain_4x3t_384.jpg" alt="White House economic director downplays economic anxiety amid higher prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/white-house-economic-director-downplays-americans-economic-anxiety/story?id=133462207" target="_blank">White House economic director downplays economic anxiety amid higher prices</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-31 15:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2026/5/31/what-are-the-chances-for-the-iran-us-declaration-of?traffic_source=rss" target="_blank">What are the chances for the Iran-US ‘Declaration of Principles’?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-31 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-beaufort-castle-lebanon_7262226.jpg?20260531135826" alt="Israel seizes Crusades-built fortress in Lebanon as it expands offensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israeli-forces-seize-strategically-important-crusades-era-fortress-in-lebanon-13549504" target="_blank">Israel seizes Crusades-built fortress in Lebanon as it expands offensive</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-31 14:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations" target="_blank">Death of Congolese man renews scrutiny of race relations in Ireland</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-31 13:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/31/world-health-organization-hails-recovery-of-five-ebola-patients?traffic_source=rss" target="_blank">World Health Organization hails recovery of five Ebola patients</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-31 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon" target="_blank">Israel seizes medieval castle as it expands major offensive in southern Lebanon</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-31 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/31/nx-s1-5841859/experimental-pill-new-hope-pancreatic-cancer" target="_blank">Experimental pill promises new hope for deadly pancreatic cancer</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-31 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/31/japan-rejects-new-militarism-says-china-is-rapidly-arming?traffic_source=rss" target="_blank">Japan rejects ‘new militarism’, says China is rapidly arming</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-31 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8859/live/667c3560-5cdd-11f1-8b8c-6d33e1d5abb6.jpg" alt="Hundreds arrested and dozens of police injured after Champions League riots in France" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss" target="_blank">Hundreds arrested and dozens of police injured after Champions League riots in France</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-31 11:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-forces-cross-lebanons-litani-river-and-seize-12th-century-castle?traffic_source=rss" target="_blank">Israeli forces cross Lebanon’s Litani River and seize 12th century castle</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-31 11:10</span>
             </div>
         </div>
 </div>
@@ -102,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/940221/asus-rog-strix-scar-18-elmb-gaming-laptop-motion-blur-handson-impressions" target="_blank">This extravagant gaming laptop could ruin other screens for you</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-31 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/" target="_blank">Black founders raise highest amount of quarterly funding since 2022, but there’s a catch</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-31 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +160,20 @@
                 <span class="time">2026-05-31 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs" target="_blank">The Mercedes CLA offers great EV specs for an average price</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-31 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bf50b180e9634d4134ea2f/master/pass/Should%20I%20Buy%20a%20Mesh%20System%20or%20a%20Wi-Fi%20Router_.png" alt="Wi-Fi Router vs. Mesh System: Which Is Best for You?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mesh-system-vs-wi-fi-router/" target="_blank">Wi-Fi Router vs. Mesh System: Which Is Best for You?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-31 10:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_2e5ba30f/where-tensor-parallel-inference-hits-the-nvlink-wall-1l8p" target="_blank">Where Tensor-Parallel Inference Hits the NVLink Wall</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-31 15:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,20 +219,20 @@
                 <span class="time">2026-05-31 10:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devil_scrapes/google-ads-transparency-scraper-pull-any-competitors-ads-for-1201k-25fo" target="_blank">Google Ads Transparency Scraper: pull any competitor&#x27;s ads for $1.20/1K</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-31 09:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/VibeFarm.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Your Notes app isn&#x27;t a prompt strategy—VibeFarm is &amp; it&#x27;s just $30 for lifetime access through 6/14" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/31/your-notes-app-isnt-a-prompt-strategy-vibefarm-is-its-just-30-for-lifetime-access-through-6-14.html" target="_blank">Your Notes app isn&#x27;t a prompt strategy—VibeFarm is &amp; it&#x27;s just $30 for lifetime access through 6/14</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-31 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/02/d56777b18082b512df78ee1e5f090bcc-1280x853.jpg" alt="Alleged Persona 6 Leaks Fuel Fan Art Frenzy And ‘John Persona 6’ Merch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +278,6 @@
                 <span class="time">2026-05-30 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2017/02/1280px-Flag_of_Nebraska.svg_.jpg?fit=800%2C480&amp;quality=60&amp;ssl=1" alt="Acupuncture hits different in Nebraska" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/30/accupuncture-hits-different-in-nebraska.html" target="_blank">Acupuncture hits different in Nebraska</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-30 19:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -288,22 +292,13 @@
                 <span class="time">2026-05-30 18:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1780099563-20260530.png" alt="Saturday Morning Breakfast Cereal - Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/free-4" target="_blank">Saturday Morning Breakfast Cereal - Free</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-30 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 14:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 15:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
