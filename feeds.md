@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-31 12:22:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-05-31 13:30:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, May 31, 2026 - 12:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, May 31, 2026 - 13:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/31/nx-s1-5841859/experimental-pill-new-hope-pancreatic-cancer" target="_blank">Experimental pill promises new hope for deadly pancreatic cancer</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-31 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/31/japan-rejects-new-militarism-says-china-is-rapidly-arming?traffic_source=rss" target="_blank">Japan rejects ‘new militarism’, says China is rapidly arming</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-31 12:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8859/live/667c3560-5cdd-11f1-8b8c-6d33e1d5abb6.jpg" alt="Hundreds arrested and dozens of police injured after Champions League riots in France" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +101,6 @@
                 <span class="time">2026-05-31 06:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7d/live/5129c120-5c86-11f1-8550-93880216f188.jpg" alt="Hundreds arrested in France after wild Champions League celebrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss" target="_blank">Hundreds arrested in France after wild Champions League celebrations</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-31 06:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a91/live/451863a0-5c63-11f1-aeb2-75cc9209ef5d.jpg" alt="Sturgeon tells BBC: I&#x27;m serving a sentence for crime I didn&#x27;t commit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss" target="_blank">Sturgeon tells BBC: I&#x27;m serving a sentence for crime I didn&#x27;t commit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-31 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,10 +109,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/" target="_blank">What happens in Vega$: steroids, swimmers, and a billion-dollar hustle</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-31 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation" target="_blank">User-replaceable batteries are coming back in a big way</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-31 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/spacecamp_all_aboard-500x500.jpg" alt="On its 40th anniversary, we reassess 1986&#x27;s SpaceCamp" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/" target="_blank">On its 40th anniversary, we reassess 1986&#x27;s SpaceCamp</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-31 11:15</span>
             </div>
         </div>
 <div class="story">
@@ -143,24 +160,6 @@
                 <span class="time">2026-05-31 10:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6996524941ef0d6569ebc9b3/master/pass/Update-%20What%E2%80%99s%20the%20Best%20Unlimited%20Cell%20Phone%20Plan%20in%202026_%20Let%E2%80%99s%20Break%20It%20Down.png" alt="Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-unlimited-phone-plans/" target="_blank">Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-31 09:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/" target="_blank">SoftBank says it will invest up to €75 billion to build French data centers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-30 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +172,15 @@
                 <span class="title"><a href="https://dev.to/ghostlyinc/how-to-share-client-links-safely-custom-urls-passwords-and-expiration-dates-4id1" target="_blank">How to Share Client Links Safely: Custom URLs, Passwords, and Expiration Dates</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-31 12:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jbkempf.com/blog/2026/dav2d/" target="_blank">Dav2d</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-31 11:44</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/devil_scrapes/google-ads-transparency-scraper-pull-any-competitors-ads-for-1201k-25fo" target="_blank">Google Ads Transparency Scraper: pull any competitor&#x27;s ads for $1.20/1K</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-31 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F44ghfcq3zk3qd5vnb4cf.png" alt="Webtree - Resources Hub for Dev&#x27;s" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shanitiwari/webtree-resources-hub-for-devs-25e" target="_blank">Webtree - Resources Hub for Dev&#x27;s</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-31 08:40</span>
             </div>
         </div>
 </div>
@@ -307,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 71 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:23 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 13:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
