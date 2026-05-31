@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-31 15:26:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-31 16:23:23 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, May 31, 2026 - 15:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, May 31, 2026 - 16:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +108,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/" target="_blank">TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-31 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/940221/asus-rog-strix-scar-18-elmb-gaming-laptop-motion-blur-handson-impressions" target="_blank">This extravagant gaming laptop could ruin other screens for you</a></span>
                 <span class="feed">The Verge</span>
@@ -151,15 +159,6 @@
                 <span class="time">2026-05-31 11:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a179f045921527be667b754/master/pass/Review%20M-Audio%20M%20Track%20Duo%20HD%20USB-C%20Audio%20Interface%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/" target="_blank">M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-31 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,9 +168,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yogesh23012001/what-a-go-engineer-learns-building-their-first-real-python-service-3b0c" target="_blank">What a Go Engineer Learns Building Their First Real Python Service</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-31 16:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_2e5ba30f/where-tensor-parallel-inference-hits-the-nvlink-wall-1l8p" target="_blank">Where Tensor-Parallel Inference Hits the NVLink Wall</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-31 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://thoughts.hmmz.org/2026-05-31.html" target="_blank">The solution might be cancelling my AI subscription</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-31 14:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc6-Input" target="_blank">Linux 7.1-rc6 To Support The ASUS ROG RAIKIRI II &amp; Nova 2 Lite Controllers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-31 13:59</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +216,6 @@
                 <span class="title"><a href="https://jbkempf.com/blog/2026/dav2d/" target="_blank">Dav2d</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-31 11:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/duckdb-quack-protocol/en/headerimage/generatedHeaderImage-1779460941997.jpg" alt="DuckDB Quack: Client/Server Protocol over HTTP for Multi-User Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/duckdb-quack-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DuckDB Quack: Client/Server Protocol over HTTP for Multi-User Analytics</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-31 11:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Servo-0.2-Released" target="_blank">Servo 0.2 Released With Revamped Android Browser UI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-31 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/toyaab/the-open-source-agent-war-of-2026-hermes-agent-vs-autogpt-vs-openai-agents-vs-crewai-2kj6" target="_blank">The Open-Source Agent War of 2026: Hermes Agent vs AutoGPT vs OpenAI Agents vs CrewAI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-31 10:33</span>
             </div>
         </div>
 </div>
@@ -284,6 +283,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1780099607-20260531.png" alt="Saturday Morning Breakfast Cereal - Prophecy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/prophecy" target="_blank">Saturday Morning Breakfast Cereal - Prophecy</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-31 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -297,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 15:26 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 16:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
