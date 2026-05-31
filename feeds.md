@@ -1,41 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 23:18:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-31 00:25:06 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 23:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, May 31, 2026 - 00:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss" target="_blank">Iran war live: Lebanon accuses Israel of pursuing a ‘scorched earth policy’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-31 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +93,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/growing-number-artists-pull-250th-anniversary-celebration-national/story?id=133417043" target="_blank">Trump announces rally after artists pull out of 250th anniversary celebration</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-30 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-1-ht-gmh-260529_1780069381476_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;Suspected&#x27; mine reported in Strait of Hormuz, authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: &#x27;Suspected&#x27; mine reported in Strait of Hormuz, authorities say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-30 16:01</span>
             </div>
         </div>
 </div>
@@ -170,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3uf2767uk1nqgkt88ma.gif" alt="Streaming an LLM response, in 4 GIFs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jasmin/streaming-an-llm-response-in-4-gifs-16dh" target="_blank">Streaming an LLM response, in 4 GIFs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-31 00:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,15 +211,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/05/arm-metis-agentic-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Arm Open-Sources Metis, an AI Security Framework Outperforming Traditional SAST Tools</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-05-30 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fex11bgus5jbet9gfvylj.png" alt="Building ShouldWeAutomate: A Decision Intelligence Platform for Workflow Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harishkotra/building-shouldweautomate-a-decision-intelligence-platform-for-workflow-automation-3pn7" target="_blank">Building ShouldWeAutomate: A Decision Intelligence Platform for Workflow Automation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-30 18:12</span>
             </div>
         </div>
 </div>
@@ -310,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 23:18 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 00:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
