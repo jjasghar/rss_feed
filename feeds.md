@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-01 09:43:51 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-01 11:54:44 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, June 01, 2026 - 09:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, June 01, 2026 - 11:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780312177497_tdy_news_7a_engel_iran_strikes_peace_deal_260601_S3_1920x1080-rxmh83.jpg" alt="US and Iran Trade Fresh Strikes Amid Talks to End the War" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-launches-new-strikes-in-iran-as-hopes-for-peace-deal-fade-264259141788" target="_blank">US and Iran Trade Fresh Strikes Amid Talks to End the War</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-01 11:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2c1/live/fd6bc8a0-5d8c-11f1-89a3-d1f559421220.jpg" alt="US says it struck Iranian radar sites as Kuwait reports missile and drone attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +98,38 @@
                 <span class="time">2026-06-01 05:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/1/ex-us-fed-chair-powell-warns-against-politicisation-amid-trumps-attacks?traffic_source=rss" target="_blank">Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-01 04:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a19a13f05e567efd8a9389b/master/pass/Review%20Universal%20Audio%20Volt%20876%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Universal Audio Volt 876 USB Audio Interface Review: Pro-Level Polish" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/universal-audio-volt-876-usb-audio-interface/" target="_blank">Universal Audio Volt 876 USB Audio Interface Review: Pro-Level Polish</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-01 11:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/getty-string-pins-500x500.jpg" alt="An OpenAI model solved a famous math problem that stumped humans for 80 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/" target="_blank">An OpenAI model solved a famous math problem that stumped humans for 80 years</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-01 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/" target="_blank">Unastella, a South Korean rocket startup that launched from home, raises $24M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-01 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,38 +157,29 @@
                 <span class="time">2026-05-31 21:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/" target="_blank">Erin Brockovich takes aim at data center secrecy</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-31 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/" target="_blank">This weekend’s two biggest movies were both directed by YouTubers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-31 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/" target="_blank">TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-31 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/liquid-theme-system-dsl/en/mediumimage/medium-1779863262373.jpg" alt="Presentation: Theme Systems at Scale: How To Build Highly Customizable Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/liquid-theme-system-dsl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Theme Systems at Scale: How To Build Highly Customizable Software</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-01 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-AF-ALG-Deprecation" target="_blank">Linux 7.2 Proceeding To Deprecate AF_ALG Due To &quot;Massive Attack Surface&quot;, Drops Offloading</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-01 10:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,29 +216,20 @@
                 <span class="time">2026-06-01 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Dell-XPS-13-Wildcat-Lake" target="_blank">Dell Uses Intel Wildcat Lake To Deliver Their Cheapest XPS 13 Ever</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-01 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/naveenayalla1cs50/building-a-pyspark-and-aws-glue-etl-pipeline-for-search-keyword-revenue-analysis-6gp" target="_blank">Building a PySpark and AWS Glue ETL Pipeline for Search Keyword Revenue Analysis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-31 23:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/msspark.jpg?fit=1088%2C634&amp;quality=60&amp;ssl=1" alt="Microsoft Surface Ultra laptop features Nvidia&#x27;s new Spark platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/01/microsoft-surface-ultra-laptop-features-nvidias-new-spark-platform.html" target="_blank">Microsoft Surface Ultra laptop features Nvidia&#x27;s new Spark platform</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-01 11:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Image-Teddy-Warner.jpg?fit=1080%2C570&amp;quality=60&amp;ssl=1" alt="$80 DIY bird listening device creates painterly collages of avian visitors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +275,6 @@
                 <span class="time">2026-05-31 17:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/A-McNugget-docks-with-the-port-in-a-screengrab-f.jpg?fit=1080%2C709&amp;quality=60&amp;ssl=1" alt="YouTuber banned from Six Flags after smuggling McNuggets onto 93 MPH rollercoaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/31/youtuber-banned.html" target="_blank">YouTuber banned from Six Flags after smuggling McNuggets onto 93 MPH rollercoaster</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-31 16:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 09:44 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 11:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
