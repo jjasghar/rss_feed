@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-01 13:51:58 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-01 15:59:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 11 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, June 01, 2026 - 13:52 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, June 01, 2026 - 15:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi?traffic_source=rss" target="_blank">Indian PM Modi meets Myanmar military gov’t leader in New Delhi</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-01 14:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +99,20 @@
                 <span class="time">2026-06-01 09:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-jewish-demonstrators-storm-israeli-police-station?traffic_source=rss" target="_blank">Ultra-Orthodox Jewish demonstrators storm Israeli police station</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-01 09:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026" target="_blank">Summer Game Fest 2026: All the news from gaming&amp;#8217;s busiest week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-01 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +158,38 @@
                 <span class="time">2026-06-01 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures" target="_blank">This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-01 04:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/its_ryann/image-vs-container-the-ultimate-guide-to-stop-confusing-the-two-123j" target="_blank">Image vs. Container: The Ultimate Guide to Stop Confusing the Two</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-01 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/support-solves-bugs-in-12-year-old-code" target="_blank">How Canonical Support solves hard Linux performance bugs  – even in 12-year old code</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-01 13:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-IWL-WiFi-UHR-Linux-7.2" target="_blank">Intel Preparing WiFi 8 &quot;UHR&quot; Support For Their IWLWIFI Linux Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-01 13:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,38 +217,38 @@
                 <span class="time">2026-06-01 10:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17351952/winpodx" target="_blank">Reverse WSL? I Tried This New Tool to Integrate Windows Apps in Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-01 07:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://point.free/blog/gemma-4-on-a-2016-xeon/" target="_blank">A 10 year old Xeon is all you need</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-01 06:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/nvidia-openshell-ubuntu-announcement" target="_blank">Securing AI agent workflows on Ubuntu with the new NVIDIA OpenShell snap</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-01 05:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/backrooms-main-1280x720.jpg" alt="What Exactly Is Viral Online Creepypasta The Backrooms?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/what-are-the-backrooms-movie-kane-parsons-a24-box-office-2000701083" target="_blank">What Exactly Is Viral Online Creepypasta The Backrooms?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-01 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Windows-11-Pro-3.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Savvy PC users are getting Windows 11 Pro + training courses for just $20 while they can" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/01/savvy-pc-users-are-getting-windows-11-pro-training-courses-for-just-20-while-they-can.html" target="_blank">Savvy PC users are getting Windows 11 Pro + training courses for just $20 while they can</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSZFBHRA2AXYKT3KN5G9D8PH/hero-image.jpg" alt="10 Shows and Movies Like &#x27;Backrooms&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-shows-like-backrooms?utm_medium=RSS" target="_blank">10 Shows and Movies Like &#x27;Backrooms&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-01 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KT1AMKQANK7AS4RE8PDMN3N3/hero-image.png" alt="This Exceptionally Fast Asus OLED Gaming Display Is $160 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -246,33 +276,6 @@
                 <span class="time">2026-06-01 11:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Image-Teddy-Warner.jpg?fit=1080%2C570&amp;quality=60&amp;ssl=1" alt="$80 DIY bird listening device creates painterly collages of avian visitors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/31/80-diy-bird.html" target="_blank">$80 DIY bird listening device creates painterly collages of avian visitors</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-01 03:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Image-Dell.jpg?fit=1080%2C760&amp;quality=60&amp;ssl=1" alt="Dell counters the MacBook Neo with a $599 XPS 13" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/31/dell-counters-the-macbook-neo-with-a-599-xps-13.html" target="_blank">Dell counters the MacBook Neo with a $599 XPS 13</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-01 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Mondly-Premium-1-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get lifetime access to Mondly for $80 and learn up to 41 global languages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/31/get-lifetime-access-to-mondly-for-80-and-learn-up-to-41-global-languages.html" target="_blank">Get lifetime access to Mondly for $80 and learn up to 41 global languages</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-31 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -288,12 +291,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1780099607-20260531.png" alt="Saturday Morning Breakfast Cereal - Prophecy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/sunbeam.png" alt="Sunbeam" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/prophecy" target="_blank">Saturday Morning Breakfast Cereal - Prophecy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-31 15:20</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3253/" target="_blank">Sunbeam</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-06-01 04:00</span>
             </div>
         </div>
 </div>
@@ -301,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 13:52 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 15:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
