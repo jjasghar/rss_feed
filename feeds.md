@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-01 07:36:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-01 09:43:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, June 01, 2026 - 07:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, June 01, 2026 - 09:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2c1/live/fd6bc8a0-5d8c-11f1-89a3-d1f559421220.jpg" alt="US says it struck Iranian radar sites as Kuwait reports missile and drone attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss" target="_blank">US says it struck Iranian radar sites as Kuwait reports missile and drone attacks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-01 09:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-jewish-demonstrators-storm-israeli-police-station?traffic_source=rss" target="_blank">Ultra-Orthodox Jewish demonstrators storm Israeli police station</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-01 09:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/1/ex-us-fed-chair-powell-warns-against-politicisation-amid-trumps-attacks?traffic_source=rss" target="_blank">Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-01 04:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/1/before-the-land-sustained-us-who-benefits-from-guineas-bauxite-wealth?traffic_source=rss" target="_blank">‘Before, the land sustained us’: Who benefits from Guinea’s bauxite wealth?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-01 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-cuba-stuart-ramsay_7262632.jpg?20260601072548" alt="If Cuba collapses, Trump will be forced to deal with the consequences of his actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/if-cuba-collapses-the-us-will-be-forced-to-deal-with-the-consequence-of-its-actions-13549534" target="_blank">If Cuba collapses, Trump will be forced to deal with the consequences of his actions</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-31 23:01</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17351952/winpodx" target="_blank">Reverse WSL? I Tried This New Tool to Integrate Windows Apps in Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-01 07:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://point.free/blog/gemma-4-on-a-2016-xeon/" target="_blank">A 10 year old Xeon is all you need</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-01 06:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://ubuntu.com//blog/nvidia-openshell-ubuntu-announcement" target="_blank">Securing AI agent workflows on Ubuntu with the new NVIDIA OpenShell snap</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-06-01 05:30</span>
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/naveenayalla1cs50/building-a-pyspark-and-aws-glue-etl-pipeline-for-search-keyword-revenue-analysis-6gp" target="_blank">Building a PySpark and AWS Glue ETL Pipeline for Search Keyword Revenue Analysis</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-31 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/" target="_blank">Chuwi Minibook X: the netbook we deserve</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-31 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3961631%2F3bda9bbb-8de7-466f-a410-f81e413413b6.jpg" alt="GIT Referencia Rápida" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/erixero/git-referencia-rapida-3gm3" target="_blank">GIT Referencia Rápida</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-31 22:05</span>
             </div>
         </div>
 </div>
@@ -303,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 07:36 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 09:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
