@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-01 21:59:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-01 22:47:36 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, June 01, 2026 - 21:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, June 01, 2026 - 22:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2254059922-500x500.jpg" alt="AI costs how much? GitHub Copilot users react to new usage-based pricing system." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/" target="_blank">AI costs how much? GitHub Copilot users react to new usage-based pricing system.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-01 22:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -150,20 +156,20 @@
                 <span class="time">2026-06-01 17:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public" target="_blank">Anthropic has officially filed to go public</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-01 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/uzoma_uche_3ec83974b4a8a5/treat-ai-coding-sessions-as-project-infrastructure-4o51" target="_blank">Treat AI coding sessions as project infrastructure</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-01 22:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/06/java-news-roundup-may25-2026/en/headerimage/java-news-roundup-image-1780348608154.jpg" alt="Java News Roundup: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Introducing Endive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +215,6 @@
                 <span class="time">2026-06-01 16:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/its_ryann/image-vs-container-the-ultimate-guide-to-stop-confusing-the-two-123j" target="_blank">Image vs. Container: The Ultimate Guide to Stop Confusing the Two</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-01 15:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/gamestop-e1777731655117-1280x712.jpg" alt="GameStop Snuck An Alarming AI Disclosure Into The Risks Section Of Its Latest Annual Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gamestop-ai-disclosure-risks-annual-report-2000701213" target="_blank">GameStop Snuck An Alarming AI Disclosure Into The Risks Section Of Its Latest Annual Report</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-01 22:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/11/melania-beschizza.jpg?fit=1786%2C1195&amp;quality=60&amp;ssl=1" alt="A deleted recording blows up Melania&#x27;s Epstein story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/01/a-deleted-recording-blows-up-melanias-epstein-story.html" target="_blank">A deleted recording blows up Melania&#x27;s Epstein story</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-01 21:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KSNGFXQDZ1MY2786ZNF5Q2BW/hero-image.jpg" alt="10 Hacks Every Venmo User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/01/astronauts-may-soon-finally-be-able-to-do-laundry.html" target="_blank">Astronauts may soon finally be able to do laundry</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-01 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSTXXW4T75Y1QFH0C9N4QKEW/hero-image.jpg" alt="10 Hacks Every Google Gemini User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-gemini-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Google Gemini User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-01 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/backrooms-main-1280x720.jpg" alt="What Exactly Is Viral Online Creepypasta The Backrooms?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/what-are-the-backrooms-movie-kane-parsons-a24-box-office-2000701083" target="_blank">What Exactly Is Viral Online Creepypasta The Backrooms?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-01 15:42</span>
             </div>
         </div>
 </div>
@@ -337,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 265 |
-        🔄 Last Updated: 21:59 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
