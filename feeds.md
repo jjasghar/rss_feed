@@ -1,35 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-06-01 00:25:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-01 01:42:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, June 01, 2026 - 00:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, June 01, 2026 - 01:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/1/before-the-land-sustained-us-who-benefits-from-guineas-bauxite-wealth?traffic_source=rss" target="_blank">‘Before, the land sustained us’: Who benefits from Guinea’s bauxite wealth?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-01 01:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained?traffic_source=rss" target="_blank">Ethiopia’s election: Parties, coalitions and candidates explained</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-31 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-15-gty-gmh-260527_1779902436683_hpMain_4x3t_384.jpg" alt="Sen. Booker says he&#x27;s &#x27;absolutely expecting&#x27; more Republican opposition to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/booker-absolutely-expecting-republican-opposition-trump/story?id=133462204" target="_blank">Sen. Booker says he&#x27;s &#x27;absolutely expecting&#x27; more Republican opposition to Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-31 16:15</span>
             </div>
         </div>
 </div>
@@ -223,6 +230,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Image-Dell.jpg?fit=1080%2C760&amp;quality=60&amp;ssl=1" alt="Dell counters the MacBook Neo with a $599 XPS 13" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/31/dell-counters-the-macbook-neo-with-a-599-xps-13.html" target="_blank">Dell counters the MacBook Neo with a $599 XPS 13</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-01 01:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Mondly-Premium-1-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get lifetime access to Mondly for $80 and learn up to 41 global languages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -267,15 +283,6 @@
                 <span class="time">2026-05-31 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/02/d56777b18082b512df78ee1e5f090bcc-1280x853.jpg" alt="Alleged Persona 6 Leaks Fuel Fan Art Frenzy And ‘John Persona 6’ Merch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/alleged-persona-6-leaks-fuel-fan-art-frenzy-and-john-persona-6-merch-2000700620" target="_blank">Alleged Persona 6 Leaks Fuel Fan Art Frenzy And ‘John Persona 6’ Merch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-31 13:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 00:25 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
