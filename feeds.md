@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-31 23:20:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-01 00:25:24 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, May 31, 2026 - 23:20 UTC</div>
+    <div class="newspaper-date">Monday, June 01, 2026 - 00:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,10 +166,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Dell-XPS-13-Wildcat-Lake" target="_blank">Dell Uses Intel Wildcat Lake To Deliver Their Cheapest XPS 13 Ever</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-01 00:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/naveenayalla1cs50/building-a-pyspark-and-aws-glue-etl-pipeline-for-search-keyword-revenue-analysis-6gp" target="_blank">Building a PySpark and AWS Glue ETL Pipeline for Search Keyword Revenue Analysis</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-31 23:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/" target="_blank">Chuwi Minibook X: the netbook we deserve</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-31 22:59</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/ajaymourya/hermes-agent-how-nous-research-built-an-ai-that-actually-learns-from-its-own-36ih" target="_blank">Hermes Agent: How Nous Research Built an AI That Actually Learns from Its Own</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-31 18:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Linux-May-2026" target="_blank">KDE Linux Prunes Its Insecure &amp; Unused Software</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-31 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/" target="_blank">Creatine raise brain energy levels and slow Alzheimer&#x27;s cognitive decline by 30%</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-31 16:19</span>
             </div>
         </div>
 </div>
@@ -296,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 23:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 00:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
