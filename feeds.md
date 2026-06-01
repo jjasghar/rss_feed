@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-01 20:23:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-01 21:59:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, June 01, 2026 - 20:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, June 01, 2026 - 21:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza" target="_blank">Iran halts talks with U.S. over Israeli actions in Lebanon, Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-01 21:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/553d/live/6bda21a0-5dd9-11f1-a574-05510226f57f.jpg" alt="Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss" target="_blank">Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-01 21:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss" target="_blank">Who attended this year’s Israel Day Parade in New York?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-01 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780344718395_now_daily_b_zanona_fund_drop_260601_S3_1920x1080-213a2c.jpg" alt="Trump to drop controversial &#x27;anti-weaponization&#x27; fund" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-to-drop-controversial-anti-weaponization-fund-264301125915" target="_blank">Trump to drop controversial &#x27;anti-weaponization&#x27; fund</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-01 20:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/553d/live/6bda21a0-5dd9-11f1-a574-05510226f57f.jpg" alt="Iran warns Israeli attacks in Lebanon threaten ceasefire with US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,47 +100,20 @@
                 <span class="time">2026-06-01 19:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/tehran-1-rt-jef-260601_1780318297795_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says crossing Lebanon, Gaza red lines means &#x27;direct war&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855" target="_blank">Iran live updates: Iran says crossing Lebanon, Gaza red lines means &#x27;direct war&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-01 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5130/live/a7aef750-5ded-11f1-b682-cf91850925ea.jpg" alt="&#x27;Bereft and beleaguered&#x27; - Mandelson messages reveal criticism of No 10" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwy2431r8xdo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Bereft and beleaguered&#x27; - Mandelson messages reveal criticism of No 10</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-01 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780330893240_now_daily_a_trump_iran_negotiations_260601_S3_1920x1080-tn1zu1.jpg" alt="Iranian media: Tehran suspends U.S. peace talks over Israeli attacks in Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/iranian-media-tehran-suspends-u-s-peace-talks-over-israeli-attacks-in-lebanon-264279109979" target="_blank">Iranian media: Tehran suspends U.S. peace talks over Israeli attacks in Lebanon</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-01 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4bc/live/c969c520-5dd7-11f1-8b8c-6d33e1d5abb6.jpg" alt="Key messages between Mandelson and ministers so far" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g819dml28o?at_medium=RSS&at_campaign=rss" target="_blank">Key messages between Mandelson and ministers so far</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-01 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/" target="_blank">Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-01 21:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/surface-laptop-ultra-500x500-1780343536.jpeg" alt="Microsoft Surface Laptop Ultra will be among the first Nvidia RTX Spark Arm PCs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +159,29 @@
                 <span class="time">2026-06-01 16:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026" target="_blank">Summer Game Fest 2026: All the news from gaming&amp;#8217;s busiest week</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-01 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/java-news-roundup-may25-2026/en/headerimage/java-news-roundup-image-1780348608154.jpg" alt="Java News Roundup: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Introducing Endive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/java-news-roundup-may25-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Introducing Endive</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-01 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Diamond-Rapids-EDAC-RRL" target="_blank">Intel Xeon Diamond Rapids EDAC Driver Changes Readied For Linux 7.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-01 21:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxtzhs9xyxlc5gqijsfm7.jpg" alt="APEX: Agentic Production Execution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +218,6 @@
                 <span class="time">2026-06-01 15:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/support-solves-bugs-in-12-year-old-code" target="_blank">How Canonical Support solves hard Linux performance bugs  – even in 12-year old code</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-01 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-IWL-WiFi-UHR-Linux-7.2" target="_blank">Intel Preparing WiFi 8 &quot;UHR&quot; Support For Their IWLWIFI Linux Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-01 13:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSNGFXQDZ1MY2786ZNF5Q2BW/hero-image.jpg" alt="10 Hacks Every Venmo User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hacks-every-venmo-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Venmo User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-01 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Image-taken-from-Reckless-Bens-YouTube-video-I-got-arrested-because-of-legos-1280x720.jpg" alt="‘Mormon Mafia’ Conspiracy Trends Online After YouTuber Investigating $200,000 Lego Collection Dispute Flees To Mexico Following Arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,20 +300,20 @@
                 <span class="time">2026-06-01 15:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Windows-11-Pro-3.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Savvy PC users are getting Windows 11 Pro + training courses for just $20 while they can" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/01/savvy-pc-users-are-getting-windows-11-pro-training-courses-for-just-20-while-they-can.html" target="_blank">Savvy PC users are getting Windows 11 Pro + training courses for just $20 while they can</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-01 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1780279940-20260601.png" alt="Saturday Morning Breakfast Cereal - Shorthand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/shorthand" target="_blank">Saturday Morning Breakfast Cereal - Shorthand</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-01 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -327,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 20:23 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 265 |
+        🔄 Last Updated: 21:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
