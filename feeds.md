@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-01 11:54:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-01 13:51:58 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, June 01, 2026 - 11:54 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, June 01, 2026 - 13:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/1/spoiled-insulin-sudan-war-disrupts-drug-supplies-fuelling-smuggling?traffic_source=rss" target="_blank">‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-01 13:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/01/nx-s1-5827041/cancer-vaccine-mrna-melanoma" target="_blank">A cancer vaccine made just for you. mRNA is back and it&#x27;s fighting melanoma</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-01 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity" target="_blank">People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-01 11:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780312177497_tdy_news_7a_engel_iran_strikes_peace_deal_260601_S3_1920x1080-rxmh83.jpg" alt="US and Iran Trade Fresh Strikes Amid Talks to End the War" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +96,29 @@
                 <span class="time">2026-06-01 09:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study" target="_blank">Wildfires devastating richer areas but fewer hectares burned globally – study</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-01 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/IDF-Beaufort-DB-260531_1780214903311_hpMain_4x3t_384.jpg" alt="US conducts &#x27;self-defense&#x27; strikes in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">US conducts &#x27;self-defense&#x27; strikes in Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-01 05:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260601-Qeshmisland-rc-1230a-40bf24.jpg" alt="U.S. says it struck Iranian drone and radar sites, as Iran claims attack on air base" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/us-says-struck-iranian-drone-radar-sites-iran-claims-attack-air-base-rcna347809" target="_blank">U.S. says it struck Iranian drone and radar sites, as Iran claims attack on air base</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-01 05:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/940220/microsoft-ftc-antitrust-investigation-cloud-ai" target="_blank">Microsoft could be the next Big Tech antitrust target</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-01 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a15c96a8c7b58a108decfaf/master/pass/Relaunch%20Best%20Sleep%20Trackers%20052026%20SOURCE%20Oura-Whoop-Eight%20Sleep.jpg" alt="Best Sleep Trackers of 2026: Oura, Whoop, and Eight Sleep" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-sleep-trackers/" target="_blank">Best Sleep Trackers of 2026: Oura, Whoop, and Eight Sleep</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-01 13:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a19a13f05e567efd8a9389b/master/pass/Review%20Universal%20Audio%20Volt%20876%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Universal Audio Volt 876 USB Audio Interface Review: Pro-Level Polish" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +155,20 @@
                 <span class="time">2026-06-01 04:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a187b03ed6e2578ab7573b3/master/pass/Microsoft%20Is%20Learning%20the%20Wrong%20Lessons%20From%20Apple%20top%20art%20(2)%20052026%20SOURCE%20Microsoft.jpg" alt="Everyone Has Their Targets Set on the MacBook Neo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/" target="_blank">Everyone Has Their Targets Set on the MacBook Neo</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-31 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches" target="_blank">Apple’s strategy for smart glasses is the same as smart watches</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-31 21:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/RedHatInsights/javascript-clients/issues/492" target="_blank">NPM packages from RedHat have been compromised</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-01 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/liquid-theme-system-dsl/en/mediumimage/medium-1779863262373.jpg" alt="Presentation: Theme Systems at Scale: How To Build Highly Customizable Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,20 +214,29 @@
                 <span class="time">2026-06-01 05:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/May-2026-Recap" target="_blank">AI-Driven Security Disclosures, NVIDIA Vera &amp; Linux 7.1 Features That Made An Exciting May</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-01 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KT1AMKQANK7AS4RE8PDMN3N3/hero-image.png" alt="This Exceptionally Fast Asus OLED Gaming Display Is $160 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/asus-rog-strix-oled-xg27acdng-monitor-sale-june-2026?utm_medium=RSS" target="_blank">This Exceptionally Fast Asus OLED Gaming Display Is $160 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-01 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/hatin.jpg?fit=1209%2C809&amp;quality=60&amp;ssl=1" alt="Everybody hating on Florida principal over Fetty Wap yearbook quote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/01/everybody-hating-on-florida-principal-over-fetty-wap-yearbook-quote.html" target="_blank">Everybody hating on Florida principal over Fetty Wap yearbook quote</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-01 12:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/msspark.jpg?fit=1088%2C634&amp;quality=60&amp;ssl=1" alt="Microsoft Surface Ultra laptop features Nvidia&#x27;s new Spark platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,24 +273,6 @@
                 <span class="time">2026-05-31 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/normalgolf.jpg" alt="Jetpack Joyride Designer’s Surprise Golfing Sim Makes A Very Compelling Case For Miserable Controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jetpack-joyride-designers-upcoming-golf-sim-makes-compelling-case-for-miserable-controls-2000700905" target="_blank">Jetpack Joyride Designer’s Surprise Golfing Sim Makes A Very Compelling Case For Miserable Controls</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-31 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/jpg.jpg?fit=1080%2C791&amp;quality=60&amp;ssl=1" alt="Amazingly dangerous tech easily bought online" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/31/amazingly-dangerous-tech-easily-bought-online.html" target="_blank">Amazingly dangerous tech easily bought online</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-31 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 11:54 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 13:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
