@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-01 18:10:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-01 20:23:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, June 01, 2026 - 18:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, June 01, 2026 - 20:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +46,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/553d/live/6bda21a0-5dd9-11f1-a574-05510226f57f.jpg" alt="Iran warns Israeli attacks in Lebanon threaten ceasefire with US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss" target="_blank">Iran warns Israeli attacks in Lebanon threaten ceasefire with US</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-01 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/trump-1-ap-jef-260601_1780318981612_hpMain_4x3t_384.jpg" alt="DOJ says it will abide by ruling that temporarily paused &#x27;Anti-Weaponization Fund&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/doj-abide-court-ruling-temporarily-paused-anti-weaponization/story?id=133493215" target="_blank">DOJ says it will abide by ruling that temporarily paused &#x27;Anti-Weaponization Fund&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-01 19:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/tehran-1-rt-jef-260601_1780318297795_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says crossing Lebanon, Gaza red lines means &#x27;direct war&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855" target="_blank">Iran live updates: Iran says crossing Lebanon, Gaza red lines means &#x27;direct war&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-01 18:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5130/live/a7aef750-5ded-11f1-b682-cf91850925ea.jpg" alt="&#x27;Bereft and beleaguered&#x27; - Mandelson messages reveal criticism of No 10" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwy2431r8xdo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Bereft and beleaguered&#x27; - Mandelson messages reveal criticism of No 10</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-01 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780330893240_now_daily_a_trump_iran_negotiations_260601_S3_1920x1080-tn1zu1.jpg" alt="Iranian media: Tehran suspends U.S. peace talks over Israeli attacks in Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/iranian-media-tehran-suspends-u-s-peace-talks-over-israeli-attacks-in-lebanon-264279109979" target="_blank">Iranian media: Tehran suspends U.S. peace talks over Israeli attacks in Lebanon</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-01 16:21</span>
             </div>
         </div>
 <div class="story">
@@ -61,47 +99,29 @@
                 <span class="time">2026-06-01 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi?traffic_source=rss" target="_blank">Indian PM Modi meets Myanmar military gov’t leader in New Delhi</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-01 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/1/spoiled-insulin-sudan-war-disrupts-drug-supplies-fuelling-smuggling?traffic_source=rss" target="_blank">‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-01 13:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/01/nx-s1-5827041/cancer-vaccine-mrna-melanoma" target="_blank">A cancer vaccine made just for you. mRNA is back and it&#x27;s fighting melanoma</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-01 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity" target="_blank">People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-01 11:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/surface-laptop-ultra-500x500-1780343536.jpeg" alt="Microsoft Surface Laptop Ultra will be among the first Nvidia RTX Spark Arm PCs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/" target="_blank">Microsoft Surface Laptop Ultra will be among the first Nvidia RTX Spark Arm PCs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-01 20:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/" target="_blank">Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-01 20:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +158,20 @@
                 <span class="time">2026-06-01 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/940220/microsoft-ftc-antitrust-investigation-cloud-ai" target="_blank">Microsoft could be the next Big Tech antitrust target</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-01 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a15c96a8c7b58a108decfaf/master/pass/Relaunch%20Best%20Sleep%20Trackers%20052026%20SOURCE%20Oura-Whoop-Eight%20Sleep.jpg" alt="Best Sleep Trackers of 2026: Oura, Whoop, and Eight Sleep" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-sleep-trackers/" target="_blank">Best Sleep Trackers of 2026: Oura, Whoop, and Eight Sleep</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-01 13:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxtzhs9xyxlc5gqijsfm7.jpg" alt="APEX: Agentic Production Execution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/herbertcuba/apex-agentic-production-execution-4gjh" target="_blank">APEX: Agentic Production Execution</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-01 20:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/03/flathub-logo-840x441-1.jpg?resize=406%2C232&amp;ssl=1" alt="Flathub bans AI-coded apps – with some exceptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +179,15 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps" target="_blank">Flathub bans AI-coded apps – with some exceptions</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-06-01 17:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/dynamic-workflows-claude-code/en/headerimage/generatedHeaderImage-1780332135620.jpg" alt="Claude Code Adds Dynamic Workflows for Parallel Agent Coordination" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/dynamic-workflows-claude-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Code Adds Dynamic Workflows for Parallel Agent Coordination</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-01 16:55</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-IWL-WiFi-UHR-Linux-7.2" target="_blank">Intel Preparing WiFi 8 &quot;UHR&quot; Support For Their IWLWIFI Linux Driver</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-01 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/RedHatInsights/javascript-clients/issues/492" target="_blank">NPM packages from RedHat have been compromised</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-01 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/liquid-theme-system-dsl/en/mediumimage/medium-1779863262373.jpg" alt="Presentation: Theme Systems at Scale: How To Build Highly Customizable Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/liquid-theme-system-dsl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Theme Systems at Scale: How To Build Highly Customizable Software</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-01 11:30</span>
             </div>
         </div>
 </div>
@@ -243,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Image-taken-from-Reckless-Bens-YouTube-video-I-got-arrested-because-of-legos-1280x720.jpg" alt="‘Mormon Mafia’ Conspiracy Trends Online After YouTuber Investigating $200,000 Lego Collection Dispute Flees To Mexico Following Arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-wars-lego-collection-reckless-ben-bricks-minifigs-youtube-mormon-mafia-arrest-mexico-2000701091" target="_blank">‘Mormon Mafia’ Conspiracy Trends Online After YouTuber Investigating $200,000 Lego Collection Dispute Flees To Mexico Following Arrest</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-01 19:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Screen-Shot-2026-06-01-at-1.01.12-PM-1280x720.jpg" alt="Overwatch’s Pride Event Broke My Heart (Derogatory)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +299,6 @@
                 <span class="time">2026-06-01 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSZFBHRA2AXYKT3KN5G9D8PH/hero-image.jpg" alt="10 Shows and Movies Like &#x27;Backrooms&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-shows-like-backrooms?utm_medium=RSS" target="_blank">10 Shows and Movies Like &#x27;Backrooms&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-01 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 260 |
-        🔄 Last Updated: 18:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 20:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
