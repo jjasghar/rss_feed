@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-02 01:45:40 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-02 03:01:31 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, June 02, 2026 - 01:45 UTC</div>
+    <div class="newspaper-date">Tuesday, June 02, 2026 - 03:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/2/us-defense-department-bars-journalists-from-its-press-office?traffic_source=rss" target="_blank">US Defense Department bars journalists from its press office</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-02 02:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss" target="_blank">Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-01 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss" target="_blank">Who attended this year’s Israel Day Parade in New York?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-01 21:15</span>
             </div>
         </div>
 </div>
@@ -167,6 +170,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ashg2099/misinformation-doesnt-speak-one-language-our-tools-do-3ifg" target="_blank">Misinformation doesn&#x27;t speak one language. Our tools do.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-02 02:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/X.Org-9-Vulnerabilities-AI" target="_blank">X.Org Server Starts June With Nine New Security Vulnerabilities Discovered Via AI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-02 00:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/mainboard-terminal-heroshot.jpg?resize=406%2C232&amp;ssl=1" alt="Play Catan in your terminal with El Poblador, a FOSS clone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/settlers-of-catan-terminal-game" target="_blank">Play Catan in your terminal with El Poblador, a FOSS clone</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-01 23:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/expressots/expressots-v4-is-in-preview-and-the-new-site-docs-are-live-44df" target="_blank">ExpressoTS v4 is in preview, and the new site + docs are live.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-01 23:05</span>
@@ -188,33 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/java-news-roundup-may25-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Introducing Endive</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-01 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Diamond-Rapids-EDAC-RRL" target="_blank">Intel Xeon Diamond Rapids EDAC Driver Changes Readied For Linux 7.2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-01 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxtzhs9xyxlc5gqijsfm7.jpg" alt="APEX: Agentic Production Execution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/herbertcuba/apex-agentic-production-execution-4gjh" target="_blank">APEX: Agentic Production Execution</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-01 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/03/flathub-logo-840x441-1.jpg?resize=406%2C232&amp;ssl=1" alt="Flathub bans AI-coded apps – with some exceptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps" target="_blank">Flathub bans AI-coded apps – with some exceptions</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-01 17:08</span>
             </div>
         </div>
 </div>
@@ -345,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 01:45 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 03:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
