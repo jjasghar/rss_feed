@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-02 22:00:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-02 23:30:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, June 02, 2026 - 22:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, June 02, 2026 - 23:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/blanche-1-ap-er-260602_1780439897233_hpMain_4x3t_384.jpg" alt="Acting AG Blanche says Trump administration is nixing $1.8B &#x27;Anti-Weaponization Fund&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/acting-ag-blanche-trump-administration-nixing-anti-weaponization/story?id=133528785" target="_blank">Acting AG Blanche says Trump administration is nixing $1.8B &#x27;Anti-Weaponization Fund&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-02 23:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +101,38 @@
                 <span class="time">2026-06-02 18:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site" target="_blank">‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-02 18:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/" target="_blank">Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-02 23:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/bower1-500x500-1780399121.jpg" alt="Male bowerbirds hope to dazzle females with bright human-made items" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/" target="_blank">Male bowerbirds hope to dazzle females with bright human-made items</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-02 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer" target="_blank">God of War Laufey is coming to the PS5</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-02 22:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,33 +160,6 @@
                 <span class="time">2026-06-02 20:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a174ff94b0408da852e53f9/master/pass/pol_doge_GettyImages-1455239189.jpg" alt="He Blew the Whistle on DOGE. Then His Brakes Were Cut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/he-blew-the-whistle-on-doge-then-his-brakes-were-cut/" target="_blank">He Blew the Whistle on DOGE. Then His Brakes Were Cut</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-02 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2252393364-500x500.jpg" alt="Judge blocks part of Trump admin&#x27;s effort to hurt Colorado research center" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/judge-blocks-part-of-trump-admins-effort-to-hurt-colorado-research-center/" target="_blank">Judge blocks part of Trump admin&#x27;s effort to hurt Colorado research center</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-02 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278723900-500x500.jpg" alt="Number of suspected Ebola cases falls by hundreds as testing ramps up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/06/number-of-suspected-ebola-cases-falls-by-hundreds-as-testing-ramps-up/" target="_blank">Number of suspected Ebola cases falls by hundreds as testing ramps up</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-02 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +181,15 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/steam-arm64-snap-stable" target="_blank">Canonical’s Steam Snap for ARM64 is now stable</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-06-02 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-Intelligent-Terminal" target="_blank">Microsoft Announces Open-Source &quot;Intelligent Terminal&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-02 19:18</span>
             </div>
         </div>
 <div class="story">
@@ -200,15 +217,6 @@
                 <span class="title"><a href="https://microsoft.ai/models/mai-code-1-flash/" target="_blank">Microsoft&#x27;s MAI-Code-1-Flash Scores 51% SWE-Bench Pro with Just 5B Active Params</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-02 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/" target="_blank">GitHub Copilot app: The agent-native desktop experience</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-02 17:30</span>
             </div>
         </div>
 </div>
@@ -303,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 39 | 📸 With Images: 265 |
-        🔄 Last Updated: 22:00 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 23:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
