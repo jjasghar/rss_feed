@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-02 19:06:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-02 20:58:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 30 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, June 02, 2026 - 19:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, June 02, 2026 - 20:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/02/nx-s1-5843371/george-santos-kalshi-insider-trading-investigation" target="_blank">DOJ is investigating former congressman George Santos for insider trading on Kalshi</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-02 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/todd-blanche-2-gty-gmh-260521_1779390408966_hpMain_4x3t_384.jpg" alt="Acting AG Blanche says Trump administration is nixing &#x27;Anti-Weaponization Fund&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/acting-ag-blanche-trump-administration-nixing-anti-weaponization/story?id=133528785" target="_blank">Acting AG Blanche says Trump administration is nixing &#x27;Anti-Weaponization Fund&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-02 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/2/milestone-macron-opens-paris-monument-honouring-rwanda-genocide-victims?traffic_source=rss" target="_blank">‘Milestone’: Macron opens Paris monument honouring Rwanda genocide victims</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-02 20:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +103,38 @@
                 <span class="time">2026-06-02 18:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-1-ap-jef-260601_1780318981612_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says &#x27;one never knows&#x27; where negotiations will lead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855" target="_blank">Iran live updates: Trump says &#x27;one never knows&#x27; where negotiations will lead</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-02 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order" target="_blank">Trump signs AI safety order seeking voluntary review of new models</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-02 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e46e/live/76e7ff20-5e7b-11f1-89a3-d1f559421220.jpg" alt="Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-02 15:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/00_Title-Page-scaled-1-500x500.png" alt="Microsoft&#x27;s Project Solara is an Android OS designed for agents instead of apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/" target="_blank">Microsoft&#x27;s Project Solara is an Android OS designed for agents instead of apps</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-02 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/" target="_blank">Cyberdecks are having a moment, rejecting big tech surveillance with style and substance</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-02 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a174ff94b0408da852e53f9/master/pass/pol_doge_GettyImages-1455239189.jpg" alt="He Blew the Whistle on DOGE. Then His Brakes Were Cut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/he-blew-the-whistle-on-doge-then-his-brakes-were-cut/" target="_blank">He Blew the Whistle on DOGE. Then His Brakes Were Cut</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-02 19:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2252393364-500x500.jpg" alt="Judge blocks part of Trump admin&#x27;s effort to hurt Colorado research center" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,38 +162,29 @@
                 <span class="time">2026-06-02 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/11/newglenn1-500x500.jpg" alt="Blue Origin vows to fly its New Glenn rocket &quot;before the end of this year&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/" target="_blank">Blue Origin vows to fly its New Glenn rocket &quot;before the end of this year&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-02 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/02/how-europes-ai-strategy-diverges-from-silicon-valleys/" target="_blank">How Europe’s AI strategy diverges from Silicon Valley’s</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-02 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/" target="_blank">ZeroDrift raises $10 million to protect AI models from themselves</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-02 12:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/druid628/the-five-engineering-archetypes-290e" target="_blank">The Five Engineering Archetypes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-02 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/03/steam-snap.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical’s Steam Snap for ARM64 is now stable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/steam-arm64-snap-stable" target="_blank">Canonical’s Steam Snap for ARM64 is now stable</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-02 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7ngj9w5qlfmcmxuel5e.png" alt="How URL Shorteners Generate Unique Links Instantly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +219,6 @@
                 <span class="title"><a href="https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/" target="_blank">GitHub Copilot app: The agent-native desktop experience</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-06-02 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!vg8z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2eb13752-d141-4958-948f-223fa5cf58fa_1024x559.png" alt="Ideas: slow down to speed up when working with AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/ideas-slow-down-to-speed-up-when" target="_blank">Ideas: slow down to speed up when working with AI agents</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-06-02 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/cachyos-linux-flavors" target="_blank">Benchmarking The Different CachyOS Linux Kernel Flavors</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-02 14:40</span>
             </div>
         </div>
 </div>
@@ -308,22 +308,13 @@
                 <span class="time">2026-06-02 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/01/my-father-s-house" target="_blank">My Father&#x27;s House</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-01 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 265 |
-        🔄 Last Updated: 19:06 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 265 |
+        🔄 Last Updated: 20:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
