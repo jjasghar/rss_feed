@@ -1,44 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-02 11:25:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-02 13:05:56 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 35 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, June 02, 2026 - 11:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, June 02, 2026 - 13:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,12 +44,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/02/g-s1-125222/ebola-outbreak-prevention-symptoms" target="_blank">How Ebola kills -- and what it takes to stop it</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-02 12:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/2/southampton-back-spygate-eckert-despite-worlds-most-lucrative-game-miss?traffic_source=rss" target="_blank">Southampton backs ‘spygate’ Eckert despite world’s most lucrative game miss</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-02 12:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7406/live/f3072780-5e6b-11f1-8b8c-6d33e1d5abb6.jpg" alt="Murdered student Henry Nowak told police &#x27;I can&#x27;t breathe&#x27; while handcuffed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/crlpyw05l75o?at_medium=RSS&at_campaign=rss" target="_blank">Murdered student Henry Nowak told police &#x27;I can&#x27;t breathe&#x27; while handcuffed</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-02 11:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780399110080_tdy_news_7a_kreutz_key_primaries_california_260602_S3_1920x1080-3jfnur.jpg" alt="Voters Head to Polls in Key States, Setting the Stage for Midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/voters-head-to-polls-in-key-states-setting-the-stage-for-midterms-264339013948" target="_blank">Voters Head to Polls in Key States, Setting the Stage for Midterms</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-02 11:18</span>
             </div>
         </div>
 <div class="story">
@@ -81,38 +97,29 @@
                 <span class="time">2026-06-02 10:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/02/nx-s1-5844100/eu-migration-deal" target="_blank">EU strikes migration deal for more deportations and detention centers abroad</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-02 09:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260506-california-debate-vsb-0008-dc4fb6.jpg" alt="Democratic battles and incumbents on defense: What to watch in Tuesday’s primaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/june-2-primaries-nj-california-iowa-new-mexico-south-dakota-montana-rcna347465" target="_blank">Democratic battles and incumbents on defense: What to watch in Tuesday’s primaries</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-02 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa" target="_blank">Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-02 07:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/" target="_blank">ZeroDrift raises $10 million to protect AI models from themselves</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-02 12:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Helios-kick-stage-500x500.jpg" alt="Impulse Space raises $500 million as orbital maneuvering race heats up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/impulse-space-raises-500-million-as-orbital-maneuvering-race-heats-up/" target="_blank">Impulse Space raises $500 million as orbital maneuvering race heats up</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-02 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6849aaabb59845f1ca425cfc/master/pass/Prime%20Day%20Primer.png" alt="How to Shop Like a Pro During Amazon Prime Day (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,29 +156,29 @@
                 <span class="time">2026-06-01 23:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2254059922-500x500.jpg" alt="AI costs how much? GitHub Copilot users react to new usage-based pricing system." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/" target="_blank">AI costs how much? GitHub Copilot users react to new usage-based pricing system.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-01 22:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/" target="_blank">Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-01 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/incident-response-mitigate/en/mediumimage/kyle-lexmond-medium-1779869148329.jpg" alt="Presentation: The Human Toll of Incidents &amp; Ways To Mitigate It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/incident-response-mitigate/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Human Toll of Incidents &amp; Ways To Mitigate It</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-02 12:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVK-Mesh-Shaders-Merged" target="_blank">Open-Source NVIDIA Vulkan Driver &quot;NVK&quot; Merges Mesh Shader Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-02 12:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,24 +213,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17352512/almalinux-day-los-angeles" target="_blank">AlmaLinux Day is Coming to Hollywood&amp;#x27;s Backyard This July</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-06-02 08:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/06/02/be-a-player-in-the-international-ai-game/" target="_blank">What it takes to be a player in the international AI game​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​​​﻿​﻿‌‍​‌‌‍​‍‌‍​‌​﻿‌﻿​﻿‌‌​‍﻿‌‌‍‌‍​﻿​‍‌‍​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿‌‍‌‍‌​​﻿‍‌​‍﻿‌​﻿‍​​﻿‌‌​﻿​﻿​﻿‌​​‍﻿‌​﻿‌​​﻿​﻿​﻿‍​​﻿​﻿​﻿‍‌​﻿​​‌‍‌‌​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍​​﻿‍‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​​​﻿​﻿‌‍​‌‌‍​‍‌‍​‌​﻿‌﻿​﻿‌‌​‍﻿‌‌‍‌‍​﻿​‍‌‍​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿‌‍‌‍‌​​﻿‍‌​‍﻿‌​﻿‍​​﻿‌‌​﻿​﻿​﻿‌​​‍﻿‌​﻿‌​​﻿​﻿​﻿‍​​﻿​﻿​﻿‍‌​﻿​​‌‍‌‌​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍​​﻿‍‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-06-02 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/halakabir234hub/beyond-basic-mints-building-multi-extension-revocable-tokens-on-solana-hala-kabir-2l9" target="_blank">Beyond Basic Mints: Building Multi-Extension &amp; Revocable Tokens on Solana 🚀-Hala Kabir</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-02 07:27</span>
             </div>
         </div>
 </div>
@@ -336,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 11:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 13:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
