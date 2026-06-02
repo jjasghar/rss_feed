@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-06-02 20:58:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-02 22:00:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 2 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, June 02, 2026 - 20:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, June 02, 2026 - 22:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +99,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer" target="_blank">Remedy’s Control sequel launches in September</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-02 21:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/00_Title-Page-scaled-1-500x500.png" alt="Microsoft&#x27;s Project Solara is an Android OS designed for agents instead of apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -151,15 +150,6 @@
                 <span class="title"><a href="https://arstechnica.com/health/2026/06/number-of-suspected-ebola-cases-falls-by-hundreds-as-testing-ramps-up/" target="_blank">Number of suspected Ebola cases falls by hundreds as testing ramps up</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-02 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a1d9450a740ebe4cf25defc/master/pass/horizontal%20copy.jpg" alt="Partiful Is Putting Ticket Payments on Its Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/partiful-is-putting-ticket-payments-on-its-platform/" target="_blank">Partiful Is Putting Ticket Payments on Its Platform</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-02 16:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +231,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KT50EHSAWGA4GF0Y76FCH3JS/hero-image.jpg" alt="You Should Install the June Android Security Patch ASAP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/install-the-june-android-security-patch-asap?utm_medium=RSS" target="_blank">You Should Install the June Android Security Patch ASAP</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-02 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KST5XN44CHHMNQYZ0CNBB6M0/hero-image.jpg" alt="How to Watch WWDC 2026 Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -285,15 +284,6 @@
                 <span class="time">2026-06-02 15:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KT3FR1C73MSHEZZ7BVEHCMPY/hero-image.jpg" alt="These Lawn and Garden Tools Are up to 47% Off Right Now at Home Depot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/lawn-garden-tools-home-depot-sale-june-2026?utm_medium=RSS" target="_blank">These Lawn and Garden Tools Are up to 47% Off Right Now at Home Depot</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-02 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 265 |
-        🔄 Last Updated: 20:58 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 39 | 📸 With Images: 265 |
+        🔄 Last Updated: 22:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
