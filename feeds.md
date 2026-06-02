@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-02 07:30:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-02 09:20:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, June 02, 2026 - 07:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, June 02, 2026 - 09:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/02/nx-s1-5844100/eu-migration-deal" target="_blank">EU strikes migration deal for more deportations and detention centers abroad</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-02 09:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260506-california-debate-vsb-0008-dc4fb6.jpg" alt="Democratic battles and incumbents on defense: What to watch in Tuesday’s primaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/june-2-primaries-nj-california-iowa-new-mexico-south-dakota-montana-rcna347465" target="_blank">Democratic battles and incumbents on defense: What to watch in Tuesday’s primaries</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-02 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa" target="_blank">Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-02 07:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1555/live/457bb460-5e47-11f1-b682-cf91850925ea.jpg" alt="Massive Russian attack on cities across Ukraine kills at least 13 people" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +100,20 @@
                 <span class="time">2026-06-02 06:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/hegsesth-5-gty-gmh-260505_1777986178427_hpMain_2_4x3t_384.jpg" alt="Hegseth blocks promotion of several Navy officers to 1-star rank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/hegseth-blocks-promotion-navy-officers-1-star-rank/story?id=133498412" target="_blank">Hegseth blocks promotion of several Navy officers to 1-star rank</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-02 05:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/2/us-defense-department-bars-journalists-from-its-press-office?traffic_source=rss" target="_blank">US Defense Department bars journalists from its press office</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-02 02:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss" target="_blank">Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-02 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a1dc121049af8e9dc8f74ed/master/pass/Ameer01_Lead.jpg" alt="Meet the Accidental Editor in Chief of Muslim Media" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meet-the-accidental-editor-in-chief-of-muslim-media/" target="_blank">Meet the Accidental Editor in Chief of Muslim Media</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-02 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +159,20 @@
                 <span class="time">2026-06-01 20:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/" target="_blank">Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-01 20:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17352512/almalinux-day-los-angeles" target="_blank">AlmaLinux Day is Coming to Hollywood&amp;#x27;s Backyard This July</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-02 08:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/X.Org-9-Vulnerabilities-AI" target="_blank">X.Org Server Starts June With Nine New Security Vulnerabilities Discovered Via AI</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-02 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/mainboard-terminal-heroshot.jpg?resize=406%2C232&amp;ssl=1" alt="Play Catan in your terminal with El Poblador, a FOSS clone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/settlers-of-catan-terminal-game" target="_blank">Play Catan in your terminal with El Poblador, a FOSS clone</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-01 23:09</span>
             </div>
         </div>
 </div>
@@ -326,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 07:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 09:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
