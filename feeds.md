@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-02 13:05:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-02 15:17:24 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, June 02, 2026 - 13:06 UTC</div>
+    <div class="newspaper-date">Tuesday, June 02, 2026 - 15:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pulte-ap-jef-260602_1780407094923_hpMain_4x3t_384.jpg" alt="Trump taps housing finance director Pulte as acting director of national intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-taps-bill-pulte-acting-director-national-intelligence/story?id=133516620" target="_blank">Trump taps housing finance director Pulte as acting director of national intelligence</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-02 13:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +98,29 @@
                 <span class="time">2026-06-02 11:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4d6/live/f20d5a00-5e72-11f1-89a3-d1f559421220.jpg" alt="Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-02 10:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/11/newglenn1-500x500.jpg" alt="Blue Origin vows to fly its New Glenn rocket &quot;before the end of this year&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/" target="_blank">Blue Origin vows to fly its New Glenn rocket &quot;before the end of this year&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-02 15:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/02/how-europes-ai-strategy-diverges-from-silicon-valleys/" target="_blank">How Europe’s AI strategy diverges from Silicon Valley’s</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-02 15:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,6 +140,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6a1a30541b85497e249c551b/master/pass/The%20Best%20Alexa%20Speakers%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="4 Best Alexa Speakers (2026): Echo Dot Max, Echo Dot, Echo Show 11" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/" target="_blank">4 Best Alexa Speakers (2026): Echo Dot Max, Echo Dot, Echo Show 11</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-02 11:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6849aaabb59845f1ca425cfc/master/pass/Prime%20Day%20Primer.png" alt="How to Shop Like a Pro During Amazon Prime Day (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -129,38 +157,29 @@
                 <span class="time">2026-06-02 11:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/02/pacific-fusions-latest-prototype-packs-440-gigawatts-into-an-80-nanosecond-burst/" target="_blank">Pacific Fusion’s latest prototype packs 440 gigawatts into an 80-nanosecond burst</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-02 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a1dc121049af8e9dc8f74ed/master/pass/Ameer01_Lead.jpg" alt="Meet the Accidental Editor in Chief of Muslim Media" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meet-the-accidental-editor-in-chief-of-muslim-media/" target="_blank">Meet the Accidental Editor in Chief of Muslim Media</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-02 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/" target="_blank">How to make the Startup Battlefield Top 20 — and what every company gets regardless</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-01 23:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/cachyos-linux-flavors" target="_blank">Benchmarking The Different CachyOS Linux Kernel Flavors</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-02 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.ycombinator.com/item?id=48370330" target="_blank">Please don&#x27;t spam people looking for employment. It&#x27;s just cruel</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-02 13:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/incident-response-mitigate/en/mediumimage/kyle-lexmond-medium-1779869148329.jpg" alt="Presentation: The Human Toll of Incidents &amp; Ways To Mitigate It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -182,37 +201,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/what-is-infiniband" target="_blank">What is InfiniBand?</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-02 12:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kohanevich/ipv4-in-2026-three-practical-positions-for-ripe-operators-n88" target="_blank">IPv4 in 2026: Three Practical Positions for RIPE Operators</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-02 11:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mir-2.27-Released" target="_blank">Mir 2.27 Released With More Wayland Rust Code</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-02 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ianthehenry.com/posts/why-janet/" target="_blank">Why Janet? (2023)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-02 09:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17352512/almalinux-day-los-angeles" target="_blank">AlmaLinux Day is Coming to Hollywood&amp;#x27;s Backyard This July</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-02 08:50</span>
             </div>
         </div>
 </div>
@@ -243,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/P12889_73-10190-101_06.jpg" alt="Lego Unveils 12 New Pokémon-Themed Sets, But It Costs At Least $70 To Use All Their Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-pokemon-smart-play-expensive-2000701481" target="_blank">Lego Unveils 12 New Pokémon-Themed Sets, But It Costs At Least $70 To Use All Their Features</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-02 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KT3FR1C73MSHEZZ7BVEHCMPY/hero-image.jpg" alt="These Lawn and Garden Tools Are up to 47% Off Right Now at Home Depot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/lawn-garden-tools-home-depot-sale-june-2026?utm_medium=RSS" target="_blank">These Lawn and Garden Tools Are up to 47% Off Right Now at Home Depot</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-02 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2366323233-e1775492481156.jpg?fit=768%2C433&amp;quality=60&amp;ssl=1" alt="Florida sues OpenAI over ChatGPT&#x27;s alleged body count" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +298,6 @@
                 <span class="time">2026-06-01 21:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSNGFXQDZ1MY2786ZNF5Q2BW/hero-image.jpg" alt="10 Hacks Every Venmo User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hacks-every-venmo-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Venmo User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-01 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Image-taken-from-Reckless-Bens-YouTube-video-I-got-arrested-because-of-legos-1280x720.jpg" alt="‘Mormon Mafia’ Conspiracy Trends Online After YouTuber Investigating $200,000 Lego Collection Dispute Flees To Mexico Following Arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-lego-collection-reckless-ben-bricks-minifigs-youtube-mormon-mafia-arrest-mexico-2000701091" target="_blank">‘Mormon Mafia’ Conspiracy Trends Online After YouTuber Investigating $200,000 Lego Collection Dispute Flees To Mexico Following Arrest</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-01 19:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 13:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 15:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
