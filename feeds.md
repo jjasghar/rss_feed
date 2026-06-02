@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-02 00:30:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-02 01:45:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, June 02, 2026 - 00:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, June 02, 2026 - 01:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -63,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Health/ebola-8-rt-gmh-260525_1779720352149_hpMain_4x3t_384.jpg" alt="Ebola outbreak in Africa &#x27;likely far worse&#x27; than official figures suggest, IRC warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Health/ebola-outbreak-spreading-africa-worse-official-figures-suggest/story?id=133492636" target="_blank">Ebola outbreak in Africa &#x27;likely far worse&#x27; than official figures suggest, IRC warns</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-01 21:36</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -89,20 +99,20 @@
                 <span class="time">2026-06-01 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780344718395_now_daily_b_zanona_fund_drop_260601_S3_1920x1080-213a2c.jpg" alt="Trump to drop controversial &#x27;anti-weaponization&#x27; fund" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-to-drop-controversial-anti-weaponization-fund-264301125915" target="_blank">Trump to drop controversial &#x27;anti-weaponization&#x27; fund</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-01 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/" target="_blank">How to make the Startup Battlefield Top 20 — and what every company gets regardless</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-01 23:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2254059922-500x500.jpg" alt="AI costs how much? GitHub Copilot users react to new usage-based pricing system." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/" target="_blank">Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-01 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/" target="_blank">A new app, The Mall, is building a universal feed for online shopping</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-01 17:50</span>
             </div>
         </div>
 </div>
@@ -304,6 +305,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/01/my-father-s-house" target="_blank">My Father&#x27;s House</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-01 19:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1780279940-20260601.png" alt="Saturday Morning Breakfast Cereal - Shorthand" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -335,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 00:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
