@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-02 15:17:24 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-02 17:28:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, June 02, 2026 - 15:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, June 02, 2026 - 17:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e46e/live/76e7ff20-5e7b-11f1-89a3-d1f559421220.jpg" alt="Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-02 15:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/pulte-ap-jef-260602_1780407094923_hpMain_4x3t_384.jpg" alt="Trump taps housing finance director Pulte as acting director of national intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,6 +73,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-kenya-ebola-quarantine_7263033.jpg?20260601145254" alt="Two dead in Kenya after protests against US planned Ebola quarantine zone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/two-dead-in-kenya-after-protests-against-us-planned-ebola-quarantine-zone-as-court-blocks-construction-13550041" target="_blank">Two dead in Kenya after protests against US planned Ebola quarantine zone</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-02 12:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -72,30 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7406/live/f3072780-5e6b-11f1-8b8c-6d33e1d5abb6.jpg" alt="Murdered student Henry Nowak told police &#x27;I can&#x27;t breathe&#x27; while handcuffed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crlpyw05l75o?at_medium=RSS&at_campaign=rss" target="_blank">Murdered student Henry Nowak told police &#x27;I can&#x27;t breathe&#x27; while handcuffed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-02 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780399110080_tdy_news_7a_kreutz_key_primaries_california_260602_S3_1920x1080-3jfnur.jpg" alt="Voters Head to Polls in Key States, Setting the Stage for Midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/oz_brief-q1xhaa.jpg" alt="White House holds press briefing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/voters-head-to-polls-in-key-states-setting-the-stage-for-midterms-264339013948" target="_blank">Voters Head to Polls in Key States, Setting the Stage for Midterms</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-white-house-holds-press-briefing-263567429754" target="_blank">White House holds press briefing</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-02 11:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/02/g-s1-125326/up-first-newsletter-anti-weaponization-fund-us-primaries-iran-israel-hezbollah" target="_blank">DOJ will pause $1.8 billion fund, per court order. And, key primaries to watch today</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-02 11:10</span>
+                <span class="time">2026-06-02 11:39</span>
             </div>
         </div>
 </div>
@@ -103,6 +104,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278723900-500x500.jpg" alt="Number of suspected Ebola cases falls by hundreds as testing ramps up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/06/number-of-suspected-ebola-cases-falls-by-hundreds-as-testing-ramps-up/" target="_blank">Number of suspected Ebola cases falls by hundreds as testing ramps up</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-02 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a1d9450a740ebe4cf25defc/master/pass/horizontal%20copy.jpg" alt="Partiful Is Putting Ticket Payments on Its Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/partiful-is-putting-ticket-payments-on-its-platform/" target="_blank">Partiful Is Putting Ticket Payments on Its Platform</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-02 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/11/newglenn1-500x500.jpg" alt="Blue Origin vows to fly its New Glenn rocket &quot;before the end of this year&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +158,20 @@
                 <span class="time">2026-06-02 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a1a30541b85497e249c551b/master/pass/The%20Best%20Alexa%20Speakers%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="4 Best Alexa Speakers (2026): Echo Dot Max, Echo Dot, Echo Show 11" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/" target="_blank">4 Best Alexa Speakers (2026): Echo Dot Max, Echo Dot, Echo Show 11</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-02 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6849aaabb59845f1ca425cfc/master/pass/Prime%20Day%20Primer.png" alt="How to Shop Like a Pro During Amazon Prime Day (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-prime-day-2026-tips-to-find-best-deals/" target="_blank">How to Shop Like a Pro During Amazon Prime Day (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-02 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!vg8z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2eb13752-d141-4958-948f-223fa5cf58fa_1024x559.png" alt="Ideas: slow down to speed up when working with AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/ideas-slow-down-to-speed-up-when" target="_blank">Ideas: slow down to speed up when working with AI agents</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-06-02 16:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +217,6 @@
                 <span class="time">2026-06-02 12:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kohanevich/ipv4-in-2026-three-practical-positions-for-ripe-operators-n88" target="_blank">IPv4 in 2026: Three Practical Positions for RIPE Operators</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-02 11:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,20 +231,29 @@
                 <span class="time">2026-06-01 17:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html" target="_blank">Vulnerability Disclosure in the Age of AI</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-01 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/toystorycollect-1280x720.jpg" alt="All Those Toy Story Games You Loved As A Kid Are Getting Remastered" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/all-those-toy-story-games-you-loved-as-a-kid-are-getting-remastered-2000701571" target="_blank">All Those Toy Story Games You Loved As A Kid Are Getting Remastered</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-02 17:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Screenshot-2026-06-01-142948.png?fit=1592%2C914&amp;quality=55&amp;ssl=1" alt="The art is fake, the boss is blind, and the job is yours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/02/the-art-is-fake-the-boss-is-blind-and-the-job-is-yours.html" target="_blank">The art is fake, the boss is blind, and the job is yours</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-02 16:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/P12889_73-10190-101_06.jpg" alt="Lego Unveils 12 New Pokémon-Themed Sets, But It Costs At Least $70 To Use All Their Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,29 +290,20 @@
                 <span class="time">2026-06-01 22:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-01 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/11/melania-beschizza.jpg?fit=1786%2C1195&amp;quality=60&amp;ssl=1" alt="A deleted recording blows up Melania&#x27;s Epstein story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/01/a-deleted-recording-blows-up-melanias-epstein-story.html" target="_blank">A deleted recording blows up Melania&#x27;s Epstein story</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-01 21:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1780286961-20260602.png" alt="Saturday Morning Breakfast Cereal - Marshmallow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/marshmallow" target="_blank">Saturday Morning Breakfast Cereal - Marshmallow</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-02 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -312,22 +313,13 @@
                 <span class="time">2026-06-01 19:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1780279940-20260601.png" alt="Saturday Morning Breakfast Cereal - Shorthand" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/shorthand" target="_blank">Saturday Morning Breakfast Cereal - Shorthand</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-01 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 15:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 39 | 📸 With Images: 267 |
+        🔄 Last Updated: 17:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
