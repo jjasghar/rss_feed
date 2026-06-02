@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-02 05:30:00 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-06-02 07:30:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, June 02, 2026 - 05:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, June 02, 2026 - 07:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1555/live/457bb460-5e47-11f1-b682-cf91850925ea.jpg" alt="Massive Russian attack on cities across Ukraine kills at least 13 people" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss" target="_blank">Massive Russian attack on cities across Ukraine kills at least 13 people</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-02 07:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/2/south-africas-world-cup-delegation-departs-for-mexico-without-coach?traffic_source=rss" target="_blank">South Africa’s World Cup delegation departs for Mexico without coach</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-02 06:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/02/g-s1-125314/us-military-strikes-on-alleged-drug-boats" target="_blank">What to know about US military strikes on alleged drug boats</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-02 06:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/hegsesth-5-gty-gmh-260505_1777986178427_hpMain_2_4x3t_384.jpg" alt="Hegseth blocks promotion of several Navy officers to 1-star rank" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/hegseth-blocks-promotion-navy-officers-1-star-rank/story?id=133498412" target="_blank">Hegseth blocks promotion of several Navy officers to 1-star rank</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-02 05:33</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -58,42 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss" target="_blank">Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-02 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-1-ap-jef-260601_1780318981612_hpMain_4x3t_384.jpg" alt="DOJ, amid uproar, says it will follow ruling that paused &#x27;Anti-Weaponization Fund&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/doj-abide-court-ruling-temporarily-paused-anti-weaponization/story?id=133493215" target="_blank">DOJ, amid uproar, says it will follow ruling that paused &#x27;Anti-Weaponization Fund&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-01 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/ebola-8-rt-gmh-260525_1779720352149_hpMain_4x3t_384.jpg" alt="Ebola outbreak in Africa &#x27;likely far worse&#x27; than official figures suggest, IRC warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Health/ebola-outbreak-spreading-africa-worse-official-figures-suggest/story?id=133492636" target="_blank">Ebola outbreak in Africa &#x27;likely far worse&#x27; than official figures suggest, IRC warns</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-01 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza" target="_blank">Iran halts talks with U.S. over Israeli actions in Lebanon, Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-01 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/553d/live/6bda21a0-5dd9-11f1-a574-05510226f57f.jpg" alt="Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss" target="_blank">Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-01 21:27</span>
             </div>
         </div>
 </div>
@@ -173,6 +175,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/halakabir234hub/beyond-basic-mints-building-multi-extension-revocable-tokens-on-solana-hala-kabir-2l9" target="_blank">Beyond Basic Mints: Building Multi-Extension &amp; Revocable Tokens on Solana 🚀-Hala Kabir</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-02 07:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/google-workspace-cli/en/headerimage/generatedHeaderImage-1780314884182.jpg" alt="Google Workspace CLI: Unified Command-Line Tool Built for Humans and AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/google-workspace-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Workspace CLI: Unified Command-Line Tool Built for Humans and AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-02 06:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ashg2099/misinformation-doesnt-speak-one-language-our-tools-do-3ifg" target="_blank">Misinformation doesn&#x27;t speak one language. Our tools do.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-02 02:50</span>
@@ -194,24 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/settlers-of-catan-terminal-game" target="_blank">Play Catan in your terminal with El Poblador, a FOSS clone</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-06-01 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/expressots/expressots-v4-is-in-preview-and-the-new-site-docs-are-live-44df" target="_blank">ExpressoTS v4 is in preview, and the new site + docs are live.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-01 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/uzoma_uche_3ec83974b4a8a5/treat-ai-coding-sessions-as-project-infrastructure-4o51" target="_blank">Treat AI coding sessions as project infrastructure</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-01 22:36</span>
             </div>
         </div>
 </div>
@@ -319,22 +321,13 @@
                 <span class="time">2026-06-01 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/01/my-father-s-house" target="_blank">My Father&#x27;s House</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-01 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 05:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 07:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
