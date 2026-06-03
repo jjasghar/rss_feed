@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-03 09:30:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-06-03 11:33:16 UTC -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, June 03, 2026 - 09:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, June 03, 2026 - 11:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbe6/live/2a206e80-5f10-11f1-a57e-cf86727d60ac.jpg" alt="Two arrests as 11 officers hurt in Nowak protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czd29nm161mo?at_medium=RSS&at_campaign=rss" target="_blank">Two arrests as 11 officers hurt in Nowak protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-03 11:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/3/morocco-world-cup-2026-preview-players-to-watch-group-and-squad-list?traffic_source=rss" target="_blank">Morocco World Cup 2026 preview: Players to watch, group and squad list</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-03 10:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +99,29 @@
                 <span class="time">2026-06-03 07:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7499/live/6a7fd000-5f11-11f1-89a3-d1f559421220.jpg" alt="US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-03 06:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/aje-onl-nf_sv_clashes-in-uk-over-muder-of-henry-nowak-030626?traffic_source=rss" target="_blank">Outrage over UK police arrest video of dying student</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-03 06:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-539781130-500x500.jpg" alt="Beans use an immune receptor to call in airstrikes on caterpillars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/" target="_blank">Beans use an immune receptor to call in airstrikes on caterpillars</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-03 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a1f958fbb0dd697e44abd3e/master/pass/Courtesy-of-Nvidia.jpg" alt="Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/" target="_blank">Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-03 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +158,38 @@
                 <span class="time">2026-06-02 23:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer" target="_blank">God of War Laufey is coming to the PS5</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-02 22:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer" target="_blank">Remedy’s Control sequel launches in September</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-02 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/choosing-ai-copilot/en/mediumimage/medium-1779867439150.jpg" alt="Presentation: Choosing Your AI Copilot: Maximizing Developer Productivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/choosing-ai-copilot/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Choosing Your AI Copilot: Maximizing Developer Productivity</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-03 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/amd-rocm-on-ubuntu" target="_blank">AI with AMD ROCm on Ubuntu: your questions answered</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-03 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.nns.ee/2026/06/03/katana-badusb/" target="_blank">Hacking your PC using your speaker without ever touching it</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-03 10:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/06/nodejs-release-changes/en/headerimage/generatedHeaderImage-1780400494858.jpg" alt="Node.js Moves to One Major Release Per Year, Starting with Node 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,33 +217,6 @@
                 <span class="time">2026-06-03 00:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/c0dejedi/nbd-vram" target="_blank">Use your Nvidia GPU&#x27;s VRAM as swap space on Linux</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-02 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/druid628/the-five-engineering-archetypes-290e" target="_blank">The Five Engineering Archetypes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-02 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/03/steam-snap.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical’s Steam Snap for ARM64 is now stable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/steam-arm64-snap-stable" target="_blank">Canonical’s Steam Snap for ARM64 is now stable</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-02 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,9 +226,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html" target="_blank">The Intersection of Encryption and AI</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html" target="_blank">AI Used to Decrypt Medieval Ciphers</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-02 11:06</span>
+                <span class="time">2026-06-03 11:04</span>
             </div>
         </div>
 </div>
@@ -237,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/old-gamer-1280x720.jpg" alt="212 Million Americans Play Video Games, Including A Third Of Those Aged Over 80" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/esa-essential-facts-survey-gaming-demographics-mobile-boomers-2000701941" target="_blank">212 Million Americans Play Video Games, Including A Third Of Those Aged Over 80</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-03 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KR1C4WFPXVMB6B181KKD1DMP/hero-image.png" alt="Lifehacker Is Hosting a &#x27;Big Guessing Game&#x27; for Apple&#x27;s 2026 Announcements" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +290,6 @@
                 <span class="time">2026-06-02 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/backrooms.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A 20-year-old YouTuber&#x27;s horror film just broke A24&#x27;s box office record" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/02/a-20-year-old-youtubers-horror-film-just-broke-a24s-box-office-record.html" target="_blank">A 20-year-old YouTuber&#x27;s horror film just broke A24&#x27;s box office record</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-02 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 09:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 11:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
