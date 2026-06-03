@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-03 07:33:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-03 09:30:11 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, June 03, 2026 - 07:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, June 03, 2026 - 09:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +47,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/hezbollah-video-shows-attack-on-israeli-troops-at-lebanons-beaufort-castle?traffic_source=rss" target="_blank">Hezbollah video shows attack on Israeli troops at Lebanon’s Beaufort Castle</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-03 09:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/mayor-rt-gty-er-260601_1780344305407_hpMain_4x3t_384.jpg" alt="Karen Bass advances in Los Angeles mayoral race as opponent currently remains unclear" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/los-angeles-mayoral-election-2026/story?id=133482839" target="_blank">Karen Bass advances in Los Angeles mayoral race as opponent currently remains unclear</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-03 09:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/03/nx-s1-5843359/white-house-gov-website-alien-immigration" target="_blank">The White House&#x27;s new site about &#x27;aliens&#x27; has nothing to do with UFOs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-03 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbe6/live/2a206e80-5f10-11f1-a57e-cf86727d60ac.jpg" alt="Two arrests and calls for calm as Nowak protests erupt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/czd29nm161mo?at_medium=RSS&at_campaign=rss" target="_blank">Two arrests and calls for calm as Nowak protests erupt</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-03 07:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7499/live/6a7fd000-5f11-11f1-89a3-d1f559421220.jpg" alt="US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-03 06:54</span>
             </div>
         </div>
 <div class="story">
@@ -60,47 +100,20 @@
                 <span class="time">2026-06-03 06:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260529-Los-Angeles-Mayor-vsb-2135-6d734e.jpg" alt="Los Angeles Mayor Karen Bass pulled into a runoff in her race for a second term" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/los-angeles-mayor-karen-bass-pulled-runoff-race-second-term-rcna347482" target="_blank">Los Angeles Mayor Karen Bass pulled into a runoff in her race for a second term</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-03 05:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/3/tunisian-court-sentences-ennahdha-leader-rached-ghannouchi-to-life-in-prison?traffic_source=rss" target="_blank">Tunisian court sentences Ennahdha leader Rached Ghannouchi to life in prison</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-03 02:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260602-josh-turek-mb-1507-38a919.jpg" alt="Josh Turek wins Democratic primary in battleground Iowa Senate race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/iowa-senate-election-primary-winners-turek-hinson-rcna347468" target="_blank">Josh Turek wins Democratic primary in battleground Iowa Senate race</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-03 01:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss" target="_blank">US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-03 01:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/942296/google-water-commitments-data-centers" target="_blank">AI has a water problem. Google thinks it has a fix</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-03 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer" target="_blank">Remedy’s Control sequel launches in September</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-02 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/00_Title-Page-scaled-1-500x500.png" alt="Microsoft&#x27;s Project Solara is an Android OS designed for agents instead of apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/" target="_blank">Microsoft&#x27;s Project Solara is an Android OS designed for agents instead of apps</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-02 20:47</span>
             </div>
         </div>
 </div>
@@ -293,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/03/the-three-mouseketeers" target="_blank">The Three Mouseketeers</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-03 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1780286961-20260602.png" alt="Saturday Morning Breakfast Cereal - Marshmallow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -306,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 07:33 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 09:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
