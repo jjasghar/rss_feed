@@ -1,35 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-06-03 20:59:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-03 22:02:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, June 03, 2026 - 20:59 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, June 03, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-5-ap-er-260603_1780518781105_hpMain_4x3t_384.jpg" alt="Iran live updates: House adopts war powers resolution in rebuke to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855" target="_blank">Iran live updates: House adopts war powers resolution in rebuke to Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-03 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss" target="_blank">Kuwait labels Iran attack ‘heinous aggression’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-03 21:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +92,29 @@
                 <span class="time">2026-06-03 18:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Kuwait-airport-DB-260603_1780472975739_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran targets US forces, Kuwait airport amid ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855" target="_blank">Iran live updates: Iran targets US forces, Kuwait airport amid ceasefire</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-03 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says" target="_blank">DRC Ebola outbreak could have begun as early as January, WHO chief says</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-03 17:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store" target="_blank">Apple is bringing age verification to Texas this week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-03 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/" target="_blank">Defense tech is flooded with money, but who’s built to last?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-03 20:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-500x500-1780514708.jpg" alt="Google ordered to put clearer links in AI search and let UK publishers opt out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,24 +149,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/" target="_blank">Substack’s new ‘Reply Rules’ feature lets creators control how people respond</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-03 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23769840/best-bluetooth-trackers" target="_blank">The best Bluetooth trackers for Apple and Android phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-03 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a1f4ea4c350c2fb60808fa6/master/pass/Security_xAIWantstoStripAllegedGrokDeepfakeNudesVictimsofAnonymity_v1.jpg" alt="xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/" target="_blank">xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-03 18:49</span>
             </div>
         </div>
 </div>
@@ -237,6 +230,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KT7JRA1YY116WEMHH1AG51YG/hero-image.webp" alt="Target Just Announced Its Answer to Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/target-announces-prime-day-2026-competition-sale?utm_medium=RSS" target="_blank">Target Just Announced Its Answer to Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-03 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KT78JNEXS4MNMPY7DGA0VJNV/hero-image.png" alt="Why You Should Take a Hyrox Class Even If You Never Plan to Compete" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -281,15 +283,6 @@
                 <span class="time">2026-06-03 17:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HW96DTWTS3NVFYV43RH258NM/hero-image.jpg" alt="‘Lowkenuinely,’ ‘Bruzz,’ and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/guide-to-gen-z-and-gen-alpha-slang?utm_medium=RSS" target="_blank">‘Lowkenuinely,’ ‘Bruzz,’ and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-03 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,13 +315,22 @@
                 <span class="time">2026-06-03 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/detector.png" alt="Detector" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3254/" target="_blank">Detector</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-06-03 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 20:59 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
