@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-03 15:29:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-03 17:35:51 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 12 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, June 03, 2026 - 15:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, June 03, 2026 - 17:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs?traffic_source=rss" target="_blank">US cites forced labour concerns as grounds for new tariffs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-03 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0fd/live/008fd620-5f68-11f1-94f2-15925644642f.jpg" alt="Three dead in Royal Navy helicopter crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss" target="_blank">Three dead in Royal Navy helicopter crash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-03 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-hotel-fire-india_7264229.jpg?20260603081928" alt="At least 21 killed in New Delhi hotel fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-21-killed-in-new-delhi-hotel-fire-13550462" target="_blank">At least 21 killed in New Delhi hotel fire</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-03 14:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +97,29 @@
                 <span class="time">2026-06-03 11:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbe6/live/2a206e80-5f10-11f1-a57e-cf86727d60ac.jpg" alt="Two arrests as 11 officers hurt in Nowak protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czd29nm161mo?at_medium=RSS&at_campaign=rss" target="_blank">Two arrests as 11 officers hurt in Nowak protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-03 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/3/morocco-world-cup-2026-preview-players-to-watch-group-and-squad-list?traffic_source=rss" target="_blank">Morocco World Cup 2026 preview: Players to watch, group and squad list</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-03 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/hezbollah-video-shows-attack-on-israeli-troops-at-lebanons-beaufort-castle?traffic_source=rss" target="_blank">Hezbollah video shows attack on Israeli troops at Lebanon’s Beaufort Castle</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-03 09:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/" target="_blank">Ultrahuman says hackers accessed customers’ wellness data via internal tool</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-03 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/942547/amazon-search-bar-ai-images" target="_blank">Amazon&amp;#8217;s search bar will invent AI-generated products you can&amp;#8217;t buy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-03 16:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +156,29 @@
                 <span class="time">2026-06-03 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/942296/google-water-commitments-data-centers" target="_blank">AI has a water problem. Google thinks it has a fix</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-03 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/" target="_blank">Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-02 23:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/siddharth_pandey_27/stop-ai-from-recommending-redundant-indexes-on-existing-gsis-5lo" target="_blank">Stop AI From Recommending Redundant Indexes on Existing GSIs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-03 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/risc-v-profiles-why-is-rva23-significant" target="_blank">RISC-V profiles &amp;#8211; why is RVA23 significant?</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-03 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/06/google-fleet-ab-experimentation/en/headerimage/generatedHeaderImage-1779569949510.jpg" alt="Inside Google’s System for Coordinated A/B Testing Across Its Global Service Fleet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +215,6 @@
                 <span class="time">2026-06-03 11:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/amd-rocm-on-ubuntu" target="_blank">AI with AMD ROCm on Ubuntu: your questions answered</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-03 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.nns.ee/2026/06/03/katana-badusb/" target="_blank">Hacking your PC using your speaker without ever touching it</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-03 10:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +234,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/05/d8f74d792342ce766d95cf4dfef6d184-1280x720.jpg" alt="The Spirit Of Old E3 Is Strong This Year With A Rumored Nintendo Direct Right Around The Corner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-spirit-of-old-e3-is-strong-this-year-with-a-rumored-nintendo-direct-right-around-the-corner-2000702042" target="_blank">The Spirit Of Old E3 Is Strong This Year With A Rumored Nintendo Direct Right Around The Corner</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-03 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_1982257796-e1763163639267.jpg?fit=768%2C539&amp;quality=60&amp;ssl=1" alt="No whey? Protein shortage looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/03/no-whey-protein-shortage-looms.html" target="_blank">No whey? Protein shortage looms</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-03 17:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HW96DTWTS3NVFYV43RH258NM/hero-image.jpg" alt="‘Lowkenuinely,’ ‘Bruzz,’ and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/guide-to-gen-z-and-gen-alpha-slang?utm_medium=RSS" target="_blank">‘Lowkenuinely,’ ‘Bruzz,’ and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-03 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/wolverine6-1280x718.jpg" alt="We Need To Talk About The Violence In That Wolverine Reveal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,38 +288,20 @@
                 <span class="time">2026-06-03 03:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Triage_Vignette_02_1920x1080-1280x720.jpg" alt="Server Issues Plague Marathon‘s Big Comeback Moment [Update: Bungie Is Giving Players Free Loot]]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/server-issues-plague-marathons-big-comeback-moment-2000701778" target="_blank">Server Issues Plague Marathon‘s Big Comeback Moment [Update: Bungie Is Giving Players Free Loot]]</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-03 02:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/insulin.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="What happens when the machine keeping you alive dies on vacation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/02/what-happens-when-the-machine-keeping-you-alive-dies-on-vacation.html" target="_blank">What happens when the machine keeping you alive dies on vacation</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-02 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KT50EHSAWGA4GF0Y76FCH3JS/hero-image.jpg" alt="You Should Install the June Android Security Patch ASAP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/install-the-june-android-security-patch-asap?utm_medium=RSS" target="_blank">You Should Install the June Android Security Patch ASAP</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-02 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1780287005-20260603.png" alt="Saturday Morning Breakfast Cereal - Speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/speech" target="_blank">Saturday Morning Breakfast Cereal - Speech</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-03 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -308,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 15:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
