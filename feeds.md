@@ -1,28 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-03 22:02:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-03 23:29:55 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, June 03, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, June 03, 2026 - 23:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +54,15 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855" target="_blank">Iran live updates: House adopts war powers resolution in rebuke to Trump</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-03 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote" target="_blank">House passes war powers resolution directing Trump to end hostilities with Iran</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-03 21:49</span>
             </div>
         </div>
 <div class="story">
@@ -83,20 +101,20 @@
                 <span class="time">2026-06-03 18:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss" target="_blank">Gunfire erupts in Mogadishu before protests against Somali president’s rule</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-03 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-500x500.jpeg" alt="Microsoft, Atom Computing, EeroQ update their quantum computing progress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/" target="_blank">Microsoft, Atom Computing, EeroQ update their quantum computing progress</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-03 22:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,20 +160,20 @@
                 <span class="time">2026-06-03 19:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/" target="_blank">Substack’s new ‘Reply Rules’ feature lets creators control how people respond</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-03 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkkfqyf2ms5a3q4tr7m6f.png" alt="CodeSynth 2.0👩🏽‍💻: Rebuilding My Hackathon Prototype into a CRDT-Powered Coding Playground🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nupoorshetye/codesynth-20-rebuilding-my-hackathon-prototype-into-a-crdt-powered-collaborative-coding-5pc" target="_blank">CodeSynth 2.0👩🏽‍💻: Rebuilding My Hackathon Prototype into a CRDT-Powered Coding Playground🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-03 23:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,28 +204,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top" target="_blank">Kubernetes and retiring at the top with Kelsey Hightower</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-06-03 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/siddharth_pandey_27/stop-ai-from-recommending-redundant-indexes-on-existing-gsis-5lo" target="_blank">Stop AI From Recommending Redundant Indexes on Existing GSIs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-03 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17353438/tuta-joins-euro-office-initiative" target="_blank">Tuta Joins Other European Companies Under the Euro-Office Umbrella</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-03 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/risc-v-profiles-why-is-rva23-significant" target="_blank">RISC-V profiles &amp;#8211; why is RVA23 significant?</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-03 16:00</span>
             </div>
         </div>
 </div>
@@ -229,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/copsss-1280x720.jpg" alt="GTA 6 YouTuber Walks Into Rockstar Games Lobby And Allegedly Gets Police Called On Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-6-youtuber-walks-into-rockstar-games-lobby-and-allegedly-gets-police-called-on-him-2000702118" target="_blank">GTA 6 YouTuber Walks Into Rockstar Games Lobby And Allegedly Gets Police Called On Him</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-03 22:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KT7JRA1YY116WEMHH1AG51YG/hero-image.webp" alt="Target Just Announced Its Answer to Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/the-spirit-of-old-e3-is-strong-this-year-with-a-rumored-nintendo-direct-right-around-the-corner-2000702042" target="_blank">The Spirit Of Old E3 Is Strong This Year With A Rumored Nintendo Direct Right Around The Corner</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-03 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_1982257796-e1763163639267.jpg?fit=768%2C539&amp;quality=60&amp;ssl=1" alt="No whey? Protein shortage looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/03/no-whey-protein-shortage-looms.html" target="_blank">No whey? Protein shortage looms</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-03 17:23</span>
             </div>
         </div>
 </div>
@@ -329,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 23:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
