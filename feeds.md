@@ -1,48 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-03 19:12:19 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-03 20:59:21 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 39 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, June 03, 2026 - 19:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, June 03, 2026 - 20:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/ten-years-on-world-remembers-muhammad-ali-the-greatest?traffic_source=rss" target="_blank">Ten years on, world remembers Muhammad Ali ‘the Greatest’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-03 20:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4dd/live/3b625900-5f66-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,19 +93,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs?traffic_source=rss" target="_blank">US cites forced labour concerns as grounds for new tariffs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-03 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0fd/live/008fd620-5f68-11f1-94f2-15925644642f.jpg" alt="Three dead in Royal Navy helicopter crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss" target="_blank">Three dead in Royal Navy helicopter crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-03 16:39</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says" target="_blank">DRC Ebola outbreak could have begun as early as January, WHO chief says</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-03 17:29</span>
             </div>
         </div>
 </div>
@@ -117,6 +104,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-500x500-1780514708.jpg" alt="Google ordered to put clearer links in AI search and let UK publishers opt out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/" target="_blank">Google ordered to put clearer links in AI search and let UK publishers opt out</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-03 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan" target="_blank">Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-03 20:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-500x500.jpg" alt="Google&#x27;s new Gemma 4 open AI model is sized for your laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,29 +158,29 @@
                 <span class="time">2026-06-03 18:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/" target="_blank">Ultrahuman says hackers accessed customers’ wellness data via internal tool</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-03 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/942547/amazon-search-bar-ai-images" target="_blank">Amazon&amp;#8217;s search bar will invent AI-generated products you can&amp;#8217;t buy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-03 16:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/czmirek/how-unclear-responsibilities-add-to-technical-debt-on-all-levels-of-seniority-2cao" target="_blank">How unclear responsibilities add to technical debt on all levels of seniority</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-03 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/" target="_blank">Elixir v1.20: Now a gradually typed language</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-03 19:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,24 +217,6 @@
                 <span class="time">2026-06-03 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://sheep.horse/2026/6/parsing_xml_exif_from_.avif_files_(plus_a_rant).html" target="_blank">Parsing XML EXIF from .avif files (plus a rant)</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-06-03 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/google-fleet-ab-experimentation/en/headerimage/generatedHeaderImage-1779569949510.jpg" alt="Inside Google’s System for Coordinated A/B Testing Across Its Global Service Fleet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/google-fleet-ab-experimentation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Inside Google’s System for Coordinated A/B Testing Across Its Global Service Fleet</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-03 14:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KT78JNEXS4MNMPY7DGA0VJNV/hero-image.png" alt="Why You Should Take a Hyrox Class Even If You Never Plan to Compete" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/why-you-should-take-a-hyrox-class-even-if-you-never-plan-to-compete?utm_medium=RSS" target="_blank">Why You Should Take a Hyrox Class Even If You Never Plan to Compete</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-03 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/candace-owens-e1780512160715.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Candace Owens takes her patriot act to Putin&#x27;s talent show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +290,6 @@
                 <span class="time">2026-06-03 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/wolverine6-1280x718.jpg" alt="We Need To Talk About The Violence In That Wolverine Reveal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/wolverine-trailer-violence-gore-sony-playstation-insomniac-2000701947" target="_blank">We Need To Talk About The Violence In That Wolverine Reveal</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-03 15:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 19:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 20:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
