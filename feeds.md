@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-03 13:26:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-03 15:29:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, June 03, 2026 - 13:27 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, June 03, 2026 - 15:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/03/g-s1-124469/porto-portugal-linens-textiles" target="_blank">Greetings from Porto, whose lanes are lined with colorful textiles</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-03 13:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +98,20 @@
                 <span class="time">2026-06-03 09:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/mayor-rt-gty-er-260601_1780344305407_hpMain_4x3t_384.jpg" alt="Karen Bass advances in Los Angeles mayoral race as opponent currently remains unclear" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/los-angeles-mayoral-election-2026/story?id=133482839" target="_blank">Karen Bass advances in Los Angeles mayoral race as opponent currently remains unclear</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-03 09:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr" target="_blank">Supernatural isn’t dead after all</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-03 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +157,29 @@
                 <span class="time">2026-06-02 23:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/bower1-500x500-1780399121.jpg" alt="Male bowerbirds hope to dazzle females with bright human-made items" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/" target="_blank">Male bowerbirds hope to dazzle females with bright human-made items</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-02 23:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/google-fleet-ab-experimentation/en/headerimage/generatedHeaderImage-1779569949510.jpg" alt="Inside Google’s System for Coordinated A/B Testing Across Its Global Service Fleet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/google-fleet-ab-experimentation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Inside Google’s System for Coordinated A/B Testing Across Its Global Service Fleet</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-03 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/ubuntu-ai-2.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu plans to add AI-powered voice input to all text fields" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/ubuntu-speech-to-text-ai" target="_blank">Ubuntu plans to add AI-powered voice input to all text fields</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-03 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fefn2mr3gm86norgc0qdp.png" alt="Bringing Apps Script to the desktop – the why, where and how of gas-fakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +216,6 @@
                 <span class="time">2026-06-03 10:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/nodejs-release-changes/en/headerimage/generatedHeaderImage-1780400494858.jpg" alt="Node.js Moves to One Major Release Per Year, Starting with Node 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/nodejs-release-changes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Node.js Moves to One Major Release Per Year, Starting with Node 27</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-03 06:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/huaian666/what-happened-to-my-project-in-the-last-4-hours-a-dev-tool-story-1d5c" target="_blank">What Happened to My Project in the Last 4 Hours? (A Dev Tool Story)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-03 05:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/wolverine6-1280x718.jpg" alt="We Need To Talk About The Violence In That Wolverine Reveal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wolverine-trailer-violence-gore-sony-playstation-insomniac-2000701947" target="_blank">We Need To Talk About The Violence In That Wolverine Reveal</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-03 15:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/old-gamer-1280x720.jpg" alt="212 Million Americans Play Video Games, Including A Third Of Those Aged Over 80" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +289,6 @@
                 <span class="time">2026-06-02 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KST5XN44CHHMNQYZ0CNBB6M0/hero-image.jpg" alt="How to Watch WWDC 2026 Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-watch-wwdc-2026?utm_medium=RSS" target="_blank">How to Watch WWDC 2026 Live</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-02 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,22 +303,13 @@
                 <span class="time">2026-06-03 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1780286961-20260602.png" alt="Saturday Morning Breakfast Cereal - Marshmallow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/marshmallow" target="_blank">Saturday Morning Breakfast Cereal - Marshmallow</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-02 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 13:27 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 15:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
