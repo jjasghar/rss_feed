@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-03 11:33:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-03 13:26:50 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, June 03, 2026 - 11:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, June 03, 2026 - 13:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/3/why-is-france-so-invested-in-the-future-of-lebanon?traffic_source=rss" target="_blank">Why is France so invested in the future of Lebanon?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-03 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/03/g-s1-125570/up-first-newsletter-iowa-primaries-anti-weaponization-fund-bill-pulte-immigrants-aliens" target="_blank">Takeaways from Iowa&#x27;s primaries. And, DOJ nixes Trump&#x27;s &#x27;anti-weaponization&#x27; fund</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-03 11:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbe6/live/2a206e80-5f10-11f1-a57e-cf86727d60ac.jpg" alt="Two arrests as 11 officers hurt in Nowak protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +99,20 @@
                 <span class="time">2026-06-03 09:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/03/nx-s1-5843359/white-house-gov-website-alien-immigration" target="_blank">The White House&#x27;s new site about &#x27;aliens&#x27; has nothing to do with UFOs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-03 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbe6/live/2a206e80-5f10-11f1-a57e-cf86727d60ac.jpg" alt="Two arrests and calls for calm as Nowak protests erupt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czd29nm161mo?at_medium=RSS&at_campaign=rss" target="_blank">Two arrests and calls for calm as Nowak protests erupt</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-03 07:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on" target="_blank">A first look at Microsoft’s Surface Laptop Ultra and Surface Dev Box</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-03 13:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-539781130-500x500.jpg" alt="Beans use an immune receptor to call in airstrikes on caterpillars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +158,20 @@
                 <span class="time">2026-06-02 23:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a1f478c129210b5a418cdf8/master/pass/British-MPs-Warn-Dangers-of-Palantir-Business.jpg" alt="Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uk-government-palantir-warning-report/" target="_blank">Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-02 23:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fefn2mr3gm86norgc0qdp.png" alt="Bringing Apps Script to the desktop – the why, where and how of gas-fakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/brucemcpherson/bringing-apps-script-to-the-desktop-the-why-where-and-how-of-gas-fakes-3ccg" target="_blank">Bringing Apps Script to the desktop – the why, where and how of gas-fakes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-03 13:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/choosing-ai-copilot/en/mediumimage/medium-1779867439150.jpg" alt="Presentation: Choosing Your AI Copilot: Maximizing Developer Productivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/huaian666/what-happened-to-my-project-in-the-last-4-hours-a-dev-tool-story-1d5c" target="_blank">What Happened to My Project in the Last 4 Hours? (A Dev Tool Story)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-03 05:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Snap-ARM64-Build-Stable" target="_blank">Canonical Now Considers Their Steam Snap For ARM64 To Be Stable</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-03 00:50</span>
             </div>
         </div>
 </div>
@@ -318,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 11:33 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 13:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
