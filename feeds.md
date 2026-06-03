@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-03 05:34:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-03 07:33:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, June 03, 2026 - 05:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, June 03, 2026 - 07:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbe6/live/2a206e80-5f10-11f1-a57e-cf86727d60ac.jpg" alt="Two arrests and calls for calm as Nowak protests erupt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czd29nm161mo?at_medium=RSS&at_campaign=rss" target="_blank">Two arrests and calls for calm as Nowak protests erupt</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-03 07:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/aje-onl-nf_sv_clashes-in-uk-over-muder-of-henry-nowak-030626?traffic_source=rss" target="_blank">Outrage over UK police arrest video of dying student</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-03 06:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260529-Los-Angeles-Mayor-vsb-2135-6d734e.jpg" alt="Los Angeles Mayor Karen Bass pulled into a runoff in her race for a second term" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/los-angeles-mayor-karen-bass-pulled-runoff-race-second-term-rcna347482" target="_blank">Los Angeles Mayor Karen Bass pulled into a runoff in her race for a second term</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-03 05:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,33 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss" target="_blank">US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-03 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?traffic_source=rss" target="_blank">Iran war live: US strikes Iran’s Qeshm, says Tehran attacks Kuwait, Bahrain</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-03 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/blanche-1-ap-er-260602_1780439897233_hpMain_4x3t_384.jpg" alt="Acting AG Blanche says Trump administration is nixing $1.8B &#x27;Anti-Weaponization Fund&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/acting-ag-blanche-trump-administration-nixing-anti-weaponization/story?id=133528785" target="_blank">Acting AG Blanche says Trump administration is nixing $1.8B &#x27;Anti-Weaponization Fund&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-02 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-obaida-mahmoud-gaza_7264121.jpg?20260603003614" alt="&#x27;Keir Starmer made us promises - and we thought they&#x27;d be kept&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/gaza-boys-evacuated-to-britain-for-nhs-treatment-say-starmer-has-broken-promises-13550288" target="_blank">&#x27;Keir Starmer made us promises - and we thought they&#x27;d be kept&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-02 21:53</span>
             </div>
         </div>
 </div>
@@ -158,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/06/nodejs-release-changes/en/headerimage/generatedHeaderImage-1780400494858.jpg" alt="Node.js Moves to One Major Release Per Year, Starting with Node 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/nodejs-release-changes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Node.js Moves to One Major Release Per Year, Starting with Node 27</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-03 06:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,15 +212,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/steam-arm64-snap-stable" target="_blank">Canonical’s Steam Snap for ARM64 is now stable</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-06-02 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-Intelligent-Terminal" target="_blank">Microsoft Announces Open-Source &quot;Intelligent Terminal&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-02 19:18</span>
             </div>
         </div>
 </div>
@@ -303,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 05:34 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 07:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
