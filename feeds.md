@@ -1,31 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-06-03 03:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-03 05:34:15 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, June 03, 2026 - 03:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, June 03, 2026 - 05:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -162,6 +160,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/huaian666/what-happened-to-my-project-in-the-last-4-hours-a-dev-tool-story-1d5c" target="_blank">What Happened to My Project in the Last 4 Hours? (A Dev Tool Story)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-03 05:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Steam-Snap-ARM64-Build-Stable" target="_blank">Canonical Now Considers Their Steam Snap For ARM64 To Be Stable</a></span>
                 <span class="feed">Phoronix</span>
@@ -204,15 +211,6 @@
                 <span class="time">2026-06-02 19:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7ngj9w5qlfmcmxuel5e.png" alt="How URL Shorteners Generate Unique Links Instantly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kashafabdullah/how-url-shorteners-generate-unique-links-instantly-3h2e" target="_blank">How URL Shorteners Generate Unique Links Instantly</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-02 19:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KR1C4WFPXVMB6B181KKD1DMP/hero-image.png" alt="Lifehacker Is Hosting a &#x27;Big Guessing Game&#x27; for Apple&#x27;s 2026 Announcements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/big-guessing-game-apple-edition-round-1?utm_medium=RSS" target="_blank">Lifehacker Is Hosting a &#x27;Big Guessing Game&#x27; for Apple&#x27;s 2026 Announcements</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-03 03:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Triage_Vignette_02_1920x1080-1280x720.jpg" alt="Server Issues Plague Marathon‘s Big Comeback Moment [Update: Bungie Is Giving Players Free Loot]]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/server-issues-plague-marathons-big-comeback-moment-2000701778" target="_blank">Server Issues Plague Marathon‘s Big Comeback Moment [Update: Bungie Is Giving Players Free Loot]]</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-03 02:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/insulin.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="What happens when the machine keeping you alive dies on vacation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +284,6 @@
                 <span class="time">2026-06-02 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/toystorycollect-1280x720.jpg" alt="All Those Toy Story Games You Loved As A Kid Are Getting Remastered" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/all-those-toy-story-games-you-loved-as-a-kid-are-getting-remastered-2000701571" target="_blank">All Those Toy Story Games You Loved As A Kid Are Getting Remastered</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-02 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Screenshot-2026-06-01-142948.png?fit=1592%2C914&amp;quality=55&amp;ssl=1" alt="The art is fake, the boss is blind, and the job is yours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/02/the-art-is-fake-the-boss-is-blind-and-the-job-is-yours.html" target="_blank">The art is fake, the boss is blind, and the job is yours</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-02 16:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 03:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 05:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
