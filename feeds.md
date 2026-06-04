@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 13:59:20 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-04 15:11:18 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 13:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 15:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/4/lebanons-latest-truce-what-is-different-from-the-april-agreement?traffic_source=rss" target="_blank">Lebanon’s latest truce: What is different from the April agreement?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-04 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a519/live/c9a989e0-601f-11f1-95e8-2f6b295436fc.jpg" alt="Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss" target="_blank">Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-04 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260603-angel-leal-abogado-aa-459-fd9ea4.jpg" alt="Immigration lawyers slam scammers stealing their identities and offering fraudulent services" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/scammers-impersonate-immigration-lawyers-rcna348238" target="_blank">Immigration lawyers slam scammers stealing their identities and offering fraudulent services</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-04 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-steven-lyons-mafia_7265361.png?20260604153322" alt="British &#x27;mafia boss&#x27; kidnapped by law enforcement, lawyer claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/british-mafia-boss-steven-lyons-kidnapped-by-law-enforcement-lawyer-claims-after-capture-in-bali-and-deportation-to-amsterdam-13550772" target="_blank">British &#x27;mafia boss&#x27; kidnapped by law enforcement, lawyer claims</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-04 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya" target="_blank">Experts criticise plan for American-only Ebola quarantine centre in Kenya</a></span>
                 <span class="feed">World news | The Guardian</span>
@@ -59,47 +96,29 @@
                 <span class="time">2026-06-04 12:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685f/live/c241fbd0-5ff0-11f1-9e8e-893122412ba5.jpg" alt="Avoid &#x27;reactive&#x27; police reforms after Nowak murder, senior black officer warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx21wvl7yjyo?at_medium=RSS&at_campaign=rss" target="_blank">Avoid &#x27;reactive&#x27; police reforms after Nowak murder, senior black officer warns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-04 09:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Lebanon-DB-260604_1780561980155_hpMain_4x3t_384.jpg" alt="Iran live updates: Fighting continues in Lebanon after ceasefire talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855" target="_blank">Iran live updates: Fighting continues in Lebanon after ceasefire talks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-04 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/04/nx-s1-5844715/uss-ford-plumbing-repairs" target="_blank">The $13 billion carrier with a plumbing problem is home. Now come the costly repairs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-04 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/4/who-is-khalilur-rahman-bangladesh-fm-who-beat-cyprus-to-unga-presidency?traffic_source=rss" target="_blank">Who is Khalilur Rahman, Bangladesh FM who beat Cyprus to UNGA presidency?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-04 08:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles" target="_blank">TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-04 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2229069552-500x500.jpg" alt="How some data center operators are tackling their water use problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/" target="_blank">How some data center operators are tackling their water use problems</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-04 14:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +155,6 @@
                 <span class="time">2026-06-04 09:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a207e55733250a1d7993744/master/pass/Gear_ThisAppMakesGoogleTVActuallyUsable_v1.jpg" alt="This App Makes Google TV Actually Usable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/at4k-app-makes-google-tv-actually-usable/" target="_blank">This App Makes Google TV Actually Usable</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-04 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Nomad Goods Promo Codes: Get 25% Off in June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nomad-discount-code/" target="_blank">Nomad Goods Promo Codes: Get 25% Off in June 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-04 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,10 +163,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Lenovo-Yoga-Slim-7x-Gen11-Linux" target="_blank">Qualcomm Gets The Lenovo Yoga Slim 7x Gen11 Snapdragon X2 Laptop Working On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-04 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/maxmendes91/microsoft-build-2026-windows-wants-to-be-the-operating-system-for-ai-agents-59kl" target="_blank">Microsoft Build 2026: Windows Wants to Be the Operating System for AI Agents</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-04 13:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.cloudflare.com/voidzero-joins-cloudflare/" target="_blank">VoidZero Is Joining Cloudflare</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-04 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +214,6 @@
                 <span class="time">2026-06-04 10:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/HDMI-FRL-2.1-Submitted-DRM" target="_blank">AMD Submits Its Long-Awaited HDMI 2.1 FRL Support For Linux 7.2 AMDGPU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-04 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/architecting-deletion-system/en/mediumimage/medium-1779869686290.jpg" alt="Presentation: Architecting a Centralized Platform for Data Deletion at Netflix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/architecting-deletion-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Architecting a Centralized Platform for Data Deletion at Netflix</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-04 10:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/8bd234765d72755c61a7e827609ccf73-1280x720.jpg" alt="After Performance Troubles And A Delay, Elden Ring Is Finally Coming To Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elden-ring-switch-2-tarnished-edition-release-date-shadow-2000702487" target="_blank">After Performance Troubles And A Delay, Elden Ring Is Finally Coming To Switch 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-04 14:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KT8WRQKJPENBTQYV6HPGVTRW/hero-image.png" alt="This Blink Doorbell and Security Camera Bundle Is 67% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +287,6 @@
                 <span class="time">2026-06-03 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/candace-owens-e1780512160715.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Candace Owens takes her patriot act to Putin&#x27;s talent show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/03/candace-owens-takes-her-patriot-act-to-putins-talent-show.html" target="_blank">Candace Owens takes her patriot act to Putin&#x27;s talent show</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-03 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 255 |
-        🔄 Last Updated: 13:59 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 38 | 📸 With Images: 254 |
+        🔄 Last Updated: 15:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
