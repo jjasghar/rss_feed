@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 15:11:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-04 16:58:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 15:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 16:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/6f5fd9e0-6032-11f1-89a3-d1f559421220.jpg" alt="Royal Navy crew killed in helicopter crash named" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg4p69gzd4po?at_medium=RSS&at_campaign=rss" target="_blank">Royal Navy crew killed in helicopter crash named</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-04 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/4/israel-must-allow-icrc-to-visit-palestinians-in-prison-supreme-court-rules?traffic_source=rss" target="_blank">Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-04 16:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +94,29 @@
                 <span class="time">2026-06-04 14:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya" target="_blank">Experts criticise plan for American-only Ebola quarantine centre in Kenya</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-04 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/04/g-s1-125937/up-first-newsletter-ice-funding-package-trump-netanyahu-federal-workers-world-cup-weather" target="_blank">Senate to start debate on ICE funding. And, Israel and Lebanon agree to ceasefire</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-04 12:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/PIA26304-500x500.jpg" alt="After 11 years at Mars, NASA&#x27;s MAVEN spacecraft went out with a whisper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/" target="_blank">After 11 years at Mars, NASA&#x27;s MAVEN spacecraft went out with a whisper</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-04 16:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller" target="_blank">Belkin’s new Joy-Con grips also boost the Switch 2’s battery life</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-04 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +153,6 @@
                 <span class="time">2026-06-04 11:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a20667118920d19dd0ad0e5/master/pass/Review--Segway-Myon-Electric-Bike.jpg" alt="Segway Myon Electric Bike Review: Too Smart?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/segway-myon-electric-bike/" target="_blank">Segway Myon Electric Bike Review: Too Smart?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-04 10:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus" target="_blank">Amazon develops a warehouse robot workers can speak to</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-04 09:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,10 +161,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paranoidqrypto/the-ultimate-guide-to-securely-broadcasting-an-offline-bitcoin-transaction-ecp" target="_blank">The Ultimate Guide to Securely Broadcasting an Offline Bitcoin Transaction</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-04 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Lenovo-Yoga-Slim-7x-Gen11-Linux" target="_blank">Qualcomm Gets The Lenovo Yoga Slim 7x Gen11 Snapdragon X2 Laptop Working On Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-04 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/uber-payment-batching-system/en/headerimage/generatedHeaderImage-1779570527807.jpg" alt="30+ Updates per Second per Account: Uber Scales Ledger Processing with Batching" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/uber-payment-batching-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">30+ Updates per Second per Account: Uber Scales Ledger Processing with Batching</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-04 14:02</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +212,6 @@
                 <span class="time">2026-06-04 12:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/data-driven-platform-engineering/en/headerimage/generatedHeaderImage-1780255652688.jpg" alt="How a Culture of Data-Driven Conversations Can Support Platform Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/data-driven-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How a Culture of Data-Driven Conversations Can Support Platform Engineering</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-04 11:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/crabpascal/testing-horse-apis-with-postman-testando-apis-horse-com-postman-1fbe" target="_blank">Testing Horse APIs with Postman | Testando APIs Horse com Postman</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-04 10:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/06/bfb725166a99ccabb7cd25ed810a4e8e-1280x720.jpg" alt="Amazon Says It Has ‘Great Relationship’ With 007 First Light Devs As Fans Worry IOI Won’t Get To Make A Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-says-it-has-great-relationship-with-007-first-light-devs-as-fans-worry-ioi-wont-get-to-make-a-sequel-2000702530" target="_blank">Amazon Says It Has ‘Great Relationship’ With 007 First Light Devs As Fans Worry IOI Won’t Get To Make A Sequel</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-04 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2019/05/Starter-1.jpg?fit=800%2C918&amp;quality=60&amp;ssl=1" alt="Scientists use yeast from body of Ötzi the Iceman to make &quot;very very good&quot; sourdough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/04/scientists-use-yeast-from-body-of-otzi-the-iceman-to-make-very-very-good-sourdough.html" target="_blank">Scientists use yeast from body of Ötzi the Iceman to make &quot;very very good&quot; sourdough</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-04 16:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/04/8bd234765d72755c61a7e827609ccf73-1280x720.jpg" alt="After Performance Troubles And A Delay, Elden Ring Is Finally Coming To Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,29 +285,20 @@
                 <span class="time">2026-06-03 22:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KT7JRA1YY116WEMHH1AG51YG/hero-image.webp" alt="Target Just Announced Its Answer to Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/target-announces-prime-day-2026-competition-sale?utm_medium=RSS" target="_blank">Target Just Announced Its Answer to Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-03 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KT78JNEXS4MNMPY7DGA0VJNV/hero-image.png" alt="Why You Should Take a Hyrox Class Even If You Never Plan to Compete" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/why-you-should-take-a-hyrox-class-even-if-you-never-plan-to-compete?utm_medium=RSS" target="_blank">Why You Should Take a Hyrox Class Even If You Never Plan to Compete</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-03 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1780287055-20260604.png" alt="Saturday Morning Breakfast Cereal - Gland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/gland" target="_blank">Saturday Morning Breakfast Cereal - Gland</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-04 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -301,22 +308,13 @@
                 <span class="time">2026-06-03 18:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1780287005-20260603.png" alt="Saturday Morning Breakfast Cereal - Speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/speech" target="_blank">Saturday Morning Breakfast Cereal - Speech</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-03 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 38 | 📸 With Images: 254 |
-        🔄 Last Updated: 15:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 37 | 📸 With Images: 256 |
+        🔄 Last Updated: 16:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
