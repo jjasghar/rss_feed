@@ -1,30 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 12:05:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-04 13:59:20 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 12:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 13:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,10 +44,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya" target="_blank">Experts criticise plan for American-only Ebola quarantine centre in Kenya</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-04 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/06/04/g-s1-125937/up-first-newsletter-ice-funding-package-trump-netanyahu-federal-workers-world-cup-weather" target="_blank">Senate to start debate on ICE funding. And, Israel and Lebanon agree to ceasefire</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-04 12:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685f/live/c241fbd0-5ff0-11f1-9e8e-893122412ba5.jpg" alt="Avoid &#x27;reactive&#x27; police reforms after Nowak murder, senior black officer warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx21wvl7yjyo?at_medium=RSS&at_campaign=rss" target="_blank">Avoid &#x27;reactive&#x27; police reforms after Nowak murder, senior black officer warns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-04 09:56</span>
             </div>
         </div>
 <div class="story">
@@ -76,29 +95,29 @@
                 <span class="time">2026-06-04 08:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/04/g-s1-125926/albania-protests-trump-family-linked-resort" target="_blank">Plans for a Trump family-linked resort spark protests in Albania</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-04 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/4/israeli-strikes-on-residential-buildings-kill-nine-in-gaza-city?traffic_source=rss" target="_blank">Israeli strikes on residential buildings kill nine in Gaza City</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-04 04:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/" target="_blank">Oura Ring 5 review: Thinner, lighter, better</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-04 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a1b1b68ceff2db7fd3158be/master/pass/The%20Best%20Smart%20Speaker%20for%20Every%20Assistant%20top%20art%20052026%20SOURCE%20Google-Amazon.jpg" alt="5 Best Smart Speakers (2026): Alexa, Google Assistant, Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-smart-speakers/" target="_blank">5 Best Smart Speakers (2026): Alexa, Google Assistant, Siri</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-04 11:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a20667118920d19dd0ad0e5/master/pass/Review--Segway-Myon-Electric-Bike.jpg" alt="Segway Myon Electric Bike Review: Too Smart?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +154,29 @@
                 <span class="time">2026-06-04 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/" target="_blank">Benchmark raises its first-ever growth fund as part of $2B capital raise</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-04 03:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae-500x425.jpg" alt="Flesh-eating screwworm infection confirmed in South Texas, USDA says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/" target="_blank">Flesh-eating screwworm infection confirmed in South Texas, USDA says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-04 02:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maxmendes91/microsoft-build-2026-windows-wants-to-be-the-operating-system-for-ai-agents-59kl" target="_blank">Microsoft Build 2026: Windows Wants to Be the Operating System for AI Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-04 13:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-core-26-ai-renesas" target="_blank">A look into Ubuntu Core 26: Deploying AI models on Renesas RZ/V series for production</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-04 12:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/06/data-driven-platform-engineering/en/headerimage/generatedHeaderImage-1780255652688.jpg" alt="How a Culture of Data-Driven Conversations Can Support Platform Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,22 +213,18 @@
                 <span class="time">2026-06-04 10:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/architectural-change-cases/en/headerimage/architectural-change-cases-header-1780316814045.jpg" alt="Article: Architectural Change Cases: A Practical Tool for Evolutionary Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/architectural-change-cases/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architectural Change Cases: A Practical Tool for Evolutionary Architectures</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-04 09:00</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/libinput-1.31.2-Security-Fix" target="_blank">Widely-Used libinput Updated Due To Arbitrary Root Code Execution</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-04 01:46</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html" target="_blank">Hacking Meta’s AI Chatbot</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-04 11:04</span>
             </div>
         </div>
 </div>
@@ -217,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KT8WRQKJPENBTQYV6HPGVTRW/hero-image.png" alt="This Blink Doorbell and Security Camera Bundle Is 67% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/blink-video-doorbell-camera-bundle-sale-june-2026?utm_medium=RSS" target="_blank">This Blink Doorbell and Security Camera Bundle Is 67% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-04 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/amazon-packages-e1780525607343.jpg?fit=768%2C513&amp;quality=60&amp;ssl=1" alt="Amazon uses AI to invent products you can&#x27;t buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +286,6 @@
                 <span class="time">2026-06-03 18:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KT74973E8135PDYNWZY6G90Q/hero-image.png" alt="TikTok Is Launching a New App That Probably No One Will Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/tiktok-new-pro-events-app-us?utm_medium=RSS" target="_blank">TikTok Is Launching a New App That Probably No One Will Use</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-03 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 39 | 📸 With Images: 256 |
-        🔄 Last Updated: 12:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 13:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
