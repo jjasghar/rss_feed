@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-06-03 23:29:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-04 00:35:11 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, June 03, 2026 - 23:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 00:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4dd/live/3b625900-5f66-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israel and Lebanon agree to ceasefire contingent on Hezbollah stopping attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Lebanon agree to ceasefire contingent on Hezbollah stopping attacks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-04 00:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss" target="_blank">Iran war live: Tensions simmer after latest US-Iran clashes in Gulf</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-04 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-5-ap-er-260603_1780518781105_hpMain_4x3t_384.jpg" alt="Iran live updates: House adopts war powers resolution in rebuke to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +106,20 @@
                 <span class="time">2026-06-03 20:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4dd/live/3b625900-5f66-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss" target="_blank">Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-03 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8be/live/36f18800-5f7f-11f1-8b8c-6d33e1d5abb6.jpg" alt="Police chief apologises to Henry Nowak&#x27;s family over handcuffing and arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crlpg54wgpxo?at_medium=RSS&at_campaign=rss" target="_blank">Police chief apologises to Henry Nowak&#x27;s family over handcuffing and arrest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-03 18:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/" target="_blank">Quick commerce FirstClub doubles valuation to $255M in nine months</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-04 00:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-500x500.jpeg" alt="Microsoft, Atom Computing, EeroQ update their quantum computing progress" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +165,20 @@
                 <span class="time">2026-06-03 20:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-500x500.jpg" alt="Google&#x27;s new Gemma 4 open AI model is sized for your laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/" target="_blank">Google&#x27;s new Gemma 4 open AI model is sized for your laptop</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-03 19:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/itlackey/one-schema-to-rule-them-all-the-config-v2-rewrite-4jek" target="_blank">One Schema to Rule Them All: The Config v2 Rewrite</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-04 00:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkkfqyf2ms5a3q4tr7m6f.png" alt="CodeSynth 2.0👩🏽‍💻: Rebuilding My Hackathon Prototype into a CRDT-Powered Coding Playground🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +222,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top" target="_blank">Kubernetes and retiring at the top with Kelsey Hightower</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2026-06-03 17:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/siddharth_pandey_27/stop-ai-from-recommending-redundant-indexes-on-existing-gsis-5lo" target="_blank">Stop AI From Recommending Redundant Indexes on Existing GSIs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-03 17:15</span>
             </div>
         </div>
 </div>
@@ -338,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 23:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 00:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
