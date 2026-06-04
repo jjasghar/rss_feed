@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 07:30:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-04 09:14:18 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 07:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 09:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/04/nx-s1-5844715/uss-ford-plumbing-repairs" target="_blank">The $13 billion carrier with a plumbing problem is home. Now come the costly repairs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-04 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/4/who-is-khalilur-rahman-bangladesh-fm-who-beat-cyprus-to-unga-presidency?traffic_source=rss" target="_blank">Who is Khalilur Rahman, Bangladesh FM who beat Cyprus to UNGA presidency?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-04 08:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +104,20 @@
                 <span class="time">2026-06-04 03:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-greenland-denmark_7264932.jpg?20260604031046" alt="Greenland is Denmark&#x27;s &#x27;for now&#x27;, says America&#x27;s top diplomat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-secretary-of-state-marco-rubio-says-greenland-is-part-of-denmark-for-now-13550610" target="_blank">Greenland is Denmark&#x27;s &#x27;for now&#x27;, says America&#x27;s top diplomat</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-04 01:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/4/nigerias-second-chance-schools-women-balancing-study-and-survival?traffic_source=rss" target="_blank">Nigeria’s second-chance schools: women balancing study and survival</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-04 01:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a207e55733250a1d7993744/master/pass/Gear_ThisAppMakesGoogleTVActuallyUsable_v1.jpg" alt="This App Makes Google TV Actually Usable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/at4k-app-makes-google-tv-actually-usable/" target="_blank">This App Makes Google TV Actually Usable</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-04 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Nomad Goods Promo Codes: Get 25% Off in June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -110,6 +125,15 @@
                 <span class="title"><a href="https://www.wired.com/story/nomad-discount-code/" target="_blank">Nomad Goods Promo Codes: Get 25% Off in June 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-06-04 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/" target="_blank">Benchmark raises its first-ever growth fund as part of $2B capital raise</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-04 03:52</span>
             </div>
         </div>
 <div class="story">
@@ -139,29 +163,20 @@
                 <span class="time">2026-06-04 00:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-500x500.jpeg" alt="Microsoft, Atom Computing, EeroQ update their quantum computing progress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/" target="_blank">Microsoft, Atom Computing, EeroQ update their quantum computing progress</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-03 22:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store" target="_blank">Apple is bringing age verification to Texas this week</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-03 21:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/architectural-change-cases/en/headerimage/architectural-change-cases-header-1780316814045.jpg" alt="Article: Architectural Change Cases: A Practical Tool for Evolutionary Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/architectural-change-cases/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architectural Change Cases: A Practical Tool for Evolutionary Architectures</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-04 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +220,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/flexibility-in-middle-east-ai-transformation-journey" target="_blank">MENA PR - Why flexibility is non-negotiable in the Middle East’s AI transformation journey</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-06-04 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://maxleiter.com/blog/weights" target="_blank">&quot;They&#x27;re made out of weights&quot;</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-03 23:37</span>
             </div>
         </div>
 </div>
@@ -317,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 39 | 📸 With Images: 255 |
-        🔄 Last Updated: 07:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 254 |
+        🔄 Last Updated: 09:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
