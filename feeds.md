@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 21:29:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-04 22:27:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 21:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 22:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg" alt="Zelensky proposes face-to-face talks in open letter to Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky proposes face-to-face talks in open letter to Putin</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-04 21:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/4/sherpa-found-alive-on-mount-everest-after-six-days-missing?traffic_source=rss" target="_blank">Sherpa found alive on Mount Everest after six days missing</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-04 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-world-cup-trophy-davos_7142541.jpg?20260122122841" alt="FIFA &#x27;regrets&#x27; free World Cup tickets and demands fans pay up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/fifa-regrets-free-world-cup-tickets-and-demands-fans-pay-up-13550862" target="_blank">FIFA &#x27;regrets&#x27; free World Cup tickets and demands fans pay up</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-04 17:28</span>
             </div>
         </div>
 </div>
@@ -162,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-4mel" target="_blank">Three post-deploy checks I run after every Cloudflare Pages build</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-04 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Mesa-26.1-RX-9070-GRE" target="_blank">Linux 7.1 + Mesa 26.1 Performance With The Radeon RX 9070 GRE, RX 9070 XT</a></span>
                 <span class="feed">Phoronix</span>
@@ -202,15 +221,6 @@
                 <span class="title"><a href="https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/" target="_blank">GitHub Universe is back: All together now, in the agentic era</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-06-04 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Boots-Apple-M3" target="_blank">Linux 7.2 Will Be Able To Boot On Apple M3 Macs - But Far From Useful For End-Users</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-04 15:35</span>
             </div>
         </div>
 </div>
@@ -305,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 21:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 22:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
