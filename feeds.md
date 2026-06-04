@@ -1,41 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 18:44:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-04 19:39:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 18:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 19:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,9 +55,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/4/qualifier-chwalinska-sets-up-andreeva-french-open-final?traffic_source=rss" target="_blank">HIstory-making qualifier Chwalinska sets up Andreeva French Open final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-04 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/04/nx-s1-5846797/new-york-city-transit-metro-mta-world-cup-nba-finals" target="_blank">New York City reshapes mass transit system to handle World Cup, NBA finals crowds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-04 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/4/sherpa-found-alive-on-mount-everest-after-six-days-missing?traffic_source=rss" target="_blank">Sherpa found alive on Mount Everest after six days missing</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-04 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-world-cup-trophy-davos_7142541.jpg?20260122122841" alt="FIFA &#x27;regrets&#x27; free World Cup tickets and demands fans pay up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/fifa-regrets-free-world-cup-tickets-and-demands-fans-pay-up-13550862" target="_blank">FIFA &#x27;regrets&#x27; free World Cup tickets and demands fans pay up</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-04 17:28</span>
             </div>
         </div>
 <div class="story">
@@ -78,38 +105,38 @@
                 <span class="time">2026-06-04 16:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/4/israel-must-allow-icrc-to-visit-palestinians-in-prison-supreme-court-rules?traffic_source=rss" target="_blank">Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-04 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251010-john-bolton-zz-1f81fb.jpg" alt="Former Trump adviser John Bolton to plead guilty to retaining national security information" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/former-trump-adviser-john-bolton-plead-guilty-retaining-national-secur-rcna348479" target="_blank">Former Trump adviser John Bolton to plead guilty to retaining national security information</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-04 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/04/g-s1-126041/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons" target="_blank">North Korea unveils a new plant to produce fuel for nuclear weapons</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-04 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/" target="_blank">Meta steals a tactic from Tesla and builds data centers in tents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-04 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center" target="_blank">Kevin O’Leary agrees to downsize massive Utah data center</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-04 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/wireless-router-cables-500x500.jpg" alt="Cable lobby warns of chaos if FCC doesn&#x27;t relax ban on foreign routers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/cable-lobby-warns-of-chaos-if-fcc-doesnt-relax-ban-on-foreign-routers/" target="_blank">Cable lobby warns of chaos if FCC doesn&#x27;t relax ban on foreign routers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-04 18:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a20792118920d19dd0ad2fa/master/pass/Phoebe-Brdgers-Analog-Album-Culture-1986822079.jpg" alt="Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,38 +164,20 @@
                 <span class="time">2026-06-04 16:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/PIA26304-500x500.jpg" alt="After 11 years at Mars, NASA&#x27;s MAVEN spacecraft went out with a whisper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/" target="_blank">After 11 years at Mars, NASA&#x27;s MAVEN spacecraft went out with a whisper</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-04 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller" target="_blank">Belkin’s new Joy-Con grips also boost the Switch 2’s battery life</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-04 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles" target="_blank">TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-04 14:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/beefedai/automating-the-localization-pipeline-extraction-to-tms-to-ci-4b43" target="_blank">Automating the Localization Pipeline: Extraction to TMS to CI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-04 19:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +223,6 @@
                 <span class="time">2026-06-04 14:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/uber-payment-batching-system/en/headerimage/generatedHeaderImage-1779570527807.jpg" alt="30+ Updates per Second per Account: Uber Scales Ledger Processing with Batching" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/uber-payment-batching-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">30+ Updates per Second per Account: Uber Scales Ledger Processing with Batching</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-04 14:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Thumbnail-from-Reckless-Bens-video-I-tracked-down-the-thief-who-stole-200000-of-LEGO.jpg" alt="Police Force Involved In Lego Investigation ‘Hacked,’ YouTuber Claims, As New Footage Is Released" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/reckless-ben-lego-star-wars-bricks-minifigs-mormon-mafia-youtube-2000702473" target="_blank">Police Force Involved In Lego Investigation ‘Hacked,’ YouTuber Claims, As New Footage Is Released</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-04 19:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/robot-attack-e1780600249678.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Robo-party clown ignores Asimov&#x27;s first law of robotics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/04/robo-party-clown-ignores-asimovs-first-law-of-robotics.html" target="_blank">Robo-party clown ignores Asimov&#x27;s first law of robotics</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-04 19:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/aa-e1780597447163.jpg?fit=768%2C513&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s war in Iran cancels summer vacation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +296,6 @@
                 <span class="time">2026-06-04 14:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KT8WRQKJPENBTQYV6HPGVTRW/hero-image.png" alt="This Blink Doorbell and Security Camera Bundle Is 67% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/blink-video-doorbell-camera-bundle-sale-june-2026?utm_medium=RSS" target="_blank">This Blink Doorbell and Security Camera Bundle Is 67% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/amazon-packages-e1780525607343.jpg?fit=768%2C513&amp;quality=60&amp;ssl=1" alt="Amazon uses AI to invent products you can&#x27;t buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/03/amazon-uses-ai-to-invent-products-you-cant-buy.html" target="_blank">Amazon uses AI to invent products you can&#x27;t buy</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-03 22:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 256 |
-        🔄 Last Updated: 18:45 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 19:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
