@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 19:39:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-04 20:38:46 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 19:40 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 20:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/04/nx-s1-5846909/ntsb-united-767-landing-accident-newark" target="_blank">NTSB says United jet was too slow and too low in Newark landing accident</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-04 20:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/4/block-the-bombs-support-grows-for-us-bill-to-restrict-arms-for-israel?traffic_source=rss" target="_blank">Block the bombs: Support grows for US bill to restrict arms for Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-04 19:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,24 +100,6 @@
                 <span class="time">2026-06-04 17:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/longform/2026/6/4/ecuadors-disappeared-inside-one-familys-search-for-answers?traffic_source=rss" target="_blank">Ecuador’s disappeared: Inside one family’s search for answers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-04 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/6f5fd9e0-6032-11f1-89a3-d1f559421220.jpg" alt="Royal Navy crew killed in helicopter crash named" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg4p69gzd4po?at_medium=RSS&at_campaign=rss" target="_blank">Royal Navy crew killed in helicopter crash named</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-04 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,10 +108,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/943445/cyberdeck-tiktok" target="_blank">Cyberdecks used to look like little laptops, but now they&amp;#8217;re getting more personal</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-04 20:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-500x500.jpeg" alt="Dashlane explains how attackers managed to download encrypted password vaults" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/" target="_blank">Dashlane explains how attackers managed to download encrypted password vaults</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-04 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/" target="_blank">Meta steals a tactic from Tesla and builds data centers in tents</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-04 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a20a487d5b5f5af30a6fa53/master/pass/Uncanny-Valley-AI-IPO-Race-Business-1189366547.jpg" alt="The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/" target="_blank">The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-04 18:44</span>
             </div>
         </div>
 <div class="story">
@@ -137,33 +159,6 @@
                 <span class="time">2026-06-04 18:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a20792118920d19dd0ad2fa/master/pass/Phoebe-Brdgers-Analog-Album-Culture-1986822079.jpg" alt="Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/phoebe-bridgers-ditched-the-internet-to-hype-up-her-new-music-its-working/" target="_blank">Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-04 18:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna" target="_blank">Amazon’s new plan for games: James Bond and AI Snoop Dogg</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-04 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/" target="_blank">Meta’s Oversight Board says account bans lack due process, transparency</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-04 16:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +170,15 @@
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/beefedai/automating-the-localization-pipeline-extraction-to-tms-to-ci-4b43" target="_blank">Automating the Localization Pipeline: Extraction to TMS to CI</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-06-04 19:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.buchodi.com/meta-glasses-facial-recognition/" target="_blank">Meta&#x27;s ships facial recognition on smart glasses</a></span>
+                <span class="feed">Hacker News</span>
                 <span class="time">2026-06-04 19:36</span>
             </div>
         </div>
@@ -214,15 +218,6 @@
                 <span class="time">2026-06-04 14:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17354030/foss-weekly-26-23" target="_blank">FOSS Weekly #26.23: Vim Forked, Coreutils on Windows, Reverse WSL, KDE Linux and a Giveaway</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-04 14:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTA40ZE5N0T86HYGBATPGCVZ/hero-image.jpg" alt="&#x27;The Odyssey&#x27; Is Throwing AMC Theaters&#x27; App and Site Into Chaos Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amc-theaters-is-forcing-customers-to-enter-queues-online?utm_medium=RSS" target="_blank">&#x27;The Odyssey&#x27; Is Throwing AMC Theaters&#x27; App and Site Into Chaos Today</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-04 20:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Thumbnail-from-Reckless-Bens-video-I-tracked-down-the-thief-who-stole-200000-of-LEGO.jpg" alt="Police Force Involved In Lego Investigation ‘Hacked,’ YouTuber Claims, As New Footage Is Released" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +291,6 @@
                 <span class="time">2026-06-04 16:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/04/8bd234765d72755c61a7e827609ccf73-1280x720.jpg" alt="After Performance Troubles And A Delay, Elden Ring Is Finally Coming To Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elden-ring-switch-2-tarnished-edition-release-date-shadow-2000702487" target="_blank">After Performance Troubles And A Delay, Elden Ring Is Finally Coming To Switch 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-04 14:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 255 |
-        🔄 Last Updated: 19:40 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 253 |
+        🔄 Last Updated: 20:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
