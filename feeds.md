@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 09:14:18 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-04 11:00:11 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 09:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 11:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Lebanon-DB-260604_1780561980155_hpMain_4x3t_384.jpg" alt="Iran live updates: Fighting continues in Lebanon after ceasefire talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855" target="_blank">Iran live updates: Fighting continues in Lebanon after ceasefire talks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-04 09:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +99,29 @@
                 <span class="time">2026-06-04 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260603-Todd-Blanche-aa-902-d75c80.jpg" alt="Trump to nominate Todd Blanche to be attorney general" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/prewritetrump-nominate-todd-blanche-permanent-attorney-general-rcna348385" target="_blank">Trump to nominate Todd Blanche to be attorney general</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-04 03:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a20667118920d19dd0ad0e5/master/pass/Review--Segway-Myon-Electric-Bike.jpg" alt="Segway Myon Electric Bike Review: Too Smart?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/segway-myon-electric-bike/" target="_blank">Segway Myon Electric Bike Review: Too Smart?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-04 10:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus" target="_blank">Amazon develops a warehouse robot workers can speak to</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-04 09:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a207e55733250a1d7993744/master/pass/Gear_ThisAppMakesGoogleTVActuallyUsable_v1.jpg" alt="This App Makes Google TV Actually Usable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,30 +150,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/6a1f6447234d4b89dad80277/master/pass/science_anthropic_final.jpg" alt="OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae-500x425.jpg" alt="Flesh-eating screwworm infection confirmed in South Texas, USDA says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/" target="_blank">OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-04 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/" target="_blank">Quick commerce FirstClub doubles valuation to $255M in nine months</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-04 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu" target="_blank">Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-04 00:04</span>
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/" target="_blank">Flesh-eating screwworm infection confirmed in South Texas, USDA says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-04 02:46</span>
             </div>
         </div>
 </div>
@@ -168,6 +163,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/crabpascal/testing-horse-apis-with-postman-testando-apis-horse-com-postman-1fbe" target="_blank">Testing Horse APIs with Postman | Testando APIs Horse com Postman</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-04 10:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/HDMI-FRL-2.1-Submitted-DRM" target="_blank">AMD Submits Its Long-Awaited HDMI 2.1 FRL Support For Linux 7.2 AMDGPU</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-04 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/architecting-deletion-system/en/mediumimage/medium-1779869686290.jpg" alt="Presentation: Architecting a Centralized Platform for Data Deletion at Netflix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/architecting-deletion-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Architecting a Centralized Platform for Data Deletion at Netflix</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-04 10:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/architectural-change-cases/en/headerimage/architectural-change-cases-header-1780316814045.jpg" alt="Article: Architectural Change Cases: A Practical Tool for Evolutionary Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,33 +215,6 @@
                 <span class="title"><a href="https://dev.to/erickg123/desconstruindo-o-build-a-revolucao-do-angular-e-a-diferenca-entre-compilador-e-bundler-4p9f" target="_blank">Desconstruindo o Build: A Revolução do Angular (E a diferença entre Compilador e Bundler)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-04 01:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://e360.yale.edu/digest/trump-ooi-amoc" target="_blank">U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-04 00:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/itlackey/one-schema-to-rule-them-all-the-config-v2-rewrite-4jek" target="_blank">One Schema to Rule Them All: The Config v2 Rewrite</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-04 00:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/flexibility-in-middle-east-ai-transformation-journey" target="_blank">MENA PR - Why flexibility is non-negotiable in the Middle East’s AI transformation journey</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-06-04 00:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 254 |
-        🔄 Last Updated: 09:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 11:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
