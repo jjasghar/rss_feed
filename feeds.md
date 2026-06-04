@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 20:38:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-04 21:29:39 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 20:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 21:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +103,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/" target="_blank">Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-04 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/943445/cyberdeck-tiktok" target="_blank">Cyberdecks used to look like little laptops, but now they&amp;#8217;re getting more personal</a></span>
                 <span class="feed">The Verge</span>
@@ -150,20 +154,20 @@
                 <span class="time">2026-06-04 18:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/wireless-router-cables-500x500.jpg" alt="Cable lobby warns of chaos if FCC doesn&#x27;t relax ban on foreign routers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/cable-lobby-warns-of-chaos-if-fcc-doesnt-relax-ban-on-foreign-routers/" target="_blank">Cable lobby warns of chaos if FCC doesn&#x27;t relax ban on foreign routers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-04 18:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Mesa-26.1-RX-9070-GRE" target="_blank">Linux 7.1 + Mesa 26.1 Performance With The Radeon RX 9070 GRE, RX 9070 XT</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-04 21:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Boots-Apple-M3" target="_blank">Linux 7.2 Will Be Able To Boot On Apple M3 Macs - But Far From Useful For End-Users</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-04 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Lenovo-Yoga-Slim-7x-Gen11-Linux" target="_blank">Qualcomm Gets The Lenovo Yoga Slim 7x Gen11 Snapdragon X2 Laptop Working On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-04 14:48</span>
             </div>
         </div>
 </div>
@@ -310,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 253 |
-        🔄 Last Updated: 20:38 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 21:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
