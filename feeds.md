@@ -1,41 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 22:27:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-04 23:23:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 22:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 23:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +39,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/04/nx-s1-5751145/save-act-senate-vote-trump" target="_blank">Republicans&#x27; sweeping election overhaul fails in the Senate</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-04 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/4/ivory-coast-beat-france-in-world-cup-warning-to-one-of-the-favourites?traffic_source=rss" target="_blank">Ivory Coast beat France in World Cup warning to one of the favourites</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-04 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/lincoln-gty-er-260604_1780603336007_hpMain_4x3t_384.jpg" alt="Trump announces plan to add &#x27;promenade&#x27; to Lincoln Memorial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-announces-plan-add-promenade-lincoln-memorial/story?id=133597767" target="_blank">Trump announces plan to add &#x27;promenade&#x27; to Lincoln Memorial</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-04 22:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg" alt="Zelensky proposes face-to-face talks in open letter to Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,38 +93,20 @@
                 <span class="time">2026-06-04 19:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/4/qualifier-chwalinska-sets-up-andreeva-french-open-final?traffic_source=rss" target="_blank">HIstory-making qualifier Chwalinska sets up Andreeva French Open final</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-04 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/04/nx-s1-5846797/new-york-city-transit-metro-mta-world-cup-nba-finals" target="_blank">New York City reshapes mass transit system to handle World Cup, NBA finals crowds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-04 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/4/sherpa-found-alive-on-mount-everest-after-six-days-missing?traffic_source=rss" target="_blank">Sherpa found alive on Mount Everest after six days missing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-04 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/" target="_blank">Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-04 22:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,15 +152,6 @@
                 <span class="time">2026-06-04 18:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center" target="_blank">Kevin O’Leary agrees to downsize massive Utah data center</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-04 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -185,6 +173,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Mesa-26.1-RX-9070-GRE" target="_blank">Linux 7.1 + Mesa 26.1 Performance With The Radeon RX 9070 GRE, RX 9070 XT</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-04 21:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/anthropics/defending-code-reference-harness" target="_blank">Anthropic&#x27;s open-source framework for AI-powered vulnerability discovery</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-04 20:11</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/paranoidqrypto/the-ultimate-guide-to-securely-broadcasting-an-offline-bitcoin-transaction-ecp" target="_blank">The Ultimate Guide to Securely Broadcasting an Offline Bitcoin Transaction</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-04 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/" target="_blank">GitHub Universe is back: All together now, in the agentic era</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-04 16:00</span>
             </div>
         </div>
 </div>
@@ -315,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 22:27 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 23:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
