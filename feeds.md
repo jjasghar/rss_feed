@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 11:00:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-04 12:05:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 11:00 UTC</div>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/04/g-s1-125937/up-first-newsletter-ice-funding-package-trump-netanyahu-federal-workers-world-cup-weather" target="_blank">Senate to start debate on ICE funding. And, Israel and Lebanon agree to ceasefire</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-04 12:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Lebanon-DB-260604_1780561980155_hpMain_4x3t_384.jpg" alt="Iran live updates: Fighting continues in Lebanon after ceasefire talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/4/israeli-strikes-on-residential-buildings-kill-nine-in-gaza-city?traffic_source=rss" target="_blank">Israeli strikes on residential buildings kill nine in Gaza City</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-04 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response" target="_blank">Rebel attacks in eastern DRC kill 30 people and hamper Ebola response</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-04 04:00</span>
             </div>
         </div>
 </div>
@@ -164,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/06/data-driven-platform-engineering/en/headerimage/generatedHeaderImage-1780255652688.jpg" alt="How a Culture of Data-Driven Conversations Can Support Platform Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/data-driven-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How a Culture of Data-Driven Conversations Can Support Platform Engineering</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-04 11:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,29 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/libinput-1.31.2-Security-Fix" target="_blank">Widely-Used libinput Updated Due To Arbitrary Root Code Execution</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-04 01:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/erickg123/desconstruindo-o-build-a-revolucao-do-angular-e-a-diferenca-entre-compilador-e-bundler-4p9f" target="_blank">Desconstruindo o Build: A Revolução do Angular (E a diferença entre Compilador e Bundler)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-04 01:40</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html" target="_blank">AI Used to Decrypt Medieval Ciphers</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-03 11:04</span>
             </div>
         </div>
 </div>
@@ -318,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 255 |
-        🔄 Last Updated: 11:00 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 39 | 📸 With Images: 256 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
