@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 01:49:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-04 03:02:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 01:50 UTC</div>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 03:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-greenland-denmark_7264932.jpg?20260604031046" alt="Greenland is Denmark&#x27;s &#x27;for now&#x27;, says America&#x27;s top diplomat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-secretary-of-state-marco-rubio-says-greenland-is-part-of-denmark-for-now-13550610" target="_blank">Greenland is Denmark&#x27;s &#x27;for now&#x27;, says America&#x27;s top diplomat</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-04 01:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +102,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-attacks-by-iran-and-u-s-strain-an-already-shaky-ceasefire-264470085698" target="_blank">New attacks by Iran and U.S. strain an already shaky ceasefire</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-03 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-5-ap-er-260603_1780518781105_hpMain_4x3t_384.jpg" alt="Iran live updates: House adopts war powers resolution in rebuke to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855" target="_blank">Iran live updates: House adopts war powers resolution in rebuke to Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-03 21:56</span>
             </div>
         </div>
 </div>
@@ -167,10 +171,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/libinput-1.31.2-Security-Fix" target="_blank">Widely-Used libinput Updated Due To Arbitrary Root Code Execution</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-04 01:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/erickg123/desconstruindo-o-build-a-revolucao-do-angular-e-a-diferenca-entre-compilador-e-bundler-4p9f" target="_blank">Desconstruindo o Build: A Revolução do Angular (E a diferença entre Compilador e Bundler)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-04 01:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://e360.yale.edu/digest/trump-ooi-amoc" target="_blank">U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-04 00:44</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/czmirek/how-unclear-responsibilities-add-to-technical-debt-on-all-levels-of-seniority-2cao" target="_blank">How unclear responsibilities add to technical debt on all levels of seniority</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-03 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/" target="_blank">Elixir v1.20: Now a gradually typed language</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-03 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.0.15" target="_blank">COSMIC Now Implements Wayland Pointer Constraints For Better Gaming Experience</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-03 18:53</span>
             </div>
         </div>
 </div>
@@ -337,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 01:50 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 03:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
