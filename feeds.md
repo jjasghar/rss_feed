@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 03:02:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-04 05:32:03 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 03:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 05:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/4/israeli-strikes-on-residential-buildings-kill-nine-in-gaza-city?traffic_source=rss" target="_blank">Israeli strikes on residential buildings kill nine in Gaza City</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-04 04:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response" target="_blank">Rebel attacks in eastern DRC kill 30 people and hamper Ebola response</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-04 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260603-Todd-Blanche-aa-902-d75c80.jpg" alt="Trump to nominate Todd Blanche to be attorney general" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/prewritetrump-nominate-todd-blanche-permanent-attorney-general-rcna348385" target="_blank">Trump to nominate Todd Blanche to be attorney general</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-04 03:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/06/1920x1080/skynews-greenland-denmark_7264932.jpg?20260604031046" alt="Greenland is Denmark&#x27;s &#x27;for now&#x27;, says America&#x27;s top diplomat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,33 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-04 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4dd/live/3b625900-5f66-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israel and Lebanon agree to ceasefire contingent on Hezbollah stopping attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Lebanon agree to ceasefire contingent on Hezbollah stopping attacks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-04 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss" target="_blank">Iran war live: Tensions simmer after latest US-Iran clashes in Gulf</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-04 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780528095641_nn_ren_us_iran_attacks_ceasefire_260603_S3_1920x1080-upli1u.jpg" alt="New attacks by Iran and U.S. strain an already shaky ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-attacks-by-iran-and-u-s-strain-an-already-shaky-ceasefire-264470085698" target="_blank">New attacks by Iran and U.S. strain an already shaky ceasefire</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-03 23:08</span>
             </div>
         </div>
 </div>
@@ -205,21 +205,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://maxleiter.com/blog/weights" target="_blank">&quot;They&#x27;re made out of weights&quot;</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-03 23:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkkfqyf2ms5a3q4tr7m6f.png" alt="CodeSynth 2.0👩🏽‍💻: Rebuilding My Hackathon Prototype into a CRDT-Powered Coding Playground🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nupoorshetye/codesynth-20-rebuilding-my-hackathon-prototype-into-a-crdt-powered-collaborative-coding-5pc" target="_blank">CodeSynth 2.0👩🏽‍💻: Rebuilding My Hackathon Prototype into a CRDT-Powered Coding Playground🚀</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-03 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/czmirek/how-unclear-responsibilities-add-to-technical-debt-on-all-levels-of-seniority-2cao" target="_blank">How unclear responsibilities add to technical debt on all levels of seniority</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-03 20:46</span>
             </div>
         </div>
 </div>
@@ -327,22 +327,13 @@
                 <span class="time">2026-06-03 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/detector.png" alt="Detector" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3254/" target="_blank">Detector</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-06-03 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 03:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 39 | 📸 With Images: 254 |
+        🔄 Last Updated: 05:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
