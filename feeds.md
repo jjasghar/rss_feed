@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 05:32:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-04 07:30:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 05:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 07:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/04/g-s1-125926/albania-protests-trump-family-linked-resort" target="_blank">Plans for a Trump family-linked resort spark protests in Albania</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-04 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +98,20 @@
                 <span class="time">2026-06-04 01:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea2/live/caf5c620-5fb5-11f1-89a3-d1f559421220.jpg" alt="Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-04 00:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Nomad Goods Promo Codes: Get 25% Off in June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nomad-discount-code/" target="_blank">Nomad Goods Promo Codes: Get 25% Off in June 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-04 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a1f6447234d4b89dad80277/master/pass/science_anthropic_final.jpg" alt="OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,15 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store" target="_blank">Apple is bringing age verification to Texas this week</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-03 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/" target="_blank">Defense tech is flooded with money, but who’s built to last?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-03 20:51</span>
             </div>
         </div>
 </div>
@@ -207,19 +201,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/flexibility-in-middle-east-ai-transformation-journey" target="_blank">MENA PR - Why flexibility is non-negotiable in the Middle East’s AI transformation journey</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-06-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://maxleiter.com/blog/weights" target="_blank">&quot;They&#x27;re made out of weights&quot;</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-03 23:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkkfqyf2ms5a3q4tr7m6f.png" alt="CodeSynth 2.0👩🏽‍💻: Rebuilding My Hackathon Prototype into a CRDT-Powered Coding Playground🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nupoorshetye/codesynth-20-rebuilding-my-hackathon-prototype-into-a-crdt-powered-collaborative-coding-5pc" target="_blank">CodeSynth 2.0👩🏽‍💻: Rebuilding My Hackathon Prototype into a CRDT-Powered Coding Playground🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-03 23:18</span>
             </div>
         </div>
 </div>
@@ -241,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/amazon-packages-e1780525607343.jpg?fit=768%2C513&amp;quality=60&amp;ssl=1" alt="Amazon uses AI to invent products you can&#x27;t buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/03/amazon-uses-ai-to-invent-products-you-cant-buy.html" target="_blank">Amazon uses AI to invent products you can&#x27;t buy</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-03 22:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/copsss-1280x720.jpg" alt="GTA 6 YouTuber Walks Into Rockstar Games Lobby And Allegedly Gets Police Called On Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +289,6 @@
                 <span class="time">2026-06-03 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/d8f74d792342ce766d95cf4dfef6d184-1280x720.jpg" alt="The Spirit Of Old E3 Is Strong This Year With A Rumored Nintendo Direct Right Around The Corner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-spirit-of-old-e3-is-strong-this-year-with-a-rumored-nintendo-direct-right-around-the-corner-2000702042" target="_blank">The Spirit Of Old E3 Is Strong This Year With A Rumored Nintendo Direct Right Around The Corner</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-03 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,22 +312,13 @@
                 <span class="time">2026-06-03 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/03/the-three-mouseketeers" target="_blank">The Three Mouseketeers</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-03 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 39 | 📸 With Images: 254 |
-        🔄 Last Updated: 05:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 07:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
