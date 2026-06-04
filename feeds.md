@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 00:35:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-04 01:49:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 00:35 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 01:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/4/nigerias-second-chance-schools-women-balancing-study-and-survival?traffic_source=rss" target="_blank">Nigeria’s second-chance schools: women balancing study and survival</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-04 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea2/live/caf5c620-5fb5-11f1-89a3-d1f559421220.jpg" alt="Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-04 00:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4dd/live/3b625900-5f66-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israel and Lebanon agree to ceasefire contingent on Hezbollah stopping attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780528095641_nn_ren_us_iran_attacks_ceasefire_260603_S3_1920x1080-upli1u.jpg" alt="New attacks by Iran and U.S. strain an already shaky ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-attacks-by-iran-and-u-s-strain-an-already-shaky-ceasefire-264470085698" target="_blank">New attacks by Iran and U.S. strain an already shaky ceasefire</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-03 23:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-5-ap-er-260603_1780518781105_hpMain_4x3t_384.jpg" alt="Iran live updates: House adopts war powers resolution in rebuke to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -79,38 +100,20 @@
                 <span class="time">2026-06-03 21:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote" target="_blank">House passes war powers resolution directing Trump to end hostilities with Iran</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-03 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss" target="_blank">Kuwait labels Iran attack ‘heinous aggression’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-03 21:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/ten-years-on-world-remembers-muhammad-ali-the-greatest?traffic_source=rss" target="_blank">Ten years on, world remembers Muhammad Ali ‘the Greatest’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-03 20:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a1f6447234d4b89dad80277/master/pass/science_anthropic_final.jpg" alt="OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/" target="_blank">OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-04 01:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -118,6 +121,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/" target="_blank">Quick commerce FirstClub doubles valuation to $255M in nine months</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-04 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu" target="_blank">Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-04 00:04</span>
             </div>
         </div>
 <div class="story">
@@ -147,29 +159,20 @@
                 <span class="time">2026-06-03 20:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-500x500-1780514708.jpg" alt="Google ordered to put clearer links in AI search and let UK publishers opt out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/" target="_blank">Google ordered to put clearer links in AI search and let UK publishers opt out</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-03 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan" target="_blank">Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-03 20:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/erickg123/desconstruindo-o-build-a-revolucao-do-angular-e-a-diferenca-entre-compilador-e-bundler-4p9f" target="_blank">Desconstruindo o Build: A Revolução do Angular (E a diferença entre Compilador e Bundler)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-04 01:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.0.15" target="_blank">COSMIC Now Implements Wayland Pointer Constraints For Better Gaming Experience</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-03 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top" target="_blank">Kubernetes and retiring at the top with Kelsey Hightower</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-06-03 17:59</span>
             </div>
         </div>
 </div>
@@ -343,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 00:35 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 01:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
