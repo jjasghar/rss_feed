@@ -1,10 +1,11 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 17:56:08 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-04 18:44:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
@@ -12,21 +13,29 @@
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 17:56 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, June 04, 2026 - 18:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/4/sherpa-found-alive-on-mount-everest-after-six-days-missing?traffic_source=rss" target="_blank">Sherpa found alive on Mount Everest after six days missing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-04 18:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +105,20 @@
                 <span class="time">2026-06-04 16:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/4/lebanons-latest-truce-what-is-different-from-the-april-agreement?traffic_source=rss" target="_blank">Lebanon’s latest truce: What is different from the April agreement?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-04 14:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a20792118920d19dd0ad2fa/master/pass/Phoebe-Brdgers-Analog-Album-Culture-1986822079.jpg" alt="Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/phoebe-bridgers-ditched-the-internet-to-hype-up-her-new-music-its-working/" target="_blank">Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-04 18:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +164,6 @@
                 <span class="time">2026-06-04 14:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2229069552-500x500.jpg" alt="How some data center operators are tackling their water use problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/" target="_blank">How some data center operators are tackling their water use problems</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-04 14:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,10 +181,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/" target="_blank">GitHub Universe is back: All together now, in the agentic era</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-04 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Boots-Apple-M3" target="_blank">Linux 7.2 Will Be Able To Boot On Apple M3 Macs - But Far From Useful For End-Users</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-04 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Lenovo-Yoga-Slim-7x-Gen11-Linux" target="_blank">Qualcomm Gets The Lenovo Yoga Slim 7x Gen11 Snapdragon X2 Laptop Working On Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-04 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17354030/foss-weekly-26-23" target="_blank">FOSS Weekly #26.23: Vim Forked, Coreutils on Windows, Reverse WSL, KDE Linux and a Giveaway</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-04 14:38</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +221,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/uber-payment-batching-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">30+ Updates per Second per Account: Uber Scales Ledger Processing with Batching</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-04 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maxmendes91/microsoft-build-2026-windows-wants-to-be-the-operating-system-for-ai-agents-59kl" target="_blank">Microsoft Build 2026: Windows Wants to Be the Operating System for AI Agents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-04 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.cloudflare.com/voidzero-joins-cloudflare/" target="_blank">VoidZero Is Joining Cloudflare</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-core-26-ai-renesas" target="_blank">A look into Ubuntu Core 26: Deploying AI models on Renesas RZ/V series for production</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-04 12:36</span>
             </div>
         </div>
 </div>
@@ -233,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/aa-e1780597447163.jpg?fit=768%2C513&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s war in Iran cancels summer vacation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/04/trumps-war-in-iran-cancels-summer-vacation.html" target="_blank">Trump&#x27;s war in Iran cancels summer vacation</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-04 18:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/06/bfb725166a99ccabb7cd25ed810a4e8e-1280x720.jpg" alt="Amazon Says It Has ‘Great Relationship’ With 007 First Light Devs As Fans Worry IOI Won’t Get To Make A Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +296,6 @@
                 <span class="time">2026-06-03 22:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/copsss-1280x720.jpg" alt="GTA 6 YouTuber Walks Into Rockstar Games Lobby And Allegedly Gets Police Called On Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gta-6-youtuber-walks-into-rockstar-games-lobby-and-allegedly-gets-police-called-on-him-2000702118" target="_blank">GTA 6 YouTuber Walks Into Rockstar Games Lobby And Allegedly Gets Police Called On Him</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-03 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,22 +310,13 @@
                 <span class="time">2026-06-04 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/03/the-three-mouseketeers" target="_blank">The Three Mouseketeers</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-03 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 38 | 📸 With Images: 258 |
-        🔄 Last Updated: 17:56 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 256 |
+        🔄 Last Updated: 18:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
