@@ -1,36 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 12:53:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-05 13:55:49 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 12:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, June 05, 2026 - 13:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d4b/live/12c2fc90-60bd-11f1-bca0-e975c953fcd1.jpg" alt="Teen rapists spared jail partly because of intellectual limitations, judge&#x27;s full remarks show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3d2d55kvy1o?at_medium=RSS&at_campaign=rss" target="_blank">Teen rapists spared jail partly because of intellectual limitations, judge&#x27;s full remarks show</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-05 10:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -74,6 +90,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/john-thune-senate-vote_1780651531491_hpMain_4x3t_384.jpg" alt="Senate approves $70 billion immigration enforcement bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/senate-approves-70-billion-immigration-enforcement-bill/story?id=133610064" target="_blank">Senate approves $70 billion immigration enforcement bill</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-05 09:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -82,29 +107,38 @@
                 <span class="time">2026-06-05 08:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/5/french-iranian-persepolis-author-marjane-satrapi-dies-of-sadness?traffic_source=rss" target="_blank">French-Iranian Persepolis author Marjane Satrapi dies of ‘sadness’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-05 08:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260604-russia-putin-mn-1200-868559.jpg" alt="Putin faces Ukrainian drone threat and stagnating economy at ‘Russian Davos’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/russia/putin-speech-st-petersburg-forum-ukraine-drones-economy-russia-davos-rcna348452" target="_blank">Putin faces Ukrainian drone threat and stagnating economy at ‘Russian Davos’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-05 08:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/ng4explosion-500x500.jpg" alt="Safety officials finally have a good idea of what a big rocket explosion can do" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/safety-officials-finally-have-a-good-idea-of-what-a-big-rocket-explosion-can-do/" target="_blank">Safety officials finally have a good idea of what a big rocket explosion can do</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-05 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/943852/trump-phone-made-in-the-usa-ftc-assembled-china" target="_blank">Why isn’t the Trump phone made in the USA?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-05 13:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/" target="_blank">AirTrunk commits $30B to build 5GW of AI data centers in India</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-05 13:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-500x500-1780609068.jpg" alt="Steve Jobs in Exile is a fine profile of Jobs&#x27; years at NeXT" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -112,6 +146,15 @@
                 <span class="title"><a href="https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/" target="_blank">Steve Jobs in Exile is a fine profile of Jobs&#x27; years at NeXT</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-05 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a221a5a0471edafd62fb304/master/pass/Review--EveryPlate-Meal-Kit-(2026).jpg" alt="EveryPlate Meal Kit Review (2026): Low Cost, Simplicity, Flavor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/everyplate-meal-kit-review-2026/" target="_blank">EveryPlate Meal Kit Review (2026): Low Cost, Simplicity, Flavor</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-05 11:04</span>
             </div>
         </div>
 <div class="story">
@@ -123,47 +166,29 @@
                 <span class="time">2026-06-05 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/" target="_blank">Mira Murati steps back into the spotlight, carefully</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-05 05:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="30% Off Canon Promo Codes | June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/canon-promo-code/" target="_blank">30% Off Canon Promo Codes | June 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-05 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/" target="_blank">Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-05 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified" target="_blank">Valve says it&amp;#8217;s ready to launch the Steam Machine this summer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-04 22:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aykhlf_yassir/what-is-a-container-2060" target="_blank">What Is a Container?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-05 13:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/nvidia-vera-arm-server" target="_blank">ARM Linux Server Performance Up More Than 7x Geo Mean In 8 Years, As Much As 15x With NVIDIA Vera CPU</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-05 13:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/ai-multi-agentic-tools/en/mediumimage/medium-1779867927919.jpg" alt="Presentation: Platform Teams Enabling AI - MCP/Multi-Agentic Tools Across Linkedin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,22 +225,18 @@
                 <span class="time">2026-06-05 10:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/secure-ai-stack-model-production-series/en/headerimage/Article-Series-Securing-the-AI-Stack-From-Model-to-Production-header-image-1780040531515.jpg" alt="Article Series: Securing the AI Stack: From Model to Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/secure-ai-stack-model-production-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article Series: Securing the AI Stack: From Model to Production</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-05 09:00</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/06/05/making-the-owasp-top-ten-in-the-vibe-code-era/" target="_blank">Making the OWASP top ten in the vibe code era​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​‌‍​‌​﻿​﻿​﻿‌‍​﻿‍‌​﻿‌‍‌‍​‍​﻿‌​​‍﻿‌​﻿‍​​﻿​‌‌‍‌‍​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌‌‌‍‌‌​‍﻿‌‌‍​‌​﻿​​‌‍​﻿‌‍​‍​‍﻿‌‌‍​﻿​﻿‌‌‌‍‌‌‌‍​‌​﻿‍​​﻿​‌​﻿‌﻿‌‍‌​​﻿‍​​﻿‍​​﻿​​​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​‌‍​‌​﻿​﻿​﻿‌‍​﻿‍‌​﻿‌‍‌‍​‍​﻿‌​​‍﻿‌​﻿‍​​﻿​‌‌‍‌‍​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌‌‌‍‌‌​‍﻿‌‌‍​‌​﻿​​‌‍​﻿‌‍​‍​‍﻿‌‌‍​﻿​﻿‌‌‌‍‌‌‌‍​‌​﻿‍​​﻿​‌​﻿‌﻿‌‍‌​​﻿‍​​﻿‍​​﻿​​​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-06-05 07:40</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/ai-worm.html" target="_blank">AI Worm</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-05 13:21</span>
             </div>
         </div>
 </div>
@@ -305,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 12:53 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 247 |
+        🔄 Last Updated: 13:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
