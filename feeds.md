@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 05:26:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-05 07:21:46 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 05:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, June 05, 2026 - 07:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -89,12 +89,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-mitzpe-shalem-ahava_7247751.jpg?20260513161851" alt="Superdrug removes skincare brand amid concerns over Israeli settlement products" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/4/ivory-coast-beat-france-in-world-cup-warning-to-one-of-the-favourites?traffic_source=rss" target="_blank">Ivory Coast beat France in World Cup warning to one of the favourites</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-04 23:00</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/superdrug-removes-skincare-brand-as-suspected-cosmetic-ingredients-seen-in-west-bank-israeli-settlement-13543117" target="_blank">Superdrug removes skincare brand amid concerns over Israeli settlement products</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-04 23:01</span>
             </div>
         </div>
 </div>
@@ -162,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjf3xng9vwg6hqzh1egk5.gif" alt="peektea past the roadmap 👀 sorting and scrollable previews" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/peektea-past-the-roadmap-sorting-and-scrollable-previews-1f6g" target="_blank">peektea past the roadmap 👀 sorting and scrollable previews</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-05 07:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-4mel" target="_blank">Three post-deploy checks I run after every Cloudflare Pages build</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-04 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Mesa-26.1-RX-9070-GRE" target="_blank">Linux 7.1 + Mesa 26.1 Performance With The Radeon RX 9070 GRE, RX 9070 XT</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-04 21:25</span>
             </div>
         </div>
 </div>
@@ -294,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/05/a-shocking-display" target="_blank">A Shocking Display</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-05 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1780287055-20260604.png" alt="Saturday Morning Breakfast Cereal - Gland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -307,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 247 |
-        🔄 Last Updated: 05:26 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 07:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
