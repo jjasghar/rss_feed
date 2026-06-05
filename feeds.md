@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 21:28:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-05 22:23:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 21:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, June 05, 2026 - 22:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +50,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/wc-2-ap-gmh-260529_1780067987818_hpMain_2_4x3t_384.jpg" alt="Iran World Cup players granted visas to enter the US, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/irans-world-cup-players-granted-visas-play-us/story?id=133630621" target="_blank">Iran World Cup players granted visas to enter the US, official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-05 21:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/05/nx-s1-5847818/reflecting-pool-repaint-refill" target="_blank">After D.C.&#x27;s Reflecting Pool gets repainted, visitors ask: What changed?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-05 21:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/wc-2-ap-gmh-260529_1780067987818_hpMain_2_4x3t_384.jpg" alt="Iran&#x27;s World Cup players granted visas to play in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/irans-world-cup-players-granted-visas-play-us/story?id=133630621" target="_blank">Iran&#x27;s World Cup players granted visas to play in the US</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-05 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/20260605-5100-02_EMBARGOED_MTP_TRUMP_INTV_LINE_CUT_DIRTY_NY-DC_28_1424-1631_frame_440-0p64is.jpg" alt="Exclusive: Trump says Iran hasn&#x27;t made a deal because ‘they’re strong’ and ‘proud’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/exclusive-trump-says-iran-hasn-t-made-a-deal-because-they-re-strong-and-proud-264654917516" target="_blank">Exclusive: Trump says Iran hasn&#x27;t made a deal because ‘they’re strong’ and ‘proud’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-05 20:43</span>
             </div>
         </div>
 <div class="story">
@@ -75,33 +103,6 @@
                 <span class="time">2026-06-05 19:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/5/judge-strikes-down-trump-bar-on-asylum-visa-processing-for-39-countries?traffic_source=rss" target="_blank">Judge strikes down Trump bar on asylum, visa processing for 39 countries</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-05 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a6e/live/d52d0df0-6100-11f1-ae0d-afcc10479766.jpg" alt="Putin says there is &#x27;no point&#x27; meeting Zelensky over ending Ukraine war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss" target="_blank">Putin says there is &#x27;no point&#x27; meeting Zelensky over ending Ukraine war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-05 18:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss" target="_blank">Trump admin’s cancellation of wind energy projects causes business turmoil</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-05 18:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,9 +112,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/944151/control-resonant-hands-on" target="_blank">Control Resonant is a sequel — and also a starting point</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-05 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte" target="_blank">Congress still can’t decide what to do about warrantless surveillance</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-05 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/sound-blaster-katana-v2x-500x500-1780688848.jpg" alt="How a USB-connected speaker can infect a PC without ever being touched" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/" target="_blank">How a USB-connected speaker can infect a PC without ever being touched</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-05 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -143,29 +162,20 @@
                 <span class="time">2026-06-05 17:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/noirTOP-500x500.jpg" alt="Review: Spider-Noir recaptures the magic of a bygone era" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/" target="_blank">Review: Spider-Noir recaptures the magic of a bygone era</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-05 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale" target="_blank">The Sonos Era 100 speaker is down to its lowest price in months</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-05 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marcel_lehmann_31109127df/testing-email-workflows-without-email-server-with-playwright-mokapi-b25" target="_blank">Testing Email Workflows Without Email Server — With Playwright &amp; Mokapi</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-05 22:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/ravedigital/how-we-strengthened-magento-performance-architecture-for-a-multi-million-product-store-5f5g" target="_blank">How We Strengthened Magento Performance Architecture for a Multi-Million Product Store</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-05 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/live/c4g44ew3g1kt" target="_blank">Astronauts told to return to ISS after sheltering over air leak repairs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-05 15:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 256 |
-        🔄 Last Updated: 21:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 254 |
+        🔄 Last Updated: 22:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
