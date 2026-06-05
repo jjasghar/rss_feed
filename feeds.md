@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 16:04:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-05 17:34:02 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 16:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, June 05, 2026 - 17:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019" target="_blank">Xi Jinping will travel to North Korea next week in first visit since 2019</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-05 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e535/live/411ae920-60f6-11f1-bb63-4f1168d17ecf.jpg" alt="Astronauts return to ISS after sheltering during air leak repair attempt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss" target="_blank">Astronauts return to ISS after sheltering during air leak repair attempt</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-05 16:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92fe/live/5fba1580-60d4-11f1-8b8c-6d33e1d5abb6.jpg" alt="Ukraine strikes cargo ships and admits Romania drone blast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,29 +96,20 @@
                 <span class="time">2026-06-05 11:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780658146910_tdy_news_7a_simmons_putin_address_260605_S3_1920x1080-yt0ot7.jpg" alt="Putin to Deliver Address Amid Pressure to End War in Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/ukraine-s-zelenskyy-proposes-peace-talks-in-letter-to-putin-264586309543" target="_blank">Putin to Deliver Address Amid Pressure to End War in Ukraine</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-05 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d4b/live/12c2fc90-60bd-11f1-bca0-e975c953fcd1.jpg" alt="Teen rapists spared jail partly because of intellectual limitations, judge&#x27;s full remarks show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3d2d55kvy1o?at_medium=RSS&at_campaign=rss" target="_blank">Teen rapists spared jail partly because of intellectual limitations, judge&#x27;s full remarks show</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-05 10:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/noirTOP-500x500.jpg" alt="Review: Spider-Noir recaptures the magic of a bygone era" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/" target="_blank">Review: Spider-Noir recaptures the magic of a bygone era</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-05 17:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2167660808-500x500.jpg" alt="Trump admin tries again to revive dying coal industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,15 +155,6 @@
                 <span class="time">2026-06-05 14:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/ng4explosion-500x500.jpg" alt="Safety officials finally have a good idea of what a big rocket explosion can do" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/06/safety-officials-finally-have-a-good-idea-of-what-a-big-rocket-explosion-can-do/" target="_blank">Safety officials finally have a good idea of what a big rocket explosion can do</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-05 13:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,9 +164,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/20acoder12/how-to-use-bandit-library-2e2c" target="_blank">How to use bandit library?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-05 17:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ravedigital/how-we-strengthened-magento-performance-architecture-for-a-multi-million-product-store-5f5g" target="_blank">How We Strengthened Magento Performance Architecture for a Multi-Million Product Store</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-05 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/live/c4g44ew3g1kt" target="_blank">Astronauts on ISS told to shelter as repairs under way to fix air leaks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-05 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/aykhlf_yassir/what-is-a-container-2060" target="_blank">What Is a Container?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-05 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/nvidia-vera-arm-server" target="_blank">ARM Linux Server Performance Up More Than 7x Geo Mean In 8 Years, As Much As 15x With NVIDIA Vera CPU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-05 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17354728/proton-drive-encryption-upgrades" target="_blank">Proton Drive is Now Faster (And Getting a Linux Client Soon)</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-05 12:51</span>
             </div>
         </div>
 </div>
@@ -302,6 +293,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1780608554-20260605.png" alt="Saturday Morning Breakfast Cereal - Proof" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/proof-5" target="_blank">Saturday Morning Breakfast Cereal - Proof</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-05 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 250 |
-        🔄 Last Updated: 16:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 251 |
+        🔄 Last Updated: 17:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
