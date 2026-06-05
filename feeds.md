@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-04 23:23:09 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-05 00:27:31 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, June 04, 2026 - 23:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, June 05, 2026 - 00:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss" target="_blank">Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-05 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/04/nx-s1-5846966/george-santos-kalshi-threats" target="_blank">I wrote about George Santos. Then he made a violent threat and lied about it</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-04 23:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -58,39 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780613749639_nn_gha_john_bolton_plead_guilty_classified_documents_case_260604_S3_1920x1080-7g6svq.jpg" alt="John Bolton to plead guilty in classified documents case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/john-bolton-to-plead-guilty-in-classified-documents-case-264546885733" target="_blank">John Bolton to plead guilty in classified documents case</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-04 22:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/lincoln-gty-er-260604_1780603336007_hpMain_4x3t_384.jpg" alt="Trump announces plan to add &#x27;promenade&#x27; to Lincoln Memorial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/trump-announces-plan-add-promenade-lincoln-memorial/story?id=133597767" target="_blank">Trump announces plan to add &#x27;promenade&#x27; to Lincoln Memorial</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-04 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg" alt="Zelensky proposes face-to-face talks in open letter to Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky proposes face-to-face talks in open letter to Putin</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-04 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/04/nx-s1-5846909/ntsb-united-767-landing-accident-newark" target="_blank">NTSB says United jet was too slow and too low in Newark landing accident</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-04 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/4/block-the-bombs-support-grows-for-us-bill-to-restrict-arms-for-israel?traffic_source=rss" target="_blank">Block the bombs: Support grows for US bill to restrict arms for Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-04 19:43</span>
             </div>
         </div>
 </div>
@@ -102,9 +108,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/" target="_blank">Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-05 00:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/" target="_blank">Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-04 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a21dc78733250a1d799491a/master/pass/GettyImages-2212569697%20(1).jpg" alt="Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/" target="_blank">Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-04 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -134,29 +158,20 @@
                 <span class="time">2026-06-04 20:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/" target="_blank">Meta steals a tactic from Tesla and builds data centers in tents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-04 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a20a487d5b5f5af30a6fa53/master/pass/Uncanny-Valley-AI-IPO-Race-Business-1189366547.jpg" alt="The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/" target="_blank">The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-04 18:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/uchitchakma/building-a-real-time-chat-feature-with-django-channels-and-react-4e7e" target="_blank">Building a Real-Time Chat Feature with Django Channels and React</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-05 00:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +217,6 @@
                 <span class="time">2026-06-04 19:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paranoidqrypto/the-ultimate-guide-to-securely-broadcasting-an-offline-bitcoin-transaction-ecp" target="_blank">The Ultimate Guide to Securely Broadcasting an Offline Bitcoin Transaction</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-04 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/steam-machine.jpg" alt="Valve Confirms Steam Machine Will Ship This Summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/valve-confirms-steam-machine-will-ship-this-summer-2000702624" target="_blank">Valve Confirms Steam Machine Will Ship This Summer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-04 22:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KTA40ZE5N0T86HYGBATPGCVZ/hero-image.jpg" alt="&#x27;The Odyssey&#x27; Is Throwing AMC Theaters&#x27; App and Site Into Chaos Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +290,6 @@
                 <span class="time">2026-06-04 16:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2019/05/Starter-1.jpg?fit=800%2C918&amp;quality=60&amp;ssl=1" alt="Scientists use yeast from body of Ötzi the Iceman to make &quot;very very good&quot; sourdough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/04/scientists-use-yeast-from-body-of-otzi-the-iceman-to-make-very-very-good-sourdough.html" target="_blank">Scientists use yeast from body of Ötzi the Iceman to make &quot;very very good&quot; sourdough</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-04 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 23:23 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 00:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
