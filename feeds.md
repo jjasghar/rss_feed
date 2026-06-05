@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 14:59:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-05 16:04:13 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 14:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, June 05, 2026 - 16:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92fe/live/5fba1580-60d4-11f1-8b8c-6d33e1d5abb6.jpg" alt="Ukraine strikes cargo ships and admits Romania drone blast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine strikes cargo ships and admits Romania drone blast</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-05 15:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +105,29 @@
                 <span class="time">2026-06-05 10:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/05/nx-s1-5846807/senate-weaponization-fund-reconciliation-vote-immigration-enforcement" target="_blank">Senate Republicans pass immigration funding after overnight vote</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-05 10:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2167660808-500x500.jpg" alt="Trump admin tries again to revive dying coal industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/trump-admin-tries-again-to-revive-dying-coal-industry/" target="_blank">Trump admin tries again to revive dying coal industry</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-05 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/944041/new-york-data-center-moratorium" target="_blank">New York lawmakers pass one-year ban on new data centers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-05 15:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +164,6 @@
                 <span class="time">2026-06-05 13:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/943852/trump-phone-made-in-the-usa-ftc-assembled-china" target="_blank">Why isn’t the Trump phone made in the USA?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-05 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/" target="_blank">AirTrunk commits $30B to build 5GW of AI data centers in India</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-05 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,9 +173,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ravedigital/how-we-strengthened-magento-performance-architecture-for-a-multi-million-product-store-5f5g" target="_blank">How We Strengthened Magento Performance Architecture for a Multi-Million Product Store</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-05 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ucptools/build-a-ucp-watchdog-catch-the-production-breaks-your-ci-never-will-18jh" target="_blank">Build a UCP Watchdog: Catch the Production Breaks Your CI Never Will</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-05 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/codex-windows-sandbox-design/en/headerimage/generatedHeaderImage-1780184710031.jpg" alt="How OpenAI Built a Secure Windows Sandbox for Codex Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/codex-windows-sandbox-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How OpenAI Built a Secure Windows Sandbox for Codex Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-05 14:37</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +223,6 @@
                 <span class="time">2026-06-05 12:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-multi-agentic-tools/en/mediumimage/medium-1779867927919.jpg" alt="Presentation: Platform Teams Enabling AI - MCP/Multi-Agentic Tools Across Linkedin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-multi-agentic-tools/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Platform Teams Enabling AI - MCP/Multi-Agentic Tools Across Linkedin</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-05 12:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501" target="_blank">US tobacco firms applied tobacco strategies to globalize ultra-processed foods</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-05 11:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/topgod2-1280x720.jpg" alt="Don’t Assume God Of War’s Horn Mystery Will Be Solved In The Upcoming Spin-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/god-of-war-laufey-who-blew-the-horn-mystery-answer-cory-barlog-2000702950" target="_blank">Don’t Assume God Of War’s Horn Mystery Will Be Solved In The Upcoming Spin-Off</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-05 15:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/steam-machine.jpg" alt="Valve Confirms Steam Machine Will Ship This Summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +296,6 @@
                 <span class="time">2026-06-04 18:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/bfb725166a99ccabb7cd25ed810a4e8e-1280x720.jpg" alt="Amazon Says It Has ‘Great Relationship’ With 007 First Light Devs As Fans Worry IOI Won’t Get To Make A Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-says-it-has-great-relationship-with-007-first-light-devs-as-fans-worry-ioi-wont-get-to-make-a-sequel-2000702530" target="_blank">Amazon Says It Has ‘Great Relationship’ With 007 First Light Devs As Fans Worry IOI Won’t Get To Make A Sequel</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-04 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,22 +319,13 @@
                 <span class="time">2026-06-05 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1780287055-20260604.png" alt="Saturday Morning Breakfast Cereal - Gland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/gland" target="_blank">Saturday Morning Breakfast Cereal - Gland</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-04 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 14:59 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 250 |
+        🔄 Last Updated: 16:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
