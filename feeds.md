@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 09:02:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-05 11:01:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, June 05, 2026 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/05/nx-s1-5846807/senate-weaponization-fund-reconciliation-vote-immigration-enforcement" target="_blank">Senate Republicans pass immigration funding after overnight vote</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-05 10:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260603-capitol-ice-ac-1214p-ac0cc6.jpg" alt="Senate passes $70B immigration bill, without limits on ‘anti-weaponization’ fund" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/senate-votes-immigration-enforcement-trump-anti-weaponization-fund-rcna348611" target="_blank">Senate passes $70B immigration bill, without limits on ‘anti-weaponization’ fund</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-05 09:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +103,20 @@
                 <span class="time">2026-06-05 01:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/arch-front-view-ht-jt-260604_1780609537220_hpMain_4x3t_384.jpg" alt="Trump appointees vote to address gaps in &#x27;triumphal arch&#x27; plan in heated meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/homework-trump-appointees-vote-address-gaps-arch-plan/story?id=133600719" target="_blank">Trump appointees vote to address gaps in &#x27;triumphal arch&#x27; plan in heated meeting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-05 00:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss" target="_blank">Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-05 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a1f7877452f8f7907d948a3/master/pass/Nearly-Half-of-Investors-Have-Stakes-in-Both-OpenAI-and-Anthropic-Business.jpg" alt="OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/" target="_blank">OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-05 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +162,29 @@
                 <span class="time">2026-06-04 22:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279229514-500x500.jpg" alt="The skeptic’s guide to humanoid robots going viral on the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/" target="_blank">The skeptic’s guide to humanoid robots going viral on the Internet</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-04 22:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/beyond-tokens-per-watt" target="_blank">Beyond tokens per watt – using Ubuntu 26.04 LTS for AI</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-05 10:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-AMDGPU-Non-4K" target="_blank">Linux 7.2 Continues Improving AMDGPU Support On POWER, ARM</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-05 10:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/secure-ai-stack-model-production-series/en/headerimage/Article-Series-Securing-the-AI-Stack-From-Model-to-Production-header-image-1780040531515.jpg" alt="Article Series: Securing the AI Stack: From Model to Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/lovestaco/peektea-past-the-roadmap-sorting-and-scrollable-previews-1f6g" target="_blank">peektea past the roadmap 👀 sorting and scrollable previews</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-05 07:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/armorbreak/linux-command-line-the-50-commands-you-actually-need-2026-1olm" target="_blank">Linux Command Line: The 50 Commands You Actually Need (2026)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-05 02:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fb.watch/HxPu0fSyeH/" target="_blank">Meta enables ADB on deprecated Portal devices [video]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-05 00:44</span>
             </div>
         </div>
 </div>
@@ -324,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 39 | 📸 With Images: 250 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
