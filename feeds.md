@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 01:40:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-05 03:00:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
 <!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 01:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, June 05, 2026 - 03:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss" target="_blank">Why Mogadishu clashes are deepening Somalia’s political crisis again</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-05 01:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/john-bolton-to-plead-guilty-in-classified-documents-case-264546885733" target="_blank">John Bolton to plead guilty in classified documents case</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-04 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/lincoln-gty-er-260604_1780603336007_hpMain_4x3t_384.jpg" alt="Trump announces plan to add &#x27;promenade&#x27; to Lincoln Memorial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-announces-plan-add-promenade-lincoln-memorial/story?id=133597767" target="_blank">Trump announces plan to add &#x27;promenade&#x27; to Lincoln Memorial</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-04 22:02</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/armorbreak/linux-command-line-the-50-commands-you-actually-need-2026-1olm" target="_blank">Linux Command Line: The 50 Commands You Actually Need (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-05 02:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://fb.watch/HxPu0fSyeH/" target="_blank">Meta enables ADB on deprecated Portal devices [video]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-05 00:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/uchitchakma/building-a-real-time-chat-feature-with-django-channels-and-react-4e7e" target="_blank">Building a Real-Time Chat Feature with Django Channels and React</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-05 00:10</span>
@@ -195,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Mesa-26.1-RX-9070-GRE" target="_blank">Linux 7.1 + Mesa 26.1 Performance With The Radeon RX 9070 GRE, RX 9070 XT</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-04 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/anthropics/defending-code-reference-harness" target="_blank">Anthropic&#x27;s open-source framework for AI-powered vulnerability discovery</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-04 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/beefedai/automating-the-localization-pipeline-extraction-to-tms-to-ci-4b43" target="_blank">Automating the Localization Pipeline: Extraction to TMS to CI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-04 19:36</span>
             </div>
         </div>
 </div>
@@ -307,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 01:40 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 03:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
