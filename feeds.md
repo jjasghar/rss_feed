@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 18:34:37 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-05 19:31:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 18:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, June 05, 2026 - 19:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/5/judge-strikes-down-trump-bar-on-asylum-visa-processing-for-39-countries?traffic_source=rss" target="_blank">Judge strikes down Trump bar on asylum, visa processing for 39 countries</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-05 18:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss" target="_blank">Astronauts return to ISS after sheltering during air leak repair attempt</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-05 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92fe/live/5fba1580-60d4-11f1-8b8c-6d33e1d5abb6.jpg" alt="Ukraine strikes cargo ships and admits Romania drone blast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine strikes cargo ships and admits Romania drone blast</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-05 15:29</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anthesiaco/how-to-add-drug-interaction-checking-to-your-health-app-in-5-minutes-3ip8" target="_blank">How to Add Drug Interaction Checking to Your Health App in 5 Minutes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-05 19:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/20acoder12/how-to-use-bandit-library-2e2c" target="_blank">How to use bandit library?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-05 17:19</span>
@@ -210,15 +215,6 @@
                 <span class="time">2026-06-05 14:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aykhlf_yassir/what-is-a-container-2060" target="_blank">What Is a Container?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-05 13:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/kdkick-1280x720.jpg" alt="Robot Kicks Small Child In Stomach During Event" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/robot-kicks-small-child-in-stomach-during-event-2000703013" target="_blank">Robot Kicks Small Child In Stomach During Event</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-05 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KTC8TZC65H1RN5GXSQK3S70C/hero-image.png" alt="These DeWalt Cordless Tools Are Up to 60% Off Right Now at Lowe&#x27;s" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +288,6 @@
                 <span class="time">2026-06-04 19:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/robot-attack-e1780600249678.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Robo-party clown ignores Asimov&#x27;s first law of robotics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/04/robo-party-clown-ignores-asimovs-first-law-of-robotics.html" target="_blank">Robo-party clown ignores Asimov&#x27;s first law of robotics</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-04 19:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 255 |
-        🔄 Last Updated: 18:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 19:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
