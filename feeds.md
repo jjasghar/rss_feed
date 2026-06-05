@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 20:33:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-05 21:28:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 20:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, June 05, 2026 - 21:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/wc-2-ap-gmh-260529_1780067987818_hpMain_2_4x3t_384.jpg" alt="Iran&#x27;s World Cup players granted visas to play in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/irans-world-cup-players-granted-visas-play-us/story?id=133630621" target="_blank">Iran&#x27;s World Cup players granted visas to play in the US</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-05 20:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +102,20 @@
                 <span class="time">2026-06-05 18:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/f_mo_lon_putinletter_260605-qhnvbv.jpg" alt="‘I see no point in meeting’: Putin dismisses Zelenskyy’s offer of talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/putin-dismisses-zelenskyy-letter-suggesting-face-to-face-peace-talks-meeting-264637509836" target="_blank">‘I see no point in meeting’: Putin dismisses Zelenskyy’s offer of talks</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-05 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte" target="_blank">Congress still can’t decide what to do about warrantless surveillance</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-05 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277371061-500x500-1780680782.jpg" alt="&quot;We pissed off a lot of people&quot;: Giant data center plan cut 50% amid protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +161,20 @@
                 <span class="time">2026-06-05 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2167660808-500x500.jpg" alt="Trump admin tries again to revive dying coal industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/trump-admin-tries-again-to-revive-dying-coal-industry/" target="_blank">Trump admin tries again to revive dying coal industry</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-05 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.10-Desktop-Features" target="_blank">Ubuntu 26.10 To Begin Laying Foundation For Context-Aware Desktop, Other New Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-05 20:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,18 +215,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/live/c4g44ew3g1kt" target="_blank">Astronauts on ISS told to shelter as repairs under way to fix air leaks</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/live/c4g44ew3g1kt" target="_blank">Astronauts told to return to ISS after sheltering over air leak repairs</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-05 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ucptools/build-a-ucp-watchdog-catch-the-production-breaks-your-ci-never-will-18jh" target="_blank">Build a UCP Watchdog: Catch the Production Breaks Your CI Never Will</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-05 14:50</span>
             </div>
         </div>
 </div>
@@ -235,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/cuphead-1280x720.jpg" alt="Two New Cuphead Games Are On The Way, And One’s An 8-Bit Platform Shooter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/two-new-cuphead-games-hand-drawn-mighty-cuphead-adventure-2000703098" target="_blank">Two New Cuphead Games Are On The Way, And One’s An 8-Bit Platform Shooter</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-05 21:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTCQ9WHVJ2ZSM6PYTMMG9ERT/hero-image.webp" alt="Meta Quietly Added Facial Recognition to Its Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/meta-quietly-added-nametag-faceprint-tech?utm_medium=RSS" target="_blank">Meta Quietly Added Facial Recognition to Its Smart Glasses</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-05 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/kdkick-1280x720.jpg" alt="Robot Kicks Small Child In Stomach During Event" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/god-of-war-laufey-who-blew-the-horn-mystery-answer-cory-barlog-2000702950" target="_blank">Don’t Assume God Of War’s Horn Mystery Will Be Solved In The Upcoming Spin-Off</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-05 15:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/steam-machine.jpg" alt="Valve Confirms Steam Machine Will Ship This Summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/valve-confirms-steam-machine-will-ship-this-summer-2000702624" target="_blank">Valve Confirms Steam Machine Will Ship This Summer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-04 22:17</span>
             </div>
         </div>
 </div>
@@ -317,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 254 |
-        🔄 Last Updated: 20:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 256 |
+        🔄 Last Updated: 21:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
