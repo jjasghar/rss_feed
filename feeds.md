@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 17:34:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-05 18:34:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 17:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, June 05, 2026 - 18:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss" target="_blank">Trump admin’s cancellation of wind energy projects causes business turmoil</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-05 18:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/f_mo_lon_putinletter_260605-qhnvbv.jpg" alt="‘I see no point in meeting’: Putin dismisses Zelenskyy’s offer of talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/putin-dismisses-zelenskyy-letter-suggesting-face-to-face-peace-talks-meeting-264637509836" target="_blank">‘I see no point in meeting’: Putin dismisses Zelenskyy’s offer of talks</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-05 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98b9/live/603e2340-3a6c-11f1-9368-ddaac8cf7f1d.jpg" alt="Rapist&#x27;s 24-year sentence an &#x27;insult&#x27;, says Malkinson" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c99l93md0gko?at_medium=RSS&at_campaign=rss" target="_blank">Rapist&#x27;s 24-year sentence an &#x27;insult&#x27;, says Malkinson</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-05 17:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +101,38 @@
                 <span class="time">2026-06-05 15:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/5/nasa-tells-iss-astronauts-to-ready-for-possible-evacuation-amid-leak-repair?traffic_source=rss" target="_blank">NASA tells ISS astronauts to ready for possible evacuation amid leak repair</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-05 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-ebola-un-plane_7266154.jpg?20260605135055" alt="New &amp;#163;386m plan to fight Ebola as number of cases rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/who-announces-163386m-plan-to-fight-ebola-outbreak-as-number-of-cases-rises-13551127" target="_blank">New &amp;#163;386m plan to fight Ebola as number of cases rises</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-05 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780658964461_tdy_news_7a_haake_funding_ice_trump_promenade_260605_S3_1920x1080-iwtzph.jpg" alt="Senate Passes Bill to Fund ICE for Remainder of Trump&#x27;s Term" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-plans-promenade-in-dc-senate-passes-bill-to-fund-ice-264586309597" target="_blank">Senate Passes Bill to Fund ICE for Remainder of Trump&#x27;s Term</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-05 11:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277371061-500x500-1780680782.jpg" alt="&quot;We pissed off a lot of people&quot;: Giant data center plan cut 50% amid protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/" target="_blank">&quot;We pissed off a lot of people&quot;: Giant data center plan cut 50% amid protests</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-05 18:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a21da499167b4c1218b4987/master/pass/I-Tested-the-GroWell-Cap-and-Have-Hair-for-the-First-Time-in-15-Years.jpg" alt="GroWell Cap Review: I Have Hair for the First Time in 15 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/growell-cap-rave/" target="_blank">GroWell Cap Review: I Have Hair for the First Time in 15 Years</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-05 18:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/" target="_blank">GM’s electric future depends on a new battery — and this building</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-05 17:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/noirTOP-500x500.jpg" alt="Review: Spider-Noir recaptures the magic of a bygone era" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -111,48 +143,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale" target="_blank">The Sonos Era 100 speaker is down to its lowest price in months</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-05 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2167660808-500x500.jpg" alt="Trump admin tries again to revive dying coal industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/science/2026/06/trump-admin-tries-again-to-revive-dying-coal-industry/" target="_blank">Trump admin tries again to revive dying coal industry</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-05 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/944041/new-york-data-center-moratorium" target="_blank">New York lawmakers pass one-year ban on new data centers</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-05 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/" target="_blank">The token bill comes due: Inside the industry scramble to manage AI’s runaway costs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-05 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Original-17010-lead-500x500.jpg" alt="Not the next R8? Audi reveals mid-engined plug-in hybrid V8 Nuvolari." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/06/not-the-next-r8-audi-reveals-mid-engined-plug-in-hybrid-v8-nuvolari/" target="_blank">Not the next R8? Audi reveals mid-engined plug-in hybrid V8 Nuvolari.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-05 14:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/943944/maha-rfk-jr-cotton-natural-fiber-clothing-microplastics" target="_blank">MAHA wants to make cotton the new beef tallow</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-05 14:13</span>
             </div>
         </div>
 </div>
@@ -234,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTC8TZC65H1RN5GXSQK3S70C/hero-image.png" alt="These DeWalt Cordless Tools Are Up to 60% Off Right Now at Lowe&#x27;s" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/dewalt-cordless-tools-sale-june-2026?utm_medium=RSS" target="_blank">These DeWalt Cordless Tools Are Up to 60% Off Right Now at Lowe&#x27;s</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-05 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/topgod2-1280x720.jpg" alt="Don’t Assume God Of War’s Horn Mystery Will Be Solved In The Upcoming Spin-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -278,15 +292,6 @@
                 <span class="time">2026-06-04 19:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/aa-e1780597447163.jpg?fit=768%2C513&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s war in Iran cancels summer vacation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/04/trumps-war-in-iran-cancels-summer-vacation.html" target="_blank">Trump&#x27;s war in Iran cancels summer vacation</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-04 18:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 17:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 18:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
