@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 19:31:14 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-05 20:33:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 19:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, June 05, 2026 - 20:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,10 +47,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/05/nx-s1-5847926/platner-controversy-senate-maine-primary-election" target="_blank">Graham Platner isn&#x27;t going anywhere in Maine Senate race after latest controversy</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-05 20:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss" target="_blank">France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-05 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/5/judge-strikes-down-trump-bar-on-asylum-visa-processing-for-39-countries?traffic_source=rss" target="_blank">Judge strikes down Trump bar on asylum, visa processing for 39 countries</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-05 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a6e/live/d52d0df0-6100-11f1-ae0d-afcc10479766.jpg" alt="Putin says there is &#x27;no point&#x27; meeting Zelensky over ending Ukraine war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss" target="_blank">Putin says there is &#x27;no point&#x27; meeting Zelensky over ending Ukraine war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-05 18:16</span>
             </div>
         </div>
 <div class="story">
@@ -68,33 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/putin-dismisses-zelenskyy-letter-suggesting-face-to-face-peace-talks-meeting-264637509836" target="_blank">‘I see no point in meeting’: Putin dismisses Zelenskyy’s offer of talks</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-05 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98b9/live/603e2340-3a6c-11f1-9368-ddaac8cf7f1d.jpg" alt="Rapist&#x27;s 24-year sentence an &#x27;insult&#x27;, says Malkinson" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c99l93md0gko?at_medium=RSS&at_campaign=rss" target="_blank">Rapist&#x27;s 24-year sentence an &#x27;insult&#x27;, says Malkinson</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-05 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019" target="_blank">Xi Jinping will travel to North Korea next week in first visit since 2019</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-05 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e535/live/411ae920-60f6-11f1-bb63-4f1168d17ecf.jpg" alt="Astronauts return to ISS after sheltering during air leak repair attempt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss" target="_blank">Astronauts return to ISS after sheltering during air leak repair attempt</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-05 16:14</span>
             </div>
         </div>
 </div>
@@ -182,6 +183,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://symbolica.io/posts/symbolica_2_0_release/" target="_blank">Symbolica 2.0: programmable symbols for Python and Rust</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-06-05 17:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ravedigital/how-we-strengthened-magento-performance-architecture-for-a-multi-million-product-store-5f5g" target="_blank">How We Strengthened Magento Performance Architecture for a Multi-Million Product Store</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/ucptools/build-a-ucp-watchdog-catch-the-production-breaks-your-ci-never-will-18jh" target="_blank">Build a UCP Watchdog: Catch the Production Breaks Your CI Never Will</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-05 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/codex-windows-sandbox-design/en/headerimage/generatedHeaderImage-1780184710031.jpg" alt="How OpenAI Built a Secure Windows Sandbox for Codex Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/codex-windows-sandbox-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How OpenAI Built a Secure Windows Sandbox for Codex Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-05 14:37</span>
             </div>
         </div>
 </div>
@@ -244,6 +245,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTCEZQGAVQ1HCFANX2034KBW/hero-image.jpg" alt="Why It Matters What Theater You See &#x27;The Odyssey&#x27; In" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-odyssey-imax-movie-theater-options?utm_medium=RSS" target="_blank">Why It Matters What Theater You See &#x27;The Odyssey&#x27; In</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-05 18:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KTC8TZC65H1RN5GXSQK3S70C/hero-image.png" alt="These DeWalt Cordless Tools Are Up to 60% Off Right Now at Lowe&#x27;s" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -268,24 +278,6 @@
                 <span class="title"><a href="https://kotaku.com/valve-confirms-steam-machine-will-ship-this-summer-2000702624" target="_blank">Valve Confirms Steam Machine Will Ship This Summer</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-04 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTA40ZE5N0T86HYGBATPGCVZ/hero-image.jpg" alt="&#x27;The Odyssey&#x27; Is Throwing AMC Theaters&#x27; App and Site Into Chaos Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amc-theaters-is-forcing-customers-to-enter-queues-online?utm_medium=RSS" target="_blank">&#x27;The Odyssey&#x27; Is Throwing AMC Theaters&#x27; App and Site Into Chaos Today</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-04 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Thumbnail-from-Reckless-Bens-video-I-tracked-down-the-thief-who-stole-200000-of-LEGO.jpg" alt="Police Force Involved In Lego Investigation ‘Hacked,’ YouTuber Claims, As New Footage Is Released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/reckless-ben-lego-star-wars-bricks-minifigs-mormon-mafia-youtube-2000702473" target="_blank">Police Force Involved In Lego Investigation ‘Hacked,’ YouTuber Claims, As New Footage Is Released</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-04 19:31</span>
             </div>
         </div>
 </div>
@@ -325,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 39 | 📸 With Images: 255 |
-        🔄 Last Updated: 19:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 254 |
+        🔄 Last Updated: 20:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
