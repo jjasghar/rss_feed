@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 07:21:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-05 09:02:22 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 07:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, June 05, 2026 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,10 +54,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/05/nx-s1-5842923/morning-news-brief" target="_blank">Morning news brief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-05 08:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/5/french-iranian-persepolis-author-marjane-satrapi-dies-of-sadness?traffic_source=rss" target="_blank">French-Iranian Persepolis author Marjane Satrapi dies of ‘sadness’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-05 08:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260604-russia-putin-mn-1200-868559.jpg" alt="Putin faces Ukrainian drone threat and stagnating economy at ‘Russian Davos’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/russia/putin-speech-st-petersburg-forum-ukraine-drones-economy-russia-davos-rcna348452" target="_blank">Putin faces Ukrainian drone threat and stagnating economy at ‘Russian Davos’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-05 08:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss" target="_blank">Why Mogadishu clashes are deepening Somalia’s political crisis again</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-05 01:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/arch-front-view-ht-jt-260604_1780609537220_hpMain_4x3t_384.jpg" alt="Trump appointees vote to address gaps in &#x27;triumphal arch&#x27; plan in heated meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/homework-trump-appointees-vote-address-gaps-arch-plan/story?id=133600719" target="_blank">Trump appointees vote to address gaps in &#x27;triumphal arch&#x27; plan in heated meeting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-05 00:07</span>
             </div>
         </div>
 <div class="story">
@@ -59,42 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss" target="_blank">Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-05 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/04/nx-s1-5846966/george-santos-kalshi-threats" target="_blank">I wrote about George Santos. Then he made a violent threat and lied about it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-04 23:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/04/nx-s1-5751145/save-act-senate-vote-trump" target="_blank">Republicans&#x27; sweeping election overhaul fails in the Senate</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-04 23:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bf4/live/288dadf0-602b-11f1-a33a-8765d90528ad.jpg" alt="Andrew was sub-letting Royal Lodge cottages, watchdog reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew was sub-letting Royal Lodge cottages, watchdog reveals</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-04 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-mitzpe-shalem-ahava_7247751.jpg?20260513161851" alt="Superdrug removes skincare brand amid concerns over Israeli settlement products" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/superdrug-removes-skincare-brand-as-suspected-cosmetic-ingredients-seen-in-west-bank-israeli-settlement-13543117" target="_blank">Superdrug removes skincare brand amid concerns over Israeli settlement products</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-04 23:01</span>
             </div>
         </div>
 </div>
@@ -162,6 +170,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/secure-ai-stack-model-production-series/en/headerimage/Article-Series-Securing-the-AI-Stack-From-Model-to-Production-header-image-1780040531515.jpg" alt="Article Series: Securing the AI Stack: From Model to Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/secure-ai-stack-model-production-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article Series: Securing the AI Stack: From Model to Production</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-05 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/06/05/making-the-owasp-top-ten-in-the-vibe-code-era/" target="_blank">Making the OWASP top ten in the vibe code era​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​‌‍​‌​﻿​﻿​﻿‌‍​﻿‍‌​﻿‌‍‌‍​‍​﻿‌​​‍﻿‌​﻿‍​​﻿​‌‌‍‌‍​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌‌‌‍‌‌​‍﻿‌‌‍​‌​﻿​​‌‍​﻿‌‍​‍​‍﻿‌‌‍​﻿​﻿‌‌‌‍‌‌‌‍​‌​﻿‍​​﻿​‌​﻿‌﻿‌‍‌​​﻿‍​​﻿‍​​﻿​​​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​‌‍​‌​﻿​﻿​﻿‌‍​﻿‍‌​﻿‌‍‌‍​‍​﻿‌​​‍﻿‌​﻿‍​​﻿​‌‌‍‌‍​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌‌‌‍‌‌​‍﻿‌‌‍​‌​﻿​​‌‍​﻿‌‍​‍​‍﻿‌‌‍​﻿​﻿‌‌‌‍‌‌‌‍​‌​﻿‍​​﻿​‌​﻿‌﻿‌‍‌​​﻿‍​​﻿‍​​﻿​​​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-06-05 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ladybird.org/posts/changing-how-we-develop-ladybird/" target="_blank">Changing How We Develop Ladybird</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-05 07:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjf3xng9vwg6hqzh1egk5.gif" alt="peektea past the roadmap 👀 sorting and scrollable previews" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -186,33 +221,6 @@
                 <span class="title"><a href="https://fb.watch/HxPu0fSyeH/" target="_blank">Meta enables ADB on deprecated Portal devices [video]</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-05 00:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/uchitchakma/building-a-real-time-chat-feature-with-django-channels-and-react-4e7e" target="_blank">Building a Real-Time Chat Feature with Django Channels and React</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-05 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-june-5-2026" target="_blank">Friday Five — June 5, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-06-05 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-4mel" target="_blank">Three post-deploy checks I run after every Cloudflare Pages build</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-04 22:15</span>
             </div>
         </div>
 </div>
@@ -316,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 07:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 39 | 📸 With Images: 250 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
