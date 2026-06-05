@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 22:23:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-05 23:24:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 22:23 UTC</div>
+    <div class="newspaper-date">Friday, June 05, 2026 - 23:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/Trump-5-ap-er-260605_1780694139672_hpMain_4x3t_384.jpg" alt="DOJ lawyer says in court filing that &#x27;Anti-Weaponization Fund&#x27; is &#x27;not going forward&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/doj-attorney-court-filing-anti-weaponization-fund-forward/story?id=133633137" target="_blank">DOJ lawyer says in court filing that &#x27;Anti-Weaponization Fund&#x27; is &#x27;not going forward&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-05 22:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/wc-2-ap-gmh-260529_1780067987818_hpMain_2_4x3t_384.jpg" alt="Iran World Cup players granted visas to enter the US, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/05/nx-s1-5847926/platner-controversy-senate-maine-primary-election" target="_blank">Graham Platner isn&#x27;t going anywhere in Maine Senate race after latest controversy</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-05 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss" target="_blank">France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-05 19:51</span>
             </div>
         </div>
 </div>
@@ -171,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/umudabbasli/from-paas-to-vps-my-roadmap-to-self-hosting-my-saas-125" target="_blank">From PaaS to VPS: My Roadmap to Self-Hosting My SaaS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-05 23:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/marcel_lehmann_31109127df/testing-email-workflows-without-email-server-with-playwright-mokapi-b25" target="_blank">Testing Email Workflows Without Email Server — With Playwright &amp; Mokapi</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-05 22:07</span>
@@ -212,15 +219,6 @@
                 <span class="time">2026-06-05 17:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ravedigital/how-we-strengthened-magento-performance-architecture-for-a-multi-million-product-store-5f5g" target="_blank">How We Strengthened Magento Performance Architecture for a Multi-Million Product Store</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-05 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Screenshot-2026-06-05-at-7.07.50 PM-1280x721.jpg" alt="Stellar Blade Is Back With A New Game But The Same Jiggle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/stellar-blade-is-back-with-a-new-game-but-the-same-jiggle-2000703186" target="_blank">Stellar Blade Is Back With A New Game But The Same Jiggle</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-05 23:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/cuphead-1280x720.jpg" alt="Two New Cuphead Games Are On The Way, And One’s An 8-Bit Platform Shooter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +292,6 @@
                 <span class="time">2026-06-05 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/topgod2-1280x720.jpg" alt="Don’t Assume God Of War’s Horn Mystery Will Be Solved In The Upcoming Spin-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/god-of-war-laufey-who-blew-the-horn-mystery-answer-cory-barlog-2000702950" target="_blank">Don’t Assume God Of War’s Horn Mystery Will Be Solved In The Upcoming Spin-Off</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-05 15:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 254 |
-        🔄 Last Updated: 22:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 257 |
+        🔄 Last Updated: 23:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
