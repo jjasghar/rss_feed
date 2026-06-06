@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-05 23:24:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-06 00:25:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, June 05, 2026 - 23:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 00:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +100,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6884625679d4a8e16b1b14ed/master/pass/The%20Best%20Running%20Shoes.png" alt="Best Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-running-shoes/" target="_blank">Best Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-05 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/" target="_blank">Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-05 22:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -142,29 +153,20 @@
                 <span class="time">2026-06-05 18:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a21da499167b4c1218b4987/master/pass/I-Tested-the-GroWell-Cap-and-Have-Hair-for-the-First-Time-in-15-Years.jpg" alt="GroWell Cap Review: I Have Hair for the First Time in 15 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/growell-cap-rave/" target="_blank">GroWell Cap Review: I Have Hair for the First Time in 15 Years</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-05 18:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/" target="_blank">GM’s electric future depends on a new battery — and this building</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-05 17:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lynkr/i-benchmarked-lynkr-against-litellm-on-the-same-backends-lynkr-was-cheaper-for-tool-heavy-workloads-2onf" target="_blank">The Real Cost of AI Agents Isn’t the Model — It’s Everything You Send to It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-06 00:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/20acoder12/how-to-use-bandit-library-2e2c" target="_blank">How to use bandit library?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-05 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://symbolica.io/posts/symbolica_2_0_release/" target="_blank">Symbolica 2.0: programmable symbols for Python and Rust</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-06-05 17:13</span>
             </div>
         </div>
 </div>
@@ -329,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 257 |
-        🔄 Last Updated: 23:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 00:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
