@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 10:35:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-06 11:28:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 10:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 11:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/06/g-s1-126287/ebola-gorillas-democratic-republic-congo" target="_blank">A park famed for rare gorillas gears up to fight Ebola and protect its primates</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-06 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +102,20 @@
                 <span class="time">2026-06-06 05:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/06/nx-s1-5848552/knicks-spurs-nba-finals" target="_blank">Knicks beat Spurs by one point for 2-0 lead in NBA Finals</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-06 05:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Otzi-stomach-yeast-w-Sarhan-500x500.jpg" alt="Some ancient microbes frozen with Ötzi the Iceman are still growing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/" target="_blank">Some ancient microbes frozen with Ötzi the Iceman are still growing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-06 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a2351e8ffc48019a7412bc7/master/pass/Simpsons-Creator-Presidential-Campaign-Culture-1283606985.jpg" alt="‘It’s Not a Joke’: A ‘Simpsons’ Writer Holds His First Presidential Campaign Rally" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +161,29 @@
                 <span class="time">2026-06-05 22:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/944151/control-resonant-hands-on" target="_blank">Control Resonant is a sequel — and also a starting point</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-05 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rahil_pirani_c48446facc8c/the-challenges-of-creating-a-semantic-memory-layer-on-cloudflare-workers-d1-and-vectorize-3c7a" target="_blank">The challenges of creating a semantic memory layer on Cloudflare Workers, D1, and Vectorize.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-06 11:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Valve-New-AMD-Anti-Lag" target="_blank">Valve Developer Posts New AMD Anti-Lag Implementation For RADV Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-06 11:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/abhijeeth_manakan/recently-joined-a-service-based-company-need-advice-on-learning-dsa-and-software-development-1ijk" target="_blank">Recently joined a service-based company. Need advice on learning DSA and software development.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-06 05:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/en/headerimage/generatedHeaderImage-1779253744444.jpg" alt="Cloudflare Identifies Query Planning Bottleneck in ClickHouse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Identifies Query Planning Bottleneck in ClickHouse</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-06 04:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17355105/dank-linux" target="_blank">Craving Hyprland But Don&amp;#x27;t Want to Configure It? Try Dank Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-06 04:02</span>
             </div>
         </div>
 </div>
@@ -323,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 10:35 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 251 |
+        🔄 Last Updated: 11:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
