@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 15:24:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-06 16:21:03 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 15:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 16:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -74,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/06/nx-s1-5824413/despite-a-competitive-market-finding-a-summer-job-is-highly-beneficial-for-teens" target="_blank">Despite a competitive market, finding a summer job is highly beneficial for teens</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-06 11:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png" alt="Ukrainian drones target St Petersburg in attack Russia calls &#x27;unprecedented&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -91,20 +101,20 @@
                 <span class="time">2026-06-06 11:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/06/g-s1-126287/ebola-gorillas-democratic-republic-congo" target="_blank">A park famed for rare gorillas gears up to fight Ebola and protect its primates</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-06 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/" target="_blank">The Trump administration might take an equity stake in OpenAI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-06 16:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/" target="_blank">Some ancient microbes frozen with Ötzi the Iceman are still growing</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-06 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a21b3ae90009d5b66376a98/master/pass/Culture_RiseOfAntiVaxDating_v1.jpg" alt="Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/" target="_blank">Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-06 11:00</span>
             </div>
         </div>
 </div>
@@ -224,6 +225,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Image-from-The-Library-of-Letourneaus-and-Northernlions-YouTube-video-The-most-MINKUS-spray-of-all-time-1280x720.jpg" alt="GOG Apologises For Accidentally Emailing Everyone Nazi Symbols" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gog-apologises-for-accidentally-emailing-everyone-nazi-symbols-2000703435" target="_blank">GOG Apologises For Accidentally Emailing Everyone Nazi Symbols</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-06 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/monster-hunter.jpg" alt="Monster Hunter Wilds Reveals The Elder Dragons Are Coming In A New Expansion And, Surprise, There’s A Switch 2 Port In The Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -268,20 +278,20 @@
                 <span class="time">2026-06-05 23:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/cuphead-1280x720.jpg" alt="Two New Cuphead Games Are On The Way, And One’s An 8-Bit Platform Shooter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/two-new-cuphead-games-hand-drawn-mighty-cuphead-adventure-2000703098" target="_blank">Two New Cuphead Games Are On The Way, And One’s An 8-Bit Platform Shooter</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-05 21:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1780608620-20260606.png" alt="Saturday Morning Breakfast Cereal - Yes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/yes" target="_blank">Saturday Morning Breakfast Cereal - Yes</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-06 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -296,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 15:24 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 16:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
