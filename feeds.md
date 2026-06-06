@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 13:29:34 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-06-06 14:29:28 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 14:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/6/hegseth-says-europe-is-being-invaded-by-dangerous?traffic_source=rss" target="_blank">Hegseth says Europe is being ‘invaded by dangerous migrants’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-06 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/CENTCOM-STRIKES_1780714446218_hpMain_4x3t_384.jpg" alt="Iran live updates: US strikes Iranian radar sites after drones fired toward strait" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855" target="_blank">Iran live updates: US strikes Iranian radar sites after drones fired toward strait</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-06 12:10</span>
             </div>
         </div>
 <div class="story">
@@ -88,20 +101,20 @@
                 <span class="time">2026-06-06 08:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-australia-beach-shark_7140261.jpg?20260606095415" alt="Man dies after shark attack in Australia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/man-dies-after-shark-attack-in-australia-13551332" target="_blank">Man dies after shark attack in Australia</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-06 07:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685f456cde3ddb7f4c50fa01/master/pass/Update-%20The%20Best%203-in-1%20Apple%20Wireless%20Chargers.png" alt="The Best 3-in-1 Apple Charging Stations After Testing Top Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/" target="_blank">The Best 3-in-1 Apple Charging Stations After Testing Top Models</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-06 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel" target="_blank">More than a decade later, the team behind N++ is back with a multiplayer sequel</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-05 23:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6884625679d4a8e16b1b14ed/master/pass/The%20Best%20Running%20Shoes.png" alt="Best Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-running-shoes/" target="_blank">Best Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-05 22:56</span>
             </div>
         </div>
 </div>
@@ -221,6 +225,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/tifa.jpg" alt="A Beloved Final Fantasy 7 Character Is Getting Rebuilt From The Ground Up For Street Fighter 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/a-beloved-final-fantasy-7-character-is-getting-rebuilt-from-the-ground-up-for-street-fighter-6-2000703222" target="_blank">A Beloved Final Fantasy 7 Character Is Getting Rebuilt From The Ground Up For Street Fighter 6</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-06 14:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/FFVII_Revelation_June_Screenshots_19-1280x719.jpg" alt="Fans Are Sad And Confused After Discovering Final Fantasy 7 Revelation Will Change The Actor Who Plays Sephiroth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -265,15 +278,6 @@
                 <span class="time">2026-06-05 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/kdkick-1280x720.jpg" alt="Robot Kicks Small Child In Stomach During Event" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/robot-kicks-small-child-in-stomach-during-event-2000703013" target="_blank">Robot Kicks Small Child In Stomach During Event</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-05 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 254 |
+        🔄 Last Updated: 14:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
