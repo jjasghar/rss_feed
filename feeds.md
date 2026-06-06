@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 12:21:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-06-06 13:29:34 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 12:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/6/hegseth-says-europe-is-being-invaded-by-dangerous?traffic_source=rss" target="_blank">Hegseth says Europe is being ‘invaded by dangerous migrants’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-06 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png" alt="Ukrainian drones target St Petersburg in attack Russia calls &#x27;unprecedented&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss" target="_blank">Ukrainian drones target St Petersburg in attack Russia calls &#x27;unprecedented&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-06 11:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a67/live/ab6b8cd0-61a0-11f1-b682-cf91850925ea.jpg" alt="West Ham joint chairman David Sullivan steps down after &#x27;serious&#x27; historical allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss" target="_blank">West Ham joint chairman David Sullivan steps down after &#x27;serious&#x27; historical allegations</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-06 11:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +97,20 @@
                 <span class="time">2026-06-06 07:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss" target="_blank">US says Iranian radar sites hit in Goruk and Qeshm Island</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-06 07:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0b7/live/bf7e7da0-6172-11f1-8b8c-6d33e1d5abb6.jpg" alt="US and Iran exchange strikes in Gulf in latest test of ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran exchange strikes in Gulf in latest test of ceasefire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-06 06:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-hebron-west-bank-bullet-hole_7266645.jpg?20260606083702" alt="Palestinian baby killed by Israeli gunfire in West Bank, says health ministry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/palestinian-health-ministry-says-baby-killed-and-parents-wounded-by-israeli-gunfire-in-west-bank-13551309" target="_blank">Palestinian baby killed by Israeli gunfire in West Bank, says health ministry</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-06 05:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/944060/kabuto-park-review-xbox-nintendo-switch-steam" target="_blank">Kabuto Park captures the fleeting joy of summer vacation</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-06 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Otzi-stomach-yeast-w-Sarhan-500x500.jpg" alt="Some ancient microbes frozen with Ötzi the Iceman are still growing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-running-shoes/" target="_blank">Best Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-06-05 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Screen-Shot-2025-11-11-at-7.10.57-PM-500x500.png" alt="Baby botulism outbreak: FDA still doesn&#x27;t know cause—or how to prevent it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/" target="_blank">Baby botulism outbreak: FDA still doesn&#x27;t know cause—or how to prevent it</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-05 22:36</span>
             </div>
         </div>
 </div>
@@ -213,20 +213,6 @@
                 <span class="title"><a href="https://dev.to/godavaii/day-48-why-ai-verified-desi-ilaaj-is-godavaiis-toughest-and-most-important-challenge-4ola" target="_blank">Day 48: Why AI-Verified &#x27;Desi Ilaaj&#x27; is GoDavaii&#x27;s Toughest (and Most Important) Challenge</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-06 06:47</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/ai-worm.html" target="_blank">AI Worm</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-05 13:21</span>
             </div>
         </div>
 </div>
@@ -316,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 250 |
-        🔄 Last Updated: 12:22 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
