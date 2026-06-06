@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 20:22:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-06 21:19:58 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 20:22 UTC</div>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 21:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +54,24 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss" target="_blank">Palestinian father buries baby killed by Israeli gunfire in West Bank</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-06 19:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/06/nx-s1-5848668/israel-lebanon-white-phosphorus" target="_blank">Israel has reportedly used white phosphorus near Lebanese cities and towns. What is it?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-06 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hegseth-warns-europe-faces-invasion-of-dangerous-ideologies-in-d-day-speech-13551447" target="_blank">Hegseth uses D-Day speech to issue immigration warning</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-06 17:23</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +101,20 @@
                 <span class="time">2026-06-06 17:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/06/g-s1-126768/pope-leo-says-war-with-iran-is-not-a-just-war" target="_blank">Pope Leo says war with Iran is not a &#x27;just war&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-06 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss" target="_blank">100 days into the war on Iran, Trump fails to rally US support</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-06 17:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/" target="_blank">OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-06 20:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +160,6 @@
                 <span class="time">2026-06-06 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f456cde3ddb7f4c50fa01/master/pass/Update-%20The%20Best%203-in-1%20Apple%20Wireless%20Chargers.png" alt="The Best 3-in-1 Apple Charging Stations After Testing Top Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/" target="_blank">The Best 3-in-1 Apple Charging Stations After Testing Top Models</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-06 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +181,15 @@
                 <span class="title"><a href="https://ntsc.rs/" target="_blank">Ntsc-rs – open-source video emulation of analog TV and VHS artifacts</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-06 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/" target="_blank">Running Python code in a sandbox with MicroPython and WASM</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-06-06 19:03</span>
             </div>
         </div>
 <div class="story">
@@ -207,20 +219,20 @@
                 <span class="time">2026-06-06 14:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/" target="_blank">Moving beyond fork() + exec()</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-06 14:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Stellar-Blade-Blood-Rain-image-from-official-trailer-Shift-Up-1280x720.jpg" alt="Stellar Blade: Blood Rain’s Reveal Trailer Is Raising Some People’s GenAI Alarm Bells" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/stellar-blade-blood-rains-reveal-trailer-is-raising-genai-alarm-bells-for-some-people-2000703444" target="_blank">Stellar Blade: Blood Rain’s Reveal Trailer Is Raising Some People’s GenAI Alarm Bells</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-06 19:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/marathon-5-1280x715.jpg" alt="Marathon Players Who Accidentally Bought The Deluxe Upgrade Will Get The Game For Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +278,6 @@
                 <span class="time">2026-06-06 05:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/image-65.jpg" alt="Everything We Saw At Summer Game Fest 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/everything-we-saw-at-summer-game-fest-2026-2000703088" target="_blank">Everything We Saw At Summer Game Fest 2026</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-05 23:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 20:22 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 21:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
