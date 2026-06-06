@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 14:29:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-06 15:24:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 14:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 15:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss" target="_blank">Israeli strike kills at least five people at wedding in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-06 14:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +100,29 @@
                 <span class="time">2026-06-06 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/6/man-dies-in-western-australia-after-shark-attack?traffic_source=rss" target="_blank">Man dies in Western Australia after shark attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-06 08:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center" target="_blank">The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-06 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/" target="_blank">Beyond Instagram: Introducing the next generation of social apps</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-06 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685f456cde3ddb7f4c50fa01/master/pass/Update-%20The%20Best%203-in-1%20Apple%20Wireless%20Chargers.png" alt="The Best 3-in-1 Apple Charging Stations After Testing Top Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +159,29 @@
                 <span class="time">2026-06-06 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a2351e8ffc48019a7412bc7/master/pass/Simpsons-Creator-Presidential-Campaign-Culture-1283606985.jpg" alt="‘It’s Not a Joke’: A ‘Simpsons’ Writer Holds His First Presidential Campaign Rally" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/simpsons-writer-dan-greaney-holds-his-first-presidential-campaign-rally/" target="_blank">‘It’s Not a Joke’: A ‘Simpsons’ Writer Holds His First Presidential Campaign Rally</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-06 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel" target="_blank">More than a decade later, the team behind N++ is back with a multiplayer sequel</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-05 23:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/palo_alto_ai/why-mcp-servers-and-claude-code-skills-die-quiet-deaths-3k7" target="_blank">Why MCP servers and Claude Code skills die quiet deaths</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-06 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/" target="_blank">Moving beyond fork() + exec()</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-06 14:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,29 +218,20 @@
                 <span class="time">2026-06-06 08:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pengcheng_e679693a21e1180/ba-sa-token-ban-dao-nestjs-sheng-tai-xlt-token-10-de-ji-ge-she-ji-qu-she-4017" target="_blank">把 Sa-Token 搬到 NestJS 生态：xlt-token 1.0 的几个设计取舍</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-06 07:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/godavaii/day-48-why-ai-verified-desi-ilaaj-is-godavaiis-toughest-and-most-important-challenge-4ola" target="_blank">Day 48: Why AI-Verified &#x27;Desi Ilaaj&#x27; is GoDavaii&#x27;s Toughest (and Most Important) Challenge</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-06 06:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/monster-hunter.jpg" alt="Monster Hunter Wilds Reveals The Elder Dragons Are Coming In A New Expansion And, Surprise, There’s A Switch 2 Port In The Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/monster-hunter-wilds-reveals-the-elder-dragons-are-coming-in-a-new-expansion-and-surprise-theres-a-switch-2-port-2000703218" target="_blank">Monster Hunter Wilds Reveals The Elder Dragons Are Coming In A New Expansion And, Surprise, There’s A Switch 2 Port In The Works</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-06 15:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/tifa.jpg" alt="A Beloved Final Fantasy 7 Character Is Getting Rebuilt From The Ground Up For Street Fighter 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +277,6 @@
                 <span class="time">2026-06-05 21:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTCQ9WHVJ2ZSM6PYTMMG9ERT/hero-image.webp" alt="Meta Quietly Added Facial Recognition to Its Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/meta-quietly-added-nametag-faceprint-tech?utm_medium=RSS" target="_blank">Meta Quietly Added Facial Recognition to Its Smart Glasses</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-05 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,22 +291,13 @@
                 <span class="time">2026-06-06 03:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1780608554-20260605.png" alt="Saturday Morning Breakfast Cereal - Proof" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/proof-5" target="_blank">Saturday Morning Breakfast Cereal - Proof</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-05 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 254 |
-        🔄 Last Updated: 14:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 251 |
+        🔄 Last Updated: 15:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
