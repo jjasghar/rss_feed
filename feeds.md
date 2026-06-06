@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 09:02:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-06 10:35:04 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 2 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 10:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +57,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/6/man-dies-in-western-australia-after-shark-attack?traffic_source=rss" target="_blank">Man dies in Western Australia after shark attack</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-06 08:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-australia-beach-shark_7140261.jpg?20260606095415" alt="Man dies after shark attack in Australia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/man-dies-after-shark-attack-in-australia-13551332" target="_blank">Man dies after shark attack in Australia</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-06 07:43</span>
             </div>
         </div>
 <div class="story">
@@ -89,15 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/06/nx-s1-5848552/knicks-spurs-nba-finals" target="_blank">Knicks beat Spurs by one point for 2-0 lead in NBA Finals</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-06 05:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say" target="_blank">Ebola spread in central Africa could match 2014 record outbreak, US health officials say</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-06 04:21</span>
             </div>
         </div>
 </div>
@@ -167,6 +171,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos" target="_blank">GrapheneOS user reported to authorities for using GrapheneOS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-06 08:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pengcheng_e679693a21e1180/ba-sa-token-ban-dao-nestjs-sheng-tai-xlt-token-10-de-ji-ge-she-ji-qu-she-4017" target="_blank">把 Sa-Token 搬到 NestJS 生态：xlt-token 1.0 的几个设计取舍</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +220,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17355105/dank-linux" target="_blank">Craving Hyprland But Don&amp;#x27;t Want to Configure It? Try Dank Linux</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-06-06 04:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638" target="_blank">An announcement from the Steering Council regarding the JIT project</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-06-06 03:13</span>
             </div>
         </div>
 </div>
@@ -319,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 10:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
