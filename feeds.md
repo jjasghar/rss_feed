@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 11:28:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-06 12:21:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 11:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 12:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -117,6 +112,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6a21b3ae90009d5b66376a98/master/pass/Culture_RiseOfAntiVaxDating_v1.jpg" alt="Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/" target="_blank">Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-06 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a2351e8ffc48019a7412bc7/master/pass/Simpsons-Creator-Presidential-Campaign-Culture-1283606985.jpg" alt="‘It’s Not a Joke’: A ‘Simpsons’ Writer Holds His First Presidential Campaign Rally" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -152,20 +156,20 @@
                 <span class="time">2026-06-05 22:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/" target="_blank">Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-05 22:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OpenCV-5.0-Released" target="_blank">OpenCV 5.0 Released With Rewritten DNN Engine, Built-In LLM &amp; VLM Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-06 12:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/godavaii/day-48-why-ai-verified-desi-ilaaj-is-godavaiis-toughest-and-most-important-challenge-4ola" target="_blank">Day 48: Why AI-Verified &#x27;Desi Ilaaj&#x27; is GoDavaii&#x27;s Toughest (and Most Important) Challenge</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-06 06:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abhijeeth_manakan/recently-joined-a-service-based-company-need-advice-on-learning-dsa-and-software-development-1ijk" target="_blank">Recently joined a service-based company. Need advice on learning DSA and software development.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-06 05:11</span>
             </div>
         </div>
 </div>
@@ -321,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 11:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 250 |
+        🔄 Last Updated: 12:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
