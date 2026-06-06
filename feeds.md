@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 17:24:03 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-06 18:22:33 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 17:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 18:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-pete-hegseth-d-day_7266933.jpg?20260606182749" alt="Hegseth warns Europe faces &#x27;invasion of dangerous ideologies&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hegseth-warns-europe-faces-invasion-of-dangerous-ideologies-in-d-day-speech-13551447" target="_blank">Hegseth warns Europe faces &#x27;invasion of dangerous ideologies&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-06 17:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/06/g-s1-126768/pope-leo-says-war-with-iran-is-not-a-just-war" target="_blank">Pope Leo says war with Iran is not a &#x27;just war&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-06 17:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +103,20 @@
                 <span class="time">2026-06-06 12:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/06/nx-s1-5824413/despite-a-competitive-market-finding-a-summer-job-is-highly-beneficial-for-teens" target="_blank">Despite a competitive market, finding a summer job is highly beneficial for teens</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-06 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png" alt="Ukrainian drones target St Petersburg in attack Russia calls &#x27;unprecedented&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss" target="_blank">Ukrainian drones target St Petersburg in attack Russia calls &#x27;unprecedented&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-06 11:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/" target="_blank">What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-06 18:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +162,6 @@
                 <span class="time">2026-06-06 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/944060/kabuto-park-review-xbox-nintendo-switch-steam" target="_blank">Kabuto Park captures the fleeting joy of summer vacation</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-06 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -190,6 +189,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://su3.io/posts/introducing-zeroserve" target="_blank">Zeroserve: A zero-config web server you can script with eBPF</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-06 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/" target="_blank">Moving beyond fork() + exec()</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-06 14:34</span>
@@ -211,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/rahil_pirani_c48446facc8c/the-challenges-of-creating-a-semantic-memory-layer-on-cloudflare-workers-d1-and-vectorize-3c7a" target="_blank">The challenges of creating a semantic memory layer on Cloudflare Workers, D1, and Vectorize.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-06 11:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Valve-New-AMD-Anti-Lag" target="_blank">Valve Developer Posts New AMD Anti-Lag Implementation For RADV Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-06 11:15</span>
             </div>
         </div>
 </div>
@@ -309,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 38 | 📸 With Images: 248 |
-        🔄 Last Updated: 17:24 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 38 | 📸 With Images: 246 |
+        🔄 Last Updated: 18:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
