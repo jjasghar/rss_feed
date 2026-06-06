@@ -1,37 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 03:00:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-06 05:14:02 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 05:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say" target="_blank">Ebola spread in central Africa could match 2014 record outbreak, US health officials say</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-06 04:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f2e/live/80d90a20-610e-11f1-89a3-d1f559421220.jpg" alt="Downing Street hits out after Vance post about Henry Nowak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +91,6 @@
                 <span class="time">2026-06-06 00:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/Trump-5-ap-er-260605_1780694139672_hpMain_4x3t_384.jpg" alt="DOJ lawyer says in court filing that &#x27;Anti-Weaponization Fund&#x27; is &#x27;not going forward&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/doj-attorney-court-filing-anti-weaponization-fund-forward/story?id=133633137" target="_blank">DOJ lawyer says in court filing that &#x27;Anti-Weaponization Fund&#x27; is &#x27;not going forward&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-05 22:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -122,6 +112,15 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-running-shoes/" target="_blank">Best Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-06-05 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Screen-Shot-2025-11-11-at-7.10.57-PM-500x500.png" alt="Baby botulism outbreak: FDA still doesn&#x27;t know cause—or how to prevent it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/" target="_blank">Baby botulism outbreak: FDA still doesn&#x27;t know cause—or how to prevent it</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-05 22:36</span>
             </div>
         </div>
 <div class="story">
@@ -151,20 +150,20 @@
                 <span class="time">2026-06-05 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/sound-blaster-katana-v2x-500x500-1780688848.jpg" alt="How a USB-connected speaker can infect a PC without ever being touched" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/" target="_blank">How a USB-connected speaker can infect a PC without ever being touched</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-05 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abhijeeth_manakan/recently-joined-a-service-based-company-need-advice-on-learning-dsa-and-software-development-1ijk" target="_blank">Recently joined a service-based company. Need advice on learning DSA and software development.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-06 05:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +207,6 @@
                 <span class="title"><a href="https://dev.to/umudabbasli/from-paas-to-vps-my-roadmap-to-self-hosting-my-saas-125" target="_blank">From PaaS to VPS: My Roadmap to Self-Hosting My SaaS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-05 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marcel_lehmann_31109127df/testing-email-workflows-without-email-server-with-playwright-mokapi-b25" target="_blank">Testing Email Workflows Without Email Server — With Playwright &amp; Mokapi</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-05 22:07</span>
             </div>
         </div>
 </div>
@@ -315,22 +305,13 @@
                 <span class="time">2026-06-05 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/planetary_science.png" alt="Planetary Science" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3255/" target="_blank">Planetary Science</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-06-05 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 253 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 253 |
+        🔄 Last Updated: 05:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
