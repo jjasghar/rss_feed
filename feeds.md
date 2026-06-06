@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 19:28:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-06 20:22:16 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 20:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss" target="_blank">Palestinian father buries baby killed by Israeli gunfire in West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-06 19:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-united-states-d-day_7266935.jpg?20260606163458" alt="Hegseth uses D-Day speech to issue warning on immigration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hegseth-warns-europe-faces-invasion-of-dangerous-ideologies-in-d-day-speech-13551447" target="_blank">Hegseth uses D-Day speech to issue warning on immigration</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-06 17:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/06/1920x1080/skynews-pete-hegseth-d-day_7266933.jpg?20260606182749" alt="Hegseth warns of &#x27;invasion&#x27; storming Europe&#x27;s beaches in D-Day speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss" target="_blank">100 days into the war on Iran, Trump fails to rally US support</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-06 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss" target="_blank">Israeli strike kills at least five people at wedding in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-06 14:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/6/hegseth-says-europe-is-being-invaded-by-dangerous?traffic_source=rss" target="_blank">Hegseth says Europe is being ‘invaded by dangerous migrants’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-06 13:07</span>
             </div>
         </div>
 </div>
@@ -161,6 +165,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ameya_joshi_68fa01c3a1a16/building-a-langgraph-rag-agent-from-scratch-with-a-live-ui-that-shows-every-step-4nle" target="_blank">Building a LangGraph RAG Agent from Scratch — with a Live UI That Shows Every Step</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-06 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ntsc.rs/" target="_blank">Ntsc-rs – open-source video emulation of analog TV and VHS artifacts</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-06 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-File-Previewer-GTK4" target="_blank">GNOME File Previewer Finally Switches TO GTK4, Adds Dark Mode</a></span>
                 <span class="feed">Phoronix</span>
@@ -192,24 +214,6 @@
                 <span class="title"><a href="https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/" target="_blank">Moving beyond fork() + exec()</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-06 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenCV-5.0-Released" target="_blank">OpenCV 5.0 Released With Rewritten DNN Engine, Built-In LLM &amp; VLM Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-06 12:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rahil_pirani_c48446facc8c/the-challenges-of-creating-a-semantic-memory-layer-on-cloudflare-workers-d1-and-vectorize-3c7a" target="_blank">The challenges of creating a semantic memory layer on Cloudflare Workers, D1, and Vectorize.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-06 11:23</span>
             </div>
         </div>
 </div>
@@ -299,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 20:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
