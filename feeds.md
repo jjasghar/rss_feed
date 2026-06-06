@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 18:22:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-06 19:28:23 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 18:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-pete-hegseth-d-day_7266933.jpg?20260606182749" alt="Hegseth warns of &#x27;invasion&#x27; storming Europe&#x27;s beaches in D-Day speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hegseth-warns-europe-faces-invasion-of-dangerous-ideologies-in-d-day-speech-13551447" target="_blank">Hegseth warns of &#x27;invasion&#x27; storming Europe&#x27;s beaches in D-Day speech</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-06 17:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/06/1920x1080/skynews-pete-hegseth-d-day_7266933.jpg?20260606182749" alt="Hegseth warns Europe faces &#x27;invasion of dangerous ideologies&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/6/hegseth-says-europe-is-being-invaded-by-dangerous?traffic_source=rss" target="_blank">Hegseth says Europe is being ‘invaded by dangerous migrants’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-06 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/CENTCOM-STRIKES_1780714446218_hpMain_4x3t_384.jpg" alt="Iran live updates: US strikes Iranian radar sites after drones fired toward strait" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855" target="_blank">Iran live updates: US strikes Iranian radar sites after drones fired toward strait</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-06 12:10</span>
             </div>
         </div>
 </div>
@@ -308,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 38 | 📸 With Images: 246 |
-        🔄 Last Updated: 18:22 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
