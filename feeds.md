@@ -1,27 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 05:14:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-06 06:58:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 05:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 06:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0b7/live/bf7e7da0-6172-11f1-8b8c-6d33e1d5abb6.jpg" alt="US and Iran exchange strikes in Gulf in latest test of ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran exchange strikes in Gulf in latest test of ceasefire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-06 06:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/06/nx-s1-5848552/knicks-spurs-nba-finals" target="_blank">Knicks beat Spurs by one point for 2-0 lead in NBA Finals</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-06 05:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,24 +96,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/democrat-xavier-becerra-advances-general-election-california-governors/story?id=133636337" target="_blank">Democrat Xavier Becerra advances to general election in Calif. governor&#x27;s race: AP</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-06 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss" target="_blank">Gaza fishermen stay afloat with dinghies made from doorframes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-06 01:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/05/nx-s1-5845847/xavier-becerra-california-governor-hilton-steyer-newsom" target="_blank">Democrat Xavier Becerra wins the top spot in November&#x27;s race for California governor</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-06 00:42</span>
             </div>
         </div>
 </div>
@@ -159,9 +166,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/godavaii/day-48-why-ai-verified-desi-ilaaj-is-godavaiis-toughest-and-most-important-challenge-4ola" target="_blank">Day 48: Why AI-Verified &#x27;Desi Ilaaj&#x27; is GoDavaii&#x27;s Toughest (and Most Important) Challenge</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-06 06:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/abhijeeth_manakan/recently-joined-a-service-based-company-need-advice-on-learning-dsa-and-software-development-1ijk" target="_blank">Recently joined a service-based company. Need advice on learning DSA and software development.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-06 05:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/en/headerimage/generatedHeaderImage-1779253744444.jpg" alt="Cloudflare Identifies Query Planning Bottleneck in ClickHouse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Identifies Query Planning Bottleneck in ClickHouse</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-06 04:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17355105/dank-linux" target="_blank">Craving Hyprland But Don&amp;#x27;t Want to Configure It? Try Dank Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-06 04:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638" target="_blank">An announcement from the Steering Council regarding the JIT project</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-06-06 03:13</span>
             </div>
         </div>
 <div class="story">
@@ -171,42 +214,6 @@
                 <span class="title"><a href="https://dev.to/aimodels-fyi/a-beginners-guide-to-the-gpt-image-2-model-by-openai-on-replicate-2a4j" target="_blank">A beginner&#x27;s guide to the Gpt-Image-2 model by Openai on Replicate</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-06 02:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-DRM-Change-Handle" target="_blank">Linux DRM Ioctl Developed By AMD Being Disabled Following Ongoing Security Issue</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-06 00:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://salvagedcircuitry.com/sigma-45mm.html" target="_blank">The intracies of modern camera lens repair (2024)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-06 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lynkr/i-benchmarked-lynkr-against-litellm-on-the-same-backends-lynkr-was-cheaper-for-tool-heavy-workloads-2onf" target="_blank">The Real Cost of AI Agents Isn’t the Model — It’s Everything You Send to It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-06 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/umudabbasli/from-paas-to-vps-my-roadmap-to-self-hosting-my-saas-125" target="_blank">From PaaS to VPS: My Roadmap to Self-Hosting My SaaS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-05 23:10</span>
             </div>
         </div>
 </div>
@@ -228,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/FFVII_Revelation_June_Screenshots_19-1280x719.jpg" alt="Fans Are Sad And Confused After Discovering Final Fantasy 7 Revelation Will Change The Actor Who Plays Sephiroth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fans-are-sad-and-confused-after-discovering-final-fantasy-7-revelation-will-change-the-actor-who-plays-sephiroth-2000703224" target="_blank">Fans Are Sad And Confused After Discovering Final Fantasy 7 Revelation Will Change The Actor Who Plays Sephiroth</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-06 05:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/image-65.jpg" alt="Everything We Saw At Summer Game Fest 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +289,6 @@
                 <span class="time">2026-06-05 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTCEZQGAVQ1HCFANX2034KBW/hero-image.jpg" alt="Why It Matters What Theater You See &#x27;The Odyssey&#x27; In" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-odyssey-imax-movie-theater-options?utm_medium=RSS" target="_blank">Why It Matters What Theater You See &#x27;The Odyssey&#x27; In</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-05 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 253 |
-        🔄 Last Updated: 05:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 253 |
+        🔄 Last Updated: 06:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
