@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 00:25:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-06 01:35:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 00:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 01:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/becerrapg_1780704650485_hpMain_4x3t_384.jpg" alt="Democrat Xavier Becerra advances to general election in Calif. governor&#x27;s race: AP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/democrat-xavier-becerra-advances-general-election-california-governors/story?id=133636337" target="_blank">Democrat Xavier Becerra advances to general election in Calif. governor&#x27;s race: AP</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-06 01:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss" target="_blank">Gaza fishermen stay afloat with dinghies made from doorframes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-06 01:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/05/nx-s1-5845847/xavier-becerra-california-governor-hilton-steyer-newsom" target="_blank">Democrat Xavier Becerra wins the top spot in November&#x27;s race for California governor</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-06 00:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/Trump-5-ap-er-260605_1780694139672_hpMain_4x3t_384.jpg" alt="DOJ lawyer says in court filing that &#x27;Anti-Weaponization Fund&#x27; is &#x27;not going forward&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,38 +103,20 @@
                 <span class="time">2026-06-05 21:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wc-2-ap-gmh-260529_1780067987818_hpMain_2_4x3t_384.jpg" alt="Iran&#x27;s World Cup players granted visas to play in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/irans-world-cup-players-granted-visas-play-us/story?id=133630621" target="_blank">Iran&#x27;s World Cup players granted visas to play in the US</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-05 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/20260605-5100-02_EMBARGOED_MTP_TRUMP_INTV_LINE_CUT_DIRTY_NY-DC_28_1424-1631_frame_440-0p64is.jpg" alt="Exclusive: Trump says Iran hasn&#x27;t made a deal because ‘they’re strong’ and ‘proud’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/exclusive-trump-says-iran-hasn-t-made-a-deal-because-they-re-strong-and-proud-264654917516" target="_blank">Exclusive: Trump says Iran hasn&#x27;t made a deal because ‘they’re strong’ and ‘proud’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-05 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/05/nx-s1-5847926/platner-controversy-senate-maine-primary-election" target="_blank">Graham Platner isn&#x27;t going anywhere in Maine Senate race after latest controversy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-05 20:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel" target="_blank">More than a decade later, the team behind N++ is back with a multiplayer sequel</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-05 23:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6884625679d4a8e16b1b14ed/master/pass/The%20Best%20Running%20Shoes.png" alt="Best Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +162,29 @@
                 <span class="time">2026-06-05 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277371061-500x500-1780680782.jpg" alt="&quot;We pissed off a lot of people&quot;: Giant data center plan cut 50% amid protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/" target="_blank">&quot;We pissed off a lot of people&quot;: Giant data center plan cut 50% amid protests</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-05 18:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-DRM-Change-Handle" target="_blank">Linux DRM Ioctl Developed By AMD Being Disabled Following Ongoing Security Issue</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-06 00:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://salvagedcircuitry.com/sigma-45mm.html" target="_blank">The intracies of modern camera lens repair (2024)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-06 00:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.10-Desktop-Features" target="_blank">Ubuntu 26.10 To Begin Laying Foundation For Context-Aware Desktop, Other New Features</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-05 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anthesiaco/how-to-add-drug-interaction-checking-to-your-health-app-in-5-minutes-3ip8" target="_blank">How to Add Drug Interaction Checking to Your Health App in 5 Minutes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-05 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/20acoder12/how-to-use-bandit-library-2e2c" target="_blank">How to use bandit library?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-05 17:19</span>
             </div>
         </div>
 </div>
@@ -322,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 39 | 📸 With Images: 255 |
-        🔄 Last Updated: 00:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 254 |
+        🔄 Last Updated: 01:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
