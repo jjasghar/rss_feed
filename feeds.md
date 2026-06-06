@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 06:58:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-06 07:59:29 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 06:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, June 06, 2026 - 07:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss" target="_blank">US says Iranian radar sites hit in Goruk and Qeshm Island</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-06 07:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0b7/live/bf7e7da0-6172-11f1-8b8c-6d33e1d5abb6.jpg" alt="US and Iran exchange strikes in Gulf in latest test of ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/6/arrests-of-critics-in-ghana-provokes-alarm-over-free-speech-under-mahama?traffic_source=rss" target="_blank">Arrests of critics in Ghana provokes alarm over free speech under Mahama</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-06 02:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/becerrapg_1780704650485_hpMain_4x3t_384.jpg" alt="Democrat Xavier Becerra advances to general election in Calif. governor&#x27;s race: AP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/democrat-xavier-becerra-advances-general-election-california-governors/story?id=133636337" target="_blank">Democrat Xavier Becerra advances to general election in Calif. governor&#x27;s race: AP</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-06 01:17</span>
             </div>
         </div>
 </div>
@@ -166,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pengcheng_e679693a21e1180/ba-sa-token-ban-dao-nestjs-sheng-tai-xlt-token-10-de-ji-ge-she-ji-qu-she-4017" target="_blank">把 Sa-Token 搬到 NestJS 生态：xlt-token 1.0 的几个设计取舍</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-06 07:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/godavaii/day-48-why-ai-verified-desi-ilaaj-is-godavaiis-toughest-and-most-important-challenge-4ola" target="_blank">Day 48: Why AI-Verified &#x27;Desi Ilaaj&#x27; is GoDavaii&#x27;s Toughest (and Most Important) Challenge</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-06 06:47</span>
@@ -205,15 +219,6 @@
                 <span class="title"><a href="https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638" target="_blank">An announcement from the Steering Council regarding the JIT project</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-06-06 03:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aimodels-fyi/a-beginners-guide-to-the-gpt-image-2-model-by-openai-on-replicate-2a4j" target="_blank">A beginner&#x27;s guide to the Gpt-Image-2 model by Openai on Replicate</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-06 02:43</span>
             </div>
         </div>
 </div>
@@ -295,6 +300,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/06/a-shocking-display" target="_blank">A Shocking Display</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-06 03:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1780608554-20260605.png" alt="Saturday Morning Breakfast Cereal - Proof" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -303,22 +317,13 @@
                 <span class="time">2026-06-05 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/05/a-shocking-display" target="_blank">A Shocking Display</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-05 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 253 |
-        🔄 Last Updated: 06:58 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 251 |
+        🔄 Last Updated: 07:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
