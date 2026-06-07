@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 15:27:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-07 16:26:47 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 15:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 16:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/Election2026MaineSenatecrowd_1780796559968_hpMain_4x3t_384.jpg" alt="Sen. Warner: Platner allegations are &#x27;disturbing,&#x27; but decision up to voters in Maine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/sen-warner-platner-allegations-disturbing-decision-voters-maine/story?id=133660274" target="_blank">Sen. Warner: Platner allegations are &#x27;disturbing,&#x27; but decision up to voters in Maine</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-07 16:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +103,20 @@
                 <span class="time">2026-06-07 12:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/07/g-s1-125586/island-isolated-india-great-nicobar-china-development" target="_blank">It&#x27;s one of the world&#x27;s most isolated islands. Here come the bulldozers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-07 11:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/944439/govee-outdoor-lamp-post-lights-deal-sale" target="_blank">Govee’s all-weather smart lamp post is under $200 for the first time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-07 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,21 +154,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/6a23882f175efa0c3666cd4f/master/pass/Sigma%20BF%20Body%20with%2035f2%20SOURCE%20Scott%20Gilbertson.jpg" alt="Sigma BF Review (2026): Eccentric but Strangely Lovable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1434414748-500x500-1780698118.jpg" alt="School shooting survivor sues AI gun detection firm after system failed to spot weapon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/sigma-bf-camera/" target="_blank">Sigma BF Review (2026): Eccentric but Strangely Lovable</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-07 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a236c81923e8b4d30970aa7/master/pass/The-Best-Red-Light-Therapy-for-Hair-Growth.jpg" alt="Best Red-Light Therapy for Hair Restoration and Regrowth (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-red-light-therapy-for-hair-growth/" target="_blank">Best Red-Light Therapy for Hair Restoration and Regrowth (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-07 10:02</span>
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/" target="_blank">School shooting survivor sues AI gun detection firm after system failed to spot weapon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-07 11:08</span>
             </div>
         </div>
 </div>
@@ -169,9 +171,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amirsefati/building-hybrid-search-with-postgresql-pgvector-and-citus-299b" target="_blank">Building Hybrid Search with PostgreSQL, pgvector, and Citus</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-07 16:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/toniantunovic/the-maintainer-trap-what-the-jqwik-incident-reveals-about-trusting-your-dependencies-41kd" target="_blank">The Maintainer Trap: What the jqwik Incident Reveals About Trusting Your Dependencies</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-07 15:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122" target="_blank">Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-07 15:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged" target="_blank">Firefox Merges Support For Vulkan Video Decoding</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-07 14:55</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +219,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/website-as-gnome-2-desktop" target="_blank">This dev’s personal website is a working GNOME 2 desktop</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-06-07 14:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/schrodingcatai/aimemorysystemscompleteguide-30l2" target="_blank">AI_Memory_Systems_Complete_Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-07 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/" target="_blank">LLMs are eroding my software engineering career and I don&#x27;t know what to do</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-07 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Flatten-The-Pick-v3" target="_blank">&quot;Flatten The Pick&quot; Linux Patches Progress For Better cgroup Scheduling While Linux Gaming</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-07 11:06</span>
             </div>
         </div>
 </div>
@@ -260,22 +262,13 @@
                 <span class="time">2026-06-06 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Image-from-The-Library-of-Letourneaus-and-Northernlions-YouTube-video-The-most-MINKUS-spray-of-all-time-1280x720.jpg" alt="GOG Apologises For Accidentally Emailing Everyone Nazi Symbols" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gog-apologises-for-accidentally-emailing-everyone-nazi-symbols-2000703435" target="_blank">GOG Apologises For Accidentally Emailing Everyone Nazi Symbols</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-06 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 61 | 📡 Total Sources: 39 | 📸 With Images: 243 |
-        🔄 Last Updated: 15:28 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 64 | 📡 Total Sources: 38 | 📸 With Images: 242 |
+        🔄 Last Updated: 16:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
