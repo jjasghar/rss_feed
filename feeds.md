@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 20:23:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-07 21:23:56 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 20:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 21:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,9 +165,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gergovadasz/azure-mana-nic-rollout-could-it-impact-your-aviatrix-gateways-30oj" target="_blank">Azure MANA NIC Rollout: Could It Impact Your Aviatrix Gateways?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-07 21:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alexkoncept/the-orba-ecosystem-with-orbaos-a-sovereign-offline-first-multimodal-personal-assistant-desktop-52em" target="_blank">The Orba Ecosystem with Orba OS — A sovereign, offline-first multimodal personal assistant (Desktop &amp; Mobile)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-07 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony" target="_blank">Building from zero after addiction, prison, and a felony</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-07 18:33</span>
             </div>
         </div>
 <div class="story">
@@ -197,29 +215,20 @@
                 <span class="time">2026-06-07 16:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/toniantunovic/the-maintainer-trap-what-the-jqwik-incident-reveals-about-trusting-your-dependencies-41kd" target="_blank">The Maintainer Trap: What the jqwik Incident Reveals About Trusting Your Dependencies</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-07 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122" target="_blank">Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-07 15:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/05_GoW_EDAY_PlaysLikeNew_Final-7ef1be5a3c94e92a7462-1900x1080-1-1280x728.jpg" alt="Everything We Learned From The Gears Of War: E-Day Direct" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/everything-we-learned-from-the-gears-of-war-e-day-direct-2000703747" target="_blank">Everything We Learned From The Gears Of War: E-Day Direct</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-07 20:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/vivarium-1280x720.jpg" alt="Gorgeous Slice-Of-Life Game Vivarium Brings That Old-School Anime Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +274,6 @@
                 <span class="time">2026-06-07 15:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Marcus.jpg" alt="Walmart Placeholder Page Lists Gears Of War: E-Day For PS5 [Update]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/walmart-placeholder-page-lists-gears-of-war-e-day-for-ps5-2000703476" target="_blank">Walmart Placeholder Page Lists Gears Of War: E-Day For PS5 [Update]</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-07 03:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 20:23 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 21:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
