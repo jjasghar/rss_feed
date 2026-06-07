@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 19:28:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-07 20:23:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 19:28 UTC</div>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 20:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire" target="_blank">Israel hits Beirut&#x27;s suburbs in retaliatory attack against Hezbollah</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-07 20:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-1-gty-er-260605_1780688465712_hpMain_4x3t_384.jpg" alt="Trump won&#x27;t rule out payments to Jan. 6 rioters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,6 +71,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/949b/live/890af750-62a1-11f1-96bd-c1bed4b24e0c.jpg" alt="Zelensky in Downing Street for Ukraine war talks with European leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky in Downing Street for Ukraine war talks with European leaders</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-07 18:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -85,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss" target="_blank">Bolivia’s legislature passes law allowing use of troops against protesters</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-07 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff48/live/318f54e0-6287-11f1-a012-97de4dc8804e.jpg" alt="Israel strikes Beirut suburb days after US-brokered truce" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss" target="_blank">Israel strikes Beirut suburb days after US-brokered truce</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-07 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/Election2026MaineSenatecrowd_1780796559968_hpMain_4x3t_384.jpg" alt="Sen. Warner: Platner allegations are &#x27;disturbing,&#x27; but decision up to voters in Maine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/sen-warner-platner-allegations-disturbing-decision-voters-maine/story?id=133660274" target="_blank">Sen. Warner: Platner allegations are &#x27;disturbing,&#x27; but decision up to voters in Maine</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-07 16:18</span>
             </div>
         </div>
 </div>
@@ -229,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/vivarium-1280x720.jpg" alt="Gorgeous Slice-Of-Life Game Vivarium Brings That Old-School Anime Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/vivarium-game-xbox-life-sim-old-school-anime-energy-2000703752" target="_blank">Gorgeous Slice-Of-Life Game Vivarium Brings That Old-School Anime Energy</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-07 19:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/image-1280x720.jpg" alt="Oh Nice, Spyro Is Back And Looks Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -273,15 +274,6 @@
                 <span class="time">2026-06-07 03:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Stellar-Blade-Blood-Rain-image-from-official-trailer-Shift-Up-1280x720.jpg" alt="Stellar Blade: Blood Rain’s Reveal Trailer Is Raising Some People’s GenAI Alarm Bells" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/stellar-blade-blood-rains-reveal-trailer-is-raising-genai-alarm-bells-for-some-people-2000703444" target="_blank">Stellar Blade: Blood Rain’s Reveal Trailer Is Raising Some People’s GenAI Alarm Bells</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-06 19:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,7 +294,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 19:28 UTC
+        🔄 Last Updated: 20:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
