@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 21:23:56 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-07 22:20:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 21:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 22:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -89,12 +88,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-christian-eriksen-eriksen_7267768.jpg?20260607193451" alt="Christian Eriksen collapses on pitch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss" target="_blank">Bolivia’s legislature passes law allowing use of troops against protesters</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-07 17:13</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/danish-footballer-christian-eriksen-collapses-on-pitch-13551755" target="_blank">Christian Eriksen collapses on pitch</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-07 18:16</span>
             </div>
         </div>
 </div>
@@ -102,6 +101,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis" target="_blank">NASA will wear high-tech Prada long johns to the Moon</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-07 22:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/" target="_blank">Is this the dawn of the Tokenpocalypse?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-07 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/giles-TOP-500x500.jpg" alt="RIP Anthony Head: Our 10 favorite moments of Buffy&#x27;s Giles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/" target="_blank">RIP Anthony Head: Our 10 favorite moments of Buffy&#x27;s Giles</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-07 19:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,33 +155,6 @@
                 <span class="time">2026-06-07 16:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/944439/govee-outdoor-lamp-post-lights-deal-sale" target="_blank">Govee’s all-weather smart lamp post is under $200 for the first time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-07 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/943230/japanese-gothic-kylie-lee-baker-horror-novel" target="_blank">Japanese Gothic is a gorgeously grotesque ghost story</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-07 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os" target="_blank">The Virtual OS Museum lets you relive over 600 operating systems right on your desktop</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-07 14:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,9 +164,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nelson_amaya_16872e58232b/the-five-faculties-a-tour-of-safis-cognitive-architecture-5bc0" target="_blank">The Five Faculties: A Tour of SAFi&#x27;s Cognitive Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-07 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gergovadasz/azure-mana-nic-rollout-could-it-impact-your-aviatrix-gateways-30oj" target="_blank">Azure MANA NIC Rollout: Could It Impact Your Aviatrix Gateways?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-07 21:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/11/handbrake-logo-on-colourful-background.jpg?resize=406%2C232&amp;ssl=1" alt="HandBrake fixes 2-pass encode crashes, WebM on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/handbrake-update-open-webm-linux" target="_blank">HandBrake fixes 2-pass encode crashes, WebM on Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-07 21:01</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/zilton7/viewcomponent-vs-phlex-which-ruby-ui-library-should-you-choose-4po4" target="_blank">ViewComponent vs. Phlex: Which Ruby UI Library Should You Choose?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-07 18:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html" target="_blank">Powering up a module from the IBM 604: an electronic calculator from 1948</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-07 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amirsefati/building-hybrid-search-with-postgresql-pgvector-and-citus-299b" target="_blank">Building Hybrid Search with PostgreSQL, pgvector, and Citus</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-07 16:22</span>
             </div>
         </div>
 </div>
@@ -293,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 21:24 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 22:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
