@@ -1,15 +1,16 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 18:22:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-07 19:28:24 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
@@ -17,25 +18,24 @@
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 18:22 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-1-gty-er-260605_1780688465712_hpMain_4x3t_384.jpg" alt="Trump won&#x27;t rule out payments to Jan. 6 rioters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-rule-payments-jan-6-rioters/story?id=133665729" target="_blank">Trump won&#x27;t rule out payments to Jan. 6 rioters</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-07 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/7/lawsuit-seeks-to-stop-trumps-planned-white-house-ufc-match?traffic_source=rss" target="_blank">Lawsuit seeks to stop Trump’s planned White House UFC match</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-07 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/07/g-s1-126803/french-open-2026-alexander-zverev-grand-slam-title" target="_blank">Alexander Zverev wins the French Open to finally earn a 1st Grand Slam title</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-07 18:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,38 +105,20 @@
                 <span class="time">2026-06-07 16:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/07/nx-s1-5849212/u-k-deputy-prime-minister-jd-vance-was-wrong-to-blame-teens-murder-on-immigration" target="_blank">U.K. deputy prime minister: JD Vance was wrong to blame teen&#x27;s murder on  immigration</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-07 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss" target="_blank">Iran’s World Cup squad lands in Mexico amid US visa row</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-07 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/Election2026MaineSenate_1780795017173_hpMain_4x3t_384.jpg" alt="Sen. Warner: Platner allegations are ‘disturbing,’ but decision up to voters in Maine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/sen-warner-platner-allegations-disturbing-decision-voters-maine/story?id=133660274" target="_blank">Sen. Warner: Platner allegations are ‘disturbing,’ but decision up to voters in Maine</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-07 14:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories" target="_blank">The 7 biggest storylines from Summer Game Fest 2026</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-07 18:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +164,20 @@
                 <span class="time">2026-06-07 14:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/" target="_blank">Hacked, leaked, and held for ransom: the worst breaches of 2026 so far</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-07 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alexkoncept/the-orba-ecosystem-with-orbaos-a-sovereign-offline-first-multimodal-personal-assistant-desktop-52em" target="_blank">The Orba Ecosystem with Orba OS — A sovereign, offline-first multimodal personal assistant (Desktop &amp; Mobile)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-07 19:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +221,6 @@
                 <span class="title"><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122" target="_blank">Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-07 15:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged" target="_blank">Firefox Merges Support For Vulkan Video Decoding</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-07 14:55</span>
             </div>
         </div>
 </div>
@@ -301,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 64 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 18:22 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
