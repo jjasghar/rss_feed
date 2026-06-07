@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 10:04:43 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-06-07 11:31:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 10:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 11:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/07/nx-s1-5849147/1-million-flood-madrid-streets-pope-procession" target="_blank">1 million people flood Madrid streets to see the pope&#x27;s flower-carpeted procession</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-07 10:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7b0/live/1ff0f2b0-6256-11f1-be00-fb33099ec41d.jpg" alt="Lammy says he told JD Vance his Nowak comments were &#x27;wrong&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +96,20 @@
                 <span class="time">2026-06-07 01:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/06/nx-s1-5848682/sofi-stadium-strike-world-cup" target="_blank">SoFi Stadium workers vote to authorize strike ahead of World Cup</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-07 00:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a23882f175efa0c3666cd4f/master/pass/Sigma%20BF%20Body%20with%2035f2%20SOURCE%20Scott%20Gilbertson.jpg" alt="Sigma BF Review (2026): Eccentric but Strangely Lovable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/sigma-bf-camera/" target="_blank">Sigma BF Review (2026): Eccentric but Strangely Lovable</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-07 11:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a236c81923e8b4d30970aa7/master/pass/The-Best-Red-Light-Therapy-for-Hair-Growth.jpg" alt="Best Red-Light Therapy for Hair Restoration and Regrowth (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +155,20 @@
                 <span class="time">2026-06-06 18:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers" target="_blank">The first Story-Rich showcase was packed with narrative-driven games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-06 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Flatten-The-Pick-v3" target="_blank">&quot;Flatten The Pick&quot; Linux Patches Progress For Better cgroup Scheduling While Linux Gaming</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-07 11:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +212,6 @@
                 <span class="title"><a href="https://github.com/ValveSoftware/GameNetworkingSockets/issues/398" target="_blank">Valve P2P networking broken for more than 2 months</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-07 03:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/01888927bd0e8aa92caca/low-pass-filter-design-setting-the-cut-off-with-two-components-3eek" target="_blank">Low Pass Filter Design: Setting the Cut-off with Two Components</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-07 00:17</span>
             </div>
         </div>
 </div>
@@ -300,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 63 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 10:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 60 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 11:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
