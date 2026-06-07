@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 11:31:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-07 12:26:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 11:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 12:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +68,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-kim-jong-un-nuclear-bomb-fuels_7267384.jpg?20260607114521" alt="North Korea will never surrender nuclear status, Kim Jong Un&#x27;s sister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/kim-jong-uns-sister-vows-north-korea-will-never-give-up-nuclear-weapons-13551594" target="_blank">North Korea will never surrender nuclear status, Kim Jong Un&#x27;s sister says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-07 08:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -85,15 +92,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss" target="_blank">Hegseth attacks Europe over migration with beach &#x27;invasion&#x27; D-Day speech</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-07 05:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/CENTCOM-STRIKES_1780714446218_hpMain_4x3t_384.jpg" alt="Iran live updates: US plans to use Iranian assets to rebuild Gulf allies, source says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855" target="_blank">Iran live updates: US plans to use Iranian assets to rebuild Gulf allies, source says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-07 01:44</span>
             </div>
         </div>
 </div>
@@ -292,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 60 | 📡 Total Sources: 39 | 📸 With Images: 243 |
-        🔄 Last Updated: 11:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 57 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 12:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
