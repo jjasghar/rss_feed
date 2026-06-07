@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 22:20:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-07 23:20:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 22:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 23:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/07/g-s1-126826/trump-iran-wars-campaign-message" target="_blank">Trump rejects idea that Iran betrays his &quot;no new wars&quot; campaign message</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-07 23:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/07/g-s1-126803/french-open-2026-alexander-zverev-grand-slam-title" target="_blank">Alexander Zverev wins the French Open to finally earn a 1st Grand Slam title</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-07 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-christian-eriksen-eriksen_7267768.jpg?20260607193451" alt="Christian Eriksen collapses on pitch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/danish-footballer-christian-eriksen-collapses-on-pitch-13551755" target="_blank">Christian Eriksen collapses on pitch</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-07 18:16</span>
             </div>
         </div>
 </div>
@@ -161,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2Fpako%3AeNpdj8EKwjAQRH9lybniXaRghZ7EFvck1UOabGmgbWQTLbX0343Rg3jcYefNzCyU1SQ2IJrOjqqV7OFwugwAZVWy6SVP25rXKRpPsLvCagV4Pu6BSdsEnsQWOutc0FPIscolA06Dip6BwnX7QK5vZI5v_-4HYB_EoI3zclAUIViV7eSMkh1gUHX9k59FSpGFHMwLKGpHHACx1Si9aulTpPy-_esoEhA9cS-NDpNn4Vvq43hNjbx3XizLCwaGVuY" alt="The Oracle HA Decision Tree: RAC vs Data Guard vs Both" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/uptimearchitect/the-oracle-ha-decision-tree-rac-vs-data-guard-vs-both-27ln" target="_blank">The Oracle HA Decision Tree: RAC vs Data Guard vs Both</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-07 23:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,18 +216,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony" target="_blank">Building from zero after addiction, prison, and a felony</a></span>
+                <span class="title"><a href="https://performance.dev/how-is-linear-so-fast-a-technical-breakdown" target="_blank">How&#x27;s Linear so fast? A technical breakdown</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-06-07 18:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zilton7/viewcomponent-vs-phlex-which-ruby-ui-library-should-you-choose-4po4" target="_blank">ViewComponent vs. Phlex: Which Ruby UI Library Should You Choose?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-07 18:13</span>
+                <span class="time">2026-06-07 19:01</span>
             </div>
         </div>
 </div>
@@ -219,6 +226,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Visio-2021-Professional.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Turn your data into diagrams in just a few clicks with this $13 Microsoft tool (MSRP $250)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/07/turn-your-data-into-diagrams-in-just-a-few-clicks-with-this-13-microsoft-tool-msrp-250.html" target="_blank">Turn your data into diagrams in just a few clicks with this $13 Microsoft tool (MSRP $250)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-07 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/05_GoW_EDAY_PlaysLikeNew_Final-7ef1be5a3c94e92a7462-1900x1080-1-1280x728.jpg" alt="Everything We Learned From The Gears Of War: E-Day Direct" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +280,6 @@
                 <span class="time">2026-06-07 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/startrekshadow-1280x720.jpg" alt="Ro Laren Stars In Star Trek Horror Game From Silent Hill Remake Makers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ro-laren-stars-in-star-trek-horror-game-from-silent-hill-remake-makers-2000703593" target="_blank">Ro Laren Stars In Star Trek Horror Game From Silent Hill Remake Makers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-07 15:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 22:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 39 | 📸 With Images: 237 |
+        🔄 Last Updated: 23:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
