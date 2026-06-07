@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 14:33:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-07 15:27:51 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 14:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 15:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss" target="_blank">Iran’s World Cup squad lands in Mexico amid US visa row</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-07 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/Election2026MaineSenate_1780795017173_hpMain_4x3t_384.jpg" alt="Sen. Warner: Platner allegations are ‘disturbing,’ but decision up to voters in Maine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +101,6 @@
                 <span class="time">2026-06-07 11:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/07/nx-s1-5849147/1-million-flood-madrid-streets-pope-procession" target="_blank">1 million people flood Madrid streets to see the pope&#x27;s flower-carpeted procession</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-07 10:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,9 +110,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/943230/japanese-gothic-kylie-lee-baker-horror-novel" target="_blank">Japanese Gothic is a gorgeously grotesque ghost story</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-07 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os" target="_blank">The Virtual OS Museum lets you relive over 600 operating systems right on your desktop</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-07 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/" target="_blank">Hacked, leaked, and held for ransom: the worst breaches of 2026 so far</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-07 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -141,29 +160,20 @@
                 <span class="time">2026-06-07 10:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/943732/best-portable-4k-projector-review" target="_blank">JMGO’s N3 Ultimate projector is the new portable 4K champ</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-07 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/diabetes1-500x500-1780778318.jpg" alt="Scientists ejected from diabetes conference for distributing journal reprints" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/" target="_blank">Scientists ejected from diabetes conference for distributing journal reprints</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-06 20:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/toniantunovic/the-maintainer-trap-what-the-jqwik-incident-reveals-about-trusting-your-dependencies-41kd" target="_blank">The Maintainer Trap: What the jqwik Incident Reveals About Trusting Your Dependencies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-07 15:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,20 +219,20 @@
                 <span class="time">2026-06-07 11:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marcel_lehmann_31109127df/your-test-suite-shouldnt-depend-on-apis-you-dont-control-1c9e" target="_blank">Your Test Suite Shouldn&#x27;t Depend on APIs You Don&#x27;t Control</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-07 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/startrekshadow-1280x720.jpg" alt="Ro Laren Stars In Star Trek Horror Game From Silent Hill Remake Makers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ro-laren-stars-in-star-trek-horror-game-from-silent-hill-remake-makers-2000703593" target="_blank">Ro Laren Stars In Star Trek Horror Game From Silent Hill Remake Makers</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-07 15:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Marcus.jpg" alt="Walmart Placeholder Page Lists Gears Of War: E-Day For PS5 [Update]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,36 +269,13 @@
                 <span class="time">2026-06-06 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/monster-hunter.jpg" alt="Monster Hunter Wilds Reveals The Elder Dragons Are Coming In A New Expansion And, Surprise, There’s A Switch 2 Port In The Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/monster-hunter-wilds-reveals-the-elder-dragons-are-coming-in-a-new-expansion-and-surprise-theres-a-switch-2-port-2000703218" target="_blank">Monster Hunter Wilds Reveals The Elder Dragons Are Coming In A New Expansion And, Surprise, There’s A Switch 2 Port In The Works</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-06 15:17</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1780608620-20260606.png" alt="Saturday Morning Breakfast Cereal - Yes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/yes" target="_blank">Saturday Morning Breakfast Cereal - Yes</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-06 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 64 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 14:33 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 61 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 15:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
