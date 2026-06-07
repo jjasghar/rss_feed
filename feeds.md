@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-06 23:19:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-07 00:26:28 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, June 06, 2026 - 23:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 00:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c899/live/9ed7ff30-61fa-11f1-97a1-f7410493225c.jpg" alt="Delays to defence plan undermine UK credibility, MPs say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0ky47v6d1no?at_medium=RSS&at_campaign=rss" target="_blank">Delays to defence plan undermine UK credibility, MPs say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-06 23:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss" target="_blank">Pentagon said to raise threat level on Israel spying to ‘critical’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-06 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/06/nx-s1-5847932/why-one-historian-uses-social-media-to-remember-d-day-in-real-time" target="_blank">Why one historian uses social media to remember D-Day in real time</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-06 21:05</span>
             </div>
         </div>
 <div class="story">
@@ -78,24 +92,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/hegseth-warns-europe-faces-invasion-of-dangerous-ideologies-in-d-day-speech-13551447" target="_blank">Hegseth uses D-Day speech to issue immigration warning</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-06 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-united-states-d-day_7266935.jpg?20260606163458" alt="Hegseth uses D-Day speech to issue warning on immigration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hegseth-warns-europe-faces-invasion-of-dangerous-ideologies-in-d-day-speech-13551447" target="_blank">Hegseth uses D-Day speech to issue warning on immigration</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-06 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-pete-hegseth-d-day_7266933.jpg?20260606182749" alt="Hegseth warns of &#x27;invasion&#x27; storming Europe&#x27;s beaches in D-Day speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hegseth-warns-europe-faces-invasion-of-dangerous-ideologies-in-d-day-speech-13551447" target="_blank">Hegseth warns of &#x27;invasion&#x27; storming Europe&#x27;s beaches in D-Day speech</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-06-06 17:23</span>
             </div>
@@ -168,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/01888927bd0e8aa92caca/low-pass-filter-design-setting-the-cut-off-with-two-components-3eek" target="_blank">Low Pass Filter Design: Setting the Cut-off with Two Components</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-07 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-7gb" target="_blank">Three post-deploy checks I run after every Cloudflare Pages build</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-06 22:10</span>
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-File-Previewer-GTK4" target="_blank">GNOME File Previewer Finally Switches TO GTK4, Adds Dark Mode</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-06 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/palo_alto_ai/why-mcp-servers-and-claude-code-skills-die-quiet-deaths-3k7" target="_blank">Why MCP servers and Claude Code skills die quiet deaths</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-06 15:07</span>
             </div>
         </div>
 </div>
@@ -305,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 39 | 📸 With Images: 241 |
-        🔄 Last Updated: 23:19 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 39 | 📸 With Images: 242 |
+        🔄 Last Updated: 00:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
