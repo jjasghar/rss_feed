@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 13:30:21 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-07 14:33:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 13:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 14:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/Election2026MaineSenate_1780795017173_hpMain_4x3t_384.jpg" alt="Sen. Warner: Platner allegations are ‘disturbing,’ but decision up to voters in Maine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/sen-warner-platner-allegations-disturbing-decision-voters-maine/story?id=133660274" target="_blank">Sen. Warner: Platner allegations are ‘disturbing,’ but decision up to voters in Maine</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-07 14:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/7/fifty-two-hours-on-an-israeli-prison-ship?traffic_source=rss" target="_blank">Fifty-two hours on an Israeli prison ship</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-07 14:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780840006022_mtp_clip_trumpcblk_260607_S3_1920x1080-uojj4t.jpg" alt="Trump says ‘I’d pay’ anti-weaponization fund applicants ‘the kind of money they deserve’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/trump-says-i-d-pay-anti-weaponization-fund-applicants-the-kind-of-money-they-deserve-264700485653" target="_blank">Trump says ‘I’d pay’ anti-weaponization fund applicants ‘the kind of money they deserve’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-07 13:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c12/live/9aaeaf20-626e-11f1-89a3-d1f559421220.jpg" alt="Zelensky criticises &#x27;vile&#x27; Chornobyl drone strike ahead of London talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky criticises &#x27;vile&#x27; Chornobyl drone strike ahead of London talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-07 12:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,47 +100,20 @@
                 <span class="time">2026-06-07 10:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7b0/live/1ff0f2b0-6256-11f1-be00-fb33099ec41d.jpg" alt="Lammy says he told JD Vance his Nowak comments were &#x27;wrong&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjwg387040wo?at_medium=RSS&at_campaign=rss" target="_blank">Lammy says he told JD Vance his Nowak comments were &#x27;wrong&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-07 09:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/7/kosovo-votes-again-amid-political-deadlock-seeking-eu-and-nato-progress?traffic_source=rss" target="_blank">Kosovo votes again amid political deadlock, seeking EU and NATO progress</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-07 09:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-kim-jong-un-nuclear-bomb-fuels_7267384.jpg?20260607114521" alt="North Korea will never surrender nuclear status, Kim Jong Un&#x27;s sister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/kim-jong-uns-sister-vows-north-korea-will-never-give-up-nuclear-weapons-13551594" target="_blank">North Korea will never surrender nuclear status, Kim Jong Un&#x27;s sister says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-07 08:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/7/at-least-a-dozen-injured-from-shooting-attack-near-ohio-festival?traffic_source=rss" target="_blank">At least a dozen injured from shooting attack near Ohio festival</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-07 08:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os" target="_blank">The Virtual OS Museum lets you relive over 600 operating systems right on your desktop</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-07 14:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +159,6 @@
                 <span class="time">2026-06-06 20:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/" target="_blank">OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-06 20:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,9 +168,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pie-314/lexers-622" target="_blank">Lexers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-07 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/09/gnome-gloop-hero-e1694788247811.jpg?resize=406%2C232&amp;ssl=1" alt="This dev’s personal website is a working GNOME 2 desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/website-as-gnome-2-desktop" target="_blank">This dev’s personal website is a working GNOME 2 desktop</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-07 14:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/schrodingcatai/aimemorysystemscompleteguide-30l2" target="_blank">AI_Memory_Systems_Complete_Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-07 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/" target="_blank">LLMs are eroding my software engineering career and I don&#x27;t know what to do</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-07 12:49</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +216,6 @@
                 <span class="title"><a href="https://dev.to/marcel_lehmann_31109127df/your-test-suite-shouldnt-depend-on-apis-you-dont-control-1c9e" target="_blank">Your Test Suite Shouldn&#x27;t Depend on APIs You Don&#x27;t Control</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-07 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/extenddb-dynamodb-adapter/en/headerimage/generatedHeaderImage-1779640650229.jpg" alt="ExtendDB: Open Source Amazon DynamoDB Compatible Adapter with Pluggable Storage Backends" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/extenddb-dynamodb-adapter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">ExtendDB: Open Source Amazon DynamoDB Compatible Adapter with Pluggable Storage Backends</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-07 06:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.ioccc.org/2025/" target="_blank">The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-07 05:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17355492/protonmail-canned-response" target="_blank">The Single Biggest Reason Why ProtonMail is Killing My Productivity</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-07 04:50</span>
             </div>
         </div>
 </div>
@@ -265,15 +268,6 @@
                 <span class="time">2026-06-06 15:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/tifa.jpg" alt="A Beloved Final Fantasy 7 Character Is Getting Rebuilt From The Ground Up For Street Fighter 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/a-beloved-final-fantasy-7-character-is-getting-rebuilt-from-the-ground-up-for-street-fighter-6-2000703222" target="_blank">A Beloved Final Fantasy 7 Character Is Getting Rebuilt From The Ground Up For Street Fighter 6</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-06 14:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +287,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 58 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 13:30 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 64 | 📡 Total Sources: 39 | 📸 With Images: 242 |
+        🔄 Last Updated: 14:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
