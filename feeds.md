@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 05:28:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-06-07 07:17:36 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 05:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 07:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82e7/live/c3681e00-61ed-11f1-89a3-d1f559421220.jpg" alt="Hegseth attacks Europe over migration with beach &#x27;invasion&#x27; D-Day speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss" target="_blank">Hegseth attacks Europe over migration with beach &#x27;invasion&#x27; D-Day speech</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-07 05:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +96,20 @@
                 <span class="time">2026-06-06 19:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/06/nx-s1-5848668/israel-lebanon-white-phosphorus" target="_blank">Israel has reportedly used white phosphorus near Lebanese cities and towns. What is it?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-06 18:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/reviews/943732/best-portable-4k-projector-review" target="_blank">JMGO’s N3 Ultimate projector is the new portable 4K champ</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-07 07:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/diabetes1-500x500-1780778318.jpg" alt="Scientists ejected from diabetes conference for distributing journal reprints" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +155,20 @@
                 <span class="time">2026-06-06 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/" target="_blank">The Trump administration might take an equity stake in OpenAI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-06 16:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/extenddb-dynamodb-adapter/en/headerimage/generatedHeaderImage-1779640650229.jpg" alt="ExtendDB: Open Source Amazon DynamoDB Compatible Adapter with Pluggable Storage Backends" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/extenddb-dynamodb-adapter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">ExtendDB: Open Source Amazon DynamoDB Compatible Adapter with Pluggable Storage Backends</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-07 06:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,20 +214,20 @@
                 <span class="time">2026-06-06 20:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ntsc.rs/" target="_blank">Ntsc-rs – open-source video emulation of analog TV and VHS artifacts</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-06 19:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Marcus.jpg" alt="Walmart Placeholder Page Lists Gears Of War: E-Day For PS5 [Update]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/walmart-placeholder-page-lists-gears-of-war-e-day-for-ps5-2000703476" target="_blank">Walmart Placeholder Page Lists Gears Of War: E-Day For PS5 [Update]</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-07 03:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Stellar-Blade-Blood-Rain-image-from-official-trailer-Shift-Up-1280x720.jpg" alt="Stellar Blade: Blood Rain’s Reveal Trailer Is Raising Some People’s GenAI Alarm Bells" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 62 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 05:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 62 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 07:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
