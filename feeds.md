@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 12:26:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-07 13:30:21 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 12:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 13:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/07/g-s1-125586/island-isolated-india-great-nicobar-china-development" target="_blank">It&#x27;s one of the world&#x27;s most isolated islands. Here come the bulldozers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-07 11:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +97,20 @@
                 <span class="time">2026-06-07 08:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82e7/live/c3681e00-61ed-11f1-89a3-d1f559421220.jpg" alt="Hegseth attacks Europe over migration with beach &#x27;invasion&#x27; D-Day speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss" target="_blank">Hegseth attacks Europe over migration with beach &#x27;invasion&#x27; D-Day speech</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-07 05:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/945205/weekend-time-waster-internet-browser-game-rabibit-hole" target="_blank">Kill some time with these much needed distractions</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-07 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a23882f175efa0c3666cd4f/master/pass/Sigma%20BF%20Body%20with%2035f2%20SOURCE%20Scott%20Gilbertson.jpg" alt="Sigma BF Review (2026): Eccentric but Strangely Lovable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +156,20 @@
                 <span class="time">2026-06-06 20:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/" target="_blank">What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-06 18:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/schrodingcatai/aimemorysystemscompleteguide-30l2" target="_blank">AI_Memory_Systems_Complete_Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-07 13:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +213,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17355492/protonmail-canned-response" target="_blank">The Single Biggest Reason Why ProtonMail is Killing My Productivity</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-06-07 04:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/ValveSoftware/GameNetworkingSockets/issues/398" target="_blank">Valve P2P networking broken for more than 2 months</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-07 03:21</span>
             </div>
         </div>
 </div>
@@ -290,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 57 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 12:26 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 58 | 📡 Total Sources: 39 | 📸 With Images: 242 |
+        🔄 Last Updated: 13:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
