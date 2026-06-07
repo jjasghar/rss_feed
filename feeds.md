@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 17:27:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-07 18:22:21 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 17:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, June 07, 2026 - 18:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss" target="_blank">Bolivia’s legislature passes law allowing use of troops against protesters</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-07 17:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff48/live/318f54e0-6287-11f1-a012-97de4dc8804e.jpg" alt="Israel strikes Beirut suburb days after US-brokered truce" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +105,20 @@
                 <span class="time">2026-06-07 14:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/7/fifty-two-hours-on-an-israeli-prison-ship?traffic_source=rss" target="_blank">Fifty-two hours on an Israeli prison ship</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-07 14:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/945256/persona-6-teaser" target="_blank">Persona 6 exists, and that’s all we know</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-07 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +164,29 @@
                 <span class="time">2026-06-07 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/945205/weekend-time-waster-internet-browser-game-rabibit-hole" target="_blank">Kill some time with these much needed distractions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-07 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zilton7/viewcomponent-vs-phlex-which-ruby-ui-library-should-you-choose-4po4" target="_blank">ViewComponent vs. Phlex: Which Ruby UI Library Should You Choose?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-07 18:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html" target="_blank">Powering up a module from the IBM 604: an electronic calculator from 1948</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-07 17:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,29 +223,20 @@
                 <span class="time">2026-06-07 14:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pie-314/lexers-622" target="_blank">Lexers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-07 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/09/gnome-gloop-hero-e1694788247811.jpg?resize=406%2C232&amp;ssl=1" alt="This dev’s personal website is a working GNOME 2 desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/website-as-gnome-2-desktop" target="_blank">This dev’s personal website is a working GNOME 2 desktop</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-07 14:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/image-1280x720.jpg" alt="Oh Nice, Spyro Is Back And Looks Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/oh-nice-spyro-is-back-and-looks-great-2000703677" target="_blank">Oh Nice, Spyro Is Back And Looks Great</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-07 18:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/SUMMER-GAME-FEST_-XBOX-Games-Showcase-2026-4K60FPS-Live-Now-3.jpeg" alt="Xbox Finally Shows Gameplay Of Long Delayed State Of Decay 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 61 | 📡 Total Sources: 38 | 📸 With Images: 243 |
-        🔄 Last Updated: 17:27 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 64 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 18:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
