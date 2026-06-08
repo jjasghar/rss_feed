@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 21:31:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-06-08 22:28:34 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 21:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 22:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46dd/live/0b779580-6361-11f1-8e1d-bbbb1017d210.jpg" alt="Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss" target="_blank">Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-08 21:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +99,20 @@
                 <span class="time">2026-06-08 16:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6238/live/570de590-632e-11f1-9c51-2750bc009463.jpg" alt="West Ham co-owner accused of preying on women for sex" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj9p2lm7epeo?at_medium=RSS&at_campaign=rss" target="_blank">West Ham co-owner accused of preying on women for sex</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-08 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/" target="_blank">OpenAI files confidentially for IPO, following Anthropic</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-08 21:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/" target="_blank">Apple’s Image Playground doesn’t suck anymore</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-08 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279827763-500x500.jpg" alt="F1 in Monaco: Finally, the cars were flat-out in qualifying" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/06/f1-in-monaco-finally-the-cars-were-flat-out-in-qualifying/" target="_blank">F1 in Monaco: Finally, the cars were flat-out in qualifying</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-08 16:56</span>
             </div>
         </div>
 </div>
@@ -246,6 +246,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/gen-atlas.jpg" alt="Shadow Of The Colossus Director Fumito Ueda Says His New Studio Doesn’t Use AI For Development As Other Games Are Engulfed In A Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/shadow-of-the-colossus-director-fumito-ueda-says-his-new-studio-doesnt-use-ai-as-other-games-are-engulfed-in-a-backlash-2000704103" target="_blank">Shadow Of The Colossus Director Fumito Ueda Says His New Studio Doesn’t Use AI For Development As Other Games Are Engulfed In A Backlash</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-08 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KT45K55ZFVB6AKNZ2C2V21ZP/hero-image.jpg" alt="10 Hacks Every Bitwarden User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-bitwarden-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Bitwarden User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-08 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/caves.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Hundreds of tiny medieval tunnels no one can explain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/08/hundreds-of-tiny-medieval-tunnels-no-one-can-explain.html" target="_blank">Hundreds of tiny medieval tunnels no one can explain</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-08 21:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/disney_millennium_falcon_unreal_engine-1280x720.jpg" alt="Inside The Big Revamp Of Disney’s Millennium Falcon Ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -270,33 +297,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/these-iphones-will-have-the-new-apple-intelligence-features?utm_medium=RSS" target="_blank">Apple&#x27;s New AI Features WIll Only Work on These iPhones</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-08 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Geoff-Keighley-and-Hideo-Kojima-besties-pic-from-Geoff-Keighleys-X-1280x960.jpg" alt="Why Does The Internet Think Hideo Kojima And Geoff Keighley Got ‘Divorced’?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hideo-kojima-geoff-keighley-friendship-divorce-2000704057" target="_blank">Why Does The Internet Think Hideo Kojima And Geoff Keighley Got ‘Divorced’?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-08 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_2525483325.jpg?fit=768%2C480&amp;quality=60&amp;ssl=1" alt="Meta is not sorry it built the spyware, just sorry you noticed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/08/meta-is-not-sorry-it-built-the-spyware-just-sorry-you-noticed.html" target="_blank">Meta is not sorry it built the spyware, just sorry you noticed</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-08 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/09/Apple-Watch-Series4_Fire_09122018.jpg?fit=1142%2C1308&amp;quality=60&amp;ssl=1" alt="Apple&#x27;s watchOS 27 cutoff is weirdly brutal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/08/apples-watchos-27-cutoff-is-weirdly-brutal.html" target="_blank">Apple&#x27;s watchOS 27 cutoff is weirdly brutal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-08 19:28</span>
             </div>
         </div>
 </div>
@@ -336,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 21:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 237 |
+        🔄 Last Updated: 22:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
