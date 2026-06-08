@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 11:32:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-08 13:20:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 11:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 13:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/08/g-s1-126863/xi-and-kim-express-hopes-for-greater-ties-between-china-and-north-korea" target="_blank">Xi and Kim express hopes for greater ties between China and North Korea</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-08 12:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec7/live/fc4cdaf0-62f9-11f1-9f01-0f46b1df0d85.jpg" alt="At least 32 dead after major earthquake strikes southern Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +103,20 @@
                 <span class="time">2026-06-08 08:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Israel-rocket-DB-260608_1780902382450_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel and Iran trade strikes, Trump says he calls &#x27;all the shots&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Israel and Iran trade strikes, Trump says he calls &#x27;all the shots&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-08 07:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london" target="_blank">Uber tells London to get ready for robotaxis</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-08 11:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a10bd28f230faa16bdd1fe9/master/pass/Review%20lenovo%20ideapad%20slim%205x%20top%20art%20052026%20SOURCE%20Lenovo.jpg" alt="Lenovo IdeaPad Slim 5x Review: The Best Laptop Under $1,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -115,6 +132,15 @@
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/" target="_blank">The weather and climate science AI revolution isn’t revolutionary</a></span>
                 <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-08 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/" target="_blank">Uber, Wayve and Waymo are headed towards a robotaxi showdown in London</a></span>
+                <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-08 11:00</span>
             </div>
         </div>
@@ -136,29 +162,38 @@
                 <span class="time">2026-06-07 22:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/" target="_blank">Is this the dawn of the Tokenpocalypse?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-07 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/giles-TOP-500x500.jpg" alt="RIP Anthony Head: Our 10 favorite moments of Buffy&#x27;s Giles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/" target="_blank">RIP Anthony Head: Our 10 favorite moments of Buffy&#x27;s Giles</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-07 19:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Flatpak-1.18" target="_blank">Flatpak 1.18 Released With Integration For AMD ROCm</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-08 13:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/trenttompkins/killing-the-tofu-box-for-good-grafting-a-star-into-noto-color-emoji-4ldo" target="_blank">Killing the Tofu Box for Good: Grafting a Star into Noto Color Emoji</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-08 13:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/boringcollege/zig-by-example" target="_blank">Zig by Example</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-08 13:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,31 +221,18 @@
                 <span class="time">2026-06-08 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/microsoft-discovery-majorana-2/en/headerimage/generatedHeaderImage-1780831902723.jpg" alt="Microsoft Discovery Reaches GA on Azure, Powering the Agentic AI Behind Majorana 2 Quantum Chip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/microsoft-discovery-majorana-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Discovery Reaches GA on Azure, Powering the Agentic AI Behind Majorana 2 Quantum Chip</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-08 09:08</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cypherpunkbooks.com" target="_blank">The Cypherpunk Library</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-08 08:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz29olhczi2gbl7x02atx.png" alt="How to Get Your CTF Listed on CTFtime" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/adityapidurkar/how-to-get-your-ctf-listed-on-ctftime-34dj" target="_blank">How to Get Your CTF Listed on CTFtime</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-08 07:19</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html" target="_blank">Anthropic’s Project Glasswing Update</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-08 11:01</span>
             </div>
         </div>
 </div>
@@ -300,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 11:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 39 | 📸 With Images: 231 |
+        🔄 Last Updated: 13:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
