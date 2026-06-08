@@ -1,51 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 17:01:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-06-08 18:44:15 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 18 new posts out of 42 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 18:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -80,6 +61,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/knicks-spurs-nba-finals-gty-bh-260607_1780859842057_hpMain_4x3t_384.jpg" alt="&#x27;Lockdown&#x27;: Security ramped up at Madison Square Garden as Trump goes to NBA Finals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/heightened-risk-police-alert-malicious-activity-knicks-host/story?id=133665992" target="_blank">&#x27;Lockdown&#x27;: Security ramped up at Madison Square Garden as Trump goes to NBA Finals</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-08 16:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6238/live/570de590-632e-11f1-9c51-2750bc009463.jpg" alt="West Ham co-owner accused of preying on women for sex" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj9p2lm7epeo?at_medium=RSS&at_campaign=rss" target="_blank">West Ham co-owner accused of preying on women for sex</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-08 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f4f/live/af3ec5b0-6331-11f1-8e1d-bbbb1017d210.jpg" alt="Starmer tells Apple and Google to ban nude images on children&#x27;s phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -97,29 +96,20 @@
                 <span class="time">2026-06-08 12:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780917654236_tdy_news_7a_engel_trump_iran_260608_S3_1920x1080-g3ahly.jpg" alt="Trump Tells Israel Not to Strike Iran, Saying He &#x27;Calls the Shots&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-says-israel-must-accept-any-us-iran-deal-i-call-the-shots-264721477560" target="_blank">Trump Tells Israel Not to Strike Iran, Saying He &#x27;Calls the Shots&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-08 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-eriksen-denmark_7268274.jpg?20260608165252" alt="Christian Eriksen back home and &#x27;doing well&#x27; after collapsing during match" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/christian-eriksen-expected-to-be-discharged-from-hospital-soon-after-collapsing-on-pitch-13551943" target="_blank">Christian Eriksen back home and &#x27;doing well&#x27; after collapsing during match</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-08 11:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/" target="_blank">Apple’s Image Playground doesn’t suck anymore</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-08 18:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279827763-500x500.jpg" alt="F1 in Monaco: Finally, the cars were flat-out in qualifying" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -165,20 +155,20 @@
                 <span class="time">2026-06-08 14:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277784296-500x500.jpg" alt="Michigan politicians want to ban Chinese-badged cars from even visiting the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/06/michigan-politicians-want-to-ban-chinese-badged-cars-from-even-visiting-the-us/" target="_blank">Michigan politicians want to ban Chinese-badged cars from even visiting the US</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-08 14:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-Bore-Without-Ananicy" target="_blank">Running CachyOS With The BORE Scheduler While Disabling Ananicy-CPP</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-08 17:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/06/aws-opensearch-serverless/en/headerimage/generatedHeaderImage-1780931892223.jpg" alt="AWS Releases Next Generation of Amazon OpenSearch Serverless" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,6 +190,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://astral.sh/blog/uv-audit" target="_blank">Vulnerability and malware checks in uv</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-06-08 16:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/intel-b580-linux-71" target="_blank">Linux 7.1 Helping Intel Arc Battlemage Graphics Achieve Better Performance</a></span>
                 <span class="feed">Phoronix</span>
@@ -213,24 +212,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/euro-office-ooxml-libreoffice" target="_blank">LibreOffice slams Euro-Office as ‘de facto ally’ of Microsoft</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-06-08 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/libreoffice-slider.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice slams Euro-Office as ‘de facto ally of Microsoft’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/euro-office-ooxml-libreoffice" target="_blank">LibreOffice slams Euro-Office as ‘de facto ally of Microsoft’</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-08 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/pinterest-miqps-url-dedup/en/headerimage/generatedHeaderImage-1780112619618.jpg" alt="Pinterest Uses Content Fingerprints for URL Deduplication Across Millions of Domains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/pinterest-miqps-url-dedup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest Uses Content Fingerprints for URL Deduplication Across Millions of Domains</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-08 14:37</span>
             </div>
         </div>
 </div>
@@ -252,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/pstpro-1280x720.jpg" alt="New Halo Remake Trailer Is All Footage From PS5 Pro, Confusing Xbox Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-halo-remake-trailer-is-all-footage-from-ps5-pro-confusing-xbox-fans-2000704022" target="_blank">New Halo Remake Trailer Is All Footage From PS5 Pro, Confusing Xbox Fans</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-08 18:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/image-3-1-1280x634.jpg" alt="Tupac’s Stranger Than Heaven Cameo Was Approved By His Estate…Which Is Currently Being Executed By A Guy Accused Of Embezzlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +287,6 @@
                 <span class="time">2026-06-07 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/05_GoW_EDAY_PlaysLikeNew_Final-7ef1be5a3c94e92a7462-1900x1080-1-1280x728.jpg" alt="Everything We Learned From The Gears Of War: E-Day Direct" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/everything-we-learned-from-the-gears-of-war-e-day-direct-2000703747" target="_blank">Everything We Learned From The Gears Of War: E-Day Direct</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-07 20:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 18:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
