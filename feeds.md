@@ -1,30 +1,51 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 15:03:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-08 17:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 18 new posts out of 42 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 15:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +61,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Israel-rocket-DB-260608_1780902382450_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says it&#x27;s ending attacks on Israel after Trump calls for halt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Iran says it&#x27;s ending attacks on Israel after Trump calls for halt</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-08 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/8/7-8-magnitude-earthquake-leaves-dozens-dead-in-the-philippines?traffic_source=rss" target="_blank">7.8 magnitude earthquake leaves dozens dead in the Philippines</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-08 16:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f4f/live/af3ec5b0-6331-11f1-8e1d-bbbb1017d210.jpg" alt="Starmer tells Apple and Google to ban nude images on children&#x27;s phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer tells Apple and Google to ban nude images on children&#x27;s phones</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-08 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -59,39 +107,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec7/live/fc4cdaf0-62f9-11f1-9f01-0f46b1df0d85.jpg" alt="At least 32 dead after major earthquake strikes southern Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-eriksen-denmark_7268274.jpg?20260608165252" alt="Christian Eriksen back home and &#x27;doing well&#x27; after collapsing during match" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss" target="_blank">At least 32 dead after major earthquake strikes southern Philippines</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-08 11:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/8/armenian-pm-pashinyan-declares-victory-in-parliamentary-elections?traffic_source=rss" target="_blank">Armenian PM Pashinyan declares victory in parliamentary elections</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-08 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa" target="_blank">‘Extreme fear’ among immigrants as backlash sweeps South Africa</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-08 08:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/8/asias-stock-markets-dive-amid-iran-israel-conflict-wall-street-jitters?traffic_source=rss" target="_blank">Asia’s stock markets dive amid Iran-Israel conflict, Wall Street jitters</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-08 08:49</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/christian-eriksen-expected-to-be-discharged-from-hospital-soon-after-collapsing-on-pitch-13551943" target="_blank">Christian Eriksen back home and &#x27;doing well&#x27; after collapsing during match</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-08 11:11</span>
             </div>
         </div>
 </div>
@@ -99,6 +120,42 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279827763-500x500.jpg" alt="F1 in Monaco: Finally, the cars were flat-out in qualifying" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/06/f1-in-monaco-finally-the-cars-were-flat-out-in-qualifying/" target="_blank">F1 in Monaco: Finally, the cars were flat-out in qualifying</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-08 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/945813/apple-wwdc-protesters-deepfake-nude-apps-ultraviolet-heat-initiative" target="_blank">WWDC protesters want Apple to ban Elon Musk’s apps</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-08 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a21a895f98cdf68f8042dbe/master/pass/GettyImages-2218819408.jpg" alt="Apple WWDC 2026 Live Blog: All the Updates, as They Happen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/live/apple-wwdc-2026-live-blog-all-the-updates-as-they-happen/" target="_blank">Apple WWDC 2026 Live Blog: All the Updates, as They Happen</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-08 16:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/08/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-todays-june-8-deadline/" target="_blank">How to apply to Startup Battlefield 2026, what you need ahead of today’s June 8 deadline</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-08 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -117,47 +174,47 @@
                 <span class="time">2026-06-08 14:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london" target="_blank">Uber tells London to get ready for robotaxis</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-08 11:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a10bd28f230faa16bdd1fe9/master/pass/Review%20lenovo%20ideapad%20slim%205x%20top%20art%20052026%20SOURCE%20Lenovo.jpg" alt="Lenovo IdeaPad Slim 5x Review: The Best Laptop Under $1,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/lenovo-ideapad-slim-5x/" target="_blank">Lenovo IdeaPad Slim 5x Review: The Best Laptop Under $1,000</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-08 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-climate-mapping-500x500.jpg" alt="The weather and climate science AI revolution isn’t revolutionary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/" target="_blank">The weather and climate science AI revolution isn’t revolutionary</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-08 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/" target="_blank">Uber, Wayve and Waymo are headed towards a robotaxi showdown in London</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-08 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/aws-opensearch-serverless/en/headerimage/generatedHeaderImage-1780931892223.jpg" alt="AWS Releases Next Generation of Amazon OpenSearch Serverless" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/aws-opensearch-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Releases Next Generation of Amazon OpenSearch Serverless</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-08 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aktibaba/auth-once-with-storagestate-playwright-typescript-ch15-4fld" target="_blank">Auth Once with storageState (Playwright + TypeScript, Ch.15)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-08 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-b580-linux-71" target="_blank">Linux 7.1 Helping Intel Arc Battlemage Graphics Achieve Better Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-08 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/libreoffice-slider.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice slams Euro-Office as ‘de facto ally’ of Microsoft" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/euro-office-ooxml-libreoffice" target="_blank">LibreOffice slams Euro-Office as ‘de facto ally’ of Microsoft</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-08 15:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/libreoffice-slider.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice slams Euro-Office as ‘de facto ally of Microsoft’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,42 +231,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/pinterest-miqps-url-dedup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest Uses Content Fingerprints for URL Deduplication Across Millions of Domains</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-08 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Flatpak-1.18" target="_blank">Flatpak 1.18 Released With Integration For AMD ROCm</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-08 13:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/trenttompkins/killing-the-tofu-box-for-good-grafting-a-star-into-noto-color-emoji-4ldo" target="_blank">Killing the Tofu Box for Good: Grafting a Star into Noto Color Emoji</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-08 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/boringcollege/zig-by-example" target="_blank">Zig by Example</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-08 13:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wernerk_au/llm-cli-gateway-250-oauth-for-remote-mcp-connectors-and-safer-workspaces-4lk4" target="_blank">llm-cli-gateway 2.5.0: OAuth for remote MCP connectors and safer workspaces</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-08 11:30</span>
             </div>
         </div>
 </div>
@@ -231,6 +252,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/image-3-1-1280x634.jpg" alt="Tupac’s Stranger Than Heaven Cameo Was Approved By His Estate…Which Is Currently Being Executed By A Guy Accused Of Embezzlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tupacs-stranger-than-heaven-cameo-approved-estate-accused-embezzlement-2000703986" target="_blank">Tupac’s Stranger Than Heaven Cameo Was Approved By His Estate…Which Is Currently Being Executed By A Guy Accused Of Embezzlement</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-08 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/ChatGPT-Automation-E-Degree.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Master ChatGPT and AI Automation for just $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/08/master-chatgpt-and-ai-automation-for-just-15.html" target="_blank">Master ChatGPT and AI Automation for just $15</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-08 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Masters-of-the-Universe-2026-official-film-poster-Sony-Amazon-1280x960.jpg" alt="New He-Man Movie Is One Of 2026’s Biggest Box Office Bombs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,29 +306,20 @@
                 <span class="time">2026-06-07 20:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/vivarium-1280x720.jpg" alt="Gorgeous Slice-Of-Life Game Vivarium Brings That Old-School Anime Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/vivarium-game-xbox-life-sim-old-school-anime-energy-2000703752" target="_blank">Gorgeous Slice-Of-Life Game Vivarium Brings That Old-School Anime Energy</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-07 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/image-1280x720.jpg" alt="Oh Nice, Spyro Is Back And Looks Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/oh-nice-spyro-is-back-and-looks-great-2000703677" target="_blank">Oh Nice, Spyro Is Back And Looks Great</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-07 18:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1780787940-20260608.png" alt="Saturday Morning Breakfast Cereal - Gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/gold-5" target="_blank">Saturday Morning Breakfast Cereal - Gold</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-08 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -299,22 +329,13 @@
                 <span class="time">2026-06-08 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1780787893-20260607.png" alt="Saturday Morning Breakfast Cereal - Consciousness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/consciousness-10" target="_blank">Saturday Morning Breakfast Cereal - Consciousness</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-07 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 39 | 📸 With Images: 232 |
-        🔄 Last Updated: 15:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
