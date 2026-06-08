@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 22:28:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-08 23:23:35 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 22:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 23:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +44,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/8/tech-giant-openai-files-for-us-initial-public-offering?traffic_source=rss" target="_blank">Tech giant OpenAI files for US initial public offering</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-08 22:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks" target="_blank">Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-08 22:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46dd/live/0b779580-6361-11f1-8e1d-bbbb1017d210.jpg" alt="Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss" target="_blank">Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-08 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/08/nx-s1-5847937/apple-wwdc-2026-siri-ai-tim-cook" target="_blank">Hey, Siri: Apple just announced a long-awaited AI update</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-08 20:41</span>
             </div>
         </div>
 <div class="story">
@@ -70,33 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss" target="_blank">Iran and Israel say they have halted strikes after first exchange of fire since truce</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-08 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Israel-rocket-DB-260608_1780902382450_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says it&#x27;s ending attacks on Israel after Trump calls for halt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Iran says it&#x27;s ending attacks on Israel after Trump calls for halt</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-08 16:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/8/7-8-magnitude-earthquake-leaves-dozens-dead-in-the-philippines?traffic_source=rss" target="_blank">7.8 magnitude earthquake leaves dozens dead in the Philippines</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-08 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/knicks-spurs-nba-finals-gty-bh-260607_1780859842057_hpMain_4x3t_384.jpg" alt="&#x27;Lockdown&#x27;: Security ramped up at Madison Square Garden as Trump goes to NBA Finals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/heightened-risk-police-alert-malicious-activity-knicks-host/story?id=133665992" target="_blank">&#x27;Lockdown&#x27;: Security ramped up at Madison Square Garden as Trump goes to NBA Finals</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-08 16:17</span>
             </div>
         </div>
 </div>
@@ -246,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-08 23:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/gen-atlas.jpg" alt="Shadow Of The Colossus Director Fumito Ueda Says His New Studio Doesn’t Use AI For Development As Other Games Are Engulfed In A Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -290,15 +297,6 @@
                 <span class="time">2026-06-08 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTMDSVQWNA2J0TNWDCW6DB41/hero-image.png" alt="Apple&#x27;s New AI Features WIll Only Work on These iPhones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/these-iphones-will-have-the-new-apple-intelligence-features?utm_medium=RSS" target="_blank">Apple&#x27;s New AI Features WIll Only Work on These iPhones</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-08 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 237 |
-        🔄 Last Updated: 22:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 23:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
