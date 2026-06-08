@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 09:29:27 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-08 11:32:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 09:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 11:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec7/live/fc4cdaf0-62f9-11f1-9f01-0f46b1df0d85.jpg" alt="At least 32 dead after major earthquake strikes southern Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss" target="_blank">At least 32 dead after major earthquake strikes southern Philippines</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-08 11:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/8/armenian-pm-pashinyan-declares-victory-in-parliamentary-elections?traffic_source=rss" target="_blank">Armenian PM Pashinyan declares victory in parliamentary elections</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-08 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa" target="_blank">‘Extreme fear’ among immigrants as backlash sweeps South Africa</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-08 08:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +95,29 @@
                 <span class="time">2026-06-08 07:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/8/iran-war-day-101-tensions-escalate-as-iran-and-israel-trade-air-attacks?traffic_source=rss" target="_blank">Iran war day 101: Tensions escalate as Iran and Israel trade air attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-08 07:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran?traffic_source=rss" target="_blank">Satellite images show destruction of the US-Israel war on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-08 04:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates" target="_blank">Israel and Iran trade strikes, threatening to drag region back to full-scale war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-08 04:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a10bd28f230faa16bdd1fe9/master/pass/Review%20lenovo%20ideapad%20slim%205x%20top%20art%20052026%20SOURCE%20Lenovo.jpg" alt="Lenovo IdeaPad Slim 5x Review: The Best Laptop Under $1,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/lenovo-ideapad-slim-5x/" target="_blank">Lenovo IdeaPad Slim 5x Review: The Best Laptop Under $1,000</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-08 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-climate-mapping-500x500.jpg" alt="The weather and climate science AI revolution isn’t revolutionary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/" target="_blank">The weather and climate science AI revolution isn’t revolutionary</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a235c1dcd4553222cef6d1b/master/pass/All-Ways-Europe-Ditching-US-Tech-Security.jpg" alt="All the Ways Europe Is Ditching American Technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +154,38 @@
                 <span class="time">2026-06-07 19:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories" target="_blank">The 7 biggest storylines from Summer Game Fest 2026</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-07 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/945256/persona-6-teaser" target="_blank">Persona 6 exists, and that’s all we know</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-07 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wernerk_au/llm-cli-gateway-250-oauth-for-remote-mcp-connectors-and-safer-workspaces-4lk4" target="_blank">llm-cli-gateway 2.5.0: OAuth for remote MCP connectors and safer workspaces</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-08 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-EFS-File-System-2026" target="_blank">Linux EFS File-System May Have New Maintainer - Or It Might Just Get Removed</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-08 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/artificial-intelligence-driven-phishing/en/headerimage/header-artificial-intelligence-driven-phishing-1780562847202.jpg" alt="Article: Artificial Intelligence-Driven Phishing: How Phishing Technique Is Evolving and Implemented" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/artificial-intelligence-driven-phishing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Artificial Intelligence-Driven Phishing: How Phishing Technique Is Evolving and Implemented</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/06/microsoft-discovery-majorana-2/en/headerimage/generatedHeaderImage-1780831902723.jpg" alt="Microsoft Discovery Reaches GA on Azure, Powering the Agentic AI Behind Majorana 2 Quantum Chip" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,33 +211,6 @@
                 <span class="title"><a href="https://dev.to/adityapidurkar/how-to-get-your-ctf-listed-on-ctftime-34dj" target="_blank">How to Get Your CTF Listed on CTFtime</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-08 07:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz9p9jrgpua95tnn7yzqe.png" alt="What I Learned After Building a Signal System from Scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/luciano0322/what-i-learned-after-building-a-signal-system-from-scratch-280p" target="_blank">What I Learned After Building a Signal System from Scratch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-08 02:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://teenage.engineering/products/apc-2" target="_blank">APC–2 – A professional record cutter for producing original playback discs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-08 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://teenage.engineering/products/apc-2" target="_blank">Teenage Engineering: Introducing APC-2</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-08 01:27</span>
             </div>
         </div>
 </div>
@@ -302,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 09:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 11:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
