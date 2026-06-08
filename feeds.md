@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 13:20:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-08 15:03:53 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 13:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 15:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +47,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/08/g-s1-126863/xi-and-kim-express-hopes-for-greater-ties-between-china-and-north-korea" target="_blank">Xi and Kim express hopes for greater ties between China and North Korea</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-08 12:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780917654236_tdy_news_7a_engel_trump_iran_260608_S3_1920x1080-g3ahly.jpg" alt="Trump Tells Israel Not to Strike Iran, Saying He &#x27;Calls the Shots&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-says-israel-must-accept-any-us-iran-deal-i-call-the-shots-264721477560" target="_blank">Trump Tells Israel Not to Strike Iran, Saying He &#x27;Calls the Shots&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-08 11:20</span>
             </div>
         </div>
 <div class="story">
@@ -94,20 +94,29 @@
                 <span class="time">2026-06-08 08:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec7/live/fc4cdaf0-62f9-11f1-9f01-0f46b1df0d85.jpg" alt="At least 19 dead after major earthquake strikes southern Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss" target="_blank">At least 19 dead after major earthquake strikes southern Philippines</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-08 08:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts" target="_blank">Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-08 14:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277784296-500x500.jpg" alt="Michigan politicians want to ban Chinese-badged cars from even visiting the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/06/michigan-politicians-want-to-ban-chinese-badged-cars-from-even-visiting-the-us/" target="_blank">Michigan politicians want to ban Chinese-badged cars from even visiting the US</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-08 14:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +153,29 @@
                 <span class="time">2026-06-08 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a235c1dcd4553222cef6d1b/master/pass/All-Ways-Europe-Ditching-US-Tech-Security.jpg" alt="All the Ways Europe Is Ditching American Technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/" target="_blank">All the Ways Europe Is Ditching American Technology</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-08 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis" target="_blank">NASA will wear high-tech Prada long johns to the Moon</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-07 22:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/libreoffice-slider.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice slams Euro-Office as ‘de facto ally of Microsoft’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/euro-office-ooxml-libreoffice" target="_blank">LibreOffice slams Euro-Office as ‘de facto ally of Microsoft’</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-08 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/pinterest-miqps-url-dedup/en/headerimage/generatedHeaderImage-1780112619618.jpg" alt="Pinterest Uses Content Fingerprints for URL Deduplication Across Millions of Domains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/pinterest-miqps-url-dedup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest Uses Content Fingerprints for URL Deduplication Across Millions of Domains</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-08 14:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +212,6 @@
                 <span class="time">2026-06-08 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-EFS-File-System-2026" target="_blank">Linux EFS File-System May Have New Maintainer - Or It Might Just Get Removed</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-08 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/artificial-intelligence-driven-phishing/en/headerimage/header-artificial-intelligence-driven-phishing-1780562847202.jpg" alt="Article: Artificial Intelligence-Driven Phishing: How Phishing Technique Is Evolving and Implemented" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/artificial-intelligence-driven-phishing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Artificial Intelligence-Driven Phishing: How Phishing Technique Is Evolving and Implemented</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-08 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Masters-of-the-Universe-2026-official-film-poster-Sony-Amazon-1280x960.jpg" alt="New He-Man Movie Is One Of 2026’s Biggest Box Office Bombs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-he-man-movie-is-one-of-2026s-biggest-box-office-bombs-2000703953" target="_blank">New He-Man Movie Is One Of 2026’s Biggest Box Office Bombs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-08 14:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/ff7-1280x719.jpg" alt="9 Details From The Final Fantasy 7 Revelation Reveal Trailer We Can’t Stop Thinking About" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +285,6 @@
                 <span class="time">2026-06-07 18:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/SUMMER-GAME-FEST_-XBOX-Games-Showcase-2026-4K60FPS-Live-Now-3.jpeg" alt="Xbox Finally Shows Gameplay Of Long Delayed State Of Decay 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-finally-shows-gameplay-of-long-delayed-state-of-decay-3-2000703639" target="_blank">Xbox Finally Shows Gameplay Of Long Delayed State Of Decay 3</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-07 17:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 39 | 📸 With Images: 231 |
-        🔄 Last Updated: 13:20 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 39 | 📸 With Images: 232 |
+        🔄 Last Updated: 15:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
