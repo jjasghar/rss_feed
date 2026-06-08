@@ -1,31 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 00:28:07 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-06-08 01:43:25 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 00:28 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 01:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss" target="_blank">Iran and Israel trade threats after Tehran launches missiles</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-08 00:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-earthwuake-philippines_7267930.jpg?20260608020809" alt="Tsunami alert after 7.8-magnitude quake hits the Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/tsunami-alert-after-82-magnitude-quake-hits-the-philippines-13551811" target="_blank">Tsunami alert after 7.8-magnitude quake hits the Philippines</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-07 23:58</span>
             </div>
         </div>
 <div class="story">
@@ -84,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/7/lawsuit-seeks-to-stop-trumps-planned-white-house-ufc-match?traffic_source=rss" target="_blank">Lawsuit seeks to stop Trump’s planned White House UFC match</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-07 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/949b/live/890af750-62a1-11f1-96bd-c1bed4b24e0c.jpg" alt="Zelensky in Downing Street for Ukraine war talks with European leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky in Downing Street for Ukraine war talks with European leaders</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-07 18:49</span>
             </div>
         </div>
 </div>
@@ -162,6 +161,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://teenage.engineering/products/apc-2" target="_blank">Teenage Engineering: Introducing APC-2</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-08 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc7" target="_blank">Linux 7.1-rc7 Released: Stable Hopefully Next Sunday</a></span>
                 <span class="feed">Phoronix</span>
@@ -187,30 +195,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/proton-drive-linux.webp?resize=406%2C232&amp;ssl=1" alt="Proton Drive client is (finally) coming to Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/proton-drive-linux-client" target="_blank">Proton Drive client is (finally) coming to Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-07 22:04</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gergovadasz/azure-mana-nic-rollout-could-it-impact-your-aviatrix-gateways-30oj" target="_blank">Azure MANA NIC Rollout: Could It Impact Your Aviatrix Gateways?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-07 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/11/handbrake-logo-on-colourful-background.jpg?resize=406%2C232&amp;ssl=1" alt="HandBrake fixes 2-pass encode crashes, WebM on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/handbrake-update-open-webm-linux" target="_blank">HandBrake fixes 2-pass encode crashes, WebM on Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-07 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexkoncept/the-orba-ecosystem-with-orbaos-a-sovereign-offline-first-multimodal-personal-assistant-desktop-52em" target="_blank">The Orba Ecosystem with Orba OS — A sovereign, offline-first multimodal personal assistant (Desktop &amp; Mobile)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-07 19:16</span>
             </div>
         </div>
 </div>
@@ -291,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 00:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 01:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
