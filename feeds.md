@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-07 23:20:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-08 00:28:07 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, June 07, 2026 - 23:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 00:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss" target="_blank">Iran and Israel trade threats after Tehran launches missiles</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-08 00:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky in Downing Street for Ukraine war talks with European leaders</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-07 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/07/g-s1-126803/french-open-2026-alexander-zverev-grand-slam-title" target="_blank">Alexander Zverev wins the French Open to finally earn a 1st Grand Slam title</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-07 18:21</span>
             </div>
         </div>
 </div>
@@ -168,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc7" target="_blank">Linux 7.1-rc7 Released: Stable Hopefully Next Sunday</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-08 00:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2Fpako%3AeNpdj8EKwjAQRH9lybniXaRghZ7EFvck1UOabGmgbWQTLbX0343Rg3jcYefNzCyU1SQ2IJrOjqqV7OFwugwAZVWy6SVP25rXKRpPsLvCagV4Pu6BSdsEnsQWOutc0FPIscolA06Dip6BwnX7QK5vZI5v_-4HYB_EoI3zclAUIViV7eSMkh1gUHX9k59FSpGFHMwLKGpHHACx1Si9aulTpPy-_esoEhA9cS-NDpNn4Vvq43hNjbx3XizLCwaGVuY" alt="The Oracle HA Decision Tree: RAC vs Data Guard vs Both" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,20 +213,20 @@
                 <span class="time">2026-06-07 19:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://performance.dev/how-is-linear-so-fast-a-technical-breakdown" target="_blank">How&#x27;s Linear so fast? A technical breakdown</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-07 19:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/ff7-1280x719.jpg" alt="9 Details From The Final Fantasy 7 Revelation Reveal Trailer We Can’t Stop Thinking About" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/9-details-from-the-final-fantasy-7-revelation-reveal-trailer-we-cant-stop-thinking-about-2000703598" target="_blank">9 Details From The Final Fantasy 7 Revelation Reveal Trailer We Can’t Stop Thinking About</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-07 23:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Visio-2021-Professional.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Turn your data into diagrams in just a few clicks with this $13 Microsoft tool (MSRP $250)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +272,6 @@
                 <span class="time">2026-06-07 17:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTCNQ7BVRR9ZXX7FERRCA8SP/hero-image.jpg" alt="WWDC 2026 Live Blog: Announcements About iOS 27, AI Siri, Apple Intelligence, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/wwdc-2026-live-blog?utm_medium=RSS" target="_blank">WWDC 2026 Live Blog: Announcements About iOS 27, AI Siri, Apple Intelligence, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-07 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 39 | 📸 With Images: 237 |
-        🔄 Last Updated: 23:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 00:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
