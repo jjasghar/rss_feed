@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 20:42:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-08 21:31:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 20:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 21:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +52,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/08/nx-s1-5849905/fifa-world-cup-tickets-prices" target="_blank">With just days left, the U.S. opening match at the World Cup is still not sold out</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-08 18:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46dd/live/0b779580-6361-11f1-8e1d-bbbb1017d210.jpg" alt="Iran and Israel say they have halted strikes after first exchange of fire since truce" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss" target="_blank">Iran and Israel say they have halted strikes after first exchange of fire since truce</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-08 17:11</span>
             </div>
         </div>
 <div class="story">
@@ -89,20 +99,29 @@
                 <span class="time">2026-06-08 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f4f/live/af3ec5b0-6331-11f1-8e1d-bbbb1017d210.jpg" alt="Starmer tells Apple and Google to ban nude images on children&#x27;s phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer tells Apple and Google to ban nude images on children&#x27;s phones</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-08 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/" target="_blank">Following Anthropic, OpenAI files confidentially for IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-08 21:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed" target="_blank">44 things coming to your Apple devices that you might have missed</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-08 20:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +158,20 @@
                 <span class="time">2026-06-08 16:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/945813/apple-wwdc-protesters-deepfake-nude-apps-ultraviolet-heat-initiative" target="_blank">WWDC protesters want Apple to ban Elon Musk’s apps</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-08 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a21a895f98cdf68f8042dbe/master/pass/GettyImages-2218819408.jpg" alt="Apple WWDC 2026 Live Blog: All the Updates, as They Happen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/live/apple-wwdc-2026-live-blog-all-the-updates-as-they-happen/" target="_blank">Apple WWDC 2026 Live Blog: All the Updates, as They Happen</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-08 16:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abhi_chatterjee_979801/securing-ai-systems-red-teaming-prompt-injection-and-adversarial-testing-3gb6" target="_blank">Securing AI Systems: Red Teaming, Prompt Injection, and Adversarial Testing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-08 21:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +217,6 @@
                 <span class="time">2026-06-08 16:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://astral.sh/blog/uv-audit" target="_blank">Vulnerability and malware checks in uv</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-06-08 16:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +246,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/disney_millennium_falcon_unreal_engine-1280x720.jpg" alt="Inside The Big Revamp Of Disney’s Millennium Falcon Ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/disney-millenium-falcon-star-wars-ride-smugglers-run-grogu-update-review-2000704075" target="_blank">Inside The Big Revamp Of Disney’s Millennium Falcon Ride</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-08 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Skoove-Premium-Piano-Lessons-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Start your journey on the right note with Skoove for $100" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/08/start-your-journey-on-the-right-note-with-skoove-for-100.html" target="_blank">Start your journey on the right note with Skoove for $100</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-08 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTMDSVQWNA2J0TNWDCW6DB41/hero-image.png" alt="Apple&#x27;s New AI Features WIll Only Work on These iPhones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/these-iphones-will-have-the-new-apple-intelligence-features?utm_medium=RSS" target="_blank">Apple&#x27;s New AI Features WIll Only Work on These iPhones</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-08 20:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Geoff-Keighley-and-Hideo-Kojima-besties-pic-from-Geoff-Keighleys-X-1280x960.jpg" alt="Why Does The Internet Think Hideo Kojima And Geoff Keighley Got ‘Divorced’?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -269,33 +297,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/08/apples-watchos-27-cutoff-is-weirdly-brutal.html" target="_blank">Apple&#x27;s watchOS 27 cutoff is weirdly brutal</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-08 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/pstpro-1280x720.jpg" alt="New Halo Remake Trailer Is All Footage From PS5 Pro, Confusing Xbox Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-halo-remake-trailer-is-all-footage-from-ps5-pro-confusing-xbox-fans-2000704022" target="_blank">New Halo Remake Trailer Is All Footage From PS5 Pro, Confusing Xbox Fans</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-08 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/image-3-1-1280x634.jpg" alt="Tupac’s Stranger Than Heaven Cameo Was Approved By His Estate…Which Is Currently Being Executed By A Guy Accused Of Embezzlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tupacs-stranger-than-heaven-cameo-approved-estate-accused-embezzlement-2000703986" target="_blank">Tupac’s Stranger Than Heaven Cameo Was Approved By His Estate…Which Is Currently Being Executed By A Guy Accused Of Embezzlement</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/ChatGPT-Automation-E-Degree.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Master ChatGPT and AI Automation for just $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/08/master-chatgpt-and-ai-automation-for-just-15.html" target="_blank">Master ChatGPT and AI Automation for just $15</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-08 15:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 20:42 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 21:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
