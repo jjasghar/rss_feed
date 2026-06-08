@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 01:43:25 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-06-08 03:01:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 01:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 03:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780884918734_now_brk_israel_attacks_iran_260607_S3_1920x1080-7pg8wf.jpg" alt="Israel strikes Iranian military targets hours after Tehran launched its own attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/israel-strikes-iranian-military-targets-hours-after-tehran-launched-its-own-attacks-264711749768" target="_blank">Israel strikes Iranian military targets hours after Tehran launched its own attacks</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-08 02:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/07/g-s1-126830/7-8-magnitude-quake-hits-southern-philippines-tsunami-risk-for-some-coasts" target="_blank">7.8 magnitude quake hits southern Philippines; tsunami risk for some coasts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-08 00:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,30 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bb4/live/57ade640-6256-11f1-be00-fb33099ec41d.jpg" alt="M&amp;S launches new traineeship for 1,000 young people" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire" target="_blank">Israel hits Beirut&#x27;s suburbs in retaliatory attack against Hezbollah</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-07 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-1-gty-er-260605_1780688465712_hpMain_4x3t_384.jpg" alt="Trump won&#x27;t rule out payments to Jan. 6 rioters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-rule-payments-jan-6-rioters/story?id=133665729" target="_blank">Trump won&#x27;t rule out payments to Jan. 6 rioters</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-07 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/7/lawsuit-seeks-to-stop-trumps-planned-white-house-ufc-match?traffic_source=rss" target="_blank">Lawsuit seeks to stop Trump’s planned White House UFC match</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-07 18:53</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr7xr3dvxp9o?at_medium=RSS&at_campaign=rss" target="_blank">M&amp;S launches new traineeship for 1,000 young people</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-07 21:54</span>
             </div>
         </div>
 </div>
@@ -159,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz9p9jrgpua95tnn7yzqe.png" alt="What I Learned After Building a Signal System from Scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/luciano0322/what-i-learned-after-building-a-signal-system-from-scratch-280p" target="_blank">What I Learned After Building a Signal System from Scratch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-08 02:27</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -201,15 +215,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/proton-drive-linux-client" target="_blank">Proton Drive client is (finally) coming to Linux</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-06-07 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gergovadasz/azure-mana-nic-rollout-could-it-impact-your-aviatrix-gateways-30oj" target="_blank">Azure MANA NIC Rollout: Could It Impact Your Aviatrix Gateways?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-07 21:12</span>
             </div>
         </div>
 </div>
@@ -290,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 01:43 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 37 | 📸 With Images: 238 |
+        🔄 Last Updated: 03:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
