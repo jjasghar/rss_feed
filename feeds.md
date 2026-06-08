@@ -1,45 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 07:32:08 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-08 09:29:27 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 36 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 07:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 09:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/8/asias-stock-markets-dive-amid-iran-israel-conflict-wall-street-jitters?traffic_source=rss" target="_blank">Asia’s stock markets dive amid Iran-Israel conflict, Wall Street jitters</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-08 08:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec7/live/fc4cdaf0-62f9-11f1-9f01-0f46b1df0d85.jpg" alt="At least 19 dead after major earthquake strikes southern Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss" target="_blank">At least 19 dead after major earthquake strikes southern Philippines</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-08 08:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Israel-rocket-DB-260608_1780902382450_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel and Iran trade strikes, Trump says he calls &#x27;all the shots&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,24 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates" target="_blank">Israel and Iran trade strikes, threatening to drag region back to full-scale war</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-08 04:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates" target="_blank">Israel and Iran trade strikes, threatening to drag region back to war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-08 04:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780884918734_now_brk_israel_attacks_iran_260607_S3_1920x1080-7pg8wf.jpg" alt="Israel strikes Iranian military targets hours after Tehran launched its own attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/israel-strikes-iranian-military-targets-hours-after-tehran-launched-its-own-attacks-264711749768" target="_blank">Israel strikes Iranian military targets hours after Tehran launched its own attacks</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-08 02:15</span>
             </div>
         </div>
 </div>
@@ -174,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/06/microsoft-discovery-majorana-2/en/headerimage/generatedHeaderImage-1780831902723.jpg" alt="Microsoft Discovery Reaches GA on Azure, Powering the Agentic AI Behind Majorana 2 Quantum Chip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/microsoft-discovery-majorana-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Discovery Reaches GA on Azure, Powering the Agentic AI Behind Majorana 2 Quantum Chip</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-08 09:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cypherpunkbooks.com" target="_blank">The Cypherpunk Library</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-08 08:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz29olhczi2gbl7x02atx.png" alt="How to Get Your CTF Listed on CTFtime" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,24 +213,6 @@
                 <span class="title"><a href="https://teenage.engineering/products/apc-2" target="_blank">Teenage Engineering: Introducing APC-2</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-08 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc7" target="_blank">Linux 7.1-rc7 Released: Stable Hopefully Next Sunday</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-08 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2Fpako%3AeNpdj8EKwjAQRH9lybniXaRghZ7EFvck1UOabGmgbWQTLbX0343Rg3jcYefNzCyU1SQ2IJrOjqqV7OFwugwAZVWy6SVP25rXKRpPsLvCagV4Pu6BSdsEnsQWOutc0FPIscolA06Dip6BwnX7QK5vZI5v_-4HYB_EoI3zclAUIViV7eSMkh1gUHX9k59FSpGFHMwLKGpHHACx1Si9aulTpPy-_esoEhA9cS-NDpNn4Vvq43hNjbx3XizLCwaGVuY" alt="The Oracle HA Decision Tree: RAC vs Data Guard vs Both" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/uptimearchitect/the-oracle-ha-decision-tree-rac-vs-data-guard-vs-both-27ln" target="_blank">The Oracle HA Decision Tree: RAC vs Data Guard vs Both</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-07 23:02</span>
             </div>
         </div>
 </div>
@@ -314,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 38 | 📸 With Images: 236 |
-        🔄 Last Updated: 07:32 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 09:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
