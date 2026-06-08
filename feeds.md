@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 18:44:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-08 19:41:34 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 18:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 19:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +112,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/" target="_blank">WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-08 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a270a0e623237895b48f975/master/pass/apple-camera-app-gear-2233007119.jpg" alt="Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/" target="_blank">Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-08 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/" target="_blank">Apple’s Image Playground doesn’t suck anymore</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-08 18:38</span>
@@ -137,29 +162,20 @@
                 <span class="time">2026-06-08 16:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/08/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-todays-june-8-deadline/" target="_blank">How to apply to Startup Battlefield 2026, what you need ahead of today’s June 8 deadline</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-08 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts" target="_blank">Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-08 14:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arashad_dodhiya_0e4bdba5a/the-invisible-breach-why-modern-web-frameworks-arent-immune-to-lfi-44jd" target="_blank">The Invisible Breach: Why Modern Web Frameworks Aren&#x27;t Immune to LFI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-08 19:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +221,6 @@
                 <span class="time">2026-06-08 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/libreoffice-slider.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice slams Euro-Office as ‘de facto ally’ of Microsoft" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/euro-office-ooxml-libreoffice" target="_blank">LibreOffice slams Euro-Office as ‘de facto ally’ of Microsoft</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-08 15:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/09/Apple-Watch-Series4_Fire_09122018.jpg?fit=1142%2C1308&amp;quality=60&amp;ssl=1" alt="Apple&#x27;s watchOS 27 cutoff is weirdly brutal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/08/apples-watchos-27-cutoff-is-weirdly-brutal.html" target="_blank">Apple&#x27;s watchOS 27 cutoff is weirdly brutal</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-08 19:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/pstpro-1280x720.jpg" alt="New Halo Remake Trailer Is All Footage From PS5 Pro, Confusing Xbox Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,20 +294,20 @@
                 <span class="time">2026-06-07 23:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Visio-2021-Professional.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Turn your data into diagrams in just a few clicks with this $13 Microsoft tool (MSRP $250)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/07/turn-your-data-into-diagrams-in-just-a-few-clicks-with-this-13-microsoft-tool-msrp-250.html" target="_blank">Turn your data into diagrams in just a few clicks with this $13 Microsoft tool (MSRP $250)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-07 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/08/him-person" target="_blank">Him-Person</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-08 19:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1780787940-20260608.png" alt="Saturday Morning Breakfast Cereal - Gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -315,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 18:44 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 19:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
