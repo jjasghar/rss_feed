@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 19:41:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-08 20:42:15 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 19:41 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 20:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/08/nx-s1-5849905/fifa-world-cup-tickets-prices" target="_blank">With just days left, the U.S. opening match at the World Cup is still not sold out</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-08 18:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Israel-rocket-DB-260608_1780902382450_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says it&#x27;s ending attacks on Israel after Trump calls for halt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer tells Apple and Google to ban nude images on children&#x27;s phones</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-08 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/08/g-s1-126863/xi-and-kim-express-hopes-for-greater-ties-between-china-and-north-korea" target="_blank">Xi and Kim express hopes for greater ties between China and North Korea</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-08 12:49</span>
             </div>
         </div>
 </div>
@@ -179,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/" target="_blank">Apple reveals new AI architecture built around Google Gemini models</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-08 19:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/CachyOS-Bore-Without-Ananicy" target="_blank">Running CachyOS With The BORE Scheduler While Disabling Ananicy-CPP</a></span>
                 <span class="feed">Phoronix</span>
@@ -212,20 +216,20 @@
                 <span class="time">2026-06-08 16:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-b580-linux-71" target="_blank">Linux 7.1 Helping Intel Arc Battlemage Graphics Achieve Better Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-08 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html" target="_blank">Critical Zcash Vulnerability Found and Fixed</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-08 17:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -240,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Geoff-Keighley-and-Hideo-Kojima-besties-pic-from-Geoff-Keighleys-X-1280x960.jpg" alt="Why Does The Internet Think Hideo Kojima And Geoff Keighley Got ‘Divorced’?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hideo-kojima-geoff-keighley-friendship-divorce-2000704057" target="_blank">Why Does The Internet Think Hideo Kojima And Geoff Keighley Got ‘Divorced’?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-08 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_2525483325.jpg?fit=768%2C480&amp;quality=60&amp;ssl=1" alt="Meta is not sorry it built the spyware, just sorry you noticed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/08/meta-is-not-sorry-it-built-the-spyware-just-sorry-you-noticed.html" target="_blank">Meta is not sorry it built the spyware, just sorry you noticed</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-08 20:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/09/Apple-Watch-Series4_Fire_09122018.jpg?fit=1142%2C1308&amp;quality=60&amp;ssl=1" alt="Apple&#x27;s watchOS 27 cutoff is weirdly brutal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/08/master-chatgpt-and-ai-automation-for-just-15.html" target="_blank">Master ChatGPT and AI Automation for just $15</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-08 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Masters-of-the-Universe-2026-official-film-poster-Sony-Amazon-1280x960.jpg" alt="New He-Man Movie Is One Of 2026’s Biggest Box Office Bombs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-he-man-movie-is-one-of-2026s-biggest-box-office-bombs-2000703953" target="_blank">New He-Man Movie Is One Of 2026’s Biggest Box Office Bombs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-08 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/ff7-1280x719.jpg" alt="9 Details From The Final Fantasy 7 Revelation Reveal Trailer We Can’t Stop Thinking About" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/9-details-from-the-final-fantasy-7-revelation-reveal-trailer-we-cant-stop-thinking-about-2000703598" target="_blank">9 Details From The Final Fantasy 7 Revelation Reveal Trailer We Can’t Stop Thinking About</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-07 23:26</span>
             </div>
         </div>
 </div>
@@ -331,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 19:41 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 20:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
