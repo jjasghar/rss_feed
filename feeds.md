@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 03:01:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2026-06-08 05:30:36 UTC -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
 <!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 03:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, June 08, 2026 - 05:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran?traffic_source=rss" target="_blank">Satellite images show destruction of the US-Israel war on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-08 04:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates" target="_blank">Israel and Iran trade strikes, threatening to drag region back to war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-08 04:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780884918734_now_brk_israel_attacks_iran_260607_S3_1920x1080-7pg8wf.jpg" alt="Israel strikes Iranian military targets hours after Tehran launched its own attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +97,6 @@
                 <span class="title"><a href="https://news.sky.com/story/tsunami-alert-after-82-magnitude-quake-hits-the-philippines-13551811" target="_blank">Tsunami alert after 7.8-magnitude quake hits the Philippines</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-06-07 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/07/g-s1-126826/trump-iran-wars-campaign-message" target="_blank">Trump rejects idea that Iran betrays his &quot;no new wars&quot; campaign message</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-07 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bb4/live/57ade640-6256-11f1-be00-fb33099ec41d.jpg" alt="M&amp;S launches new traineeship for 1,000 young people" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr7xr3dvxp9o?at_medium=RSS&at_campaign=rss" target="_blank">M&amp;S launches new traineeship for 1,000 young people</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-07 21:54</span>
             </div>
         </div>
 </div>
@@ -176,6 +176,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://teenage.engineering/products/apc-2" target="_blank">APC–2 – A professional record cutter for producing original playback discs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-08 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://teenage.engineering/products/apc-2" target="_blank">Teenage Engineering: Introducing APC-2</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-08 01:27</span>
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/nelson_amaya_16872e58232b/the-five-faculties-a-tour-of-safis-cognitive-architecture-5bc0" target="_blank">The Five Faculties: A Tour of SAFi&#x27;s Cognitive Architecture</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-07 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/proton-drive-linux.webp?resize=406%2C232&amp;ssl=1" alt="Proton Drive client is (finally) coming to Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/proton-drive-linux-client" target="_blank">Proton Drive client is (finally) coming to Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-07 22:04</span>
             </div>
         </div>
 </div>
@@ -295,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 37 | 📸 With Images: 238 |
-        🔄 Last Updated: 03:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 38 | 📸 With Images: 237 |
+        🔄 Last Updated: 05:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
