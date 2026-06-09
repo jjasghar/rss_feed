@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-09 05:18:22 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-09 07:06:56 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, June 09, 2026 - 05:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, June 09, 2026 - 07:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/09/nx-s1-5850355/data-highest-conflicts-iran-israel-ukraine-russia-world-war-ii" target="_blank">Conflicts on rise globally, highest level since WWII, data shows</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-09 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/260608_gmafl_trump_iran_hpMain.jpg_4x3_384.jpg" alt="Iran live updates: &#x27;We have all the power,&#x27; Trump says amid negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: &#x27;We have all the power,&#x27; Trump says amid negotiations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-09 06:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780984698731_now_brk_us_helicopter_strait_hormuz_rescued_260608_S3_1920x1080-0mk81e.jpg" alt="U.S. pilots rescued after helicopter goes down near Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/u-s-pilots-rescued-after-helicopter-goes-down-near-strait-of-hormuz-264789061740" target="_blank">U.S. pilots rescued after helicopter goes down near Strait of Hormuz</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-09 05:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,33 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/nithya-raman-to-advance-in-l-a-mayoral-runoff-race-nbc-news-projects-264769093618" target="_blank">Nithya Raman to advance in L.A. mayoral runoff race, NBC News projects</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-09 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/9/iran-war-live-trump-warns-netanyahu-as-israel-tehran-halt?traffic_source=rss" target="_blank">Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-09 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/8/tech-giant-openai-files-for-us-initial-public-offering?traffic_source=rss" target="_blank">Tech giant OpenAI files for US initial public offering</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-08 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-referee-omar-artan_7268698.jpg?20260609040709" alt="Top referee to miss World Cup after US denies him entry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/somali-referee-set-to-officiate-world-cup-denied-entry-to-us-13552147" target="_blank">Top referee to miss World Cup after US denies him entry</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-08 22:23</span>
             </div>
         </div>
 </div>
@@ -178,6 +176,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/divyesh5981/i-tested-nex-n2-pro-a-free-open-source-model-thats-matching-gpt-55-on-coding-benchmarks-3dmd" target="_blank">I Tested Nex-N2-Pro — A Free Open-Source Model That&#x27;s Matching GPT-5.5 on Coding Benchmarks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-09 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/guanyi_liu_21a5d7417eb332/chatgpt-always-said-great-so-i-built-an-interview-teacher-with-claude-code-opl" target="_blank">ChatGPT Always Said &#x27;Great!&#x27; – So I Built an Interview Teacher with Claude Code</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-09 05:10</span>
@@ -208,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/layzerzero105/claude-opus-48-shipped-today-heres-the-upgrade-decision-tree-the-announcement-skipped-and-544a" target="_blank">Claude Opus 4.8 shipped today. Here&#x27;s the upgrade decision tree the announcement skipped — and three workloads that should stay on 4.7.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-09 00:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17356602/bambuddy-self-hosted-bambu-lab-alternative" target="_blank">Bambu Lab Keeps Locking Down, The Community Keeps Building Up</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-08 23:30</span>
             </div>
         </div>
 </div>
@@ -324,22 +322,13 @@
                 <span class="time">2026-06-08 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/08/him-person" target="_blank">Him-Person</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-08 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 38 | 📸 With Images: 233 |
-        🔄 Last Updated: 05:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 38 | 📸 With Images: 234 |
+        🔄 Last Updated: 07:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
