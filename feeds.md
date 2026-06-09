@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-09 21:31:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-09 22:28:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, June 09, 2026 - 21:31 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, June 09, 2026 - 22:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/558b/live/8cc28120-644e-11f1-b1db-af71d47507d6.jpg" alt="Violence erupts in Belfast as man charged over knife attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss" target="_blank">Violence erupts in Belfast as man charged over knife attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-09 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/09/nx-s1-5851664/house-reconciliation-vote-immigration-enforcement-ice-border-patrol" target="_blank">House passes bill to fund ICE and Border Patrol through the remainder of Trump&#x27;s term</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-09 21:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss" target="_blank">Trump vows retaliation after claiming Iran shot down Apache helicopter</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-09 21:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/677d/live/192e0db0-6417-11f1-9216-c3eba4acaf31.jpg" alt="Inside Myanmar, rebels are losing ground as military forces men into army" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,38 +103,29 @@
                 <span class="time">2026-06-09 19:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/karmelo-ap-er-260608_1780949100879_hpMain_4x3t_384.jpg" alt="Karmelo Anthony found guilty of murder over Texas track meet stabbing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/karmelo-anthony-murder-trial-verdict-reached-texas-track/story?id=133687338" target="_blank">Karmelo Anthony found guilty of murder over Texas track meet stabbing</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-09 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/09/nx-s1-5851634/immigration-policies-affect-fifa" target="_blank">A warm World Cup welcome? U.S. immigration policies have chilling effect</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-09 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/09/nx-s1-5850708/ebola-quarantine-u-s-citizens-kenya" target="_blank">Why there&#x27;s a debate over the new quarantine center for Americans at risk of Ebola</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-09 19:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a28747ac51bd4a5da3f371b/master/pass/173002118" alt="Great White Sharks Have Been in the Mediterranean Sea for Millions of Years—but Sightings Are Incredibly Rare" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/great-white-shark-mediterranean-sea-sighting-endangered/" target="_blank">Great White Sharks Have Been in the Mediterranean Sea for Millions of Years—but Sightings Are Incredibly Rare</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-09 22:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation" target="_blank">Congress just gave DHS another $70 billion</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-09 21:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-500x500.jpg" alt="Starlink charges $10 monthly hardware fee in move away from one-time purchases" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,29 +162,20 @@
                 <span class="time">2026-06-09 20:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/" target="_blank">Can tech companies learn to love cheaper AI models?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-09 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale" target="_blank">Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-09 17:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft56zzztxiyz8nq6dwqhz.jpg" alt="The Capability Curve Has No Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vektor_memory_43f51a32376/the-capability-curve-has-no-memory-25ip" target="_blank">The Capability Curve Has No Memory</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-09 22:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +221,6 @@
                 <span class="time">2026-06-09 16:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!6pbI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d04df85-7afe-471e-8b70-a8f9e83800df_2048x1452.png" alt="State of the software engineering job market in 2026, part 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2" target="_blank">State of the software engineering job market in 2026, part 2</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-06-09 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/HKY_yjqXAAAS3u7-1280x720.jpg" alt="I Wasn’t Expecting Dragon’s Dogma 2 DLC In The Nintendo Direct" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dragons-dogma-2-dlc-nintendo-switch-2-direct-2000704568" target="_blank">I Wasn’t Expecting Dragon’s Dogma 2 DLC In The Nintendo Direct</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-09 21:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/too-many-games-1280x720.jpg" alt="Look, You Can’t All Avoid GTA 6 By Hiding In September And October" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +294,6 @@
                 <span class="time">2026-06-09 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/shutterstock_1884904021-e1781022512902.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Repair Geek tests tire sealants so you don&#x27;t have to spray hope into a flat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/09/repair-geek-tests-tire-sealants-so-you-dont-have-to-spray-hope-into-a-flat.html" target="_blank">Repair Geek tests tire sealants so you don&#x27;t have to spray hope into a flat</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-09 16:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 233 |
-        🔄 Last Updated: 21:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 22:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
