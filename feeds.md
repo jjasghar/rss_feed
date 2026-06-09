@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-09 22:28:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-09 23:26:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, June 09, 2026 - 22:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, June 09, 2026 - 23:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +57,24 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss" target="_blank">Violence erupts in Belfast as man charged over knife attack</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-09 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/9/mississippi-residents-sue-musks-xai-and-spacex-over-data-centre-nuisance?traffic_source=rss" target="_blank">Mississippi residents sue Musk’s xAI and SpaceX over data centre ‘nuisance’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-09 22:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781041086680_now_hallie_iran_helicopter_retaliation_260609_S3_1920x1080-xa6wjp.jpg" alt="U.S. begins retaliatory strikes on Iran after Apache helicopter downed near Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/u-s-begins-retaliatory-strikes-on-iran-after-apache-helicopter-downed-near-strait-of-hormuz-264841285763" target="_blank">U.S. begins retaliatory strikes on Iran after Apache helicopter downed near Strait of Hormuz</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-09 21:38</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +104,20 @@
                 <span class="time">2026-06-09 21:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss" target="_blank">Iran conflict: Why has oil stayed near $100 a barrel?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-09 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c58/live/bee3b4e0-643e-11f1-a936-d75187a800c2.jpg" alt="Man, 30, charged with attempted murder after knife attack in Belfast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss" target="_blank">Man, 30, charged with attempted murder after knife attack in Belfast</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-09 19:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/" target="_blank">How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-09 23:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a28747ac51bd4a5da3f371b/master/pass/173002118" alt="Great White Sharks Have Been in the Mediterranean Sea for Millions of Years—but Sightings Are Incredibly Rare" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +161,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/" target="_blank">GM joins race to build batteries for AI data centers and the grid</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-09 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious" target="_blank">Microsoft AI head calls out Anthropic for acting like Claude is conscious</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-09 20:24</span>
             </div>
         </div>
 </div>
@@ -250,6 +251,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/EbookMagic-Starter-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Bring all your book ideas to life with this $40 tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/09/bring-all-your-book-ideas-to-life-with-this-40-tool.html" target="_blank">Bring all your book ideas to life with this $40 tool</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-09 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/too-many-games-1280x720.jpg" alt="Look, You Can’t All Avoid GTA 6 By Hiding In September And October" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -283,15 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/the-muppets-take-over-aerosmiths-roller-coaster-at-disney-world-and-its-a-major-improvement-2000704063" target="_blank">The Muppets Take Over Aerosmith’s Roller Coaster At Disney World, And It’s A Major Improvement</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-09 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTPTKYZEQST8GYE3P58BFE6C/hero-image.png" alt="You Should Use the Pomodoro Method to Move More and Sit Less" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/use-the-pomodoro-method-to-move-more-and-sit-less?utm_medium=RSS" target="_blank">You Should Use the Pomodoro Method to Move More and Sit Less</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-09 19:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 22:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 23:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
