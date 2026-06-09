@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-09 18:38:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-09 19:38:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, June 09, 2026 - 18:38 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, June 09, 2026 - 19:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/09/nx-s1-5850708/ebola-quarantine-u-s-citizens-kenya" target="_blank">Why there&#x27;s a debate over the new quarantine center for Americans at risk of Ebola</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-09 19:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/karmelo-ap-er-260608_1780949100879_hpMain_4x3t_384.jpg" alt="Karmelo Anthony murder trial: Verdict reached over Texas track meet stabbing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/karmelo-anthony-murder-trial-verdict-reached-texas-track/story?id=133687338" target="_blank">Karmelo Anthony murder trial: Verdict reached over Texas track meet stabbing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-09 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/6/9/what-will-the-fallout-be-from-the-unrest-in-pakistan-administered-kashmir?traffic_source=rss" target="_blank">What will the fallout be from the unrest in Pakistan-administered Kashmir?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-09 19:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b309/live/8431d0d0-6429-11f1-a614-bb0f90cd931c.jpg" alt="Trump says Iran shot down US helicopter and vows to respond" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,33 +99,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya" target="_blank">Man shot dead during protest against proposed US Ebola quarantine facility in Kenya</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-06-09 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/apache-ht-er-260609_1781024325865_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran shot down chopper, US &#x27;must&#x27; respond" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says Iran shot down chopper, US &#x27;must&#x27; respond</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-09 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/9/after-karabakh-armenians-vote-for-peace-over-nationalism?traffic_source=rss" target="_blank">After Nagorno-Karabakh, Armenians vote for peace over nationalism</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-09 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c8/live/47d73f70-640c-11f1-8546-8f19e4fe30f4.jpg" alt="Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss" target="_blank">Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-09 15:15</span>
             </div>
         </div>
 </div>
@@ -182,6 +186,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/" target="_blank">From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-09 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/" target="_blank">Solar Energy Saves Europeans $135M a Day</a></span>
                 <span class="feed">Hacker News</span>
@@ -206,15 +219,6 @@
                 <span class="time">2026-06-09 14:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17356900/collabora-code-26-04" target="_blank">Collabora&amp;#x27;s CODE 26.04 Release Might Be Its Biggest One Yet</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-09 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/muppets_coaster_band-1280x720.jpg" alt="The Muppets Take Over Aerosmith’s Roller Coaster At Disney World, And It’s A Major Improvement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-muppets-take-over-aerosmiths-roller-coaster-at-disney-world-and-its-a-major-improvement-2000704063" target="_blank">The Muppets Take Over Aerosmith’s Roller Coaster At Disney World, And It’s A Major Improvement</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-09 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTPTKYZEQST8GYE3P58BFE6C/hero-image.png" alt="You Should Use the Pomodoro Method to Move More and Sit Less" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/use-the-pomodoro-method-to-move-more-and-sit-less?utm_medium=RSS" target="_blank">You Should Use the Pomodoro Method to Move More and Sit Less</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-09 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/shutterstock_1884904021-e1781022512902.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Repair Geek tests tire sealants so you don&#x27;t have to spray hope into a flat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +292,6 @@
                 <span class="time">2026-06-09 13:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Screenshot-2026-06-08-110755.png?fit=1538%2C932&amp;quality=55&amp;ssl=1" alt="Persona 6 officially revealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/08/persona-6-officially-revealed.html" target="_blank">Persona 6 officially revealed</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-08 23:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-08 23:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,22 +324,13 @@
                 <span class="time">2026-06-09 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/08/him-person" target="_blank">Him-Person</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-08 19:13</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 229 |
-        🔄 Last Updated: 18:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 38 | 📸 With Images: 230 |
+        🔄 Last Updated: 19:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
