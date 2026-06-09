@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-09 13:48:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-09 16:04:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, June 09, 2026 - 13:49 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, June 09, 2026 - 16:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/9/six-countries-sanction-networks-enabling-settler-violence-in-west-bank?traffic_source=rss" target="_blank">Six countries sanction enablers of settler violence in occupied West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-09 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya" target="_blank">Man shot during protest against proposed US Ebola quarantine facility in Kenya</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-09 14:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eba/live/878f0430-63ea-11f1-8546-8f19e4fe30f4.jpg" alt="Man arrested on suspicion of attempted murder after &#x27;brutal&#x27; knife attack in Belfast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +102,29 @@
                 <span class="time">2026-06-09 10:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026" target="_blank">The Supreme Court is in its final stretch this term. Here are the major cases left</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-09 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/9/indian-crew-rescued-after-attack-on-oil-tanker-off-oman?traffic_source=rss" target="_blank">Indian crew rescued after attack on oil tanker off Oman</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-09 08:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apache-Helicopter-over-Strait-of-Hormuz-500x500.jpeg" alt="Drone boat picked up downed US Army helicopter pilots—a first for sea rescues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/" target="_blank">Drone boat picked up downed US Army helicopter pilots—a first for sea rescues</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-09 15:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2" target="_blank">Square Enix announces Kingdom Hearts 4</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-09 15:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,29 +161,29 @@
                 <span class="time">2026-06-09 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/" target="_blank">Evotrex raises $30M to build the RV that doesn’t need a charging station</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-09 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/946608/donut-labs-debunk-solid-state-battery" target="_blank">Donut Lab’s solid-state battery claim debunked by Ziroth</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-09 08:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/" target="_blank">Solar Energy Saves Europeans $135M a Day</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-09 15:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/what-is-rdma-over-converged-ethernet-roce" target="_blank">What is RDMA over Converged Ethernet (RoCE)?</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-09 15:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +220,6 @@
                 <span class="time">2026-06-09 09:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17356766/cheezy-pizza" target="_blank">Tired of File Size Limits? This Open Source Tool Sends Large Files Directly Browser to Browser</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-09 08:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/microsoft-foundry-agents/en/headerimage/generatedHeaderImage-1780920733025.jpg" alt="Microsoft Foundry Adds Runtime, Tooling, and Governance for Production Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/microsoft-foundry-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Foundry Adds Runtime, Tooling, and Governance for Production Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-09 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTPBN30C7SQNA5CCKCNRDXTE/hero-image.jpg" alt="I Figured Out How to Find Real Music Channels on YouTube Amid the AI Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-find-real-lofi-music-on-youtube?utm_medium=RSS" target="_blank">I Figured Out How to Find Real Music Channels on YouTube Amid the AI Slop</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-09 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/onimusha-1280x721.jpg" alt="Capcom Responds To Complaints That Onimusha Demo Downloaded Over 1 Million Times Was Way Too Easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,20 +293,20 @@
                 <span class="time">2026-06-08 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/caves.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Hundreds of tiny medieval tunnels no one can explain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/08/hundreds-of-tiny-medieval-tunnels-no-one-can-explain.html" target="_blank">Hundreds of tiny medieval tunnels no one can explain</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-08 21:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1780969351-20260609.png" alt="Saturday Morning Breakfast Cereal - Creative" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/creative-3" target="_blank">Saturday Morning Breakfast Cereal - Creative</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-09 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -299,22 +316,13 @@
                 <span class="time">2026-06-08 19:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1780787940-20260608.png" alt="Saturday Morning Breakfast Cereal - Gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/gold-5" target="_blank">Saturday Morning Breakfast Cereal - Gold</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-08 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 232 |
-        🔄 Last Updated: 13:49 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 228 |
+        🔄 Last Updated: 16:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
