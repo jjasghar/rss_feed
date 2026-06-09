@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-09 17:37:06 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-09 18:38:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, June 09, 2026 - 17:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, June 09, 2026 - 18:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b309/live/8431d0d0-6429-11f1-a614-bb0f90cd931c.jpg" alt="Trump says Iran shot down US helicopter and vows to respond" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Iran shot down US helicopter and vows to respond</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-09 18:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond" target="_blank">Trump confirms Iran shot down helicopter, says U.S. &#x27;must&#x27; respond</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-09 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya" target="_blank">Man shot dead during protest against proposed US Ebola quarantine facility in Kenya</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-09 17:13</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +97,20 @@
                 <span class="time">2026-06-09 15:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/9/six-countries-sanction-networks-enabling-settler-violence-in-west-bank?traffic_source=rss" target="_blank">Six countries sanction enablers of settler violence in occupied West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-09 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya" target="_blank">Man shot during protest against proposed US Ebola quarantine facility in Kenya</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-09 14:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale" target="_blank">Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-09 17:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/longevity-startup-doses-first-human-in-bid-to-reverse-age-related-sight-loss/" target="_blank">Longevity Startup Doses First Human in Bid to Reverse Age-Related Sight Loss</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-06-09 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/945623/marshalls-stockwell-speaker-gets-a-replaceable-battery-that-runs-twice-as-long" target="_blank">Marshall’s Stockwell speaker gets a replaceable battery that runs twice as long</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-09 12:00</span>
             </div>
         </div>
 </div>
@@ -201,19 +200,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi" target="_blank">macOS 27 Beta Breaks The Ability To Boot Asahi Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-09 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17356900/collabora-code-26-04" target="_blank">Collabora&amp;#x27;s CODE 26.04 Release Might Be Its Biggest One Yet</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-06-09 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/automate-fleetwide-changes/en/mediumimage/casey-bleifer-medium-1780058350595.jpg" alt="Presentation: Confidently Automating Changes Across a Diverse Fleet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/automate-fleetwide-changes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Confidently Automating Changes Across a Diverse Fleet</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-09 12:14</span>
             </div>
         </div>
 </div>
@@ -235,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/shutterstock_1884904021-e1781022512902.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Repair Geek tests tire sealants so you don&#x27;t have to spray hope into a flat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/09/repair-geek-tests-tire-sealants-so-you-dont-have-to-spray-hope-into-a-flat.html" target="_blank">Repair Geek tests tire sealants so you don&#x27;t have to spray hope into a flat</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-09 16:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KTMDQT1HXBN8Q9KNA5TX00DT/hero-image.jpg" alt="10 Shows Like &#x27;Dutton Ranch&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +288,6 @@
                 <span class="time">2026-06-08 23:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/gen-atlas.jpg" alt="Shadow Of The Colossus Director Fumito Ueda Says His New Studio Doesn’t Use AI For Development As Other Games Are Engulfed In A Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/shadow-of-the-colossus-director-fumito-ueda-says-his-new-studio-doesnt-use-ai-as-other-games-are-engulfed-in-a-backlash-2000704103" target="_blank">Shadow Of The Colossus Director Fumito Ueda Says His New Studio Doesn’t Use AI For Development As Other Games Are Engulfed In A Backlash</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-08 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,6 +300,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/09/he-man-and-battle-cat-art" target="_blank">He-Man and Battle Cat art!</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-06-09 16:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/the-desert/" target="_blank">The Desert</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-06-09 15:35</span>
             </div>
         </div>
 <div class="story">
@@ -326,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 38 | 📸 With Images: 227 |
-        🔄 Last Updated: 17:37 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 229 |
+        🔄 Last Updated: 18:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
