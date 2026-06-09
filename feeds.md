@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-08 23:23:35 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-09 00:23:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, June 08, 2026 - 23:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, June 09, 2026 - 00:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/9/iran-war-live-trump-warns-netanyahu-as-israel-tehran-halt?traffic_source=rss" target="_blank">Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-09 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +101,38 @@
                 <span class="time">2026-06-08 18:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46dd/live/0b779580-6361-11f1-8e1d-bbbb1017d210.jpg" alt="Iran and Israel say they have halted strikes after first exchange of fire since truce" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss" target="_blank">Iran and Israel say they have halted strikes after first exchange of fire since truce</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-08 17:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid" target="_blank">Instagram is finally letting everyone reorganize their profile grid</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-08 23:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Cloud-free_Europe-500x500.jpg" alt="Tests suggest Russian satellites can jam GPS on a continental scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/" target="_blank">Tests suggest Russian satellites can jam GPS on a continental scale</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-08 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0f431f2e3deb13670a3fb1/master/pass/OpenAI-IPO-Business-2265445220.jpg" alt="OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-confidentially-files-for-ipo/" target="_blank">OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-08 21:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,38 +160,38 @@
                 <span class="time">2026-06-08 20:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/" target="_blank">WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-08 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a270a0e623237895b48f975/master/pass/apple-camera-app-gear-2233007119.jpg" alt="Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/" target="_blank">Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-08 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/" target="_blank">Apple’s Image Playground doesn’t suck anymore</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-08 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/layzerzero105/claude-opus-48-shipped-today-heres-the-upgrade-decision-tree-the-announcement-skipped-and-544a" target="_blank">Claude Opus 4.8 shipped today. Here&#x27;s the upgrade decision tree the announcement skipped — and three workloads that should stay on 4.7.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-09 00:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ufshcd-pci-Linux-7.2" target="_blank">AMD Support Being Added To UFS Host Controller PCI Driver In Linux 7.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-08 22:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/openai-submits-confidential-s-1/" target="_blank">OpenAI Submits S-1 Draft to SEC</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-08 21:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,33 +217,6 @@
                 <span class="title"><a href="https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/" target="_blank">Apple reveals new AI architecture built around Google Gemini models</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-08 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-Bore-Without-Ananicy" target="_blank">Running CachyOS With The BORE Scheduler While Disabling Ananicy-CPP</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-08 17:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/aws-opensearch-serverless/en/headerimage/generatedHeaderImage-1780931892223.jpg" alt="AWS Releases Next Generation of Amazon OpenSearch Serverless" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/aws-opensearch-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Releases Next Generation of Amazon OpenSearch Serverless</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aktibaba/auth-once-with-storagestate-playwright-typescript-ch15-4fld" target="_blank">Auth Once with storageState (Playwright + TypeScript, Ch.15)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-08 16:58</span>
             </div>
         </div>
 </div>
@@ -329,13 +333,22 @@
                 <span class="time">2026-06-08 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/nostalgia_content.png" alt="Nostalgia Content" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3256/" target="_blank">Nostalgia Content</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-06-08 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 23:23 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 100 | 📡 Total Sources: 38 | 📸 With Images: 235 |
+        🔄 Last Updated: 00:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
