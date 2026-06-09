@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-09 10:59:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-09 12:05:25 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, June 09, 2026 - 10:59 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, June 09, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eba/live/878f0430-63ea-11f1-8546-8f19e4fe30f4.jpg" alt="Man arrested on suspicion of attempted murder after &#x27;brutal&#x27; knife attack in Belfast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdejnjdg08eo?at_medium=RSS&at_campaign=rss" target="_blank">Man arrested on suspicion of attempted murder after &#x27;brutal&#x27; knife attack in Belfast</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-09 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/09/g-s1-126975/up-first-newsletter-iran-israel-lebanon-primaries-election-fraud-los-angeles-global-conflicts" target="_blank">4 states head to the polls. And, global conflicts are on the rise, new report says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-09 11:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/AP25155294232574_1781001588669_hpMain_4x3t_384.jpg" alt="Iran live updates: Chopper pilots rescued by unmanned boat, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +100,20 @@
                 <span class="time">2026-06-09 08:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/09/nx-s1-5850355/data-highest-conflicts-iran-israel-ukraine-russia-world-war-ii" target="_blank">Conflicts on rise globally, highest level since WWII, data shows</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-09 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/260608_gmafl_trump_iran_hpMain.jpg_4x3_384.jpg" alt="Iran live updates: &#x27;We have all the power,&#x27; Trump says amid negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: &#x27;We have all the power,&#x27; Trump says amid negotiations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-09 06:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/945623/marshalls-stockwell-speaker-gets-a-replaceable-battery-that-runs-twice-as-long" target="_blank">Marshall’s Stockwell speaker gets a replaceable battery that runs twice as long</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-09 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +159,29 @@
                 <span class="time">2026-06-09 00:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/" target="_blank">Mercor’s Brendan Foody calls out Sequoia over ‘dual-pricing’ valuation tricks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-09 00:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/ibm-hashicorp-vault-ldap-secrets/en/headerimage/generatedHeaderImage-1780570797572.jpg" alt="IBM Vault Enterprise 2.0 Brings Automated LDAP Secrets Management to Enterprise Identity Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/ibm-hashicorp-vault-ldap-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">IBM Vault Enterprise 2.0 Brings Automated LDAP Secrets Management to Enterprise Identity Security</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-09 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-KPT-For-QAT-Gen6" target="_blank">Linux 7.2 Preparing Intel Key Protection Technology &quot;KPT&quot; For Next-Gen QAT</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-09 10:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +218,6 @@
                 <span class="time">2026-06-09 07:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/divyesh5981/i-tested-nex-n2-pro-a-free-open-source-model-thats-matching-gpt-55-on-coding-benchmarks-3dmd" target="_blank">I Tested Nex-N2-Pro — A Free Open-Source Model That&#x27;s Matching GPT-5.5 on Coding Benchmarks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-09 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/guanyi_liu_21a5d7417eb332/chatgpt-always-said-great-so-i-built-an-interview-teacher-with-claude-code-opl" target="_blank">ChatGPT Always Said &#x27;Great!&#x27; – So I Built an Interview Teacher with Claude Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-09 05:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -224,15 +230,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html" target="_blank">Critical Zcash Vulnerability Found and Fixed</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-06-08 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html" target="_blank">Anthropic’s Project Glasswing Update</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-08 11:01</span>
             </div>
         </div>
 </div>
@@ -322,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 38 | 📸 With Images: 233 |
-        🔄 Last Updated: 10:59 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 232 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
