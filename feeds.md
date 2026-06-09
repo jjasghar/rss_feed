@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-09 01:33:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-09 03:00:36 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, June 09, 2026 - 01:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, June 09, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +104,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/" target="_blank">Why Apple’s slow-and-steady AI bet is starting to look pretty smart</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-09 01:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/" target="_blank">Mercor’s Brendan Foody calls out Sequoia over ‘dual-pricing’ valuation tricks</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-09 00:45</span>
@@ -154,20 +154,20 @@
                 <span class="time">2026-06-08 21:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/" target="_blank">Following Anthropic, OpenAI files confidentially for IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-08 21:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fc0web/paper-164-v01-infinity-cosmoi-skeleton-tetradic-completion-of-rhymeortheorem-4-step-46ff" target="_blank">Paper 164 v0.1 — infinity-cosmoi Skeleton + Tetradic Completion of rhymeOrTheorem: 4-Step Continuation of Paper 163</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-09 02:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/abhi_chatterjee_979801/securing-ai-systems-red-teaming-prompt-injection-and-adversarial-testing-3gb6" target="_blank">Securing AI Systems: Red Teaming, Prompt Injection, and Adversarial Testing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-08 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arashad_dodhiya_0e4bdba5a/the-invisible-breach-why-modern-web-frameworks-arent-immune-to-lfi-44jd" target="_blank">The Invisible Breach: Why Modern Web Frameworks Aren&#x27;t Immune to LFI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-08 19:30</span>
             </div>
         </div>
 </div>
@@ -350,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 99 | 📡 Total Sources: 38 | 📸 With Images: 234 |
-        🔄 Last Updated: 01:33 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 99 | 📡 Total Sources: 38 | 📸 With Images: 233 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
