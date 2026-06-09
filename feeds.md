@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-09 19:38:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-09 20:36:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, June 09, 2026 - 19:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, June 09, 2026 - 20:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c58/live/bee3b4e0-643e-11f1-a936-d75187a800c2.jpg" alt="Man, 30, charged with attempted murder after knife attack in Belfast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss" target="_blank">Man, 30, charged with attempted murder after knife attack in Belfast</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-09 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/karmelo-ap-er-260608_1780949100879_hpMain_4x3t_384.jpg" alt="Karmelo Anthony found guilty of murder over Texas track meet stabbing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/karmelo-anthony-murder-trial-verdict-reached-texas-track/story?id=133687338" target="_blank">Karmelo Anthony found guilty of murder over Texas track meet stabbing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-09 19:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +103,6 @@
                 <span class="time">2026-06-09 18:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond" target="_blank">Trump confirms Iran shot down helicopter, says U.S. &#x27;must&#x27; respond</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-09 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya" target="_blank">Man shot dead during protest against proposed US Ebola quarantine facility in Kenya</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-09 17:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,9 +112,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious" target="_blank">Microsoft AI head calls out Anthropic for acting like Claude is conscious</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-09 20:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/" target="_blank">Can tech companies learn to love cheaper AI models?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-09 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale" target="_blank">Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-09 17:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a2849c20d6aa02c6a8cdf9e/master/pass/Apple-OS-27-updates-260608.jpg" alt="MacOS 27 Golden Gate: Top New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/macos-27-golden-gate-top-features/" target="_blank">MacOS 27 Golden Gate: Top New Features</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-09 17:33</span>
             </div>
         </div>
 <div class="story">
@@ -133,38 +162,20 @@
                 <span class="time">2026-06-09 15:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2" target="_blank">Square Enix announces Kingdom Hearts 4</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-09 15:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/" target="_blank">Sandstone raises $30M to bring AI to in-house legal teams</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-09 13:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a280f7bc80531d76bc86ecc/master/pass/060926_Longevity-Startup-Eye-Testing.jpg" alt="Longevity Startup Doses First Human in Bid to Reverse Age-Related Sight Loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/longevity-startup-doses-first-human-in-bid-to-reverse-age-related-sight-loss/" target="_blank">Longevity Startup Doses First Human in Bid to Reverse Age-Related Sight Loss</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-09 13:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0rf7gtkepbblzkkimjai.png" alt="Apache Iceberg v4: The Current State, the Proposals, and Why They Matter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alexmercedcoder/apache-iceberg-v4-the-current-state-the-proposals-and-why-they-matter-3e07" target="_blank">Apache Iceberg v4: The Current State, the Proposals, and Why They Matter</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-09 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://substackcdn.com/image/fetch/$s_!6pbI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d04df85-7afe-471e-8b70-a8f9e83800df_2048x1452.png" alt="State of the software engineering job market in 2026, part 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +221,6 @@
                 <span class="time">2026-06-09 15:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi" target="_blank">macOS 27 Beta Breaks The Ability To Boot Asahi Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-09 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +240,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/too-many-games-1280x720.jpg" alt="Look, You Can’t All Avoid GTA 6 By Hiding In September And October" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/look-you-cant-all-avoid-gta-6-by-hiding-in-october-and-september-2000703984" target="_blank">Look, You Can’t All Avoid GTA 6 By Hiding In September And October</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-09 20:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTPX4E5W9ARSE82471E7DKCF/hero-image.webp" alt="Anthropic Says Its Latest Model Is &#x27;Mythos-Level,&#x27; but With Strict Safeguards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/claude-says-its-latest-model-is-mythos-level?utm_medium=RSS" target="_blank">Anthropic Says Its Latest Model Is &#x27;Mythos-Level,&#x27; but With Strict Safeguards</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-09 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/hero-app.jpg?fit=601%2C1200&amp;quality=60&amp;ssl=1" alt="A reader built a breed-aware app for hot-pavement dog safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/09/a-reader-built-a-breed-aware-app-for-hot-pavement-dog-safety.html" target="_blank">A reader built a breed-aware app for hot-pavement dog safety</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-09 19:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/muppets_coaster_band-1280x720.jpg" alt="The Muppets Take Over Aerosmith’s Roller Coaster At Disney World, And It’s A Major Improvement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +292,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/09/repair-geek-tests-tire-sealants-so-you-dont-have-to-spray-hope-into-a-flat.html" target="_blank">Repair Geek tests tire sealants so you don&#x27;t have to spray hope into a flat</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-09 16:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTMDQT1HXBN8Q9KNA5TX00DT/hero-image.jpg" alt="10 Shows Like &#x27;Dutton Ranch&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-dutton-ranch?utm_medium=RSS" target="_blank">10 Shows Like &#x27;Dutton Ranch&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTPBN30C7SQNA5CCKCNRDXTE/hero-image.jpg" alt="I Figured Out How to Find Real Music Channels on YouTube Amid the AI Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-find-real-lofi-music-on-youtube?utm_medium=RSS" target="_blank">I Figured Out How to Find Real Music Channels on YouTube Amid the AI Slop</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-09 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/onimusha-1280x721.jpg" alt="Capcom Responds To Complaints That Onimusha Demo Downloaded Over 1 Million Times Was Way Too Easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/capcom-responds-to-complaints-that-onimusha-demo-downloaded-over-1-million-times-was-way-too-easy-2000704332" target="_blank">Capcom Responds To Complaints That Onimusha Demo Downloaded Over 1 Million Times Was Way Too Easy</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-09 13:45</span>
             </div>
         </div>
 </div>
@@ -329,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 38 | 📸 With Images: 230 |
-        🔄 Last Updated: 19:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 233 |
+        🔄 Last Updated: 20:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
