@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-09 00:23:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-09 01:33:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, June 09, 2026 - 00:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, June 09, 2026 - 01:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780963782839_now_topstory_nithya_raman_mayor_runoff_260608_S3_1920x1080-tjqbxo.jpg" alt="Nithya Raman to advance in L.A. mayoral runoff race, NBC News projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/nithya-raman-to-advance-in-l-a-mayoral-runoff-race-nbc-news-projects-264769093618" target="_blank">Nithya Raman to advance in L.A. mayoral runoff race, NBC News projects</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-09 00:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +104,20 @@
                 <span class="time">2026-06-08 20:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/08/nx-s1-5849905/fifa-world-cup-tickets-prices" target="_blank">With just days left, the U.S. opening match at the World Cup is still not sold out</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-08 18:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/" target="_blank">Mercor’s Brendan Foody calls out Sequoia over ‘dual-pricing’ valuation tricks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-09 00:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +163,6 @@
                 <span class="time">2026-06-08 21:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed" target="_blank">44 things coming to your Apple devices that you might have missed</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-08 20:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +175,15 @@
                 <span class="title"><a href="https://dev.to/layzerzero105/claude-opus-48-shipped-today-heres-the-upgrade-decision-tree-the-announcement-skipped-and-544a" target="_blank">Claude Opus 4.8 shipped today. Here&#x27;s the upgrade decision tree the announcement skipped — and three workloads that should stay on 4.7.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-09 00:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17356602/bambuddy-self-hosted-bambu-lab-alternative" target="_blank">Bambu Lab Keeps Locking Down, The Community Keeps Building Up</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-08 23:30</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/arashad_dodhiya_0e4bdba5a/the-invisible-breach-why-modern-web-frameworks-arent-immune-to-lfi-44jd" target="_blank">The Invisible Breach: Why Modern Web Frameworks Aren&#x27;t Immune to LFI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-08 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/" target="_blank">Apple reveals new AI architecture built around Google Gemini models</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-08 19:14</span>
             </div>
         </div>
 </div>
@@ -347,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 100 | 📡 Total Sources: 38 | 📸 With Images: 235 |
-        🔄 Last Updated: 00:23 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 99 | 📡 Total Sources: 38 | 📸 With Images: 234 |
+        🔄 Last Updated: 01:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
