@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-10 05:27:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-10 07:21:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, June 10, 2026 - 05:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, June 10, 2026 - 07:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/10/nx-s1-5852968/uk-anti-immigration-protests-belfast" target="_blank">U.K. leaders call for calm as protests break out after Belfast street stabbing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-10 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d97/live/9bf872a0-642e-11f1-b1db-af71d47507d6.jpg" alt="Illegal mini-marts to shut for up to 12 months under law change prompted by BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqj1rkqqrgro?at_medium=RSS&at_campaign=rss" target="_blank">Illegal mini-marts to shut for up to 12 months under law change prompted by BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-10 04:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/apache-ht-er-260609_1781024325865_hpMain_4x3t_384.jpg" alt="Iran live updates: US strikes in Iran &#x27;completed,&#x27; CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +103,29 @@
                 <span class="time">2026-06-10 01:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/10/brazil-intercepts-108-cuban-immigrants-amid-growing-asylum-applications?traffic_source=rss" target="_blank">Brazil intercepts 108 Cuban immigrants amid growing asylum applications</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-10 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss" target="_blank">Iran war live: US strikes after downing of helicopter, Tehran vows response</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-10 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/" target="_blank">Meta signs first AI data center deal in India with Reliance</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-10 07:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on" target="_blank">Logitech’s new Mobi Fold squeezes a lot of functionality into a tiny folding mouse</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-10 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Naturepedic Promo Codes: Get 20% Off Plus Free Pillows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,24 +162,6 @@
                 <span class="time">2026-06-09 23:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a28747ac51bd4a5da3f371b/master/pass/173002118" alt="Great White Sharks Have Been in the Mediterranean Sea for Millions of Years—but Sightings Are Incredibly Rare" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/great-white-shark-mediterranean-sea-sighting-endangered/" target="_blank">Great White Sharks Have Been in the Mediterranean Sea for Millions of Years—but Sightings Are Incredibly Rare</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-09 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation" target="_blank">Congress just gave DHS another $70 billion</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-09 21:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,9 +171,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fiercestack/the-monetization-module-i-wish-id-taught-sooner-ads-vs-sponsorships-vs-affiliate-income-4p5m" target="_blank">The Monetization Module I Wish I&#x27;d Taught Sooner: Ads vs. Sponsorships vs. Affiliate Income</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-10 07:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bspann/anonymization-strategies-4l91" target="_blank">Anonymization Strategies</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-10 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/apple/container/blob/main/docs/container-machine.md" target="_blank">macOS Container Machines</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-10 00:29</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/mr_hamlin/i-added-x402-payments-to-bases-agent-skills-heres-how-17b8" target="_blank">I Added x402 Payments to Base&#x27;s Agent Skills — Here&#x27;s How</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-09 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Alpine-Linux-3.24" target="_blank">Alpine Linux 3.24 Improves Installer Experience, Adds COSMIC Desktop Option</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-09 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/mozilla-slop.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox Android Play Integrity check hits custom ROMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/mozilla-firefox-android-google-play-integrity" target="_blank">Firefox Android Play Integrity check hits custom ROMs</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-09 20:55</span>
             </div>
         </div>
 </div>
@@ -339,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 237 |
-        🔄 Last Updated: 05:27 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 07:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
