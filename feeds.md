@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-10 07:21:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-10 09:07:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, June 10, 2026 - 07:21 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, June 10, 2026 - 09:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +106,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/" target="_blank">Waymo says it built a better benchmark for comparing robotaxis to humans</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-10 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/" target="_blank">Meta signs first AI data center deal in India with Reliance</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-10 07:05</span>
@@ -153,15 +156,6 @@
                 <span class="time">2026-06-09 23:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/" target="_blank">How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-09 23:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -183,6 +177,15 @@
                 <span class="title"><a href="https://dev.to/bspann/anonymization-strategies-4l91" target="_blank">Anonymization Strategies</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-10 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arm-CPU-Critical-CVE-2025-10263" target="_blank">Linux Sees Patches For &quot;Critical&quot; Vulnerability Affecting Many Arm CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-10 00:35</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/vektor_memory_43f51a32376/the-capability-curve-has-no-memory-25ip" target="_blank">The Capability Curve Has No Memory</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-09 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mr_hamlin/i-added-x402-payments-to-bases-agent-skills-heres-how-17b8" target="_blank">I Added x402 Payments to Base&#x27;s Agent Skills — Here&#x27;s How</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-09 21:09</span>
             </div>
         </div>
 </div>
@@ -312,6 +306,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/10/one-tart-per-million" target="_blank">One Tart Per Million</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-10 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/09/he-man-and-battle-cat-art" target="_blank">He-Man and Battle Cat art!</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-06-09 16:47</span>
@@ -340,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 07:21 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 233 |
+        🔄 Last Updated: 09:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
