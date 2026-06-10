@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-09 23:26:07 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-10 00:29:14 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, June 09, 2026 - 23:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, June 10, 2026 - 00:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss" target="_blank">Iran war live: US strikes after downing of helicopter, Tehran vows response</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-10 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/steve-hilton-6-9_1781049318222_hpMain_4x3t_384.jpg" alt="Republican Steve Hilton advances to general election in Calif. gov race, ABC projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/republican-steve-hilton-advances-general-election-california-governors/story?id=133729863" target="_blank">Republican Steve Hilton advances to general election in Calif. gov race, ABC projects</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-09 23:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/558b/live/8cc28120-644e-11f1-b1db-af71d47507d6.jpg" alt="Disorder breaks out in Belfast after man charged with knife attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss" target="_blank">Disorder breaks out in Belfast after man charged with knife attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-09 23:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/558b/live/8cc28120-644e-11f1-b1db-af71d47507d6.jpg" alt="Violence erupts in Belfast as man charged over knife attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,38 +102,20 @@
                 <span class="time">2026-06-09 21:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/09/nx-s1-5851664/house-reconciliation-vote-immigration-enforcement-ice-border-patrol" target="_blank">House passes bill to fund ICE and Border Patrol through the remainder of Trump&#x27;s term</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-09 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss" target="_blank">Trump vows retaliation after claiming Iran shot down Apache helicopter</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-09 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/677d/live/192e0db0-6417-11f1-9216-c3eba4acaf31.jpg" alt="Inside Myanmar, rebels are losing ground as military forces men into army" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss" target="_blank">Inside Myanmar, rebels are losing ground as military forces men into army</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-09 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/" target="_blank">Google just fired a warning shot in the AI subscription price wars</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-10 00:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +161,20 @@
                 <span class="time">2026-06-09 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/" target="_blank">GM joins race to build batteries for AI data centers and the grid</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-09 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/scarab-systems/scarab-field-test-021-pnpm-self-upgrade-no-manifest-boundary-5d58" target="_blank">Scarab Field Test #021 — pnpm Self-Upgrade No-Manifest Boundary</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-10 00:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft56zzztxiyz8nq6dwqhz.jpg" alt="The Capability Curve Has No Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,6 +203,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/mozilla-slop.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox Android Play Integrity check hits custom ROMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/mozilla-firefox-android-google-play-integrity" target="_blank">Firefox Android Play Integrity check hits custom ROMs</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-09 20:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/mozilla-slop.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox for Android adding Google Integrity checks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -204,29 +220,20 @@
                 <span class="time">2026-06-09 20:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0rf7gtkepbblzkkimjai.png" alt="Apache Iceberg v4: The Current State, the Proposals, and Why They Matter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexmercedcoder/apache-iceberg-v4-the-current-state-the-proposals-and-why-they-matter-3e07" target="_blank">Apache Iceberg v4: The Current State, the Proposals, and Why They Matter</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-09 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/claude-fable-5-mythos-5" target="_blank">Claude Fable 5</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-09 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/" target="_blank">A Record-Breaking Patch Tuesday for June 2026</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-06-09 22:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -332,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 23:26 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 00:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
