@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-10 09:07:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-10 11:11:04 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, June 10, 2026 - 09:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, June 10, 2026 - 11:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,10 +51,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack?traffic_source=rss" target="_blank">Why has Belfast erupted in anti-immigrant violence after a knife attack?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-10 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/06/10/nx-s1-5852968/uk-anti-immigration-protests-belfast" target="_blank">U.K. leaders call for calm as protests break out after Belfast street stabbing</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-10 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation" target="_blank">Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-10 05:00</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +102,29 @@
                 <span class="time">2026-06-10 02:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/maine-state-cap-rf-gty-ml-231205_1701802807891_hpMain_3_4x3t_384.jpg" alt="Maine primary results: Platner will win Democratic Senate race, ABC News projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/maine-2026-live-primary-election-results/story?id=133558103" target="_blank">Maine primary results: Platner will win Democratic Senate race, ABC News projects</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-10 01:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/558b/live/8cc28120-644e-11f1-b1db-af71d47507d6.jpg" alt="Disorder breaks out in Belfast after man charged over knife attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss" target="_blank">Disorder breaks out in Belfast after man charged over knife attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-10 01:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a2884080d6aa02c6a8ce0e6/master/pass/The-Best-Laptops-for-College-Students.jpg" alt="Best Laptops For College Students (2026): MacBooks and Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-college-laptops/" target="_blank">Best Laptops For College Students (2026): MacBooks and Beyond</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-10 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/947518/microsoft-office-2019-for-mac-end-of-support-no-edit" target="_blank">Microsoft is disabling Office 2019 for Mac next month</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-10 09:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +161,29 @@
                 <span class="time">2026-06-10 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/" target="_blank">Google just fired a warning shot in the AI subscription price wars</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-10 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc" target="_blank">I tried Siri AI, and so far it actually works</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-09 23:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17357437/proton-drive-cli" target="_blank">Good News For Linux Terminal Junkies! Proton Drive Now Has a CLI</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-10 11:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/azure-apim-ai-gateway-build/en/headerimage/generatedHeaderImage-1780994586581.jpg" alt="Azure API Management Ships Unified Model API and MCP Content Safety at Build 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/azure-apim-ai-gateway-build/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Azure API Management Ships Unified Model API and MCP Content Safety at Build 2026</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-10 09:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,29 +220,20 @@
                 <span class="time">2026-06-10 00:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/scarab-systems/scarab-field-test-021-pnpm-self-upgrade-no-manifest-boundary-5d58" target="_blank">Scarab Field Test #021 — pnpm Self-Upgrade No-Manifest Boundary</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-10 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft56zzztxiyz8nq6dwqhz.jpg" alt="The Capability Curve Has No Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vektor_memory_43f51a32376/the-capability-curve-has-no-memory-25ip" target="_blank">The Capability Curve Has No Memory</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-09 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html" target="_blank">NSO Group Hacking WhatsApp Despite Court Order</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-10 11:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -343,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 233 |
-        🔄 Last Updated: 09:08 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 233 |
+        🔄 Last Updated: 11:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
