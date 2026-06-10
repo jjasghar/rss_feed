@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-10 20:48:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-10 21:37:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, June 10, 2026 - 20:49 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, June 10, 2026 - 21:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-10-ap-gmh-260610_1781109394333_hpMain_4x3t_384.jpg" alt="Trump claims more than 100M barrels of oil, 200 ships gone through Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-claims-100-million-barrels-oil-200-ships/story?id=133759533" target="_blank">Trump claims more than 100M barrels of oil, 200 ships gone through Strait of Hormuz</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-10 20:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +102,29 @@
                 <span class="time">2026-06-10 17:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb09/live/8f2a4730-64ef-11f1-b1db-af71d47507d6.jpg" alt="Belfast knife attack disorder &#x27;destabilising&#x27;, says terror adviser" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2r0783x4go?at_medium=RSS&at_campaign=rss" target="_blank">Belfast knife attack disorder &#x27;destabilising&#x27;, says terror adviser</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-10 17:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-facial-scan-500x500.jpg" alt="Man jailed due to faulty face recognition says Florida cops ignored other evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/" target="_blank">Man jailed due to faulty face recognition says Florida cops ignored other evidence</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-10 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a29bec26f45b6c55c01d0d6/master/pass/CISA-AI-Security-Patch-2268298926.jpg" alt="CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cisa-ai-vulnerability-directive/" target="_blank">CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-10 20:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +161,6 @@
                 <span class="time">2026-06-10 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers" target="_blank">Valve is phasing out physical Steam gift cards due to scammers</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-10 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a296cd55fb28d50a6268abc/master/pass/061026_Wrongful-Arrest-Tests-One-of-the-Oldest-Police-Face-Recognition-Databases-in-the-US.gif" alt="Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/" target="_blank">Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-10 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +173,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/ansible-automation-platform-27-visual-execution-environment-builder-and-content-discovery-guide" target="_blank">Ansible Automation Platform 2.7: Visual Execution Environment Builder and Content Discovery Guide</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-06-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/soytuber/sqlite-on-conflict-do-select-proposal-postgresql-19-features-sqlite-critical-bug-53b1" target="_blank">SQLite `ON CONFLICT DO SELECT` Proposal, PostgreSQL 19 Features &amp; SQLite Critical Bug</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-10 21:35</span>
             </div>
         </div>
 <div class="story">
@@ -196,27 +206,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated" target="_blank">Anthropic&#x27;s Model Naming, Extrapolated</a></span>
+                <span class="title"><a href="https://github.com/philipl/pifs" target="_blank">πFS</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-06-10 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-ESWIN-Default" target="_blank">Linux 7.2 To Enable ESWIN SoC Support By Default For RISC-V Kernel Builds</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-10 18:42</span>
+                <span class="time">2026-06-10 18:54</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.matteast.io/spacex-escape-velocity.html" target="_blank">Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely</a></span>
+                <span class="title"><a href="https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated" target="_blank">Anthropic&#x27;s Model Naming, Extrapolated</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-06-10 17:44</span>
+                <span class="time">2026-06-10 18:45</span>
             </div>
         </div>
 </div>
@@ -257,6 +258,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/The-latest-Xbox-logo-1280x720.jpg" alt="Xbox Will Reportedly Undergo Major Layoffs Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-reportedly-major-layoffs-next-month-2000705023" target="_blank">Xbox Will Reportedly Undergo Major Layoffs Next Month</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-10 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/IMG_2874-e1781122858773.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Tomatoes do not need to die on the vine for flavor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/10/tomatoes-do-not-need-to-die-on-the-vine-for-flavor.html" target="_blank">Tomatoes do not need to die on the vine for flavor</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-10 20:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KEFGV810HZDZJX0870BHJ3X4/hero-image.png" alt="This Is Your Chance to Get the AirPods Pro 3 for $179" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -290,24 +309,6 @@
                 <span class="title"><a href="https://kotaku.com/sonic-pico-park-summer-game-fest-preview-characters-shadow-2000704863" target="_blank">Hands-On: An Unorthodox Sonic Game Was My Biggest Summer Game Fest Surprise</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-10 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTRAXH016FZ5W606ZJ33K1ZP/hero-image.png" alt="This Fire TV Soundbar Plus Bundle Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/fire-tv-soundbar-plus-bundle-sale-june-2026?utm_medium=RSS" target="_blank">This Fire TV Soundbar Plus Bundle Is $200 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-10 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/xbox-green.jpg" alt="Xbox CEO Warns About Next-Gen Console Gaming’s Cost Crisis: ‘We Will Start To See Radically Different Business Models’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-ceo-warns-about-next-gen-console-gamings-cost-crisis-we-will-start-to-see-radically-different-business-models-2000704611" target="_blank">Xbox CEO Warns About Next-Gen Console Gaming’s Cost Crisis: ‘We Will Start To See Radically Different Business Models’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-10 04:17</span>
             </div>
         </div>
 </div>
@@ -347,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 227 |
-        🔄 Last Updated: 20:49 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 99 | 📡 Total Sources: 39 | 📸 With Images: 230 |
+        🔄 Last Updated: 21:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
