@@ -1,40 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-06-10 16:15:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-10 17:59:08 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Generated 11 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, June 10, 2026 - 16:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, June 10, 2026 - 17:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/10/is-fortress-europe-becoming-more-strict?traffic_source=rss" target="_blank">Is Fortress Europe becoming more strict?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-10 17:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd73/live/32b0aef0-64ee-11f1-b1db-af71d47507d6.jpg" alt="Trump says US will hit Iran &#x27;hard&#x27; again today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US will hit Iran &#x27;hard&#x27; again today</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-10 17:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +108,20 @@
                 <span class="time">2026-06-10 13:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis" target="_blank">Trump targeting immigrants from countries hit most by climate shocks</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f1/live/13b4d980-6495-11f1-9b73-836cb1c926b8.jpg" alt="What we know about Belfast attack and disorder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly0d13e4geo?at_medium=RSS&at_campaign=rss" target="_blank">What we know about Belfast attack and disorder</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-10 12:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft" target="_blank">Microsoft, like, totally gets why students are booing AI-pilled graduation speakers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-10 17:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026-Honda-Prelude-5-500x500-1781104659.jpg" alt="2026 Honda Prelude review: We need more affordable coupes like this" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +167,47 @@
                 <span class="time">2026-06-10 13:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/10/snapchat-limits-users-under-16-to-sharing-spotlights-with-friends/" target="_blank">Snapchat limits users under 16 to sharing Spotlights with friends</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-10 12:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/ansible-automation-platform-27-visual-execution-environment-builder-and-content-discovery-guide" target="_blank">Ansible Automation Platform 2.7: Visual Execution Environment Builder and Content Discovery Guide</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-06-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alberto_miller_f44a8880a3/i-built-300-free-web-tools-at-18-heres-what-actually-drove-traffic-hint-not-google-5gei" target="_blank">I Built 300+ Free Web Tools at 18 Here&#x27;s What Actually Drove Traffic (Hint: Not Google)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-10 17:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Lemonade-10.7-Released" target="_blank">AMD&#x27;s Lemonade SDK For Local AI Adds NVIDIA CUDA Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-10 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/microsoft-coreutils.webp?resize=406%2C232&amp;ssl=1" alt="Microsoft brings Rust Coreutils to Windows – natively" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/microsoft-release-windows-coreutils" target="_blank">Microsoft brings Rust Coreutils to Windows – natively</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-10 16:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,46 +220,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17357550/kaos-first-dinit-image-release" target="_blank">KaOS Releases First Dinit-Based ISO, but It&amp;#x27;s Not Ditching Systemd Entirely</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-10 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mehartung/ai-writes-the-code-now-which-is-exactly-why-architecture-matters-more-193c" target="_blank">AI Writes the Code Now — Which Is Exactly Why Architecture Matters More</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-10 14:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://danq.me/2026/06/09/fn-keys/" target="_blank">I Hate (Most) Keyboard &#x27;Fn&#x27; Keys</a></span>
+                <span class="title"><a href="https://news.ycombinator.com/item?id=48477135" target="_blank">I&#x27;m Eric Ries, author of &quot;The Lean Startup&quot; and new book &quot;Incorruptible&quot; – AMA</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-06-10 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mohkohn.co.uk/writing/html-first/" target="_blank">Building an HTML-first site doubled our users overnight</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-10 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/context-engineering-data/en/mediumimage/adi-polak-medium-1780059098035.jpeg" alt="Presentation: Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/context-engineering-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-10 12:03</span>
+                <span class="time">2026-06-10 14:47</span>
             </div>
         </div>
 </div>
@@ -260,6 +264,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Fable-Extended-Gameplay-Demo-4K-1280x720.jpeg" alt="This Is The First Time I’ve Felt Like The New Fable Is A Real Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-is-the-first-time-ive-felt-like-the-new-fable-is-a-real-game-2000704966" target="_blank">This Is The First Time I’ve Felt Like The New Fable Is A Real Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-10 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H4YKF9VWRN57JKZGD7GC2/hero-image.png" alt="How Often You Need to Order From Amazon to Cover the Cost of Prime" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/is-amazon-prime-worth-it?utm_medium=RSS" target="_blank">How Often You Need to Order From Amazon to Cover the Cost of Prime</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-10 17:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/6-1280x720.jpg" alt="Hands-On: An Unorthodox Sonic Game Was My Biggest Summer Game Fest Surprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -295,24 +317,6 @@
                 <span class="time">2026-06-09 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/HKY_yjqXAAAS3u7-1280x720.jpg" alt="I Wasn’t Expecting Dragon’s Dogma 2 DLC In The Nintendo Direct" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dragons-dogma-2-dlc-nintendo-switch-2-direct-2000704568" target="_blank">I Wasn’t Expecting Dragon’s Dogma 2 DLC In The Nintendo Direct</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-09 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/EbookMagic-Starter-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Bring all your book ideas to life with this $40 tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/09/bring-all-your-book-ideas-to-life-with-this-40-tool.html" target="_blank">Bring all your book ideas to life with this $40 tool</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-09 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,22 +340,13 @@
                 <span class="time">2026-06-10 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/09/he-man-and-battle-cat-art" target="_blank">He-Man and Battle Cat art!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-09 16:47</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 109 | 📡 Total Sources: 39 | 📸 With Images: 230 |
-        🔄 Last Updated: 16:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 39 | 📸 With Images: 229 |
+        🔄 Last Updated: 17:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
