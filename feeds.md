@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-10 00:29:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-10 01:39:34 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, June 10, 2026 - 00:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, June 10, 2026 - 01:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/558b/live/8cc28120-644e-11f1-b1db-af71d47507d6.jpg" alt="Disorder breaks out in Belfast after man charged over knife attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss" target="_blank">Disorder breaks out in Belfast after man charged over knife attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-10 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/10/brazil-intercepts-108-cuban-immigrants-amid-growing-asylum-applications?traffic_source=rss" target="_blank">Brazil intercepts 108 Cuban immigrants amid growing asylum applications</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-10 00:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,30 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/558b/live/8cc28120-644e-11f1-b1db-af71d47507d6.jpg" alt="Violence erupts in Belfast as man charged over knife attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss" target="_blank">Violence erupts in Belfast as man charged over knife attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-09 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/9/mississippi-residents-sue-musks-xai-and-spacex-over-data-centre-nuisance?traffic_source=rss" target="_blank">Mississippi residents sue Musk’s xAI and SpaceX over data centre ‘nuisance’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-09 22:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781041086680_now_hallie_iran_helicopter_retaliation_260609_S3_1920x1080-xa6wjp.jpg" alt="U.S. begins retaliatory strikes on Iran after Apache helicopter downed near Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781046330082_nn_cku_us_launches_self_defense_strikes_against_iran_after_downing_of_helicopter_260609_S3_1920x1080-qzehwx.jpg" alt="U.S. launches ‘self-defense strikes’ against Iran after downing of helicopter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/u-s-begins-retaliatory-strikes-on-iran-after-apache-helicopter-downed-near-strait-of-hormuz-264841285763" target="_blank">U.S. begins retaliatory strikes on Iran after Apache helicopter downed near Strait of Hormuz</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/u-s-launches-self-defense-strikes-against-iran-after-downing-of-helicopter-264846917677" target="_blank">U.S. launches ‘self-defense strikes’ against Iran after downing of helicopter</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-09 21:38</span>
+                <span class="time">2026-06-09 23:05</span>
             </div>
         </div>
 </div>
@@ -114,6 +111,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/" target="_blank">Google just fired a warning shot in the AI subscription price wars</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-10 00:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc" target="_blank">I tried Siri AI, and so far it actually works</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-09 23:43</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +158,20 @@
                 <span class="time">2026-06-09 21:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a27509be306f8dd75903baa/master/pass/GM-Wants-You-to-Power-Your-House-With-Electric-Car-Gear-GM-Energy-home-energy-system-1.png" alt="GM Wants Your Electric Car to Power Your House—and Your Neighborhood" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gm-vehicle-to-grid-charging-your-electric-car-can-power-your-house-and-your-neighborhood/" target="_blank">GM Wants Your Electric Car to Power Your House—and Your Neighborhood</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-09 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bspann/anonymization-strategies-4l91" target="_blank">Anonymization Strategies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-10 01:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +217,6 @@
                 <span class="time">2026-06-09 20:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/mozilla-slop.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox for Android adding Google Integrity checks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/mozilla-firefox-android-google-play-integrity" target="_blank">Firefox for Android adding Google Integrity checks</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-09 20:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTKKYJXR8XME2T9M1NQTFR4B/hero-image.png" alt="10 Hacks Every Google Keep User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-google-keep-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Google Keep User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-09 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/HKY_yjqXAAAS3u7-1280x720.jpg" alt="I Wasn’t Expecting Dragon’s Dogma 2 DLC In The Nintendo Direct" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +299,6 @@
                 <span class="time">2026-06-09 19:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/muppets_coaster_band-1280x720.jpg" alt="The Muppets Take Over Aerosmith’s Roller Coaster At Disney World, And It’s A Major Improvement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-muppets-take-over-aerosmiths-roller-coaster-at-disney-world-and-its-a-major-improvement-2000704063" target="_blank">The Muppets Take Over Aerosmith’s Roller Coaster At Disney World, And It’s A Major Improvement</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-09 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 00:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 01:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
