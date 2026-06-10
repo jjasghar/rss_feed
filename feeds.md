@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-10 21:37:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-10 22:33:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, June 10, 2026 - 21:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, June 10, 2026 - 22:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/hegsesth-5-gty-gmh-260505_1777986178427_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US begins strikes after Hegseth promised &#x27;busy&#x27; night" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: US begins strikes after Hegseth promised &#x27;busy&#x27; night</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-10 22:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-10-ap-gmh-260610_1781109394333_hpMain_4x3t_384.jpg" alt="Trump claims more than 100M barrels of oil, 200 ships gone through Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +98,29 @@
                 <span class="time">2026-06-10 17:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd73/live/32b0aef0-64ee-11f1-b1db-af71d47507d6.jpg" alt="Trump says US will hit Iran &#x27;hard&#x27; again today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US will hit Iran &#x27;hard&#x27; again today</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-10 17:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/" target="_blank">xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-10 22:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/diabetes1-500x500-1780778318.jpg" alt="Diabetes org apologizes for ejecting scientists over criticism of Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/06/diabetes-org-apologizes-for-ejecting-scientists-over-criticism-of-trump/" target="_blank">Diabetes org apologizes for ejecting scientists over criticism of Trump</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-10 22:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-facial-scan-500x500.jpg" alt="Man jailed due to faulty face recognition says Florida cops ignored other evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,24 +157,6 @@
                 <span class="time">2026-06-10 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026-Honda-Prelude-5-500x500-1781104659.jpg" alt="2026 Honda Prelude review: We need more affordable coupes like this" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/06/2026-honda-prelude-review-we-need-more-affordable-coupes-like-this/" target="_blank">2026 Honda Prelude review: We need more affordable coupes like this</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-10 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/943699/slug-boox-tappy-wireless-bluetooth-remote-page-turn-android-ios-hands-on" target="_blank">Boox’s quirky page-turning remote won me over</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-10 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +169,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/ansible-automation-platform-27-visual-execution-environment-builder-and-content-discovery-guide" target="_blank">Ansible Automation Platform 2.7: Visual Execution Environment Builder and Content Discovery Guide</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-06-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vultr/deploying-vector-high-performance-observability-data-pipeline-on-ubuntu-2404-id4" target="_blank">Deploying Vector High-Performance Observability Data Pipeline on Ubuntu 24.04</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-10 22:24</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +216,6 @@
                 <span class="time">2026-06-10 18:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated" target="_blank">Anthropic&#x27;s Model Naming, Extrapolated</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-10 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,20 +239,20 @@
                 <span class="time">2026-06-10 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/" target="_blank">A Record-Breaking Patch Tuesday for June 2026</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-06-09 22:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTSM8VESNFTHH5TE7RKASF3G/hero-image.png" alt="Sony&#x27;s Lightest Noise-Cancelling Headphones Are Over 50% Off Before Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sony-headphones-deal-prime-day-2026?utm_medium=RSS" target="_blank">Sony&#x27;s Lightest Noise-Cancelling Headphones Are Over 50% Off Before Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-10 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/The-latest-Xbox-logo-1280x720.jpg" alt="Xbox Will Reportedly Undergo Major Layoffs Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -302,15 +298,6 @@
                 <span class="time">2026-06-10 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/6-1280x720.jpg" alt="Hands-On: An Unorthodox Sonic Game Was My Biggest Summer Game Fest Surprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sonic-pico-park-summer-game-fest-preview-characters-shadow-2000704863" target="_blank">Hands-On: An Unorthodox Sonic Game Was My Biggest Summer Game Fest Surprise</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-10 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -348,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 99 | 📡 Total Sources: 39 | 📸 With Images: 230 |
-        🔄 Last Updated: 21:38 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 233 |
+        🔄 Last Updated: 22:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
