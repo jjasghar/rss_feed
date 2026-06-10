@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-10 03:01:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-10 05:27:09 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, June 10, 2026 - 03:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, June 10, 2026 - 05:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/apache-ht-er-260609_1781024325865_hpMain_4x3t_384.jpg" alt="Iran live updates: US strikes in Iran &#x27;completed,&#x27; CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: US strikes in Iran &#x27;completed,&#x27; CENTCOM says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-10 03:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +102,20 @@
                 <span class="time">2026-06-10 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/steve-hilton-6-9_1781049318222_hpMain_4x3t_384.jpg" alt="Republican Steve Hilton advances to general election in Calif. gov race, ABC projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/republican-steve-hilton-advances-general-election-california-governors/story?id=133729863" target="_blank">Republican Steve Hilton advances to general election in Calif. gov race, ABC projects</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-09 23:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Naturepedic Promo Codes: Get 20% Off Plus Free Pillows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/naturepedic-promo-code/" target="_blank">Naturepedic Promo Codes: Get 20% Off Plus Free Pillows</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-10 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation" target="_blank">Congress just gave DHS another $70 billion</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-09 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-500x500.jpg" alt="Starlink charges $10 monthly hardware fee in move away from one-time purchases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/" target="_blank">Starlink charges $10 monthly hardware fee in move away from one-time purchases</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-09 21:05</span>
             </div>
         </div>
 </div>
@@ -246,6 +249,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/xbox-green.jpg" alt="Xbox CEO Warns About Next-Gen Console Gaming’s Cost Crisis: ‘We Will Start To See Radically Different Business Models’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-ceo-warns-about-next-gen-console-gamings-cost-crisis-we-will-start-to-see-radically-different-business-models-2000704611" target="_blank">Xbox CEO Warns About Next-Gen Console Gaming’s Cost Crisis: ‘We Will Start To See Radically Different Business Models’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-10 04:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KTKKYJXR8XME2T9M1NQTFR4B/hero-image.png" alt="10 Hacks Every Google Keep User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -290,15 +302,6 @@
                 <span class="time">2026-06-09 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/hero-app.jpg?fit=601%2C1200&amp;quality=60&amp;ssl=1" alt="A reader built a breed-aware app for hot-pavement dog safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/09/a-reader-built-a-breed-aware-app-for-hot-pavement-dog-safety.html" target="_blank">A reader built a breed-aware app for hot-pavement dog safety</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-09 19:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 03:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 237 |
+        🔄 Last Updated: 05:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
