@@ -1,29 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-10 14:11:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-10 16:15:08 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 20 feeds processed -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, June 10, 2026 - 14:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, June 10, 2026 - 16:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,10 +53,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/10/thai-woman-in-custody-after-us-diplomat-found-dead-in-myanmar?traffic_source=rss" target="_blank">US diplomat found dead in Myanmar, Thai woman in custody</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-10 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/10/g-s1-127253/taiwan-drills-with-us-rocket-system-firing-in-chinas-direction" target="_blank">Taiwan drills with U.S. rocket system, firing in China&#x27;s direction</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-10 15:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/bill-gates-3-rt-gmh-260610_1781097405217_hpMain_4x3t_384.jpg" alt="Bill Gates tells House panel that meeting with Epstein was &#x27;grave error in judgment&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/bill-gates-face-questions-house-oversight-panel-relationship/story?id=133685951" target="_blank">Bill Gates tells House panel that meeting with Epstein was &#x27;grave error in judgment&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-10 15:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices" target="_blank">Inflation tops 4% for the first time in 3 years on spike in gasoline prices</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-10 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis" target="_blank">Trump targeting immigrants from countries hit most by climate shocks</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-10 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -57,47 +104,29 @@
                 <span class="time">2026-06-10 12:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-poster-DB-260610_1781089854971_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran will pay price for taking &#x27;too long&#x27; to agree deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says Iran will pay price for taking &#x27;too long&#x27; to agree deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/10/nx-s1-5835633/student-loans-guide-education-changes-repayment-plan" target="_blank">July 1 brings big student loan changes. Here&#x27;s what you need to know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-10 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack?traffic_source=rss" target="_blank">Why has Belfast erupted in anti-immigrant violence after a knife attack?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-10 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/10/nx-s1-5852968/uk-anti-immigration-protests-belfast" target="_blank">U.K. leaders call for calm as protests break out after Belfast street stabbing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-10 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026-Honda-Prelude-5-500x500-1781104659.jpg" alt="2026 Honda Prelude review: We need more affordable coupes like this" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/06/2026-honda-prelude-review-we-need-more-affordable-coupes-like-this/" target="_blank">2026 Honda Prelude review: We need more affordable coupes like this</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-10 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/943699/slug-boox-tappy-wireless-bluetooth-remote-page-turn-android-ios-hands-on" target="_blank">Boox’s quirky page-turning remote won me over</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-10 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -105,6 +134,15 @@
                 <span class="title"><a href="https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers" target="_blank">Valve is phasing out physical Steam gift cards due to scammers</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-10 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a296cd55fb28d50a6268abc/master/pass/061026_Wrongful-Arrest-Tests-One-of-the-Oldest-Police-Face-Recognition-Databases-in-the-US.gif" alt="Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/" target="_blank">Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-10 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -125,38 +163,29 @@
                 <span class="time">2026-06-10 12:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6838fcf6d97338a12f37b052/master/pass/The%20Best%20iPad%20Accessories.png" alt="Best iPad Accessories (2026): Keyboards, Cases, Styli" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-ipad-accessories/" target="_blank">Best iPad Accessories (2026): Keyboards, Cases, Styli</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-10 11:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a2884080d6aa02c6a8ce0e6/master/pass/The-Best-Laptops-for-College-Students.jpg" alt="Best Laptops For College Students (2026): MacBooks and Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-college-laptops/" target="_blank">Best Laptops For College Students (2026): MacBooks and Beyond</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-10 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/947518/microsoft-office-2019-for-mac-end-of-support-no-edit" target="_blank">Microsoft is disabling Office 2019 for Mac next month</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-10 09:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/" target="_blank">Give GitHub Copilot CLI real code intelligence with language servers</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-10 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17357550/kaos-first-dinit-image-release" target="_blank">KaOS Releases First Dinit-Based ISO, but It&amp;#x27;s Not Ditching Systemd Entirely</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-10 14:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,39 +205,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mohkohn.co.uk/writing/html-first/" target="_blank">Building an HTML-first site doubled our users overnight</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-10 12:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/presentations/context-engineering-data/en/mediumimage/adi-polak-medium-1780059098035.jpeg" alt="Presentation: Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/presentations/context-engineering-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-10 12:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17357437/proton-drive-cli" target="_blank">Good News For Linux Terminal Junkies! Proton Drive Now Has a CLI</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-10 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/azure-apim-ai-gateway-build/en/headerimage/generatedHeaderImage-1780994586581.jpg" alt="Azure API Management Ships Unified Model API and MCP Content Safety at Build 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/azure-apim-ai-gateway-build/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Azure API Management Ships Unified Model API and MCP Content Safety at Build 2026</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-10 09:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf" target="_blank">Mercedes‑Benz starts large‑scale production of electric axial flux motor</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-10 07:44</span>
             </div>
         </div>
 </div>
@@ -241,15 +252,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/" target="_blank">A Record-Breaking Patch Tuesday for June 2026</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2026-06-09 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html" target="_blank">GPS As a Key Distribution Platform</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-09 15:06</span>
             </div>
         </div>
 </div>
@@ -317,6 +319,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1780969413-20260610.png" alt="Saturday Morning Breakfast Cereal - Surveil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/surveil" target="_blank">Saturday Morning Breakfast Cereal - Surveil</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-10 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -334,31 +345,13 @@
                 <span class="time">2026-06-09 16:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/the-desert/" target="_blank">The Desert</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-06-09 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1780969351-20260609.png" alt="Saturday Morning Breakfast Cereal - Creative" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/creative-3" target="_blank">Saturday Morning Breakfast Cereal - Creative</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-09 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 111 | 📡 Total Sources: 39 | 📸 With Images: 231 |
-        🔄 Last Updated: 14:11 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 109 | 📡 Total Sources: 39 | 📸 With Images: 230 |
+        🔄 Last Updated: 16:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
