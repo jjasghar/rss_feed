@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-10 11:11:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-10 13:00:13 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, June 10, 2026 - 11:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, June 10, 2026 - 13:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f1/live/13b4d980-6495-11f1-9b73-836cb1c926b8.jpg" alt="What we know about Belfast attack and disorder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly0d13e4geo?at_medium=RSS&at_campaign=rss" target="_blank">What we know about Belfast attack and disorder</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-10 12:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-poster-DB-260610_1781089854971_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran will pay price for taking &#x27;too long&#x27; to agree deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says Iran will pay price for taking &#x27;too long&#x27; to agree deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-10 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/10/nx-s1-5835633/student-loans-guide-education-changes-repayment-plan" target="_blank">July 1 brings big student loan changes. Here&#x27;s what you need to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-10 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +103,29 @@
                 <span class="time">2026-06-10 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d97/live/9bf872a0-642e-11f1-b1db-af71d47507d6.jpg" alt="Illegal mini-marts to shut for up to 12 months under law change prompted by BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqj1rkqqrgro?at_medium=RSS&at_campaign=rss" target="_blank">Illegal mini-marts to shut for up to 12 months under law change prompted by BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-10 04:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/apache-ht-er-260609_1781024325865_hpMain_4x3t_384.jpg" alt="Iran live updates: US strikes in Iran &#x27;completed,&#x27; CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: US strikes in Iran &#x27;completed,&#x27; CENTCOM says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-10 03:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack?traffic_source=rss" target="_blank">Protesters torch cars, buildings in Belfast after knife attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-10 02:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/10/snapchat-limits-users-under-16-to-sharing-spotlights-with-friends/" target="_blank">Snapchat limits users under 16 to sharing Spotlights with friends</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-10 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6838fcf6d97338a12f37b052/master/pass/The%20Best%20iPad%20Accessories.png" alt="Best iPad Accessories (2026): Keyboards, Cases, Styli" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-ipad-accessories/" target="_blank">Best iPad Accessories (2026): Keyboards, Cases, Styli</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-10 11:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a2884080d6aa02c6a8ce0e6/master/pass/The-Best-Laptops-for-College-Students.jpg" alt="Best Laptops For College Students (2026): MacBooks and Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,24 +162,6 @@
                 <span class="time">2026-06-10 07:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on" target="_blank">Logitech’s new Mobi Fold squeezes a lot of functionality into a tiny folding mouse</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-10 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Naturepedic Promo Codes: Get 20% Off Plus Free Pillows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/naturepedic-promo-code/" target="_blank">Naturepedic Promo Codes: Get 20% Off Plus Free Pillows</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-10 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +183,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/azure-apim-ai-gateway-build/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Azure API Management Ships Unified Model API and MCP Content Safety at Build 2026</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-10 09:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf" target="_blank">Mercedes‑Benz starts large‑scale production of electric axial flux motor</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-10 07:44</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Arm-CPU-Critical-CVE-2025-10263" target="_blank">Linux Sees Patches For &quot;Critical&quot; Vulnerability Affecting Many Arm CPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-10 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/apple/container/blob/main/docs/container-machine.md" target="_blank">macOS Container Machines</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-10 00:29</span>
             </div>
         </div>
 </div>
@@ -257,6 +258,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTRAXH016FZ5W606ZJ33K1ZP/hero-image.png" alt="This Fire TV Soundbar Plus Bundle Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/fire-tv-soundbar-plus-bundle-sale-june-2026?utm_medium=RSS" target="_blank">This Fire TV Soundbar Plus Bundle Is $200 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-10 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/xbox-green.jpg" alt="Xbox CEO Warns About Next-Gen Console Gaming’s Cost Crisis: ‘We Will Start To See Radically Different Business Models’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,15 +310,6 @@
                 <span class="title"><a href="https://kotaku.com/look-you-cant-all-avoid-gta-6-by-hiding-in-october-and-september-2000703984" target="_blank">Look, You Can’t All Avoid GTA 6 By Hiding In September And October</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-09 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTPX4E5W9ARSE82471E7DKCF/hero-image.webp" alt="Anthropic Says Its Latest Model Is &#x27;Mythos-Level,&#x27; but With Strict Safeguards" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/claude-says-its-latest-model-is-mythos-level?utm_medium=RSS" target="_blank">Anthropic Says Its Latest Model Is &#x27;Mythos-Level,&#x27; but With Strict Safeguards</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-09 20:00</span>
             </div>
         </div>
 </div>
@@ -357,8 +358,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 233 |
-        🔄 Last Updated: 11:11 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 107 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 13:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
