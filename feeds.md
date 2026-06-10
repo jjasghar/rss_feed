@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-06-10 13:00:13 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-06-10 14:11:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, June 10, 2026 - 13:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, June 10, 2026 - 14:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices" target="_blank">Inflation tops 4% for the first time in 3 years on spike in gasoline prices</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-10 13:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f1/live/13b4d980-6495-11f1-9b73-836cb1c926b8.jpg" alt="What we know about Belfast attack and disorder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +93,29 @@
                 <span class="time">2026-06-10 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation" target="_blank">Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-10 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers" target="_blank">Valve is phasing out physical Steam gift cards due to scammers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-10 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/" target="_blank">Jedify raises $24M to help companies arm AI agents with context on their business</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-10 13:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +152,38 @@
                 <span class="time">2026-06-10 09:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/" target="_blank">Waymo says it built a better benchmark for comparing robotaxis to humans</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-10 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/" target="_blank">Meta signs first AI data center deal in India with Reliance</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-10 07:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mehartung/ai-writes-the-code-now-which-is-exactly-why-architecture-matters-more-193c" target="_blank">AI Writes the Code Now — Which Is Exactly Why Architecture Matters More</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-10 14:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://danq.me/2026/06/09/fn-keys/" target="_blank">I Hate (Most) Keyboard &#x27;Fn&#x27; Keys</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-10 13:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/context-engineering-data/en/mediumimage/adi-polak-medium-1780059098035.jpeg" alt="Presentation: Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/context-engineering-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-10 12:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,38 +211,20 @@
                 <span class="time">2026-06-10 07:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fiercestack/the-monetization-module-i-wish-id-taught-sooner-ads-vs-sponsorships-vs-affiliate-income-4p5m" target="_blank">The Monetization Module I Wish I&#x27;d Taught Sooner: Ads vs. Sponsorships vs. Affiliate Income</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-10 07:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bspann/anonymization-strategies-4l91" target="_blank">Anonymization Strategies</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-10 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arm-CPU-Critical-CVE-2025-10263" target="_blank">Linux Sees Patches For &quot;Critical&quot; Vulnerability Affecting Many Arm CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-10 00:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank">Who Runs the Ransomware Group ‘The Gentlemen?’</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-06-10 14:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -258,6 +257,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/6-1280x720.jpg" alt="Hands-On: An Unorthodox Sonic Game Was My Biggest Summer Game Fest Surprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sonic-pico-park-summer-game-fest-preview-characters-shadow-2000704863" target="_blank">Hands-On: An Unorthodox Sonic Game Was My Biggest Summer Game Fest Surprise</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-10 14:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KTRAXH016FZ5W606ZJ33K1ZP/hero-image.png" alt="This Fire TV Soundbar Plus Bundle Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,15 +309,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/09/bring-all-your-book-ideas-to-life-with-this-40-tool.html" target="_blank">Bring all your book ideas to life with this $40 tool</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-09 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/too-many-games-1280x720.jpg" alt="Look, You Can’t All Avoid GTA 6 By Hiding In September And October" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/look-you-cant-all-avoid-gta-6-by-hiding-in-october-and-september-2000703984" target="_blank">Look, You Can’t All Avoid GTA 6 By Hiding In September And October</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-09 20:34</span>
             </div>
         </div>
 </div>
@@ -358,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 107 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 13:00 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 111 | 📡 Total Sources: 39 | 📸 With Images: 231 |
+        🔄 Last Updated: 14:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
