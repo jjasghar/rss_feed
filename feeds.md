@@ -1,44 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-10 17:59:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-10 19:05:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, June 10, 2026 - 17:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, June 10, 2026 - 19:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/10/after-a-democrat-standoff-trump-signs-70bn-immigration-enforcement-bill?traffic_source=rss" target="_blank">After a Democrat standoff, Trump signs $70bn immigration enforcement bill</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-10 18:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -99,20 +97,20 @@
                 <span class="time">2026-06-10 15:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices" target="_blank">Inflation tops 4% for the first time in 3 years on spike in gasoline prices</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-10 13:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions" target="_blank">Claude Fable won’t answer basic biology questions</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-10 18:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,15 +156,6 @@
                 <span class="time">2026-06-10 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/" target="_blank">Jedify raises $24M to help companies arm AI agents with context on their business</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-10 13:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +168,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/ansible-automation-platform-27-visual-execution-environment-builder-and-content-discovery-guide" target="_blank">Ansible Automation Platform 2.7: Visual Execution Environment Builder and Content Discovery Guide</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-06-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-ESWIN-Default" target="_blank">Linux 7.2 To Enable ESWIN SoC Support By Default For RISC-V Kernel Builds</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-10 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.matteast.io/spacex-escape-velocity.html" target="_blank">Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-10 17:44</span>
             </div>
         </div>
 <div class="story">
@@ -206,24 +213,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/microsoft-release-windows-coreutils" target="_blank">Microsoft brings Rust Coreutils to Windows – natively</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-06-10 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/" target="_blank">Give GitHub Copilot CLI real code intelligence with language servers</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-10 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.ycombinator.com/item?id=48477135" target="_blank">I&#x27;m Eric Ries, author of &quot;The Lean Startup&quot; and new book &quot;Incorruptible&quot; – AMA</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-10 14:47</span>
             </div>
         </div>
 </div>
@@ -345,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 39 | 📸 With Images: 229 |
-        🔄 Last Updated: 17:59 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 109 | 📡 Total Sources: 39 | 📸 With Images: 228 |
+        🔄 Last Updated: 19:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
