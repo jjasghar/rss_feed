@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 18:54:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-11 19:49:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 13 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 18:54 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 19:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/11/nx-s1-5855365/trump-director-of-national-intelligence-jay-clayton-bill-pulte-fisa-702" target="_blank">Trump names Jay Clayton to serve as director of national intelligence</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-11 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/11/how-a-kushner-linked-resort-sparked-protests-across-albania?traffic_source=rss" target="_blank">How a Kushner-linked resort sparked protests across Albania</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-11 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-epa-gmh-260611_1781181637844_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says he canceled strikes against Iran as talks proceed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says he canceled strikes against Iran as talks proceed</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-11 18:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +98,20 @@
                 <span class="time">2026-06-11 16:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/6/11/gold-is-now-the-top-reserve-asset-is-dollar-dominance-at-risk?traffic_source=rss" target="_blank">Gold is now the top reserve asset. Is dollar dominance at risk?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-11 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady" target="_blank">London council seizes social housing flat rented by Sierra Leone first lady</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-11 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-10-ap-gmh-260610_1781109394333_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US will hit Iran &#x27;very hard tonight&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says US will hit Iran &#x27;very hard tonight&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-11 13:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/ted-cruz-ron-wyden-500x500-1781205347.jpg" alt="Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/" target="_blank">Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-11 19:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +157,6 @@
                 <span class="time">2026-06-11 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a29e83ec33929cf4244d286/master/pass/The-Best-Smart-Chess-Boards.jpg" alt="Best Smart Chess Boards (2026): Chessnut, Millennium" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-smart-chess-boards/" target="_blank">Best Smart Chess Boards (2026): Chessnut, Millennium</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-11 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,12 +172,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ai-at-the-edge-simplifying-infrastructure-with-cisco-and-canonical" target="_blank">AI at the edge: simplifying infrastructure with Cisco and Canonical</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-11 19:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/libreoffice-hero.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice gives its Ribbon-style UI a pop of colour" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/libreoffice-tabbed-ui-backgrounds" target="_blank">LibreOffice gives its Ribbon-style UI a pop of colour</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-06-11 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.2-Preps-AMD-GFX1156" target="_blank">Mesa 26.2 Preps For AMD GFX1156 For New, Post-Strix-Halo RDNA 3.5 Graphics</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-11 17:34</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +214,6 @@
                 <span class="title"><a href="https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/" target="_blank">Making secret scanning more trustworthy: Reducing false positives at scale</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-06-11 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/phpcraftdream/ktav-i-got-fed-up-with-every-config-format-so-i-built-one-with-no-quotes-no-commas-no-54an" target="_blank">Ktav: I got fed up with every config format, so I built one with no quotes, no commas, no indentation hell</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-11 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17359527/foss-weekly-26-24" target="_blank">FOSS Weekly #26.24: Dank Linux Review, BitWarden Alternative, Mint Tips (And an Important Message)</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-11 14:27</span>
             </div>
         </div>
 </div>
@@ -239,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/1000008269-1280x720.jpg" alt="It’s Time To Admit Zelda: Ocarina Of Time’s Water Temple Is Good, Actually" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-fixed-zelda-ocarina-of-time-terrible-water-temple-2000705629" target="_blank">It’s Time To Admit Zelda: Ocarina Of Time’s Water Temple Is Good, Actually</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-11 19:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTVX1YT8YX50AJM251APKV5H/hero-image.jpg" alt="Deezer Claims Its New Tool Can Detect AI Music on Most Major Streaming Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/deezers-new-ai-music-detector-works-on-most-major-streaming-platforms?utm_medium=RSS" target="_blank">Deezer Claims Its New Tool Can Detect AI Music on Most Major Streaming Services</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-11 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/giant-rock.jpg?fit=1500%2C1125&amp;quality=60&amp;ssl=1" alt="Estonian supermarket built around a 10,000-year-old Ice Age boulder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/11/estonian-supermarket-built-around-a-10000-year-old-ice-age-boulder.html" target="_blank">Estonian supermarket built around a 10,000-year-old Ice Age boulder</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-11 18:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KTVXQMWN24THYK6TK5NZ1SK2/hero-image.png" alt="This Woot Deal Is the Cheapest Way to Get the Nintendo Switch 2 Before Prices Go Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +289,6 @@
                 <span class="time">2026-06-11 15:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/04/86468eaa879002d683b233fb9dc5cb42.jpg" alt="Elder Scrolls 6 Is ‘Coming Along Well’ But Still Not Ready For A Re-Reveal Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elder-scrolls-6-is-coming-along-well-but-still-not-ready-for-a-re-reveal-yet-2000705538" target="_blank">Elder Scrolls 6 Is ‘Coming Along Well’ But Still Not Ready For A Re-Reveal Yet</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-11 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/19660529%E5%B4%94%E9%8A%80%E5%A7%AC.jpg?fit=806%2C1200&amp;quality=60&amp;ssl=1" alt="Kim Jong-il had a South Korean actress kidnapped to make him movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/10/kim-jong-il-had-a-south-korean-actress-kidnapped-to-make-him-movies.html" target="_blank">Kim Jong-il had a South Korean actress kidnapped to make him movies</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-10 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/xbox-bad-1280x720.jpg" alt="This Cannot Continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-cannot-continue-xbox-layoffs-2000705049" target="_blank">This Cannot Continue</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-10 22:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,22 +312,13 @@
                 <span class="time">2026-06-11 15:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/10/one-tart-per-million" target="_blank">One Tart Per Million</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-10 19:39</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 38 | 📸 With Images: 236 |
-        🔄 Last Updated: 18:54 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 38 | 📸 With Images: 238 |
+        🔄 Last Updated: 19:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
