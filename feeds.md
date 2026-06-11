@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 00:31:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-11 01:46:13 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 00:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 01:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss" target="_blank">Iran announces closure of Strait of Hormuz following US strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-11 01:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,30 +78,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781131978323_nn_ggu_iran_new_strikes_260610_S3_1920x1080-4isn8u.jpg" alt="U.S. launches ‘self defense’ strikes on Iran after Apache helicopter shot down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/u-s-launches-self-defense-strikes-on-iran-after-apache-helicopter-shot-down-264907845887" target="_blank">U.S. launches ‘self defense’ strikes on Iran after Apache helicopter shot down</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-10 22:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/hegsesth-5-gty-gmh-260505_1777986178427_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US begins strikes after Hegseth promised &#x27;busy&#x27; night" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: US begins strikes after Hegseth promised &#x27;busy&#x27; night</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-10 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-10-ap-gmh-260610_1781109394333_hpMain_4x3t_384.jpg" alt="Trump claims more than 100M barrels of oil, 200 ships gone through Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-claims-100-million-barrels-oil-200-ships/story?id=133759533" target="_blank">Trump claims more than 100M barrels of oil, 200 ships gone through Strait of Hormuz</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-10 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/10/nx-s1-5851587/trump-arch-veterans-arlington-national-cemetery" target="_blank">Veterans and relatives see no place for Trump&#x27;s arch near Arlington National Cemetery</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-10 20:26</span>
             </div>
         </div>
 </div>
@@ -244,6 +242,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/19660529%E5%B4%94%E9%8A%80%E5%A7%AC.jpg?fit=806%2C1200&amp;quality=60&amp;ssl=1" alt="Kim Jong-il had a South Korean actress kidnapped to make him movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/10/kim-jong-il-had-a-south-korean-actress-kidnapped-to-make-him-movies.html" target="_blank">Kim Jong-il had a South Korean actress kidnapped to make him movies</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-10 23:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/xbox-bad-1280x720.jpg" alt="This Cannot Continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-cannot-continue-xbox-layoffs-2000705049" target="_blank">This Cannot Continue</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-10 22:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KTSM8VESNFTHH5TE7RKASF3G/hero-image.png" alt="Sony&#x27;s Lightest Noise-Cancelling Headphones Are Over 50% Off Before Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -277,24 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/airpods-pro-3-deal-early-prime-day-2026?utm_medium=RSS" target="_blank">This Is Your Chance to Get the AirPods Pro 3 for $179</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-10 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Fable-Extended-Gameplay-Demo-4K-1280x720.jpeg" alt="This Is The First Time I’ve Felt Like The New Fable Is A Real Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-is-the-first-time-ive-felt-like-the-new-fable-is-a-real-game-2000704966" target="_blank">This Is The First Time I’ve Felt Like The New Fable Is A Real Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-10 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H4YKF9VWRN57JKZGD7GC2/hero-image.png" alt="How Often You Need to Order From Amazon to Cover the Cost of Prime" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/is-amazon-prime-worth-it?utm_medium=RSS" target="_blank">How Often You Need to Order From Amazon to Cover the Cost of Prime</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-10 17:30</span>
             </div>
         </div>
 </div>
@@ -334,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 230 |
-        🔄 Last Updated: 00:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 232 |
+        🔄 Last Updated: 01:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
