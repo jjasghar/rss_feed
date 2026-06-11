@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 03:01:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-11 05:30:05 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 03:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 05:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +102,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="Nike Promo Codes and Discounts: 30% for June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nike-promo-code/" target="_blank">Nike Promo Codes and Discounts: 30% for June 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-11 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -156,15 +155,6 @@
                 <span class="time">2026-06-10 20:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions" target="_blank">Claude Fable won’t answer basic biology questions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-10 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,10 +172,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hacksafe/the-vibe-coders-pre-launch-security-checklist-25-checks-for-cursor-lovable-bolt-replit-apps-12i" target="_blank">The Vibe Coder&#x27;s Pre-Launch Security Checklist: 25 Checks for Cursor, Lovable, Bolt &amp; Replit Apps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-11 05:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/ReactOS-Running-Half-Life" target="_blank">ReactOS &quot;Open-Source Windows&quot; Reaches The Milestone Of Being Able To Run Half-Life</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-11 00:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/" target="_blank">AI agent runs amok in Fedora and elsewhere</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-11 00:10</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/soytuber/sqlite-on-conflict-do-select-proposal-postgresql-19-features-sqlite-critical-bug-53b1" target="_blank">SQLite `ON CONFLICT DO SELECT` Proposal, PostgreSQL 19 Features &amp; SQLite Critical Bug</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-10 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vagram123/my-journey-as-a-python-backend-developer-5cdf" target="_blank">My Journey as a Python Backend Developer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-10 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Framework-13-Pro-July" target="_blank">Framework Laptop 13 Pro To Begin Shipping In July</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-10 20:10</span>
             </div>
         </div>
 </div>
@@ -338,22 +328,13 @@
                 <span class="time">2026-06-10 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/beam_pipe.png" alt="Beam Pipe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3257/" target="_blank">Beam Pipe</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-06-10 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 03:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 05:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
