@@ -1,31 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 01:46:13 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-11 03:01:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 01:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 03:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Sports/taylor-swift-knicks2_1781138574198_hpMain_4x3t_384.jpg" alt="Taylor Swift, Michael J. Fox and more attend Knicks-Spurs NBA Finals Game 4 at MSG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/taylor-swift-michael-fox-celebrities-attend-knicks-spurs/story?id=133760499" target="_blank">Taylor Swift, Michael J. Fox and more attend Knicks-Spurs NBA Finals Game 4 at MSG</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-11 02:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de8b/live/3a5bcf80-653a-11f1-8930-2fc51b460c39.jpg" alt="Tehran targets US Gulf bases after American forces launch new strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss" target="_blank">Tehran targets US Gulf bases after American forces launch new strikes on Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-11 01:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +104,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/10/g-s1-127381/fbi-garden-grove-chemical-tank-evacuations" target="_blank">FBI seizing evidence at California plant where chemical tank overheated</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-10 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781131978323_nn_ggu_iran_new_strikes_260610_S3_1920x1080-4isn8u.jpg" alt="U.S. launches ‘self defense’ strikes on Iran after Apache helicopter shot down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/u-s-launches-self-defense-strikes-on-iran-after-apache-helicopter-shot-down-264907845887" target="_blank">U.S. launches ‘self defense’ strikes on Iran after Apache helicopter shot down</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-10 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/hegsesth-5-gty-gmh-260505_1777986178427_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US begins strikes after Hegseth promised &#x27;busy&#x27; night" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: US begins strikes after Hegseth promised &#x27;busy&#x27; night</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-10 22:17</span>
             </div>
         </div>
 </div>
@@ -171,6 +182,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ReactOS-Running-Half-Life" target="_blank">ReactOS &quot;Open-Source Windows&quot; Reaches The Milestone Of Being Able To Run Half-Life</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-11 00:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vultr/deploying-vector-high-performance-observability-data-pipeline-on-ubuntu-2404-id4" target="_blank">Deploying Vector High-Performance Observability Data Pipeline on Ubuntu 24.04</a></span>
                 <span class="feed">DEV Community</span>
@@ -202,15 +222,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Framework-13-Pro-July" target="_blank">Framework Laptop 13 Pro To Begin Shipping In July</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-10 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/postgresql-pg-durable/en/headerimage/pg-durable-postgresql-1781118113073.jpeg" alt="Microsoft Open-Sources PostgreSQL Extension for In-Database Durable Execution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/postgresql-pg-durable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Open-Sources PostgreSQL Extension for In-Database Durable Execution</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-10 20:00</span>
             </div>
         </div>
 </div>
@@ -327,13 +338,22 @@
                 <span class="time">2026-06-10 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/beam_pipe.png" alt="Beam Pipe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3257/" target="_blank">Beam Pipe</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-06-10 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 232 |
-        🔄 Last Updated: 01:46 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 03:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
