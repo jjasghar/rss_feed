@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 11:27:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-11 13:08:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 11:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/US-Gulf-DB-260611_1781179412537_hpMain_2_4x3t_384.jpg" alt="Iran live updates: CENTCOM says it fired at oil tanker in Gulf of Oman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: CENTCOM says it fired at oil tanker in Gulf of Oman</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-11 12:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/11/did-us-sneak-100-million-barrels-of-oil-out-of-hormuz-as-trump-claims?traffic_source=rss" target="_blank">Did US sneak 100 million barrels of oil out of Hormuz, as Trump claims?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-11 12:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781176508331_tdy_news_7a_engel_us_iran_260611_S3_1920x1080-myzkov.jpg" alt="Fears of All Out War Grow as US-Iran Strikes Continue to Intensify" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/fears-of-all-out-war-grow-as-us-iran-strikes-continue-to-intensify-264927813646" target="_blank">Fears of All Out War Grow as US-Iran Strikes Continue to Intensify</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-11 11:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,39 +93,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/11/world-cup-day-1-schedule-predictions-opening-ceremony-and-what-to-watch?traffic_source=rss" target="_blank">World Cup Day 1: Schedule, predictions, opening ceremony and what to watch</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-11 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc34/live/e75b39d0-655f-11f1-a1f9-afd6f3de9cfa.jpg" alt="US and Iran exchange strikes across Middle East for second day in a row" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran exchange strikes across Middle East for second day in a row</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-11 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/11/g-s1-127411/amnesty-israel-west-bank" target="_blank">Amnesty accuses Israel&#x27;s government of &#x27;ethnic cleansing&#x27; of West Bank Palestinians</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-11 06:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b759/live/27374c70-655f-11f1-8546-8f19e4fe30f4.jpg" alt="Met Police calls on tech firms to make stolen phones unusable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e33/live/31d52750-6583-11f1-8546-8f19e4fe30f4.jpg" alt="Nearly 3,000 patients a day in England face corridor care in NHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg4dey905yo?at_medium=RSS&at_campaign=rss" target="_blank">Met Police calls on tech firms to make stolen phones unusable</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp3657re2epo?at_medium=RSS&at_campaign=rss" target="_blank">Nearly 3,000 patients a day in England face corridor care in NHS</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-06-11 05:44</span>
+                <span class="time">2026-06-11 09:08</span>
             </div>
         </div>
 </div>
@@ -106,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/948181/cash-app-mobile" target="_blank">Cash App’s launching a phone service</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-11 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/" target="_blank">Anthropic taps TCS to scale its enterprise AI deployments</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-11 11:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a29bb8775e765238d4ab085/master/pass/The-Best-Portable-Monitors-for-Taking-Work-on-the-Go.jpg" alt="Best Portable Monitors (2026): Add a Second Screen I&#x27;ve Tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +160,6 @@
                 <span class="time">2026-06-11 04:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit" target="_blank">Bluesky is getting ‘communities’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-11 00:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/" target="_blank">xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-10 22:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +175,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ai_made_tools/ai-dev-weekly-14-claude-fable-5-controversy-diffusiongemma-breaks-text-generation-apple-3m5a" target="_blank">AI Dev Weekly #14: Claude Fable 5 Controversy, DiffusionGemma Breaks Text Generation, Apple Rebuilds Siri</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-11 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17359462/doclang-new-open-document-standard-for-ai" target="_blank">DCOX, PDFs Were Not Built for AI. This New Open Standard Wants to Change That</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-11 12:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/06/platform-project-as-a-service/en/headerimage/platform-project-service-header-1780921018125.jpg" alt="Building and Scaling a Platform with Project-as-a-Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -186,37 +204,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/the-next-era-of-telco-clouds-get-open-infrastructure-choice-with-sylva-and-canonical-kubernetes" target="_blank">The next era of telco clouds: get open infrastructure choice with Sylva and Canonical Kubernetes</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-11 10:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Open-Image-Denoise-2.5" target="_blank">Intel&#x27;s Open Image Denoise 2.5 Delivers Solid Performance Improvements For GPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-11 10:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nometria_vibecoding/building-ai-infrastructure-that-actually-scales-in-production-23ki" target="_blank">Building AI Infrastructure That Actually Scales in Production</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-11 09:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/internal-tools-meta/en/mediumimage/cindy-zhang-medium-1780058648048.jpg" alt="Presentation: Building and Scaling UI Systems for Internal Tools at Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/internal-tools-meta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Building and Scaling UI Systems for Internal Tools at Meta</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-11 09:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/06/11/engineering-leadership-zero-cost-code/" target="_blank">When the cost of code approaches zero, what does engineering leadership look like?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‌‌​﻿‌﻿​﻿‌‌‌‍‌‌‌‍‌‍‌‍‌‌​﻿​​​‍﻿‌​﻿‌﻿‌‍‌‍​﻿‍​​﻿‍‌​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‍​​﻿‌‌​﻿‌﻿​﻿‍​​‍﻿‌​﻿‍‌‌‍​﻿​﻿‌​‌‍​‍​﻿‍​​﻿​‌​﻿‍‌‌‍‌‍‌‍‌‍‌‍‌‍​﻿‌‍‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‌‌​﻿‌﻿​﻿‌‌‌‍‌‌‌‍‌‍‌‍‌‌​﻿​​​‍﻿‌​﻿‌﻿‌‍‌‍​﻿‍​​﻿‍‌​‍﻿‌​﻿‌​​﻿​‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‍​​﻿‌‌​﻿‌﻿​﻿‍​​‍﻿‌​﻿‍‌‌‍​﻿​﻿‌​‌‍​‍​﻿‍​​﻿​‌​﻿‍‌‌‍‌‍‌‍‌‍‌‍‌‍​﻿‌‍‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-06-11 07:40</span>
             </div>
         </div>
 </div>
@@ -238,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/04/86468eaa879002d683b233fb9dc5cb42.jpg" alt="Elder Scrolls 6 Is ‘Coming Along Well’ But Still Not Ready For A Re-Reveal Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elder-scrolls-6-is-coming-along-well-but-still-not-ready-for-a-re-reveal-yet-2000705538" target="_blank">Elder Scrolls 6 Is ‘Coming Along Well’ But Still Not Ready For A Re-Reveal Yet</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-11 12:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/19660529%E5%B4%94%E9%8A%80%E5%A7%AC.jpg?fit=806%2C1200&amp;quality=60&amp;ssl=1" alt="Kim Jong-il had a South Korean actress kidnapped to make him movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +292,6 @@
                 <span class="time">2026-06-10 20:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEFGV810HZDZJX0870BHJ3X4/hero-image.png" alt="This Is Your Chance to Get the AirPods Pro 3 for $179" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/airpods-pro-3-deal-early-prime-day-2026?utm_medium=RSS" target="_blank">This Is Your Chance to Get the AirPods Pro 3 for $179</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-10 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 233 |
-        🔄 Last Updated: 11:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 233 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
