@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 19:49:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-11 20:44:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 19:49 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 20:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros?traffic_source=rss" target="_blank">Trump administration sanctions Cuba’s national oil company, blasts Castros</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-11 20:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes" target="_blank">Trump now says a peace deal will be announced &#x27;soon,&#x27; cancels further strikes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-11 20:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/430/115/46485417411-1080pnbcstations.jpg" alt="Julián Quiñones anota el primer gol del Mundial para México" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/julian-quinones-anota-el-primer-gol-del-mundial-para-mexico-tmvo13193114" target="_blank">Julián Quiñones anota el primer gol del Mundial para México</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-11 19:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-1-epa-gmh-260611_1781181637844_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says he canceled strikes against Iran as talks proceed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -71,38 +102,29 @@
                 <span class="time">2026-06-11 18:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/11/toronto-police-officer-shot-while-investigating-attack-on-us-consulate?traffic_source=rss" target="_blank">Toronto police officer shot while investigating attack on US consulate</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-11 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/11/nx-s1-5853489/ebola-testing-has-improved-in-drc-but-still-isnt-nearly-enough" target="_blank">Ebola testing has improved in DRC, but still isn&#x27;t nearly enough</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-11 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk" target="_blank">Taiwan opposition leader says Xi meeting avoided &#x27;reunification&#x27; talk</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-11 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/" target="_blank">SpaceX officially prices shares at $135 in the largest IPO ever</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-11 20:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal" target="_blank">Logitech’s awesome MX Master 3S mouse drops to under $100</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-11 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/ted-cruz-ron-wyden-500x500-1781205347.jpg" alt="Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +161,6 @@
                 <span class="time">2026-06-11 15:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/xbox-dominoes-500x500-1781185324.jpg" alt="&quot;This cannot continue&quot;: Xbox leaders lay out &quot;hard truths&quot; behind sagging brand" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/" target="_blank">&quot;This cannot continue&quot;: Xbox leaders lay out &quot;hard truths&quot; behind sagging brand</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-11 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/948181/cash-app-mobile" target="_blank">Cash App’s launching a phone service</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-11 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +173,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/ansible-automation-platform-27-visual-execution-environment-builder-and-content-discovery-guide" target="_blank">Ansible Automation Platform 2.7: Visual Execution Environment Builder and Content Discovery Guide</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-06-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/statekeep/we-proved-deterministic-actor-migration-is-possible-for-xstate-heres-the-model-5708" target="_blank">We Proved Deterministic Actor Migration Is Possible for XState — Here&#x27;s the Model</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-11 20:38</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +220,6 @@
                 <span class="time">2026-06-11 17:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/" target="_blank">Making secret scanning more trustworthy: Reducing false positives at scale</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-11 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/gearsedday-marcus-1280x720.jpg" alt="Everything We Know About Gears Of War: E-Day, Xbox’s Big Exclusive For 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/everything-we-know-about-gears-of-war-e-day-xboxs-big-exclusive-for-2026-2000705633" target="_blank">Everything We Know About Gears Of War: E-Day, Xbox’s Big Exclusive For 2026</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-11 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HZJ28365XRRTQA8KWBKERDTN/hero-image.jpg" alt="Does &#x27;Fasted Cardio&#x27; Actually Burn More Calories and Fat?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/does-fasted-cardio-burn-more-fat?utm_medium=RSS" target="_blank">Does &#x27;Fasted Cardio&#x27; Actually Burn More Calories and Fat?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-11 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/1000008269-1280x720.jpg" alt="It’s Time To Admit Zelda: Ocarina Of Time’s Water Temple Is Good, Actually" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +293,6 @@
                 <span class="time">2026-06-11 18:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTVJZZ86T2WYM67NDYC40F7H/hero-image.jpg" alt="You Can Skip the Waitlist and Get Siri AI on Your MacBook Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/skip-the-line-for-siri-ai-macos-27-beta?utm_medium=RSS" target="_blank">You Can Skip the Waitlist and Get Siri AI on Your MacBook Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-11 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/cide-veribcua-1280x750.jpg" alt="Capcom Explains Why Resident Evil Veronica Is So Important And What Fans Should Expect From The RE2-Style Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evil-code-veronica-remake-timeline-dreamcast-claire-2000704967" target="_blank">Capcom Explains Why Resident Evil Veronica Is So Important And What Fans Should Expect From The RE2-Style Remake</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-11 15:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 38 | 📸 With Images: 238 |
-        🔄 Last Updated: 19:49 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 20:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
