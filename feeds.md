@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 21:38:08 UTC -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-06-11 22:32:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 21:38 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 22:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a7/live/81060f90-65da-11f1-94fa-99c9438be586.jpg" alt="Armed forces minister quits after Healey exit as defence funding row deepens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gyp8n7g3go?at_medium=RSS&at_campaign=rss" target="_blank">Armed forces minister quits after Healey exit as defence funding row deepens</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-11 21:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-8-epa-gmh-260611_1781211508092_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says agreement with Iran could be signed this weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +96,20 @@
                 <span class="time">2026-06-11 19:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/430/115/46485417411-1080pnbcstations.jpg" alt="Julián Quiñones anota el primer gol del Mundial para México" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/julian-quinones-anota-el-primer-gol-del-mundial-para-mexico-tmvo13193114" target="_blank">Julián Quiñones anota el primer gol del Mundial para México</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-11 19:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a2abdf12915c6817b50fffe/master/pass/IMG_0958.jpeg" alt="‘Hands Off Our NHS’: Anti-Palantir Protests Break Out in UK Over Deal With National Health Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/palantir-protests-nhs-conference-uk/" target="_blank">‘Hands Off Our NHS’: Anti-Palantir Protests Break Out in UK Over Deal With National Health Service</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-11 21:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a29dcf7d0be49584df640a0/master/pass/Model-Behavior-OpenAI-Codex-Lead-Tibo-Sottiaux-Business.jpg" alt="Meet the OpenAI Engineer Leading ChatGPT&#x27;s Biggest Transformation Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale" target="_blank">Blink’s six-piece outdoor camera kit is a great deal under $200</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-11 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a29cf6c5fb28d50a6268e83/master/pass/Spotify-Hosted-Podcasts-That-Pushed-Drugs-and-Scams-Business.jpg" alt="Drug Sites Hijacked Spotify’s Search Ranking Through Fake Podcasts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/drug-sites-hijacked-spotifys-search-ranking-through-fake-podcasts-report-finds/" target="_blank">Drug Sites Hijacked Spotify’s Search Ranking Through Fake Podcasts</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-11 16:07</span>
             </div>
         </div>
 </div>
@@ -241,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/dr5-keyart-YzI66DkClTeJ5jBQ-1280x720.jpg" alt="Deltarune’s Baffling ARG Just Updated Again, And Exactly 1,229 Specific People Are Able To Solve It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/deltarune-arg-1229-people-chapter-5-2000705668" target="_blank">Deltarune’s Baffling ARG Just Updated Again, And Exactly 1,229 Specific People Are Able To Solve It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-11 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/gearsedday-marcus-1280x720.jpg" alt="Everything We Know About Gears Of War: E-Day, Xbox’s Big Exclusive For 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -285,15 +287,6 @@
                 <span class="time">2026-06-11 18:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTVXQMWN24THYK6TK5NZ1SK2/hero-image.png" alt="This Woot Deal Is the Cheapest Way to Get the Nintendo Switch 2 Before Prices Go Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/nintendo-switch-2-deal-june-2026?utm_medium=RSS" target="_blank">This Woot Deal Is the Cheapest Way to Get the Nintendo Switch 2 Before Prices Go Up</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-11 18:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 21:38 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 22:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
