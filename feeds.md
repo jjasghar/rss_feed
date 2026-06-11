@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 13:08:23 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-11 15:06:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 13:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 15:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-10-ap-gmh-260610_1781109394333_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US will hit Iran &#x27;very hard tonight&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says US will hit Iran &#x27;very hard tonight&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-11 13:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/US-Gulf-DB-260611_1781179412537_hpMain_2_4x3t_384.jpg" alt="Iran live updates: CENTCOM says it fired at oil tanker in Gulf of Oman" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +96,6 @@
                 <span class="time">2026-06-11 11:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e33/live/31d52750-6583-11f1-8546-8f19e4fe30f4.jpg" alt="Nearly 3,000 patients a day in England face corridor care in NHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp3657re2epo?at_medium=RSS&at_campaign=rss" target="_blank">Nearly 3,000 patients a day in England face corridor care in NHS</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-11 09:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,9 +105,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/948292/nintendo-switch-2-deal-sale-woot" target="_blank">The Nintendo Switch 2 is $15 off at Woot</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-11 15:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/xbox-dominoes-500x500-1781185324.jpg" alt="&quot;This cannot continue&quot;: Xbox leaders lay out &quot;hard truths&quot; behind sagging brand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/" target="_blank">&quot;This cannot continue&quot;: Xbox leaders lay out &quot;hard truths&quot; behind sagging brand</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-11 13:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/948181/cash-app-mobile" target="_blank">Cash App’s launching a phone service</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-11 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a29e83ec33929cf4244d286/master/pass/The-Best-Smart-Chess-Boards.jpg" alt="Best Smart Chess Boards (2026): Chessnut, Millennium" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-smart-chess-boards/" target="_blank">Best Smart Chess Boards (2026): Chessnut, Millennium</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-11 12:01</span>
             </div>
         </div>
 <div class="story">
@@ -133,33 +155,6 @@
                 <span class="time">2026-06-11 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro" target="_blank">iFixit Trump phone teardown confirms it’s an HTC dupe</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-11 10:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="Nike Promo Codes and Discounts: 30% for June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nike-promo-code/" target="_blank">Nike Promo Codes and Discounts: 30% for June 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-11 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/" target="_blank">Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-11 04:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +167,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/ansible-automation-platform-27-visual-execution-environment-builder-and-content-discovery-guide" target="_blank">Ansible Automation Platform 2.7: Visual Execution Environment Builder and Content Discovery Guide</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-06-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/phpcraftdream/ktav-i-got-fed-up-with-every-config-format-so-i-built-one-with-no-quotes-no-commas-no-54an" target="_blank">Ktav: I got fed up with every config format, so I built one with no quotes, no commas, no indentation hell</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-11 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17359527/foss-weekly-26-24" target="_blank">FOSS Weekly #26.24: Dank Linux Review, BitWarden Alternative, Mint Tips (And an Important Message)</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-11 14:27</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +214,6 @@
                 <span class="time">2026-06-11 11:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/the-next-era-of-telco-clouds-get-open-infrastructure-choice-with-sylva-and-canonical-kubernetes" target="_blank">The next era of telco clouds: get open infrastructure choice with Sylva and Canonical Kubernetes</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-11 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Open-Image-Denoise-2.5" target="_blank">Intel&#x27;s Open Image Denoise 2.5 Delivers Solid Performance Improvements For GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-11 10:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,10 +222,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank">Who Runs the Ransomware Group ‘The Gentlemen?’</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-06-10 14:03</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html" target="_blank">Enhanced License Plate Tracking</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-11 11:01</span>
             </div>
         </div>
 </div>
@@ -238,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/cide-veribcua-1280x750.jpg" alt="Capcom Explains Why Resident Evil Veronica Is So Important And What Fans Should Expect From The RE2-Style Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-code-veronica-remake-timeline-dreamcast-claire-2000704967" target="_blank">Capcom Explains Why Resident Evil Veronica Is So Important And What Fans Should Expect From The RE2-Style Remake</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-11 15:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/04/86468eaa879002d683b233fb9dc5cb42.jpg" alt="Elder Scrolls 6 Is ‘Coming Along Well’ But Still Not Ready For A Re-Reveal Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +287,6 @@
                 <span class="time">2026-06-10 21:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/IMG_2874-e1781122858773.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Tomatoes do not need to die on the vine for flavor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/10/tomatoes-do-not-need-to-die-on-the-vine-for-flavor.html" target="_blank">Tomatoes do not need to die on the vine for flavor</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-10 20:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 233 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 15:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
