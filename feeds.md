@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 15:06:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-11 17:09:30 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 15:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 17:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk" target="_blank">Taiwan opposition leader says Xi meeting avoided &#x27;reunification&#x27; talk</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-11 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/6/11/gold-is-now-the-top-reserve-asset-is-dollar-dominance-at-risk?traffic_source=rss" target="_blank">Gold is now the top reserve asset. Is dollar dominance at risk?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-11 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady" target="_blank">London council seizes social housing flat rented by Sierra Leone first lady</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-11 15:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-10-ap-gmh-260610_1781109394333_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US will hit Iran &#x27;very hard tonight&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,38 +95,20 @@
                 <span class="time">2026-06-11 12:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781176508331_tdy_news_7a_engel_us_iran_260611_S3_1920x1080-myzkov.jpg" alt="Fears of All Out War Grow as US-Iran Strikes Continue to Intensify" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/fears-of-all-out-war-grow-as-us-iran-strikes-continue-to-intensify-264927813646" target="_blank">Fears of All Out War Grow as US-Iran Strikes Continue to Intensify</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-11 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/11/g-s1-127423/up-first-newsletter-us-iran-war-inflation-rates-world-cup" target="_blank">U.S. launches second day of Iran strikes. And, World Cup facts to know before kickoff</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-11 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/centcom-6-10_1781141211973_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran says overnight US strikes render ceasefire &#x27;meaningless&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Tehran says overnight US strikes render ceasefire &#x27;meaningless&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-11 11:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a29cf6c5fb28d50a6268e83/master/pass/Spotify-Hosted-Podcasts-That-Pushed-Drugs-and-Scams-Business.jpg" alt="Drug Sites Hijacked Spotify’s Search Ranking Through Fake Podcasts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/drug-sites-hijacked-spotifys-search-ranking-through-fake-podcasts-report-finds/" target="_blank">Drug Sites Hijacked Spotify’s Search Ranking Through Fake Podcasts</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-11 16:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +154,6 @@
                 <span class="time">2026-06-11 11:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a29bb8775e765238d4ab085/master/pass/The-Best-Portable-Monitors-for-Taking-Work-on-the-Go.jpg" alt="Best Portable Monitors (2026): Add a Second Screen I&#x27;ve Tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-portable-monitors/" target="_blank">Best Portable Monitors (2026): Add a Second Screen I&#x27;ve Tested</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-11 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +166,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/ansible-automation-platform-27-visual-execution-environment-builder-and-content-discovery-guide" target="_blank">Ansible Automation Platform 2.7: Visual Execution Environment Builder and Content Discovery Guide</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-06-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jonas1015/how-i-stopped-re-resolving-dependencies-without-rewriting-pip-1jkp" target="_blank">How I stopped re-resolving dependencies without rewriting pip</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-11 17:02</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +213,6 @@
                 <span class="time">2026-06-11 12:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/platform-project-as-a-service/en/headerimage/platform-project-service-header-1780921018125.jpg" alt="Building and Scaling a Platform with Project-as-a-Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/platform-project-as-a-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Building and Scaling a Platform with Project-as-a-Service</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-11 11:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTVJZZ86T2WYM67NDYC40F7H/hero-image.jpg" alt="You Can Skip the Waitlist and Get Siri AI on Your MacBook Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/skip-the-line-for-siri-ai-macos-27-beta?utm_medium=RSS" target="_blank">You Can Skip the Waitlist and Get Siri AI on Your MacBook Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-11 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/cide-veribcua-1280x750.jpg" alt="Capcom Explains Why Resident Evil Veronica Is So Important And What Fans Should Expect From The RE2-Style Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +286,6 @@
                 <span class="time">2026-06-10 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/The-latest-Xbox-logo-1280x720.jpg" alt="Xbox Will Reportedly Undergo Major Layoffs Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-reportedly-major-layoffs-next-month-2000705023" target="_blank">Xbox Will Reportedly Undergo Major Layoffs Next Month</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-10 21:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,22 +300,13 @@
                 <span class="time">2026-06-10 19:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1780969413-20260610.png" alt="Saturday Morning Breakfast Cereal - Surveil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/surveil" target="_blank">Saturday Morning Breakfast Cereal - Surveil</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-10 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 15:06 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 17:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
