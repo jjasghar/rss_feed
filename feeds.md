@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 20:44:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-11 21:38:08 UTC -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 20:45 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 21:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-8-epa-gmh-260611_1781211508092_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says agreement with Iran could be signed this weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says agreement with Iran could be signed this weekend</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-11 21:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +103,20 @@
                 <span class="time">2026-06-11 19:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-epa-gmh-260611_1781181637844_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says he canceled strikes against Iran as talks proceed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says he canceled strikes against Iran as talks proceed</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-11 18:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a29dcf7d0be49584df640a0/master/pass/Model-Behavior-OpenAI-Codex-Lead-Tibo-Sottiaux-Business.jpg" alt="Meet the OpenAI Engineer Leading ChatGPT&#x27;s Biggest Transformation Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/" target="_blank">Meet the OpenAI Engineer Leading ChatGPT&#x27;s Biggest Transformation Yet</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-11 21:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +162,6 @@
                 <span class="time">2026-06-11 16:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/948292/nintendo-switch-2-deal-sale-woot" target="_blank">The Nintendo Switch 2 is $15 off at Woot</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-11 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +174,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/ansible-automation-platform-27-visual-execution-environment-builder-and-content-discovery-guide" target="_blank">Ansible Automation Platform 2.7: Visual Execution Environment Builder and Content Discovery Guide</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-06-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-may-2026/" target="_blank">GitHub availability report: May 2026</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-11 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dsplce-co/how-to-see-running-queries-in-postgres-and-kill-them-j5i" target="_blank">How to see running queries in Postgres and kill them</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-11 21:28</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +219,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/libreoffice-tabbed-ui-backgrounds" target="_blank">LibreOffice gives its Ribbon-style UI a pop of colour</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-06-11 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.2-Preps-AMD-GFX1156" target="_blank">Mesa 26.2 Preps For AMD GFX1156 For New, Post-Strix-Halo RDNA 3.5 Graphics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-11 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jonas1015/how-i-stopped-re-resolving-dependencies-without-rewriting-pip-1jkp" target="_blank">How I stopped re-resolving dependencies without rewriting pip</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-11 17:02</span>
             </div>
         </div>
 </div>
@@ -321,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 20:45 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 21:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
