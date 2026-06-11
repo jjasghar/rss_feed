@@ -1,32 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 05:30:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-11 07:31:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 05:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 07:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/11/g-s1-127411/amnesty-israel-west-bank" target="_blank">Amnesty accuses Israel&#x27;s government of &#x27;ethnic cleansing&#x27; of West Bank Palestinians</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-11 06:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b759/live/27374c70-655f-11f1-8546-8f19e4fe30f4.jpg" alt="Met Police calls on tech firms to make stolen phones unusable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg4dey905yo?at_medium=RSS&at_campaign=rss" target="_blank">Met Police calls on tech firms to make stolen phones unusable</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-11 05:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Sports/NBAFinalsSpursKnicksBasketball_1781150436942_hpMain_4x3t_384.jpg" alt="New York Knicks make record comeback to beat San Antonio Spurs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/taylor-swift-michael-fox-celebrities-attend-knicks-spurs/story?id=133760499" target="_blank">New York Knicks make record comeback to beat San Antonio Spurs</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-11 04:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Sports/taylor-swift-knicks2_1781138574198_hpMain_4x3t_384.jpg" alt="Taylor Swift, Michael J. Fox and more attend Knicks-Spurs NBA Finals Game 4 at MSG" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,33 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss" target="_blank">Iran announces closure of Strait of Hormuz following US strikes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-11 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss" target="_blank">Iran war live: US launches attacks on ‘multiple’ Iranian targets</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-11 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/10/trial-begins-for-man-accused-of-sparking-palisades-fire-in-california?traffic_source=rss" target="_blank">Trial begins for man accused of sparking Palisades Fire in California</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-10 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/10/g-s1-127381/fbi-garden-grove-chemical-tank-evacuations" target="_blank">FBI seizing evidence at California plant where chemical tank overheated</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-10 23:05</span>
             </div>
         </div>
 </div>
@@ -319,22 +329,13 @@
                 <span class="time">2026-06-10 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/10/one-tart-per-million" target="_blank">One Tart Per Million</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-10 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 05:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 07:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
