@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 17:09:30 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-06-11 18:54:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 13 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 17:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 18:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/11/toronto-police-officer-shot-while-investigating-attack-on-us-consulate?traffic_source=rss" target="_blank">Toronto police officer shot while investigating attack on US consulate</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-11 18:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/11/nx-s1-5853489/ebola-testing-has-improved-in-drc-but-still-isnt-nearly-enough" target="_blank">Ebola testing has improved in DRC, but still isn&#x27;t nearly enough</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-11 18:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +102,20 @@
                 <span class="time">2026-06-11 13:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/US-Gulf-DB-260611_1781179412537_hpMain_2_4x3t_384.jpg" alt="Iran live updates: CENTCOM says it fired at oil tanker in Gulf of Oman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: CENTCOM says it fired at oil tanker in Gulf of Oman</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-11 12:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/11/did-us-sneak-100-million-barrels-of-oil-out-of-hormuz-as-trump-claims?traffic_source=rss" target="_blank">Did US sneak 100 million barrels of oil out of Hormuz, as Trump claims?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-11 12:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale" target="_blank">Blink’s six-piece outdoor camera kit is a great deal under $200</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-11 18:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a29cf6c5fb28d50a6268e83/master/pass/Spotify-Hosted-Podcasts-That-Pushed-Drugs-and-Scams-Business.jpg" alt="Drug Sites Hijacked Spotify’s Search Ranking Through Fake Podcasts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +161,6 @@
                 <span class="time">2026-06-11 12:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/" target="_blank">Anthropic taps TCS to scale its enterprise AI deployments</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-11 11:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,12 +176,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/libreoffice-hero.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice gives its Ribbon-style UI a pop of colour" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/libreoffice-tabbed-ui-backgrounds" target="_blank">LibreOffice gives its Ribbon-style UI a pop of colour</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-11 18:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jonas1015/how-i-stopped-re-resolving-dependencies-without-rewriting-pip-1jkp" target="_blank">How I stopped re-resolving dependencies without rewriting pip</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-11 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/" target="_blank">Making secret scanning more trustworthy: Reducing false positives at scale</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-11 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +218,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17359527/foss-weekly-26-24" target="_blank">FOSS Weekly #26.24: Dank Linux Review, BitWarden Alternative, Mint Tips (And an Important Message)</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-06-11 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ai_made_tools/ai-dev-weekly-14-claude-fable-5-controversy-diffusiongemma-breaks-text-generation-apple-3m5a" target="_blank">AI Dev Weekly #14: Claude Fable 5 Controversy, DiffusionGemma Breaks Text Generation, Apple Rebuilds Siri</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-11 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17359462/doclang-new-open-document-standard-for-ai" target="_blank">DCOX, PDFs Were Not Built for AI. This New Open Standard Wants to Change That</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-11 12:24</span>
             </div>
         </div>
 </div>
@@ -232,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTVXQMWN24THYK6TK5NZ1SK2/hero-image.png" alt="This Woot Deal Is the Cheapest Way to Get the Nintendo Switch 2 Before Prices Go Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/nintendo-switch-2-deal-june-2026?utm_medium=RSS" target="_blank">This Woot Deal Is the Cheapest Way to Get the Nintendo Switch 2 Before Prices Go Up</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-11 18:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KTVJZZ86T2WYM67NDYC40F7H/hero-image.jpg" alt="You Can Skip the Waitlist and Get Siri AI on Your MacBook Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,20 +293,29 @@
                 <span class="time">2026-06-10 22:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTSM8VESNFTHH5TE7RKASF3G/hero-image.png" alt="Sony&#x27;s Lightest Noise-Cancelling Headphones Are Over 50% Off Before Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/sony-headphones-deal-prime-day-2026?utm_medium=RSS" target="_blank">Sony&#x27;s Lightest Noise-Cancelling Headphones Are Over 50% Off Before Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-10 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1780969506-20260611.png" alt="Saturday Morning Breakfast Cereal - Huh" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/huh-2" target="_blank">Saturday Morning Breakfast Cereal - Huh</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-11 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/lived-here/" target="_blank">Lived Here</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-06-11 15:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -305,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 17:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 38 | 📸 With Images: 236 |
+        🔄 Last Updated: 18:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
