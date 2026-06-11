@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 22:32:12 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-06-11 23:28:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 22:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 23:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +110,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign" target="_blank">Amazon&amp;#8217;s Echo Hub gets a customizable new look and Ring&amp;#8217;s AI features</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-11 22:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a2abdf12915c6817b50fffe/master/pass/IMG_0958.jpeg" alt="‘Hands Off Our NHS’: Anti-Palantir Protests Break Out in UK Over Deal With National Health Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -146,15 +163,6 @@
                 <span class="time">2026-06-11 19:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale" target="_blank">Blink’s six-piece outdoor camera kit is a great deal under $200</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-11 18:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +175,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/ansible-automation-platform-27-visual-execution-environment-builder-and-content-discovery-guide" target="_blank">Ansible Automation Platform 2.7: Visual Execution Environment Builder and Content Discovery Guide</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-06-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tombedor.dev/human-attention-and-human-effort/" target="_blank">If You Are Asking for Human Attention, Demonstrate Human Effort</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-11 23:01</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +222,6 @@
                 <span class="time">2026-06-11 19:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/libreoffice-hero.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice gives its Ribbon-style UI a pop of colour" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/libreoffice-tabbed-ui-backgrounds" target="_blank">LibreOffice gives its Ribbon-style UI a pop of colour</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-11 18:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +248,15 @@
                 <span class="title"><a href="https://kotaku.com/deltarune-arg-1229-people-chapter-5-2000705668" target="_blank">Deltarune’s Baffling ARG Just Updated Again, And Exactly 1,229 Specific People Are Able To Solve It</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-11 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/Carnival-1.jpeg?fit=1080%2C528&amp;quality=60&amp;ssl=1" alt="Scammers are already using the hantavirus to fleece people" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/11/scammers-are-already-using-the-hantavirus-to-fleece-people.html" target="_blank">Scammers are already using the hantavirus to fleece people</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-11 21:46</span>
             </div>
         </div>
 <div class="story">
@@ -278,15 +295,6 @@
                 <span class="time">2026-06-11 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/giant-rock.jpg?fit=1500%2C1125&amp;quality=60&amp;ssl=1" alt="Estonian supermarket built around a 10,000-year-old Ice Age boulder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/11/estonian-supermarket-built-around-a-10000-year-old-ice-age-boulder.html" target="_blank">Estonian supermarket built around a 10,000-year-old Ice Age boulder</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-11 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,7 +324,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 22:32 UTC
+        🔄 Last Updated: 23:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
