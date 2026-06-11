@@ -1,42 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 07:31:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-11 09:22:56 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 07:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, June 11, 2026 - 09:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/11/world-cup-day-1-schedule-predictions-opening-ceremony-and-what-to-watch?traffic_source=rss" target="_blank">World Cup Day 1: Schedule, predictions, opening ceremony and what to watch</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-11 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc34/live/e75b39d0-655f-11f1-a1f9-afd6f3de9cfa.jpg" alt="US and Iran exchange strikes across Middle East for second day in a row" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran exchange strikes across Middle East for second day in a row</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-11 08:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,24 +91,6 @@
                 <span class="title"><a href="https://abcnews.com/GMA/Culture/taylor-swift-michael-fox-celebrities-attend-knicks-spurs/story?id=133760499" target="_blank">Taylor Swift, Michael J. Fox and more attend Knicks-Spurs NBA Finals Game 4 at MSG</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-11 02:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de8b/live/3a5bcf80-653a-11f1-8930-2fc51b460c39.jpg" alt="Tehran targets US Gulf bases after American forces launch new strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss" target="_blank">Tehran targets US Gulf bases after American forces launch new strikes on Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-11 01:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss" target="_blank">Iran announces closure of Strait of Hormuz following US strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-11 01:18</span>
             </div>
         </div>
 </div>
@@ -183,6 +170,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nometria_vibecoding/building-ai-infrastructure-that-actually-scales-in-production-23ki" target="_blank">Building AI Infrastructure That Actually Scales in Production</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-11 09:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/internal-tools-meta/en/mediumimage/cindy-zhang-medium-1780058648048.jpg" alt="Presentation: Building and Scaling UI Systems for Internal Tools at Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/internal-tools-meta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Building and Scaling UI Systems for Internal Tools at Meta</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-11 09:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hacksafe/the-vibe-coders-pre-launch-security-checklist-25-checks-for-cursor-lovable-bolt-replit-apps-12i" target="_blank">The Vibe Coder&#x27;s Pre-Launch Security Checklist: 25 Checks for Cursor, Lovable, Bolt &amp; Replit Apps</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-11 05:22</span>
@@ -204,24 +209,6 @@
                 <span class="title"><a href="https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/" target="_blank">AI agent runs amok in Fedora and elsewhere</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-11 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vultr/deploying-vector-high-performance-observability-data-pipeline-on-ubuntu-2404-id4" target="_blank">Deploying Vector High-Performance Observability Data Pipeline on Ubuntu 24.04</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-10 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/soytuber/sqlite-on-conflict-do-select-proposal-postgresql-19-features-sqlite-critical-bug-53b1" target="_blank">SQLite `ON CONFLICT DO SELECT` Proposal, PostgreSQL 19 Features &amp; SQLite Critical Bug</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-10 21:35</span>
             </div>
         </div>
 </div>
@@ -334,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 07:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 09:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
