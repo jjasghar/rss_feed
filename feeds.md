@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-12 21:30:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-12 22:28:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, June 12, 2026 - 21:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, June 12, 2026 - 22:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/12/bosnia-canada-share-points-in-hard-fought-draw-at-world-cup?traffic_source=rss" target="_blank">Bosnia, Canada share points in hard-fought draw at World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-12 22:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-5-gty-gmh-260611_1781208944550_hpMain_4x3t_384.jpg" alt="What the US says is in the potential Iran war agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/us-potential-iran-war-agreement/story?id=133825956" target="_blank">What the US says is in the potential Iran war agreement</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-12 21:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/012b/live/29d4f250-667e-11f1-9286-5160d00e7bd3.jpg" alt="Deal to end fighting would lead to Hormuz reopening, Iran says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends?traffic_source=rss" target="_blank">How the Gulf will manage collective security after the Iran war ends</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-12 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wh-ufc-4-epa-gmh-260611_1781193177577_hpMain_4x3t_384.jpg" alt="Judge rejects legal effort to cancel White House&#x27;s UFC event" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/judge-rejects-legal-effort-cancel-white-houses-ufc/story?id=133790718" target="_blank">Judge rejects legal effort to cancel White House&#x27;s UFC event</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-12 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/012b/live/29d4f250-667e-11f1-9286-5160d00e7bd3.jpg" alt="Iran says deal to end fighting with US has &#x27;never been closer&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss" target="_blank">Iran says deal to end fighting with US has &#x27;never been closer&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-12 17:13</span>
             </div>
         </div>
 </div>
@@ -169,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/" target="_blank">How we made GitHub Copilot CLI more selective about delegation</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-12 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/fluidwire/the-first-message-sent-over-the-internet-was-lo-3032" target="_blank">The First Message Sent Over the Internet Was &#x27;LO&#x27;</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,20 +219,20 @@
                 <span class="time">2026-06-12 17:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/google-colab-cli/en/headerimage/generatedHeaderImage-1781274285302.jpg" alt="Google Launches Colab CLI for Developers, Automation, and AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/google-colab-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Launches Colab CLI for Developers, Automation, and AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-12 17:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html" target="_blank">Friday Squid Blogging: Squid-Inspired Fluid Pump</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-12 21:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -330,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 21:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 22:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
