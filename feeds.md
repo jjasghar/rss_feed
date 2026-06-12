@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-12 19:35:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-12 20:40:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, June 12, 2026 - 19:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, June 12, 2026 - 20:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260611-metlife-grass-ch-1455-b0e2be.jpg" alt="World Cup grass fields have NFL players asking why they still play on turf" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/soccer/turf-world-cup-slap-face-nfl-players-rcna347990" target="_blank">World Cup grass fields have NFL players asking why they still play on turf</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-12 19:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +95,29 @@
                 <span class="time">2026-06-12 16:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-260611_1781211508515_hpMain_4x3t_384.jpg" alt="Judge issues injunction blocking administration&#x27;s &#x27;Anti-Weaponization Fund&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/judge-issues-injunction-blocking-administrations-anti-weaponization-fund/story?id=133819319" target="_blank">Judge issues injunction blocking administration&#x27;s &#x27;Anti-Weaponization Fund&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-12 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/" target="_blank">Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-12 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices" target="_blank">Nothing CEO says phone prices are going to keep going up</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-12 20:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +152,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/" target="_blank">Have politics finally come for the National Academies of Science?</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-12 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a2c08dfad190de9ce708f41/master/pass/GettyImages-2280403147.jpg" alt="Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/" target="_blank">Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-12 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2275860721-500x500.jpg" alt="$130 billion in data center projects blocked by protests so far this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/" target="_blank">$130 billion in data center projects blocked by protests so far this year</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-12 17:18</span>
             </div>
         </div>
 </div>
@@ -241,6 +233,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTYGEFBZ5AT41V36VH520A69/hero-image.jpg" alt="My Apple Watch Doesn’t Support watchOS 27, but Here’s Why I’m Not Buying a New One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/my-apple-watch-doesnt-support-watchos-27-but-im-not-buying-a-new?utm_medium=RSS" target="_blank">My Apple Watch Doesn’t Support watchOS 27, but Here’s Why I’m Not Buying a New One</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-12 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/shutterstock_2500782201.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Lake Powell is approaching the line where Glen Canyon Dam stops making power" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/12/lake-powell-is-approaching-the-line-where-glen-canyon-dam-stops-making-power.html" target="_blank">Lake Powell is approaching the line where Glen Canyon Dam stops making power</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-12 19:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/gamestop-1280x728.jpg" alt="One Of The Only Good Things Left About GameStop Is About To Get Worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -274,24 +284,6 @@
                 <span class="title"><a href="https://kotaku.com/the-call-of-duty-of-it-all-2000706006" target="_blank">The Call Of Duty Of It All</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-12 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/gold-e1781286090430.jpeg?fit=768%2C510&amp;quality=60&amp;ssl=1" alt="Mel Fisher&#x27;s treasure hunters find another chunk of Atocha silver" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/12/mel-fishers-treasure-hunters-find-another-chunk-of-atocha-silver.html" target="_blank">Mel Fisher&#x27;s treasure hunters find another chunk of Atocha silver</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-12 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/minn.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Minneapolis has been hearing unexplained booms for decades and nobody can figure out why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/12/minneapolis-has-been-hearing-unexplained-booms-for-decades-and-nobody-can-figure-out-why.html" target="_blank">Minneapolis has been hearing unexplained booms for decades and nobody can figure out why</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-12 15:17</span>
             </div>
         </div>
 </div>
@@ -331,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 247 |
-        🔄 Last Updated: 19:35 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 250 |
+        🔄 Last Updated: 20:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
