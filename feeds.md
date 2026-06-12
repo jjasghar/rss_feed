@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-12 18:34:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-12 19:35:30 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, June 12, 2026 - 18:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, June 12, 2026 - 19:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends?traffic_source=rss" target="_blank">How the Gulf will manage collective security after the Iran war ends</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-12 18:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/wh-ufc-4-epa-gmh-260611_1781193177577_hpMain_4x3t_384.jpg" alt="Judge rejects legal effort to cancel White House&#x27;s UFC event" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +103,38 @@
                 <span class="time">2026-06-12 15:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b02/live/202639c0-6657-11f1-9afd-55fafa742f4a.png" alt="I have a duty to stay on, says Starmer, as he justifies defence spending decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c621wr1zg97o?at_medium=RSS&at_campaign=rss" target="_blank">I have a duty to stay on, says Starmer, as he justifies defence spending decisions</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-12 15:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/" target="_blank">SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-12 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-500x500.jpg" alt="PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/" target="_blank">PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-12 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer" target="_blank">The world’s first trillionaire is a killer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-12 18:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1845540332-500x500.jpg" alt="Have politics finally come for the National Academies of Science?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -110,6 +142,15 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/" target="_blank">Have politics finally come for the National Academies of Science?</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-12 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a2c08dfad190de9ce708f41/master/pass/GettyImages-2280403147.jpg" alt="Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/" target="_blank">Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-12 18:03</span>
             </div>
         </div>
 <div class="story">
@@ -121,47 +162,20 @@
                 <span class="time">2026-06-12 17:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/949079/siri-ai-good-vergecast" target="_blank">Siri is good now??</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-12 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/" target="_blank">Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-12 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280229158-500x500-1781276940.jpg" alt="The biggest race in the world? The 24 Hours of Le Mans is this weekend." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/06/the-biggest-race-in-the-world-the-24-hours-of-le-mans-is-this-weekend/" target="_blank">The biggest race in the world? The 24 Hours of Le Mans is this weekend.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-12 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale" target="_blank">Govee&amp;#8217;s rechargeable smart table lamp is down to $60</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-12 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/orbitpickle307/web-testing-in-2026-is-less-about-tools-and-more-about-trust-7a3" target="_blank">Web Testing in 2026 Is Less About Tools and More About Trust</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-12 19:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe8en9qn1s6l6pq1tjb5n.png" alt="Building Knowledge Graphs with Gemini" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +221,6 @@
                 <span class="time">2026-06-12 14:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground/" target="_blank">What&#x27;s the facts, Charity? How do I get my leaders to stop running teams Into the ground?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​﻿‌‍‌‌​﻿​‌​﻿‍‌​﻿‌​​﻿‍​‌‍‌‍​‍﻿‌‌‍‌‍‌‍​﻿‌‍​‌​﻿​​​‍﻿‌​﻿‌​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‌‌‍​﻿‌‍​﻿​﻿‌﻿​‍﻿‌​﻿​​​﻿​﻿‌‍‌​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌‌‌‍‌‌​﻿‌‌‌‍​‍​﻿‌‌‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​﻿‌‍‌‌​﻿​‌​﻿‍‌​﻿‌​​﻿‍​‌‍‌‍​‍﻿‌‌‍‌‍‌‍​﻿‌‍​‌​﻿​​​‍﻿‌​﻿‌​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‌‌‍​﻿‌‍​﻿​﻿‌﻿​‍﻿‌​﻿​​​﻿​﻿‌‍‌​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌‌‌‍‌‌​﻿‌‌‌‍​‍​﻿‌‌‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-06-12 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +240,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/gamestop-1280x728.jpg" alt="One Of The Only Good Things Left About GameStop Is About To Get Worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/one-of-the-only-good-things-left-about-gamestop-is-about-to-get-worse-2000706035" target="_blank">One Of The Only Good Things Left About GameStop Is About To Get Worse</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-12 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-12 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/kennedy-center.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Watch the live Kennedy Center stream of Trump&#x27;s name coming down (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/12/watch-the-live-kennedy-center-stream-of-trumps-name-coming-down-video.html" target="_blank">Watch the live Kennedy Center stream of Trump&#x27;s name coming down (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-12 18:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/VS-YouTube-CallofDutyBlackOps7WorldPremiereTrailergamescomOpeningNightLive2025-227-1280x720.jpg" alt="The Call Of Duty Of It All" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,38 +294,20 @@
                 <span class="time">2026-06-12 15:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTY3PCANE1PYR3KQ6037EJN9/hero-image.jpg" alt="Facebook Is Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/facebook-is-down?utm_medium=RSS" target="_blank">Facebook Is Down</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-12 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/elliotsummer-1280x720.jpg" alt="The Adventures Of Elliot Devs Were ‘Surprised’ That Fans Think The Game’s Fairy Companion Talks Too Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-adventures-of-elliot-devs-surprised-fans-think-fairy-talks-too-much-2000704876" target="_blank">The Adventures Of Elliot Devs Were ‘Surprised’ That Fans Think The Game’s Fairy Companion Talks Too Much</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-12 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSH7FX9P7ZDXCVKFS2VDB9TD/hero-image.png" alt="This Ultrawide Asus QD-OLED Monitor Is $350 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/asus-rog-strix-34-inch-qd-oled-monitor-sale-early-prime-day-2026?utm_medium=RSS" target="_blank">This Ultrawide Asus QD-OLED Monitor Is $350 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-12 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/12/once-upon-a-galaxy-sponstream" target="_blank">Once Upon A Galaxy &quot;Sponstream&quot;</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-12 17:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1781057264-20260612.png" alt="Saturday Morning Breakfast Cereal - Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -317,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 18:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 247 |
+        🔄 Last Updated: 19:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
