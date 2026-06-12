@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-12 20:40:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-12 21:30:05 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, June 12, 2026 - 20:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, June 12, 2026 - 21:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/012b/live/29d4f250-667e-11f1-9286-5160d00e7bd3.jpg" alt="Deal to end fighting would lead to Hormuz reopening, Iran says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss" target="_blank">Deal to end fighting would lead to Hormuz reopening, Iran says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-12 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/12/g-s1177-127971/trump-says-he-has-canceled-planned-strikes-on-iran-and-peace-deal-is-near-again" target="_blank">Trump says he has canceled planned strikes on Iran and peace deal is near — again</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-12 20:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260611-metlife-grass-ch-1455-b0e2be.jpg" alt="World Cup grass fields have NFL players asking why they still play on turf" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +102,20 @@
                 <span class="time">2026-06-12 17:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/12/nx-s1-5856394/china-arrest-us-citizen-myanmar" target="_blank">China arrests a U.S. scholar with a history of Myanmar activism, suspected of spying</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-12 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/12/us-judge-extends-block-on-trumps-1-8bn-anti-weaponisation-fund?traffic_source=rss" target="_blank">US judge extends block on Trump’s $1.8bn ‘anti-weaponisation’ fund</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-12 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a2c555e0473de232b255ae6/master/pass/Meta-Employee-Interrupts-AI-Training-Business-2261841192.jpg" alt="‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/" target="_blank">‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-12 21:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +161,6 @@
                 <span class="time">2026-06-12 18:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1845540332-500x500.jpg" alt="Have politics finally come for the National Academies of Science?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/" target="_blank">Have politics finally come for the National Academies of Science?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-12 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,9 +170,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fluidwire/the-first-message-sent-over-the-internet-was-lo-3032" target="_blank">The First Message Sent Over the Internet Was &#x27;LO&#x27;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-12 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.11-Released" target="_blank">Wine 11.11 Released With Wayland Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-12 21:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/orbitpickle307/web-testing-in-2026-is-less-about-tools-and-more-about-trust-7a3" target="_blank">Web Testing in 2026 Is Less About Tools and More About Trust</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-12 19:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/a-decade-of-ubuntu-on-ibm-z-and-ibm-linuxone" target="_blank">A decade of Ubuntu on IBM Z and IBM LinuxONE</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-12 18:13</span>
             </div>
         </div>
 <div class="story">
@@ -184,33 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/google-colab-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Launches Colab CLI for Developers, Automation, and AI Agents</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-12 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Features-Expected" target="_blank">Linux 7.2 Features Expected: Apple M3, Initial AMDGPU HDMI 2.1 FRL, USB4STREAM, Cache Aware Scheduling</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-12 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/" target="_blank">CRISPR tech selectively shreds cancer cells, including &quot;undruggable&quot; cancers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-12 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/loyaldash/i-built-a-deepseek-api-service-with-fastapi-heres-the-data-2a3b" target="_blank">I Built a DeepSeek API Service with FastAPI: Here&#x27;s the Data</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-12 14:02</span>
             </div>
         </div>
 </div>
@@ -232,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/eacc0e56ca6aeb681cff8909d4cf7b40-1280x719.jpg" alt="Shareholders Are Trying To Bully Elden Ring Maker FromSoftware Into Divorcing Bandai Namco" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/activist-investors-elden-ring-developer-fromsoftware-2000706037" target="_blank">Shareholders Are Trying To Bully Elden Ring Maker FromSoftware Into Divorcing Bandai Namco</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-12 20:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KTYGEFBZ5AT41V36VH520A69/hero-image.jpg" alt="My Apple Watch Doesn’t Support watchOS 27, but Here’s Why I’m Not Buying a New One" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +293,6 @@
                 <span class="time">2026-06-12 18:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/VS-YouTube-CallofDutyBlackOps7WorldPremiereTrailergamescomOpeningNightLive2025-227-1280x720.jpg" alt="The Call Of Duty Of It All" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-call-of-duty-of-it-all-2000706006" target="_blank">The Call Of Duty Of It All</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-12 17:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 250 |
-        🔄 Last Updated: 20:41 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 21:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
