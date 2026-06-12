@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-11 23:28:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-12 00:30:46 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, June 11, 2026 - 23:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, June 12, 2026 - 00:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a29de1c2286375b80445272/master/pass/Uncanny-Valley-SpaceX-IPO-Business-2280020800.jpg" alt="Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/" target="_blank">Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-11 23:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -154,20 +156,20 @@
                 <span class="time">2026-06-11 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/ted-cruz-ron-wyden-500x500-1781205347.jpg" alt="Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/" target="_blank">Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-11 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/susumun/after-a-core-rollback-halt-the-rest-a-safety-design-we-arrived-at-the-hard-way-6c" target="_blank">After a core rollback, halt the rest — a safety design we arrived at the hard way</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-12 00:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,19 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/statekeep/we-proved-deterministic-actor-migration-is-possible-for-xstate-heres-the-model-5708" target="_blank">We Proved Deterministic Actor Migration Is Possible for XState — Here&#x27;s the Model</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-11 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ai-at-the-edge-simplifying-infrastructure-with-cisco-and-canonical" target="_blank">AI at the edge: simplifying infrastructure with Cisco and Canonical</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-11 19:25</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://fablepool.com" target="_blank">Show HN: FablePool – pool money behind a prompt, and Fable builds it in public</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-11 21:17</span>
             </div>
         </div>
 </div>
@@ -323,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 23:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 00:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
