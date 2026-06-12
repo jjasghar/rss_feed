@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-12 11:13:40 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-12 13:00:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, June 12, 2026 - 11:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, June 12, 2026 - 13:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/29007b30-6645-11f1-8a2f-f94ffe061a79.jpg" alt="Celebrated British artist David Hockney dies aged 88" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss" target="_blank">Celebrated British artist David Hockney dies aged 88</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-12 12:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/12/renowned-british-artist-david-hockney-dies-aged-88?traffic_source=rss" target="_blank">Renowned British artist David Hockney dies aged 88</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-12 12:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +103,20 @@
                 <span class="time">2026-06-12 08:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/12/g-s1-127700/kennedy-center-trumps-name" target="_blank">Kennedy Center board seeks pause of ruling ordering removal of Trump&#x27;s name</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-12 05:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f8b/live/214d44b0-6643-11f1-8ff0-0decefcc55ec.png" alt="Grooming survivors left with criminal records still being failed, BBC told" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly7jjq8nr1o?at_medium=RSS&at_campaign=rss" target="_blank">Grooming survivors left with criminal records still being failed, BBC told</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-12 05:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281122730-500x500.jpg" alt="Cameras, sensors, and 3D body scans: All the tech helping eliminate blown calls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/" target="_blank">Cameras, sensors, and 3D body scans: All the tech helping eliminate blown calls</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-12 11:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a2af688318b528e07f24831/master/pass/Review--Pedal-Electric-H-T.jpg" alt="Pedal Electric H/T Review: A Fast, Powerful, Stylish Ebike" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +162,20 @@
                 <span class="time">2026-06-12 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="Columbia Promo Codes: 15% Off | June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/columbia-promo-code/" target="_blank">Columbia Promo Codes: 15% Off | June 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-12 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/pinecone-ai-agents-onelake/en/headerimage/generatedHeaderImage-1780571406278.jpg" alt="Pinecone Brings AI Agents Directly to Enterprise Data with Microsoft OneLake Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/pinecone-ai-agents-onelake/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinecone Brings AI Agents Directly to Enterprise Data with Microsoft OneLake Integration</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-12 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/06/untrusted-ai-agents-sandboxes/en/headerimage/generatedHeaderImage-1781187614455.jpg" alt="Run Untrusted AI Agent Code Safely with Azure Container Apps Sandboxes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,6 +183,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/untrusted-ai-agents-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Run Untrusted AI Agent Code Safely with Azure Container Apps Sandboxes</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-12 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AVX-512-Linux-RAID-Optimization" target="_blank">AVX-512 Optimization For Linux RAID Showing Up To 41% Improvement On AMD Ryzen 9 9950X</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-12 10:42</span>
             </div>
         </div>
 <div class="story">
@@ -203,22 +221,18 @@
                 <span class="time">2026-06-12 06:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/" target="_blank">AI agent bankrupted their operator while trying to scan DN42</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-12 04:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf" target="_blank">Nobody ever gets credit for fixing problems that never happened (2001) [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-12 00:38</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html" target="_blank">Bernie Sanders’ AI Sovereign Wealth Fund Plan</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-12 11:03</span>
             </div>
         </div>
 </div>
@@ -226,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTXFM7BRV5YDX7F143P3QDF7/hero-image.png" alt="These Budget-Friendly Samsung Earbuds Are 27% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-buds-3-fe-sale-early-prime-day-2026?utm_medium=RSS" target="_blank">These Budget-Friendly Samsung Earbuds Are 27% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-12 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/dr5-keyart-YzI66DkClTeJ5jBQ-1280x720.jpg" alt="Deltarune’s Baffling ARG Just Updated Again, And Exactly 1,229 Specific People Are Able To Solve It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +294,6 @@
                 <span class="time">2026-06-11 19:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTVX1YT8YX50AJM251APKV5H/hero-image.jpg" alt="Deezer Claims Its New Tool Can Detect AI Music on Most Major Streaming Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/deezers-new-ai-music-detector-works-on-most-major-streaming-platforms?utm_medium=RSS" target="_blank">Deezer Claims Its New Tool Can Detect AI Music on Most Major Streaming Services</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-11 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 11:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 13:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
