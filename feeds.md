@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-12 17:44:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-12 18:34:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, June 12, 2026 - 17:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, June 12, 2026 - 18:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -94,12 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b02/live/202639c0-6657-11f1-9afd-55fafa742f4a.png" alt="I have a duty to stay on, says Starmer, as he justifies defence spending decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/12/nx-s1-5856291/fisa-702-surveillance-expiration-bill-pulte" target="_blank">A key U.S. spy tool is set to lapse on Friday — now what?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-12 15:00</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c621wr1zg97o?at_medium=RSS&at_campaign=rss" target="_blank">I have a duty to stay on, says Starmer, as he justifies defence spending decisions</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-12 15:21</span>
             </div>
         </div>
 </div>
@@ -107,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1845540332-500x500.jpg" alt="Have politics finally come for the National Academies of Science?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/" target="_blank">Have politics finally come for the National Academies of Science?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-12 18:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2275860721-500x500.jpg" alt="$130 billion in data center projects blocked by protests so far this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,15 +157,6 @@
                 <span class="time">2026-06-12 15:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer" target="_blank">Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-12 14:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +178,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/google-colab-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Launches Colab CLI for Developers, Automation, and AI Agents</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-12 17:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Features-Expected" target="_blank">Linux 7.2 Features Expected: Apple M3, Initial AMDGPU HDMI 2.1 FRL, USB4STREAM, Cache Aware Scheduling</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-12 16:46</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +216,6 @@
                 <span class="time">2026-06-12 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/angular-agent-skills/en/headerimage/generatedHeaderImage-1781253864521.jpg" alt="Angular&#x27;s Official Agent Skills Helps AI Coding Tools Write Modern Angular" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/angular-agent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Angular&#x27;s Official Agent Skills Helps AI Coding Tools Write Modern Angular</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-12 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/VS-YouTube-CallofDutyBlackOps7WorldPremiereTrailergamescomOpeningNightLive2025-227-1280x720.jpg" alt="The Call Of Duty Of It All" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-call-of-duty-of-it-all-2000706006" target="_blank">The Call Of Duty Of It All</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-12 17:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/gold-e1781286090430.jpeg?fit=768%2C510&amp;quality=60&amp;ssl=1" alt="Mel Fisher&#x27;s treasure hunters find another chunk of Atocha silver" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/12/mel-fishers-treasure-hunters-find-another-chunk-of-atocha-silver.html" target="_blank">Mel Fisher&#x27;s treasure hunters find another chunk of Atocha silver</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-12 17:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/minn.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Minneapolis has been hearing unexplained booms for decades and nobody can figure out why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +289,6 @@
                 <span class="time">2026-06-12 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTXFM7BRV5YDX7F143P3QDF7/hero-image.png" alt="These Budget-Friendly Samsung Earbuds Are 27% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-buds-3-fe-sale-early-prime-day-2026?utm_medium=RSS" target="_blank">These Budget-Friendly Samsung Earbuds Are 27% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-12 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/dr5-keyart-YzI66DkClTeJ5jBQ-1280x720.jpg" alt="Deltarune’s Baffling ARG Just Updated Again, And Exactly 1,229 Specific People Are Able To Solve It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/deltarune-arg-1229-people-chapter-5-2000705668" target="_blank">Deltarune’s Baffling ARG Just Updated Again, And Exactly 1,229 Specific People Are Able To Solve It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-11 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 245 |
-        🔄 Last Updated: 17:44 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 18:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
