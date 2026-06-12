@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-12 13:00:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-12 14:06:57 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, June 12, 2026 - 13:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, June 12, 2026 - 14:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/12/nx-s1-5855004/stock-ai-spacex-ipo-elon-musk" target="_blank">It&#x27;s SpaceX&#x27;s first day on the stock market</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-12 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss" target="_blank">Ukraine reclaims territory as it doubles attacks on Russian logistics</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-12 13:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/29007b30-6645-11f1-8a2f-f94ffe061a79.jpg" alt="Celebrated British artist David Hockney dies aged 88" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +95,20 @@
                 <span class="time">2026-06-12 10:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/12/one-in-17-children-is-working-here-are-the-industries-driving-child-labour?traffic_source=rss" target="_blank">One in 17 children is working: Here are the industries driving child labour</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-12 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ee/live/31485490-661b-11f1-ac3e-c1a2e88f59e9.jpg" alt="Tehran says &#x27;nothing&#x27; finalised after Trump claims deal to end Iran war near" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss" target="_blank">Tehran says &#x27;nothing&#x27; finalised after Trump claims deal to end Iran war near</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-12 08:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer" target="_blank">Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-12 14:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281122730-500x500.jpg" alt="Cameras, sensors, and 3D body scans: All the tech helping eliminate blown calls" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -115,6 +116,15 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/" target="_blank">Cameras, sensors, and 3D body scans: All the tech helping eliminate blown calls</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-12 11:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/" target="_blank">US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-12 11:43</span>
             </div>
         </div>
 <div class="story">
@@ -144,29 +154,29 @@
                 <span class="time">2026-06-12 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend" target="_blank">Siri won’t be your AI girlfriend</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-12 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Paramount+ Coupon Codes and Deals for June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/paramount-plus-coupon-code/" target="_blank">Paramount+ Coupon Codes and Deals for June 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-12 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/loyaldash/i-built-a-deepseek-api-service-with-fastapi-heres-the-data-2a3b" target="_blank">I Built a DeepSeek API Service with FastAPI: Here&#x27;s the Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-12 14:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/angular-agent-skills/en/headerimage/generatedHeaderImage-1781253864521.jpg" alt="Angular&#x27;s Official Agent Skills Helps AI Coding Tools Write Modern Angular" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/angular-agent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Angular&#x27;s Official Agent Skills Helps AI Coding Tools Write Modern Angular</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-12 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/06/pinecone-ai-agents-onelake/en/headerimage/generatedHeaderImage-1780571406278.jpg" alt="Pinecone Brings AI Agents Directly to Enterprise Data with Microsoft OneLake Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +213,6 @@
                 <span class="time">2026-06-12 07:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/xberry-tech/physical-ai-just-got-its-platform-layer-nvidia-is-the-only-candidate-heres-what-you-missed-this-4dld" target="_blank">Physical AI just got its platform layer. Nvidia is the only candidate. Here&#x27;s what you missed this week.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-12 07:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/oracle-genai-policies/en/headerimage/generatedHeaderImage-1781176880866.jpg" alt="Oracle&#x27;s OpenJDK Bans Generative AI Contributions While Oracle&#x27;s GraalVM Allows Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/oracle-genai-policies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Oracle&#x27;s OpenJDK Bans Generative AI Contributions While Oracle&#x27;s GraalVM Allows Them</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-12 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/elliotsummer-1280x720.jpg" alt="The Adventures Of Elliot Devs Were ‘Surprised’ That Fans Think The Game’s Fairy Companion Talks Too Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-adventures-of-elliot-devs-surprised-fans-think-fairy-talks-too-much-2000704876" target="_blank">The Adventures Of Elliot Devs Were ‘Surprised’ That Fans Think The Game’s Fairy Companion Talks Too Much</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-12 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSH7FX9P7ZDXCVKFS2VDB9TD/hero-image.png" alt="This Ultrawide Asus QD-OLED Monitor Is $350 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/asus-rog-strix-34-inch-qd-oled-monitor-sale-early-prime-day-2026?utm_medium=RSS" target="_blank">This Ultrawide Asus QD-OLED Monitor Is $350 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KTXFM7BRV5YDX7F143P3QDF7/hero-image.png" alt="These Budget-Friendly Samsung Earbuds Are 27% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +284,6 @@
                 <span class="title"><a href="https://kotaku.com/everything-we-know-about-gears-of-war-e-day-xboxs-big-exclusive-for-2026-2000705633" target="_blank">Everything We Know About Gears Of War: E-Day, Xbox’s Big Exclusive For 2026</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-11 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HZJ28365XRRTQA8KWBKERDTN/hero-image.jpg" alt="Does &#x27;Fasted Cardio&#x27; Actually Burn More Calories and Fat?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/does-fasted-cardio-burn-more-fat?utm_medium=RSS" target="_blank">Does &#x27;Fasted Cardio&#x27; Actually Burn More Calories and Fat?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-11 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/1000008269-1280x720.jpg" alt="It’s Time To Admit Zelda: Ocarina Of Time’s Water Temple Is Good, Actually" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-fixed-zelda-ocarina-of-time-terrible-water-temple-2000705629" target="_blank">It’s Time To Admit Zelda: Ocarina Of Time’s Water Temple Is Good, Actually</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-11 19:39</span>
             </div>
         </div>
 </div>
@@ -331,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 243 |
-        🔄 Last Updated: 13:00 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 39 | 📸 With Images: 242 |
+        🔄 Last Updated: 14:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
