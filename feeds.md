@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-12 09:18:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-12 11:13:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, June 12, 2026 - 09:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, June 12, 2026 - 11:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/12/g-s1-127711/up-first-newsletter-iran-peace-national-intelligence-director-world-cup" target="_blank">Trump cancels further Iran strikes. And, U.S. men&#x27;s soccer takes on Paraguay</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-12 10:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260610-Christian-Pulisic-vl-129p-aa8758.jpg" alt="Christian Pulisic has played under pressure before, but nothing like this World Cup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/soccer/captain-america-christian-pulisic-played-pressure-nothing-world-cup-rcna347197" target="_blank">Christian Pulisic has played under pressure before, but nothing like this World Cup</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-12 10:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,30 +95,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4681/live/0f0ba6a0-65af-11f1-8546-8f19e4fe30f4.jpg" alt="Grooming survivors prosecuted as children still being failed, Baroness Casey tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f8b/live/214d44b0-6643-11f1-8ff0-0decefcc55ec.png" alt="Grooming survivors left with criminal records still being failed, BBC told" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly7jjq8nr1o?at_medium=RSS&at_campaign=rss" target="_blank">Grooming survivors prosecuted as children still being failed, Baroness Casey tells BBC</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly7jjq8nr1o?at_medium=RSS&at_campaign=rss" target="_blank">Grooming survivors left with criminal records still being failed, BBC told</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-12 05:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/game-theory/2026/6/12/bosnias-esmir-bajraktarevic-child-of-srebrenica?traffic_source=rss" target="_blank">Bosnia’s Esmir Bajraktarevic: Child of Srebrenica</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-12 02:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-bajrakitiyabha-thailand_7271290.jpg?20260612033640" alt="Thai princess dies aged 47" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/thailands-princess-bajrakitiyabha-dies-aged-47-13553219" target="_blank">Thai princess dies aged 47</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-12 02:38</span>
             </div>
         </div>
 </div>
@@ -107,6 +108,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a2af688318b528e07f24831/master/pass/Review--Pedal-Electric-H-T.jpg" alt="Pedal Electric H/T Review: A Fast, Powerful, Stylish Ebike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/pedal-electric-h-t/" target="_blank">Pedal Electric H/T Review: A Fast, Powerful, Stylish Ebike</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-12 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/verizon-hq-logo-500x500-1781018752.jpg" alt="Verizon sent man a refurbished phone with MDM, then deleted his data remotely" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/" target="_blank">Verizon sent man a refurbished phone with MDM, then deleted his data remotely</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-12 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a2b2a90dc1e015a1cabd700/master/pass/SpaceX-IPO-Ownership-Test-Business-2217850568.jpg" alt="SpaceX IPO Puts Elon Musk’s ‘Extreme’ Ownership to the Test" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +162,20 @@
                 <span class="time">2026-06-12 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/" target="_blank">Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-12 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/" target="_blank">Equal AI raises $30M to screen calls so Indians don’t have to</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-12 04:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/untrusted-ai-agents-sandboxes/en/headerimage/generatedHeaderImage-1781187614455.jpg" alt="Run Untrusted AI Agent Code Safely with Azure Container Apps Sandboxes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/untrusted-ai-agents-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Run Untrusted AI Agent Code Safely with Azure Container Apps Sandboxes</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-12 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,29 +219,6 @@
                 <span class="title"><a href="https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf" target="_blank">Nobody ever gets credit for fixing problems that never happened (2001) [pdf]</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-12 00:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf" target="_blank">Nobody ever gets credit for fixing problems that never happened (2002) [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-12 00:38</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html" target="_blank">Enhanced License Plate Tracking</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-11 11:01</span>
             </div>
         </div>
 </div>
@@ -330,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 38 | 📸 With Images: 241 |
-        🔄 Last Updated: 09:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 39 | 📸 With Images: 242 |
+        🔄 Last Updated: 11:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
