@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-12 22:28:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-12 23:27:20 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, June 12, 2026 - 22:28 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, June 12, 2026 - 23:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -84,21 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/550/735/46506272372-1080pnbcstations.jpg" alt="Jovo Lukić sorprende a Canadá y pone el 1-0 para Bosnia &amp; Herzegovina" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/jovo-lukic-sorprende-a-canada-y-pone-el-1-0-para-bosnia-herzegovina-tmvo13193489" target="_blank">Jovo Lukić sorprende a Canadá y pone el 1-0 para Bosnia &amp; Herzegovina</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-12 19:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260611-metlife-grass-ch-1455-b0e2be.jpg" alt="World Cup grass fields have NFL players asking why they still play on turf" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/sports/soccer/turf-world-cup-slap-face-nfl-players-rcna347990" target="_blank">World Cup grass fields have NFL players asking why they still play on turf</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-12 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends?traffic_source=rss" target="_blank">How the Gulf will manage collective security after the Iran war ends</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-12 18:48</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/928builds/perfect-is-the-enemy-of-done-and-i-learned-that-the-hard-way-2pa" target="_blank">Perfect Is the Enemy of Done — and I Learned That the Hard Way</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-12 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/" target="_blank">How we made GitHub Copilot CLI more selective about delegation</a></span>
                 <span class="feed">The GitHub Blog</span>
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/a-decade-of-ubuntu-on-ibm-z-and-ibm-linuxone" target="_blank">A decade of Ubuntu on IBM Z and IBM LinuxONE</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-06-12 18:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe8en9qn1s6l6pq1tjb5n.png" alt="Building Knowledge Graphs with Gemini" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/googleai/building-knowledge-graphs-with-gemini-3ail" target="_blank">Building Knowledge Graphs with Gemini</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-12 17:37</span>
             </div>
         </div>
 </div>
@@ -333,13 +330,22 @@
                 <span class="time">2026-06-12 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/plate_flip.png" alt="Plate Flip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3258/" target="_blank">Plate Flip</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-06-12 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 245 |
-        🔄 Last Updated: 22:28 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 23:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
