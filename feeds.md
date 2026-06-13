@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 00:31:09 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-13 01:40:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 00:31 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 01:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +106,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console" target="_blank">Valve just imported 13 tons of VR headsets in one day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-13 01:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/" target="_blank">SpaceX IPO: Live updates on everything you need to know</a></span>
                 <span class="feed">TechCrunch</span>
@@ -147,20 +157,29 @@
                 <span class="time">2026-06-12 19:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-500x500.jpg" alt="PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/" target="_blank">PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-12 19:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500" target="_blank">Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Affected Packages</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-13 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/news/fable-mythos-access" target="_blank">US Government directive to suspend access to Fable 5 and Mythos 5</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-13 00:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-11.11-Released" target="_blank">Wine 11.11 Released With Wayland Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-12 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/orbitpickle307/web-testing-in-2026-is-less-about-tools-and-more-about-trust-7a3" target="_blank">Web Testing in 2026 Is Less About Tools and More About Trust</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-12 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/a-decade-of-ubuntu-on-ibm-z-and-ibm-linuxone" target="_blank">A decade of Ubuntu on IBM Z and IBM LinuxONE</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-12 18:13</span>
             </div>
         </div>
 </div>
@@ -343,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 245 |
-        🔄 Last Updated: 00:31 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 01:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
