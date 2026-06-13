@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 12:29:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-13 13:30:21 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 12:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 13:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss" target="_blank">‘Lots of things can still go wrong’ with US-Iran deal to end the war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-13 12:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +101,6 @@
                 <span class="time">2026-06-13 04:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/13/nx-s1-5856981/pope-leo-flight-grounded" target="_blank">Pope Leo XIV&#x27;s flight home from Spain was grounded so the king came to his aid</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-13 04:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,9 +110,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing" target="_blank">My yard is dying, so I made an app for that</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-13 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/947136/echo-isle-review-pc" target="_blank">Echo Isle is a pint-sized adventure inspired by classic Zelda</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a2c5d54ada0c60373323305/master/pass/SV55-A_CHBLKAGRN_025-RGB-InUse-LivingRoom-Sofa-CoffeeTable-AT-MTB-A2_MIX.jpg" alt="Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/" target="_blank">Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-13 11:33</span>
             </div>
         </div>
 <div class="story">
@@ -142,29 +160,29 @@
                 <span class="time">2026-06-13 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a2c41ce14f8a13c2f9c4aac/master/pass/googleAI.jpg" alt="A German Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/" target="_blank">A German Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-13 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a2aad442915c6817b50fff5/master/pass/GettyImages-2199577958.jpg" alt="Here’s How AI Agents Can Protect EV Chargers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/" target="_blank">Here’s How AI Agents Can Protect EV Chargers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-13 06:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/freerave/the-ai-they-said-was-too-dangerous-is-now-inside-the-nsa-3kg8" target="_blank">The AI They Said Was Too Dangerous — Is Now Inside the NSA</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-13 13:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-Light-GRUB-For-CoCo" target="_blank">Fedora 45 Considering A Lightened GRUB Bootloader For Confidential Compute</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-13 12:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/cesarnml/ai-should-do-the-implementation-you-should-own-the-decisions-5693" target="_blank">AI should do the implementation. You should own the decisions.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-13 09:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.7-Next-Week" target="_blank">KDE Plasma 6.7 Sees Last Minute Fixes Ahead Of Next Week&#x27;s Release</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-13 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/" target="_blank">A low-carbon computing platform from your retired phones</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-13 09:38</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 12:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 237 |
+        🔄 Last Updated: 13:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
