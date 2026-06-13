@@ -1,34 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 01:40:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-13 03:00:59 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 01:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 03:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +55,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a4d/live/fa2bd400-664c-11f1-8e1d-bbbb1017d210.png" alt="Rugby star Sinfield and authors Blackman and Donaldson lead honours list" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&at_campaign=rss" target="_blank">Rugby star Sinfield and authors Blackman and Donaldson lead honours list</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-13 02:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/594/679/46512012634-1080pnbcstations.jpg" alt="Balogun firma su doblete con un zurdazo y Estados Unidos golea a Paraguay 3-0" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/balogun-firma-su-doblete-con-un-zurdazo-y-estados-unidos-golea-a-paraguay-3-0-tmvo13193564" target="_blank">Balogun firma su doblete con un zurdazo y Estados Unidos golea a Paraguay 3-0</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-13 02:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/12/g-s1-128022/gene-shalit-movie-critic-dies" target="_blank">Gene Shalit, longtime &#x27;Today&#x27; show movie critic, dies at 100</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-13 01:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +109,29 @@
                 <span class="time">2026-06-12 21:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/012b/live/29d4f250-667e-11f1-9286-5160d00e7bd3.jpg" alt="Deal to end fighting would lead to Hormuz reopening, Iran says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss" target="_blank">Deal to end fighting would lead to Hormuz reopening, Iran says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-12 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/12/g-s1177-127971/trump-says-he-has-canceled-planned-strikes-on-iran-and-peace-deal-is-near-again" target="_blank">Trump says he has canceled planned strikes on Iran and peace deal is near — again</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-12 20:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/550/735/46506272372-1080pnbcstations.jpg" alt="Jovo Lukić sorprende a Canadá y pone el 1-0 para Bosnia &amp; Herzegovina" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/jovo-lukic-sorprende-a-canada-y-pone-el-1-0-para-bosnia-herzegovina-tmvo13193489" target="_blank">Jovo Lukić sorprende a Canadá y pone el 1-0 para Bosnia &amp; Herzegovina</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-12 19:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/" target="_blank">Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-13 02:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a2cb2e540437fd74449a752/master/pass/Anthropic-Says-US-Gov-Ordered-it-to-Shut-Down-Mythos-Models-Business-2280583841.jpg" alt="Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/" target="_blank">Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-13 02:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +168,20 @@
                 <span class="time">2026-06-12 20:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices" target="_blank">Nothing CEO says phone prices are going to keep going up</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-12 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/" target="_blank">SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-12 19:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tokenmixai/i-checked-why-claude-fable-5-was-suspended-4-days-after-launch-this-is-not-an-outage-54f2" target="_blank">I Checked Why Claude Fable 5 Was Suspended 4 Days After Launch. This Is Not an Outage.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-13 02:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +225,6 @@
                 <span class="title"><a href="https://dev.to/fluidwire/the-first-message-sent-over-the-internet-was-lo-3032" target="_blank">The First Message Sent Over the Internet Was &#x27;LO&#x27;</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-12 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.11-Released" target="_blank">Wine 11.11 Released With Wayland Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-12 21:13</span>
             </div>
         </div>
 </div>
@@ -307,6 +318,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/12/paid-in-pretend-candy" target="_blank">Paid In Pretend Candy</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-12 23:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/12/once-upon-a-galaxy-sponstream" target="_blank">Once Upon A Galaxy &quot;Sponstream&quot;</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-06-12 17:47</span>
@@ -344,8 +364,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 01:40 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 242 |
+        🔄 Last Updated: 03:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
