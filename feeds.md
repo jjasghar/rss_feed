@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 07:12:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-13 08:59:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 07:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 08:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/13/doctors-without-borders-investigation-finds-exploitation-by-staff-in-chad?traffic_source=rss" target="_blank">Doctors Without Borders investigation finds exploitation by staff in Chad</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-13 08:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/12/g-s1-128022/gene-shalit-movie-critic-dies" target="_blank">Gene Shalit, longtime &#x27;Today&#x27; show movie critic, dies at 100</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-13 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/12/nx-s1-5856563/justice-dept-approves-paramounts-acquisition-of-warner-bros-discovery" target="_blank">Paramount-Warner Brothers merger gets Justice Department approval</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-12 23:24</span>
             </div>
         </div>
 </div>
@@ -163,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.unitedheroes.net/5751" target="_blank">Leaving Mozilla</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-13 05:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/06/cdk-mixins-aws/en/headerimage/generatedHeaderImage-1780155748389.jpg" alt="AWS Introduces CDK Mixins for Composable Infrastructure Abstractions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -205,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/tokenmixai/i-checked-why-claude-fable-5-was-suspended-4-days-after-launch-this-is-not-an-outage-54f2" target="_blank">I Checked Why Claude Fable 5 Was Suspended 4 Days After Launch. This Is Not an Outage.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-13 02:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500" target="_blank">Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Affected Packages</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-13 00:55</span>
             </div>
         </div>
 </div>
@@ -335,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 07:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 08:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
