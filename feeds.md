@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 22:20:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-13 23:22:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 22:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 23:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +51,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss" target="_blank">Qatar net late against Switzerland to secure historic first World Cup point</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-13 21:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/13/g-s1-128070/police-investigate-england-equipment-world-cup-kansas-city-florida" target="_blank">Police investigate theft of England equipment at World Cup, 2 people in custody</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-13 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/13/dashcam-shows-us-cop-accidentally-shooting-colleague-during?traffic_source=rss" target="_blank">Dashcam shows US cop accidentally shooting colleague during ‘horseplay’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-13 21:05</span>
@@ -68,39 +84,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4ff/live/e53f0010-674d-11f1-8546-8f19e4fe30f4.jpg" alt="Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-13 18:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/iran-2-ap-er-260613_1781372141344_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says agreement with Iran will be signed &#x27;tomorrow&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says agreement with Iran will be signed &#x27;tomorrow&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-13 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/6/13/live-qatar-vs-switzerland-world-cup-2026?traffic_source=rss" target="_blank">Qatar vs Switzerland live – World Cup 2026</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-13 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kc-2-ap-gmh-260613_1781356833787_hpMain_4x3t_384.jpg" alt="Trump&#x27;s name removed from Kennedy Center following court order: DOJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trumps-removed-kennedy-center-noon-saturday-judge/story?id=133841904" target="_blank">Trump&#x27;s name removed from Kennedy Center following court order: DOJ</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-13 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac8a/live/effffc80-6733-11f1-baaa-b1eba7000c81.jpg" alt="Royal Family watch Red Arrows flypast on Buckingham Palace balcony" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn07y41kn2wo?at_medium=RSS&at_campaign=rss" target="_blank">Royal Family watch Red Arrows flypast on Buckingham Palace balcony</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-13 14:27</span>
             </div>
         </div>
 </div>
@@ -168,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/apeh1706/securing-financial-apis-in-2026-implementing-global-request-interceptors-and-automated-audit-4g26" target="_blank">Securing Financial APIs in 2026: Implementing Global Request Interceptors and Automated Audit Trails in Spring Boot</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-13 23:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkc0hvypembd4wgh6t0k.jpg" alt="Query Rewriting Before Retrieval: The Cheap Recall Win Most Skip" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,15 +219,6 @@
                 <span class="time">2026-06-13 15:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Ending-BigDL" target="_blank">Intel Ending Development Of BigDL: An Open-Source AI/LLM Effort Getting Axed</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-13 14:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -262,15 +260,6 @@
                 <span class="time">2026-06-13 14:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/1280px-Xbox-Debug-Console-Set.jpg?fit=1280%2C608&amp;quality=60&amp;ssl=1" alt="Microsoft may spin off struggling XBox division" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/12/microsoft-may-spin-off-struggling-xbox-division.html" target="_blank">Microsoft may spin off struggling XBox division</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-12 23:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 240 |
-        🔄 Last Updated: 22:20 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 23:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
