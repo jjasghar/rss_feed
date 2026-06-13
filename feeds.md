@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 21:25:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-13 22:20:32 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 21:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 22:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +112,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/" target="_blank">KPMG pulls report on AI usage due to apparent hallucinations</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-13 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/" target="_blank">Amazon CEO reportedly raised Anthropic model concerns before government crackdown</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-13 19:11</span>
@@ -144,20 +162,20 @@
                 <span class="time">2026-06-13 16:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/" target="_blank">This thin under-pillow speaker helped me fall asleep without earbuds</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-13 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkc0hvypembd4wgh6t0k.jpg" alt="Query Rewriting Before Retrieval: The Cheap Recall Win Most Skip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gabrielanhaia/query-rewriting-before-retrieval-the-cheap-recall-win-most-skip-11g1" target="_blank">Query Rewriting Before Retrieval: The Cheap Recall Win Most Skip</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-13 22:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/06/terraform-mcp-server-ga/en/headerimage/terraform-pc-server-ga-1781379415414.jpeg" alt="Terraform MCP Server Enables AI Assistants to Interact with Terraform Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Ending-BigDL" target="_blank">Intel Ending Development Of BigDL: An Open-Source AI/LLM Effort Getting Axed</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-13 14:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://desfontain.es/blog/banning-noise.html" target="_blank">US bans differential privacy in Census data</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-13 13:54</span>
             </div>
         </div>
 </div>
@@ -290,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 240 |
-        🔄 Last Updated: 21:25 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 240 |
+        🔄 Last Updated: 22:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
