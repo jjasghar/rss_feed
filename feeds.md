@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 11:33:55 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-13 12:29:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 11:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 12:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss" target="_blank">Iran announces funeral, burial dates for late Supreme Leader Khamenei</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-13 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol" target="_blank">4 things to know about the new sunscreen ingredient the FDA approved</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-13 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e73f/live/461c5450-6712-11f1-8546-8f19e4fe30f4.jpg" alt="Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +101,38 @@
                 <span class="time">2026-06-13 04:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a4d/live/fa2bd400-664c-11f1-8e1d-bbbb1017d210.png" alt="Rugby star Sinfield and authors Blackman and Donaldson lead honours list" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&at_campaign=rss" target="_blank">Rugby star Sinfield and authors Blackman and Donaldson lead honours list</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-13 02:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/594/679/46512012634-1080pnbcstations.jpg" alt="Balogun firma su doblete con un zurdazo y Estados Unidos golea a Paraguay 3-0" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/balogun-firma-su-doblete-con-un-zurdazo-y-estados-unidos-golea-a-paraguay-3-0-tmvo13193564" target="_blank">Balogun firma su doblete con un zurdazo y Estados Unidos golea a Paraguay 3-0</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-13 02:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/947136/echo-isle-review-pc" target="_blank">Echo Isle is a pint-sized adventure inspired by classic Zelda</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1164060198-500x500.jpg" alt="Threads of underground fungal networks are long enough to reach beyond the Solar System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/" target="_blank">Threads of underground fungal networks are long enough to reach beyond the Solar System</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-13 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/" target="_blank">The FBI built its own replica small town to simulate real-world cyberattacks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-13 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,33 +160,6 @@
                 <span class="time">2026-06-13 06:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/" target="_blank">Andrew Yang thinks the next big startup opportunity is lowering the cost of living</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-13 04:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/fable5-500x500-1781319492.webp" alt="Anthropic shuts down Fable, Mythos models following Trump admin directive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/" target="_blank">Anthropic shuts down Fable, Mythos models following Trump admin directive</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-13 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/" target="_blank">Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-13 02:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,9 +169,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rapls/claude-fable-5-lasted-three-days-then-the-us-government-pulled-it-4ojk" target="_blank">Claude Fable 5 lasted three days. Then the US government pulled it.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-13 12:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/qasim157/support-threads-that-span-days-agent-memory-via-email-29oj" target="_blank">Support Threads That Span Days: Agent Memory via Email</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-13 11:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Thermald-2.5.12-Released" target="_blank">Intel Thermald 2.5.12 Released... With Initial Support For ARM</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-13 10:47</span>
             </div>
         </div>
 <div class="story">
@@ -192,27 +214,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.unitedheroes.net/5751" target="_blank">Leaving Mozilla</a></span>
+                <span class="title"><a href="https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/" target="_blank">A low-carbon computing platform from your retired phones</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-06-13 05:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/cdk-mixins-aws/en/headerimage/generatedHeaderImage-1780155748389.jpg" alt="AWS Introduces CDK Mixins for Composable Infrastructure Abstractions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/cdk-mixins-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces CDK Mixins for Composable Infrastructure Abstractions</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-13 05:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow" target="_blank">There is a shadow hanging over this Fable thing</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-13 05:16</span>
+                <span class="time">2026-06-13 09:38</span>
             </div>
         </div>
 </div>
@@ -325,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 11:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 12:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
