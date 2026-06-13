@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 20:25:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-13 21:25:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 20:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 21:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/13/dashcam-shows-us-cop-accidentally-shooting-colleague-during?traffic_source=rss" target="_blank">Dashcam shows US cop accidentally shooting colleague during ‘horseplay’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-13 21:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7d/live/40c89fc0-675f-11f1-8e1d-bbbb1017d210.jpg" alt="Resident doctors cancel strike after new offer from government" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +92,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn07y41kn2wo?at_medium=RSS&at_campaign=rss" target="_blank">Royal Family watch Red Arrows flypast on Buckingham Palace balcony</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-13 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260613-Kennedy-Center-ch-1010-eecce9.jpg" alt="Kennedy Center official tells judge Trump’s name has been removed from building and website" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/construction-workers-begin-removing-trump-name-kennedy-center-rcna349870" target="_blank">Kennedy Center official tells judge Trump’s name has been removed from building and website</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-13 14:18</span>
             </div>
         </div>
 </div>
@@ -220,23 +214,18 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html" target="_blank">Friday Squid Blogging: Squid-Inspired Fluid Pump</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-12 21:05</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/r7b7gpzpgll81-1280x667.jpg" alt="Tough Talk And Confronting Slop In Third Manifesto Game Jam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tough-talk-and-confronting-slop-in-third-manifesto-game-jam-2000706250" target="_blank">Tough Talk And Confronting Slop In Third Manifesto Game Jam</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-13 20:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/frankfortfirefighters-1280x762.jpg" alt="Firefighters Investigating Explosion Caused By Meta Quest 3 In Maine Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -253,6 +242,15 @@
                 <span class="title"><a href="https://kotaku.com/copy-of-super-mario-bros-sells-for-3-million-in-auction-2000706228" target="_blank">Copy of Super Mario Bros. Sells For $3 Million In Auction</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-13 15:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114203.jpg?fit=1200%2C1215&amp;quality=60&amp;ssl=1" alt="The WWII commando who fought with a broadsword, longbow, and bagpipes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/13/the-wwii-commando-who-fought-with-a-broadsword-longbow-and-bagpipes.html" target="_blank">The WWII commando who fought with a broadsword, longbow, and bagpipes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-13 14:41</span>
             </div>
         </div>
 <div class="story">
@@ -292,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 80 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 20:25 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 240 |
+        🔄 Last Updated: 21:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
