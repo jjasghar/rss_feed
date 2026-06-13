@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 10:04:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-13 11:33:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 10:04 UTC</div>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 11:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e73f/live/461c5450-6712-11f1-8546-8f19e4fe30f4.jpg" alt="Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss" target="_blank">Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-13 11:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +97,20 @@
                 <span class="time">2026-06-13 02:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-venezuela-us-military-strike_7272145.jpg?20260613040528" alt="Leader of Venezuelan gang killed in US strike, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/leader-of-venezuelan-gang-killed-in-us-military-strike-trump-says-13553575" target="_blank">Leader of Venezuelan gang killed in US strike, Trump says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-13 01:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai" target="_blank">The future of Hollywood isn’t feeding prompts into vanilla gen AI models</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-13 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a2c41ce14f8a13c2f9c4aac/master/pass/googleAI.jpg" alt="A German Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +156,20 @@
                 <span class="time">2026-06-13 02:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a2cb2e540437fd74449a752/master/pass/Anthropic-Says-US-Gov-Ordered-it-to-Shut-Down-Mythos-Models-Business-2280583841.jpg" alt="Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/" target="_blank">Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-13 02:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/qasim157/support-threads-that-span-days-agent-memory-via-email-29oj" target="_blank">Support Threads That Span Days: Agent Memory via Email</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-13 11:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +215,6 @@
                 <span class="time">2026-06-13 05:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17360349/yserver" target="_blank">There is a New X11 Server, Written in Rust, With the Help of AI</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-13 04:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,15 +227,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html" target="_blank">Friday Squid Blogging: Squid-Inspired Fluid Pump</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-06-12 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html" target="_blank">Bernie Sanders’ AI Sovereign Wealth Fund Plan</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-12 11:03</span>
             </div>
         </div>
 </div>
@@ -338,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 10:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 39 | 📸 With Images: 242 |
+        🔄 Last Updated: 11:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
