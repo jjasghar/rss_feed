@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 17:28:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-13 18:24:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 17:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 18:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-2-ap-er-260613_1781372141344_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says agreement with Iran will be signed &#x27;tomorrow&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says agreement with Iran will be signed &#x27;tomorrow&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-13 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/6/13/live-qatar-vs-switzerland-world-cup-2026?traffic_source=rss" target="_blank">Qatar vs Switzerland live – World Cup 2026</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-13 17:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/kc-2-ap-gmh-260613_1781356833787_hpMain_4x3t_384.jpg" alt="Trump&#x27;s name removed from Kennedy Center following court order: DOJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +97,6 @@
                 <span class="title"><a href="https://www.today.com/video/team-usa-kicks-off-world-cup-with-win-over-paraguay-265045573977" target="_blank">Team USA kicks off World Cup with win over Paraguay</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-13 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kc-2-ap-gmh-260613_1781356833787_hpMain_4x3t_384.jpg" alt="Trump&#x27;s name must be removed from Kennedy Center by noon Saturday, judge says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trumps-removed-kennedy-center-noon-saturday-judge/story?id=133841904" target="_blank">Trump&#x27;s name must be removed from Kennedy Center by noon Saturday, judge says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-13 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/13/from-colony-to-cell-sexual-violence-in-israeli-prisons?traffic_source=rss" target="_blank">From colony to cell: Sexual violence in Israeli prisons</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-13 14:06</span>
             </div>
         </div>
 </div>
@@ -169,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/puzzleheaded67/3-finance-themed-ui-concepts-i-built-recently-free-to-use-592j" target="_blank">3 Finance-Themed UI Concepts I Built Recently (Free to Use)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-13 18:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bfxavier/a-pretooluse-hook-that-sandboxes-claude-code-agents-by-reading-what-they-actually-do-1bpj" target="_blank">A PreToolUse hook that sandboxes Claude Code agents by reading what they actually do</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-13 16:18</span>
@@ -208,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/freerave/the-ai-they-said-was-too-dangerous-is-now-inside-the-nsa-3kg8" target="_blank">The AI They Said Was Too Dangerous — Is Now Inside the NSA</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-13 13:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-Light-GRUB-For-CoCo" target="_blank">Fedora 45 Considering A Lightened GRUB Bootloader For Confidential Compute</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-13 12:22</span>
             </div>
         </div>
 </div>
@@ -315,22 +313,13 @@
                 <span class="time">2026-06-12 23:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/12/once-upon-a-galaxy-sponstream" target="_blank">Once Upon A Galaxy &quot;Sponstream&quot;</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-12 17:47</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 17:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 18:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
