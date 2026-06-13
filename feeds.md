@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-12 23:27:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-13 00:31:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, June 12, 2026 - 23:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 00:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/12/nx-s1-5856563/justice-dept-approves-paramounts-acquisition-of-warner-bros-discovery" target="_blank">Paramount-Warner Brothers merger gets Justice Department approval</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-12 23:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +97,20 @@
                 <span class="time">2026-06-12 19:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260611-metlife-grass-ch-1455-b0e2be.jpg" alt="World Cup grass fields have NFL players asking why they still play on turf" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/sports/soccer/turf-world-cup-slap-face-nfl-players-rcna347990" target="_blank">World Cup grass fields have NFL players asking why they still play on turf</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-12 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/" target="_blank">SpaceX IPO: Live updates on everything you need to know</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-12 23:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a2c555e0473de232b255ae6/master/pass/Meta-Employee-Interrupts-AI-Training-Business-2261841192.jpg" alt="‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/" target="_blank">PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-12 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer" target="_blank">The world’s first trillionaire is a killer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-12 18:46</span>
             </div>
         </div>
 </div>
@@ -245,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/1280px-Xbox-Debug-Console-Set.jpg?fit=1280%2C608&amp;quality=60&amp;ssl=1" alt="Microsoft may spin off struggling XBox division" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/12/microsoft-may-spin-off-struggling-xbox-division.html" target="_blank">Microsoft may spin off struggling XBox division</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-12 23:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/04/eacc0e56ca6aeb681cff8909d4cf7b40-1280x719.jpg" alt="Shareholders Are Trying To Bully Elden Ring Maker FromSoftware Into Divorcing Bandai Namco" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -287,15 +295,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-12 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/kennedy-center.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Watch the live Kennedy Center stream of Trump&#x27;s name coming down (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/12/watch-the-live-kennedy-center-stream-of-trumps-name-coming-down-video.html" target="_blank">Watch the live Kennedy Center stream of Trump&#x27;s name coming down (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-12 18:09</span>
             </div>
         </div>
 </div>
@@ -344,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 23:27 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 00:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
