@@ -1,45 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 03:00:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-13 05:26:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 36 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 03:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 05:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +45,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/13/older-runners-defy-age-in-kenyas-central-highlands?traffic_source=rss" target="_blank">Older runners defy age in Kenya’s central highlands</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-13 04:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a4d/live/fa2bd400-664c-11f1-8e1d-bbbb1017d210.png" alt="Rugby star Sinfield and authors Blackman and Donaldson lead honours list" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -71,6 +69,15 @@
                 <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/balogun-firma-su-doblete-con-un-zurdazo-y-estados-unidos-golea-a-paraguay-3-0-tmvo13193564" target="_blank">Balogun firma su doblete con un zurdazo y Estados Unidos golea a Paraguay 3-0</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-13 02:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-venezuela-us-military-strike_7272145.jpg?20260613040528" alt="Leader of Venezuelan gang killed in US strike, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/leader-of-venezuelan-gang-killed-in-us-military-strike-trump-says-13553575" target="_blank">Leader of Venezuelan gang killed in US strike, Trump says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-13 01:26</span>
             </div>
         </div>
 <div class="story">
@@ -91,29 +98,20 @@
                 <span class="time">2026-06-12 23:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/12/bosnia-canada-share-points-in-hard-fought-draw-at-world-cup?traffic_source=rss" target="_blank">Bosnia, Canada share points in hard-fought draw at World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-12 22:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-5-gty-gmh-260611_1781208944550_hpMain_4x3t_384.jpg" alt="What the US says is in the potential Iran war agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/us-potential-iran-war-agreement/story?id=133825956" target="_blank">What the US says is in the potential Iran war agreement</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-12 21:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/fable5-500x500-1781319492.webp" alt="Anthropic shuts down Fable, Mythos models following Trump admin directive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/" target="_blank">Anthropic shuts down Fable, Mythos models following Trump admin directive</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-13 03:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -159,20 +157,29 @@
                 <span class="time">2026-06-12 21:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/" target="_blank">Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-12 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17360349/yserver" target="_blank">There is a New X11 Server, Written in Rust, With the Help of AI</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-13 04:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/webmcp-web-agent-standard-chrome/en/headerimage/generatedHeaderImage-1781307482428.jpg" alt="WebMCP Standard Proposal for Agentic Web Actuation Now Available in Chrome (Origin Trials)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/webmcp-web-agent-standard-chrome/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">WebMCP Standard Proposal for Agentic Web Actuation Now Available in Chrome (Origin Trials)</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-13 03:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/928builds/perfect-is-the-enemy-of-done-and-i-learned-that-the-hard-way-2pa" target="_blank">Perfect Is the Enemy of Done — and I Learned That the Hard Way</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-12 23:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/" target="_blank">How we made GitHub Copilot CLI more selective about delegation</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-12 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fluidwire/the-first-message-sent-over-the-internet-was-lo-3032" target="_blank">The First Message Sent Over the Internet Was &#x27;LO&#x27;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-12 21:15</span>
             </div>
         </div>
 </div>
@@ -350,22 +339,13 @@
                 <span class="time">2026-06-12 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/plate_flip.png" alt="Plate Flip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3258/" target="_blank">Plate Flip</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-06-12 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 03:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 38 | 📸 With Images: 244 |
+        🔄 Last Updated: 05:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
