@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 18:24:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-13 19:28:54 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 18:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 19:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +110,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/" target="_blank">Amazon CEO reportedly raised Anthropic model concerns before government crackdown</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-13 19:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/949593/super-mario-bros-3-million-auction" target="_blank">Sealed Super Mario Bros. sells for a record $3 million</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-13 18:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/day7-500x500-1781361104.jpg" alt="Review: Disclosure Day is big on action, light on ideas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -138,24 +161,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/" target="_blank">This thin under-pillow speaker helped me fall asleep without earbuds</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-13 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence" target="_blank">My first 24 hours with Siri AI on the Mac</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-13 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire" target="_blank">Never Post’s Mike Rugnetta on the creative process and the value of reliable power</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-13 14:00</span>
             </div>
         </div>
 </div>
@@ -281,15 +286,6 @@
                 <span class="time">2026-06-12 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/shutterstock_2500782201.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Lake Powell is approaching the line where Glen Canyon Dam stops making power" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/12/lake-powell-is-approaching-the-line-where-glen-canyon-dam-stops-making-power.html" target="_blank">Lake Powell is approaching the line where Glen Canyon Dam stops making power</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-12 19:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 239 |
-        🔄 Last Updated: 18:24 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 39 | 📸 With Images: 237 |
+        🔄 Last Updated: 19:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
