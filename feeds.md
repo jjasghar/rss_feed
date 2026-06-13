@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 19:28:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-13 20:25:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 19:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 20:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7d/live/40c89fc0-675f-11f1-8e1d-bbbb1017d210.jpg" alt="Resident doctors cancel strike after new offer from government" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss" target="_blank">Resident doctors cancel strike after new offer from government</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-13 20:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-2-ap-er-260613_1781372141344_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says agreement with Iran will be signed &#x27;tomorrow&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/construction-workers-begin-removing-trump-name-kennedy-center-rcna349870" target="_blank">Kennedy Center official tells judge Trump’s name has been removed from building and website</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-13 14:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/third_goal_front-ssamay.jpg" alt="Team USA kicks off World Cup with win over Paraguay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/team-usa-kicks-off-world-cup-with-win-over-paraguay-265045573977" target="_blank">Team USA kicks off World Cup with win over Paraguay</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-13 14:12</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/06/terraform-mcp-server-ga/en/headerimage/terraform-pc-server-ga-1781379415414.jpeg" alt="Terraform MCP Server Enables AI Assistants to Interact with Terraform Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/terraform-mcp-server-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Terraform MCP Server Enables AI Assistants to Interact with Terraform Infrastructure</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-13 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +216,6 @@
                 <span class="title"><a href="https://desfontain.es/blog/banning-noise.html" target="_blank">US bans differential privacy in Census data</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-13 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/freerave/the-ai-they-said-was-too-dangerous-is-now-inside-the-nsa-3kg8" target="_blank">The AI They Said Was Too Dangerous — Is Now Inside the NSA</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-13 13:26</span>
             </div>
         </div>
 </div>
@@ -268,24 +264,6 @@
                 <span class="time">2026-06-12 23:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/04/eacc0e56ca6aeb681cff8909d4cf7b40-1280x719.jpg" alt="Shareholders Are Trying To Bully Elden Ring Maker FromSoftware Into Divorcing Bandai Namco" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/activist-investors-elden-ring-developer-fromsoftware-2000706037" target="_blank">Shareholders Are Trying To Bully Elden Ring Maker FromSoftware Into Divorcing Bandai Namco</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-12 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTYGEFBZ5AT41V36VH520A69/hero-image.jpg" alt="My Apple Watch Doesn’t Support watchOS 27, but Here’s Why I’m Not Buying a New One" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/my-apple-watch-doesnt-support-watchos-27-but-im-not-buying-a-new?utm_medium=RSS" target="_blank">My Apple Watch Doesn’t Support watchOS 27, but Here’s Why I’m Not Buying a New One</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-12 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 39 | 📸 With Images: 237 |
-        🔄 Last Updated: 19:29 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 80 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 20:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
