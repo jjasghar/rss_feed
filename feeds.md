@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-13 05:26:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-13 07:12:30 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, June 13, 2026 - 05:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, June 13, 2026 - 07:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a2aad442915c6817b50fff5/master/pass/GettyImages-2199577958.jpg" alt="Here’s How AI Agents Can Protect EV Chargers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/" target="_blank">Here’s How AI Agents Can Protect EV Chargers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-13 06:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/" target="_blank">Andrew Yang thinks the next big startup opportunity is lowering the cost of living</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-13 04:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/fable5-500x500-1781319492.webp" alt="Anthropic shuts down Fable, Mythos models following Trump admin directive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -139,29 +157,29 @@
                 <span class="time">2026-06-13 01:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/" target="_blank">SpaceX IPO: Live updates on everything you need to know</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-12 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a2c555e0473de232b255ae6/master/pass/Meta-Employee-Interrupts-AI-Training-Business-2261841192.jpg" alt="‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/" target="_blank">‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-12 21:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/cdk-mixins-aws/en/headerimage/generatedHeaderImage-1780155748389.jpg" alt="AWS Introduces CDK Mixins for Composable Infrastructure Abstractions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/cdk-mixins-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces CDK Mixins for Composable Infrastructure Abstractions</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-13 05:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow" target="_blank">There is a shadow hanging over this Fable thing</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-13 05:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500" target="_blank">Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Affected Packages</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-13 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/fable-mythos-access" target="_blank">US Government directive to suspend access to Fable 5 and Mythos 5</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-13 00:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/928builds/perfect-is-the-enemy-of-done-and-i-learned-that-the-hard-way-2pa" target="_blank">Perfect Is the Enemy of Done — and I Learned That the Hard Way</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-12 23:19</span>
             </div>
         </div>
 </div>
@@ -330,22 +330,13 @@
                 <span class="time">2026-06-12 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/12/paid-in-pretend-candy" target="_blank">Paid In Pretend Candy</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-12 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 38 | 📸 With Images: 244 |
-        🔄 Last Updated: 05:27 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 07:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
