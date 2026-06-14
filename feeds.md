@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 22:22:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-14 23:24:52 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 22:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 23:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/14/world-cup-nations-slam-uefa-chief-for-disappointing-48-team-criticism?traffic_source=rss" target="_blank">World Cup nations slam UEFA chief for ‘disappointing’ 48-team criticism</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-14 23:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Tehran-DB-260614_1781433710963_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US-Iran have reached a deal, opening Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-geneva-g7-switzerland_7273542.jpg?20260614212413" alt="Geneva police clash with anti-G7 protesters ahead of summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/protesters-clash-with-police-in-geneva-ahead-of-g7-summit-in-france-13554132" target="_blank">Geneva police clash with anti-G7 protesters ahead of summit</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-14 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -78,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/14/lewis-hamilton-wins-first-f1-race-with-ferrari-in-barcelona?traffic_source=rss" target="_blank">Lewis Hamilton wins first F1 race with Ferrari in Barcelona</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-14 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-DB-260614_1781433710963_hpMain_4x3t_384.jpg" alt="Iran live updates: Israeli military says it killed a senior Hezbollah commander" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Israeli military says it killed a senior Hezbollah commander</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-14 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c96/live/b9b7b210-67f8-11f1-8e1d-bbbb1017d210.jpg" alt="Israeli military says Hezbollah targets struck in Beirut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss" target="_blank">Israeli military says Hezbollah targets struck in Beirut</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-14 17:52</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hocmemini/surviving-the-region-you-run-in-failover-on-aurora-dsql-and-what-the-demo-proves-5chc" target="_blank">Surviving the region you run in: failover on Aurora DSQL, and what the demo proves</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-14 23:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devopsaitoolkit/how-to-use-claude-to-troubleshoot-linux-servers-1fhe" target="_blank">How to Use Claude to Troubleshoot Linux Servers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-14 21:15</span>
@@ -207,15 +216,6 @@
                 <span class="time">2026-06-14 15:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gabrielweinberg.com/p/people-are-consuming-ai-like-they" target="_blank">No, everyone is not using AI for everything</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-14 14:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/virtueandasledge-1280x720.jpg" alt="Pay Attention To These 7 Summer Game Fest Indies You Might Have Missed Amid All The Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/seven-summer-game-fest-indies-you-might-have-missed-amid-all-the-hype-2000706350" target="_blank">Pay Attention To These 7 Summer Game Fest Indies You Might Have Missed Amid All The Hype</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-14 21:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/virtueandasledge-1280x720.jpg" alt="Seven Summer Game Fest Indies You Might Have Missed Amid All The Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +289,6 @@
                 <span class="time">2026-06-14 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/f2e0c810ca1866360ee164a048d735cd-1280x720.jpg" alt="Capcom’s President Explains The Secret Behind The Resident Evil Maker’s Recent Winning Streak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/capcoms-president-explains-the-secret-behind-the-resident-evil-makers-recent-winning-streak-2000706227" target="_blank">Capcom’s President Explains The Secret Behind The Resident Evil Maker’s Recent Winning Streak</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-14 13:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 64 | 📡 Total Sources: 39 | 📸 With Images: 237 |
-        🔄 Last Updated: 22:22 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 23:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
