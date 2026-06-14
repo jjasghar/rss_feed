@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 11:40:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-14 12:32:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 11:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 12:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-DB-260614_1781433710963_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel strikes Beirut amid hopes for US-Iran deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Israel strikes Beirut amid hopes for US-Iran deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-14 11:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/sports/nba/knicks-nba-champions-rcna349848" target="_blank">Knicks win first NBA championship since 1973, beat Spurs 94-90 in Game 5</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-14 03:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss" target="_blank">Two killed in Israeli strike on Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-14 01:11</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/simongreennet/weekly-challenge-existence-4531" target="_blank">Weekly Challenge: Existence</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-14 12:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/graham_s_6e58dacfa7e82f0d/what-i-learned-building-a-take-home-pay-calculator-for-all-50-us-states-2gmp" target="_blank">What I learned building a take-home pay calculator for all 50 US states</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-14 11:36</span>
@@ -206,15 +213,6 @@
                 <span class="title"><a href="https://phoenixframework.org/blog/phoenix-liveview-1-2-released" target="_blank">Phoenix LiveView 1.2 Released</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-14 04:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fiercedash/how-i-cut-our-recommendation-engine-bill-60-without-losing-quality-127d" target="_blank">How I Cut Our Recommendation Engine Bill 60% Without Losing Quality</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-14 02:45</span>
             </div>
         </div>
 </div>
@@ -286,8 +284,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 67 | 📡 Total Sources: 39 | 📸 With Images: 239 |
-        🔄 Last Updated: 11:40 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 64 | 📡 Total Sources: 39 | 📸 With Images: 240 |
+        🔄 Last Updated: 12:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
