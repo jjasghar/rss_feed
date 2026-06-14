@@ -1,35 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 18:24:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-14 19:29:09 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 1 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 18:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 19:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c96/live/b9b7b210-67f8-11f1-8e1d-bbbb1017d210.jpg" alt="Israeli military says Hezbollah targets struck in Beirut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss" target="_blank">Israeli military says Hezbollah targets struck in Beirut</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-14 17:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +90,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/us-intent-iran-deal-sunday-ambassador-waltz/story?id=133860049" target="_blank">US has &#x27;every intent of getting&#x27; Iran deal done Sunday, Ambassador Waltz says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-14 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2066/live/3ab98dd0-67d5-11f1-9c4b-77e30dd66647.png" alt="Royal Marines board Russian shadow fleet oil tanker in English Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss" target="_blank">Royal Marines board Russian shadow fleet oil tanker in English Channel</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-14 13:20</span>
             </div>
         </div>
 </div>
@@ -309,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 62 | 📡 Total Sources: 39 | 📸 With Images: 239 |
-        🔄 Last Updated: 18:24 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 60 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 19:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
