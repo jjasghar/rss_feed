@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 21:25:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-14 22:22:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 21:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 22:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-DB-260614_1781433710963_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US-Iran have reached a deal, opening Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says US-Iran have reached a deal, opening Strait of Hormuz</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-14 21:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +98,20 @@
                 <span class="time">2026-06-14 17:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit?traffic_source=rss" target="_blank">Thousands protest as Trump, other world leaders set to meet for G7 summit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-14 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/14/frank-founder-charlie-javice-is-reportedly-asking-trump-for-a-pardon/" target="_blank">Frank founder Charlie Javice is reportedly asking Trump for a pardon</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-14 22:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +157,6 @@
                 <span class="time">2026-06-14 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a2cc8baa22dc9d7603b689f/master/pass/Update--Manly-Men-Gift-Guide.jpg" alt="20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-gifts-for-men-2026/" target="_blank">20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-14 11:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/devopsaitoolkit/how-to-use-claude-to-troubleshoot-linux-servers-1fhe" target="_blank">How to Use Claude to Troubleshoot Linux Servers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-14 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/tamnd/kage" target="_blank">Show HN: Kage – Shadow any website to a single binary for offline viewing</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-14 17:25</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +214,6 @@
                 <span class="title"><a href="https://gabrielweinberg.com/p/people-are-consuming-ai-like-they" target="_blank">No, everyone is not using AI for everything</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-14 14:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_620537c740ddfa6f40b717/the-freak-circus-quiz-hb5" target="_blank">THE FREAK CIRCUS QUIZ</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-14 14:21</span>
             </div>
         </div>
 </div>
@@ -312,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 64 | 📡 Total Sources: 38 | 📸 With Images: 237 |
-        🔄 Last Updated: 21:25 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 64 | 📡 Total Sources: 39 | 📸 With Images: 237 |
+        🔄 Last Updated: 22:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
