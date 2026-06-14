@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 20:25:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-14 21:25:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 20:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 21:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss" target="_blank">Gaza mourns four killed in Israeli strike</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-14 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/06/14/nx-s1-5857729/skydiving-plane-crash-missouri" target="_blank">12 dead after skydiving plane crashes in Missouri, authorities say</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -59,6 +73,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/14/lewis-hamilton-wins-first-f1-race-with-ferrari-in-barcelona?traffic_source=rss" target="_blank">Lewis Hamilton wins first F1 race with Ferrari in Barcelona</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-14 19:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-DB-260614_1781433710963_hpMain_4x3t_384.jpg" alt="Iran live updates: Israeli military says it killed a senior Hezbollah commander" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Israeli military says it killed a senior Hezbollah commander</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-14 19:03</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +102,20 @@
                 <span class="time">2026-06-14 16:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/14/nx-s1-5857167/trump-g7-iran-war-macron-france" target="_blank">The U.S.-led war in Iran will dominate Trump&#x27;s G7 trip to France</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-14 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c96/live/b9b7b210-67f8-11f1-8e1d-bbbb1017d210.jpg" alt="Lebanon says three killed in Israeli strike on Beirut suburb" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss" target="_blank">Lebanon says three killed in Israeli strike on Beirut suburb</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-14 15:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range" target="_blank">The FBI built a small town to simulate cyberattacks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-14 20:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +161,20 @@
                 <span class="time">2026-06-14 11:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/" target="_blank">As Anthropic suspends access to new models, India debates its AI future</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-14 03:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devopsaitoolkit/how-to-use-claude-to-troubleshoot-linux-servers-1fhe" target="_blank">How to Use Claude to Troubleshoot Linux Servers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-14 21:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +220,6 @@
                 <span class="time">2026-06-14 14:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript" target="_blank">The Birth and Death of JavaScript (2014)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-14 12:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/virtueandasledge-1280x720.jpg" alt="Seven Summer Game Fest Indies You Might Have Missed Amid All The Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/seven-summer-game-fest-indies-you-might-have-missed-amid-all-the-hype-2000706350" target="_blank">Seven Summer Game Fest Indies You Might Have Missed Amid All The Hype</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-14 21:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/windwakerbarrel-1280x744.jpg" alt="Nintendo You Better Not Be Giving Up On Style" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +293,6 @@
                 <span class="time">2026-06-14 13:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114204.jpg?fit=1200%2C1588&amp;quality=60&amp;ssl=1" alt="At a medieval church festival, the priest brayed like a donkey and the congregation brayed back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/13/at-a-medieval-church-festival-the-priest-brayed-like-a-donkey-and-the-congregation-brayed-back.html" target="_blank">At a medieval church festival, the priest brayed like a donkey and the congregation brayed back</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-14 02:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 62 | 📡 Total Sources: 38 | 📸 With Images: 237 |
-        🔄 Last Updated: 20:26 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 64 | 📡 Total Sources: 38 | 📸 With Images: 237 |
+        🔄 Last Updated: 21:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
