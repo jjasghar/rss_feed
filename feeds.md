@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 07:29:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-14 09:01:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 07:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-2-ap-er-260613_1781372141344_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says deal will be signed, Tehran says it will &#x27;wait and see&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says deal will be signed, Tehran says it will &#x27;wait and see&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-14 08:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260613-jalen-brunson-rc-1104p-fbd848.jpg" alt="Knicks win first NBA championship since 1973, beat Spurs 94-90 in Game 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss" target="_blank">Qatar net late against Switzerland to secure historic first World Cup point</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-13 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/13/g-s1-128070/police-investigate-england-equipment-world-cup-kansas-city-florida" target="_blank">Police investigate theft of England equipment at World Cup, 2 people in custody</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-13 21:10</span>
             </div>
         </div>
 </div>
@@ -190,6 +198,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://phoenixframework.org/blog/phoenix-liveview-1-2-released" target="_blank">Phoenix LiveView 1.2 Released</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-14 04:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/fiercedash/how-i-cut-our-recommendation-engine-bill-60-without-losing-quality-127d" target="_blank">How I Cut Our Recommendation Engine Bill 60% Without Losing Quality</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/rerodrigues/creating-your-own-remote-cache-server-for-nx-and-lerna-with-cacheiro-2dcg" target="_blank">Creating your own Remote Cache Server for Nx and Lerna with Cacheiro</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-14 01:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-Staging-11.11" target="_blank">Wine-Staging 11.11 Released With 289 Patches Atop Upstream</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-14 00:52</span>
             </div>
         </div>
 </div>
@@ -283,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 07:29 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
