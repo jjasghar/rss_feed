@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 17:27:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-14 18:24:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 17:27 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 18:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/nex-agi/Nex-N2/issues/4" target="_blank">Rio de Janeiro&#x27;s &quot;homegrown&quot; LLM appears to be a merge of an existing model</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-14 15:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/codedevfluent/5-english-phrases-every-developer-needs-for-code-reviews-3nkp" target="_blank">5 English Phrases Every Developer Needs for Code Reviews</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,15 +215,6 @@
                 <span class="title"><a href="https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript" target="_blank">The Birth and Death of JavaScript (2014)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-14 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/simongreennet/weekly-challenge-existence-4531" target="_blank">Weekly Challenge: Existence</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-14 12:28</span>
             </div>
         </div>
 </div>
@@ -307,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 64 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 17:27 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 62 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 18:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
