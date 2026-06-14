@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 16:28:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-14 17:27:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 16:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 17:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit?traffic_source=rss" target="_blank">Thousands protest as Trump, other world leaders set to meet for G7 summit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-14 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/14/nx-s1-5857167/trump-g7-iran-war-macron-france" target="_blank">The U.S.-led war in Iran will dominate Trump&#x27;s G7 trip to France</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-14 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c96/live/b9b7b210-67f8-11f1-8e1d-bbbb1017d210.jpg" alt="Lebanon says three killed in Israeli strike on Beirut suburb" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss" target="_blank">Lebanon says three killed in Israeli strike on Beirut suburb</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-14 15:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/06/1920x1080/skynews-formula-one-lewis-hamilton_7273287.jpg?20260614161201" alt="British 1-2-3 at Barcelona-Catalunya Grand Prix - first since 1968" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,38 +97,20 @@
                 <span class="time">2026-06-14 13:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781442000539_mtp_clip_kornacki_260614_S3_1920x1080-uak88l.jpg" alt="Steve Kornacki: America 250 poll shows nation marked by doubt and pessimism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/steve-kornacki-america-250-poll-shows-nation-marked-by-doubt-and-pessimism-265066565892" target="_blank">Steve Kornacki: America 250 poll shows nation marked by doubt and pessimism</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-14 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/14/anticipation-pushback-in-iran-as-mediators-work-to-finalise-deal-with-us?traffic_source=rss" target="_blank">Anticipation, pushback in Iran as mediators work to finalise deal with US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-14 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-DB-260614_1781433710963_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel strikes Beirut amid hopes for US-Iran deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Israel strikes Beirut amid hopes for US-Iran deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-14 11:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review" target="_blank">Conclave is the sound of a NYC summer block party</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-14 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/eilmer-500x500.jpg" alt="Did a medieval flying monk spot Halley&#x27;s comet, twice? It&#x27;s complicated" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/" target="_blank">Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-14 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban" target="_blank">Amazon security research reportedly led to the White House’s Anthropic Fable ban</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-13 21:39</span>
             </div>
         </div>
 </div>
@@ -313,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 63 | 📡 Total Sources: 39 | 📸 With Images: 241 |
-        🔄 Last Updated: 16:28 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 64 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 17:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
