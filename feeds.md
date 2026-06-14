@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 10:55:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-06-14 11:40:37 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 10:55 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 11:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/14/g-s1-127865/world-cup-soccer-grannies" target="_blank">Here&#x27;s who&#x27;s missing at the World Cup: Soccer-playing grannies!</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-14 11:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss" target="_blank">Israel attacks Beirut on same day Trump says Iran deal to be signed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-14 11:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +99,20 @@
                 <span class="time">2026-06-14 01:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_haiti-fans-in-the-streets-scotland-in-kilts-130626?traffic_source=rss" target="_blank">Haiti fans in the streets, Scotland faithful in kilts</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-14 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781393357781_wnn_jki_security_nba_game_5_260613_S3_1920x1080-ek3ju7.jpg" alt="Security ramps up in San Antonio and New York ahead of NBA finals Game 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/security-ramps-up-in-san-antonio-and-new-york-ahead-of-nba-finals-game-5-265054789879" target="_blank">Security ramps up in San Antonio and New York ahead of NBA finals Game 5</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-13 23:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a2cc8baa22dc9d7603b689f/master/pass/Update--Manly-Men-Gift-Guide.jpg" alt="20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-gifts-for-men-2026/" target="_blank">20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-14 11:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +158,20 @@
                 <span class="time">2026-06-13 19:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/949593/super-mario-bros-3-million-auction" target="_blank">Sealed Super Mario Bros. sells for a record $3 million</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-13 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/graham_s_6e58dacfa7e82f0d/what-i-learned-building-a-take-home-pay-calculator-for-all-50-us-states-2gmp" target="_blank">What I learned building a take-home pay calculator for all 50 US states</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-14 11:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/fiercedash/how-i-cut-our-recommendation-engine-bill-60-without-losing-quality-127d" target="_blank">How I Cut Our Recommendation Engine Bill 60% Without Losing Quality</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-14 02:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rerodrigues/creating-your-own-remote-cache-server-for-nx-and-lerna-with-cacheiro-2dcg" target="_blank">Creating your own Remote Cache Server for Nx and Lerna with Cacheiro</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-14 01:40</span>
             </div>
         </div>
 </div>
@@ -292,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 240 |
-        🔄 Last Updated: 10:55 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 67 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 11:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
