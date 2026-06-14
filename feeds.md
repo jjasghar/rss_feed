@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 05:30:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing 54 RSS feeds at 2026-06-14 07:29:02 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 05:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 07:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -174,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sahilbedi40/why-i-built-toolnudge-a-privacy-first-collection-of-browser-based-utilities-1lfc" target="_blank">Why I Built ToolNudge: A Privacy-First Collection of Browser-Based Utilities</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-14 07:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kaithorne/stop-using-ospath-python-pathlib-makes-file-handling-actually-enjoyable-225" target="_blank">&quot;Stop Using os.path — Python pathlib Makes File Handling Actually Enjoyable&quot;</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-14 05:21</span>
@@ -213,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-Staging-11.11" target="_blank">Wine-Staging 11.11 Released With 289 Patches Atop Upstream</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-14 00:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/apeh1706/securing-financial-apis-in-2026-implementing-global-request-interceptors-and-automated-audit-4g26" target="_blank">Securing Financial APIs in 2026: Implementing Global Request Interceptors and Automated Audit Trails in Spring Boot</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-13 23:06</span>
             </div>
         </div>
 </div>
@@ -293,8 +283,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 39 | 📸 With Images: 239 |
-        🔄 Last Updated: 05:30 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 07:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
