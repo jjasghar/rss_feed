@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 03:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-14 05:30:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 03:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 05:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260613-jalen-brunson-rc-1104p-fbd848.jpg" alt="Knicks win first NBA championship since 1973, beat Spurs 94-90 in Game 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/nba/knicks-nba-champions-rcna349848" target="_blank">Knicks win first NBA championship since 1973, beat Spurs 94-90 in Game 5</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-14 03:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +104,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/13/g-s1-128070/police-investigate-england-equipment-world-cup-kansas-city-florida" target="_blank">Police investigate theft of England equipment at World Cup, 2 people in custody</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-13 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/13/dashcam-shows-us-cop-accidentally-shooting-colleague-during?traffic_source=rss" target="_blank">Dashcam shows US cop accidentally shooting colleague during ‘horseplay’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-13 21:05</span>
             </div>
         </div>
 </div>
@@ -168,6 +174,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kaithorne/stop-using-ospath-python-pathlib-makes-file-handling-actually-enjoyable-225" target="_blank">&quot;Stop Using os.path — Python pathlib Makes File Handling Actually Enjoyable&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-14 05:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/elasticache-valkey-durability/en/headerimage/generatedHeaderImage-1780636607335.jpg" alt="AWS Introduces Durable Storage Option for ElastiCache for Valkey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/elasticache-valkey-durability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Durable Storage Option for ElastiCache for Valkey</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-14 05:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/fiercedash/how-i-cut-our-recommendation-engine-bill-60-without-losing-quality-127d" target="_blank">How I Cut Our Recommendation Engine Bill 60% Without Losing Quality</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-14 02:45</span>
@@ -200,29 +224,20 @@
                 <span class="time">2026-06-13 23:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.pyodide.org/posts/314-release/" target="_blank">Pyodide 314.0: WebAssembly wheels for PyPI</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-06-13 22:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkc0hvypembd4wgh6t0k.jpg" alt="Query Rewriting Before Retrieval: The Cheap Recall Win Most Skip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gabrielanhaia/query-rewriting-before-retrieval-the-cheap-recall-win-most-skip-11g1" target="_blank">Query Rewriting Before Retrieval: The Cheap Recall Win Most Skip</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-13 22:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114204.jpg?fit=1200%2C1588&amp;quality=60&amp;ssl=1" alt="At a medieval church festival, the priest brayed like a donkey and the congregation brayed back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/13/at-a-medieval-church-festival-the-priest-brayed-like-a-donkey-and-the-congregation-brayed-back.html" target="_blank">At a medieval church festival, the priest brayed like a donkey and the congregation brayed back</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-14 02:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/r7b7gpzpgll81-1280x667.jpg" alt="Tough Talk And Confronting Slop In Third Manifesto Game Jam" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 75 | 📡 Total Sources: 39 | 📸 With Images: 237 |
-        🔄 Last Updated: 03:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 05:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
