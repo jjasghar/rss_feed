@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 15:31:41 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-14 16:28:22 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 15:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 16:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +109,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/eilmer-500x500.jpg" alt="Did a medieval flying monk spot Halley&#x27;s comet, twice? It&#x27;s complicated" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/" target="_blank">Did a medieval flying monk spot Halley&#x27;s comet, twice? It&#x27;s complicated</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-14 16:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -150,15 +162,6 @@
                 <span class="time">2026-06-13 21:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/" target="_blank">KPMG pulls report on AI usage due to apparent hallucinations</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-13 20:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +183,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Released" target="_blank">Linux 7.1 Released: New NTFS Driver, Intel FRED For Panther Lake, Faster Arc Graphics</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-14 15:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gabrielweinberg.com/p/people-are-consuming-ai-like-they" target="_blank">No, everyone is not using AI for everything</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-14 14:44</span>
             </div>
         </div>
 <div class="story">
@@ -209,13 +221,18 @@
                 <span class="time">2026-06-14 12:28</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17360848/fedora-bug-tracker-infiltrated-by-ai-agent" target="_blank">An AI Agent Infiltrated Fedora&amp;#x27;s Bug Tracker and Wreaked Havoc</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-14 11:53</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html" target="_blank">Upcoming Speaking Engagements</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-14 16:07</span>
             </div>
         </div>
 </div>
@@ -230,6 +247,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/14/two-italian-brothers-claimed-to-have-recorded-dying-soviet-cosmonauts-that-moscow-erased-from-history.html" target="_blank">Two Italian brothers claimed to have recorded dying Soviet cosmonauts that Moscow erased from history</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-14 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/hands-up.jpg" alt="Microsoft CEO Complains About Poor Gaming Profits: ‘There’s More Monetization Of Xbox Games Happening On YouTube’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-ceo-complains-about-poor-gaming-profits-theres-more-monetization-of-xbox-games-happening-on-youtube-2000706326" target="_blank">Microsoft CEO Complains About Poor Gaming Profits: ‘There’s More Monetization Of Xbox Games Happening On YouTube’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-14 14:10</span>
             </div>
         </div>
 <div class="story">
@@ -268,27 +294,18 @@
                 <span class="time">2026-06-13 20:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/frankfortfirefighters-1280x762.jpg" alt="Firefighters Investigating Explosion Caused By Meta Quest 3 In Maine Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/maine-firefighters-investigating-explosion-caused-by-meta-quest-3-2000706237" target="_blank">Firefighters Investigating Explosion Caused By Meta Quest 3 In Maine Home</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-13 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1781226681-comicplaceholder-small.png" alt="Saturday Morning Breakfast Cereal - Upcoming Book Signings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1781226968-20260614.png" alt="Saturday Morning Breakfast Cereal - Proof" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/upcoming-book-signings" target="_blank">Saturday Morning Breakfast Cereal - Upcoming Book Signings</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/proof-6" target="_blank">Saturday Morning Breakfast Cereal - Proof</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-13 16:00</span>
+                <span class="time">2026-06-14 15:20</span>
             </div>
         </div>
 </div>
@@ -296,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 62 | 📡 Total Sources: 39 | 📸 With Images: 241 |
-        🔄 Last Updated: 15:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 63 | 📡 Total Sources: 39 | 📸 With Images: 241 |
+        🔄 Last Updated: 16:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
