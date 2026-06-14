@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 12:32:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-14 13:30:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 12:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 13:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2066/live/3ab98dd0-67d5-11f1-9c4b-77e30dd66647.png" alt="Royal Marines board Russian shadow fleet oil tanker in English Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss" target="_blank">Royal Marines board Russian shadow fleet oil tanker in English Channel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-14 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/14/anticipation-pushback-in-iran-as-mediators-work-to-finalise-deal-with-us?traffic_source=rss" target="_blank">Anticipation, pushback in Iran as mediators work to finalise deal with US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-14 12:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Tehran-DB-260614_1781433710963_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel strikes Beirut amid hopes for US-Iran deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/14/nx-s1-5805984/glp1-telehealth-weight-loss-drugs" target="_blank">Want obesity drugs covered by insurance? Telehealth companies have a big say</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-14 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-2-ap-er-260613_1781372141344_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says deal will be signed, Tehran says it will &#x27;wait and see&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says deal will be signed, Tehran says it will &#x27;wait and see&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-14 08:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260613-jalen-brunson-rc-1104p-fbd848.jpg" alt="Knicks win first NBA championship since 1973, beat Spurs 94-90 in Game 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/sports/nba/knicks-nba-champions-rcna349848" target="_blank">Knicks win first NBA championship since 1973, beat Spurs 94-90 in Game 5</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-14 03:31</span>
             </div>
         </div>
 </div>
@@ -164,10 +167,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript" target="_blank">The Birth and Death of JavaScript (2014)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-14 12:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/simongreennet/weekly-challenge-existence-4531" target="_blank">Weekly Challenge: Existence</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-14 12:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17360848/fedora-bug-tracker-infiltrated-by-ai-agent" target="_blank">An AI Agent Infiltrated Fedora&amp;#x27;s Bug Tracker and Wreaked Havoc</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-14 11:53</span>
             </div>
         </div>
 <div class="story">
@@ -197,29 +218,20 @@
                 <span class="time">2026-06-14 05:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/elasticache-valkey-durability/en/headerimage/generatedHeaderImage-1780636607335.jpg" alt="AWS Introduces Durable Storage Option for ElastiCache for Valkey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/elasticache-valkey-durability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Durable Storage Option for ElastiCache for Valkey</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-14 05:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://phoenixframework.org/blog/phoenix-liveview-1-2-released" target="_blank">Phoenix LiveView 1.2 Released</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-14 04:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/f2e0c810ca1866360ee164a048d735cd-1280x720.jpg" alt="Capcom’s President Explains The Secret Behind The Resident Evil Maker’s Recent Winning Streak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/capcoms-president-explains-the-secret-behind-the-resident-evil-makers-recent-winning-streak-2000706227" target="_blank">Capcom’s President Explains The Secret Behind The Resident Evil Maker’s Recent Winning Streak</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-14 13:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114204.jpg?fit=1200%2C1588&amp;quality=60&amp;ssl=1" alt="At a medieval church festival, the priest brayed like a donkey and the congregation brayed back" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 64 | 📡 Total Sources: 39 | 📸 With Images: 240 |
-        🔄 Last Updated: 12:33 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 13:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
