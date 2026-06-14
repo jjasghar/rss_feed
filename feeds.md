@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 00:28:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-14 01:44:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 00:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 01:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +112,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/" target="_blank">Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-14 00:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban" target="_blank">Amazon security research reportedly led to the White House’s Anthropic Fable ban</a></span>
                 <span class="feed">The Verge</span>
@@ -150,20 +163,29 @@
                 <span class="time">2026-06-13 17:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/" target="_blank">OpenAI faces investigation from state attorneys general</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-13 16:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rerodrigues/creating-your-own-remote-cache-server-for-nx-and-lerna-with-cacheiro-2dcg" target="_blank">Creating your own Remote Cache Server for Nx and Lerna with Cacheiro</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-14 01:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-Staging-11.11" target="_blank">Wine-Staging 11.11 Released With 289 Patches Atop Upstream</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-14 00:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/puzzleheaded67/3-finance-themed-ui-concepts-i-built-recently-free-to-use-592j" target="_blank">3 Finance-Themed UI Concepts I Built Recently (Free to Use)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-13 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bfxavier/a-pretooluse-hook-that-sandboxes-claude-code-agents-by-reading-what-they-actually-do-1bpj" target="_blank">A PreToolUse hook that sandboxes Claude Code agents by reading what they actually do</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-13 16:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manoharij/azure-application-insights-monitoring-kql-queries-and-observability-in-production-2nac" target="_blank">Azure Application Insights: Monitoring, KQL Queries and Observability in Production</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-13 15:19</span>
             </div>
         </div>
 </div>
@@ -278,8 +282,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 00:28 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 76 | 📡 Total Sources: 39 | 📸 With Images: 237 |
+        🔄 Last Updated: 01:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
