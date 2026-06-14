@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 14:43:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-14 15:31:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 14:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 15:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-formula-one-lewis-hamilton_7273287.jpg?20260614161201" alt="British 1-2-3 at Barcelona-Catalunya Grand Prix - first since 1968" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hamilton-russell-and-norris-complete-all-british-podium-at-barcelona-catalunya-grand-prix-13554030" target="_blank">British 1-2-3 at Barcelona-Catalunya Grand Prix - first since 1968</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-14 14:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/BANDAR-ABBAS-HORMUZ-20260614-rt-jh_1781442242080_hpMain_4x3t_384.jpg" alt="US has &#x27;every intent of getting&#x27; Iran deal done Sunday, Ambassador Waltz says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,6 +74,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781442000539_mtp_clip_kornacki_260614_S3_1920x1080-uak88l.jpg" alt="Steve Kornacki: America 250 poll shows nation marked by doubt and pessimism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/steve-kornacki-america-250-poll-shows-nation-marked-by-doubt-and-pessimism-265066565892" target="_blank">Steve Kornacki: America 250 poll shows nation marked by doubt and pessimism</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-14 13:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -80,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Israel strikes Beirut amid hopes for US-Iran deal</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-14 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/14/g-s1-127865/world-cup-soccer-grannies" target="_blank">Here&#x27;s who&#x27;s missing at the World Cup: Soccer-playing grannies!</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-14 11:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss" target="_blank">Israel attacks Beirut on same day Trump says Iran deal to be signed</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-14 11:15</span>
             </div>
         </div>
 </div>
@@ -168,6 +168,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codedevfluent/5-english-phrases-every-developer-needs-for-code-reviews-3nkp" target="_blank">5 English Phrases Every Developer Needs for Code Reviews</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-14 15:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Released" target="_blank">Linux 7.1 Released: New NTFS Driver, Intel FRED For Panther Lake, Faster Arc Graphics</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-14 15:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/_620537c740ddfa6f40b717/the-freak-circus-quiz-hb5" target="_blank">THE FREAK CIRCUS QUIZ</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-14 14:21</span>
@@ -200,29 +218,20 @@
                 <span class="time">2026-06-14 11:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/graham_s_6e58dacfa7e82f0d/what-i-learned-building-a-take-home-pay-calculator-for-all-50-us-states-2gmp" target="_blank">What I learned building a take-home pay calculator for all 50 US states</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-14 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware" target="_blank">Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-14 10:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114208.jpg?fit=1200%2C1600&amp;quality=60&amp;ssl=1" alt="Two Italian brothers claimed to have recorded dying Soviet cosmonauts that Moscow erased from history" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/14/two-italian-brothers-claimed-to-have-recorded-dying-soviet-cosmonauts-that-moscow-erased-from-history.html" target="_blank">Two Italian brothers claimed to have recorded dying Soviet cosmonauts that Moscow erased from history</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-14 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114206.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="A cargo cult in Vanuatu has been waiting for an American named John Frum since the 1930s" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +277,6 @@
                 <span class="time">2026-06-13 16:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/mariogold.jpg" alt="Copy of Super Mario Bros. Sells For $3 Million In Auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/copy-of-super-mario-bros-sells-for-3-million-in-auction-2000706228" target="_blank">Copy of Super Mario Bros. Sells For $3 Million In Auction</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-13 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 61 | 📡 Total Sources: 38 | 📸 With Images: 239 |
-        🔄 Last Updated: 14:43 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 62 | 📡 Total Sources: 39 | 📸 With Images: 241 |
+        🔄 Last Updated: 15:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
