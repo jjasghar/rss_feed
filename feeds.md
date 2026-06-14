@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 13:30:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-06-14 14:43:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 13:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 14:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/BANDAR-ABBAS-HORMUZ-20260614-rt-jh_1781442242080_hpMain_4x3t_384.jpg" alt="US has &#x27;every intent of getting&#x27; Iran deal done Sunday, Ambassador Waltz says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/us-intent-iran-deal-sunday-ambassador-waltz/story?id=133860049" target="_blank">US has &#x27;every intent of getting&#x27; Iran deal done Sunday, Ambassador Waltz says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-14 14:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2066/live/3ab98dd0-67d5-11f1-9c4b-77e30dd66647.png" alt="Royal Marines board Russian shadow fleet oil tanker in English Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +100,20 @@
                 <span class="time">2026-06-14 11:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/14/nx-s1-5805984/glp1-telehealth-weight-loss-drugs" target="_blank">Want obesity drugs covered by insurance? Telehealth companies have a big say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-14 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/" target="_blank">The new Sonos Play has become my go-to desk and kitchen speaker</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-14 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a2cc8baa22dc9d7603b689f/master/pass/Update--Manly-Men-Gift-Guide.jpg" alt="20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +159,20 @@
                 <span class="time">2026-06-13 20:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/" target="_blank">Amazon CEO reportedly raised Anthropic model concerns before government crackdown</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-13 19:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_620537c740ddfa6f40b717/the-freak-circus-quiz-hb5" target="_blank">THE FREAK CIRCUS QUIZ</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-14 14:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,19 +212,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sahilbedi40/why-i-built-toolnudge-a-privacy-first-collection-of-browser-based-utilities-1lfc" target="_blank">Why I Built ToolNudge: A Privacy-First Collection of Browser-Based Utilities</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-14 07:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kaithorne/stop-using-ospath-python-pathlib-makes-file-handling-actually-enjoyable-225" target="_blank">&quot;Stop Using os.path — Python pathlib Makes File Handling Actually Enjoyable&quot;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-14 05:21</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware" target="_blank">Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-14 10:32</span>
             </div>
         </div>
 </div>
@@ -223,6 +223,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114206.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="A cargo cult in Vanuatu has been waiting for an American named John Frum since the 1930s" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/14/a-cargo-cult-in-vanuatu-has-been-waiting-for-an-american-named-john-frum-since-the-1930s.html" target="_blank">A cargo cult in Vanuatu has been waiting for an American named John Frum since the 1930s</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-14 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/f2e0c810ca1866360ee164a048d735cd-1280x720.jpg" alt="Capcom’s President Explains The Secret Behind The Resident Evil Maker’s Recent Winning Streak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +277,6 @@
                 <span class="time">2026-06-13 15:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114203.jpg?fit=1200%2C1215&amp;quality=60&amp;ssl=1" alt="The WWII commando who fought with a broadsword, longbow, and bagpipes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/13/the-wwii-commando-who-fought-with-a-broadsword-longbow-and-bagpipes.html" target="_blank">The WWII commando who fought with a broadsword, longbow, and bagpipes</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-13 14:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 239 |
-        🔄 Last Updated: 13:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 61 | 📡 Total Sources: 38 | 📸 With Images: 239 |
+        🔄 Last Updated: 14:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
