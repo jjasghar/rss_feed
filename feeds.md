@@ -1,28 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 19:29:09 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-06-14 20:25:39 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 20 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 19:29 UTC</div>
+    <div class="newspaper-date">Sunday, June 14, 2026 - 20:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/14/nx-s1-5857729/skydiving-plane-crash-missouri" target="_blank">12 dead after skydiving plane crashes in Missouri, authorities say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-14 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/14/lewis-hamilton-wins-first-f1-race-with-ferrari-in-barcelona?traffic_source=rss" target="_blank">Lewis Hamilton wins first F1 race with Ferrari in Barcelona</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-14 19:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c96/live/b9b7b210-67f8-11f1-8e1d-bbbb1017d210.jpg" alt="Israeli military says Hezbollah targets struck in Beirut" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,29 +97,20 @@
                 <span class="time">2026-06-14 15:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-formula-one-lewis-hamilton_7273287.jpg?20260614161201" alt="British 1-2-3 at Barcelona-Catalunya Grand Prix - first since 1968" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hamilton-russell-and-norris-complete-all-british-podium-at-barcelona-catalunya-grand-prix-13554030" target="_blank">British 1-2-3 at Barcelona-Catalunya Grand Prix - first since 1968</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-14 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/BANDAR-ABBAS-HORMUZ-20260614-rt-jh_1781442242080_hpMain_4x3t_384.jpg" alt="US has &#x27;every intent of getting&#x27; Iran deal done Sunday, Ambassador Waltz says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/us-intent-iran-deal-sunday-ambassador-waltz/story?id=133860049" target="_blank">US has &#x27;every intent of getting&#x27; Iran deal done Sunday, Ambassador Waltz says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-14 14:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos" target="_blank">China may have accessed Mythos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-14 18:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,15 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/" target="_blank">As Anthropic suspends access to new models, India debates its AI future</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-14 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/" target="_blank">Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-14 00:03</span>
             </div>
         </div>
 </div>
@@ -230,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/windwakerbarrel-1280x744.jpg" alt="Nintendo You Better Not Be Giving Up On Style" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-you-better-not-be-giving-up-on-style-zelda-star-fox-2000706346" target="_blank">Nintendo You Better Not Be Giving Up On Style</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-14 19:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114208.jpg?fit=1200%2C1600&amp;quality=60&amp;ssl=1" alt="Two Italian brothers claimed to have recorded dying Soviet cosmonauts that Moscow erased from history" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -274,15 +288,6 @@
                 <span class="time">2026-06-14 02:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/r7b7gpzpgll81-1280x667.jpg" alt="Tough Talk And Confronting Slop In Third Manifesto Game Jam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tough-talk-and-confronting-slop-in-third-manifesto-game-jam-2000706250" target="_blank">Tough Talk And Confronting Slop In Third Manifesto Game Jam</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-13 20:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 60 | 📡 Total Sources: 39 | 📸 With Images: 239 |
-        🔄 Last Updated: 19:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 62 | 📡 Total Sources: 38 | 📸 With Images: 237 |
+        🔄 Last Updated: 20:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
