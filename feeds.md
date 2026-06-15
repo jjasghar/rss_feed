@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-15 00:29:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-15 01:46:00 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, June 15, 2026 - 00:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, June 15, 2026 - 01:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/15/us-iran-to-sign-a-peace-deal-on-friday-what-we-know-so-far?traffic_source=rss" target="_blank">US-Iran to sign a ‘peace deal’ on Friday: What we know so far</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-15 01:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss" target="_blank">Gaza mourns four killed in Israeli strike</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-14 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-geneva-g7-switzerland_7273542.jpg?20260614212413" alt="Geneva police clash with anti-G7 protesters ahead of summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/protesters-clash-with-police-in-geneva-ahead-of-g7-summit-in-france-13554132" target="_blank">Geneva police clash with anti-G7 protesters ahead of summit</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-14 20:00</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ozgurs/stop-hardcoding-html-for-every-image-use-template-variables-instead-k1e" target="_blank">Stop Hardcoding HTML for Every Image — Use Template Variables Instead</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-15 01:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hocmemini/surviving-the-region-you-run-in-failover-on-aurora-dsql-and-what-the-demo-proves-5chc" target="_blank">Surviving the region you run in: failover on Aurora DSQL, and what the demo proves</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-14 23:11</span>
@@ -207,15 +213,6 @@
                 <span class="title"><a href="https://github.com/tamnd/kage" target="_blank">Show HN: Kage – Shadow any website to a single binary for offline viewing</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-14 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/nex-agi/Nex-N2/issues/4" target="_blank">Rio de Janeiro&#x27;s &quot;homegrown&quot; LLM appears to be a merge of an existing model</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-14 15:37</span>
             </div>
         </div>
 </div>
@@ -310,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 68 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 00:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 01:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
