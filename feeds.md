@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-14 23:24:52 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-15 00:29:38 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, June 14, 2026 - 23:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, June 15, 2026 - 00:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,10 +49,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/14/g-s1-128102/japan-netherlands-world-cup-opener-dallas-arlington" target="_blank">2-2 draw for Japan and the Netherlands in World Cup opener for both</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-15 00:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/14/world-cup-nations-slam-uefa-chief-for-disappointing-48-team-criticism?traffic_source=rss" target="_blank">World Cup nations slam UEFA chief for ‘disappointing’ 48-team criticism</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-14 23:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781477723105_wnn_ksi_iran_latest_260614_S3_1920x1080-it9asl.jpg" alt="Trump says U.S.-Iran deal ‘complete’ after months of negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-says-u-s-iran-deal-complete-after-months-of-negotiations-265077317667" target="_blank">Trump says U.S.-Iran deal ‘complete’ after months of negotiations</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-14 22:55</span>
             </div>
         </div>
 <div class="story">
@@ -78,24 +98,6 @@
                 <span class="title"><a href="https://news.sky.com/story/protesters-clash-with-police-in-geneva-ahead-of-g7-summit-in-france-13554132" target="_blank">Geneva police clash with anti-G7 protesters ahead of summit</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-06-14 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/14/nx-s1-5857729/skydiving-plane-crash-missouri" target="_blank">12 dead after skydiving plane crashes in Missouri, authorities say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-14 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/14/lewis-hamilton-wins-first-f1-race-with-ferrari-in-barcelona?traffic_source=rss" target="_blank">Lewis Hamilton wins first F1 race with Ferrari in Barcelona</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-14 19:37</span>
             </div>
         </div>
 </div>
@@ -174,10 +176,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/" target="_blank">Your ePub Is Fine. Kobo Disagrees. Blame Adobe</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-14 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devopsaitoolkit/how-to-use-claude-to-troubleshoot-linux-servers-1fhe" target="_blank">How to Use Claude to Troubleshoot Linux Servers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-14 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/linux-kernel-7.1.webp?resize=406%2C232&amp;ssl=1" alt="Linux 7.1 brings new NTFS driver, Steam Deck OLED audio fix + more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/linux-7-1-kernel-features" target="_blank">Linux 7.1 brings new NTFS driver, Steam Deck OLED audio fix + more</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-14 20:21</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +216,6 @@
                 <span class="title"><a href="https://github.com/nex-agi/Nex-N2/issues/4" target="_blank">Rio de Janeiro&#x27;s &quot;homegrown&quot; LLM appears to be a merge of an existing model</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-14 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codedevfluent/5-english-phrases-every-developer-needs-for-code-reviews-3nkp" target="_blank">5 English Phrases Every Developer Needs for Code Reviews</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-14 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Released" target="_blank">Linux 7.1 Released: New NTFS Driver, Intel FRED For Panther Lake, Faster Arc Graphics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-14 15:09</span>
             </div>
         </div>
 </div>
@@ -308,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 23:25 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 68 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 00:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
