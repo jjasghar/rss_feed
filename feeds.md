@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-15 21:56:54 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-15 22:42:27 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, June 15, 2026 - 21:57 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, June 15, 2026 - 22:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/airport-ht-er-260615_1781560697856_hpMain_4x3t_384.jpg" alt="8 onboard Air Force B-52 bomber that crashed shortly after takeoff in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/air-force-52-bomber-crashes-shortly-after-takeoff/story?id=133899844" target="_blank">8 onboard Air Force B-52 bomber that crashed shortly after takeoff in California</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-15 22:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +104,6 @@
                 <span class="time">2026-06-15 17:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-donald-trump-trump_7274358.jpg?20260615181656" alt="Trump&#x27;s Iran deal is an admission of defeat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trumps-iran-war-is-one-of-the-greatest-strategic-blunders-in-us-history-13554425" target="_blank">Trump&#x27;s Iran deal is an admission of defeat</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-15 17:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,6 +116,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/" target="_blank">The US government’s Anthropic models ban was never about an AI jailbreak</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-15 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3066677da677701d8b62cd/master/pass/Andrew-Bosworth-Urges-Employees-Business-2235573265.jpg" alt="Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/" target="_blank">Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-15 21:33</span>
             </div>
         </div>
 <div class="story">
@@ -144,20 +163,20 @@
                 <span class="time">2026-06-15 18:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure" target="_blank">Xbox turmoil continues with a studio closure and executive departures</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-15 17:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/timevolt/the-star-quest-level-up-your-behavioral-interview-like-neo-seeing-the-code-1n9" target="_blank">🎯 The STAR Quest: Level‑Up Your Behavioral Interview Like Neo Seeing the Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-15 22:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +222,6 @@
                 <span class="time">2026-06-15 19:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/firefox-vpn-1.webp?resize=406%2C232&amp;ssl=1" alt="Firefox’s free VPN now offers unlimited data, 28 server locations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/firefox-vpn-unlimited-data-promotion" target="_blank">Firefox’s free VPN now offers unlimited data, 28 server locations</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-15 17:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KV6D1RQQX3R815DH5XQMRPE0/hero-image.jpg" alt="Apple&#x27;s New Betas Offer Some Clues About the Next iPhones and MacBooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-apples-betas-say-about-the-companys-upcoming-products?utm_medium=RSS" target="_blank">Apple&#x27;s New Betas Offer Some Clues About the Next iPhones and MacBooks</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-15 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JD2S451XG1SC2B87GGRHZ1MW/hero-image.png" alt="How to Speak With a Real Person at Best Buy Customer Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/15/the-thought-experiment-that-says-you-cant-die-from-your-own-perspective.html" target="_blank">The thought experiment that says you can&#x27;t die (from your own perspective)</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-15 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114212.jpg?fit=1200%2C1791&amp;quality=60&amp;ssl=1" alt="A ship found drifting in the Pacific was still afloat but all 25 passengers had vanished" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/15/a-ship-found-drifting-in-the-pacific-was-still-afloat-but-all-25-passengers-had-vanished.html" target="_blank">A ship found drifting in the Pacific was still afloat but all 25 passengers had vanished</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-15 13:30</span>
             </div>
         </div>
 </div>
@@ -331,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 86 | 📡 Total Sources: 38 | 📸 With Images: 237 |
-        🔄 Last Updated: 21:57 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 38 | 📸 With Images: 238 |
+        🔄 Last Updated: 22:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
