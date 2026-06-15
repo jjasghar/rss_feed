@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-15 19:14:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-15 20:58:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, June 15, 2026 - 19:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, June 15, 2026 - 20:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -64,6 +65,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-donald-trump-trump_7274358.jpg?20260615181656" alt="Trump&#x27;s Iran deal is an admission of defeat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trumps-iran-war-is-one-of-the-greatest-strategic-blunders-in-us-history-13554425" target="_blank">Trump&#x27;s Iran deal is an admission of defeat</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-15 17:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -82,21 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/Business/hormuz-rt-jef-260615_1781532160210_hpMain_4x3t_384.jpg" alt="Oil prices fall to lowest level since March after US announces Iran deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/oil-prices-fall-lowest-level-march-after-us/story?id=133883673" target="_blank">Oil prices fall to lowest level since March after US announces Iran deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-15 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ec/live/f929b930-68b0-11f1-a887-c513fdcee6e6.jpg" alt="Bowen: Iran deal ends Trump&#x27;s war that revealed limit of US dominance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss" target="_blank">Bowen: Iran deal ends Trump&#x27;s war that revealed limit of US dominance</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-15 14:26</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/15/g-s1-126999/soccer-edition-watch-world-cup-highlights-from-across-the-npr-network" target="_blank">Soccer Edition: Watch World Cup highlights from across the NPR Network</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-15 16:09</span>
             </div>
         </div>
 </div>
@@ -104,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/950116/fox-roku-takeover" target="_blank">Fox wants to take over your TV — and the tech inside it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-15 20:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +159,38 @@
                 <span class="time">2026-06-15 13:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/" target="_blank">As AI agents become employees, NewCore emerges with $66M to give them identities</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-15 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/josh_blair/adding-markdown-support-end-to-end-part-7-24g1" target="_blank">Adding Markdown Support End-to-End (Part 7)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-15 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Performance-Skills" target="_blank">Intel Performance Skills: New Open-Source Project Leveraging AI For Linux Performance Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-15 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://roman.pt/posts/linkedin-backdoor/" target="_blank">A backdoor in a LinkedIn job offer</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-15 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,33 +218,6 @@
                 <span class="time">2026-06-15 17:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-AUR-Russian-Spam" target="_blank">Russian Spam &amp; Profanities Are Now Plaguing The Arch Linux AUR</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-15 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/06/15/selenium-vs-cypress-vs-playwright-choosing-your-test-automation-framework/" target="_blank">Selenium vs Cypress vs Playwright: Choosing Your Test Automation Framework​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌​​﻿‌﻿‌‍​‌‌‍‌‍‌‍‌‍‌‍​‌‌‍​‌​‍﻿‌​﻿‌​​﻿​‌​﻿‍​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌​﻿​‌​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌​​﻿‌﻿​﻿‌‌​‍﻿‌​﻿‌‌​﻿‌‍‌‍​‌‌‍‌‌‌‍‌‍‌‍​‍​﻿​‌‌‍​‍​﻿‌﻿​﻿​‌‌‍​‍​﻿‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌​​﻿‌﻿‌‍​‌‌‍‌‍‌‍‌‍‌‍​‌‌‍​‌​‍﻿‌​﻿‌​​﻿​‌​﻿‍​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌​﻿​‌​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌​​﻿‌﻿​﻿‌‌​‍﻿‌​﻿‌‌​﻿‌‍‌‍​‌‌‍‌‌‌‍‌‍‌‍​‍​﻿​‌‌‍​‍​﻿‌﻿​﻿​‌‌‍​‍​﻿‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-06-15 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17361542/flipper-one-announcement" target="_blank">Flipper One is a Pocket-sized Linux Cyberdeck</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-15 15:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JD2S451XG1SC2B87GGRHZ1MW/hero-image.png" alt="How to Speak With a Real Person at Best Buy Customer Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-to-speak-with-a-best-buy-customer-service-representative?utm_medium=RSS" target="_blank">How to Speak With a Real Person at Best Buy Customer Service</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-15 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/05/8dc4eaa13d6988d0d49ff2b5d385d77e-1280x719.jpg" alt="Xbox In Talks To Close Double Fine And Ninja Theory, Which Just Revealed Its New Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/psychonauts-hellblade-south-of-midnight-studios-negotiating-xbox-closure-2000706718" target="_blank">Xbox In Talks To Close Double Fine And Ninja Theory, Which Just Revealed Its New Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-15 20:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/shutterstock_1430014880-1-e1749661914914.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="Woman cheers Knicks win, LAPD bursts in and kills her dog" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/15/woman-cheers-knicks-win-lapd-bursts-in-and-kills-her-dog.html" target="_blank">Woman cheers Knicks win, LAPD bursts in and kills her dog</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-15 19:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/HORSES-official-image-Santa-Ragione-1280x960.jpg" alt="Santa Ragione Reveals That Horses Has Left The Studio In $42,000 Worth Of Debt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/15/a-ship-found-drifting-in-the-pacific-was-still-afloat-but-all-25-passengers-had-vanished.html" target="_blank">A ship found drifting in the Pacific was still afloat but all 25 passengers had vanished</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-15 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114209-scaled.jpg?fit=1173%2C2560&amp;quality=60&amp;ssl=1" alt="A 14-year-old Japanese sailor drifted across the Pacific for 14 months and could never go home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/14/a-14-year-old-japanese-sailor-drifted-across-the-pacific-for-14-months-and-could-never-go-home.html" target="_blank">A 14-year-old Japanese sailor drifted across the Pacific for 14 months and could never go home</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-15 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/virtueandasledge-1280x720.jpg" alt="Pay Attention To These 7 Summer Game Fest Indies You Might Have Missed Amid All The Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seven-summer-game-fest-indies-you-might-have-missed-amid-all-the-hype-2000706350" target="_blank">Pay Attention To These 7 Summer Game Fest Indies You Might Have Missed Amid All The Hype</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-14 21:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/virtueandasledge-1280x720.jpg" alt="Seven Summer Game Fest Indies You Might Have Missed Amid All The Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seven-summer-game-fest-indies-you-might-have-missed-amid-all-the-hype-2000706350" target="_blank">Seven Summer Game Fest Indies You Might Have Missed Amid All The Hype</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-14 21:14</span>
             </div>
         </div>
 </div>
@@ -336,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 84 | 📡 Total Sources: 38 | 📸 With Images: 235 |
-        🔄 Last Updated: 19:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 86 | 📡 Total Sources: 38 | 📸 With Images: 236 |
+        🔄 Last Updated: 20:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
