@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-15 13:00:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-15 15:09:15 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 16 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, June 15, 2026 - 13:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, June 15, 2026 - 15:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Business/hormuz-rt-jef-260615_1781532160210_hpMain_4x3t_384.jpg" alt="Oil prices fall to lowest level since March after US announces Iran deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/oil-prices-fall-lowest-level-march-after-us/story?id=133883673" target="_blank">Oil prices fall to lowest level since March after US announces Iran deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-15 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fbd/live/e9c69370-662e-11f1-8546-8f19e4fe30f4.png" alt="Russia was behind arson attacks targeting PM, BBC reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8r2l352z2do?at_medium=RSS&at_campaign=rss" target="_blank">Russia was behind arson attacks targeting PM, BBC reveals</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-15 13:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/15/record-daily-jump-in-drc-ebola-outbreak-takes-death-toll-to-178?traffic_source=rss" target="_blank">Record daily jump in DRC Ebola outbreak takes death toll to 178</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-15 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/15/g-s1-128147/former-american-businessman-detained-in-myanmar-after-alleged-financial-misconduct" target="_blank">Former American businessman detained in Myanmar after alleged financial misconduct</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-15 12:45</span>
             </div>
         </div>
 <div class="story">
@@ -64,39 +90,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2d/live/8be72110-6887-11f1-8c6b-f595710535a5.jpg" alt="Oil prices fall and shares jump after US-Iran deal announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781521963692_tdy_news_7a_keir_iran_deal_260615_S3_1920x1080-ai4rnw.jpg" alt="US and Iran Reach Framework Deal to End War, Reopen Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss" target="_blank">Oil prices fall and shares jump after US-Iran deal announced</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-15 07:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/15/global-relief-as-iran-us-sign-deal-to-end-war?traffic_source=rss" target="_blank">World reacts as Iran and US reach deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-15 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7fd/live/0293ddf0-6683-11f1-8546-8f19e4fe30f4.jpg" alt="OnlyFans &#x27;agents&#x27; control and threaten creators while taking half their earnings, BBC finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c932gpk2l1do?at_medium=RSS&at_campaign=rss" target="_blank">OnlyFans &#x27;agents&#x27; control and threaten creators while taking half their earnings, BBC finds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-15 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study" target="_blank">Attacks on education, pupils and staff around the world up by 40%, says study</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-15 04:00</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-and-iran-reach-framework-deal-to-end-war-reopen-hormuz-265092677817" target="_blank">US and Iran Reach Framework Deal to End War, Reopen Hormuz</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-15 11:12</span>
             </div>
         </div>
 </div>
@@ -104,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-71395189-500x500.jpg" alt="Russia appears set to finally address long-term, serious space station cracks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/" target="_blank">Russia appears set to finally address long-term, serious space station cracks</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-15 13:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,72 +157,63 @@
                 <span class="time">2026-06-15 07:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/" target="_blank">Orbio raises $21 million to automate hiring and onboarding for frontline workers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-15 04:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq5iijxau5c6si708d9b6.jpg" alt="A New Advertising API, Built From The Ground Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_6a9b7b682ef6dfb20e506/how-to-check-if-an-online-json-formatter-uploads-your-data-2hkd" target="_blank">How to Check If an Online JSON Formatter Uploads Your Data</a></span>
+                <span class="title"><a href="https://dev.to/codenameone/a-new-advertising-api-built-from-the-ground-up-3olm" target="_blank">A New Advertising API, Built From The Ground Up</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-06-15 12:52</span>
+                <span class="time">2026-06-15 15:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/06/15/ai-agents-expose-the-security-checks-you-never-actually-wrote/" target="_blank">AI agents expose the security checks you never actually wrote​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-06-15 14:58</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Scheduler" target="_blank">Cache Aware Scheduling Merged For Linux 7.2 For Boosting Modern Intel &amp; AMD CPUs</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Reading-Proc-FS" target="_blank">Reading /proc/filesystems Is Surprisingly Done Very Often &amp; Now As Much As 444% Faster</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-06-15 12:31</span>
+                <span class="time">2026-06-15 14:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/spring-news-roundup-jun08-2026/en/headerimage/java-istock-image-01-1781532733056.jpg" alt="Spring News Roundup: Point Releases of Boot, Security, Integration, Modulith and Spring AI 2.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/spring-news-roundup-jun08-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: Point Releases of Boot, Security, Integration, Modulith and Spring AI 2.0</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-15 14:15</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17361309/linux-kernel-7-1-release" target="_blank">Linux Kernel 7.1 is a Feature Release That Could Be Useful For You</a></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17361475/sonicde-x11-kde-plasma-fork" target="_blank">KDE is Going Wayland Only So This New Project Gives You KDE With X11</a></span>
                 <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-15 10:18</span>
+                <span class="time">2026-06-15 13:46</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/antoine_laurentt/bruno-cli-vs-apidog-cli-execution-de-tests-api-en-ci-52nj" target="_blank">Bruno CLI vs Apidog CLI : Exécution de tests API en CI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-15 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ernestohs/day-one-deleting-code-and-breaking-the-build-on-purpose-4lib" target="_blank">Dev Log: deleting code and breaking the build on purpose</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-15 05:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Anthropic Releases and Temporarily Suspends Claude Fable 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/claude-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Releases and Temporarily Suspends Claude Fable 5</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-15 05:01</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://crankgpt.com" target="_blank">CrankGPT</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-15 13:20</span>
             </div>
         </div>
 </div>
@@ -245,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114212.jpg?fit=1200%2C1791&amp;quality=60&amp;ssl=1" alt="A ship found drifting in the Pacific was still afloat but all 25 passengers had vanished" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/15/a-ship-found-drifting-in-the-pacific-was-still-afloat-but-all-25-passengers-had-vanished.html" target="_blank">A ship found drifting in the Pacific was still afloat but all 25 passengers had vanished</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-15 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114209-scaled.jpg?fit=1173%2C2560&amp;quality=60&amp;ssl=1" alt="A 14-year-old Japanese sailor drifted across the Pacific for 14 months and could never go home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +289,6 @@
                 <span class="time">2026-06-14 19:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114208.jpg?fit=1200%2C1600&amp;quality=60&amp;ssl=1" alt="Two Italian brothers claimed to have recorded dying Soviet cosmonauts that Moscow erased from history" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/14/two-italian-brothers-claimed-to-have-recorded-dying-soviet-cosmonauts-that-moscow-erased-from-history.html" target="_blank">Two Italian brothers claimed to have recorded dying Soviet cosmonauts that Moscow erased from history</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-14 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/hands-up.jpg" alt="Microsoft CEO Complains About Poor Gaming Profits: ‘There’s More Monetization Of Xbox Games Happening On YouTube’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-ceo-complains-about-poor-gaming-profits-theres-more-monetization-of-xbox-games-happening-on-youtube-2000706326" target="_blank">Microsoft CEO Complains About Poor Gaming Profits: ‘There’s More Monetization Of Xbox Games Happening On YouTube’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-14 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 75 | 📡 Total Sources: 39 | 📸 With Images: 233 |
-        🔄 Last Updated: 13:00 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 233 |
+        🔄 Last Updated: 15:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
