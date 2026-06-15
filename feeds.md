@@ -1,43 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-15 03:02:02 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-15 05:42:41 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, June 15, 2026 - 03:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, June 15, 2026 - 05:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7fd/live/0293ddf0-6683-11f1-8546-8f19e4fe30f4.jpg" alt="OnlyFans &#x27;agents&#x27; control and threaten creators while taking half their earnings, BBC finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c932gpk2l1do?at_medium=RSS&at_campaign=rss" target="_blank">OnlyFans &#x27;agents&#x27; control and threaten creators while taking half their earnings, BBC finds</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-15 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study" target="_blank">Attacks on education, pupils and staff around the world up by 40%, says study</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-15 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-dormition-cathedral_7273677.jpg?20260615053931" alt="Russian strikes kill nine across Ukraine as fire breaks out at religious landmark in Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/russian-strikes-kill-nine-across-ukraine-as-fire-breaks-out-at-centuries-old-religious-landmark-in-kyiv-13554181" target="_blank">Russian strikes kill nine across Ukraine as fire breaks out at religious landmark in Kyiv</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-15 03:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2693/live/1ac2c340-6850-11f1-a06b-c973532480bb.jpg" alt="Trump heralds Iran deal but questions - and risks - remain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,38 +101,20 @@
                 <span class="time">2026-06-15 01:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/14/g-s1-128102/japan-netherlands-world-cup-opener-dallas-arlington" target="_blank">2-2 draw for Japan and the Netherlands in World Cup opener for both</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-15 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/14/world-cup-nations-slam-uefa-chief-for-disappointing-48-team-criticism?traffic_source=rss" target="_blank">World Cup nations slam UEFA chief for ‘disappointing’ 48-team criticism</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-14 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-ed-conway-stuff-matters_7271778.jpg?20260612170829" alt="Stuff Matters... because boring stuff is often actually tremendously interesting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/stuff-matters-because-boring-stuff-is-often-actually-tremendously-interesting-13553395" target="_blank">Stuff Matters... because boring stuff is often actually tremendously interesting</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-14 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/" target="_blank">Orbio raises $21 million to automate hiring and onboarding for frontline workers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-15 04:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +160,20 @@
                 <span class="time">2026-06-14 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/eilmer-500x500.jpg" alt="Did a medieval flying monk spot Halley&#x27;s comet, twice? It&#x27;s complicated" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/" target="_blank">Did a medieval flying monk spot Halley&#x27;s comet, twice? It&#x27;s complicated</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-14 16:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ernestohs/day-one-deleting-code-and-breaking-the-build-on-purpose-4lib" target="_blank">Dev Log: deleting code and breaking the build on purpose</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-15 05:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,28 +204,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Kbuild" target="_blank">Linux 7.2 To Raise LLVM/Clang Compiler Requirement, Add Support For Distributed ThinLTO</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-15 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hocmemini/surviving-the-region-you-run-in-failover-on-aurora-dsql-and-what-the-demo-proves-5chc" target="_blank">Surviving the region you run in: failover on Aurora DSQL, and what the demo proves</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-14 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/" target="_blank">Your ePub Is Fine. Kobo Disagrees. Blame Adobe</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-14 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devopsaitoolkit/how-to-use-claude-to-troubleshoot-linux-servers-1fhe" target="_blank">How to Use Claude to Troubleshoot Linux Servers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-14 21:15</span>
             </div>
         </div>
 </div>
@@ -244,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114209-scaled.jpg?fit=1173%2C2560&amp;quality=60&amp;ssl=1" alt="A 14-year-old Japanese sailor drifted across the Pacific for 14 months and could never go home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/14/a-14-year-old-japanese-sailor-drifted-across-the-pacific-for-14-months-and-could-never-go-home.html" target="_blank">A 14-year-old Japanese sailor drifted across the Pacific for 14 months and could never go home</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-15 03:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/virtueandasledge-1280x720.jpg" alt="Pay Attention To These 7 Summer Game Fest Indies You Might Have Missed Amid All The Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +292,6 @@
                 <span class="time">2026-06-14 14:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114206.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="A cargo cult in Vanuatu has been waiting for an American named John Frum since the 1930s" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/14/a-cargo-cult-in-vanuatu-has-been-waiting-for-an-american-named-john-frum-since-the-1930s.html" target="_blank">A cargo cult in Vanuatu has been waiting for an American named John Frum since the 1930s</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-14 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 03:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 05:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
