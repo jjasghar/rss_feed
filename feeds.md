@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-15 07:47:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-15 10:01:35 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, June 15, 2026 - 07:47 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, June 15, 2026 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2d/live/8be72110-6887-11f1-8c6b-f595710535a5.jpg" alt="Oil prices fall and shares jump after US-Iran deal announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss" target="_blank">Oil prices fall and shares jump after US-Iran deal announced</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-15 07:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +97,29 @@
                 <span class="time">2026-06-15 02:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/15/us-iran-to-sign-a-peace-deal-on-friday-what-we-know-so-far?traffic_source=rss" target="_blank">US-Iran to sign a ‘peace deal’ on Friday: What we know so far</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-15 01:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0f46394bf37a26f8d51c88/master/pass/Trump-Administration-Plans-to-Let-Key-Oversight-Rules-for-Data-Centers-Expire-Politics-2274824987.jpg" alt="The US Government Is Letting a Key Data Center Regulation Expire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-us-government-is-letting-a-key-data-center-regulation-expire/" target="_blank">The US Government Is Letting a Key Data Center Regulation Expire</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-15 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement" target="_blank">Under-16 social media ban announced by UK government</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-15 08:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +156,6 @@
                 <span class="time">2026-06-14 21:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range" target="_blank">The FBI built a small town to simulate cyberattacks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-14 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos" target="_blank">China may have accessed Mythos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-14 18:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,9 +165,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/antoine_laurentt/bruno-cli-vs-apidog-cli-execution-de-tests-api-en-ci-52nj" target="_blank">Bruno CLI vs Apidog CLI : Exécution de tests API en CI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-15 09:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ernestohs/day-one-deleting-code-and-breaking-the-build-on-purpose-4lib" target="_blank">Dev Log: deleting code and breaking the build on purpose</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-15 05:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Anthropic Releases and Temporarily Suspends Claude Fable 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/claude-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Releases and Temporarily Suspends Claude Fable 5</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-15 05:01</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/zero-native-zig-xplatform-vercel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Labs Open-Sources Zero-Native: A Zig-Based Cross-Platform Native Application Framework</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-15 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Kbuild" target="_blank">Linux 7.2 To Raise LLVM/Clang Compiler Requirement, Add Support For Distributed ThinLTO</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-15 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hocmemini/surviving-the-region-you-run-in-failover-on-aurora-dsql-and-what-the-demo-proves-5chc" target="_blank">Surviving the region you run in: failover on Aurora DSQL, and what the demo proves</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-14 23:11</span>
             </div>
         </div>
 </div>
@@ -315,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 74 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 07:47 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 232 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
