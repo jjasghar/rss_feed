@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-15 10:01:35 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-06-15 13:00:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, June 15, 2026 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, June 15, 2026 - 13:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/15/record-daily-jump-in-drc-ebola-outbreak-takes-death-toll-to-178?traffic_source=rss" target="_blank">Record daily jump in DRC Ebola outbreak takes death toll to 178</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-15 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8a3/live/0fe56cf0-68b1-11f1-a887-c513fdcee6e6.jpg" alt="Two men found guilty over Starmer-linked arson attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9v2yd8vk04o?at_medium=RSS&at_campaign=rss" target="_blank">Two men found guilty over Starmer-linked arson attacks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-15 12:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2d/live/8be72110-6887-11f1-8c6b-f595710535a5.jpg" alt="Oil prices fall and shares jump after US-Iran deal announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +99,29 @@
                 <span class="time">2026-06-15 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-dormition-cathedral_7273677.jpg?20260615053931" alt="Russian strikes kill nine across Ukraine as fire breaks out at religious landmark in Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/russian-strikes-kill-nine-across-ukraine-as-fire-breaks-out-at-centuries-old-religious-landmark-in-kyiv-13554181" target="_blank">Russian strikes kill nine across Ukraine as fire breaks out at religious landmark in Kyiv</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-15 03:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2693/live/1ac2c340-6850-11f1-a06b-c973532480bb.jpg" alt="Trump heralds Iran deal but questions - and risks - remain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss" target="_blank">Trump heralds Iran deal but questions - and risks - remain</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-15 02:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/" target="_blank">As AI agents become employees, NewCore emerges with $66M to give them identities</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-15 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion" target="_blank">Fox is buying Roku</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-15 11:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a0f46394bf37a26f8d51c88/master/pass/Trump-Administration-Plans-to-Let-Key-Oversight-Rules-for-Data-Centers-Expire-Politics-2274824987.jpg" alt="The US Government Is Letting a Key Data Center Regulation Expire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +158,38 @@
                 <span class="time">2026-06-15 04:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/14/frank-founder-charlie-javice-is-reportedly-asking-trump-for-a-pardon/" target="_blank">Frank founder Charlie Javice is reportedly asking Trump for a pardon</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-14 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/" target="_blank">Startup CEO Charlie Javice is reportedly angling for a Trump pardon</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-14 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_6a9b7b682ef6dfb20e506/how-to-check-if-an-online-json-formatter-uploads-your-data-2hkd" target="_blank">How to Check If an Online JSON Formatter Uploads Your Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-15 12:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Scheduler" target="_blank">Cache Aware Scheduling Merged For Linux 7.2 For Boosting Modern Intel &amp; AMD CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-15 12:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17361309/linux-kernel-7-1-release" target="_blank">Linux Kernel 7.1 is a Feature Release That Could Be Useful For You</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-15 10:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,38 +217,20 @@
                 <span class="time">2026-06-15 05:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/quarktimes/i-fixed-a-flutter-streaming-bug-by-comparing-logs-40ma" target="_blank">I Fixed a Flutter Streaming Bug by Comparing Logs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-15 02:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ozgurs/stop-hardcoding-html-for-every-image-use-template-variables-instead-k1e" target="_blank">Stop Hardcoding HTML for Every Image — Use Template Variables Instead</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-15 01:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/zero-native-zig-xplatform-vercel/en/headerimage/header-1781486889627.jpg" alt="Vercel Labs Open-Sources Zero-Native: A Zig-Based Cross-Platform Native Application Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/zero-native-zig-xplatform-vercel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Labs Open-Sources Zero-Native: A Zig-Based Cross-Platform Native Application Framework</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-15 01:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/the-fcc-wants-to-eliminate-burner-phones.html" target="_blank">The FCC Wants to Eliminate Burner Phones</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-15 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -316,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 232 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 75 | 📡 Total Sources: 39 | 📸 With Images: 233 |
+        🔄 Last Updated: 13:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
