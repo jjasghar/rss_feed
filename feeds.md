@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-15 20:58:51 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-06-15 21:56:54 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, June 15, 2026 - 20:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, June 15, 2026 - 21:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss" target="_blank">Journalist hit by Israeli strike while reporting in Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-15 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/b52-edwards-1-abc-gmh-260615_1781555468392_hpMain_4x3t_384.jpg" alt="Air Force B-52 bomber crashes after takeoff at Edwards Air Force Base" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/air-force-52-bomber-crashes-shortly-after-takeoff/story?id=133899844" target="_blank">Air Force B-52 bomber crashes after takeoff at Edwards Air Force Base</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-15 20:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb36/live/4ade2f20-68f4-11f1-8546-8f19e4fe30f4.jpg" alt="Trump says deal to end war with Iran already signed and details to be released &#x27;pretty soon&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says deal to end war with Iran already signed and details to be released &#x27;pretty soon&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-15 20:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +94,29 @@
                 <span class="time">2026-06-15 17:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies" target="_blank">South African jazz pianist Abdullah Ibrahim dies aged 91</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-15 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781541464739_now_brk_trump_iran_latest_260615_S3_1920x1080-dl6v6m.jpg" alt="Trump says the Strait of Hormuz will be &#x27;completely open&#x27; by Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-the-strait-of-hormuz-will-be-completely-open-by-friday-265105989583" target="_blank">Trump says the Strait of Hormuz will be &#x27;completely open&#x27; by Friday</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-15 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/15/g-s1-126999/soccer-edition-watch-world-cup-highlights-from-across-the-npr-network" target="_blank">Soccer Edition: Watch World Cup highlights from across the NPR Network</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-15 16:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/" target="_blank">The US government’s Anthropic models ban was never about an AI jailbreak</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-15 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook" target="_blank">Facebook’s new AI Mode search gets its info from public posts</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-15 21:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +151,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure" target="_blank">Xbox turmoil continues with a studio closure and executive departures</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-15 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Steve-Jobs-announces-Intel-processor-GettyImages-53028118-500x500-1781292888.jpg" alt="20 years of Intel Macs: Why Apple switched, and why it switched again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/" target="_blank">20 years of Intel Macs: Why Apple switched, and why it switched again</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-15 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-71395189-500x500.jpg" alt="Russia appears set to finally address long-term, serious space station cracks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/" target="_blank">Russia appears set to finally address long-term, serious space station cracks</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-15 13:54</span>
             </div>
         </div>
 </div>
@@ -337,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 86 | 📡 Total Sources: 38 | 📸 With Images: 236 |
-        🔄 Last Updated: 20:59 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 86 | 📡 Total Sources: 38 | 📸 With Images: 237 |
+        🔄 Last Updated: 21:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
