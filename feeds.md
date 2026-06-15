@@ -1,33 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-06-15 01:46:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-15 03:02:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, June 15, 2026 - 01:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, June 15, 2026 - 03:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +54,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2693/live/1ac2c340-6850-11f1-a06b-c973532480bb.jpg" alt="Trump heralds Iran deal but questions - and risks - remain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss" target="_blank">Trump heralds Iran deal but questions - and risks - remain</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-15 02:41</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/15/us-iran-to-sign-a-peace-deal-on-friday-what-we-know-so-far?traffic_source=rss" target="_blank">US-Iran to sign a ‘peace deal’ on Friday: What we know so far</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-15 01:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/14/nx-s1-5858115/oil-prices-trump-iran-deal" target="_blank">Crude oil futures drop after Trump promises an Iran deal will be signed Friday</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-15 01:33</span>
             </div>
         </div>
 <div class="story">
@@ -71,30 +99,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781477723105_wnn_ksi_iran_latest_260614_S3_1920x1080-it9asl.jpg" alt="Trump says U.S.-Iran deal ‘complete’ after months of negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-ed-conway-stuff-matters_7271778.jpg?20260612170829" alt="Stuff Matters... because boring stuff is often actually tremendously interesting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-says-u-s-iran-deal-complete-after-months-of-negotiations-265077317667" target="_blank">Trump says U.S.-Iran deal ‘complete’ after months of negotiations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-14 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-DB-260614_1781433710963_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US-Iran have reached a deal, opening Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243" target="_blank">Iran live updates: Trump says US-Iran have reached a deal, opening Strait of Hormuz</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-14 21:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss" target="_blank">Gaza mourns four killed in Israeli strike</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-14 20:57</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/stuff-matters-because-boring-stuff-is-often-actually-tremendously-interesting-13553395" target="_blank">Stuff Matters... because boring stuff is often actually tremendously interesting</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-14 23:01</span>
             </div>
         </div>
 </div>
@@ -109,6 +119,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/14/frank-founder-charlie-javice-is-reportedly-asking-trump-for-a-pardon/" target="_blank">Frank founder Charlie Javice is reportedly asking Trump for a pardon</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-14 22:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/" target="_blank">Startup CEO Charlie Javice is reportedly angling for a Trump pardon</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-14 21:55</span>
             </div>
         </div>
 <div class="story">
@@ -147,15 +166,6 @@
                 <span class="time">2026-06-14 16:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/" target="_blank">The new Sonos Play has become my go-to desk and kitchen speaker</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-14 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,9 +175,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/quarktimes/i-fixed-a-flutter-streaming-bug-by-comparing-logs-40ma" target="_blank">I Fixed a Flutter Streaming Bug by Comparing Logs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-15 02:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ozgurs/stop-hardcoding-html-for-every-image-use-template-variables-instead-k1e" target="_blank">Stop Hardcoding HTML for Every Image — Use Template Variables Instead</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-15 01:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/zero-native-zig-xplatform-vercel/en/headerimage/header-1781486889627.jpg" alt="Vercel Labs Open-Sources Zero-Native: A Zig-Based Cross-Platform Native Application Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/zero-native-zig-xplatform-vercel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Labs Open-Sources Zero-Native: A Zig-Based Cross-Platform Native Application Framework</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-15 01:25</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +223,6 @@
                 <span class="title"><a href="https://dev.to/devopsaitoolkit/how-to-use-claude-to-troubleshoot-linux-servers-1fhe" target="_blank">How to Use Claude to Troubleshoot Linux Servers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-14 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/linux-kernel-7.1.webp?resize=406%2C232&amp;ssl=1" alt="Linux 7.1 brings new NTFS driver, Steam Deck OLED audio fix + more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/linux-7-1-kernel-features" target="_blank">Linux 7.1 brings new NTFS driver, Steam Deck OLED audio fix + more</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-14 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/tamnd/kage" target="_blank">Show HN: Kage – Shadow any website to a single binary for offline viewing</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-14 17:25</span>
             </div>
         </div>
 </div>
@@ -307,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 01:46 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 03:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
