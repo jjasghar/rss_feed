@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-16 13:31:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-16 15:35:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, June 16, 2026 - 13:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, June 16, 2026 - 15:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/16/nx-s1-5847024/motor-oil-iran-war" target="_blank">The war with Iran is making oil changes pricier. And a deal won&#x27;t solve it</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-16 15:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/16/fbi-says-it-foiled-planned-attacks-targeting-white-house-ufc-event?traffic_source=rss" target="_blank">FBI says it foiled ‘planned attacks’ targeting White House UFC event</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-16 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/1b787b00-698a-11f1-8e1d-bbbb1017d210.jpg" alt="UK forces face operational cuts without more cash, defence chief warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20ydx06ym2o?at_medium=RSS&at_campaign=rss" target="_blank">UK forces face operational cuts without more cash, defence chief warns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-16 14:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781612384754_now_mnn_brk_ufc_fbi_attackplot_260616_S3_1920x1080-q5npoz.jpg" alt="FBI foils alleged plot to attack the White House UFC event" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/fbi-foils-alleged-plot-to-attack-the-white-house-ufc-event-265160773668" target="_blank">FBI foils alleged plot to attack the White House UFC event</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-16 12:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Trump-DB-260616_1781606554900_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says MOU is &#x27;fair,&#x27; denies that US will invest &#x27;any money&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,47 +102,29 @@
                 <span class="time">2026-06-16 11:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/16/g-s1-128341/up-first-newsletter-iran-israel-g7-primaries-luigi-mangione" target="_blank">How Israel could complicate Iran peace negotiations. And, World Cup highlights</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-16 10:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68c9/live/fbdf5be0-6977-11f1-b1db-af71d47507d6.jpg" alt="Starmer pleased &#x27;justice has been done&#x27; after arson attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgjx5qw75v8o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer pleased &#x27;justice has been done&#x27; after arson attacks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-16 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-says-israeli-occupation-in-lebanon-would-breach-us-deal?traffic_source=rss" target="_blank">Iran says Israeli occupation in Lebanon would breach US deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-16 09:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/LAF-DB-260616_1781598929959_hpMain_4x3t_384.jpg" alt="Iran live updates: Israeli attacks, occupation in Lebanon violate MOU, Araghchi says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Israeli attacks, occupation in Lebanon violate MOU, Araghchi says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-16 09:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/950591/dji-osmo-pocket-4p-dual-gimbal-camera-baby-steadicam-4k-tracking" target="_blank">We now know how DJI’s dual camera Osmo Pocket 4P compares to Insta360’s</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-16 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a316750d749358b3408c71a/master/pass/Header_Color_V1.jpg" alt="Around the World, These Building Solutions Keep Things Local" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/building-solutions-around-the-world/" target="_blank">Around the World, These Building Solutions Keep Things Local</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-16 15:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +161,29 @@
                 <span class="time">2026-06-16 11:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a28a1a365e0fc8f488095dc/master/pass/How-Software-Company-Is-Saving-Money-By-Spending-Big-on-Claude-Business.jpg" alt="‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/" target="_blank">‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-16 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Commodore-Callback-8020-BASIC-Beige-005-500x500.png" alt="Commodore’s newest gadget is a flip phone that blocks social media and browsers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/" target="_blank">Commodore’s newest gadget is a flip phone that blocks social media and browsers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-16 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/firefox-152.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 152 revamps Settings and adds a new way to mute tabs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/firefox-152-released" target="_blank">Firefox 152 revamps Settings and adds a new way to mute tabs</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-16 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-72-Container-Exit-Latency" target="_blank">Linux 7.2 Can Significantly Lower Container Exit/Unmount Latency</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-16 15:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/parallel-agents-production/en/mediumimage/paul-klein-medium-1781168002415.jpeg" alt="Presentation: Automating the Web With MCP: Infra That Doesn’t Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/XFS-Zone-Allocator-Linux-7.2" target="_blank">XFS Zone Allocator No Longer Experimental With Linux 7.2</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-16 10:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17361923/shelly-package-manager" target="_blank">To Make Things Easier, CachyOS Created a RUST-Based GUI Package Manager</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-16 09:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/swift-logic-io218/i-wish-i-knew-ai-recommendation-sooner-heres-the-full-breakdown-2eno" target="_blank">I Wish I Knew AI Recommendation Sooner — Here&#x27;s the Full Breakdown</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-16 09:38</span>
             </div>
         </div>
 </div>
@@ -309,22 +311,13 @@
                 <span class="time">2026-06-15 18:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1781314358-20260615.png" alt="Saturday Morning Breakfast Cereal - Duck" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/duck-2" target="_blank">Saturday Morning Breakfast Cereal - Duck</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-15 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 13:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 38 | 📸 With Images: 235 |
+        🔄 Last Updated: 15:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
