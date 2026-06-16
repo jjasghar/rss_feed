@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-16 01:50:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-16 03:02:17 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, June 16, 2026 - 01:50 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, June 16, 2026 - 03:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/16/who-is-vozinha-cape-verdes-viral-goalkeeper-at-the-world-cup?traffic_source=rss" target="_blank">Who is Vozinha, Cape Verde’s viral goalkeeper at the World Cup?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-16 02:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +101,20 @@
                 <span class="time">2026-06-15 21:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/b52-edwards-1-abc-gmh-260615_1781555468392_hpMain_4x3t_384.jpg" alt="Air Force B-52 bomber crashes after takeoff at Edwards Air Force Base" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/air-force-52-bomber-crashes-shortly-after-takeoff/story?id=133899844" target="_blank">Air Force B-52 bomber crashes after takeoff at Edwards Air Force Base</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-15 20:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls" target="_blank">Inside the fight over Claude Mythos 5</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-16 03:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a3068b96de136e1eb346f80/master/pass/Anthropic-Latest-Clash-With-White-House-Business-2280291383.jpg" alt="Anthropic Is Still at Odds With the White House Over Claude Fable 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -156,20 +160,20 @@
                 <span class="time">2026-06-15 21:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook" target="_blank">Facebook’s new AI Mode search gets its info from public posts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-15 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vystartasv/what-happens-when-your-openrouter-key-gets-stolen-nothing-then-you-move-on-okn" target="_blank">What happens when your OpenRouter key gets stolen? Nothing. Then you move on.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-16 02:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/xcode-27-agents-device-hub/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Xcode 27 Extends Agent Integration, Revamps UI, and Introduces DeviceHub</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-15 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/josh_blair/adding-markdown-support-end-to-end-part-7-24g1" target="_blank">Adding Markdown Support End-to-End (Part 7)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-15 20:45</span>
             </div>
         </div>
 </div>
@@ -352,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 01:50 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 03:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
