@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-15 23:30:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-16 00:35:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, June 15, 2026 - 23:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, June 16, 2026 - 00:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +53,15 @@
                 <span class="title"><a href="https://abcnews.com/US/air-force-52-bomber-crashes-shortly-after-takeoff/story?id=133899844" target="_blank">8 dead after Air Force B-52 bomber crashes shortly after takeoff in California</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-15 23:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-oxfam-ebola-congo_7274312.jpg?20260615172513" alt="&#x27;First line of defence&#x27; has collapsed in biggest ever outbreak of rare Ebola strain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ebola-largest-ever-outbreak-of-rare-strain-likely-even-greater-and-the-first-line-of-defence-has-collapsed-13554337" target="_blank">&#x27;First line of defence&#x27; has collapsed in biggest ever outbreak of rare Ebola strain</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-15 23:01</span>
             </div>
         </div>
 <div class="story">
@@ -93,20 +100,29 @@
                 <span class="time">2026-06-15 20:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/15/eu-fails-to-agree-on-sanctions-for-far-right-israeli-minister-ben-gvir?traffic_source=rss" target="_blank">EU fails to agree on sanctions for far-right Israeli minister Ben-Gvir</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-15 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/" target="_blank">Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-15 23:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/spectrumroll-500x500.jpg" alt="Key mission for Europe&#x27;s commercial space enterprise scrubbed again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/" target="_blank">Key mission for Europe&#x27;s commercial space enterprise scrubbed again</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-15 23:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +157,6 @@
                 <span class="title"><a href="https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/" target="_blank">Heart protection from COVID shots remains amid updates, study finds</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-15 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/950116/fox-roku-takeover" target="_blank">Fox wants to take over your TV — and the tech inside it</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-15 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown" target="_blank">All the news about Anthropic&amp;#8217;s new AI fight with the White House</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-15 19:04</span>
             </div>
         </div>
 </div>
@@ -205,19 +203,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Performance-Skills" target="_blank">Intel Performance Skills: New Open-Source Project Leveraging AI For Linux Performance Optimizations</a></span>
-                <span class="feed">Phoronix</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/" target="_blank">GitHub Copilot CLI for Beginners: Overview of common slash commands</a></span>
+                <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-06-15 20:15</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://roman.pt/posts/linkedin-backdoor/" target="_blank">A backdoor in a LinkedIn job offer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-15 20:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Performance-Skills" target="_blank">Intel Performance Skills: New Open-Source Project Leveraging AI For Linux Performance Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-15 20:15</span>
             </div>
         </div>
 </div>
@@ -348,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 91 | 📡 Total Sources: 38 | 📸 With Images: 238 |
-        🔄 Last Updated: 23:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 00:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
