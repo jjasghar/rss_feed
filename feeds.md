@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-16 20:58:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-16 21:56:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, June 16, 2026 - 20:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, June 16, 2026 - 21:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +42,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decc/live/d073f060-69cc-11f1-8dbe-5392e973184a.jpg" alt="&#x27;It was surreal&#x27;: British couple describe having warning shots fired near them by Russian warship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;It was surreal&#x27;: British couple describe having warning shots fired near them by Russian warship</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-16 21:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/16/palestinian-bedouin-villagers-demolish-homes-after-israeli-orders?traffic_source=rss" target="_blank">Palestinian Bedouin villagers demolish homes after Israeli orders</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-16 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/892/527/46587222831-1080pnbcstations.jpg" alt="Kylian Mbappé anota un GOLAZO tras un gran pase de Michael Olise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/kylian-mbappe-anota-un-golazo-tras-un-gran-pase-de-michael-olise-tmvo13194568" target="_blank">Kylian Mbappé anota un GOLAZO tras un gran pase de Michael Olise</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-16 20:38</span>
             </div>
         </div>
 <div class="story">
@@ -65,39 +78,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/president-1-ht-er-260122_1769125604626_hpMain_4x3t_384.jpg" alt="Trump admin seeks to block order to restore parks&#x27; climate change, diversity info" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/trump-admin-seeks-block-restoration-historical-sites-ahead/story?id=133923492" target="_blank">Trump admin seeks to block order to restore parks&#x27; climate change, diversity info</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-16 19:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/16/i-know-what-youve-been-through-fifa-president-visits-iran-team?traffic_source=rss" target="_blank">‘I know what you’ve been through’: FIFA president visits Iran team</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-16 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/16/g-s1-128162/albania-resort-protests-kushner-trump" target="_blank">In Albania, anger grows against the government for supporting a Kushner-linked luxury resort</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-16 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-slams-israeli-attacks-on-lebanon-at-g7-summit?traffic_source=rss" target="_blank">Trump slams Israeli attacks on Lebanon at G7 summit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-16 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/dept-of-ed-building-gty-jt-251001_1759334567388_hpMain_4x3t_384.jpg" alt="Department of Education takes major step in dismantling itself: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/department-education-taking-major-step-dismantling-sources/story?id=133927816" target="_blank">Department of Education takes major step in dismantling itself: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-16 16:45</span>
             </div>
         </div>
 </div>
@@ -168,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-New-File-System-Docs" target="_blank">Linux Enacts Guidance To Tighten Acceptance Of New File-Systems Into The Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-16 21:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Slackware-KDE-Plasma-6" target="_blank">KDE Plasma 6 Desktop Finally Comes To Slackware</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-16 20:29</span>
@@ -209,15 +213,6 @@
                 <span class="time">2026-06-16 16:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/firefox-152.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 152 debuts with new-look Settings, odd way to mute tabs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/firefox-152-released" target="_blank">Firefox 152 debuts with new-look Settings, odd way to mute tabs</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-16 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/05_GoW_EDAY_PlaysLikeNew_Final-7ef1be5a3c94e92a7462-1900x1080-1-1280x728.jpg" alt="Xbox Promises Gears Of War: E-Day Exclusivity Is Not A Limited-Time Fake Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-promises-gears-of-war-e-day-exclusivity-is-not-a-limited-time-fake-out-2000707199" target="_blank">Xbox Promises Gears Of War: E-Day Exclusivity Is Not A Limited-Time Fake Out</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-16 21:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Office-Professional-Plus-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Microsoft Office is somehow only $20 during Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/16/microsoft-office-is-somehow-only-20-during-deal-days.html" target="_blank">Microsoft Office is somehow only $20 during Deal Days</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-16 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/SANDISK-Optimus-GX-PRO-850X-NVMe-SSD-official-image-from-trailer-1280x720.jpg" alt="SanDisk’s New, ‘Officially Licensed’ $3,800 PS5 SSD Is A Surefire Sign We Are Completely Screwed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +286,6 @@
                 <span class="time">2026-06-16 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KV8JXH7W5KZS0GK5952HDBGD/hero-image.jpg" alt="Threads Just Rolled Out These Three New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/three-new-threads-features-rolling-out-now?utm_medium=RSS" target="_blank">Threads Just Rolled Out These Three New Features</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-16 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/xray.jpg?fit=1708%2C1062&amp;quality=60&amp;ssl=1" alt="CrankGPT is an offline AI box for the apocalypse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/16/crankgpt-is-an-offline-ai-box-for-the-apocalypse.html" target="_blank">CrankGPT is an offline AI box for the apocalypse</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-16 12:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 20:59 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 21:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
