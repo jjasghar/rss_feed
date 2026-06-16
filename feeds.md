@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-16 07:49:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-16 09:42:28 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, June 16, 2026 - 07:49 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, June 16, 2026 - 09:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-says-israeli-occupation-in-lebanon-would-breach-us-deal?traffic_source=rss" target="_blank">Iran says Israeli occupation in Lebanon would breach US deal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-16 09:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/LAF-DB-260616_1781598929959_hpMain_4x3t_384.jpg" alt="Iran live updates: Israeli attacks, occupation in Lebanon violate MOU, Araghchi says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Israeli attacks, occupation in Lebanon violate MOU, Araghchi says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-16 09:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +105,38 @@
                 <span class="time">2026-06-16 02:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8193/live/9e5a3f20-690a-11f1-8e1d-bbbb1017d210.jpg" alt="Thames Water moves step closer to nationalisation after government objects to rescue deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss" target="_blank">Thames Water moves step closer to nationalisation after government objects to rescue deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-16 00:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/15/nx-s1-5859429/todd-lyons-ice-detention" target="_blank">Former ICE leader lands new job consulting on national security and defense</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-15 23:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a28a1a365e0fc8f488095dc/master/pass/How-Software-Company-Is-Saving-Money-By-Spending-Big-on-Claude-Business.jpg" alt="‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/" target="_blank">‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-16 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Commodore-Callback-8020-BASIC-Beige-005-500x500.png" alt="Commodore’s newest gadget is a flip phone that blocks social media and browsers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/" target="_blank">Commodore’s newest gadget is a flip phone that blocks social media and browsers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-16 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/" target="_blank">Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-16 06:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a2c0a9774d0a5778602603d/master/pass/FR_PR_app_screens_soldiers_01_nologo%20copy.jpg" alt="Qobuz Is the Anti-Spotify Music Streamer You’ve Been Waiting For" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,38 +164,29 @@
                 <span class="time">2026-06-16 00:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/" target="_blank">Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-15 23:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/spectrumroll-500x500.jpg" alt="Key mission for Europe&#x27;s commercial space enterprise scrubbed again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/" target="_blank">Key mission for Europe&#x27;s commercial space enterprise scrubbed again</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-15 23:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/" target="_blank">The US government’s Anthropic models ban was never about an AI jailbreak</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-15 21:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/swift-logic-io218/i-wish-i-knew-ai-recommendation-sooner-heres-the-full-breakdown-2eno" target="_blank">I Wish I Knew AI Recommendation Sooner — Here&#x27;s the Full Breakdown</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-16 09:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/stack-overflow-for-agents/en/headerimage/generatedHeaderImage-1781562336273.jpg" alt="AI Coding Agents Get a Stack Overflow of Their Own" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/stack-overflow-for-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Coding Agents Get a Stack Overflow of Their Own</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-16 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/vlindberg/rede-social-brasileira-que-mistura-reddit-waze-google-maps-2gp7" target="_blank">Rede social brasileira que mistura Reddit + Waze + Google Maps</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-16 01:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-IOmap-EXT4-XFS" target="_blank">Linux 7.2 Optimization Shows +5% IOPS For EXT4 &amp; XFS After Moving Around Two Lines Of Code</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-16 01:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/timevolt/the-star-quest-level-up-your-behavioral-interview-like-neo-seeing-the-code-1n9" target="_blank">🎯 The STAR Quest: Level‑Up Your Behavioral Interview Like Neo Seeing the Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-15 22:35</span>
             </div>
         </div>
 </div>
@@ -324,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 07:49 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 09:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
