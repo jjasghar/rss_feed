@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-16 17:38:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-16 19:08:12 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, June 16, 2026 - 17:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, June 16, 2026 - 19:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/16/i-know-what-youve-been-through-fifa-president-visits-iran-team?traffic_source=rss" target="_blank">‘I know what you’ve been through’: FIFA president visits Iran team</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-16 18:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,21 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd69/live/fa1ab490-698f-11f1-bf78-b9ee73ed2967.jpg" alt="Tehran selling deal with US as victory – but for Iranians it was necessity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/16/nx-s1-5847024/motor-oil-iran-war" target="_blank">The war with Iran is making oil changes pricier. And a deal won&#x27;t solve it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-16 15:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/16/fbi-says-it-foiled-planned-attacks-targeting-white-house-ufc-event?traffic_source=rss" target="_blank">FBI says it foiled ‘planned attacks’ targeting White House UFC event</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-16 14:57</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss" target="_blank">Tehran selling deal with US as victory – but for Iranians it was necessity</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-16 15:31</span>
             </div>
         </div>
 </div>
@@ -107,6 +107,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr" target="_blank">All the latest news on Android 17, Wear OS 7, and Android XR</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-16 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3184ea64340aad926848af/master/pass/Reflecting-Pool-Full-of-Algae-Science-2281587520.jpg" alt="Why the Reflecting Pool Is Full of Algae After Trump&#x27;s Renovation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/reflecting-pool-full-of-algae-climate-change/" target="_blank">Why the Reflecting Pool Is Full of Algae After Trump&#x27;s Renovation</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-16 18:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a3174c303c7678297711319/master/pass/main-final.jpg" alt="The Future of Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +161,29 @@
                 <span class="time">2026-06-16 15:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/949305/popsockets-magnetic-magsafe-low-pro-grip-hands-on" target="_blank">The new PopSockets grip is so thin you&amp;#8217;ll forget it&amp;#8217;s even there</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-16 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/" target="_blank">India orders temporary ban on Telegram over exam fraud concerns</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-16 11:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17362195/raven-prism-linux-smart-glass" target="_blank">Raven Prism is a Linux Computer That Happens To Be A Pair of Glasses</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-16 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wayland-Weston-16-Alpha" target="_blank">Wayland&#x27;s Weston 16 Alpha Brings HDR Improvements, Vulkan Renderer Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-16 17:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +220,6 @@
                 <span class="time">2026-06-16 15:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-72-Container-Exit-Latency" target="_blank">Linux 7.2 Can Significantly Lower Container Exit/Unmount Latency</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-16 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/" target="_blank">Running local models is good now</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-16 14:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/3270cc0f221d1184b130887535cf499f-1280x720.jpg" alt="Nintendo Is ‘Aware Of An Issue’ Involving Third-Party Hack As Group Allegedly Tries To Ransom Employee Info For $2 Million" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-employee-info-data-hack-ransomware-leak-shadowbytes-tinypulse-2000707087" target="_blank">Nintendo Is ‘Aware Of An Issue’ Involving Third-Party Hack As Group Allegedly Tries To Ransom Employee Info For $2 Million</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-16 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114324.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="In 1980, 300 children collapsed at a marching band competition and no one knows why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/16/in-1980-300-children-collapsed-at-a-marching-band-competition-and-no-one-knows-why.html" target="_blank">In 1980, 300 children collapsed at a marching band competition and no one knows why</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-16 17:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KV8JXH7W5KZS0GK5952HDBGD/hero-image.jpg" alt="Threads Just Rolled Out These Three New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +293,6 @@
                 <span class="time">2026-06-15 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JD2S451XG1SC2B87GGRHZ1MW/hero-image.png" alt="How to Speak With a Real Person at Best Buy Customer Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-to-speak-with-a-best-buy-customer-service-representative?utm_medium=RSS" target="_blank">How to Speak With a Real Person at Best Buy Customer Service</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-15 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/8dc4eaa13d6988d0d49ff2b5d385d77e-1280x719.jpg" alt="Xbox In Talks To Close Double Fine And Ninja Theory, Which Just Revealed Its New Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/psychonauts-hellblade-south-of-midnight-studios-negotiating-xbox-closure-2000706718" target="_blank">Xbox In Talks To Close Double Fine And Ninja Theory, Which Just Revealed Its New Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-15 20:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,22 +325,13 @@
                 <span class="time">2026-06-15 20:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/15/child-s-play-auction-needs-you" target="_blank">Child&#x27;s Play Auction Needs You!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-15 18:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 96 | 📡 Total Sources: 38 | 📸 With Images: 237 |
-        🔄 Last Updated: 17:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 38 | 📸 With Images: 237 |
+        🔄 Last Updated: 19:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
