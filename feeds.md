@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-06-16 00:35:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-16 01:50:23 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, June 16, 2026 - 00:35 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, June 16, 2026 - 01:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/15/nx-s1-5859429/todd-lyons-ice-detention" target="_blank">Former ICE leader lands new job consulting on national security and defense</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-15 23:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/airport-ht-er-260615_1781560697856_hpMain_4x3t_384.jpg" alt="8 dead after Air Force B-52 bomber crashes shortly after takeoff in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +106,20 @@
                 <span class="time">2026-06-15 20:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb36/live/4ade2f20-68f4-11f1-8546-8f19e4fe30f4.jpg" alt="Trump says deal to end war with Iran already signed and details to be released &#x27;pretty soon&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says deal to end war with Iran already signed and details to be released &#x27;pretty soon&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-15 20:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3068b96de136e1eb346f80/master/pass/Anthropic-Latest-Clash-With-White-House-Business-2280291383.jpg" alt="Anthropic Is Still at Odds With the White House Over Claude Fable 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/" target="_blank">Anthropic Is Still at Odds With the White House Over Claude Fable 5</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-16 00:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +165,29 @@
                 <span class="time">2026-06-15 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-1232060072-500x500.jpeg" alt="Heart protection from COVID shots remains amid updates, study finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/" target="_blank">Heart protection from COVID shots remains amid updates, study finds</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-15 21:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vlindberg/rede-social-brasileira-que-mistura-reddit-waze-google-maps-2gp7" target="_blank">Rede social brasileira que mistura Reddit + Waze + Google Maps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-16 01:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-IOmap-EXT4-XFS" target="_blank">Linux 7.2 Optimization Shows +5% IOPS For EXT4 &amp; XFS After Moving Around Two Lines Of Code</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-16 01:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +222,6 @@
                 <span class="title"><a href="https://dev.to/josh_blair/adding-markdown-support-end-to-end-part-7-24g1" target="_blank">Adding Markdown Support End-to-End (Part 7)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-15 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/" target="_blank">GitHub Copilot CLI for Beginners: Overview of common slash commands</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-15 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Performance-Skills" target="_blank">Intel Performance Skills: New Open-Source Project Leveraging AI For Linux Performance Optimizations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-15 20:15</span>
             </div>
         </div>
 </div>
@@ -346,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 00:35 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 01:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
