@@ -1,44 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-16 11:43:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-16 13:31:21 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 15 new posts out of 35 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, June 16, 2026 - 11:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, June 16, 2026 - 13:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -116,6 +108,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/949305/popsockets-magnetic-magsafe-low-pro-grip-hands-on" target="_blank">The new PopSockets grip is so thin you&amp;#8217;ll forget it&amp;#8217;s even there</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-16 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/" target="_blank">India orders temporary ban on Telegram over exam fraud concerns</a></span>
                 <span class="feed">TechCrunch</span>
@@ -158,20 +159,29 @@
                 <span class="time">2026-06-16 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/" target="_blank">Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-16 06:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/parallel-agents-production/en/mediumimage/paul-klein-medium-1781168002415.jpeg" alt="Presentation: Automating the Web With MCP: Infra That Doesn’t Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/parallel-agents-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Automating the Web With MCP: Infra That Doesn’t Break</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-16 13:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/template-streamlining-open-source-design-contributions" target="_blank">Template: Streamlining open source design contributions</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-16 13:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,29 +218,20 @@
                 <span class="time">2026-06-16 09:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-core-26-ai-box" target="_blank">A look into Ubuntu Core 26: Building a local AI inference appliance in a virtual machine</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-16 09:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/stack-overflow-for-agents/en/headerimage/generatedHeaderImage-1781562336273.jpg" alt="AI Coding Agents Get a Stack Overflow of Their Own" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/stack-overflow-for-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Coding Agents Get a Stack Overflow of Their Own</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-16 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/xray.jpg?fit=1708%2C1062&amp;quality=60&amp;ssl=1" alt="CrankGPT is an offline AI box for the apocalypse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/16/crankgpt-is-an-offline-ai-box-for-the-apocalypse.html" target="_blank">CrankGPT is an offline AI box for the apocalypse</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-16 12:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KV6GQKPG9GF71JGN1KFS1X9C/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Does &#x27;Dah Bih Gah&#x27; Mean?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,20 +277,20 @@
                 <span class="time">2026-06-15 19:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/HORSES-official-image-Santa-Ragione-1280x960.jpg" alt="Santa Ragione Reveals That Horses Has Left The Studio In $42,000 Worth Of Debt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/horses-game-steam-banned-epic-store-santa-ragione-debt-2000706693" target="_blank">Santa Ragione Reveals That Horses Has Left The Studio In $42,000 Worth Of Debt</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-15 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1781614380-sawyerlaunchletter.png" alt="Saturday Morning Breakfast Cereal - Sawyer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/sawyer" target="_blank">Saturday Morning Breakfast Cereal - Sawyer</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-16 12:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -322,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 11:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 13:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
