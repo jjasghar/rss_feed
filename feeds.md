@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-16 22:37:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-16 23:28:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, June 16, 2026 - 22:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, June 16, 2026 - 23:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +57,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/16/us-sprinter-noah-lyles-sets-world-best-150m-time-at-golden-spike-meet?traffic_source=rss" target="_blank">US sprinter Noah Lyles sets world best 150m time at Golden Spike meet</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-16 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/world-cup-gty-jef-260616_1781627925134_hpMain_4x3t_384.jpg" alt="All 78 World Cup matches have counter-drone technology: White House official" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/78-world-cup-matches-counter-drone-technology-white/story?id=133927808" target="_blank">All 78 World Cup matches have counter-drone technology: White House official</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-16 22:01</span>
             </div>
         </div>
 <div class="story">
@@ -96,15 +104,6 @@
                 <span class="time">2026-06-16 20:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/16/nx-s1-5855456/world-cup-soccer-iraq-fans-dearborn-michigan" target="_blank">Iraqi soccer fans celebrate end of 40-year World Cup drought</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-16 20:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -120,12 +119,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-500x500.jpg" alt="Trump admin tries to block Clean Air Act lawsuit over xAI&#x27;s gas turbines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/" target="_blank">Trump admin tries to block Clean Air Act lawsuit over xAI&#x27;s gas turbines</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-16 22:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-500x500.jpg" alt="Trump admin helps xAI fight pollution lawsuit, says military needs Grok for war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/" target="_blank">Trump admin helps xAI fight pollution lawsuit, says military needs Grok for war</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-16 22:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a316d76d98aa3bb396068f7/master/pass/GettyImages-2152107576.jpg" alt="Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/" target="_blank">Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-16 20:21</span>
             </div>
         </div>
 <div class="story">
@@ -146,29 +163,20 @@
                 <span class="time">2026-06-16 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3184ea64340aad926848af/master/pass/Reflecting-Pool-Full-of-Algae-Science-2281587520.jpg" alt="Why the Reflecting Pool Is Full of Algae After Trump&#x27;s Renovation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/reflecting-pool-full-of-algae-climate-change/" target="_blank">Why the Reflecting Pool Is Full of Algae After Trump&#x27;s Renovation</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-16 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3174c303c7678297711319/master/pass/main-final.jpg" alt="The Future of Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/future-of-home/" target="_blank">The Future of Home</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-16 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/suntong/qtractor-bible-summary-4g0p" target="_blank">Qtractor Usage Bible - Summary</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-16 23:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,6 +198,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/" target="_blank">What are git worktrees, and why should I use them?</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-16 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon" target="_blank">GrapheneOS has been ported to Android 17 and official releases are coming soon</a></span>
                 <span class="feed">Hacker News</span>
@@ -203,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Slackware-KDE-Plasma-6" target="_blank">KDE Plasma 6 Desktop Finally Comes To Slackware</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-16 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17362195/raven-prism-linux-smart-glass" target="_blank">Raven Prism is a Linux Computer That Happens To Be A Pair of Glasses</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-16 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wayland-Weston-16-Alpha" target="_blank">Wayland&#x27;s Weston 16 Alpha Brings HDR Improvements, Vulkan Renderer Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-16 17:52</span>
             </div>
         </div>
 </div>
@@ -324,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 38 | 📸 With Images: 238 |
-        🔄 Last Updated: 22:37 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 237 |
+        🔄 Last Updated: 23:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
