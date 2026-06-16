@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-16 15:35:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-16 17:38:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 15 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, June 16, 2026 - 15:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, June 16, 2026 - 17:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +52,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/16/g-s1-128162/albania-resort-protests-kushner-trump" target="_blank">In Albania, anger grows against the government for supporting a Kushner-linked luxury resort</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-16 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-slams-israeli-attacks-on-lebanon-at-g7-summit?traffic_source=rss" target="_blank">Trump slams Israeli attacks on Lebanon at G7 summit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-16 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/dept-of-ed-building-gty-jt-251001_1759334567388_hpMain_4x3t_384.jpg" alt="Department of Education takes major step in dismantling itself: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/department-education-taking-major-step-dismantling-sources/story?id=133927816" target="_blank">Department of Education takes major step in dismantling itself: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-16 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b77/live/208679c0-699a-11f1-9685-4f5a66750059.jpg" alt="Russian warship fires warning shots near UK-registered yacht in Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss" target="_blank">Russian warship fires warning shots near UK-registered yacht in Channel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-16 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/06/16/nx-s1-5847024/motor-oil-iran-war" target="_blank">The war with Iran is making oil changes pricier. And a deal won&#x27;t solve it</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-16 15:29</span>
@@ -66,47 +102,29 @@
                 <span class="time">2026-06-16 14:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/1b787b00-698a-11f1-8e1d-bbbb1017d210.jpg" alt="UK forces face operational cuts without more cash, defence chief warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20ydx06ym2o?at_medium=RSS&at_campaign=rss" target="_blank">UK forces face operational cuts without more cash, defence chief warns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-16 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781612384754_now_mnn_brk_ufc_fbi_attackplot_260616_S3_1920x1080-q5npoz.jpg" alt="FBI foils alleged plot to attack the White House UFC event" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/fbi-foils-alleged-plot-to-attack-the-white-house-ufc-event-265160773668" target="_blank">FBI foils alleged plot to attack the White House UFC event</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-16 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Trump-DB-260616_1781606554900_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says MOU is &#x27;fair,&#x27; denies that US will invest &#x27;any money&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Trump says MOU is &#x27;fair,&#x27; denies that US will invest &#x27;any money&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-16 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-says-hell-will-rain-down-if-iran-gets-nuclear-weapons?traffic_source=rss" target="_blank">Trump says ‘hell will rain down’ if Iran gets nuclear weapons</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-16 11:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3174c303c7678297711319/master/pass/main-final.jpg" alt="The Future of Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/future-of-home/" target="_blank">The Future of Home</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-16 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1350384252-500x500.jpg" alt="Trump admin abandons fight against wind energy as clean energy output surges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/" target="_blank">Trump admin abandons fight against wind energy as clean energy output surges</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-16 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +161,38 @@
                 <span class="time">2026-06-16 11:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-500x500.jpg" alt="Critical Copilot vulnerability allowed hackers to seal 2FA code from users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/" target="_blank">Critical Copilot vulnerability allowed hackers to seal 2FA code from users</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-16 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png" alt="15 Best Office Chairs of 2026— We Tested 70 to Pick Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-office-chairs/" target="_blank">15 Best Office Chairs of 2026— We Tested 70 to Pick Them</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-16 11:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-72-Faster-Anon-Pipe-Write" target="_blank">Linux 7.2 Improves Anonymous/Unnamed Pipe Performance For Shell Pipelines &amp; More</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-16 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/eabe4407-76aa-47a3-a8cb-1d955c05bf03_1972x1072.png" alt="Why is Meta destroying its engineering organization?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering" target="_blank">Why is Meta destroying its engineering organization?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-06-16 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/firefox-152.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 152 debuts with new-look Settings, odd way to mute tabs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/firefox-152-released" target="_blank">Firefox 152 debuts with new-look Settings, odd way to mute tabs</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-16 15:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/firefox-152.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 152 revamps Settings and adds a new way to mute tabs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,39 +212,26 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/presentations/parallel-agents-production/en/mediumimage/paul-klein-medium-1781168002415.jpeg" alt="Presentation: Automating the Web With MCP: Infra That Doesn’t Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/parallel-agents-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Automating the Web With MCP: Infra That Doesn’t Break</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-16 13:13</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/" target="_blank">Running local models is good now</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-16 14:36</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/template-streamlining-open-source-design-contributions" target="_blank">Template: Streamlining open source design contributions</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-16 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gentleforge/how-i-architected-a-999-uptime-rag-stack-with-deepseek-2026-guide-3438" target="_blank">How I Architected a 99.9% Uptime RAG Stack with DeepSeek — 2026 Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-16 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/XFS-Zone-Allocator-Linux-7.2" target="_blank">XFS Zone Allocator No Longer Experimental With Linux 7.2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-16 10:38</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html" target="_blank">Flock Cameras Are Being Used for Stalking</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-16 11:03</span>
             </div>
         </div>
 </div>
@@ -225,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KV8JXH7W5KZS0GK5952HDBGD/hero-image.jpg" alt="Threads Just Rolled Out These Three New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/three-new-threads-features-rolling-out-now?utm_medium=RSS" target="_blank">Threads Just Rolled Out These Three New Features</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-16 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/xray.jpg?fit=1708%2C1062&amp;quality=60&amp;ssl=1" alt="CrankGPT is an offline AI box for the apocalypse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,20 +293,20 @@
                 <span class="time">2026-06-15 20:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/shutterstock_1430014880-1-e1749661914914.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="Woman cheers Knicks win, LAPD bursts in and kills her dog" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/15/woman-cheers-knicks-win-lapd-bursts-in-and-kills-her-dog.html" target="_blank">Woman cheers Knicks win, LAPD bursts in and kills her dog</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-15 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/my-weeds/" target="_blank">My Weeds</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-06-16 15:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1781614380-sawyerlaunchletter.png" alt="Saturday Morning Breakfast Cereal - Sawyer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -316,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 38 | 📸 With Images: 235 |
-        🔄 Last Updated: 15:36 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 96 | 📡 Total Sources: 38 | 📸 With Images: 237 |
+        🔄 Last Updated: 17:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
