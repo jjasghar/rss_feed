@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-16 21:56:09 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-16 22:37:08 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, June 16, 2026 - 21:56 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, June 16, 2026 - 22:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +52,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/16/us-sprinter-noah-lyles-sets-world-best-150m-time-at-golden-spike-meet?traffic_source=rss" target="_blank">US sprinter Noah Lyles sets world best 150m time at Golden Spike meet</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-16 22:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decc/live/d073f060-69cc-11f1-8dbe-5392e973184a.jpg" alt="&#x27;It was surreal&#x27;: British couple describe having warning shots fired near them by Russian warship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;It was surreal&#x27;: British couple describe having warning shots fired near them by Russian warship</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-16 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/900/335/46587718043-1080pnbcstations.jpg" alt="BOMBAZO y GOLAZO de Kylian Mbappé para su doblete vs Senegal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/bombazo-y-golazo-de-kylian-mbappe-para-su-doblete-vs-senegal-tmvo13194576" target="_blank">BOMBAZO y GOLAZO de Kylian Mbappé para su doblete vs Senegal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-16 21:15</span>
             </div>
         </div>
 <div class="story">
@@ -77,29 +105,29 @@
                 <span class="time">2026-06-16 20:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/president-1-ht-er-260122_1769125604626_hpMain_4x3t_384.jpg" alt="Trump admin seeks to block order to restore parks&#x27; climate change, diversity info" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/trump-admin-seeks-block-restoration-historical-sites-ahead/story?id=133923492" target="_blank">Trump admin seeks to block order to restore parks&#x27; climate change, diversity info</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-16 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/16/i-know-what-youve-been-through-fifa-president-visits-iran-team?traffic_source=rss" target="_blank">‘I know what you’ve been through’: FIFA president visits Iran team</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-16 18:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/" target="_blank">Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-16 22:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-500x500.jpg" alt="Trump admin helps xAI fight pollution lawsuit, says military needs Grok for war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/" target="_blank">Trump admin helps xAI fight pollution lawsuit, says military needs Grok for war</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-16 22:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +164,6 @@
                 <span class="time">2026-06-16 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1350384252-500x500.jpg" alt="Trump admin abandons fight against wind energy as clean energy output surges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/" target="_blank">Trump admin abandons fight against wind energy as clean energy output surges</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-16 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/950591/dji-osmo-pocket-4p-dual-gimbal-camera-baby-steadicam-4k-tracking" target="_blank">We now know how DJI’s dual camera Osmo Pocket 4P compares to Insta360’s</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-16 15:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,10 +172,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/auth0/preview-auth0-changes-safely-with-deploy-cli-dry-run-38hn" target="_blank">Preview Auth0 Changes Safely with Deploy CLI Dry Run</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-16 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-New-File-System-Docs" target="_blank">Linux Enacts Guidance To Tighten Acceptance Of New File-Systems Into The Kernel</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-16 21:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon" target="_blank">GrapheneOS has been ported to Android 17 and official releases are coming soon</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-16 20:34</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +223,6 @@
                 <span class="time">2026-06-16 17:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-72-Faster-Anon-Pipe-Write" target="_blank">Linux 7.2 Improves Anonymous/Unnamed Pipe Performance For Shell Pipelines &amp; More</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-16 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/eabe4407-76aa-47a3-a8cb-1d955c05bf03_1972x1072.png" alt="Why is Meta destroying its engineering organization?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering" target="_blank">Why is Meta destroying its engineering organization?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-06-16 16:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-16 21:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/05_GoW_EDAY_PlaysLikeNew_Final-7ef1be5a3c94e92a7462-1900x1080-1-1280x728.jpg" alt="Xbox Promises Gears Of War: E-Day Exclusivity Is Not A Limited-Time Fake Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +296,6 @@
                 <span class="time">2026-06-16 18:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114324.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="In 1980, 300 children collapsed at a marching band competition and no one knows why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/16/in-1980-300-children-collapsed-at-a-marching-band-competition-and-no-one-knows-why.html" target="_blank">In 1980, 300 children collapsed at a marching band competition and no one knows why</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-16 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 21:56 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 38 | 📸 With Images: 238 |
+        🔄 Last Updated: 22:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
