@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-17 15:01:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-17 16:58:36 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Generated 13 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, June 17, 2026 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 16:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_massive-brush-fire-sends-thick-smoke-over-miami-170626?traffic_source=rss" target="_blank">Massive brush fire sends thick smoke over western Miami</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-17 16:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +100,38 @@
                 <span class="time">2026-06-17 09:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/laredo-crash_1781685855392_hpMain_4x3t_384.jpg" alt="1 dead after private plane crashes onto Texas road, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/1-dead-after-private-plane-crashes-texas-road/story?id=133952314" target="_blank">1 dead after private plane crashes onto Texas road, police say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-17 09:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/" target="_blank">Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-17 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale" target="_blank">The Echo Dot Max is cheaper than ever in an early Prime Day sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-17 16:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google-Home-Speaker-Jade-copy-500x500-1781708619.jpg" alt="Ten months later, the $100 Google Home Speaker is finally available for preorder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/" target="_blank">Ten months later, the $100 Google Home Speaker is finally available for preorder</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-17 15:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,33 +159,6 @@
                 <span class="time">2026-06-17 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/949001/thread-network-diagnostic-tools-app-troubleshooting-matter-smart-home" target="_blank">Got Thread problems? There’s an app for that</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/m10-500x500.jpg" alt="Native NACS ports, infotainment upgrade for MY27 Porsche Taycan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/" target="_blank">Native NACS ports, infotainment upgrade for MY27 Porsche Taycan</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-17 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/942467/smart-lighting-backyard-govee-outdoor" target="_blank">My backyard made me a color-changing smart lighting convert</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-17 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,10 +167,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/cicd-with-robert-erez" target="_blank">CI/CD with Robert Erez</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-06-17 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Experimental-Vino-DRM-Driver" target="_blank">Experimental, Reverse-Engineered &amp; AI Assisted Rust Driver Targets Modern DisplayLink Hardware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-17 16:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Epic-Games-Lore-VCS" target="_blank">Epic Games Announces Lore Open-Source Version Control System</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-17 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lore.org/" target="_blank">Epic Games announces Lore version control system</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-17 14:30</span>
             </div>
         </div>
 <div class="story">
@@ -181,37 +212,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arthurpro/the-slot-machine-was-the-point-4fm1" target="_blank">The Slot-Machine Was the Point</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/virtualized-android-comes-to-anbox-cloud" target="_blank">Virtualized Android comes to Anbox Cloud</a></span>
+                <span class="title"><a href="https://ubuntu.com//blog/validating-real-world-skills-through-canonical-academy" target="_blank">Validating real-world skills through Canonical Academy</a></span>
                 <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-17 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/ai-agent-identity-uber-auth0/en/headerimage/Auth0-Header-1781600533444.jpeg" alt="AI Agent Identity and Permission Challenges: How Uber and Auth0 Are Rethinking Access Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/ai-agent-identity-uber-auth0/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Agent Identity and Permission Challenges: How Uber and Auth0 Are Rethinking Access Control</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-17 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/llm-compound-ai-systems/en/mediumimage/medium-1781082183297.jpg" alt="Presentation: From Hype to Strong Foundations: What the Rise, Fall and Resurgence of Agents Can Teach Us About Outlasting the Cycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/llm-compound-ai-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Hype to Strong Foundations: What the Rise, Fall and Resurgence of Agents Can Teach Us About Outlasting the Cycle</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-17 11:04</span>
+                <span class="time">2026-06-17 13:12</span>
             </div>
         </div>
 </div>
@@ -219,6 +223,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/PixelController.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Android 17 brings a customizable virtual gamepad to foldables" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/17/android-17-brings-a-customizable-virtual-gamepad-to-foldables.html" target="_blank">Android 17 brings a customizable virtual gamepad to foldables</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-17 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Aieunrela-1280x720.jpg" alt="The Next Version Of Unreal Engine Is Going To Be Filled With GenAI Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-next-version-of-unreal-engine-is-going-to-be-filled-with-genai-tools-2000707607" target="_blank">The Next Version Of Unreal Engine Is Going To Be Filled With GenAI Tools</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-17 16:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Xbox360-grid1-1280x720.jpg" alt="Some People Still Can’t Play Xbox 360 Games On Their Xbox Series Console, Nearly Two Months After Xbox Said The Issue Was Fixed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,29 +277,20 @@
                 <span class="time">2026-06-17 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH0RQW4KWPVKA2EQYRGHKKF8/hero-image.png" alt="These Nothing Earbuds With Built-In ChatGPT Are 33% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/nothing-earbuds-built-in-chatgpt-sale-early-prime-day-2026?utm_medium=RSS" target="_blank">These Nothing Earbuds With Built-In ChatGPT Are 33% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-17 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/01/washington-monument-by-pedro-szekely.jpg?fit=1261%2C806&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains pours peroxide into the Lincoln Memorial Algae Farm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/16/grandpa-pudding-brains-pours-peroxide-into-the-lincoln-memorial-algae-farm.html" target="_blank">Grandpa Pudding Brains pours peroxide into the Lincoln Memorial Algae Farm</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-17 00:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1781661979-20260617.png" alt="Saturday Morning Breakfast Cereal - Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/deal" target="_blank">Saturday Morning Breakfast Cereal - Deal</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-17 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -288,12 +301,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://imgs.xkcd.com/comics/messi.png" alt="Messi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/my-weeds/" target="_blank">My Weeds</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-06-16 15:23</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3260/" target="_blank">Messi</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-06-17 04:00</span>
             </div>
         </div>
 </div>
@@ -301,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 16:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
