@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-17 18:51:56 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-17 19:40:09 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, June 17, 2026 - 18:52 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 19:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +110,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-2.40.06-PM-500x500.png" alt="AI coding agents can autonomously direct robot training" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/" target="_blank">AI coding agents can autonomously direct robot training</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-17 19:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/" target="_blank">World leaders want American AI. They just don’t want America to be able to turn it off.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-17 19:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -119,6 +146,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6a31de8a8b1536f155402681/master/pass/AI-Lab-Operating-Humanoid-With-Your-Body-is-Hot-Job-in-China-Hardware-Capital-Business.jpg" alt="Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/" target="_blank">Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-17 18:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -127,38 +163,20 @@
                 <span class="time">2026-06-17 17:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly" target="_blank">Two-thirds of Americans think AI is advancing too quickly</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-17 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a31d49a95ac419546b42eb7/master/pass/politics_white_house_anthropic.jpg" alt="The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/" target="_blank">The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-17 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/" target="_blank">Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-17 16:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/enkrateia/how-i-built-enkrateia-an-ai-platform-that-generates-complete-books-and-evolved-into-a-social-system-21e4" target="_blank">How I built Enkrateia: an AI platform that generates complete books and evolved into a social system</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-17 19:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +222,6 @@
                 <span class="time">2026-06-17 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/validating-real-world-skills-through-canonical-academy" target="_blank">Validating real-world skills through Canonical Academy</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-17 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/homerchokebart-1280x720.jpg" alt="A 20-Year-Old Pokémon Just Became One Of The Game’s Deadliest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-champions-mega-staraptor-contrary-close-combat-2000707669" target="_blank">A 20-Year-Old Pokémon Just Became One Of The Game’s Deadliest</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-17 19:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVBA2EBDHR30ZS1KGC0WZNNQ/hero-image.webp" alt="You Can Now Use Your HSA/FSA Funds to Buy a Fitbit Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +295,6 @@
                 <span class="time">2026-06-17 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVAWKZYVPW7WJ8CV6V9MJKFW/hero-image.png" alt="Google&#x27;s New AI &#x27;Information Agents&#x27; Can Send You Alerts on Topics You Care About" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-ai-mode-information-agents?utm_medium=RSS" target="_blank">Google&#x27;s New AI &#x27;Information Agents&#x27; Can Send You Alerts on Topics You Care About</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-17 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 232 |
-        🔄 Last Updated: 18:52 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 232 |
+        🔄 Last Updated: 19:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
