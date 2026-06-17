@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-17 07:40:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-17 09:30:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, June 17, 2026 - 07:40 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 09:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d43/live/d4aa5fc0-6a1c-11f1-8546-8f19e4fe30f4.jpg" alt="PM warns Burnham against immediate leadership challenge if he wins by-election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&at_campaign=rss" target="_blank">PM warns Burnham against immediate leadership challenge if he wins by-election</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-17 09:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/laredo-crash_1781685855392_hpMain_4x3t_384.jpg" alt="1 dead after private plane crashes onto Texas road, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/1-dead-after-private-plane-crashes-texas-road/story?id=133952314" target="_blank">1 dead after private plane crashes onto Texas road, police say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-17 09:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack" target="_blank">Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-17 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/17/nx-s1-5860909/iran-ships-strait-of-hormuz-trump" target="_blank">With Iran deal, Trump told ships to &#x27;start your engines.&#x27; That&#x27;s not happening yet</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-17 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d43/live/d4aa5fc0-6a1c-11f1-8546-8f19e4fe30f4.jpg" alt="PM sends Burnham and Labour warning over leadership contest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -64,42 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/17/g-s1-128536/un-chief-visits-haiti" target="_blank">UN chief visits Haiti, where a new &#x27;gang-suppression force&#x27; will be deployed</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-17 06:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/17/vozinhas-mum-celebrates-hero-keeper-son-from-afar?traffic_source=rss" target="_blank">Vozinha’s mum celebrates hero keeper son from afar</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-17 05:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms" target="_blank">Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-17 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/GORE-3-abc-er-260616_1781644325417_hpMain_4x3t_384.jpg" alt="&#x27;Scientists were dead right&#x27;: Al Gore says 20 years after &#x27;An Inconvenient Truth&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/scientists-dead-al-gore-20th-anniversary-inconvenient-truth/story?id=133922490" target="_blank">&#x27;Scientists were dead right&#x27;: Al Gore says 20 years after &#x27;An Inconvenient Truth&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-17 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/17/smotrich-says-israel-taking-control-of-hebron?traffic_source=rss" target="_blank">Smotrich says Israel taking control of Hebron</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-17 01:24</span>
             </div>
         </div>
 </div>
@@ -167,6 +170,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/06/github-copilot-app/en/headerimage/generatedHeaderImage-1781650188827.jpg" alt="GitHub Copilot Desktop App Targets Parallel Agentic Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/github-copilot-app/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Copilot Desktop App Targets Parallel Agentic Workflows</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-17 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Storage" target="_blank">IO_uring, NVMe &amp; Other Block + Device Mapper Changes Merged For Linux 7.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-17 08:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Mozilla-Firefox-zlib-rs-Usage" target="_blank">Mozilla Firefox Usage Of zlib-rs For Better Safety &amp; Performance</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-17 00:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/truvisory/how-i-build-production-ai-apps-on-cloudflare-with-claude-code-2hka" target="_blank">How I Build Production AI Apps on Cloudflare with Claude Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-17 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/suntong/qtractor-bible-summary-4g0p" target="_blank">Qtractor Usage Bible - Summary</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-16 23:11</span>
             </div>
         </div>
 </div>
@@ -321,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 07:40 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 09:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
