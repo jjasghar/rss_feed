@@ -1,43 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-17 01:46:56 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-17 03:01:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 34 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, June 17, 2026 - 01:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 03:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -72,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260614-mike-collins-vl-417p-d6ad08.jpg" alt="Rep. Mike Collins wins GOP runoff in Georgia Senate race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/georgia-senate-midterms-primary-winner-collins-rcna350028" target="_blank">Rep. Mike Collins wins GOP runoff in Georgia Senate race</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-17 00:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -96,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.com/US/78-world-cup-matches-counter-drone-technology-white/story?id=133927808" target="_blank">All 78 World Cup matches have counter-drone technology: White House official</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-16 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decc/live/d073f060-69cc-11f1-8dbe-5392e973184a.jpg" alt="&#x27;It was surreal&#x27;: British couple describe having warning shots fired near them by Russian warship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;It was surreal&#x27;: British couple describe having warning shots fired near them by Russian warship</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-16 21:44</span>
             </div>
         </div>
 </div>
@@ -172,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/srujan_t04/-guardrails-for-enterprise-ai-agents-whats-actually-load-bearing-in-production-2dhd" target="_blank">Guardrails for enterprise AI agents — what&#x27;s actually load-bearing in production</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-17 02:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fmaven-central%2Fv%2Fio.github.showingdata.starter.framework%2Fsql-circuit-breaker-spring-boot-starter.svg%3Flabel%3DMaven%2520Central" alt="Your circuit breaker stops at the service layer. Slow SQL needs one too." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -214,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/auth0/preview-auth0-changes-safely-with-deploy-cli-dry-run-38hn" target="_blank">Preview Auth0 Changes Safely with Deploy CLI Dry Run</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-16 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-New-File-System-Docs" target="_blank">Linux Enacts Guidance To Tighten Acceptance Of New File-Systems Into The Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-16 21:16</span>
             </div>
         </div>
 </div>
@@ -326,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 01:47 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 03:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
