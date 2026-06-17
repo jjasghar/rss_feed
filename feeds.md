@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-17 16:58:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-17 17:57:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, June 17, 2026 - 16:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 17:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/g7-19-gty-gmh-260617_1781715370950_hpMain_4x3t_384.jpg" alt="Iran live updates: US details what&#x27;s in memorandum of understanding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: US details what&#x27;s in memorandum of understanding</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-17 17:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781717575667_now_brk_gutierrez_memo_iran_260617_S3_1920x1080-08zsgp.jpg" alt="White House officials unveil details of 14-point plan with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/white-house-officials-unveil-details-of-14-point-plan-with-iran-265252933557" target="_blank">White House officials unveil details of 14-point plan with Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-17 17:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/17/luigi-mangione-to-use-psychiatric-defence-in-healthcare-ceo-murder-case?traffic_source=rss" target="_blank">Luigi Mangione to use psychiatric defence in healthcare CEO murder case</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-17 17:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +101,38 @@
                 <span class="time">2026-06-17 10:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdf8/live/9e32d090-6a34-11f1-9b8b-e9d622652531.jpg" alt="Israel launches fresh strikes on Lebanon despite Trump criticism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss" target="_blank">Israel launches fresh strikes on Lebanon despite Trump criticism</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-17 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/g7-main_1781688459737_hpMain_4x3t_384.jpg" alt="Iran live updates: G7 leaders &#x27;support,&#x27; &#x27;ready to contribute&#x27; to US-Iran MOU" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: G7 leaders &#x27;support,&#x27; &#x27;ready to contribute&#x27; to US-Iran MOU</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-17 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d43/live/d4aa5fc0-6a1c-11f1-8546-8f19e4fe30f4.jpg" alt="PM warns Burnham against immediate leadership challenge if he wins by-election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&at_campaign=rss" target="_blank">PM warns Burnham against immediate leadership challenge if he wins by-election</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-17 09:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/" target="_blank">World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-17 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly" target="_blank">Two-thirds of Americans think AI is advancing too quickly</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-17 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a31d49a95ac419546b42eb7/master/pass/politics_white_house_anthropic.jpg" alt="The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/" target="_blank">The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-17 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,33 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/" target="_blank">Ten months later, the $100 Google Home Speaker is finally available for preorder</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-17 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/" target="_blank">Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-17 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/950929/paramount-plus-two-month-deal-sale" target="_blank">Paramount Plus is two dollars for two months of ad-free viewing</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-17 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a2c15a23c737ad4c6d98c56/master/pass/Google%20Home%20Speaker%20-%20Porcelain%20copy.jpg" alt="The Gemini-Powered Google Home Speaker Is Finally Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/" target="_blank">The Gemini-Powered Google Home Speaker Is Finally Here</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-17 13:00</span>
             </div>
         </div>
 </div>
@@ -216,6 +217,20 @@
                 <span class="title"><a href="https://ubuntu.com//blog/validating-real-world-skills-through-canonical-academy" target="_blank">Validating real-world skills through Canonical Academy</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-06-17 13:12</span>
+            </div>
+        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html" target="_blank">AI Use by the US Government</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-17 11:04</span>
             </div>
         </div>
 </div>
@@ -314,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 16:58 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 233 |
+        🔄 Last Updated: 17:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
