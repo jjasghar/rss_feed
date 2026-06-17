@@ -1,31 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-06-17 20:39:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-17 21:36:13 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, June 17, 2026 - 20:39 UTC</div>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 21:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -87,12 +84,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5622/live/98fcb090-6a49-11f1-8e1d-bbbb1017d210.png" alt="Iran sends tankers loaded with oil past US military blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/17/nx-s1-5859298/jay-clayton-confirmation-hearing-director-of-national-intelligence" target="_blank">President Trump calls to delay nomination of intel pick Jay Clayton</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-17 11:18</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss" target="_blank">Iran sends tankers loaded with oil past US military blockade</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-17 13:27</span>
             </div>
         </div>
 </div>
@@ -100,6 +97,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/" target="_blank">Chi-Hua Chien saw Facebook coming; now he says the real AI winners won’t be selling AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-17 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Libra-internals44-copy-500x500.jpeg" alt="Sooner than expected? Useful quantum error correction promised for 2028." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/" target="_blank">Sooner than expected? Useful quantum error correction promised for 2028.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-17 20:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +151,6 @@
                 <span class="time">2026-06-17 18:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls" target="_blank">Anthropic got hit by export rules nobody understands</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-17 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a31de8a8b1536f155402681/master/pass/AI-Lab-Operating-Humanoid-With-Your-Body-is-Hot-Job-in-China-Hardware-Capital-Business.jpg" alt="Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/" target="_blank">Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-17 18:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +163,15 @@
                 <span class="title"><a href="https://dev.to/randomsquirrel802/the-browser-test-failed-can-you-actually-prove-why-16fd" target="_blank">The Browser Test Failed. Can You Actually Prove Why?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-17 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Tools-1.38.6" target="_blank">Bcachefs Tools 1.38.6 Brings Many Performance Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-17 20:06</span>
             </div>
         </div>
 <div class="story">
@@ -202,15 +208,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Epic-Games-Lore-VCS" target="_blank">Epic Games Announces Lore Open-Source Version Control System</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-17 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lore.org/" target="_blank">Epic Games announces Lore version control system</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-17 14:30</span>
             </div>
         </div>
 </div>
@@ -323,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 233 |
-        🔄 Last Updated: 20:39 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 232 |
+        🔄 Last Updated: 21:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
