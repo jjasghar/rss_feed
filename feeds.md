@@ -1,39 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-06-17 00:30:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-17 01:46:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, June 17, 2026 - 00:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 01:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/17/smotrich-says-israel-taking-control-of-hebron?traffic_source=rss" target="_blank">Smotrich says Israel taking control of Hebron</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-17 01:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/16/nx-s1-5860947/supreme-court-haiti-tps-immigrants" target="_blank">Haitian immigrants ask Supreme Court to toss case in light of new evidence</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-17 01:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +105,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;It was surreal&#x27;: British couple describe having warning shots fired near them by Russian warship</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-16 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/900/335/46587718043-1080pnbcstations.jpg" alt="BOMBAZO y GOLAZO de Kylian Mbappé para su doblete vs Senegal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/bombazo-y-golazo-de-kylian-mbappe-para-su-doblete-vs-senegal-tmvo13194576" target="_blank">BOMBAZO y GOLAZO de Kylian Mbappé para su doblete vs Senegal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-16 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/16/palestinian-bedouin-villagers-demolish-homes-after-israeli-orders?traffic_source=rss" target="_blank">Palestinian Bedouin villagers demolish homes after Israeli orders</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-16 20:42</span>
             </div>
         </div>
 </div>
@@ -168,6 +172,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fmaven-central%2Fv%2Fio.github.showingdata.starter.framework%2Fsql-circuit-breaker-spring-boot-starter.svg%3Flabel%3DMaven%2520Central" alt="Your circuit breaker stops at the service layer. Slow SQL needs one too." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/showingdata/your-circuit-breaker-stops-at-the-service-layer-slow-sql-needs-one-too-3bee" target="_blank">Your circuit breaker stops at the service layer. Slow SQL needs one too.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-17 01:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mozilla-Firefox-zlib-rs-Usage" target="_blank">Mozilla Firefox Usage Of zlib-rs For Better Safety &amp; Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-17 00:46</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,24 +225,6 @@
                 <span class="time">2026-06-16 21:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/" target="_blank">What are git worktrees, and why should I use them?</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-16 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon" target="_blank">GrapheneOS has been ported to Android 17</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-16 20:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/01/washington-monument-by-pedro-szekely.jpg?fit=1261%2C806&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains pours peroxide into the Lincoln Memorial Algae Farm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/16/grandpa-pudding-brains-pours-peroxide-into-the-lincoln-memorial-algae-farm.html" target="_blank">Grandpa Pudding Brains pours peroxide into the Lincoln Memorial Algae Farm</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-17 00:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +298,6 @@
                 <span class="time">2026-06-16 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/04/3270cc0f221d1184b130887535cf499f-1280x720.jpg" alt="Nintendo Is ‘Aware Of An Issue’ Involving Third-Party Hack As Group Allegedly Tries To Ransom Employee Info For $2 Million" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-employee-info-data-hack-ransomware-leak-shadowbytes-tinypulse-2000707087" target="_blank">Nintendo Is ‘Aware Of An Issue’ Involving Third-Party Hack As Group Allegedly Tries To Ransom Employee Info For $2 Million</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-16 18:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 236 |
-        🔄 Last Updated: 00:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 01:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
