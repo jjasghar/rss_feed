@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-17 13:06:52 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-06-17 15:01:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, June 17, 2026 - 13:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,10 +104,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/" target="_blank">Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-17 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/950929/paramount-plus-two-month-deal-sale" target="_blank">Paramount Plus is two dollars for two months of ad-free viewing</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-17 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a2c15a23c737ad4c6d98c56/master/pass/Google%20Home%20Speaker%20-%20Porcelain%20copy.jpg" alt="The Gemini-Powered Google Home Speaker Is Finally Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/" target="_blank">The Gemini-Powered Google Home Speaker Is Finally Here</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-17 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/949001/thread-network-diagnostic-tools-app-troubleshooting-matter-smart-home" target="_blank">Got Thread problems? There’s an app for that</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-17 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/m10-500x500.jpg" alt="Native NACS ports, infotainment upgrade for MY27 Porsche Taycan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/" target="_blank">Native NACS ports, infotainment upgrade for MY27 Porsche Taycan</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-17 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -128,47 +155,29 @@
                 <span class="time">2026-06-17 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/12/computer-power-button-500x500.jpg" alt="Windows and Linux users: The deadline to update Secure Boot keys is near" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/" target="_blank">Windows and Linux users: The deadline to update Secure Boot keys is near</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-17 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" alt="AirDoctor Coupon Codes: 40% Off | June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/airdoctor-coupon-code/" target="_blank">AirDoctor Coupon Codes: 40% Off | June 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-17 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b3db5e9095beb3eb76ed62/master/pass/The%20Best%20Handheld%20and%20Wearable%20Fans%20to%20Keep%20Sweat%20at%20Bay.png" alt="Best Handheld Fans and Wearable Fans (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-handheld-fans/" target="_blank">Best Handheld Fans and Wearable Fans (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-16 23:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/" target="_blank">Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-16 22:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Epic-Games-Lore-VCS" target="_blank">Epic Games Announces Lore Open-Source Version Control System</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-17 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/06/17/ai-agents-expose-the-security-checks-you-never-actually-wrote/" target="_blank">AI agents are a confused deputy with the keys to your kingdom​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-06-17 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,29 +214,38 @@
                 <span class="time">2026-06-17 11:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index" target="_blank">GLM-5.2 is the new leading open weights model on Artificial Analysis</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-17 09:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/github-copilot-app/en/headerimage/generatedHeaderImage-1781650188827.jpg" alt="GitHub Copilot Desktop App Targets Parallel Agentic Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/github-copilot-app/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Copilot Desktop App Targets Parallel Agentic Workflows</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-17 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Xbox360-grid1-1280x720.jpg" alt="Some People Still Can’t Play Xbox 360 Games On Their Xbox Series Console, Nearly Two Months After Xbox Said The Issue Was Fixed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-360-games-xbox-series-console-broken-months-later-2000707563" target="_blank">Some People Still Can’t Play Xbox 360 Games On Their Xbox Series Console, Nearly Two Months After Xbox Said The Issue Was Fixed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-17 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/1789TEASER1200-dementia-donnie-7-knicks.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: The Dementia Donnie Center for TV Watching" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/17/tom-the-dancing-bug-the-dementia-donnie-center-for-tv-watching.html" target="_blank">Tom the Dancing Bug: The Dementia Donnie Center for TV Watching</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-17 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVAWKZYVPW7WJ8CV6V9MJKFW/hero-image.png" alt="Google&#x27;s New AI &#x27;Information Agents&#x27; Can Send You Alerts on Topics You Care About" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-ai-mode-information-agents?utm_medium=RSS" target="_blank">Google&#x27;s New AI &#x27;Information Agents&#x27; Can Send You Alerts on Topics You Care About</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-17 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/next-fest-jun-26-1280x720.jpg" alt="11 Fascinating Next Fest Demos To Immediately Stick On Your Wishlist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -253,33 +271,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/16/grandpa-pudding-brains-pours-peroxide-into-the-lincoln-memorial-algae-farm.html" target="_blank">Grandpa Pudding Brains pours peroxide into the Lincoln Memorial Algae Farm</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-17 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-16 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/05_GoW_EDAY_PlaysLikeNew_Final-7ef1be5a3c94e92a7462-1900x1080-1-1280x728.jpg" alt="Xbox Promises Gears Of War: E-Day Exclusivity Is Not A Limited-Time Fake Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-promises-gears-of-war-e-day-exclusivity-is-not-a-limited-time-fake-out-2000707199" target="_blank">Xbox Promises Gears Of War: E-Day Exclusivity Is Not A Limited-Time Fake Out</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-16 21:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Office-Professional-Plus-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Microsoft Office is somehow only $20 during Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/16/microsoft-office-is-somehow-only-20-during-deal-days.html" target="_blank">Microsoft Office is somehow only $20 during Deal Days</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-16 21:00</span>
             </div>
         </div>
 </div>
@@ -310,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 13:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
