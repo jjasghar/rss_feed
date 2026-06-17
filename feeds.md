@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-17 22:30:57 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-17 23:29:04 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, June 17, 2026 - 22:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 23:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides?traffic_source=rss" target="_blank">Iran confirms that MoU has been signed electronically by both sides</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-17 23:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/17/nx-s1-5855760/as-western-fires-erupt-trumps-forest-service-says-its-now-fully-staffed" target="_blank">As western fires erupt, Trump&#x27;s Forest Service says it&#x27;s now fully staffed</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-17 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-iran-tehran_7276290.jpg?20260618001220" alt="US and Iran sign deal aimed at ending war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/the-14-point-us-iran-deal-what-is-in-it-13555121" target="_blank">US and Iran sign deal aimed at ending war</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-17 19:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260617-Strait-of-Hormuz-ch-1416-3a05ab.jpg" alt="Trump and Iran’s president digitally sign interim agreement with terms to end war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513" target="_blank">Trump and Iran’s president digitally sign interim agreement with terms to end war</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-17 18:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/05/1920x1080/skynews-minab-iran_7252818.jpg?20260519074555" alt="Trump says &#x27;nobody&#x27; attacked Iranian girls&#x27; school &#x27;on purpose&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -63,42 +93,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: US details what&#x27;s in memorandum of understanding</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-17 17:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781717575667_now_brk_gutierrez_memo_iran_260617_S3_1920x1080-08zsgp.jpg" alt="White House officials unveil details of 14-point plan with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/white-house-officials-unveil-details-of-14-point-plan-with-iran-265252933557" target="_blank">White House officials unveil details of 14-point plan with Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-17 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/17/luigi-mangione-to-use-psychiatric-defence-in-healthcare-ceo-murder-case?traffic_source=rss" target="_blank">Luigi Mangione to use psychiatric defence in healthcare CEO murder case</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-17 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_massive-brush-fire-sends-thick-smoke-over-miami-170626?traffic_source=rss" target="_blank">Massive brush fire sends thick smoke over western Miami</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-17 16:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5622/live/98fcb090-6a49-11f1-8e1d-bbbb1017d210.png" alt="Iran sends tankers loaded with oil past US military blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss" target="_blank">Iran sends tankers loaded with oil past US military blockade</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-17 13:27</span>
             </div>
         </div>
 </div>
@@ -169,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/njc-ia/alem-da-ditacao-como-extrair-inteligencia-real-de-conversas-a-partir-de-audio-em-segundos-3kff" target="_blank">Além da Ditação: Como Extrair Inteligência Real de Conversas a partir de Áudio em Segundos</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-17 23:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/randomsquirrel802/the-browser-test-failed-can-you-actually-prove-why-16fd" target="_blank">The Browser Test Failed. Can You Actually Prove Why?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-17 20:29</span>
@@ -210,15 +213,6 @@
                 <span class="time">2026-06-17 16:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Experimental-Vino-DRM-Driver" target="_blank">Experimental, Reverse-Engineered &amp; AI Assisted Rust Driver Targets Modern DisplayLink Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-17 16:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +239,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/17/this-45-deal-days-bundle-gets-you-visual-studio-pro-2026-plus-free-coding-courses.html" target="_blank">This $45 Deal Days bundle gets you Visual Studio Pro 2026 plus free coding courses</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-17 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMZZWRE7QFX79W29H2XQ80ZT/hero-image.png" alt="The Best Early Prime Day Deals on Tech for Under $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-under-50-dollars-early-prime-day-2026?utm_medium=RSS" target="_blank">The Best Early Prime Day Deals on Tech for Under $50</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-17 20:35</span>
             </div>
         </div>
 <div class="story">
@@ -281,15 +284,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/17/android-17-brings-a-customizable-virtual-gamepad-to-foldables.html" target="_blank">Android 17 brings a customizable virtual gamepad to foldables</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-17 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Aieunrela-1280x720.jpg" alt="The Next Version Of Unreal Engine Is Going To Be Filled With GenAI Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-next-version-of-unreal-engine-is-going-to-be-filled-with-genai-tools-2000707607" target="_blank">The Next Version Of Unreal Engine Is Going To Be Filled With GenAI Tools</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-17 16:17</span>
             </div>
         </div>
 </div>
@@ -329,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 231 |
-        🔄 Last Updated: 22:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 39 | 📸 With Images: 230 |
+        🔄 Last Updated: 23:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
