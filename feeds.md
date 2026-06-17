@@ -1,28 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-17 21:36:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-17 22:30:57 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, June 17, 2026 - 21:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 22:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -98,6 +107,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-829469540-500x500.jpg" alt="Second carcass-eating fly species cleared by FDA for maggot wound therapy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/" target="_blank">Second carcass-eating fly species cleared by FDA for maggot wound therapy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-17 22:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/" target="_blank">Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-17 21:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -133,24 +160,6 @@
                 <span class="time">2026-06-17 19:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/" target="_blank">World leaders want American AI. They just don’t want America to be able to turn it off.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-17 19:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/" target="_blank">Anthropic becomes first AI startup to join the Frontier carbon removal coalition</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-17 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +181,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Tools-1.38.6" target="_blank">Bcachefs Tools 1.38.6 Brings Many Performance Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-17 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/" target="_blank">Getting more from each token: How Copilot improves context handling and model routing</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-17 19:41</span>
             </div>
         </div>
 <div class="story">
@@ -201,15 +219,6 @@
                 <span class="time">2026-06-17 16:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Epic-Games-Lore-VCS" target="_blank">Epic Games Announces Lore Open-Source Version Control System</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-17 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Visual-Studio-Professional-2026-The-Premium-Learn-to-Code-Certification-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $45 Deal Days bundle gets you Visual Studio Pro 2026 plus free coding courses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/17/this-45-deal-days-bundle-gets-you-visual-studio-pro-2026-plus-free-coding-courses.html" target="_blank">This $45 Deal Days bundle gets you Visual Studio Pro 2026 plus free coding courses</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-17 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/spider-mannn-1280x720.jpg" alt="New Spider-Man: Brand New Day Trailer Reveals The Hulk And Keeps Sadie Sink Under A Hood" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +292,6 @@
                 <span class="time">2026-06-17 16:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Xbox360-grid1-1280x720.jpg" alt="Some People Still Can’t Play Xbox 360 Games On Their Xbox Series Console, Nearly Two Months After Xbox Said The Issue Was Fixed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-360-games-xbox-series-console-broken-months-later-2000707563" target="_blank">Some People Still Can’t Play Xbox 360 Games On Their Xbox Series Console, Nearly Two Months After Xbox Said The Issue Was Fixed</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-17 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 232 |
-        🔄 Last Updated: 21:36 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 231 |
+        🔄 Last Updated: 22:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
