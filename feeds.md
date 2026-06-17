@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-17 09:30:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-17 11:30:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, June 17, 2026 - 09:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 11:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/17/zidane-iqbal-the-footballer-who-gave-pakistan-its-first-world-cup-moment?traffic_source=rss" target="_blank">Zidane Iqbal: The footballer who gave Pakistan its first World Cup moment</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-17 10:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdf8/live/9e32d090-6a34-11f1-9b8b-e9d622652531.jpg" alt="Israel launches fresh strikes on Lebanon despite Trump criticism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss" target="_blank">Israel launches fresh strikes on Lebanon despite Trump criticism</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-17 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/g7-main_1781688459737_hpMain_4x3t_384.jpg" alt="Iran live updates: G7 leaders &#x27;support,&#x27; &#x27;ready to contribute&#x27; to US-Iran MOU" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: G7 leaders &#x27;support,&#x27; &#x27;ready to contribute&#x27; to US-Iran MOU</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-17 09:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d43/live/d4aa5fc0-6a1c-11f1-8546-8f19e4fe30f4.jpg" alt="PM warns Burnham against immediate leadership challenge if he wins by-election" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,38 +99,29 @@
                 <span class="time">2026-06-17 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/17/nx-s1-5860909/iran-ships-strait-of-hormuz-trump" target="_blank">With Iran deal, Trump told ships to &#x27;start your engines.&#x27; That&#x27;s not happening yet</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-17 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d43/live/d4aa5fc0-6a1c-11f1-8546-8f19e4fe30f4.jpg" alt="PM sends Burnham and Labour warning over leadership contest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&at_campaign=rss" target="_blank">PM sends Burnham and Labour warning over leadership contest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-17 07:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/17/g-s1-128536/un-chief-visits-haiti" target="_blank">UN chief visits Haiti, where a new &#x27;gang-suppression force&#x27; will be deployed</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-17 06:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/942467/smart-lighting-backyard-govee-outdoor" target="_blank">My backyard made me a color-changing smart lighting convert</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-17 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/12/computer-power-button-500x500.jpg" alt="Windows and Linux users: The deadline to update Secure Boot keys is near" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/" target="_blank">Windows and Linux users: The deadline to update Secure Boot keys is near</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-17 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" alt="AirDoctor Coupon Codes: 40% Off | June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,29 +158,20 @@
                 <span class="time">2026-06-16 22:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-500x500.jpg" alt="Trump admin helps xAI fight pollution lawsuit, says military needs Grok for war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/" target="_blank">Trump admin helps xAI fight pollution lawsuit, says military needs Grok for war</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-16 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a316d76d98aa3bb396068f7/master/pass/GettyImages-2152107576.jpg" alt="Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/" target="_blank">Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-16 20:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/llm-compound-ai-systems/en/mediumimage/medium-1781082183297.jpg" alt="Presentation: From Hype to Strong Foundations: What the Rise, Fall and Resurgence of Agents Can Teach Us About Outlasting the Cycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/llm-compound-ai-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Hype to Strong Foundations: What the Rise, Fall and Resurgence of Agents Can Teach Us About Outlasting the Cycle</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-17 11:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/06/github-copilot-app/en/headerimage/generatedHeaderImage-1781650188827.jpg" alt="GitHub Copilot Desktop App Targets Parallel Agentic Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,29 +215,6 @@
                 <span class="title"><a href="https://dev.to/showingdata/your-circuit-breaker-stops-at-the-service-layer-slow-sql-needs-one-too-3bee" target="_blank">Your circuit breaker stops at the service layer. Slow SQL needs one too.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-17 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mozilla-Firefox-zlib-rs-Usage" target="_blank">Mozilla Firefox Usage Of zlib-rs For Better Safety &amp; Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-17 00:46</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html" target="_blank">Flock Cameras Are Being Used for Stalking</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-16 11:03</span>
             </div>
         </div>
 </div>
@@ -324,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 09:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 11:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
