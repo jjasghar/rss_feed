@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-17 17:57:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-17 18:51:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, June 17, 2026 - 17:57 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 18:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +104,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/" target="_blank">Anthropic becomes first AI startup to join the Frontier carbon removal coalition</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-17 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls" target="_blank">Anthropic got hit by export rules nobody understands</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-17 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/" target="_blank">World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-17 17:43</span>
@@ -140,24 +152,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/" target="_blank">Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-17 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale" target="_blank">The Echo Dot Max is cheaper than ever in an early Prime Day sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-17 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google-Home-Speaker-Jade-copy-500x500-1781708619.jpg" alt="Ten months later, the $100 Google Home Speaker is finally available for preorder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/" target="_blank">Ten months later, the $100 Google Home Speaker is finally available for preorder</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-17 15:57</span>
             </div>
         </div>
 </div>
@@ -239,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVBA2EBDHR30ZS1KGC0WZNNQ/hero-image.webp" alt="You Can Now Use Your HSA/FSA Funds to Buy a Fitbit Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/use-hsa-fsa-funds-to-buy-a-google-fitbit-air?utm_medium=RSS" target="_blank">You Can Now Use Your HSA/FSA Funds to Buy a Fitbit Air</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-17 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/PixelController.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Android 17 brings a customizable virtual gamepad to foldables" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -283,15 +286,6 @@
                 <span class="time">2026-06-17 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/next-fest-jun-26-1280x720.jpg" alt="11 Fascinating Next Fest Demos To Immediately Stick On Your Wishlist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-next-fest-best-demos-metroidvania-puzzle-rpg-2000707065" target="_blank">11 Fascinating Next Fest Demos To Immediately Stick On Your Wishlist</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-17 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 233 |
-        🔄 Last Updated: 17:57 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 232 |
+        🔄 Last Updated: 18:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
