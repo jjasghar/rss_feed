@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-17 03:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-17 05:33:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, June 17, 2026 - 03:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 05:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/17/vozinhas-mum-celebrates-hero-keeper-son-from-afar?traffic_source=rss" target="_blank">Vozinha’s mum celebrates hero keeper son from afar</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-17 05:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms" target="_blank">Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-17 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/GORE-3-abc-er-260616_1781644325417_hpMain_4x3t_384.jpg" alt="&#x27;Scientists were dead right&#x27;: Al Gore says 20 years after &#x27;An Inconvenient Truth&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/scientists-dead-al-gore-20th-anniversary-inconvenient-truth/story?id=133922490" target="_blank">&#x27;Scientists were dead right&#x27;: Al Gore says 20 years after &#x27;An Inconvenient Truth&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-17 02:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,33 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/georgia-senate-midterms-primary-winner-collins-rcna350028" target="_blank">Rep. Mike Collins wins GOP runoff in Georgia Senate race</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-17 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/17/which-france-and-world-cup-records-did-mbappe-break-against-senegal?traffic_source=rss" target="_blank">Which France and World Cup records did Mbappe break against Senegal?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-17 00:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/16/us-sprinter-noah-lyles-sets-world-best-150m-time-at-golden-spike-meet?traffic_source=rss" target="_blank">US sprinter Noah Lyles sets world best 150m time at Golden Spike meet</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-16 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/world-cup-gty-jef-260616_1781627925134_hpMain_4x3t_384.jpg" alt="All 78 World Cup matches have counter-drone technology: White House official" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/78-world-cup-matches-counter-drone-technology-white/story?id=133927808" target="_blank">All 78 World Cup matches have counter-drone technology: White House official</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-16 22:01</span>
             </div>
         </div>
 </div>
@@ -166,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dang_tran_63f9ff8ece59c73/the-starwarden-browser-platformer-collect-starlights-fight-murklings-beat-the-darkness-2epj" target="_blank">The Starwarden — browser platformer: collect starlights, fight murklings, beat the darkness</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-17 05:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/srujan_t04/-guardrails-for-enterprise-ai-agents-whats-actually-load-bearing-in-production-2dhd" target="_blank">Guardrails for enterprise AI agents — what&#x27;s actually load-bearing in production</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-17 02:52</span>
@@ -205,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/suntong/qtractor-bible-summary-4g0p" target="_blank">Qtractor Usage Bible - Summary</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-16 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/auth0/preview-auth0-changes-safely-with-deploy-cli-dry-run-38hn" target="_blank">Preview Auth0 Changes Safely with Deploy CLI Dry Run</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-16 22:25</span>
             </div>
         </div>
 </div>
@@ -317,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 03:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 05:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
