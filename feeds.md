@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-16 23:28:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-17 00:30:21 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, June 16, 2026 - 23:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, June 17, 2026 - 00:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/17/which-france-and-world-cup-records-did-mbappe-break-against-senegal?traffic_source=rss" target="_blank">Which France and World Cup records did Mbappe break against Senegal?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-17 00:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +103,20 @@
                 <span class="time">2026-06-16 20:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/892/527/46587222831-1080pnbcstations.jpg" alt="Kylian Mbappé anota un GOLAZO tras un gran pase de Michael Olise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/kylian-mbappe-anota-un-golazo-tras-un-gran-pase-de-michael-olise-tmvo13194568" target="_blank">Kylian Mbappé anota un GOLAZO tras un gran pase de Michael Olise</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-16 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68b3db5e9095beb3eb76ed62/master/pass/The%20Best%20Handheld%20and%20Wearable%20Fans%20to%20Keep%20Sweat%20at%20Bay.png" alt="Best Handheld Fans and Wearable Fans (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-handheld-fans/" target="_blank">Best Handheld Fans and Wearable Fans (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-16 23:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +162,20 @@
                 <span class="time">2026-06-16 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr" target="_blank">All the latest news on Android 17, Wear OS 7, and Android XR</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-16 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/truvisory/how-i-build-production-ai-apps-on-cloudflare-with-claude-code-2hka" target="_blank">How I Build Production AI Apps on Cloudflare with Claude Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-17 00:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,18 +216,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon" target="_blank">GrapheneOS has been ported to Android 17 and official releases are coming soon</a></span>
+                <span class="title"><a href="https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon" target="_blank">GrapheneOS has been ported to Android 17</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-16 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Slackware-KDE-Plasma-6" target="_blank">KDE Plasma 6 Desktop Finally Comes To Slackware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-16 20:29</span>
             </div>
         </div>
 </div>
@@ -323,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 237 |
-        🔄 Last Updated: 23:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 00:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
