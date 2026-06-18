@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-18 14:59:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-18 16:14:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, June 18, 2026 - 15:00 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, June 18, 2026 - 16:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +50,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/18/nx-s1-5861903/essential-skin-care-products" target="_blank">You&#x27;re probably using too many skin care products. Here are the 3 essentials</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-18 16:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ae/live/f54e76a0-6b28-11f1-bd3c-dfd1c36b4ceb.jpg" alt="Bowen: US-Iran deal raises inescapable question of what the war was for" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss" target="_blank">Bowen: US-Iran deal raises inescapable question of what the war was for</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-18 15:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a17e/live/d3c88960-6b1b-11f1-be36-65d2d6d55e70.png" alt="Teacher who murdered adopted baby son Preston Davey given whole life prison sentence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/czrx8gj112mo?at_medium=RSS&at_campaign=rss" target="_blank">Teacher who murdered adopted baby son Preston Davey given whole life prison sentence</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-18 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/vance_brief-atnn1y.jpg" alt="Vance holds White House press briefing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-white-house-holds-press-briefing-265309253521" target="_blank">Vance holds White House press briefing</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-18 14:03</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +103,20 @@
                 <span class="time">2026-06-18 12:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/18/g-s1-128755/up-first-newsletter-iran-agreement-jay-clayton-bill-pulte-trump-approval" target="_blank">Trump signs agreement with Iran. And, the president&#x27;s approval hits record lows</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-18 11:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcc6/live/1006d240-6b0f-11f1-8e1d-bbbb1017d210.jpg" alt="Moscow hit by largest Ukrainian attack since start of Russia&#x27;s full-scale war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss" target="_blank">Moscow hit by largest Ukrainian attack since start of Russia&#x27;s full-scale war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-18 09:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/18/world-cup-2026-top-five-must-watch-matches-second-group-phase-full-match-schedule?traffic_source=rss" target="_blank">World Cup 2026: Full group schedule and top second-round matches to watch</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-18 09:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a33fb3a3fe23d3ce2a1cf59/master/pass/Business_AmazonWorkersUnder_v2.jpg" alt="3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/" target="_blank">3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-18 16:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/news-061726i-lg-500x500-1781792793.jpg" alt="The first long-duration resident of the ISS, a cosmonaut, has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +162,38 @@
                 <span class="time">2026-06-18 06:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="Home Depot Promo Codes: 50% Off in June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/home-depot-promo-code/" target="_blank">Home Depot Promo Codes: 50% Off in June 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-18 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/edwindevops/junior-engineers-are-learning-ai-faster-than-they-are-learning-systems-jg7" target="_blank">Junior Engineers Are Learning AI Faster Than They Are Learning Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-18 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/netflix-camera-file-processing/en/headerimage/generatedHeaderImage-1780195416361.jpg" alt="From Camera to Cloud: Netflix’s Scalable Media Processing Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/netflix-camera-file-processing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">From Camera to Cloud: Netflix’s Scalable Media Processing Pipeline</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-18 14:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-Fixing-Display-Freeze" target="_blank">Claude AI Assists In Fixing Years Old AMD Radeon Linux Display Bug Affecting Numerous Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-18 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,33 +221,6 @@
                 <span class="time">2026-06-18 11:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX1250-SRAM-ECC-LLVM" target="_blank">Latest LLVM Patch Further Points To AMD GFX1250/GFX1251 Being Instinct Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-18 10:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="VS Code 1.123 Adds Two-Hour Extension Update Delay to Limit Supply Chain Attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/vscode-extension-update-delay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">VS Code 1.123 Adds Two-Hour Extension Update Delay to Limit Supply Chain Attacks</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-18 10:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51cgr3ntsxjp5n7jg3iw.png" alt="Harness Engineering 101: Prompt Engineering wasn&#x27;t enough. Neither was context. The harness was." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/malik_chohra/harness-engineering-101-prompt-engineering-wasnt-enough-neither-was-context-the-harness-was-f3a" target="_blank">Harness Engineering 101: Prompt Engineering wasn&#x27;t enough. Neither was context. The harness was.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-18 09:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/hexed-1280x719.jpeg" alt="The Latest Disney Trailer Has Fans Concerned About How TikTok Has Shaped The Company’s Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/disney-hexed-trailer-tiktok-instagram-reels-center-ai-2000708123" target="_blank">The Latest Disney Trailer Has Fans Concerned About How TikTok Has Shaped The Company’s Movies</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-18 16:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/0_Meme-depicting-JD-Vance-as-bald.jpg?fit=810%2C539&amp;quality=60&amp;ssl=1" alt="JD Vance turns dog whistles into a brass section" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/18/jd-vance-stuffs-three-bigot-whistles-into-one-sentence.html" target="_blank">JD Vance turns dog whistles into a brass section</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-18 15:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVDDAN0KBKE74R09N0V5M91M/hero-image.jpg" alt="I Tried Android 17’s ‘Bubbles’ and It Makes Multitasking Way Easier?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +294,6 @@
                 <span class="time">2026-06-17 20:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/homerchokebart-1280x720.jpg" alt="A 20-Year-Old Pokémon Just Became One Of The Game’s Deadliest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-champions-mega-staraptor-contrary-close-combat-2000707669" target="_blank">A 20-Year-Old Pokémon Just Became One Of The Game’s Deadliest</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-17 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVBA2EBDHR30ZS1KGC0WZNNQ/hero-image.webp" alt="You Can Now Use Your HSA/FSA Funds to Buy a Fitbit Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/use-hsa-fsa-funds-to-buy-a-google-fitbit-air?utm_medium=RSS" target="_blank">You Can Now Use Your HSA/FSA Funds to Buy a Fitbit Air</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-17 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,22 +308,13 @@
                 <span class="time">2026-06-17 20:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1781661979-20260617.png" alt="Saturday Morning Breakfast Cereal - Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/deal" target="_blank">Saturday Morning Breakfast Cereal - Deal</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-17 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 239 |
-        🔄 Last Updated: 15:00 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 16:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
