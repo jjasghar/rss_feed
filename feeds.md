@@ -1,26 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-18 03:01:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-18 05:31:22 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 18 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, June 18, 2026 - 03:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, June 18, 2026 - 05:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/18/colombia-uzbekistan-fifa-world-cup-2026-luis-diaz-munoz-campaz-fayzullaev?traffic_source=rss" target="_blank">Lius Diaz dazzles as Colombia beat World Cup 2026 debutants Uzbekistan 3-1</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-18 05:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac9a/live/635a8da0-6ac0-11f1-8546-8f19e4fe30f4.jpg" alt="What&#x27;s in the US-Iran agreement?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss" target="_blank">What&#x27;s in the US-Iran agreement?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-18 01:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/g7-14-rt-gmh-260617_1781713107086_hpMain_4x3t_384.jpg" alt="Trump didn&#x27;t want &#x27;Herbert Hoover&#x27; presidency; said Iran has to have &#x27;some&#x27; missiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,29 +101,29 @@
                 <span class="time">2026-06-17 23:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a31/live/89a05f40-6a51-11f1-9ea9-fdea8f57a693.jpg" alt="Interest rates expected to be held by Bank of England" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss" target="_blank">Interest rates expected to be held by Bank of England</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-17 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/17/nx-s1-5855760/as-western-fires-erupt-trumps-forest-service-says-its-now-fully-staffed" target="_blank">As western fires erupt, Trump&#x27;s Forest Service says it&#x27;s now fully staffed</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-17 21:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="Home Depot Promo Codes: 50% Off in June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/home-depot-promo-code/" target="_blank">Home Depot Promo Codes: 50% Off in June 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-18 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan" target="_blank">Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-18 03:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,29 +160,20 @@
                 <span class="time">2026-06-17 22:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/" target="_blank">Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-17 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/" target="_blank">Chi-Hua Chien saw Facebook coming; now he says the real AI winners won’t be selling AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-17 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuk8ti8eaj6k71u2xb72n.png" alt="24 Modern CSS Tricks Every Frontend Developer Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devshefali/24-modern-css-tricks-every-frontend-developer-should-know-10l8" target="_blank">24 Modern CSS Tricks Every Frontend Developer Should Know</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-18 05:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,30 +202,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/audacity-new-logo-1.webp?resize=406%2C232&amp;ssl=1" alt="Audacity 4.0 beta lets you test its new (nicer) Qt interface" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta" target="_blank">Audacity 4.0 beta lets you test its new (nicer) Qt interface</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-17 22:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/09/audacity-logo-on-orange-background-thumbnail.jpg?resize=406%2C232&amp;ssl=1" alt="Audacity 4.0 beta lets you test its new (and much nicer) Qt interface" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta" target="_blank">Audacity 4.0 beta lets you test its new (and much nicer) Qt interface</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-06-17 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/randomsquirrel802/the-browser-test-failed-can-you-actually-prove-why-16fd" target="_blank">The Browser Test Failed. Can You Actually Prove Why?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-17 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Tools-1.38.6" target="_blank">Bcachefs Tools 1.38.6 Brings Many Performance Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-17 20:06</span>
             </div>
         </div>
 </div>
@@ -313,22 +324,13 @@
                 <span class="time">2026-06-17 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/messi.png" alt="Messi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3260/" target="_blank">Messi</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-06-17 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 232 |
-        🔄 Last Updated: 03:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 39 | 📸 With Images: 236 |
+        🔄 Last Updated: 05:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
