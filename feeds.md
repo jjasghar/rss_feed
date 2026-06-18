@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-18 11:19:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-18 13:00:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, June 18, 2026 - 11:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, June 18, 2026 - 13:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,10 +50,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/18/iran-says-it-will-charge-a-payment-for-services-in-the-strait-of-hormuz?traffic_source=rss" target="_blank">Iran says it will charge a ‘payment for services’ in the Strait of Hormuz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-18 12:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/06/18/g-s1-128755/up-first-newsletter-iran-agreement-jay-clayton-bill-pulte-trump-approval" target="_blank">Trump signs agreement with Iran. And, the president&#x27;s approval hits record lows</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-18 11:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcc6/live/1006d240-6b0f-11f1-8e1d-bbbb1017d210.jpg" alt="Moscow hit by largest Ukrainian attack since start of Russia&#x27;s full-scale war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss" target="_blank">Moscow hit by largest Ukrainian attack since start of Russia&#x27;s full-scale war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-18 09:47</span>
             </div>
         </div>
 <div class="story">
@@ -84,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/trump-signs-iran-mou-at-versailles-265296965841" target="_blank">&#x27;This was not easy&#x27;, Trump says while signing Iran MOU at Versailles</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-18 07:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/18/how-swedens-far-right-went-from-political-pariah-to-powerbroker?traffic_source=rss" target="_blank">How Sweden’s far right went from political pariah to powerbroker</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-18 07:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/18/g-s1-128737/the-knicks-new-york-parade" target="_blank">New Yorkers are set to fete the Knicks with a ticker-tape parade</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-18 06:31</span>
             </div>
         </div>
 </div>
@@ -171,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.rahuljuliato.com/posts/emacs-31-around-the-corner" target="_blank">Emacs 31 Is Around the Corner: The Changes I&#x27;m Daily Driving</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-18 12:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/amising6/what-i-learned-after-reviewing-many-ai-and-developer-projects-as-a-hackathon-judge-2g06" target="_blank">What I Learned After Reviewing Many AI and Developer Projects as a Hackathon Judge</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,15 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/athena-security-coalition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Athena Coalition Brings Coordinated Defence to Open Source Security</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-18 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sharique_siddiqui_8242dad/intermediate-dom-manipulation-traversing-and-event-delegation-8pg" target="_blank">Intermediate DOM Manipulation: Traversing and Event Delegation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-18 07:30</span>
             </div>
         </div>
 </div>
@@ -323,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 11:20 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 13:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
