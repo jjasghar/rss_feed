@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-18 13:00:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-18 14:59:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, June 18, 2026 - 13:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, June 18, 2026 - 15:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a17e/live/d3c88960-6b1b-11f1-be36-65d2d6d55e70.png" alt="Teacher who murdered adopted baby son Preston Davey given whole life prison sentence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czrx8gj112mo?at_medium=RSS&at_campaign=rss" target="_blank">Teacher who murdered adopted baby son Preston Davey given whole life prison sentence</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-18 14:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/18/iran-says-it-will-charge-a-payment-for-services-in-the-strait-of-hormuz?traffic_source=rss" target="_blank">Iran says it will charge a ‘payment for services’ in the Strait of Hormuz</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-18 12:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-embed_1781777626088_hpMain_2_4x3t_384.jpg" alt="Iran live updates: Trump lashes out at &#x27;stupid&#x27; critics of Iran deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Trump lashes out at &#x27;stupid&#x27; critics of Iran deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-18 12:16</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +99,29 @@
                 <span class="time">2026-06-18 09:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baa4/live/3b93ba90-6add-11f1-8e1d-bbbb1017d210.jpg" alt="Young women now have &#x27;close to zero&#x27; risk of cervical cancer death after HPV jab" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&at_campaign=rss" target="_blank">Young women now have &#x27;close to zero&#x27; risk of cervical cancer death after HPV jab</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-18 08:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/trump_MOU_wide-fxct04.jpg" alt="&#x27;This was not easy&#x27;, Trump says while signing Iran MOU at Versailles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-signs-iran-mou-at-versailles-265296965841" target="_blank">&#x27;This was not easy&#x27;, Trump says while signing Iran MOU at Versailles</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-18 07:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/news-061726i-lg-500x500-1781792793.jpg" alt="The first long-duration resident of the ISS, a cosmonaut, has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/" target="_blank">The first long-duration resident of the ISS, a cosmonaut, has died</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-18 14:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a33cf1f70ccdd5e1faa294b/master/pass/GettyImages-2251802750.jpg" alt="Waymo Recalls Robotaxis Over Risk They&#x27;ll Drive at Speed Into Freeway Construction Zones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/waymo-recalls-robotaxis-over-risk-theyll-drive-at-speed-into-freeway-construction-zones/" target="_blank">Waymo Recalls Robotaxis Over Risk They&#x27;ll Drive at Speed Into Freeway Construction Zones</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-18 12:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6859b411600ffe1026c955b0/master/pass/Diffusers.png" alt="13 Best Essential Oil Diffusers 2026: Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +158,20 @@
                 <span class="time">2026-06-18 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan" target="_blank">Midjourney goes from generating cat images to full-body ultrasound scans</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-18 03:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan" target="_blank">Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-18 03:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17363250/yay-v13-release" target="_blank">After the AUR Malware Flood, Yay v13 Lets You Script Your Own Safety Net</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-18 12:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +217,6 @@
                 <span class="time">2026-06-18 09:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/athena-security-coalition/en/headerimage/generatedHeaderImage-1781653362933.jpg" alt="Athena Coalition Brings Coordinated Defence to Open Source Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/athena-security-coalition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Athena Coalition Brings Coordinated Defence to Open Source Security</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-18 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVDDAN0KBKE74R09N0V5M91M/hero-image.jpg" alt="I Tried Android 17’s ‘Bubbles’ and It Makes Multitasking Way Easier?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/android-17-new-bubbles-feature?utm_medium=RSS" target="_blank">I Tried Android 17’s ‘Bubbles’ and It Makes Multitasking Way Easier?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-18 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Visual-Studio-Professional-2026-The-Premium-Learn-to-Code-Certification-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $45 Deal Days bundle gets you Visual Studio Pro 2026 plus free coding courses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +290,6 @@
                 <span class="time">2026-06-17 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/PixelController.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Android 17 brings a customizable virtual gamepad to foldables" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/17/android-17-brings-a-customizable-virtual-gamepad-to-foldables.html" target="_blank">Android 17 brings a customizable virtual gamepad to foldables</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-17 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 13:00 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 15:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
