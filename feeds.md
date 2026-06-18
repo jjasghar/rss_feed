@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-18 21:38:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-18 22:35:33 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, June 18, 2026 - 21:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, June 18, 2026 - 22:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/18/mamdani-gives-new-york-knicks-keys-to-city-after-nba-title?traffic_source=rss" target="_blank">Mamdani gives New York Knicks keys to city after NBA title</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-18 22:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +96,29 @@
                 <span class="time">2026-06-18 19:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding" target="_blank">CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-18 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a33038a1f4e7aecefeb3113/master/pass/061726-peter-thiel-secret-society-ranked.jpg" alt="How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/" target="_blank">How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-18 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683-500x500.jpg" alt="FDA advisors unanimously vote to approve Moderna&#x27;s mRNA after agency drama" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/" target="_blank">FDA advisors unanimously vote to approve Moderna&#x27;s mRNA after agency drama</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-18 22:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Taiwan-military-drones-500x500.jpg" alt="As China looms, Taiwan makes more drones for defense and the US military" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +155,20 @@
                 <span class="time">2026-06-18 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a338758dbdae60812ea313a/master/pass/This-Year%E2%80%99s-44-Very-Best-Father%E2%80%99s-Day-Gifts-for-Dads.jpg" alt="44 Best Father’s Day Gifts for Dads (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-best-gifts-for-dads-2026-1/" target="_blank">44 Best Father’s Day Gifts for Dads (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-18 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/11/Beats-Studio-Buds-500x500.jpg" alt="Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/" target="_blank">Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-18 19:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lanternproton/embodied-ai-has-a-30b-problem-nobody-knows-what-good-means-1ho1" target="_blank">Embodied AI Has a $30B Problem: Nobody Knows What &#x27;Good&#x27; Means</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-18 22:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +214,6 @@
                 <span class="time">2026-06-18 18:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/orchidfiles/i-discovered-a-large-scale-malware-distribution-campaign-on-github-4m6o" target="_blank">I discovered a large-scale malware distribution campaign on GitHub</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-18 17:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Intuit-QuickBooks-Desktop-Pro-Plus-2024-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Centralize essential accounting tasks with QuickBooks Desktop Pro Plus for $300 during Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/18/centralize-essential-accounting-tasks-with-quickbooks-desktop-pro-plus-for-300-during-deal-days.html" target="_blank">Centralize essential accounting tasks with QuickBooks Desktop Pro Plus for $300 during Deal Days</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-18 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114616.jpg?fit=1200%2C430&amp;quality=60&amp;ssl=1" alt="In 1986, a Cameroonian lake released a CO2 cloud that killed 1,746 people overnight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +296,6 @@
                 <span class="time">2026-06-18 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/bafkreidgzc5ahmujexnek4s65ijw4njw3s362lhby3uraegfg3npm56smu%40jpeg.jpeg?fit=607%2C341&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains announces another Treaty of Versailles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/18/grandpa-pudding-brains-announces-another-treaty-of-versailles.html" target="_blank">Grandpa Pudding Brains announces another Treaty of Versailles</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-18 17:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 21:38 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 39 | 📸 With Images: 247 |
+        🔄 Last Updated: 22:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
