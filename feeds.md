@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-18 00:31:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-18 01:47:20 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, June 18, 2026 - 00:31 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, June 18, 2026 - 01:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/g7-14-rt-gmh-260617_1781713107086_hpMain_4x3t_384.jpg" alt="Trump didn&#x27;t want &#x27;Herbert Hoover&#x27; presidency; said Iran has to have &#x27;some&#x27; missiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-herbert-hoover-presidency-iran-missiles/story?id=133979678" target="_blank">Trump didn&#x27;t want &#x27;Herbert Hoover&#x27; presidency; said Iran has to have &#x27;some&#x27; missiles</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-18 01:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +102,20 @@
                 <span class="time">2026-06-17 19:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-iran-tehran_7276290.jpg?20260618001220" alt="US and Iran sign deal aimed at ending war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/the-14-point-us-iran-deal-what-is-in-it-13555121" target="_blank">US and Iran sign deal aimed at ending war</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-17 19:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/" target="_blank">How to turn off AI in your Google Docs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-18 01:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +161,6 @@
                 <span class="time">2026-06-17 20:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/" target="_blank">Roelof Botha joins SpaceX’s board of directors</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-17 20:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,9 +170,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zaerohell/building-content-automation-2026-06-15-23c9" target="_blank">Building content-automation — 2026-06-15</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-18 01:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ARM64-Linux-7.2-Changes" target="_blank">AI/LLM Patch Craziness Having An Impact On ARM64 Linux Kernel Development</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-18 00:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/njc-ia/alem-da-ditacao-como-extrair-inteligencia-real-de-conversas-a-partir-de-audio-em-segundos-3kff" target="_blank">Além da Ditação: Como Extrair Inteligência Real de Conversas a partir de Áudio em Segundos</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-17 23:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/09/audacity-logo-on-orange-background-thumbnail.jpg?resize=406%2C232&amp;ssl=1" alt="Audacity 4.0 beta lets you test its new (and much nicer) Qt interface" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta" target="_blank">Audacity 4.0 beta lets you test its new (and much nicer) Qt interface</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-17 22:54</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Tools-1.38.6" target="_blank">Bcachefs Tools 1.38.6 Brings Many Performance Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-17 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/" target="_blank">Getting more from each token: How Copilot improves context handling and model routing</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-17 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/enkrateia/how-i-built-enkrateia-an-ai-platform-that-generates-complete-books-and-evolved-into-a-social-system-21e4" target="_blank">How I built Enkrateia: an AI platform that generates complete books and evolved into a social system</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-17 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/cicd-with-robert-erez" target="_blank">CI/CD with Robert Erez</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-06-17 16:41</span>
             </div>
         </div>
 </div>
@@ -337,7 +340,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 231 |
-        🔄 Last Updated: 00:31 UTC
+        🔄 Last Updated: 01:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
