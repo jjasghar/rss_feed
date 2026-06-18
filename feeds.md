@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-18 17:59:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-18 18:59:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 15 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, June 18, 2026 - 17:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, June 18, 2026 - 18:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/inflation-consumers-gtyt-bh-260617_1781726375994_hpMain_4x3t_384.jpg" alt="Inflation pain could linger even after the Iran war is ends: Economists" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/buckle-inflation-pain-linger-after-iran-war-ends/story?id=133930362" target="_blank">Inflation pain could linger even after the Iran war is ends: Economists</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-18 18:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations" target="_blank">Barbados prime minister announces manifesto for slavery reparations</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-18 17:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +104,29 @@
                 <span class="time">2026-06-18 16:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/18/nx-s1-5861903/essential-skin-care-products" target="_blank">You&#x27;re probably using too many skin care products. Here are the 3 essentials</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-18 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ae/live/f54e76a0-6b28-11f1-bd3c-dfd1c36b4ceb.jpg" alt="Bowen: US-Iran deal raises inescapable question of what the war was for" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss" target="_blank">Bowen: US-Iran deal raises inescapable question of what the war was for</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-18 15:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/" target="_blank">Almost half of U.S. singles feel negatively about AI in dating, Match says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-18 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-2-500x500.jpeg" alt="After Senate vote, Trump admin backs off plans to kill ocean monitoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/" target="_blank">After Senate vote, Trump admin backs off plans to kill ocean monitoring</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-18 18:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +163,29 @@
                 <span class="time">2026-06-18 14:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a33cf1f70ccdd5e1faa294b/master/pass/GettyImages-2251802750.jpg" alt="Waymo Recalls Robotaxis Over Risk They&#x27;ll Drive at Speed Into Freeway Construction Zones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/waymo-recalls-robotaxis-over-risk-theyll-drive-at-speed-into-freeway-construction-zones/" target="_blank">Waymo Recalls Robotaxis Over Risk They&#x27;ll Drive at Speed Into Freeway Construction Zones</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-18 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6859b411600ffe1026c955b0/master/pass/Diffusers.png" alt="13 Best Essential Oil Diffusers 2026: Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-essential-oil-diffusers/" target="_blank">13 Best Essential Oil Diffusers 2026: Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-18 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tonyspiro/cosmic-as-agent-memory-structured-versioned-and-queryable-2ng" target="_blank">Cosmic as Agent Memory: Structured, Versioned, and Queryable</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-18 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ampere-altra-nvidia-vera" target="_blank">How NVIDIA Vera CPU Performance Compares To The Ampere Altra Max</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-18 18:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,29 +222,20 @@
                 <span class="time">2026-06-18 17:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/edwindevops/junior-engineers-are-learning-ai-faster-than-they-are-learning-systems-jg7" target="_blank">Junior Engineers Are Learning AI Faster Than They Are Learning Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-18 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/" target="_blank">How pull request limits are cutting down the noise</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-18 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/" target="_blank">‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-06-18 17:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -240,6 +250,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/magatrumpgta6cover-1280x720.jpg" alt="White House Uses GTA 6 Meme To Distract From Reflecting Pool Turning The Color Of Mountain Dew" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/white-house-uses-gta-6-meme-to-distract-from-reflecting-pool-turning-the-color-of-mountain-dew-2000708154" target="_blank">White House Uses GTA 6 Meme To Distract From Reflecting Pool Turning The Color Of Mountain Dew</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-18 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVDSBCB92HP3JR9T460MZZ0F/hero-image.jpg" alt="The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching ‘You’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-books-movies-video-games-and-podcasts-after-watching-you?utm_medium=RSS" target="_blank">The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching ‘You’</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-18 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/bafkreidgzc5ahmujexnek4s65ijw4njw3s362lhby3uraegfg3npm56smu%40jpeg.jpeg?fit=607%2C341&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains announces another Treaty of Versailles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/18/grandpa-pudding-brains-announces-another-treaty-of-versailles.html" target="_blank">Grandpa Pudding Brains announces another Treaty of Versailles</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-18 17:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Vandal_Vignette_02_1920x1080-1280x720.jpg" alt="Marathon Players Earned 77 Days Worth Of Loot In Just One Week: ‘I Think This Season Is Cooked’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,33 +302,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/18/jd-vance-stuffs-three-bigot-whistles-into-one-sentence.html" target="_blank">JD Vance turns dog whistles into a brass section</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-18 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVDDAN0KBKE74R09N0V5M91M/hero-image.jpg" alt="I Tried Android 17’s ‘Bubbles’ and It Makes Multitasking Way Easier?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/android-17-new-bubbles-feature?utm_medium=RSS" target="_blank">I Tried Android 17’s ‘Bubbles’ and It Makes Multitasking Way Easier?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-18 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Visual-Studio-Professional-2026-The-Premium-Learn-to-Code-Certification-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $45 Deal Days bundle gets you Visual Studio Pro 2026 plus free coding courses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/17/this-45-deal-days-bundle-gets-you-visual-studio-pro-2026-plus-free-coding-courses.html" target="_blank">This $45 Deal Days bundle gets you Visual Studio Pro 2026 plus free coding courses</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-17 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMZZWRE7QFX79W29H2XQ80ZT/hero-image.png" alt="The Best Early Prime Day Deals on Tech for Under $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-under-50-dollars-early-prime-day-2026?utm_medium=RSS" target="_blank">The Best Early Prime Day Deals on Tech for Under $50</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-17 20:35</span>
             </div>
         </div>
 </div>
@@ -322,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 17:59 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 242 |
+        🔄 Last Updated: 18:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
