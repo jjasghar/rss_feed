@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-18 22:35:33 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-06-18 23:30:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, June 18, 2026 - 22:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, June 18, 2026 - 23:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/18/us-judge-orders-release-of-palestinian-rights-advocate-detained-by-ice?traffic_source=rss" target="_blank">US judge orders release of Palestinian rights advocate detained by ICE</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-18 23:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +97,20 @@
                 <span class="time">2026-06-18 19:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781809400071_nbc_spec_obama_cynicism_260618_S3_1920x1080-fts2ex.jpg" alt="Obama encourages people to not give in to despair in current political climate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/obama-encourages-people-to-not-give-in-to-despair-in-current-political-climate-265331781871" target="_blank">Obama encourages people to not give in to despair in current political climate</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-18 19:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-500x500.jpg" alt="Microsoft spots new self-propagating malware for stealing cryptocurrency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/" target="_blank">Microsoft spots new self-propagating malware for stealing cryptocurrency</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-18 23:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a33038a1f4e7aecefeb3113/master/pass/061726-peter-thiel-secret-society-ranked.jpg" alt="How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,27 +142,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/" target="_blank">AI inference startup Baseten reportedly raising $1.5B months after its last mega round</a></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/" target="_blank">AI inference startup Baseten reportedly raising $1.5B months after its last mega-round</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-18 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a342bff039398b1addb3ba2/master/pass/Model-Behavior-SB.jpg" alt="The White House Is Making Up Its Rules for AI in Real Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/" target="_blank">The White House Is Making Up Its Rules for AI in Real Time</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-18 21:03</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/" target="_blank">Snap spins off AI video team into new company, Dotmo, due to costs</a></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/" target="_blank">AI inference startup Baseten reportedly raising $1.5B months after its last mega round</a></span>
                 <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-18 20:30</span>
+                <span class="time">2026-06-18 21:20</span>
             </div>
         </div>
 </div>
@@ -163,10 +164,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-june-19-2026-red-hat" target="_blank">Friday Five — June 19, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-06-19 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/theonaiao/i-cancelled-my-240year-chatgpt-subscription-30-days-later-my-laptop-knows-me-better-than-gpt-4-3cal" target="_blank">I Cancelled My $240/Year ChatGPT Subscription. 30 Days Later, My Laptop Knows Me Better Than GPT-4 Ever Did.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-18 23:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lanternproton/embodied-ai-has-a-30b-problem-nobody-knows-what-good-means-1ho1" target="_blank">Embodied AI Has a $30B Problem: Nobody Knows What &#x27;Good&#x27; Means</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-18 22:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/" target="_blank">Zero-Touch OAuth for MCP</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-18 21:54</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Godot-4.7-Released" target="_blank">Godot 4.7 Released With HDR Output Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-18 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tonyspiro/cosmic-as-agent-memory-structured-versioned-and-queryable-2ng" target="_blank">Cosmic as Agent Memory: Structured, Versioned, and Queryable</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-18 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ampere-altra-nvidia-vera" target="_blank">How NVIDIA Vera CPU Performance Compares To The Ampere Altra Max</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-18 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17363408/lore-launched" target="_blank">Epic Games Built Its Own Git Alternative For Handling Large Files</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-18 18:05</span>
             </div>
         </div>
 </div>
@@ -242,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/olviiar-1280x720.jpg" alt="Fans Are Wearing Diapers And Shitting Themselves To Get Close To Olivia Rodrigo, And She Can Smell It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fans-are-wearing-diapers-and-shitting-themselves-to-get-close-to-olivia-rodrigo-and-she-can-smell-it-2000708211" target="_blank">Fans Are Wearing Diapers And Shitting Themselves To Get Close To Olivia Rodrigo, And She Can Smell It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-18 21:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Intuit-QuickBooks-Desktop-Pro-Plus-2024-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Centralize essential accounting tasks with QuickBooks Desktop Pro Plus for $300 during Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +297,6 @@
                 <span class="time">2026-06-18 18:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVDSBCB92HP3JR9T460MZZ0F/hero-image.jpg" alt="The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching ‘You’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-books-movies-video-games-and-podcasts-after-watching-you?utm_medium=RSS" target="_blank">The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching ‘You’</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-18 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 39 | 📸 With Images: 247 |
-        🔄 Last Updated: 22:35 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 23:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
