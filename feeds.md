@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-18 19:48:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-18 20:45:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, June 18, 2026 - 19:48 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, June 18, 2026 - 20:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/vance-2-gty-jef-260618_1781806267997_hpMain_4x3t_384.jpg" alt="Vance says Iran financially benefits if they change behavior; MOU indicates otherwise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/vp-vance-iran-financially-benefit-change-behavior-mou/story?id=134004059" target="_blank">Vance says Iran financially benefits if they change behavior; MOU indicates otherwise</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-18 20:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/18/irans-supreme-leader-says-approved-us-deal-despite-having-different-view?traffic_source=rss" target="_blank">Iran’s supreme leader says approved US deal despite having ‘different’ view</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-18 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b003/live/59a4cac0-6b4a-11f1-bc34-19faf070d2ff.jpg" alt="US lifts naval blockade as Iran&#x27;s supreme leader says Trump made deal &#x27;out of desperation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss" target="_blank">US lifts naval blockade as Iran&#x27;s supreme leader says Trump made deal &#x27;out of desperation&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-18 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781809400071_nbc_spec_obama_cynicism_260618_S3_1920x1080-fts2ex.jpg" alt="Obama encourages people to not give in to despair in current political climate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/obama-encourages-people-to-not-give-in-to-despair-in-current-political-climate-265331781871" target="_blank">Obama encourages people to not give in to despair in current political climate</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-18 19:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,47 +103,20 @@
                 <span class="time">2026-06-18 18:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations" target="_blank">Barbados prime minister announces manifesto for slavery reparations</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-18 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/18/somalia-warns-israel-against-meddling-in-somaliland?traffic_source=rss" target="_blank">Somalia warns Israel against meddling in Somaliland</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-18 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2514/live/13659b90-6b39-11f1-b1db-af71d47507d6.png" alt="Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czx50n2vj74o?at_medium=RSS&at_campaign=rss" target="_blank">Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-18 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/18/nx-s1-5863085/student-loan-auto-pay-discount" target="_blank">Student loan borrowers will get an interest rate cut if they sign up for auto pay</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-18 17:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/" target="_blank">Snap spins off AI video team into new company, Dotmo, due to costs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-18 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a338758dbdae60812ea313a/master/pass/This-Year%E2%80%99s-44-Very-Best-Father%E2%80%99s-Day-Gifts-for-Dads.jpg" alt="44 Best Father’s Day Gifts for Dads (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +162,29 @@
                 <span class="time">2026-06-18 18:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/" target="_blank">AI data centers just got a government-mandated fast lane to the grid</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-18 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vivek_shetye/hermes-agent-just-released-a-desktop-app-and-it-changes-everything-about-using-ai-agents-2aei" target="_blank">🚀 Hermes Agent Just Released a Desktop App And It Changes Everything About Using AI Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-18 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Godot-4.7-Released" target="_blank">Godot 4.7 Released With HDR Output Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-18 19:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,37 +206,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17363408/lore-launched" target="_blank">Epic Games Built Its Own Git Alternative For Handling Large Files</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-18 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/orchidfiles/i-discovered-a-large-scale-malware-distribution-campaign-on-github-4m6o" target="_blank">I discovered a large-scale malware distribution campaign on GitHub</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-18 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/microcontrollers-ubuntu-core-golioth" target="_blank">So you need to add microcontrollers to your fleet: now what?</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-18 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!SNKX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F744904b3-18f6-46e7-a260-659673fed299_1186x1528.png" alt="The Pulse: Big implications of US banning Anthropic’s new model, Fable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-big-implications-of-us" target="_blank">The Pulse: Big implications of US banning Anthropic’s new model, Fable</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-06-18 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-PNG-Image-Faster" target="_blank">Rust PNG Image Decoder Now Even Faster: Benefiting Chrome, GNOME, Etc</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-18 17:04</span>
             </div>
         </div>
 </div>
@@ -243,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114616.jpg?fit=1200%2C430&amp;quality=60&amp;ssl=1" alt="In 1986, a Cameroonian lake released a CO2 cloud that killed 1,746 people overnight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/18/in-1986-a-cameroonian-lake-released-a-co2-cloud-that-killed-1746-people-overnight.html" target="_blank">In 1986, a Cameroonian lake released a CO2 cloud that killed 1,746 people overnight</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-18 20:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114612.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="The &#x27;Phantom of Heilbronn&#x27; serial killer turned out to be a cotton swab factory worker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +303,6 @@
                 <span class="time">2026-06-18 17:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/hexed-1280x719.jpeg" alt="The Latest Disney Trailer Has Fans Concerned About How TikTok Has Shaped The Company’s Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/disney-hexed-trailer-tiktok-instagram-reels-center-ai-2000708123" target="_blank">The Latest Disney Trailer Has Fans Concerned About How TikTok Has Shaped The Company’s Movies</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-18 16:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,22 +317,13 @@
                 <span class="time">2026-06-18 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/17/dark-arisen" target="_blank">Dark Arisen</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-17 20:28</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 19:48 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 20:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
