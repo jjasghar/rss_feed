@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-18 18:59:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-18 19:48:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, June 18, 2026 - 18:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, June 18, 2026 - 19:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding" target="_blank">CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-18 18:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/inflation-consumers-gtyt-bh-260617_1781726375994_hpMain_4x3t_384.jpg" alt="Inflation pain could linger even after the Iran war is ends: Economists" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +97,38 @@
                 <span class="time">2026-06-18 17:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case" target="_blank">South African men sentenced in ‘world’s largest’ rhino horn trafficking case</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-18 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a338758dbdae60812ea313a/master/pass/This-Year%E2%80%99s-44-Very-Best-Father%E2%80%99s-Day-Gifts-for-Dads.jpg" alt="44 Best Father’s Day Gifts for Dads (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-best-gifts-for-dads-2026-1/" target="_blank">44 Best Father’s Day Gifts for Dads (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-18 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/11/Beats-Studio-Buds-500x500.jpg" alt="Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/" target="_blank">Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-18 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/" target="_blank">Rivian owners file lawsuit alleging false promises on self-driving features</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-18 19:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,33 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/" target="_blank">AI data centers just got a government-mandated fast lane to the grid</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-18 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250-500x500.jpg" alt="Before SpaceX IPO, investors in China secretly acquired stakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/" target="_blank">Before SpaceX IPO, investors in China secretly acquired stakes</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-18 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a33fb3a3fe23d3ce2a1cf59/master/pass/Business_AmazonWorkersUnder_v2.jpg" alt="3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/" target="_blank">3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-18 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/news-061726i-lg-500x500-1781792793.jpg" alt="The first long-duration resident of the ISS, a cosmonaut, has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/" target="_blank">The first long-duration resident of the ISS, a cosmonaut, has died</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-18 14:34</span>
             </div>
         </div>
 </div>
@@ -251,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114612.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="The &#x27;Phantom of Heilbronn&#x27; serial killer turned out to be a cotton swab factory worker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/18/the-phantom-of-heilbronn-serial-killer-turned-out-to-be-a-cotton-swab-factory-worker.html" target="_blank">The &#x27;Phantom of Heilbronn&#x27; serial killer turned out to be a cotton swab factory worker</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-18 19:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/magatrumpgta6cover-1280x720.jpg" alt="White House Uses GTA 6 Meme To Distract From Reflecting Pool Turning The Color Of Mountain Dew" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -295,15 +297,6 @@
                 <span class="time">2026-06-18 16:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/0_Meme-depicting-JD-Vance-as-bald.jpg?fit=810%2C539&amp;quality=60&amp;ssl=1" alt="JD Vance turns dog whistles into a brass section" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/18/jd-vance-stuffs-three-bigot-whistles-into-one-sentence.html" target="_blank">JD Vance turns dog whistles into a brass section</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-18 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 18:59 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 242 |
+        🔄 Last Updated: 19:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
