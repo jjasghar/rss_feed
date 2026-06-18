@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-18 07:32:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-18 09:25:18 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, June 18, 2026 - 07:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, June 18, 2026 - 09:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/18/world-cup-2026-top-five-must-watch-matches-second-group-phase-full-match-schedule?traffic_source=rss" target="_blank">World Cup 2026: Full group schedule and top second-round matches to watch</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-18 09:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baa4/live/3b93ba90-6add-11f1-8e1d-bbbb1017d210.jpg" alt="Young women now have &#x27;close to zero&#x27; risk of cervical cancer death after HPV jab" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&at_campaign=rss" target="_blank">Young women now have &#x27;close to zero&#x27; risk of cervical cancer death after HPV jab</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-18 08:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss" target="_blank">What&#x27;s in the US-Iran agreement?</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-18 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/g7-14-rt-gmh-260617_1781713107086_hpMain_4x3t_384.jpg" alt="Trump didn&#x27;t want &#x27;Herbert Hoover&#x27; presidency; said Iran has to have &#x27;some&#x27; missiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-herbert-hoover-presidency-iran-missiles/story?id=133979678" target="_blank">Trump didn&#x27;t want &#x27;Herbert Hoover&#x27; presidency; said Iran has to have &#x27;some&#x27; missiles</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-18 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss" target="_blank">Iran war live: Trump, Pezeshkian sign MoU to end fighting, reopen Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-18 00:00</span>
             </div>
         </div>
 </div>
@@ -167,12 +164,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F51cgr3ntsxjp5n7jg3iw.png" alt="Harness Engineering 101: Prompt Engineering wasn&#x27;t enough. Neither was context. The harness was." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/malik_chohra/harness-engineering-101-prompt-engineering-wasnt-enough-neither-was-context-the-harness-was-f3a" target="_blank">Harness Engineering 101: Prompt Engineering wasn&#x27;t enough. Neither was context. The harness was.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-18 09:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/athena-security-coalition/en/headerimage/generatedHeaderImage-1781653362933.jpg" alt="Athena Coalition Brings Coordinated Defence to Open Source Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/athena-security-coalition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Athena Coalition Brings Coordinated Defence to Open Source Security</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-18 08:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sharique_siddiqui_8242dad/intermediate-dom-manipulation-traversing-and-event-delegation-8pg" target="_blank">Intermediate DOM Manipulation: Traversing and Event Delegation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-18 07:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17363121/commodore-callback-8020-launch" target="_blank">Commodore&amp;#x27;s New Flip Phone Skips Android for Linux-Based Sailfish OS</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-18 07:10</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +215,6 @@
                 <span class="title"><a href="https://dev.to/devshefali/24-modern-css-tricks-every-frontend-developer-should-know-10l8" target="_blank">24 Modern CSS Tricks Every Frontend Developer Should Know</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-18 05:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.midjourney.com/medical/blogpost" target="_blank">Midjourney Medical</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-18 01:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zaerohell/building-content-automation-2026-06-15-23c9" target="_blank">Building content-automation — 2026-06-15</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-18 01:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ARM64-Linux-7.2-Changes" target="_blank">AI/LLM Patch Craziness Having An Impact On ARM64 Linux Kernel Development</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-18 00:26</span>
             </div>
         </div>
 </div>
@@ -321,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 07:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 09:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
