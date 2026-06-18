@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-18 20:45:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2026-06-18 21:38:18 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, June 18, 2026 - 20:45 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, June 18, 2026 - 21:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/18/brazil-executes-warrant-against-lula-ally-in-widening-financial-scandal?traffic_source=rss" target="_blank">Brazil executes warrant against Lula ally in widening financial scandal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-18 21:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/vance-2-gty-jef-260618_1781806267997_hpMain_4x3t_384.jpg" alt="Vance says Iran financially benefits if they change behavior; MOU indicates otherwise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +102,38 @@
                 <span class="time">2026-06-18 18:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/inflation-consumers-gtyt-bh-260617_1781726375994_hpMain_4x3t_384.jpg" alt="Inflation pain could linger even after the Iran war is ends: Economists" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/buckle-inflation-pain-linger-after-iran-war-ends/story?id=133930362" target="_blank">Inflation pain could linger even after the Iran war is ends: Economists</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-18 18:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Taiwan-military-drones-500x500.jpg" alt="As China looms, Taiwan makes more drones for defense and the US military" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/" target="_blank">As China looms, Taiwan makes more drones for defense and the US military</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-18 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/" target="_blank">AI inference startup Baseten reportedly raising $1.5B months after its last mega round</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-18 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a342bff039398b1addb3ba2/master/pass/Model-Behavior-SB.jpg" alt="The White House Is Making Up Its Rules for AI in Real Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/" target="_blank">The White House Is Making Up Its Rules for AI in Real Time</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-18 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,33 +159,6 @@
                 <span class="title"><a href="https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/" target="_blank">Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-18 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/" target="_blank">Rivian owners file lawsuit alleging false promises on self-driving features</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-18 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/" target="_blank">Almost half of U.S. singles feel negatively about AI in dating, Match says</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-18 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-2-500x500.jpeg" alt="After Senate vote, Trump admin backs off plans to kill ocean monitoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/" target="_blank">After Senate vote, Trump admin backs off plans to kill ocean monitoring</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-18 18:19</span>
             </div>
         </div>
 </div>
@@ -259,6 +258,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVDT1E7D36SPZC8BG7V3DJGP/hero-image.png" alt="The Best Early Prime Deals on Fitness Equipment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-early-prime-2026-deals-on-fitness-equipment?utm_medium=RSS" target="_blank">The Best Early Prime Deals on Fitness Equipment</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-18 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114612.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="The &#x27;Phantom of Heilbronn&#x27; serial killer turned out to be a cotton swab factory worker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -294,15 +302,6 @@
                 <span class="time">2026-06-18 17:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Vandal_Vignette_02_1920x1080-1280x720.jpg" alt="Marathon Players Earned 77 Days Worth Of Loot In Just One Week: ‘I Think This Season Is Cooked’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-players-earned-77-days-worth-of-loot-in-just-one-week-i-think-this-season-is-cooked-2000708129" target="_blank">Marathon Players Earned 77 Days Worth Of Loot In Just One Week: ‘I Think This Season Is Cooked’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-18 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 245 |
-        🔄 Last Updated: 20:45 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 21:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
