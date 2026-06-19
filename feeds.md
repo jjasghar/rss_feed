@@ -1,36 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 07:43:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-19 09:30:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 07:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, June 19, 2026 - 09:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +53,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f22/live/b6958d30-6bab-11f1-b1db-af71d47507d6.jpg" alt="Burnham says Labour has final chance to change after Makerfield by-election win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gy72kmg1mo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says Labour has final chance to change after Makerfield by-election win</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-19 09:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai" target="_blank">Get with the times — here&#x27;s what a &#x27;Luddite&#x27; means today</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-19 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/19/for-one-yemeni-world-cup-serves-as-a-marker-of-war-and-peace?traffic_source=rss" target="_blank">For one Yemeni, World Cup serves as a marker of war and peace</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-19 08:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f807/live/15c36cd0-6ba9-11f1-ad4f-418bfa76e5cc.jpg" alt="US-Iran talks postponed as Vance pulls out of Switzerland trip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss" target="_blank">US-Iran talks postponed as Vance pulls out of Switzerland trip</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-19 07:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,47 +107,29 @@
                 <span class="time">2026-06-19 07:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/19/cape-verde-goalkeeper-vozinha-happy-his-mother-will-attend-world-cup?traffic_source=rss" target="_blank">Cape Verde goalkeeper Vozinha happy his mother will attend World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-19 05:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85e9/live/775f6a70-6b9f-11f1-b1db-af71d47507d6.jpg" alt="Burnham says his win in Makerfield by-election could be turning point" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gy72kmg1mo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says his win in Makerfield by-election could be turning point</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-19 05:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/18/nx-s1-5863583/mangione-psychiatric-defense-update" target="_blank">Luigi Mangione&#x27;s lawyers withdraw plans for psychiatric defense</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-19 01:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d58f/live/bce6ffb0-6b7f-11f1-8546-8f19e4fe30f4.jpg" alt="Scottish Conservatives win first Westminster by-election in more than 50 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&at_campaign=rss" target="_blank">Scottish Conservatives win first Westminster by-election in more than 50 years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-19 01:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a32ea41c9d6ea1d2578c14e/master/pass/science_oceangate_GettyImages-1259004909.jpg" alt="Canada Missed Chances to Inspect Titan Before Fatal Implosion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/canada-missed-chances-titan-fatal-implosion/" target="_blank">Canada Missed Chances to Inspect Titan Before Fatal Implosion</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-19 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/" target="_blank">The US says ASML’s top chip tool may be in China. ASML says it isn’t</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-19 07:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Rover Promo Codes and Referral Deals for June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +166,29 @@
                 <span class="time">2026-06-19 00:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-500x500.jpg" alt="Microsoft spots new self-propagating malware for stealing cryptocurrency" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/" target="_blank">Microsoft spots new self-propagating malware for stealing cryptocurrency</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-18 23:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a34781c9bab9b898fe10473/master/pass/Amazon%E2%80%99s-2-Best-Selling-Espresso-Machines-Are-Up-to-$200-Off.jpg" alt="Prime Day Early Deals 2026: Breville and Ninja Espresso Maker Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/early-espresso-machine-deals-prime-day-2026/" target="_blank">Prime Day Early Deals 2026: Breville and Ninja Espresso Maker Deals</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-18 23:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/muskan_8abedcc7e12/spot-aws-cost-anomalies-before-they-wreck-your-budget-3oj4" target="_blank">Spot AWS cost anomalies before they wreck your budget</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-19 09:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/continuous-authorization-cloud/en/headerimage/continuous-authorization-cloud-header-1781599988842.jpg" alt="Article: Designing Continuous Authorization for Sensitive Cloud Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/continuous-authorization-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Designing Continuous Authorization for Sensitive Cloud Systems</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-19 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +223,6 @@
                 <span class="title"><a href="https://letsencrypt.status.io/#2026" target="_blank">Let&#x27;s Encrypt has been down most of today</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-19 04:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Media" target="_blank">AMD ISP4 Driver Merged To Linux 7.2 Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-19 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-june-19-2026-red-hat" target="_blank">Friday Five — June 19, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-06-19 00:00</span>
             </div>
         </div>
 </div>
@@ -319,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 243 |
-        🔄 Last Updated: 07:44 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 09:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
