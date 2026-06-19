@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 01:53:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-19 03:02:17 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 01:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, June 19, 2026 - 03:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,9 +52,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/18/nx-s1-5863583/mangione-psychiatric-defense-update" target="_blank">Luigi Mangione&#x27;s lawyers withdraw plans for psychiatric defense</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-19 01:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d58f/live/bce6ffb0-6b7f-11f1-8546-8f19e4fe30f4.jpg" alt="Scottish Conservatives win first Westminster by-election in more than 50 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&at_campaign=rss" target="_blank">Scottish Conservatives win first Westminster by-election in more than 50 years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-19 01:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/06/18/nx-s1-5863570/flu-vaccine-mrna-moderna-fda" target="_blank">Key FDA committee unanimously recommends its first vaccine since 2023</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-19 00:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/g7-14-rt-gmh-260617_1781713107086_hpMain_4x3t_384.jpg" alt="Comparing’s Trump and Obama’s Iran deals, what we know: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/comparings-trump-obamas-irandeals-knowanalysis/story?id=134014979" target="_blank">Comparing’s Trump and Obama’s Iran deals, what we know: ANALYSIS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-18 23:27</span>
             </div>
         </div>
 <div class="story">
@@ -67,38 +102,20 @@
                 <span class="time">2026-06-18 22:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/18/brazil-executes-warrant-against-lula-ally-in-widening-financial-scandal?traffic_source=rss" target="_blank">Brazil executes warrant against Lula ally in widening financial scandal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-18 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/vance-2-gty-jef-260618_1781806267997_hpMain_4x3t_384.jpg" alt="Vance says Iran financially benefits if they change behavior; MOU indicates otherwise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/vp-vance-iran-financially-benefit-change-behavior-mou/story?id=134004059" target="_blank">Vance says Iran financially benefits if they change behavior; MOU indicates otherwise</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-18 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/18/irans-supreme-leader-says-approved-us-deal-despite-having-different-view?traffic_source=rss" target="_blank">Iran’s supreme leader says approved US deal despite having ‘different’ view</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-18 20:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/" target="_blank">Telegram ban in India sparks a rush to VPNs, rival apps</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-19 01:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Testing-Link-Vibration-tests-2_4000x2600-500x500.jpg" alt="A bold satellite rescue mission came together in record time, but will it work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,15 +159,6 @@
                 <span class="title"><a href="https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/" target="_blank">FDA advisors unanimously vote to approve Moderna&#x27;s mRNA after agency drama</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-18 22:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Taiwan-military-drones-500x500.jpg" alt="As China looms, Taiwan makes more drones for defense and the US military" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/" target="_blank">As China looms, Taiwan makes more drones for defense and the US military</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-18 21:21</span>
             </div>
         </div>
 </div>
@@ -313,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 01:53 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 03:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
