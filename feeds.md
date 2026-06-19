@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 17:32:58 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-19 18:31:19 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 17:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, June 19, 2026 - 18:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_dramatic-rescue-fire-rips-through-school-in-japan-190626?traffic_source=rss" target="_blank">Dramatic rescue as fire rips through school in Japan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-19 17:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-1-ap-gmh-260618_1781819440633_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran is &#x27;FINISHED&#x27; as talks postponed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -60,6 +74,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260619-johnathan-david-mb-1433-b70d97.jpg" alt="From The Sports Desk: World Cup co-hosts Canada, Mexico both have reason to celebrate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/soccer/sports-newsletter-world-cup-co-hosts-canada-mexico-reason-celebrate-rcna350858" target="_blank">From The Sports Desk: World Cup co-hosts Canada, Mexico both have reason to celebrate</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -75,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss" target="_blank">Italy&#x27;s Meloni says Trump &#x27;made up&#x27; story that she &#x27;begged&#x27; him for photo at G7</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-19 13:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781870500196_tdy_news_7a_melvin_obama_260619_S3_1920x1080-oop212.jpg" alt="Obama Shares Vision for His New Chicago Presidential Center" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/obama-talks-presidential-center-iran-political-divisions-more-265371717938" target="_blank">Obama Shares Vision for His New Chicago Presidential Center</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-19 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/19/g-s1-129076/up-first-newsletter-vice-president-vance-iran-agreement-obama-presidential-center-judicial-system-dhs-facial-recognition" target="_blank">US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-19 11:27</span>
             </div>
         </div>
 </div>
@@ -198,19 +203,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pat9000/missing-ai-agent-cost-data-is-not-zero-3np3" target="_blank">Missing AI agent cost data is not zero</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-19 14:45</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://overreacted.io/there-are-no-instances-in-atproto/" target="_blank">There Are No Instances in ATProto</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-19 15:10</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Networking" target="_blank">Linux 7.2 Brings More Work Around WiFi Aware, WiFi 8 / UHR &amp; More Networking Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-19 14:08</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pat9000/missing-ai-agent-cost-data-is-not-zero-3np3" target="_blank">Missing AI agent cost data is not zero</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-19 14:45</span>
             </div>
         </div>
 </div>
@@ -221,10 +226,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/" target="_blank">‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-06-18 17:37</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html" target="_blank">Anthropic’s Fable and the State of AI</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-19 11:03</span>
             </div>
         </div>
 </div>
@@ -323,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 39 | 📸 With Images: 245 |
-        🔄 Last Updated: 17:33 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 18:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
