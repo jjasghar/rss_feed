@@ -1,43 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 09:30:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-19 11:28:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 34 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 09:30 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, June 19, 2026 - 11:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/19/nx-s1-5863544/trump-us-iran-agreement" target="_blank">What you need to know about the preliminary U.S.-Iran agreement signed by Trump</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-19 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f22/live/b6958d30-6bab-11f1-b1db-af71d47507d6.jpg" alt="Burnham says Labour has final chance to change after Makerfield by-election win" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,30 +84,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260619-lebanon-mb-0911-c14f26.jpg" alt="U.S.-Iran talks postponed as Vance cancels trip and Israel intensifies strikes in southern Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/iran/us-iran-talks-postponed-vance-cancels-trip-israel-strikes-lebanon-rcna350830" target="_blank">U.S.-Iran talks postponed as Vance cancels trip and Israel intensifies strikes in southern Lebanon</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-19 08:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f807/live/15c36cd0-6ba9-11f1-ad4f-418bfa76e5cc.jpg" alt="US-Iran talks postponed as Vance pulls out of Switzerland trip" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss" target="_blank">US-Iran talks postponed as Vance pulls out of Switzerland trip</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-19 07:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/19/nx-s1-5864084/us-strike-alleged-drug-boat-kills-3-eastern-pacific-ocean" target="_blank">US strike on an alleged drug boat kills 3 in the eastern Pacific Ocean</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-19 07:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/19/us-iran-talks-postponed-as-israel-attacks-lebanon?traffic_source=rss" target="_blank">US-Iran talks postponed as Israel attacks Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-19 07:06</span>
             </div>
         </div>
 </div>
@@ -175,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gamedevtoollab/fast-file-loading-techniques-in-unity-2131" target="_blank">Fast File Loading Techniques in Unity</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-19 11:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/muskan_8abedcc7e12/spot-aws-cost-anomalies-before-they-wreck-your-budget-3oj4" target="_blank">Spot AWS cost anomalies before they wreck your budget</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-19 09:22</span>
@@ -216,15 +219,6 @@
                 <span class="time">2026-06-19 05:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://letsencrypt.status.io/#2026" target="_blank">Let&#x27;s Encrypt has been down most of today</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-19 04:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,15 +231,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/" target="_blank">‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2026-06-18 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html" target="_blank">Embedding Forbidden Text in Spyware to Discourage AI Analysis</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-18 11:04</span>
             </div>
         </div>
 </div>
@@ -326,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 09:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 11:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
