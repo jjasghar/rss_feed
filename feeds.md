@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 18:31:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-19 19:30:27 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 18:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, June 19, 2026 - 19:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/tom-cotton-ss-jt-260619_1781894163887_hpMain_4x3t_384.jpg" alt="Several notable Republican senators break with Trump over Iran agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/notable-republican-senators-break-trump-iran-agreement/story?id=134034518" target="_blank">Several notable Republican senators break with Trump over Iran agreement</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-19 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/6/19/how-is-the-iran-us-agreement-being-viewed-in-israel?traffic_source=rss" target="_blank">How is the Iran-US agreement being viewed in Israel?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-19 18:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_dramatic-rescue-fire-rips-through-school-in-japan-190626?traffic_source=rss" target="_blank">Dramatic rescue as fire rips through school in Japan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-19 17:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana" target="_blank">Global framework for reparatory justice adopted at landmark conference in Ghana</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-19 17:26</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +102,20 @@
                 <span class="time">2026-06-19 15:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260619-johnathan-david-mb-1433-b70d97.jpg" alt="From The Sports Desk: World Cup co-hosts Canada, Mexico both have reason to celebrate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/sports/soccer/sports-newsletter-world-cup-co-hosts-canada-mexico-reason-celebrate-rcna350858" target="_blank">From The Sports Desk: World Cup co-hosts Canada, Mexico both have reason to celebrate</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-19 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/19/as-lebanon-tests-us-iran-deal-trump-must-rein-in-netanyahu-analysts-say?traffic_source=rss" target="_blank">As Lebanon tests US-Iran deal, Trump must rein in Netanyahu, analysts say</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-19 14:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e96b/live/3e26a980-6be5-11f1-8546-8f19e4fe30f4.jpg" alt="Italy&#x27;s Meloni says Trump &#x27;made up&#x27; story that she &#x27;begged&#x27; him for photo at G7" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss" target="_blank">Italy&#x27;s Meloni says Trump &#x27;made up&#x27; story that she &#x27;begged&#x27; him for photo at G7</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-19 13:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars" target="_blank">NASA selects Eric Schmidt&amp;#8217;s rocket company for a 2028 mission to Mars</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-19 18:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +161,20 @@
                 <span class="time">2026-06-19 14:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/relativity-500x500.jpg" alt="Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/" target="_blank">Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-19 13:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/systemd-261" target="_blank">systemd 261 Released With New systemd-sysinstall OS Installer, IMDSD &amp; Storagectl</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-19 18:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +220,6 @@
                 <span class="time">2026-06-19 15:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pat9000/missing-ai-agent-cost-data-is-not-zero-3np3" target="_blank">Missing AI agent cost data is not zero</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-19 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/trump2026.jpg?fit=958%2C644&amp;quality=60&amp;ssl=1" alt="&quot;Donald Dump&quot; depicts Trump with sludge oozing out of his mouth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/19/donald-dump-depicts-trump-with-sludge-oozing-out-of-his-mouth.html" target="_blank">&quot;Donald Dump&quot; depicts Trump with sludge oozing out of his mouth</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-19 18:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/MagellanTV-Documentary-Streaming-Service.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get smarter on your downtime with lifetime documentary streaming for $130 during Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +293,6 @@
                 <span class="time">2026-06-18 21:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Intuit-QuickBooks-Desktop-Pro-Plus-2024-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Centralize essential accounting tasks with QuickBooks Desktop Pro Plus for $300 during Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/18/centralize-essential-accounting-tasks-with-quickbooks-desktop-pro-plus-for-300-during-deal-days.html" target="_blank">Centralize essential accounting tasks with QuickBooks Desktop Pro Plus for $300 during Deal Days</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-18 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,7 +331,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 18:31 UTC
+        🔄 Last Updated: 19:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
