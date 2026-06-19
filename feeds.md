@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 14:59:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-19 16:05:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 14:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, June 19, 2026 - 16:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -88,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781867933308_tdy_news_7a_gutierrez_vance_iran_talks_260619_S3_1920x1080-nlefm0.jpg" alt="US-Iran Talks Postponed as JD Vance Cancels Trip to Switzerland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/jd-vance-scraps-trip-to-switzerland-to-meet-iranian-negotiators-265369669677" target="_blank">US-Iran Talks Postponed as JD Vance Cancels Trip to Switzerland</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-19 11:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -96,20 +97,29 @@
                 <span class="time">2026-06-19 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bb4/live/c0431070-6bd6-11f1-bb90-8330b45f9c8e.jpg" alt="US-Iran talks in Switzerland postponed as fighting in Lebanon intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss" target="_blank">US-Iran talks in Switzerland postponed as fighting in Lebanon intensifies</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-19 09:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/" target="_blank">Billionaire Ambani wants AI in every call, app, and home</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-19 15:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming" target="_blank">The NTS Radio Player brings the best of internet radio to your hi-fi</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-19 14:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a272c6980c91df5cbc78f6e/master/pass/science_ebola_AP25034672987672.jpg" alt="The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,29 +156,29 @@
                 <span class="time">2026-06-19 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/" target="_blank">The US says ASML’s top chip tool may be in China. ASML says it isn’t</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-19 07:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Rover Promo Codes and Referral Deals for June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rover-promo-code/" target="_blank">Rover Promo Codes and Referral Deals for June 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-19 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paultwist/the-multi-runtime-agent-problem-why-your-team-needs-more-than-one-runtime-9d" target="_blank">The Multi-Runtime Agent Problem: Why Your Team Needs More Than One Runtime</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-19 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ACP-7.x-Linux-7.2" target="_blank">AMD ACP7.D/7.E/7.F Driver Added In Linux 7.2: &quot;Substantial Design Changes&quot; For AMD Audio</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-19 15:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,24 +215,6 @@
                 <span class="time">2026-06-19 12:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/data-aware-ai-agents/en/mediumimage/bonnie-xu-medium-1781164411672.jpg" alt="Presentation: AI Agents to Make Sense of Data at OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/data-aware-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: AI Agents to Make Sense of Data at OpenAI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-19 12:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17363827/myna-ai-speech-to-text-tool" target="_blank">Canonical&amp;#x27;s New AI Tool Wants You to Talk to Ubuntu Instead of Type</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-19 11:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/MagellanTV-Documentary-Streaming-Service.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get smarter on your downtime with lifetime documentary streaming for $130 during Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/19/get-smarter-on-your-downtime-with-lifetime-documentary-streaming-for-130-during-deal-days.html" target="_blank">Get smarter on your downtime with lifetime documentary streaming for $130 during Deal Days</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-19 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/armie-hammer-1280x720.jpg" alt="Uwe Boll Denies He’s A Nazi After His Immigrant-Murdering Movie Gets Banned" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +288,6 @@
                 <span class="time">2026-06-18 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114616.jpg?fit=1200%2C430&amp;quality=60&amp;ssl=1" alt="In 1986, a Cameroonian lake released a CO2 cloud that killed 1,746 people overnight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/18/in-1986-a-cameroonian-lake-released-a-co2-cloud-that-killed-1746-people-overnight.html" target="_blank">In 1986, a Cameroonian lake released a CO2 cloud that killed 1,746 people overnight</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-18 20:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,22 +302,13 @@
                 <span class="time">2026-06-19 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1781743636-20260618.png" alt="Saturday Morning Breakfast Cereal - Spooky" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/spooky-3" target="_blank">Saturday Morning Breakfast Cereal - Spooky</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-18 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 14:59 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 16:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
