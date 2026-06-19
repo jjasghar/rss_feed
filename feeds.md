@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 16:05:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-19 17:32:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 16:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, June 19, 2026 - 17:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-ap-gmh-260618_1781819440633_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran is &#x27;FINISHED&#x27; as talks postponed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Trump says Iran is &#x27;FINISHED&#x27; as talks postponed</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-19 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump" target="_blank">Algae clouded Trump&#x27;s vision for the Reflecting Pool. But scientists aren&#x27;t surprised</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-19 15:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +95,29 @@
                 <span class="time">2026-06-19 11:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781867933308_tdy_news_7a_gutierrez_vance_iran_talks_260619_S3_1920x1080-nlefm0.jpg" alt="US-Iran Talks Postponed as JD Vance Cancels Trip to Switzerland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/jd-vance-scraps-trip-to-switzerland-to-meet-iranian-negotiators-265369669677" target="_blank">US-Iran Talks Postponed as JD Vance Cancels Trip to Switzerland</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-19 11:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/19/nx-s1-5863544/trump-us-iran-agreement" target="_blank">What you need to know about the preliminary U.S.-Iran agreement signed by Trump</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-19 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb" target="_blank">Hue’s wired wall modules bring non-smart lights into its ecosystem</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-19 17:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/" target="_blank">Every fusion startup that has raised over $100M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-19 16:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,30 +146,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/" target="_blank">The CEO of Allbirds’ new AI biz has a plan, but no employees</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-19 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1409779114-500x500.jpg" alt="As global warming threatens corals, scientists search for reefs that can take the heat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/relativity-500x500.jpg" alt="Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/" target="_blank">As global warming threatens corals, scientists search for reefs that can take the heat</a></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/" target="_blank">Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars</a></span>
                 <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-19 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a32ea41c9d6ea1d2578c14e/master/pass/science_oceangate_GettyImages-1259004909.jpg" alt="Canada Missed Chances to Inspect Titan Before Fatal Implosion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/canada-missed-chances-titan-fatal-implosion/" target="_blank">Canada Missed Chances to Inspect Titan Before Fatal Implosion</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-19 09:00</span>
+                <span class="time">2026-06-19 13:36</span>
             </div>
         </div>
 </div>
@@ -165,9 +163,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kupras06/the-shadcnui-experience-for-stylex-why-i-built-blenx-2pdn" target="_blank">The shadcn/ui Experience for StyleX: Why I Built Blenx</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-19 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/paultwist/the-multi-runtime-agent-problem-why-your-team-needs-more-than-one-runtime-9d" target="_blank">The Multi-Runtime Agent Problem: Why Your Team Needs More Than One Runtime</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-19 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/" target="_blank">How we built an internal data analytics agent</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-19 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Networking" target="_blank">Linux 7.2 Brings More Work Around WiFi Aware, WiFi 8 / UHR &amp; More Networking Hardware</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-19 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/06/19/dispatches-from-o-reilly-from-capabilities-to-responsibilities/" target="_blank">Dispatches from O&#x27;Reilly: From capabilities to responsibilities​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​﻿​﻿​​‌‍​‍​﻿‍‌​﻿‍‌​﻿‌‌‌‍‌‍​﻿‌﻿​‍﻿‌​﻿‌﻿‌‍​﻿‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​‌‍‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‍‌‍‌‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿‍‌​﻿‌​​﻿​​‌‍​‌​﻿​﻿​﻿​‍‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​﻿​﻿​​‌‍​‍​﻿‍‌​﻿‍‌​﻿‌‌‌‍‌‍​﻿‌﻿​‍﻿‌​﻿‌﻿‌‍​﻿‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​‌‍‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‍‌‍‌‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿‍‌​﻿‌​​﻿​​‌‍​‌​﻿​﻿​﻿​‍‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-06-19 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/himanshu_748/bletchleys-longest-day-a-wartime-cipher-escape-game-for-the-june-solstice-game-jam-2821" target="_blank">Bletchley&#x27;s Longest Day: a wartime cipher escape game for the June Solstice Game Jam</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-19 12:53</span>
             </div>
         </div>
 </div>
@@ -296,6 +294,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/hurry/" target="_blank">Hurry</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-06-19 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1781743854-20260619.png" alt="Saturday Morning Breakfast Cereal - GWAS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/gwas" target="_blank">Saturday Morning Breakfast Cereal - GWAS</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-19 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/19/widow-s-bae" target="_blank">Widow&#x27;s Bae</a></span>
                 <span class="feed">Penny Arcade</span>
@@ -307,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 245 |
-        🔄 Last Updated: 16:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 17:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
