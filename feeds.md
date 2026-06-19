@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 22:16:58 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-06-19 23:19:06 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 22:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, June 19, 2026 - 23:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/19/us-judge-rejects-joe-bidens-lawsuit-asking-to-withhold-memoir-recordings?traffic_source=rss" target="_blank">US judge rejects Joe Biden’s lawsuit asking to withhold memoir recordings</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-19 23:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc6/live/b618c600-6c01-11f1-817c-d96159ef580f.jpg" alt="PM under pressure from Labour MPs and ministers to set timetable for exit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +101,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/notable-republican-senators-break-trump-iran-agreement/story?id=134034518" target="_blank">Several notable Republican senators break with Trump over Iran agreement</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-19 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/6/19/how-is-the-iran-us-agreement-being-viewed-in-israel?traffic_source=rss" target="_blank">How is the Iran-US agreement being viewed in Israel?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-19 18:49</span>
             </div>
         </div>
 </div>
@@ -177,6 +179,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-NVK-Vulkan-Does-DLSS" target="_blank">Open-Source NVIDIA NVK Vulkan Driver Now Supports DLSS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-19 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/programmingcentral/astrophysics-ai-with-python-mastering-solar-flare-analysis-with-sunpy-n8j" target="_blank">Astrophysics &amp; AI with Python: Mastering Solar Flare Analysis with SunPy</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,20 +221,20 @@
                 <span class="time">2026-06-19 16:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/" target="_blank">Norway imposes near ban on AI in elementary school</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-19 16:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html" target="_blank">Friday Squid Blogging: Victims of Unregulated Squid Fishing</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-19 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -239,12 +250,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Slay-the-Spire-2-Shrug-It-Off-Official-Card-Artwork-Mega-Crit-1280x853.jpg" alt="Slay The Spire 2’s Gets Second Major Update And Fixes The Bug That Was Ruining Everyone’s Runs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/slay-the-spire-2s-gets-second-major-update-and-fixes-the-bug-that-was-ruining-everyones-runs-2000708516" target="_blank">Slay The Spire 2’s Gets Second Major Update And Fixes The Bug That Was Ruining Everyone’s Runs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-19 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Ace-Combat-8.jpg" alt="Hands-On With Ace Combat 8: The Long Wait Is Feeling Worth It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/hands-on-with-ace-combat-8-incredible-fights-and-spectacular-failures-2000708545" target="_blank">Hands-On With Ace Combat 8: The Long Wait Is Feeling Worth It</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-19 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114620.jpg?fit=1200%2C569&amp;quality=60&amp;ssl=1" alt="A star discovered in 2014 has exploded six times and none of the theories explain it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/19/a-star-discovered-in-2014-has-exploded-six-times-and-none-of-the-theories-explain-it.html" target="_blank">A star discovered in 2014 has exploded six times and none of the theories explain it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-19 18:58</span>
             </div>
         </div>
 <div class="story">
@@ -272,24 +301,6 @@
                 <span class="title"><a href="https://kotaku.com/uwe-boll-nazi-migrant-murder-armie-hammer-citizen-vigilante-2000708519" target="_blank">Uwe Boll Denies He’s A Nazi After His Immigrant-Murdering Movie Gets Banned</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-19 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/16-2-1280x720.jpg" alt="8 Things To Know Before Playing The Adventures Of Elliot: The Millennium Tales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tips-adventures-of-elliot-the-millennium-tales-2000708151" target="_blank">8 Things To Know Before Playing The Adventures Of Elliot: The Millennium Tales</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/paint.jpg?fit=1331%2C880&amp;quality=60&amp;ssl=1" alt="New blue paint under Reflecting Pool already peeling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/19/new-blue-paint-under-reflecting-pool-already-peeling.html" target="_blank">New blue paint under Reflecting Pool already peeling</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-19 11:15</span>
             </div>
         </div>
 </div>
@@ -338,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 22:17 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 23:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
