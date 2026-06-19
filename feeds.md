@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 20:28:09 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-19 21:22:19 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 20:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, June 19, 2026 - 21:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/19/nx-s1-5864503/air-force-one-trump-qatar" target="_blank">Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-19 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d8c/live/3048d450-6c0d-11f1-866d-31e44f099e94.jpg" alt="Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-19 19:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/tom-cotton-ss-jt-260619_1781894163887_hpMain_4x3t_384.jpg" alt="Several notable Republican senators break with Trump over Iran agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +91,6 @@
                 <span class="title"><a href="https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana" target="_blank">Global framework for reparatory justice adopted at landmark conference in Ghana</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-06-19 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-ap-gmh-260618_1781819440633_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran is &#x27;FINISHED&#x27; as talks postponed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Trump says Iran is &#x27;FINISHED&#x27; as talks postponed</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-19 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump" target="_blank">Algae clouded Trump&#x27;s vision for the Reflecting Pool. But scientists aren&#x27;t surprised</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-19 15:43</span>
             </div>
         </div>
 </div>
@@ -335,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 245 |
-        🔄 Last Updated: 20:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 21:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
