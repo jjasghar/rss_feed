@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 03:02:17 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-19 05:39:01 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 03:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, June 19, 2026 - 05:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/19/cape-verde-goalkeeper-vozinha-happy-his-mother-will-attend-world-cup?traffic_source=rss" target="_blank">Cape Verde goalkeeper Vozinha happy his mother will attend World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-19 05:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85e9/live/775f6a70-6b9f-11f1-b1db-af71d47507d6.jpg" alt="Burnham says his win in Makerfield by-election could be turning point" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gy72kmg1mo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says his win in Makerfield by-election could be turning point</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-19 05:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +104,20 @@
                 <span class="time">2026-06-18 23:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/18/us-judge-orders-release-of-palestinian-rights-advocate-detained-by-ice?traffic_source=rss" target="_blank">US judge orders release of Palestinian rights advocate detained by ICE</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-18 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/18/mamdani-gives-new-york-knicks-keys-to-city-after-nba-title?traffic_source=rss" target="_blank">Mamdani gives New York Knicks keys to city after NBA title</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-18 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Rover Promo Codes and Referral Deals for June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rover-promo-code/" target="_blank">Rover Promo Codes and Referral Deals for June 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-19 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +163,38 @@
                 <span class="time">2026-06-18 22:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683-500x500.jpg" alt="FDA advisors unanimously vote to approve Moderna&#x27;s mRNA after agency drama" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/" target="_blank">FDA advisors unanimously vote to approve Moderna&#x27;s mRNA after agency drama</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-18 22:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ernestohs/dev-log-the-first-public-api-and-the-type-graph-that-wouldnt-stay-small-4h74" target="_blank">Dev Log: The first public API, and the type graph that wouldn&#x27;t stay small</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-19 05:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://letsencrypt.status.io/#2026" target="_blank">Let&#x27;s Encrypt has been down most of today</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-19 04:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Media" target="_blank">AMD ISP4 Driver Merged To Linux 7.2 Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-19 01:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,33 +220,6 @@
                 <span class="title"><a href="https://dev.to/lanternproton/embodied-ai-has-a-30b-problem-nobody-knows-what-good-means-1ho1" target="_blank">Embodied AI Has a $30B Problem: Nobody Knows What &#x27;Good&#x27; Means</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-18 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/" target="_blank">Zero-Touch OAuth for MCP</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-18 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vivek_shetye/hermes-agent-just-released-a-desktop-app-and-it-changes-everything-about-using-ai-agents-2aei" target="_blank">🚀 Hermes Agent Just Released a Desktop App And It Changes Everything About Using AI Agents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-18 20:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Godot-4.7-Released" target="_blank">Godot 4.7 Released With HDR Output Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-18 19:42</span>
             </div>
         </div>
 </div>
@@ -321,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 03:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 38 | 📸 With Images: 246 |
+        🔄 Last Updated: 05:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
