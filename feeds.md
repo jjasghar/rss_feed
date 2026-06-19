@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 21:22:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-19 22:16:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 21:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, June 19, 2026 - 22:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc6/live/b618c600-6c01-11f1-817c-d96159ef580f.jpg" alt="PM under pressure from Labour MPs and ministers to set timetable for exit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&at_campaign=rss" target="_blank">PM under pressure from Labour MPs and ministers to set timetable for exit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-19 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/wc-9-rt-gmh-260619_1781902854670_hpMain_4x3t_384.jpg" alt="US defeats Australia 2-0 in 2nd World Cup win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/us-defeats-australia-2-0-2nd-world-cup/story?id=134040823" target="_blank">US defeats Australia 2-0 in 2nd World Cup win</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-19 21:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +101,20 @@
                 <span class="time">2026-06-19 18:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_dramatic-rescue-fire-rips-through-school-in-japan-190626?traffic_source=rss" target="_blank">Dramatic rescue as fire rips through school in Japan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-19 17:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana" target="_blank">Global framework for reparatory justice adopted at landmark conference in Ghana</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-19 17:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices" target="_blank">Nothing cancels this year&amp;#8217;s CMF phone due to RAM prices</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-19 21:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +160,20 @@
                 <span class="time">2026-06-19 14:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a272c6980c91df5cbc78f6e/master/pass/science_ebola_AP25034672987672.jpg" alt="The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/" target="_blank">The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-19 14:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/timevolt/cicd-pipelines-that-actually-work-from-why-is-this-broken-to-i-feel-like-neo-l2k" target="_blank">CI/CD Pipelines That Actually Work: From “Why Is This Broken?” to “I Feel Like Neo”</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-19 22:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,19 +213,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paultwist/the-multi-runtime-agent-problem-why-your-team-needs-more-than-one-runtime-9d" target="_blank">The Multi-Runtime Agent Problem: Why Your Team Needs More Than One Runtime</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-19 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/" target="_blank">How we built an internal data analytics agent</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-19 16:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/" target="_blank">Norway imposes near ban on AI in elementary school</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-19 16:03</span>
             </div>
         </div>
 </div>
@@ -331,7 +339,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 21:22 UTC
+        🔄 Last Updated: 22:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
