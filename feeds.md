@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 19:30:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-19 20:28:09 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 19:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, June 19, 2026 - 20:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/programmingcentral/astrophysics-ai-with-python-mastering-solar-flare-analysis-with-sunpy-n8j" target="_blank">Astrophysics &amp; AI with Python: Mastering Solar Flare Analysis with SunPy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-19 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/systemd-261" target="_blank">systemd 261 Released With New systemd-sysinstall OS Installer, IMDSD &amp; Storagectl</a></span>
                 <span class="feed">Phoronix</span>
@@ -187,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/" target="_blank">Hyundai buys Boston Dynamics</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-19 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/paultwist/the-multi-runtime-agent-problem-why-your-team-needs-more-than-one-runtime-9d" target="_blank">The Multi-Runtime Agent Problem: Why Your Team Needs More Than One Runtime</a></span>
                 <span class="feed">DEV Community</span>
@@ -200,24 +214,6 @@
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/" target="_blank">How we built an internal data analytics agent</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-06-19 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ACP-7.x-Linux-7.2" target="_blank">AMD ACP7.D/7.E/7.F Driver Added In Linux 7.2: &quot;Substantial Design Changes&quot; For AMD Audio</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-19 15:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://overreacted.io/there-are-no-instances-in-atproto/" target="_blank">There Are No Instances in ATProto</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-19 15:10</span>
             </div>
         </div>
 </div>
@@ -239,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Ace-Combat-8.jpg" alt="Hands-On With Ace Combat 8: The Long Wait Is Feeling Worth It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hands-on-with-ace-combat-8-incredible-fights-and-spectacular-failures-2000708545" target="_blank">Hands-On With Ace Combat 8: The Long Wait Is Feeling Worth It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-19 19:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/trump2026.jpg?fit=958%2C644&amp;quality=60&amp;ssl=1" alt="&quot;Donald Dump&quot; depicts Trump with sludge oozing out of his mouth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +289,6 @@
                 <span class="time">2026-06-19 11:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/olviiar-1280x720.jpg" alt="Fans Are Wearing Diapers And Shitting Themselves To Get Close To Olivia Rodrigo, And She Can Smell It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fans-are-wearing-diapers-and-shitting-themselves-to-get-close-to-olivia-rodrigo-and-she-can-smell-it-2000708211" target="_blank">Fans Are Wearing Diapers And Shitting Themselves To Get Close To Olivia Rodrigo, And She Can Smell It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-18 21:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,6 +301,15 @@
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/hurry/" target="_blank">Hurry</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
                 <span class="time">2026-06-19 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/19/widow-s-bae" target="_blank">Widow&#x27;s Bae</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-19 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -330,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 19:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 20:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
