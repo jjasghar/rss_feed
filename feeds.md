@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 00:34:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-06-19 01:53:40 UTC -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 00:34 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, June 19, 2026 - 01:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/18/nx-s1-5863570/flu-vaccine-mrna-moderna-fda" target="_blank">Key FDA committee unanimously recommends its first vaccine since 2023</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-19 00:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +94,20 @@
                 <span class="time">2026-06-18 20:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b003/live/59a4cac0-6b4a-11f1-bc34-19faf070d2ff.jpg" alt="US lifts naval blockade as Iran&#x27;s supreme leader says Trump made deal &#x27;out of desperation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss" target="_blank">US lifts naval blockade as Iran&#x27;s supreme leader says Trump made deal &#x27;out of desperation&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-18 19:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Testing-Link-Vibration-tests-2_4000x2600-500x500.jpg" alt="A bold satellite rescue mission came together in record time, but will it work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/" target="_blank">A bold satellite rescue mission came together in record time, but will it work?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-19 00:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-500x500.jpg" alt="Microsoft spots new self-propagating malware for stealing cryptocurrency" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -106,6 +115,15 @@
                 <span class="title"><a href="https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/" target="_blank">Microsoft spots new self-propagating malware for stealing cryptocurrency</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-18 23:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a34781c9bab9b898fe10473/master/pass/Amazon%E2%80%99s-2-Best-Selling-Espresso-Machines-Are-Up-to-$200-Off.jpg" alt="Prime Day Early Deals 2026: Breville and Ninja Espresso Maker Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/early-espresso-machine-deals-prime-day-2026/" target="_blank">Prime Day Early Deals 2026: Breville and Ninja Espresso Maker Deals</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-18 23:03</span>
             </div>
         </div>
 <div class="story">
@@ -133,24 +151,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/" target="_blank">As China looms, Taiwan makes more drones for defense and the US military</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-18 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/" target="_blank">AI inference startup Baseten reportedly raising $1.5B months after its last mega-round</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-18 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/" target="_blank">AI inference startup Baseten reportedly raising $1.5B months after its last mega round</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-18 21:20</span>
             </div>
         </div>
 </div>
@@ -313,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 247 |
-        🔄 Last Updated: 00:34 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 01:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
