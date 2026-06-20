@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 18:25:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-20 19:28:52 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 18:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 19:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/6/20/are-uk-prime-minister-keir-starmers-political-days-numbered?traffic_source=rss" target="_blank">Are UK Prime Minister Keir Starmer’s political days numbered?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-20 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/df959320-6cb8-11f1-9fea-e751269afdb9.jpg" alt="Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss" target="_blank">Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-20 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781979300478_now_brk_iran_strait_closure_260620_S3_1920x1080-jt3u32.jpg" alt="Iran closes Strait of Hormuz over ceasefire violations, state media reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/iran-closes-strait-of-hormuz-over-ceasefire-violations-state-media-reports-265420869526" target="_blank">Iran closes Strait of Hormuz over ceasefire violations, state media reports</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-20 18:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,33 +99,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Iran says strait is closed over deadly attacks on Lebanon</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-20 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/hormuz-gty-jt-260620_1781965916186_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says Strait of Hormuz is closed as Vance says it remains open" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Iran says Strait of Hormuz is closed as Vance says it remains open</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-20 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b2/live/821b5d20-6c9e-11f1-9c69-eb6435da1435.jpg" alt="Israel and Hezbollah continue strikes despite ceasefire agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Hezbollah continue strikes despite ceasefire agreement</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-20 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/20/where-do-irans-political-factions-stand-on-the-us-peace-deal?traffic_source=rss" target="_blank">Where do Iran’s political factions stand on the US peace deal?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-20 13:05</span>
             </div>
         </div>
 </div>
@@ -161,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Juneteenth: 1865 — Sail. Decode. Reunite." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nitin_8d767ad88637719caf8/juneteenth-1865-sail-decode-reunite-159h" target="_blank">Juneteenth: 1865 — Sail. Decode. Reunite.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-20 19:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +217,6 @@
                 <span class="title"><a href="https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html" target="_blank">DOS Game &quot;F-15 Strike Eagle II&quot; reversing project needs DOS test pilots</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-20 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michaelfv/making-gbase-8c-auditing-work-traceable-retainable-and-queryable-202m" target="_blank">Making GBase 8c Auditing Work: Traceable, Retainable, and Queryable</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-20 14:33</span>
             </div>
         </div>
 </div>
@@ -306,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 39 | 📸 With Images: 247 |
-        🔄 Last Updated: 18:25 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 19:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
