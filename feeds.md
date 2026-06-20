@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-19 23:19:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-20 00:27:03 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, June 19, 2026 - 23:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 00:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/wc-9-rt-gmh-260619_1781902854670_hpMain_4x3t_384.jpg" alt="US defeats Australia 2-0 in 2nd World Cup win, securing spot in knockout round" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/us-defeats-australia-2-0-2nd-world-cup/story?id=134040823" target="_blank">US defeats Australia 2-0 in 2nd World Cup win, securing spot in knockout round</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-19 23:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57b/live/1edafa90-6c35-11f1-b1db-af71d47507d6.jpg" alt="Driver dead and 33 people seriously injured as Bedford train crash declared major incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr7xzg93ddxo?at_medium=RSS&at_campaign=rss" target="_blank">Driver dead and 33 people seriously injured as Bedford train crash declared major incident</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-19 23:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,27 +91,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/19/nx-s1-5864503/air-force-one-trump-qatar" target="_blank">Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/19/g-s1-129137/james-burrows-death-obit-cheers-friends" target="_blank">James Burrows, director of classic shows &#x27;Cheers&#x27; and &#x27;Friends,&#x27; dies at 85</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-19 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d8c/live/3048d450-6c0d-11f1-866d-31e44f099e94.jpg" alt="Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-19 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/tom-cotton-ss-jt-260619_1781894163887_hpMain_4x3t_384.jpg" alt="Several notable Republican senators break with Trump over Iran agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/notable-republican-senators-break-trump-iran-agreement/story?id=134034518" target="_blank">Several notable Republican senators break with Trump over Iran agreement</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-19 18:50</span>
+                <span class="time">2026-06-19 21:16</span>
             </div>
         </div>
 </div>
@@ -350,7 +343,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 245 |
-        🔄 Last Updated: 23:19 UTC
+        🔄 Last Updated: 00:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
