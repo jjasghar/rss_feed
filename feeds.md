@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 08:59:13 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-06-20 10:05:41 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 08:59 UTC</div>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 10:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +38,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire" target="_blank">Fighting persists in Lebanon despite a ceasefire as  U.S.-Iran deal is under threat</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-20 10:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/6/20/trumps-iran-deal-israels-meltdown?traffic_source=rss" target="_blank">Trump’s Iran deal, Israel’s meltdown</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-20 09:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260619-trump-macron-versailles-mn-1805-0f4977.jpg" alt="Iran peace talks have been chaotic. But confusion has only grown since the MOU was signed." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/us-iran-negotiations-chaotic-confusion-only-grown-mou-was-signed-rcna350926" target="_blank">Iran peace talks have been chaotic. But confusion has only grown since the MOU was signed.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-20 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a4/live/78de6b70-6c72-11f1-8546-8f19e4fe30f4.jpg" alt="&#x27;People flew from their seats&#x27;: Passengers describe how Bedford train crash unfolded" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,38 +92,20 @@
                 <span class="time">2026-06-20 04:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-domincan-fire_7278323.jpg?20260620041118" alt="Tourist dies after huge fire destroys luxury beach resort" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/dominican-republic-tourist-dies-after-huge-fire-destroys-luxury-beach-resort-13556005" target="_blank">Tourist dies after huge fire destroys luxury beach resort</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-20 03:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/20/cunha-hits-brazil-double-against-haiti-to-seal-first-world-cup-2026-win?traffic_source=rss" target="_blank">Cunha hits Brazil double against Haiti to seal first World Cup 2026 win</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-20 02:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57e5/live/eba47150-6c67-11f1-8074-bbe0519aa261.jpg" alt="Driver dies and 33 people seriously injured in Bedford train crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr7xzg93ddxo?at_medium=RSS&at_campaign=rss" target="_blank">Driver dies and 33 people seriously injured in Bedford train crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-20 00:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a33443c27f7de3a00911dff/master/pass/Gear_TestingSiriAI-v1.jpg" alt="Siri AI Hands On: A Smart, Helpful Assistant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/siri-ai-hands-on-iphone/" target="_blank">Siri AI Hands On: A Smart, Helpful Assistant</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-20 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +151,20 @@
                 <span class="time">2026-06-19 16:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/" target="_blank">Billionaire Ambani wants AI in every call, app, and home</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-19 15:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Claude Fable 5 on Bedrock Requires Sharing Inference Data with Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Fable 5 on Bedrock Requires Sharing Inference Data with Anthropic</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-20 09:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/06/cognito-replication-aws/en/headerimage/generatedHeaderImage-1780821804660.jpg" alt="AWS Adds Multi-Region Replication to Amazon Cognito Identity Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +208,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-NTFS-Improvements" target="_blank">New NTFS Driver Sees Hardening &amp; Fixes, Windows Native Symlinks With Linux 7.2</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-20 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/timevolt/cicd-pipelines-that-actually-work-from-why-is-this-broken-to-i-feel-like-neo-l2k" target="_blank">CI/CD Pipelines That Actually Work: From “Why Is This Broken?” to “I Feel Like Neo”</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-19 22:05</span>
             </div>
         </div>
 </div>
@@ -339,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 88 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 08:59 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 87 | 📡 Total Sources: 39 | 📸 With Images: 250 |
+        🔄 Last Updated: 10:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
