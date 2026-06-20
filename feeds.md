@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 22:23:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-20 23:24:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 22:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 23:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/20/amiri-injury-time-goal-sees-germany-beat-ivory-coast-to-top-world-cup-group?traffic_source=rss" target="_blank">Undav injury-time goal sees Germany beat Ivory Coast to top World Cup group</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-20 22:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781992203971_now_brk_jd_vance_switzerland_260620_S3_1920x1080-hhmjcr.jpg" alt="Vice President JD Vance heads to Switzerland for Iran negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,19 +88,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/6/20/are-uk-prime-minister-keir-starmers-political-days-numbered?traffic_source=rss" target="_blank">Are UK Prime Minister Keir Starmer’s political days numbered?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-20 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/df959320-6cb8-11f1-9fea-e751269afdb9.jpg" alt="Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss" target="_blank">Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-20 18:39</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization" target="_blank">DOJ memo stokes fear among disability advocates of a return to institutionalization</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-20 20:33</span>
             </div>
         </div>
 </div>
@@ -164,6 +162,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://notes.lorenzogravina.com/musings/pre-2022-books" target="_blank">Pre-2022 Books</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-20 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/" target="_blank">UK Home Office launches £75M &#x27;PoliceAI&#x27; to capitalise on artificial intelligence</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-20 20:41</span>
@@ -203,15 +210,6 @@
                 <span class="title"><a href="https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community" target="_blank">SMPTE Makes Its Standards Freely Accessible</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-20 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/niluved/my-homescreen-was-chaos-not-anymore-5a8m" target="_blank">My homescreen was chaos. Not anymore.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-20 16:22</span>
             </div>
         </div>
 </div>
@@ -292,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 22:23 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 23:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
