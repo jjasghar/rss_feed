@@ -1,41 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 14:43:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-20 15:30:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 14:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 15:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -97,10 +97,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-trump-meloni-g7_7277721.jpg?20260619131015" alt="Meloni and Trump trade barbs as row over &#x27;completely made up&#x27; claim she &#x27;begged&#x27; him for picture continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-trump-meloni-g7_7277721.jpg?20260619131015" alt="Trump-Meloni row intensifies as leaders trade barbs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-hits-back-at-meloni-after-she-said-he-completely-made-up-claim-she-begged-him-for-picture-13556090" target="_blank">Meloni and Trump trade barbs as row over &#x27;completely made up&#x27; claim she &#x27;begged&#x27; him for picture continues</a></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-hits-back-at-meloni-after-she-said-he-completely-made-up-claim-she-begged-him-for-picture-13556090" target="_blank">Trump-Meloni row intensifies as leaders trade barbs</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-06-20 11:55</span>
             </div>
@@ -110,6 +110,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview" target="_blank">Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-20 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +164,20 @@
                 <span class="time">2026-06-20 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/" target="_blank">He made your free video player run smoothly. Now he’s doing that for robots.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-20 00:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/luigiippolito/la-biblioteca-di-borgesdigitale-2o0f" target="_blank">La biblioteca di Borges:digitale.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-20 15:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/mirshah12/among-liars-the-7th-player-isnt-human-345h" target="_blank">Among Liars -&gt; The 7th Player Isn&#x27;t Human</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-20 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-CRC64-NEON-On-ARM32" target="_blank">Linux&#x27;s ARM64 NEON Intrinsics CRC64 Code Adapted To Work On 32-bit ARM</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-20 11:19</span>
             </div>
         </div>
 </div>
@@ -319,22 +319,13 @@
                 <span class="time">2026-06-19 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1781743854-20260619.png" alt="Saturday Morning Breakfast Cereal - GWAS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/gwas" target="_blank">Saturday Morning Breakfast Cereal - GWAS</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-19 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 14:43 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 15:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
