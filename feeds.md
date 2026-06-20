@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 15:30:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-20 16:27:28 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 15:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 16:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/20/trump-insists-italys-meloni-sought-photos-with-him-to-boost?traffic_source=rss" target="_blank">Trump insists Italy’s Meloni sought photos with him to boost popularity</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-20 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/boat-gulf-oman-gty-jt-260620_1781966380341_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says strait is closed over deadly attacks on Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Iran says strait is closed over deadly attacks on Lebanon</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-20 15:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/hormuz-gty-jt-260620_1781965916186_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says Strait of Hormuz is closed as Vance says it remains open" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/20/an-israeli-court-has-convicted-seven-men-over-the-2021-lynching-of-said-mo?traffic_source=rss" target="_blank">An Israeli court has convicted seven men over the 2021 lynching of Sa’id Mo</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-20 12:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/20/nx-s1-5854977/opinion-algae-doesnt-care-about-our-party-lines" target="_blank">Opinion: Algae doesn&#x27;t care about our party lines</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-20 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-trump-meloni-g7_7277721.jpg?20260619131015" alt="Trump-Meloni row intensifies as leaders trade barbs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-hits-back-at-meloni-after-she-said-he-completely-made-up-claim-she-begged-him-for-picture-13556090" target="_blank">Trump-Meloni row intensifies as leaders trade barbs</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-20 11:55</span>
             </div>
         </div>
 </div>
@@ -173,9 +166,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/niluved/my-homescreen-was-chaos-not-anymore-5a8m" target="_blank">My homescreen was chaos. Not anymore.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-20 16:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/luigiippolito/la-biblioteca-di-borgesdigitale-2o0f" target="_blank">La biblioteca di Borges:digitale.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-20 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html" target="_blank">DOS Game &quot;F-15 Strike Eagle II&quot; reversing project needs DOS test pilots</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-20 15:10</span>
             </div>
         </div>
 <div class="story">
@@ -205,24 +216,6 @@
                 <span class="time">2026-06-20 14:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/akaranjkar08/spacex-ai1-orbital-data-center-1-gw-of-space-ai-compute-by-2027-developer-guide-2n86" target="_blank">SpaceX AI1 Orbital Data Center: 1 GW of Space AI Compute by 2027, Developer Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-20 12:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mirshah12/among-liars-the-7th-player-isnt-human-345h" target="_blank">Among Liars -&gt; The 7th Player Isn&#x27;t Human</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-20 11:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/FastestVPN-PRO.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Deal Days has a 15-device VPN for less than $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/20/deal-days-has-a-15-device-vpn-for-less-than-30.html" target="_blank">Deal Days has a 15-device VPN for less than $30</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-20 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Iron-Nest-Heavy-Turret-Simulator-official-artwork-from-Steam-store-page-Nick-Nieuwoudt-and-Dominik-Latos-1280x721.jpg" alt="Steam’s New Military Sim Has You Spend 30 Minutes Loading A Big Cannon And It’s Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,45 +289,13 @@
                 <span class="time">2026-06-19 19:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1114620.jpg?fit=1200%2C569&amp;quality=60&amp;ssl=1" alt="A star discovered in 2014 has exploded six times and none of the theories explain it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/19/a-star-discovered-in-2014-has-exploded-six-times-and-none-of-the-theories-explain-it.html" target="_blank">A star discovered in 2014 has exploded six times and none of the theories explain it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-19 18:58</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/hurry/" target="_blank">Hurry</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-06-19 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/19/widow-s-bae" target="_blank">Widow&#x27;s Bae</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-19 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 15:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 16:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
