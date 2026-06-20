@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 01:38:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-20 03:00:36 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 01:39 UTC</div>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/20/cunha-hits-brazil-double-against-haiti-to-seal-first-world-cup-2026-win?traffic_source=rss" target="_blank">Cunha hits Brazil double against Haiti to seal first World Cup 2026 win</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-20 02:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57b/live/1edafa90-6c35-11f1-b1db-af71d47507d6.jpg" alt="Driver dies and 33 people seriously injured as Bedford train crash declared major incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr7xzg93ddxo?at_medium=RSS&at_campaign=rss" target="_blank">Driver dies and 33 people seriously injured as Bedford train crash declared major incident</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-20 00:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/wc-9-rt-gmh-260619_1781902854670_hpMain_4x3t_384.jpg" alt="US defeats Australia 2-0 in 2nd World Cup win, securing spot in knockout round" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&at_campaign=rss" target="_blank">PM under pressure from Labour MPs and ministers to set timetable for exit</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-19 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wc-9-rt-gmh-260619_1781902854670_hpMain_4x3t_384.jpg" alt="US defeats Australia 2-0 in 2nd World Cup win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/us-defeats-australia-2-0-2nd-world-cup/story?id=134040823" target="_blank">US defeats Australia 2-0 in 2nd World Cup win</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-19 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/19/g-s1-129137/james-burrows-death-obit-cheers-friends" target="_blank">James Burrows, director of classic shows &#x27;Cheers&#x27; and &#x27;Friends,&#x27; dies at 85</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-19 21:16</span>
             </div>
         </div>
 </div>
@@ -175,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film" target="_blank">How to feed a dictator</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-20 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-NTFS-Improvements" target="_blank">New NTFS Driver Sees Hardening &amp; Fixes, Windows Native Symlinks With Linux 7.2</a></span>
                 <span class="feed">Phoronix</span>
@@ -208,15 +214,6 @@
                 <span class="time">2026-06-19 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/systemd-261" target="_blank">systemd 261 Released With New systemd-sysinstall OS Installer, IMDSD &amp; Storagectl</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-19 18:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Image-Nickzero.jpg?fit=1080%2C894&amp;quality=60&amp;ssl=1" alt="Cyberdeck with punishingly minimal 30% keyboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/19/cyberdeck-with-punishingly-minimal-30-keyboard.html" target="_blank">Cyberdeck with punishingly minimal 30% keyboard</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-20 01:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Slay-the-Spire-2-Shrug-It-Off-Official-Card-Artwork-Mega-Crit-1280x853.jpg" alt="Slay The Spire 2’s Gets Second Major Update And Fixes The Bug That Was Ruining Everyone’s Runs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +294,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/19/get-smarter-on-your-downtime-with-lifetime-documentary-streaming-for-130-during-deal-days.html" target="_blank">Get smarter on your downtime with lifetime documentary streaming for $130 during Deal Days</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-19 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/armie-hammer-1280x720.jpg" alt="Uwe Boll Denies He’s A Nazi After His Immigrant-Murdering Movie Gets Banned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/uwe-boll-nazi-migrant-murder-armie-hammer-citizen-vigilante-2000708519" target="_blank">Uwe Boll Denies He’s A Nazi After His Immigrant-Murdering Movie Gets Banned</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-19 13:53</span>
             </div>
         </div>
 </div>
@@ -345,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 01:39 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 96 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
