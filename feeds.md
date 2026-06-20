@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 05:25:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-20 07:14:04 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 05:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 07:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/longform/2026/6/20/we-tasted-the-horrors-of-war-stories-of-refugees-who-returned-home?traffic_source=rss" target="_blank">‘We tasted the horrors of war’: Stories of refugees who returned home</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-20 06:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +100,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/algae-marred-reflecting-pool-draws-tourists-reasons-trump/story?id=134044120" target="_blank">Murky Reflecting Pool draws tourists, but not for reasons Trump wanted</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-20 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wc-9-rt-gmh-260619_1781902854670_hpMain_4x3t_384.jpg" alt="US defeats Australia 2-0 in 2nd World Cup win, securing spot in knockout round" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/us-defeats-australia-2-0-2nd-world-cup/story?id=134040823" target="_blank">US defeats Australia 2-0 in 2nd World Cup win, securing spot in knockout round</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-19 23:50</span>
             </div>
         </div>
 </div>
@@ -164,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/" target="_blank">I Stored a Website in a Favicon</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-20 05:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/robcube/moving-codex-threads-to-a-new-mac-2n3i" target="_blank">Moving Codex Threads to a New Mac</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Mesa-NVK-Vulkan-Does-DLSS" target="_blank">Open-Source NVIDIA NVK Vulkan Driver Now Supports DLSS</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-19 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/programmingcentral/astrophysics-ai-with-python-mastering-solar-flare-analysis-with-sunpy-n8j" target="_blank">Astrophysics &amp; AI with Python: Mastering Solar Flare Analysis with SunPy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-19 20:00</span>
             </div>
         </div>
 </div>
@@ -329,22 +334,13 @@
                 <span class="time">2026-06-19 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/19/widow-s-bae" target="_blank">Widow&#x27;s Bae</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-19 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 247 |
-        🔄 Last Updated: 05:25 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 07:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
