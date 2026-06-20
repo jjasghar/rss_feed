@@ -1,28 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 20:24:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-20 21:26:13 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 20:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 21:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/df959320-6cb8-11f1-9fea-e751269afdb9.jpg" alt="Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss" target="_blank">Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-20 21:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/20/bolivia-declares-state-of-emergency-to-clear-protest-blockades?traffic_source=rss" target="_blank">Bolivia declares state of emergency to clear protest blockades</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-20 20:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,29 +92,20 @@
                 <span class="time">2026-06-20 17:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/20/trump-insists-italys-meloni-sought-photos-with-him-to-boost?traffic_source=rss" target="_blank">Trump insists Italy’s Meloni sought photos with him to boost popularity</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-20 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/boat-gulf-oman-gty-jt-260620_1781966380341_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says strait is closed over deadly attacks on Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Iran says strait is closed over deadly attacks on Lebanon</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-20 15:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/" target="_blank">Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-20 20:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,20 +151,20 @@
                 <span class="time">2026-06-20 11:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a35a0ac7cb7548eacd52c88/master/pass/Home-Batteries-Aren%E2%80%99t-Just-for-Doomsday-Preppers.-Here%E2%80%99s-Why-You-Might-Want-One.jpg" alt="Home Batteries: How They&#x27;re Installed and How Much They Cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-buy-a-home-battery/" target="_blank">Home Batteries: How They&#x27;re Installed and How Much They Cost</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-20 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/" target="_blank">UK Home Office launches £75M &#x27;PoliceAI&#x27; to capitalise on artificial intelligence</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-20 20:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,29 +208,6 @@
                 <span class="title"><a href="https://dev.to/niluved/my-homescreen-was-chaos-not-anymore-5a8m" target="_blank">My homescreen was chaos. Not anymore.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-20 16:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/luigiippolito/la-biblioteca-di-borgesdigitale-2o0f" target="_blank">La biblioteca di Borges:digitale.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-20 15:19</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html" target="_blank">Friday Squid Blogging: Victims of Unregulated Squid Fishing</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-19 21:03</span>
             </div>
         </div>
 </div>
@@ -302,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 20:24 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 21:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
