@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 12:30:05 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-20 13:30:41 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 12:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 13:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b2/live/821b5d20-6c9e-11f1-9c69-eb6435da1435.jpg" alt="Israel and Hezbollah continue strikes despite ceasefire agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Hezbollah continue strikes despite ceasefire agreement</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-20 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/20/where-do-irans-political-factions-stand-on-the-us-peace-deal?traffic_source=rss" target="_blank">Where do Iran’s political factions stand on the US peace deal?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-20 13:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire" target="_blank">Fighting persists in Lebanon despite a ceasefire as  U.S.-Iran deal is under threat</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-20 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/6/20/trumps-iran-deal-israels-meltdown?traffic_source=rss" target="_blank">Trump’s Iran deal, Israel’s meltdown</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-20 09:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260619-trump-macron-versailles-mn-1805-0f4977.jpg" alt="Iran peace talks have been chaotic. But confusion has only grown since the MOU was signed." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/us-iran-negotiations-chaotic-confusion-only-grown-mou-was-signed-rcna350926" target="_blank">Iran peace talks have been chaotic. But confusion has only grown since the MOU was signed.</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-20 09:00</span>
             </div>
         </div>
 </div>
@@ -192,6 +195,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/06/apple-core-ai-wwdc/en/headerimage/jetbrains-rustrover-ide-1781953134950.jpeg" alt="Apple Launches Core AI for Apple-Silicon Optimized On-Device Generative AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/apple-core-ai-wwdc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apple Launches Core AI for Apple-Silicon Optimized On-Device Generative AI</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-20 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -207,15 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Fable 5 on Bedrock Requires Sharing Inference Data with Anthropic</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-20 09:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/cognito-replication-aws/en/headerimage/generatedHeaderImage-1780821804660.jpg" alt="AWS Adds Multi-Region Replication to Amazon Cognito Identity Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/cognito-replication-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Adds Multi-Region Replication to Amazon Cognito Identity Service</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-20 07:40</span>
             </div>
         </div>
 </div>
@@ -237,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/control-5-1280x720.jpg" alt="Control Resonant Hands-On: Giving One Of The Most Consistently Surprising Developers The Benefit Of The Doubt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/control-resonant-hands-on-giving-one-of-the-most-consistently-surprising-developers-the-benefit-of-the-doubt-2000708654" target="_blank">Control Resonant Hands-On: Giving One Of The Most Consistently Surprising Developers The Benefit Of The Doubt</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-20 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Image-Nickzero.jpg?fit=1080%2C894&amp;quality=60&amp;ssl=1" alt="Cyberdeck with punishingly minimal 30% keyboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +294,6 @@
                 <span class="time">2026-06-19 18:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/MagellanTV-Documentary-Streaming-Service.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get smarter on your downtime with lifetime documentary streaming for $130 during Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/19/get-smarter-on-your-downtime-with-lifetime-documentary-streaming-for-130-during-deal-days.html" target="_blank">Get smarter on your downtime with lifetime documentary streaming for $130 during Deal Days</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-19 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 39 | 📸 With Images: 245 |
-        🔄 Last Updated: 12:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 13:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
