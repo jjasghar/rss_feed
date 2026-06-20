@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 07:14:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-20 08:59:13 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 07:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 08:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a4/live/78de6b70-6c72-11f1-8546-8f19e4fe30f4.jpg" alt="&#x27;People flew from their seats&#x27;: Passengers describe how Bedford train crash unfolded" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;People flew from their seats&#x27;: Passengers describe how Bedford train crash unfolded</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-20 08:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-domincan-fire_7278323.jpg?20260620041118" alt="Tourist dies after huge fire destroys luxury beach resort" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/dominican-republic-tourist-dies-after-huge-fire-destroys-luxury-beach-resort-13556005" target="_blank">Tourist dies after huge fire destroys luxury beach resort</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-20 03:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -82,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cr7xzg93ddxo?at_medium=RSS&at_campaign=rss" target="_blank">Driver dies and 33 people seriously injured in Bedford train crash</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-20 00:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57b/live/1edafa90-6c35-11f1-b1db-af71d47507d6.jpg" alt="Driver dies and 33 people seriously injured as Bedford train crash declared major incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr7xzg93ddxo?at_medium=RSS&at_campaign=rss" target="_blank">Driver dies and 33 people seriously injured as Bedford train crash declared major incident</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-20 00:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/pool-dc-01-rt-jt-260619_1781902479659_hpMain_4x3t_384.jpg" alt="Murky Reflecting Pool draws tourists, but not for reasons Trump wanted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/algae-marred-reflecting-pool-draws-tourists-reasons-trump/story?id=134044120" target="_blank">Murky Reflecting Pool draws tourists, but not for reasons Trump wanted</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-20 00:33</span>
             </div>
         </div>
 </div>
@@ -167,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/06/cognito-replication-aws/en/headerimage/generatedHeaderImage-1780821804660.jpg" alt="AWS Adds Multi-Region Replication to Amazon Cognito Identity Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/cognito-replication-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Adds Multi-Region Replication to Amazon Cognito Identity Service</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-20 07:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/timevolt/cicd-pipelines-that-actually-work-from-why-is-this-broken-to-i-feel-like-neo-l2k" target="_blank">CI/CD Pipelines That Actually Work: From “Why Is This Broken?” to “I Feel Like Neo”</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-19 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-NVK-Vulkan-Does-DLSS" target="_blank">Open-Source NVIDIA NVK Vulkan Driver Now Supports DLSS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-19 20:26</span>
             </div>
         </div>
 </div>
@@ -339,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 07:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 88 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 08:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
