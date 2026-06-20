@@ -1,37 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 19:28:52 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-20 20:24:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 19:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 20:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +101,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/" target="_blank">In the Weights is your new AI-centric vanity search</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-20 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/" target="_blank">Nobel laureate John Jumper is leaving DeepMind for rival Anthropic</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-20 16:39</span>
@@ -151,20 +151,20 @@
                 <span class="time">2026-06-20 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a33443c27f7de3a00911dff/master/pass/Gear_TestingSiriAI-v1.jpg" alt="Siri AI Hands On: A Smart, Helpful Assistant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/siri-ai-hands-on-iphone/" target="_blank">Siri AI Hands On: A Smart, Helpful Assistant</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-20 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jakub_inithouse/how-to-create-custom-pet-merchandise-designs-using-ai-4hoo" target="_blank">How to Create Custom Pet Merchandise Designs Using AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-20 20:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Juneteenth: 1865 — Sail. Decode. Reunite." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +210,6 @@
                 <span class="time">2026-06-20 15:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html" target="_blank">DOS Game &quot;F-15 Strike Eagle II&quot; reversing project needs DOS test pilots</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-20 15:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/entropy.jpg" alt="Entropy Is An Upcoming Vagrant Story Inspired RPG In A Nasty Kingdom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/entropy-is-an-upcoming-vagrant-story-inspired-rpg-in-a-nasty-kingdom-2000708680" target="_blank">Entropy Is An Upcoming Vagrant Story Inspired RPG In A Nasty Kingdom</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-20 19:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/bobbyprince.jpg" alt="Doom, Duke Nukem Composer And Overall MIDI Maestro Bobby Prince Dies At 81" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +283,6 @@
                 <span class="time">2026-06-20 01:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Slay-the-Spire-2-Shrug-It-Off-Official-Card-Artwork-Mega-Crit-1280x853.jpg" alt="Slay The Spire 2’s Gets Second Major Update And Fixes The Bug That Was Ruining Everyone’s Runs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/slay-the-spire-2s-gets-second-major-update-and-fixes-the-bug-that-was-ruining-everyones-runs-2000708516" target="_blank">Slay The Spire 2’s Gets Second Major Update And Fixes The Bug That Was Ruining Everyone’s Runs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-19 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 19:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 20:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
