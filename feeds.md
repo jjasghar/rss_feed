@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 17:28:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-20 18:25:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 17:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 18:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +164,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kevan_baptiste/how-i-built-a-real-time-bounty-marketplace-with-supabase-and-14-layer-security-at-the-edge-1i58" target="_blank">How I Built a Real-Time Bounty Marketplace with Supabase and 14-Layer Security at the Edge</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-20 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community" target="_blank">SMPTE Makes Its Standards Freely Accessible</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-20 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/niluved/my-homescreen-was-chaos-not-anymore-5a8m" target="_blank">My homescreen was chaos. Not anymore.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-20 16:22</span>
@@ -201,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/michaelfv/making-gbase-8c-auditing-work-traceable-retainable-and-queryable-202m" target="_blank">Making GBase 8c Auditing Work: Traceable, Retainable, and Queryable</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-20 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Drops-strncpy" target="_blank">Linux Finally Eliminates The strncpy API After Six Years Of Work, 360+ Patches</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-20 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/forge-billing-usage-platform/en/headerimage/generatedHeaderImage-1780198060365.jpg" alt="Inside Atlassian’s Forge Billing Architecture for Distributed Usage Tracking at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/forge-billing-usage-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Inside Atlassian’s Forge Billing Architecture for Distributed Usage Tracking at Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-20 14:21</span>
             </div>
         </div>
 </div>
@@ -313,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 17:28 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 39 | 📸 With Images: 247 |
+        🔄 Last Updated: 18:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
