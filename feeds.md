@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 13:30:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-20 14:43:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 13:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 14:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/hormuz-gty-jt-260620_1781965916186_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says Strait of Hormuz is closed as Vance says it remains open" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Iran says Strait of Hormuz is closed as Vance says it remains open</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-20 14:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b2/live/821b5d20-6c9e-11f1-9c69-eb6435da1435.jpg" alt="Israel and Hezbollah continue strikes despite ceasefire agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,21 +97,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-trump-meloni-g7_7277721.jpg?20260619131015" alt="Meloni and Trump trade barbs as row over &#x27;completely made up&#x27; claim she &#x27;begged&#x27; him for picture continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/20/what-the-us-iran-peace-deal-could-mean-for-irans-world-cup-campaign?traffic_source=rss" target="_blank">What the US-Iran peace deal could mean for Iran’s World Cup campaign</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-20 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire" target="_blank">Fighting persists in Lebanon despite a ceasefire as  U.S.-Iran deal is under threat</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-20 10:02</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-hits-back-at-meloni-after-she-said-he-completely-made-up-claim-she-begged-him-for-picture-13556090" target="_blank">Meloni and Trump trade barbs as row over &#x27;completely made up&#x27; claim she &#x27;begged&#x27; him for picture continues</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-20 11:55</span>
             </div>
         </div>
 </div>
@@ -171,6 +173,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/michaelfv/making-gbase-8c-auditing-work-traceable-retainable-and-queryable-202m" target="_blank">Making GBase 8c Auditing Work: Traceable, Retainable, and Queryable</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-20 14:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Drops-strncpy" target="_blank">Linux Finally Eliminates The strncpy API After Six Years Of Work, 360+ Patches</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-20 14:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/forge-billing-usage-platform/en/headerimage/generatedHeaderImage-1780198060365.jpg" alt="Inside Atlassian’s Forge Billing Architecture for Distributed Usage Tracking at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/forge-billing-usage-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Inside Atlassian’s Forge Billing Architecture for Distributed Usage Tracking at Scale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-20 14:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/akaranjkar08/spacex-ai1-orbital-data-center-1-gw-of-space-ai-compute-by-2027-developer-guide-2n86" target="_blank">SpaceX AI1 Orbital Data Center: 1 GW of Space AI Compute by 2027, Developer Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-20 12:20</span>
@@ -194,33 +223,6 @@
                 <span class="time">2026-06-20 11:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/apple-core-ai-wwdc/en/headerimage/jetbrains-rustrover-ide-1781953134950.jpeg" alt="Apple Launches Core AI for Apple-Silicon Optimized On-Device Generative AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/apple-core-ai-wwdc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apple Launches Core AI for Apple-Silicon Optimized On-Device Generative AI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-20 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cssquake.com/" target="_blank">CSSQuake</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-20 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Claude Fable 5 on Bedrock Requires Sharing Inference Data with Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Fable 5 on Bedrock Requires Sharing Inference Data with Anthropic</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-20 09:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Iron-Nest-Heavy-Turret-Simulator-official-artwork-from-Steam-store-page-Nick-Nieuwoudt-and-Dominik-Latos-1280x721.jpg" alt="Steam’s New Military Sim Has You Spend 30 Minutes Loading A Big Cannon And It’s Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/iron-nest-is-a-game-in-which-you-spend-30-minutes-loading-a-big-cannon-and-somehow-its-awesome-2000708523" target="_blank">Steam’s New Military Sim Has You Spend 30 Minutes Loading A Big Cannon And It’s Awesome</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-20 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/control-5-1280x720.jpg" alt="Control Resonant Hands-On: Giving One Of The Most Consistently Surprising Developers The Benefit Of The Doubt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +296,6 @@
                 <span class="time">2026-06-19 18:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/trump2026.jpg?fit=958%2C644&amp;quality=60&amp;ssl=1" alt="&quot;Donald Dump&quot; depicts Trump with sludge oozing out of his mouth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/19/donald-dump-depicts-trump-with-sludge-oozing-out-of-his-mouth.html" target="_blank">&quot;Donald Dump&quot; depicts Trump with sludge oozing out of his mouth</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-19 18:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,7 +334,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 13:30 UTC
+        🔄 Last Updated: 14:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
