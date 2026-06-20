@@ -1,28 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 21:26:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-20 22:23:03 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 21:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 22:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781992203971_now_brk_jd_vance_switzerland_260620_S3_1920x1080-hhmjcr.jpg" alt="Vice President JD Vance heads to Switzerland for Iran negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/vice-president-jd-vance-heads-to-switzerland-for-iran-negotiations-265423429601" target="_blank">Vice President JD Vance heads to Switzerland for Iran negotiations</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-20 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/df959320-6cb8-11f1-9fea-e751269afdb9.jpg" alt="Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss" target="_blank">Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-20 21:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/df959320-6cb8-11f1-9fea-e751269afdb9.jpg" alt="Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,24 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss" target="_blank">Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-20 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781979300478_now_brk_iran_strait_closure_260620_S3_1920x1080-jt3u32.jpg" alt="Iran closes Strait of Hormuz over ceasefire violations, state media reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/iran-closes-strait-of-hormuz-over-ceasefire-violations-state-media-reports-265420869526" target="_blank">Iran closes Strait of Hormuz over ceasefire violations, state media reports</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-20 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes?traffic_source=rss" target="_blank">Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-20 17:05</span>
             </div>
         </div>
 </div>
@@ -288,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 21:26 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 22:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
