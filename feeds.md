@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-20 00:27:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-20 01:38:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, June 20, 2026 - 00:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, June 20, 2026 - 01:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +167,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robcube/moving-codex-threads-to-a-new-mac-2n3i" target="_blank">Moving Codex Threads to a New Mac</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-20 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-NTFS-Improvements" target="_blank">New NTFS Driver Sees Hardening &amp; Fixes, Windows Native Symlinks With Linux 7.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-20 00:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/timevolt/cicd-pipelines-that-actually-work-from-why-is-this-broken-to-i-feel-like-neo-l2k" target="_blank">CI/CD Pipelines That Actually Work: From “Why Is This Broken?” to “I Feel Like Neo”</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-19 22:05</span>
@@ -194,24 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/systemd-261" target="_blank">systemd 261 Released With New systemd-sysinstall OS Installer, IMDSD &amp; Storagectl</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-19 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kupras06/the-shadcnui-experience-for-stylex-why-i-built-blenx-2pdn" target="_blank">The shadcn/ui Experience for StyleX: Why I Built Blenx</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-19 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/" target="_blank">Hyundai buys Boston Dynamics</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-19 16:28</span>
             </div>
         </div>
 </div>
@@ -342,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 245 |
-        🔄 Last Updated: 00:27 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 01:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
