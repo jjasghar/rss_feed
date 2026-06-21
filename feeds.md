@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-21 03:02:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-21 05:32:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, June 21, 2026 - 03:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, June 21, 2026 - 05:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c2/live/72006a90-6d05-11f1-8e1d-bbbb1017d210.jpg" alt="US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss" target="_blank">US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-21 04:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/21/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss" target="_blank">Which teams have qualified for the World Cup 2026 knockouts, round of 32?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-21 03:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/vice-president-jd-vance-heads-to-switzerland-for-iran-negotiations-265423429601" target="_blank">Vice President JD Vance heads to Switzerland for Iran negotiations</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-20 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/df959320-6cb8-11f1-9fea-e751269afdb9.jpg" alt="Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss" target="_blank">Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-20 21:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/df959320-6cb8-11f1-9fea-e751269afdb9.jpg" alt="Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss" target="_blank">Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-20 21:11</span>
             </div>
         </div>
 </div>
@@ -295,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 03:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 39 | 📸 With Images: 247 |
+        🔄 Last Updated: 05:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
