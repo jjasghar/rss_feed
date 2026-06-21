@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-21 07:31:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-21 09:11:05 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, June 21, 2026 - 07:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, June 21, 2026 - 09:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/21/nx-s1-5776814/improve-your-agility-explosive-power-exercises-prevent-injury" target="_blank">Want to improve your agility? Try these &#x27;explosive power&#x27; exercises</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-21 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c2/live/72006a90-6d05-11f1-8e1d-bbbb1017d210.jpg" alt="US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/20/amiri-injury-time-goal-sees-germany-beat-ivory-coast-to-top-world-cup-group?traffic_source=rss" target="_blank">Undav injury-time goal sees Germany beat Ivory Coast to top World Cup group</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-20 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1781992203971_now_brk_jd_vance_switzerland_260620_S3_1920x1080-hhmjcr.jpg" alt="Vice President JD Vance heads to Switzerland for Iran negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/vice-president-jd-vance-heads-to-switzerland-for-iran-negotiations-265423429601" target="_blank">Vice President JD Vance heads to Switzerland for Iran negotiations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-20 21:50</span>
             </div>
         </div>
 </div>
@@ -171,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/" target="_blank">Google Hits 50% IPv6</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-21 08:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gabrielmahia/build-rails-not-trains-a-framework-for-ai-infrastructure-in-the-global-south-3nk2" target="_blank">Build Rails, Not Trains: A Framework for AI Infrastructure in the Global South</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,15 +218,6 @@
                 <span class="title"><a href="https://notes.lorenzogravina.com/musings/pre-2022-books" target="_blank">Pre-2022 Books</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-20 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/" target="_blank">UK Home Office launches £75M &#x27;PoliceAI&#x27; to capitalise on artificial intelligence</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-20 20:41</span>
             </div>
         </div>
 </div>
@@ -300,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 07:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 09:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
