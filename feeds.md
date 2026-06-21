@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-21 20:28:01 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-21 21:26:06 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, June 21, 2026 - 20:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, June 21, 2026 - 21:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/vance-main_1782041275871_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says military&#x27;s &#x27;ready to respond&#x27; amid Trump threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Iran says military&#x27;s &#x27;ready to respond&#x27; amid Trump threats</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-21 20:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss" target="_blank">Ethiopian prime minister’s party easily wins parliamentary election</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-21 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e35/live/5efea8c0-6d8d-11f1-bb4a-cbaa8225a98f.png" alt="Starmer considers political future as pressure to quit mounts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn8k1my75gno?at_medium=RSS&at_campaign=rss" target="_blank">Starmer considers political future as pressure to quit mounts</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-21 16:56</span>
             </div>
         </div>
 </div>
@@ -164,6 +162,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mqasimca/one-calendar-api-for-google-microsoft-and-beyond-nylas-calendar-46kk" target="_blank">One calendar API for Google, Microsoft, and beyond: Nylas Calendar</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-21 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/zlib-rs-0.6.4" target="_blank">zlib-rs 0.6.4 Released With Fix For Intel Raptor Lake Crash, SIMD Optimizations</a></span>
                 <span class="feed">Phoronix</span>
@@ -206,15 +213,6 @@
                 <span class="time">2026-06-21 16:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://norvig.com/lispy.html" target="_blank">(How to Write a (Lisp) Interpreter (In Python))</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-21 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -247,24 +245,6 @@
                 <span class="time">2026-06-21 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Internxt-Cloud-Storage-Lifetime-Subscription.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get 10TB of cloud storage for life for $270 during Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/20/get-10tb-of-cloud-storage-for-life-for-270-during-deal-days.html" target="_blank">Get 10TB of cloud storage for life for $270 during Deal Days</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-20 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/richardgariott.jpg" alt="Richard Garriott Wants To Take Ultima Back From EA Using Obscure Legal Quirks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/richard-garriott-wants-to-take-ultima-back-from-ea-using-some-legal-quirks-2000708685" target="_blank">Richard Garriott Wants To Take Ultima Back From EA Using Obscure Legal Quirks</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-20 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -284,8 +264,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 38 | 📸 With Images: 239 |
-        🔄 Last Updated: 20:28 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 65 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 21:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
