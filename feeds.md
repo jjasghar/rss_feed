@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-21 00:28:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-21 01:46:11 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, June 21, 2026 - 00:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, June 21, 2026 - 01:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -120,6 +123,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data" target="_blank">The Atlantic created a searchable database of the music used to train AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-20 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/" target="_blank">Nobel laureate John Jumper is leaving DeepMind for rival Anthropic</a></span>
                 <span class="feed">TechCrunch</span>
@@ -144,15 +156,6 @@
                 <span class="time">2026-06-20 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2234043771-500x500.jpg" alt="The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/" target="_blank">The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-20 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,9 +165,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gabrielmahia/build-rails-not-trains-a-framework-for-ai-infrastructure-in-the-global-south-3nk2" target="_blank">Build Rails, Not Trains: A Framework for AI Infrastructure in the Global South</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-21 01:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/stardustofficial/introducing-stardust-api-engine-4h1k" target="_blank">Introducing Stardust API Engine</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-21 00:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland" target="_blank">Renting a sewing machine from the library</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-20 22:54</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/jakub_inithouse/how-to-create-custom-pet-merchandise-designs-using-ai-4hoo" target="_blank">How to Create Custom Pet Merchandise Designs Using AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-20 20:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Juneteenth: 1865 — Sail. Decode. Reunite." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nitin_8d767ad88637719caf8/juneteenth-1865-sail-decode-reunite-159h" target="_blank">Juneteenth: 1865 — Sail. Decode. Reunite.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-20 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kevan_baptiste/how-i-built-a-real-time-bounty-marketplace-with-supabase-and-14-layer-security-at-the-edge-1i58" target="_blank">How I Built a Real-Time Bounty Marketplace with Supabase and 14-Layer Security at the Edge</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-20 18:21</span>
             </div>
         </div>
 </div>
@@ -290,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 38 | 📸 With Images: 246 |
-        🔄 Last Updated: 00:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 01:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
