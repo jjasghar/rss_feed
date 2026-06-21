@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-21 12:33:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-21 13:31:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, June 21, 2026 - 12:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, June 21, 2026 - 13:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -69,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ad/live/9accdfa0-6d5d-11f1-b1db-af71d47507d6.png" alt="Signs grow that Starmer will resign as government mood shifts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&at_campaign=rss" target="_blank">Signs grow that Starmer will resign as government mood shifts</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-21 10:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -93,15 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/21/nx-s1-5776814/improve-your-agility-explosive-power-exercises-prevent-injury" target="_blank">Want to improve your agility? Try these &#x27;explosive power&#x27; exercises</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-21 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa" target="_blank">Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-21 08:00</span>
             </div>
         </div>
 </div>
@@ -171,6 +171,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/xulingfeng/15-ai-stories-later-some-honest-words-o9j" target="_blank">15 AI Stories Later, Some Honest Words</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-21 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.2-X11-Present-Timing" target="_blank">Mesa 26.2 Merges Vulkan Present Timing Support For X11/XWayland</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-21 12:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.beyondallreason.info" target="_blank">Beyond All Reason (Free Total Annihilation Inspired RTS)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-21 11:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://alexkritchevsky.com/2024/02/28/geometric-algebra.html" target="_blank">The case against geometric algebra (2024)</a></span>
                 <span class="feed">Hacker News</span>
@@ -193,33 +220,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17364710/firefox-additional-features" target="_blank">Firefox Can Do All This? 21 Features Most Users Never Touch</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-06-21 08:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gabrielmahia/build-rails-not-trains-a-framework-for-ai-infrastructure-in-the-global-south-3nk2" target="_blank">Build Rails, Not Trains: A Framework for AI Infrastructure in the Global South</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-21 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/VMware-Zero-Copy-Sharing-Linux" target="_blank">Broadcom Working On VMware Zero-Copy Buffer Sharing Between VMs And Hypervisor</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-21 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stardustofficial/introducing-stardust-api-engine-4h1k" target="_blank">Introducing Stardust API Engine</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-21 00:21</span>
             </div>
         </div>
 </div>
@@ -300,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 63 | 📡 Total Sources: 38 | 📸 With Images: 243 |
-        🔄 Last Updated: 12:34 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 13:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
