@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-21 22:23:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-21 23:26:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, June 21, 2026 - 22:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, June 21, 2026 - 23:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss" target="_blank">Belgium see red in goalless World Cup draw with Iran in Los Angeles</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-21 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike" target="_blank">Leading Lebanese conservationist dies after Israeli airstrike on her home</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-21 21:37</span>
             </div>
         </div>
 <div class="story">
@@ -89,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss" target="_blank">What’s next in the Strait of Hormuz crisis?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-21 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance" target="_blank">Trump threatens to &#x27;hit Iran very hard again&#x27; while Vance in Switzerland for talks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-21 17:29</span>
             </div>
         </div>
 </div>
@@ -168,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gavinsykes/taming-error-handling-in-laravel-with-custom-exceptions-54ag" target="_blank">Taming Error Handling in Laravel with Custom Exceptions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-21 23:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-408k" target="_blank">Three post-deploy checks I run after every Cloudflare Pages build</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-21 22:15</span>
@@ -207,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/georgpiwonka/turings-last-cipher-decrypt-a-message-no-one-ever-actually-wrote-506a" target="_blank">Turing&#x27;s Last Cipher — decrypt a message no one ever actually wrote</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-21 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/anthropic-claude-analytics/en/headerimage/generatedHeaderImage-1781542483302.jpg" alt="Anthropic Reports Claude Now Handles 95% of Internal Analytics Queries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/anthropic-claude-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Reports Claude Now Handles 95% of Internal Analytics Queries</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-21 16:47</span>
             </div>
         </div>
 </div>
@@ -278,8 +278,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 67 | 📡 Total Sources: 39 | 📸 With Images: 239 |
-        🔄 Last Updated: 22:23 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 23:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
