@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-21 14:43:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-21 15:32:14 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, June 21, 2026 - 14:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, June 21, 2026 - 15:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/21/mbappe-france-play-iraq-in-world-cup-match-prediction-team-news-lineups?traffic_source=rss" target="_blank">Mbappe, France play Iraq in World Cup match: prediction, team news, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-21 15:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782054405413_now_brk_vance_iran_talks_260621_S3_1920x1080-sbipzh.jpg" alt="Trump threatens Iran over Hezbollah-Israel conflict as Vance meets delegations in Switzerland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-threatens-iran-over-hezbollah-israel-conflict-as-vance-meets-delegations-in-switzerland-265438277790" target="_blank">Trump threatens Iran over Hezbollah-Israel conflict as Vance meets delegations in Switzerland</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-21 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef0/live/249591b0-6d71-11f1-a2ba-775ae811ce10.jpg" alt="US and Iran begin talks on initial peace deal in Switzerland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran begin talks on initial peace deal in Switzerland</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-21 14:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,33 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/21/g-s1-129200/ukrainian-attacks-russia-crimea-halt-gas-sales" target="_blank">Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-21 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/21/henry-stars-as-new-zealand-wrap-up-victory-against-england-in-second-test?traffic_source=rss" target="_blank">Henry stars as New Zealand wrap up victory against England in second Test</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-21 12:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/vance-main_1782041275871_hpMain_4x3t_384.jpg" alt="Iran live updates: Delegations arrive as US-Iran talks to begin in Switzerland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Delegations arrive as US-Iran talks to begin in Switzerland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-21 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ad/live/9accdfa0-6d5d-11f1-b1db-af71d47507d6.png" alt="Signs grow that Starmer will resign as government mood shifts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&at_campaign=rss" target="_blank">Signs grow that Starmer will resign as government mood shifts</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-21 10:57</span>
             </div>
         </div>
 </div>
@@ -270,36 +270,13 @@
                 <span class="time">2026-06-20 16:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/FastestVPN-PRO.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Deal Days has a 15-device VPN for less than $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/20/deal-days-has-a-15-device-vpn-for-less-than-30.html" target="_blank">Deal Days has a 15-device VPN for less than $30</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-20 15:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1781743829-20260620.png" alt="Saturday Morning Breakfast Cereal - UBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/ubi" target="_blank">Saturday Morning Breakfast Cereal - UBI</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-20 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 14:43 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 64 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 15:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
