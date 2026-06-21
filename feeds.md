@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-21 11:00:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-21 12:33:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, June 21, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, June 21, 2026 - 12:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/21/henry-stars-as-new-zealand-wrap-up-victory-against-england-in-second-test?traffic_source=rss" target="_blank">Henry stars as New Zealand wrap up victory against England in second Test</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-21 12:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/vance-main_1782041275871_hpMain_4x3t_384.jpg" alt="Iran live updates: Delegations arrive as US-Iran talks to begin in Switzerland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Delegations arrive as US-Iran talks to begin in Switzerland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-21 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/21/g-s1-128889/a-new-survey-on-dads-found-that-9-out-of-10-had-a-surprising-reaction-to-fatherhood" target="_blank">A new survey on dads found that 9 out of 10 had a surprising reaction to fatherhood</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-21 10:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +104,29 @@
                 <span class="time">2026-06-21 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c2/live/72006a90-6d05-11f1-8e1d-bbbb1017d210.jpg" alt="US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss" target="_blank">US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-21 04:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/21/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss" target="_blank">Which teams have qualified for the World Cup 2026 knockouts, round of 32?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-21 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/21/aje-onl-nf_suspect-arrested-anti-muslim-stabbing-in-scotland-200626?traffic_source=rss" target="_blank">Suspect arrested after anti-Muslim stabbing rampage in Scotland</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-21 02:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history" target="_blank">How Roomba started a robot revolution</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-21 12:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a35ab3c6859e0a25fd52f9d/master/pass/Wooting-60HE-v2-.jpg" alt="Wooting 60HE v2: Peak Keyboard Perfection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/review-wooting-60he-v2/" target="_blank">Wooting 60HE v2: Peak Keyboard Perfection</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-21 11:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a17d5a46c30c214d6076c82/master/pass/Best%20NAS%20Storage%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="The Best NAS Devices for Your Home After Months of Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +163,20 @@
                 <span class="time">2026-06-20 19:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data" target="_blank">The Atlantic created a searchable database of the music used to train AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-20 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/" target="_blank">Nobel laureate John Jumper is leaving DeepMind for rival Anthropic</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-20 16:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://alexkritchevsky.com/2024/02/28/geometric-algebra.html" target="_blank">The case against geometric algebra (2024)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-21 11:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/stardustofficial/introducing-stardust-api-engine-4h1k" target="_blank">Introducing Stardust API Engine</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-21 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland" target="_blank">Renting a sewing machine from the library</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-20 22:54</span>
             </div>
         </div>
 </div>
@@ -294,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 38 | 📸 With Images: 245 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 63 | 📡 Total Sources: 38 | 📸 With Images: 243 |
+        🔄 Last Updated: 12:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
