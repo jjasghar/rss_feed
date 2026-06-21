@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-21 18:26:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-21 19:29:18 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, June 21, 2026 - 18:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, June 21, 2026 - 19:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +110,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company" target="_blank">Bose thinks it can be a media company for some reason</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-21 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/" target="_blank">Ubisoft co-founder Claude Guillemot dies in plane crash</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-21 18:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/coal-ash-500x500.jpg" alt="Trump admin’s coal investments assist plants with repeated violations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/" target="_blank">Trump admin’s coal investments assist plants with repeated violations</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-21 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review" target="_blank">Cold Court’s debut EP is an infectious, glitchy genre mashup</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-21 17:00</span>
@@ -132,33 +160,6 @@
                 <span class="time">2026-06-21 16:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/" target="_blank">Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-21 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets" target="_blank">That viral clip you saw of someone winning big on Polymarket was probably fake</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-21 14:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history" target="_blank">How Roomba started a robot revolution</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-21 12:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +172,15 @@
                 <span class="title"><a href="https://dev.to/georgpiwonka/turings-last-cipher-decrypt-a-message-no-one-ever-actually-wrote-506a" target="_blank">Turing&#x27;s Last Cipher — decrypt a message no one ever actually wrote</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-21 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/anthropic-claude-analytics/en/headerimage/generatedHeaderImage-1781542483302.jpg" alt="Anthropic Reports Claude Now Handles 95% of Internal Analytics Queries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/anthropic-claude-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Reports Claude Now Handles 95% of Internal Analytics Queries</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-21 16:47</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/hostpayout/why-i-built-a-csv-first-rental-profit-tracker-no-plaid-no-bank-login-3eo6" target="_blank">Why I built a CSV-first rental profit tracker — no Plaid, no bank login</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-21 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/xulingfeng/15-ai-stories-later-some-honest-words-o9j" target="_blank">15 AI Stories Later, Some Honest Words</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-21 13:21</span>
             </div>
         </div>
 </div>
@@ -287,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 240 |
-        🔄 Last Updated: 18:27 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 19:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
