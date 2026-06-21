@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-21 19:29:18 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-21 20:28:01 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, June 21, 2026 - 19:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, June 21, 2026 - 20:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/21/remembering-al-jazeera-cameraman-ahmed-wishahs-lifes-work?traffic_source=rss" target="_blank">Remembering Al Jazeera cameraman Ahmed Wishah’s life’s work</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-21 20:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f72/live/318a4fb0-6da7-11f1-ad73-af954e6a3145.jpg" alt="Trump and Iran&#x27;s negotiator trade warnings as talks held in Switzerland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Iran&#x27;s negotiator trade warnings as talks held in Switzerland</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-21 19:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn8k1my75gno?at_medium=RSS&at_campaign=rss" target="_blank">Starmer considers political future as pressure to quit mounts</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-21 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss" target="_blank">Syria frees activist Hassan Akkad days after he was detained</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-21 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/vance-main_1782038124416_hpMain_4x3t_384.jpg" alt="Obama security adviser blasts Iran agreement: &#x27;So many concessions were granted&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/obama-national-security-adviser-rice-blasts-flimsy-iran/story?id=134071159" target="_blank">Obama security adviser blasts Iran agreement: &#x27;So many concessions were granted&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-21 15:32</span>
             </div>
         </div>
 </div>
@@ -168,6 +164,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/zlib-rs-0.6.4" target="_blank">zlib-rs 0.6.4 Released With Fix For Intel Raptor Lake Crash, SIMD Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-21 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://hawksley.dev/blog/json-ld-explained-for-personal-websites/" target="_blank">JSON-LD Explained for Personal Websites</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-21 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/georgpiwonka/turings-last-cipher-decrypt-a-message-no-one-ever-actually-wrote-506a" target="_blank">Turing&#x27;s Last Cipher — decrypt a message no one ever actually wrote</a></span>
                 <span class="feed">DEV Community</span>
@@ -201,29 +215,20 @@
                 <span class="time">2026-06-21 15:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/HP-EliteBook-X-G2q-Linux" target="_blank">Qualcomm Posts Linux Patches For HP EliteBook X G2q X2 Elite Laptop</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-21 14:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hostpayout/why-i-built-a-csv-first-rental-profit-tracker-no-plaid-no-bank-login-3eo6" target="_blank">Why I built a CSV-first rental profit tracker — no Plaid, no bank login</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-21 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/origxbox.jpg" alt="Founding Xbox Member Says Her Early Skepticisms Are Coming True 25 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/founding-xbox-member-says-her-early-skepticisms-are-coming-true-25-years-later-2000708811" target="_blank">Founding Xbox Member Says Her Early Skepticisms Are Coming True 25 Years Later</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-21 20:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Office-2024-Home-Business-The-Premium-Microsoft-Office-Training-Certification-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get MS Office 2024 and a Premium Training Course for $106 during Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,15 +265,6 @@
                 <span class="time">2026-06-20 20:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/entropy.jpg" alt="Entropy Is An Upcoming Vagrant Story Inspired RPG In A Nasty Kingdom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/entropy-is-an-upcoming-vagrant-story-inspired-rpg-in-a-nasty-kingdom-2000708680" target="_blank">Entropy Is An Upcoming Vagrant Story Inspired RPG In A Nasty Kingdom</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-20 19:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -288,8 +284,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 19:29 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 38 | 📸 With Images: 239 |
+        🔄 Last Updated: 20:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
