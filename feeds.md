@@ -1,34 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-06-22 11:59:37 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-06-22 14:06:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, June 22, 2026 - 11:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, June 22, 2026 - 14:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/vance-1-rt-gmh-260622_1782135132715_hpMain_4x3t_384.jpg" alt="Iran live updates: US and Iran agree to roadmap for &#x27;final deal&#x27; within 60 days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780" target="_blank">Iran live updates: US and Iran agree to roadmap for &#x27;final deal&#x27; within 60 days</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-22 14:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +89,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/british-prime-minister-keir-starmer-announces-resignation-265457221769" target="_blank">British Prime Minister Keir Starmer announces resignation</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-22 08:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-ras-laffan-qatar-gas_7279764.jpg?20260622084518" alt="Explosion leaves 18 missing and dozens injured at key gas facility in Qatar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/explosion-leaves-18-missing-and-dozens-injured-at-key-gas-facility-in-qatar-13556606" target="_blank">Explosion leaves 18 missing and dozens injured at key gas facility in Qatar</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-22 07:44</span>
             </div>
         </div>
 </div>
@@ -165,6 +158,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17365312/astra-music-player" target="_blank">Astra: For All Your High Fidelity Music Needs and Absolute Control</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-22 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mryesiller/diff-checker-a-small-tool-that-solves-a-specific-problem-766" target="_blank">Diff Checker: a small tool that solves a specific problem</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +209,6 @@
                 <span class="time">2026-06-22 00:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gavinsykes/taming-error-handling-in-laravel-with-custom-exceptions-54ag" target="_blank">Taming Error Handling in Laravel with Custom Exceptions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-21 23:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +228,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTVXQMWN24THYK6TK5NZ1SK2/hero-image.png" alt="This Woot Deal Is the Cheapest Way to Get the Nintendo Switch 2 Before Prices Go Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/nintendo-switch-2-woot-deal-early-prime-day-2026?utm_medium=RSS" target="_blank">This Woot Deal Is the Cheapest Way to Get the Nintendo Switch 2 Before Prices Go Up</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-22 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/warfram-destiny-1280x720.jpg" alt="Warframe Developers Express Their Heartbreak Over The End Of Destiny 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +273,6 @@
                 <span class="time">2026-06-21 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/1000008368-1-1280x720.jpg" alt="I Am Looking For My Father In Blue Prince’s Spiral Of Stars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/i-am-looking-for-my-father-in-blue-princes-spiral-of-stars-2000708221" target="_blank">I Am Looking For My Father In Blue Prince’s Spiral Of Stars</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-21 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 71 | 📡 Total Sources: 39 | 📸 With Images: 240 |
-        🔄 Last Updated: 11:59 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 240 |
+        🔄 Last Updated: 14:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
