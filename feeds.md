@@ -1,27 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-22 14:06:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-22 16:31:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 18 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, June 22, 2026 - 14:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, June 22, 2026 - 16:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/22/aje-onl-aje_onl_lebanon_wrap-220626?traffic_source=rss" target="_blank">Lebanon Latest: Israeli attacks surge despite ceasefire efforts</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-22 16:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1535/live/013ede30-6e37-11f1-8e1d-bbbb1017d210.jpg" alt="Vance says Iran will allow nuclear inspectors back into the country" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss" target="_blank">Vance says Iran will allow nuclear inspectors back into the country</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-22 14:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a725/live/f1e30ea0-6e29-11f1-9fdc-51e252bb92b4.jpg" alt="Why did Keir Starmer resign and what could happen next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&at_campaign=rss" target="_blank">Why did Keir Starmer resign and what could happen next?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-22 14:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/vance-1-rt-gmh-260622_1782135132715_hpMain_4x3t_384.jpg" alt="Iran live updates: US and Iran agree to roadmap for &#x27;final deal&#x27; within 60 days" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,33 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/International/uk-prime-minister-keir-starmer-resign/story?id=134087581" target="_blank">UK Prime Minister Keir Starmer announces resignation with &#x27;good grace&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-22 09:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f61/live/6a68ce80-6e18-11f1-b1db-af71d47507d6.jpg" alt="Keir Starmer announces his resignation as prime minister and Labour Party leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxd00lg599o?at_medium=RSS&at_campaign=rss" target="_blank">Keir Starmer announces his resignation as prime minister and Labour Party leader</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-22 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns" target="_blank">Keir Starmer announces resignation as UK prime minister</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-22 09:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/starmer_resigns-62x2ae.jpg" alt="British Prime Minister Keir Starmer announces resignation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/british-prime-minister-keir-starmer-announces-resignation-265457221769" target="_blank">British Prime Minister Keir Starmer announces resignation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-22 08:52</span>
             </div>
         </div>
 </div>
@@ -156,12 +164,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/presentations/mobile-user-tracking-service/en/mediumimage/alina-krasavina-medium-1781688348523.jpg" alt="Presentation: Challenging Google Analytics: Building a Scalable, Cost-Effective User Tracking Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/mobile-user-tracking-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Challenging Google Analytics: Building a Scalable, Cost-Effective User Tracking Service</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-22 15:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17365312/astra-music-player" target="_blank">Astra: For All Your High Fidelity Music Needs and Absolute Control</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-06-22 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-summit-26-04-connected-by-open-source" target="_blank">Ubuntu Summit 26.04: connected by open source</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-22 10:04</span>
             </div>
         </div>
 <div class="story">
@@ -191,24 +217,6 @@
                 <span class="time">2026-06-22 02:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cybermeshsec/the-asymmetric-fallacy-why-the-claude-fable-ban-hurts-cloud-defenders-gan" target="_blank">The Asymmetric Fallacy: Why the Claude Fable Ban Hurts Cloud Defenders</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-22 01:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Early-GCN-Better-Recovery" target="_blank">Early AMD GCN GPUs Seeing Improved GPU Recovery - Another Valve-Led Linux Improvement</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-22 00:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/EA-logored-1280x720.jpg" alt="EA Lays Off Unknown Number Of People Ahead Of Expected $55 Billion Sale To Saudi Arabia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ea-layoffs-fan-care-recruitment-hyderabad-2000708971" target="_blank">EA Lays Off Unknown Number Of People Ahead Of Expected $55 Billion Sale To Saudi Arabia</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-22 15:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KTVXQMWN24THYK6TK5NZ1SK2/hero-image.png" alt="This Woot Deal Is the Cheapest Way to Get the Nintendo Switch 2 Before Prices Go Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,20 +281,20 @@
                 <span class="time">2026-06-21 20:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Office-2024-Home-Business-The-Premium-Microsoft-Office-Training-Certification-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get MS Office 2024 and a Premium Training Course for $106 during Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/21/get-ms-office-2024-and-a-premium-training-course-for-106-during-deal-days.html" target="_blank">Get MS Office 2024 and a Premium Training Course for $106 during Deal Days</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-21 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1782076832-20260622-edit.png" alt="Saturday Morning Breakfast Cereal - She" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/she" target="_blank">Saturday Morning Breakfast Cereal - She</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-22 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -287,22 +304,13 @@
                 <span class="time">2026-06-22 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1781743897-20260621.png" alt="Saturday Morning Breakfast Cereal - Ginge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/ginge" target="_blank">Saturday Morning Breakfast Cereal - Ginge</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-21 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 240 |
-        🔄 Last Updated: 14:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 61 | 📡 Total Sources: 39 | 📸 With Images: 240 |
+        🔄 Last Updated: 16:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
