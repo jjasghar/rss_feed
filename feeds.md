@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-22 21:40:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-22 22:30:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, June 22, 2026 - 21:40 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, June 22, 2026 - 22:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5b4/live/a689e410-6e5b-11f1-8e1d-bbbb1017d210.jpg" alt="Starmer quits as Labour leader and paves way for contest for new prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxd00lg599o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer quits as Labour leader and paves way for contest for new prime minister</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-22 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/22/egypt-denied-flight-to-seattle-ahead-of-final-world-cup-group-match?traffic_source=rss" target="_blank">Egypt denied flight to Seattle ahead of final World Cup group match</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-22 22:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Business/gas-3-abc-gmh-260622_1782152347640_hpMain_4x3t_384.jpg" alt="How far will gas prices fall? Experts explain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +100,29 @@
                 <span class="time">2026-06-22 18:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782154034925_now_daily_b_wiebe_messi_record_260622_S3_1920x1080-6v629g.jpg" alt="Lionel Messi breaks record for most career World Cup goals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/lionel-messi-breaks-record-for-most-career-world-cup-goals-265486405709" target="_blank">Lionel Messi breaks record for most career World Cup goals</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-22 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/22/qatars-pm-tells-al-jazeera-progress-made-in-us-iran-talks?traffic_source=rss" target="_blank">Qatar’s PM tells Al Jazeera progress made in US-Iran talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-22 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3958bcdf5a1d50d09fc7ed/master/pass/GettyImages-2275575477.jpg" alt="A Source of Mysterious Repeating Radio Signals From Space Has Been Identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/" target="_blank">A Source of Mysterious Repeating Radio Signals From Space Has Been Identified</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-22 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-factory-zero-500x500.jpg" alt="GM installs robots at flagship EV factory after laying off 1,300 workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/" target="_blank">GM installs robots at flagship EV factory after laying off 1,300 workers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-22 21:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/08/Artemis-I-Aug-19-2022-9057-500x500.jpg" alt="Report: Kennedy Space Center not ready for era of super heavy rockets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,36 +145,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings" target="_blank">AI is cursing renters with the promise of impossible homes</a></span>
+                <span class="title"><a href="https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis" target="_blank">Valve describes just how brutal RAM negotiations are in 2026</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2026-06-22 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-500x500-1753386908.jpg" alt="Following user outcry, AMD reinstates memory encryption in consumer CPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/" target="_blank">Following user outcry, AMD reinstates memory encryption in consumer CPUs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-22 19:16</span>
+                <span class="time">2026-06-22 21:07</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale" target="_blank">The Apple Watch SE 3 is just $199 for Prime Day</a></span>
+                <span class="title"><a href="https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings" target="_blank">AI is cursing renters with the promise of impossible homes</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2026-06-22 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-The-Office-of-Constable-Terry-Allbritton-on-Facebook-500x500.jpg" alt="Doorbell cam filmed Tesla Autopilot crash that killed woman in her home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/" target="_blank">Doorbell cam filmed Tesla Autopilot crash that killed woman in her home</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-22 17:10</span>
+                <span class="time">2026-06-22 20:00</span>
             </div>
         </div>
 </div>
@@ -255,6 +256,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Transfr-Pro-Fast-Secure-File-Transfer-Subscriptions.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Send giant files and see who opened them with a lifetime subscription to this $100 tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/22/send-giant-files-and-see-who-opened-them-with-a-lifetime-subscription-to-this-100-tool.html" target="_blank">Send giant files and see who opened them with a lifetime subscription to this $100 tool</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-22 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_530761315.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="California&#x27;s vanished sunflower sea stars are not totally vanished" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -279,15 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/22/post-great-moon-hoax.html" target="_blank">In 1835 a New York paper put bat-men and unicorns on the moon</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-22 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/EA-logored-1280x720.jpg" alt="EA Lays Off Unknown Number Of People Ahead Of Expected $55 Billion Sale To Saudi Arabia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ea-layoffs-fan-care-recruitment-hyderabad-2000708971" target="_blank">EA Lays Off Unknown Number Of People Ahead Of Expected $55 Billion Sale To Saudi Arabia</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-22 15:59</span>
             </div>
         </div>
 </div>
@@ -318,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 65 | 📡 Total Sources: 39 | 📸 With Images: 243 |
-        🔄 Last Updated: 21:40 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 22:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
