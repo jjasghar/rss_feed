@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-22 00:29:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-22 01:46:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, June 22, 2026 - 00:29 UTC</div>
+    <div class="newspaper-date">Monday, June 22, 2026 - 01:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -161,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cybermeshsec/the-asymmetric-fallacy-why-the-claude-fable-ban-hurts-cloud-defenders-gan" target="_blank">The Asymmetric Fallacy: Why the Claude Fable Ban Hurts Cloud Defenders</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-22 01:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gavinsykes/taming-error-handling-in-laravel-with-custom-exceptions-54ag" target="_blank">Taming Error Handling in Laravel with Custom Exceptions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-21 23:16</span>
@@ -200,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/zlib-rs-0.6.4" target="_blank">zlib-rs 0.6.4 Released With Fix For Intel Raptor Lake Crash, SIMD Optimizations</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-21 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://hawksley.dev/blog/json-ld-explained-for-personal-websites/" target="_blank">JSON-LD Explained for Personal Websites</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-21 18:51</span>
             </div>
         </div>
 </div>
@@ -271,8 +274,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 67 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 00:29 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 237 |
+        🔄 Last Updated: 01:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
