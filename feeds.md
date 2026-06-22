@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-22 01:46:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-22 03:02:15 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, June 22, 2026 - 01:46 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, June 22, 2026 - 03:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/22/colombias-de-la-espriella-claims-victory-on-preliminary-results?traffic_source=rss" target="_blank">Colombia’s De La Espriella claims victory on preliminary results</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-22 02:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/21/nx-s1-5865676/delaespriella-colombia-election" target="_blank">Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-22 02:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f72/live/318a4fb0-6da7-11f1-ad73-af954e6a3145.jpg" alt="First round of direct US-Iran talks since deal expected to continue through the night" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +94,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Iran says military&#x27;s &#x27;ready to respond&#x27; amid Trump threats</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-21 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/21/remembering-al-jazeera-cameraman-ahmed-wishahs-lifes-work?traffic_source=rss" target="_blank">Remembering Al Jazeera cameraman Ahmed Wishah’s life’s work</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-21 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f72/live/318a4fb0-6da7-11f1-ad73-af954e6a3145.jpg" alt="Trump and Iran&#x27;s negotiator trade warnings as talks held in Switzerland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Iran&#x27;s negotiator trade warnings as talks held in Switzerland</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-21 19:33</span>
             </div>
         </div>
 </div>
@@ -161,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff1ed70bchf8znu0t20bv.png" alt="What is Monorepo ?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abhinav-writes/what-is-monorepo--31dd" target="_blank">What is Monorepo ?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-22 02:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/mqasimca/one-calendar-api-for-google-microsoft-and-beyond-nylas-calendar-46kk" target="_blank">One calendar API for Google, Microsoft, and beyond: Nylas Calendar</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-21 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/zlib-rs-0.6.4" target="_blank">zlib-rs 0.6.4 Released With Fix For Intel Raptor Lake Crash, SIMD Optimizations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-21 19:33</span>
             </div>
         </div>
 </div>
@@ -274,8 +274,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 237 |
-        🔄 Last Updated: 01:46 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 67 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 03:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
