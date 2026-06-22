@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-22 03:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-22 05:44:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, June 22, 2026 - 03:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, June 22, 2026 - 05:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/22/encouraging-progress-made-as-first-round-us-iran-talks-end?traffic_source=rss" target="_blank">‘Encouraging progress’ made as first round US-Iran talks end</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-22 04:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/068d/live/1ae9c670-6de6-11f1-80ec-79912f81f3b2.jpg" alt="First round of US-Iran talks ends with &#x27;encouraging progress&#x27;, mediators say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss" target="_blank">First round of US-Iran talks ends with &#x27;encouraging progress&#x27;, mediators say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-22 04:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/22/colombias-de-la-espriella-claims-victory-on-preliminary-results?traffic_source=rss" target="_blank">Colombia’s De La Espriella claims victory on preliminary results</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-22 02:45</span>
@@ -61,39 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1987/live/1f852280-6dd0-11f1-8e1d-bbbb1017d210.jpg" alt="Chris Mason: All eyes on Downing Street - what does the PM say, and when?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c39yd12zed9o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: All eyes on Downing Street - what does the PM say, and when?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-22 01:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f72/live/318a4fb0-6da7-11f1-ad73-af954e6a3145.jpg" alt="First round of direct US-Iran talks since deal expected to continue through the night" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss" target="_blank">First round of direct US-Iran talks since deal expected to continue through the night</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-21 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss" target="_blank">Belgium see red in goalless World Cup draw with Iran in Los Angeles</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-21 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike" target="_blank">Leading Lebanese conservationist dies after Israeli airstrike on her home</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-21 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/vance-main_1782041275871_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says military&#x27;s &#x27;ready to respond&#x27; amid Trump threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" target="_blank">Iran live updates: Iran says military&#x27;s &#x27;ready to respond&#x27; amid Trump threats</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-21 20:43</span>
             </div>
         </div>
 </div>
@@ -181,6 +184,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Early-GCN-Better-Recovery" target="_blank">Early AMD GCN GPUs Seeing Improved GPU Recovery - Another Valve-Led Linux Improvement</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-22 00:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gavinsykes/taming-error-handling-in-laravel-with-custom-exceptions-54ag" target="_blank">Taming Error Handling in Laravel with Custom Exceptions</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,15 +215,6 @@
                 <span class="title"><a href="https://apertvs.ai/" target="_blank">Apertus – Open Foundation Model for Sovereign AI</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-21 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mqasimca/one-calendar-api-for-google-microsoft-and-beyond-nylas-calendar-46kk" target="_blank">One calendar API for Google, Microsoft, and beyond: Nylas Calendar</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-21 21:21</span>
             </div>
         </div>
 </div>
@@ -274,8 +277,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 67 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 03:02 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 237 |
+        🔄 Last Updated: 05:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
