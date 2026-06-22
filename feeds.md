@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-22 20:00:29 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-22 21:40:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, June 22, 2026 - 20:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, June 22, 2026 - 21:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/gas-3-abc-gmh-260622_1782152347640_hpMain_4x3t_384.jpg" alt="How far will gas prices fall? Experts explain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/gas-prices-falling-experts-weigh/story?id=134093047" target="_blank">How far will gas prices fall? Experts explain</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-22 21:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/22/nx-s1-5866741/supreme-court-texas-death-penalty" target="_blank">Supreme Court declines to hear Texas man&#x27;s intellectual disability case in capital case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-22 20:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +99,29 @@
                 <span class="time">2026-06-22 17:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/22/aje-onl-aje_onl_lebanon_wrap-220626?traffic_source=rss" target="_blank">Lebanon Latest: Israeli attacks surge despite ceasefire efforts</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-22 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1535/live/013ede30-6e37-11f1-8e1d-bbbb1017d210.jpg" alt="Vance says Iran will allow nuclear inspectors back into the country" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss" target="_blank">Vance says Iran will allow nuclear inspectors back into the country</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-22 14:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/08/Artemis-I-Aug-19-2022-9057-500x500.jpg" alt="Report: Kennedy Space Center not ready for era of super heavy rockets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/" target="_blank">Report: Kennedy Space Center not ready for era of super heavy rockets</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-22 21:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a39a2a46c59c72c499e05ba/master/pass/2281617231" alt="Meta Pauses Employee-Tracking Program Following Internal Data Leak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/" target="_blank">Meta Pauses Employee-Tracking Program Following Internal Data Leak</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-22 21:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,29 +158,38 @@
                 <span class="time">2026-06-22 17:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a38fc82a494fdbb4985fa73/master/pass/GettyImages-2282209778.jpg" alt="The UK Just Lost Its Sixth Prime Minster of the Decade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uk-loses-its-sixth-prime-minster-keir-starmer/" target="_blank">The UK Just Lost Its Sixth Prime Minster of the Decade</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-22 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/" target="_blank">Ethan Thornton is trying to do everything all at once</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-22 05:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/soytuber/securing-ai-codex-operational-bugs-claude-output-integrity-copilot-context-3g08" target="_blank">Securing AI: Codex Operational Bugs, Claude Output Integrity, Copilot Context</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-22 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.linux.com/news/june26-training-promo/" target="_blank">🔥 Prime Day Savings Are Live! Save up to 75% on training, certifications, bundles, and THRIVE-ONE Annual. Ends June 26.</a></span>
+                <span class="feed">Linux.com</span>
+                <span class="time">2026-06-22 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/tux-airpods-linux.webp?resize=406%2C232&amp;ssl=1" alt="Control AirPods &amp; Galaxy Buds on Ubuntu with ‘BudsLink’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/budslink-airpods-galaxy-buds-linux" target="_blank">Control AirPods &amp; Galaxy Buds on Ubuntu with ‘BudsLink’</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-22 19:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,33 +217,6 @@
                 <span class="time">2026-06-22 17:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/mobile-user-tracking-service/en/mediumimage/alina-krasavina-medium-1781688348523.jpg" alt="Presentation: Challenging Google Analytics: Building a Scalable, Cost-Effective User Tracking Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/mobile-user-tracking-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Challenging Google Analytics: Building a Scalable, Cost-Effective User Tracking Service</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-22 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17365312/astra-music-player" target="_blank">Astra: For All Your High Fidelity Music Needs and Absolute Control</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-22 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-summit-26-04-connected-by-open-source" target="_blank">Ubuntu Summit 26.04: connected by open source</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-22 10:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/od1-960x539-1.jpg" alt="Only Xbox Was Interested In Kojima’s Horror Game, Other Companies Didn’t ‘Understand The Concept’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/only-xbox-was-interested-in-kojimas-horror-game-other-companies-didnt-understand-the-concept-2000709107" target="_blank">Only Xbox Was Interested In Kojima’s Horror Game, Other Companies Didn’t ‘Understand The Concept’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-22 21:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVREJXQ82VRM2QNCDJE1N8KM/hero-image.png" alt="The Echo Dot Max Is Cheaper Than Ever Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/echo-dot-max-deal-prime-day-2026?utm_medium=RSS" target="_blank">The Echo Dot Max Is Cheaper Than Ever Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-22 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_530761315.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="California&#x27;s vanished sunflower sea stars are not totally vanished" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +290,6 @@
                 <span class="time">2026-06-22 15:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTVXQMWN24THYK6TK5NZ1SK2/hero-image.png" alt="This Woot Deal Is the Cheapest Way to Get the Nintendo Switch 2 Before Prices Go Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/nintendo-switch-2-woot-deal-early-prime-day-2026?utm_medium=RSS" target="_blank">This Woot Deal Is the Cheapest Way to Get the Nintendo Switch 2 Before Prices Go Up</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-22 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/warfram-destiny-1280x720.jpg" alt="Warframe Developers Express Their Heartbreak Over The End Of Destiny 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/destiny-2-bungie-warframe-digital-extremes-live-service-playstation-2000708927" target="_blank">Warframe Developers Express Their Heartbreak Over The End Of Destiny 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-22 11:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 62 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 20:00 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 65 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 21:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
