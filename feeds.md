@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-22 09:55:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-22 11:59:37 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, June 22, 2026 - 09:55 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, June 22, 2026 - 11:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/22/g-s1-129268/up-first-newsletter-keir-starmer-iran-us-vance-trump-reflection-pool" target="_blank">UK PM Keir Starmer resigns. And, US and Iran agree to roadmap for final deal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-22 11:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/starmer-main_1782117883073_hpMain_4x3t_384.jpg" alt="UK Prime Minister Keir Starmer announces resignation with &#x27;good grace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,30 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/starmer_resigns-62x2ae.jpg" alt="British Prime Minister Keir Starmer announces resignation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/british-prime-minister-keir-starmer-announces-resignation-265457221769" target="_blank">British Prime Minister Keir Starmer announces resignation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-22 08:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/06/1920x1080/skynews-ras-laffan-qatar-gas_7279764.jpg?20260622084518" alt="Explosion leaves 18 missing and dozens injured at key gas facility in Qatar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/explosion-leaves-18-missing-and-dozens-injured-at-key-gas-facility-in-qatar-13556606" target="_blank">Explosion leaves 18 missing and dozens injured at key gas facility in Qatar</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-06-22 07:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8b2/live/1e0155f0-6e02-11f1-b1db-af71d47507d6.jpg" alt="First round of US-Iran talks ends with encouraging progress, mediators say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss" target="_blank">First round of US-Iran talks ends with encouraging progress, mediators say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-22 07:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation?traffic_source=rss" target="_blank">LIVE: UK PM Keir Starmer expected to announce his resignation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-22 07:39</span>
             </div>
         </div>
 </div>
@@ -222,9 +218,32 @@
         </div>
 </div>
 </div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html" target="_blank">Professional Athletes and Wearables</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-22 11:02</span>
+            </div>
+        </div>
+</div>
+</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/warfram-destiny-1280x720.jpg" alt="Warframe Developers Express Their Heartbreak Over The End Of Destiny 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/destiny-2-bungie-warframe-digital-extremes-live-service-playstation-2000708927" target="_blank">Warframe Developers Express Their Heartbreak Over The End Of Destiny 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-22 11:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/20260616121348_1.jpg" alt="Order Of The Sinking Star’s Solid Puzzle Work Is Shadowed By That Sinking Feeling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 39 | 📸 With Images: 239 |
-        🔄 Last Updated: 09:55 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 71 | 📡 Total Sources: 39 | 📸 With Images: 240 |
+        🔄 Last Updated: 11:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
