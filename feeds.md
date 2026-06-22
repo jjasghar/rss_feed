@@ -1,36 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-06-22 22:30:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-22 23:27:44 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, June 22, 2026 - 22:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, June 22, 2026 - 23:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260507-for-sale-rs-6de77f.jpg" alt="Senate passes sweeping housing affordability bill with bipartisan support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/senate-passes-bill-lower-housing-costs-restrict-wall-street-buying-hom-rcna350753" target="_blank">Senate passes sweeping housing affordability bill with bipartisan support</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-22 22:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5b4/live/a689e410-6e5b-11f1-8e1d-bbbb1017d210.jpg" alt="Starmer quits as Labour leader and paves way for contest for new prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,30 +74,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_2_4x3t_384.jpg" alt="Nancy Guthrie abduction: 2nd ransom note sent to Tucson TV station said she died" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/nancy-guthrie-abduction-2nd-ransom-note-tucson-tv/story?id=134107878" target="_blank">Nancy Guthrie abduction: 2nd ransom note sent to Tucson TV station said she died</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-22 20:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/06/22/nx-s1-5866741/supreme-court-texas-death-penalty" target="_blank">Supreme Court declines to hear Texas man&#x27;s intellectual disability case in capital case</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-22 20:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/22/lionel-messi-scores-brace-as-argentina-beat-austria-2-0-at-world-cup-2026?traffic_source=rss" target="_blank">Lionel Messi scores brace as Argentina beat Austria 2-0 at World Cup 2026</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-22 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/walz-gty-er-260622_1782148390907_hpMain_4x3t_384.jpg" alt="Federal judge tosses DOJ subpoenas to Tim Walz, other Minnesota officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/federal-judge-tosses-doj-subpoenas-minnesota-gov-tim/story?id=134102990" target="_blank">Federal judge tosses DOJ subpoenas to Tim Walz, other Minnesota officials</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-22 18:53</span>
             </div>
         </div>
 </div>
@@ -177,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/USB4STREAM-In-Linux-7.2" target="_blank">USB4STREAM Merged For Linux 7.2 To Quickly Send Data Between USB4 Connected Systems</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-22 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.linux.com/news/june26-training-promo/" target="_blank">🔥 Prime Day Savings Are Live! Save up to 75% on training, certifications, bundles, and THRIVE-ONE Annual. Ends June 26.</a></span>
                 <span class="feed">Linux.com</span>
                 <span class="time">2026-06-22 20:46</span>
@@ -209,15 +209,6 @@
                 <span class="time">2026-06-22 17:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/" target="_blank">From pledge to practice: Building a more inclusive open source ecosystem</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-22 17:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +228,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/12/989758634cca554a29d0aeb9774a213b-1280x720.jpg" alt="Hideo Kojima Shares New Screenshot Of Upcoming Horror Game OD And…Hey, That Looks Like PT!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hideo-kojima-shares-new-screenshot-od-looks-like-pt-2000709099" target="_blank">Hideo Kojima Shares New Screenshot Of Upcoming Horror Game OD And…Hey, That Looks Like PT!</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-22 21:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/od1-960x539-1.jpg" alt="Only Xbox Was Interested In Kojima’s Horror Game, Other Companies Didn’t ‘Understand The Concept’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,20 +282,20 @@
                 <span class="time">2026-06-22 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/3840px-Great_Moon_Hoax_-_Day_4-scaled.jpg?fit=2560%2C1829&amp;quality=60&amp;ssl=1" alt="In 1835 a New York paper put bat-men and unicorns on the moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/22/post-great-moon-hoax.html" target="_blank">In 1835 a New York paper put bat-men and unicorns on the moon</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-22 16:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/22/full-spectrum-warrior" target="_blank">Full Spectrum Warrior</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-22 20:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1782076832-20260622-edit.png" alt="Saturday Morning Breakfast Cereal - She" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -319,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 243 |
-        🔄 Last Updated: 22:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 73 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 23:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
