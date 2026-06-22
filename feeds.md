@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-06-22 18:19:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-22 20:00:29 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, June 22, 2026 - 18:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, June 22, 2026 - 20:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/22/lionel-messi-scores-brace-as-argentina-beat-austria-2-0-at-world-cup-2026?traffic_source=rss" target="_blank">Lionel Messi scores brace as Argentina beat Austria 2-0 at World Cup 2026</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-22 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/walz-gty-er-260622_1782148390907_hpMain_4x3t_384.jpg" alt="Federal judge tosses DOJ subpoenas to Tim Walz, other Minnesota officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/federal-judge-tosses-doj-subpoenas-minnesota-gov-tim/story?id=134102990" target="_blank">Federal judge tosses DOJ subpoenas to Tim Walz, other Minnesota officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-22 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782154034925_now_daily_b_wiebe_messi_record_260622_S3_1920x1080-6v629g.jpg" alt="Lionel Messi breaks record for most career World Cup goals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/lionel-messi-breaks-record-for-most-career-world-cup-goals-265486405709" target="_blank">Lionel Messi breaks record for most career World Cup goals</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-22 18:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +93,29 @@
                 <span class="time">2026-06-22 14:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a725/live/f1e30ea0-6e29-11f1-9fdc-51e252bb92b4.jpg" alt="Why did Keir Starmer resign and what could happen next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&at_campaign=rss" target="_blank">Why did Keir Starmer resign and what could happen next?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-22 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/vance-1-rt-gmh-260622_1782135132715_hpMain_4x3t_384.jpg" alt="Iran live updates: US and Iran agree to roadmap for &#x27;final deal&#x27; within 60 days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780" target="_blank">Iran live updates: US and Iran agree to roadmap for &#x27;final deal&#x27; within 60 days</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-22 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/22/g-s1-129268/up-first-newsletter-keir-starmer-iran-us-vance-trump-reflection-pool" target="_blank">UK PM Keir Starmer resigns. And, US and Iran agree to roadmap for final deal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-22 11:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings" target="_blank">AI is cursing renters with the promise of impossible homes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-22 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-500x500-1753386908.jpg" alt="Following user outcry, AMD reinstates memory encryption in consumer CPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/" target="_blank">Following user outcry, AMD reinstates memory encryption in consumer CPUs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-22 19:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +150,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/" target="_blank">Ethan Thornton is trying to do everything all at once</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-22 05:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="Priceline Promo Codes &amp; Coupons: 10% Off June" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/priceline-promo-code/" target="_blank">Priceline Promo Codes &amp; Coupons: 10% Off June</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-22 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company" target="_blank">Bose thinks it can be a media company for some reason</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-21 18:53</span>
             </div>
         </div>
 </div>
@@ -236,6 +231,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_530761315.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="California&#x27;s vanished sunflower sea stars are not totally vanished" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/22/californias-vanished-sunflower-sea-stars-are-not-totally-vanished.html" target="_blank">California&#x27;s vanished sunflower sea stars are not totally vanished</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-22 19:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVR36Z6117HX6J6Q3HJK294F/hero-image.jpg" alt="These Independent Apps Let You Use Your Whoop Without a Subscription (For Now)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -280,15 +284,6 @@
                 <span class="time">2026-06-22 11:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/20260616121348_1.jpg" alt="Order Of The Sinking Star’s Solid Puzzle Work Is Shadowed By That Sinking Feeling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/order-of-the-sinking-stars-solid-puzzle-work-is-shadowed-by-that-sinking-feeling-2000708831" target="_blank">Order Of The Sinking Star’s Solid Puzzle Work Is Shadowed By That Sinking Feeling</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-21 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 60 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 18:19 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 62 | 📡 Total Sources: 39 | 📸 With Images: 242 |
+        🔄 Last Updated: 20:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
