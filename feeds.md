@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-22 16:31:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-22 18:19:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, June 22, 2026 - 16:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, June 22, 2026 - 18:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/22/qatars-pm-tells-al-jazeera-progress-made-in-us-iran-talks?traffic_source=rss" target="_blank">Qatar’s PM tells Al Jazeera progress made in US-Iran talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-22 17:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +98,29 @@
                 <span class="time">2026-06-22 11:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/starmer-main_1782117883073_hpMain_4x3t_384.jpg" alt="UK Prime Minister Keir Starmer announces resignation with &#x27;good grace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/uk-prime-minister-keir-starmer-resign/story?id=134087581" target="_blank">UK Prime Minister Keir Starmer announces resignation with &#x27;good grace&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-22 09:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale" target="_blank">The Apple Watch SE 3 is just $199 for Prime Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-22 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-The-Office-of-Constable-Terry-Allbritton-on-Facebook-500x500.jpg" alt="Doorbell cam filmed Tesla Autopilot crash that killed woman in her home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/" target="_blank">Doorbell cam filmed Tesla Autopilot crash that killed woman in her home</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-22 17:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a38fc82a494fdbb4985fa73/master/pass/GettyImages-2282209778.jpg" alt="The UK Just Lost Its Sixth Prime Minster of the Decade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +157,38 @@
                 <span class="time">2026-06-21 18:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/" target="_blank">Ubisoft co-founder Claude Guillemot dies in plane crash</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-21 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/coal-ash-500x500.jpg" alt="Trump admin’s coal investments assist plants with repeated violations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/" target="_blank">Trump admin’s coal investments assist plants with repeated violations</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-21 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/moksh57/printf-and-scanf-in-c-understanding-input-and-output-l6n" target="_blank">printf() and scanf() in C: Understanding Input and Output</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-22 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/how-to-use-risc-v-custom-instructions-with-ubuntu" target="_blank">How to use RISC-V custom instructions with Ubuntu</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-22 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/" target="_blank">From pledge to practice: Building a more inclusive open source ecosystem</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-22 17:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/mobile-user-tracking-service/en/mediumimage/alina-krasavina-medium-1781688348523.jpg" alt="Presentation: Challenging Google Analytics: Building a Scalable, Cost-Effective User Tracking Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,33 +216,6 @@
                 <span class="time">2026-06-22 10:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mryesiller/diff-checker-a-small-tool-that-solves-a-specific-problem-766" target="_blank">Diff Checker: a small tool that solves a specific problem</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-22 09:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://docs.deno.com/runtime/desktop/" target="_blank">Deno Desktop</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-22 05:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff1ed70bchf8znu0t20bv.png" alt="What is Monorepo ?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abhinav-writes/what-is-monorepo--31dd" target="_blank">What is Monorepo ?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-22 02:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVR36Z6117HX6J6Q3HJK294F/hero-image.jpg" alt="These Independent Apps Let You Use Your Whoop Without a Subscription (For Now)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/these-apps-let-you-use-your-whoop-without-a-subscription-for-now?utm_medium=RSS" target="_blank">These Independent Apps Let You Use Your Whoop Without a Subscription (For Now)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-22 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/3840px-Great_Moon_Hoax_-_Day_4-scaled.jpg?fit=2560%2C1829&amp;quality=60&amp;ssl=1" alt="In 1835 a New York paper put bat-men and unicorns on the moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/22/post-great-moon-hoax.html" target="_blank">In 1835 a New York paper put bat-men and unicorns on the moon</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-22 16:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/EA-logored-1280x720.jpg" alt="EA Lays Off Unknown Number Of People Ahead Of Expected $55 Billion Sale To Saudi Arabia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +289,6 @@
                 <span class="time">2026-06-21 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/origxbox.jpg" alt="Founding Xbox Member Says Her Early Skepticisms Are Coming True 25 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/founding-xbox-member-says-her-early-skepticisms-are-coming-true-25-years-later-2000708811" target="_blank">Founding Xbox Member Says Her Early Skepticisms Are Coming True 25 Years Later</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-21 20:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 61 | 📡 Total Sources: 39 | 📸 With Images: 240 |
-        🔄 Last Updated: 16:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 60 | 📡 Total Sources: 39 | 📸 With Images: 242 |
+        🔄 Last Updated: 18:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
