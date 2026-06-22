@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-22 07:49:19 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-06-22 09:55:31 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, June 22, 2026 - 07:49 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, June 22, 2026 - 09:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/starmer-main_1782117883073_hpMain_4x3t_384.jpg" alt="UK Prime Minister Keir Starmer announces resignation with &#x27;good grace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/uk-prime-minister-keir-starmer-resign/story?id=134087581" target="_blank">UK Prime Minister Keir Starmer announces resignation with &#x27;good grace&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-22 09:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f61/live/6a68ce80-6e18-11f1-b1db-af71d47507d6.jpg" alt="Keir Starmer announces his resignation as prime minister and Labour Party leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxd00lg599o?at_medium=RSS&at_campaign=rss" target="_blank">Keir Starmer announces his resignation as prime minister and Labour Party leader</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-22 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns" target="_blank">Keir Starmer announces resignation as UK prime minister</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-22 09:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-ras-laffan-qatar-gas_7279764.jpg?20260622084518" alt="Explosion leaves 18 missing and dozens injured at key gas facility in Qatar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/explosion-leaves-18-missing-and-dozens-injured-at-key-gas-facility-in-qatar-13556606" target="_blank">Explosion leaves 18 missing and dozens injured at key gas facility in Qatar</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-22 07:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8b2/live/1e0155f0-6e02-11f1-b1db-af71d47507d6.jpg" alt="First round of US-Iran talks ends with encouraging progress, mediators say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,47 +102,29 @@
                 <span class="time">2026-06-22 07:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/22/encouraging-progress-made-as-first-round-us-iran-talks-end?traffic_source=rss" target="_blank">‘Encouraging progress’ made as first round US-Iran talks end</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-22 04:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/068d/live/1ae9c670-6de6-11f1-80ec-79912f81f3b2.jpg" alt="First round of US-Iran talks ends with &#x27;encouraging progress&#x27;, mediators say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss" target="_blank">First round of US-Iran talks ends with &#x27;encouraging progress&#x27;, mediators say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-22 04:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/22/colombias-de-la-espriella-claims-victory-on-preliminary-results?traffic_source=rss" target="_blank">Colombia’s De La Espriella claims victory on preliminary results</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-22 02:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/21/nx-s1-5865676/delaespriella-colombia-election" target="_blank">Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-22 02:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a38fc82a494fdbb4985fa73/master/pass/GettyImages-2282209778.jpg" alt="The UK Just Lost Its Sixth Prime Minster of the Decade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uk-loses-its-sixth-prime-minster-keir-starmer/" target="_blank">The UK Just Lost Its Sixth Prime Minster of the Decade</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-22 09:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/" target="_blank">Ethan Thornton is trying to do everything all at once</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-22 05:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="Priceline Promo Codes &amp; Coupons: 10% Off June" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +161,29 @@
                 <span class="time">2026-06-21 17:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review" target="_blank">Cold Court’s debut EP is an infectious, glitchy genre mashup</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-21 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/" target="_blank">Polymarket reportedly paid creators to post deceptive videos about fake bets</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-21 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mryesiller/diff-checker-a-small-tool-that-solves-a-specific-problem-766" target="_blank">Diff Checker: a small tool that solves a specific problem</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-22 09:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://docs.deno.com/runtime/desktop/" target="_blank">Deno Desktop</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-22 05:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff1ed70bchf8znu0t20bv.png" alt="What is Monorepo ?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/gavinsykes/taming-error-handling-in-laravel-with-custom-exceptions-54ag" target="_blank">Taming Error Handling in Laravel with Custom Exceptions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-21 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-408k" target="_blank">Three post-deploy checks I run after every Cloudflare Pages build</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-21 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://apertvs.ai/" target="_blank">Apertus – Open Foundation Model for Sovereign AI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-21 21:29</span>
             </div>
         </div>
 </div>
@@ -286,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 07:49 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 09:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
