@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-23 01:35:57 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-23 03:00:23 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, June 23, 2026 - 01:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, June 23, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc5f/live/b5a5a950-6ea8-11f1-8546-8f19e4fe30f4.jpg" alt="Labour MPs mull leadership challenge to prevent Burnham &#x27;coronation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2kqd9ver1o?at_medium=RSS&at_campaign=rss" target="_blank">Labour MPs mull leadership challenge to prevent Burnham &#x27;coronation&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-23 02:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/23/haaland-scores-two-as-norway-beat-senegal-3-2-enter-world-cup-knockouts?traffic_source=rss" target="_blank">Haaland scores two as Norway beat Senegal 3-2, enter World Cup knockouts</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-23 02:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +93,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/congress/senate-passes-bill-lower-housing-costs-restrict-wall-street-buying-hom-rcna350753" target="_blank">Senate passes sweeping housing affordability bill with bipartisan support</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-22 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5b4/live/a689e410-6e5b-11f1-8e1d-bbbb1017d210.jpg" alt="Starmer quits as Labour leader and paves way for contest for new prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxd00lg599o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer quits as Labour leader and paves way for contest for new prime minister</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-22 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/22/nx-s1-5866719/save-voter-data-trump-judge-unlawful" target="_blank">A federal judge finds a Trump data system to verify voters is unlawful</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-22 22:25</span>
             </div>
         </div>
 </div>
@@ -177,6 +169,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/miracle-wm.jpg?resize=406%2C232&amp;ssl=1" alt="Focus blur, nightlight added to Miracle-wm desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/miracle-wm-focus-blue-nightlight" target="_blank">Focus blur, nightlight added to Miracle-wm desktop</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-23 00:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/soytuber/securing-ai-codex-operational-bugs-claude-output-integrity-copilot-context-3g08" target="_blank">Securing AI: Codex Operational Bugs, Claude Output Integrity, Copilot Context</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-22 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/USB4STREAM-In-Linux-7.2" target="_blank">USB4STREAM Merged For Linux 7.2 To Quickly Send Data Between USB4 Connected Systems</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-22 21:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 79 | 📡 Total Sources: 39 | 📸 With Images: 243 |
-        🔄 Last Updated: 01:36 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
