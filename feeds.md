@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-23 07:07:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-23 09:01:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, June 23, 2026 - 07:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, June 23, 2026 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,10 +48,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/23/about-20-drown-in-france-trying-to-escape-heatwave-sweeping-much-of-europe?traffic_source=rss" target="_blank">About 20 drown in France trying to escape heatwave sweeping much of Europe</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-23 08:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/06/23/nx-s1-5867281/brexit-10-years-later" target="_blank">Britain left the EU 10 years ago. Its politics has been an unruly mess</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-23 06:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66d4/live/4c1d6d60-6ebc-11f1-8e1d-bbbb1017d210.jpg" alt="Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss" target="_blank">Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-23 05:39</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +99,20 @@
                 <span class="time">2026-06-23 02:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/23/haaland-scores-two-as-norway-beat-senegal-3-2-enter-world-cup-knockouts?traffic_source=rss" target="_blank">Haaland scores two as Norway beat Senegal 3-2, enter World Cup knockouts</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-23 02:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss" target="_blank">Iran war live: US waives oil sanctions, to release $12bn in frozen funds</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-23 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a39bf7f0bf55f5b8a30365a/master/pass/The-Best-Prime-Day-Apple-Deals-on-AirPods,-iPads,-and-More.jpg" alt="Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-prime-day-apple-deals-2026/" target="_blank">Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-23 08:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,6 +129,15 @@
                 <span class="title"><a href="https://www.theverge.com/transportation/954291/amflows-tl-e-bike-is-ready-for-babys-first-mountain-adventure" target="_blank">Amflow&amp;#8217;s TL e-bike is ready for baby&amp;#8217;s first mountain adventure</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-23 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/starfallillustration2-500x500.jpg" alt="With Starfall, SpaceX eyes an edge in global cargo delivery from orbit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/" target="_blank">With Starfall, SpaceX eyes an edge in global cargo delivery from orbit</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-23 05:25</span>
             </div>
         </div>
 <div class="story">
@@ -145,29 +158,20 @@
                 <span class="time">2026-06-23 01:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling" target="_blank">Nvidia says its AI data center design runs hotter to use a lot less water</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-22 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3958bcdf5a1d50d09fc7ed/master/pass/GettyImages-2275575477.jpg" alt="A Source of Mysterious Repeating Radio Signals From Space Has Been Identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/" target="_blank">A Source of Mysterious Repeating Radio Signals From Space Has Been Identified</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-22 22:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17365805/niri-window-manager" target="_blank">I Finally Tried Niri, The New Way Of Tiling Linux Users Are Going Crazy About</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-23 08:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +215,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/miracle-wm-focus-blue-nightlight" target="_blank">Focus blur, nightlight added to Miracle-wm desktop</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-06-23 00:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/akaranjkar08/chatgpt-market-share-falls-below-50-what-gemini-and-claudes-surge-means-for-developers-june-26m6" target="_blank">ChatGPT Market Share Falls Below 50%: What Gemini and Claude&#x27;s Surge Means for Developers (June 2026)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-23 00:16</span>
             </div>
         </div>
 </div>
@@ -324,7 +319,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 39 | 📸 With Images: 241 |
-        🔄 Last Updated: 07:07 UTC
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
