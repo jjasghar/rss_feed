@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-23 03:00:23 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-06-23 05:16:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, June 23, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, June 23, 2026 - 05:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/23/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss" target="_blank">Which teams have qualified for the World Cup 2026 knockouts, round of 32?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-23 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-palau-oceans-pacific_7280239.jpg?20260622165042" alt="Billionaire to invest in ocean protection as UK and US scale back funding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/billionaire-to-invest-in-ocean-protection-as-uk-and-us-scale-back-funding-13556720" target="_blank">Billionaire to invest in ocean protection as UK and US scale back funding</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-23 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc5f/live/b5a5a950-6ea8-11f1-8546-8f19e4fe30f4.jpg" alt="Labour MPs mull leadership challenge to prevent Burnham &#x27;coronation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +96,20 @@
                 <span class="time">2026-06-22 23:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8a5/live/4c851ec0-6e8e-11f1-8e1d-bbbb1017d210.jpg" alt="US eases oil sanctions as Iran denies Vance claim on nuclear inspectors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss" target="_blank">US eases oil sanctions as Iran denies Vance claim on nuclear inspectors</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-22 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260507-for-sale-rs-6de77f.jpg" alt="Senate passes sweeping housing affordability bill with bipartisan support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/senate-passes-bill-lower-housing-costs-restrict-wall-street-buying-hom-rcna350753" target="_blank">Senate passes sweeping housing affordability bill with bipartisan support</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-22 22:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Best Hotels.com Coupon Codes for June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hotels-com-coupon/" target="_blank">Best Hotels.com Coupon Codes for June 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-23 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +155,20 @@
                 <span class="time">2026-06-22 21:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis" target="_blank">Valve describes just how brutal RAM negotiations are in 2026</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-22 21:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://swelljoe.com/post/will-it-mythos/" target="_blank">Will It Mythos?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-23 04:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fagentskillshub.top%2Fog-image.png" alt="We security-graded 117,854 AI agent skills. Here&#x27;s what we found." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,15 +212,6 @@
                 <span class="title"><a href="https://blog.codinghorror.com/every-choice-changes-everything-the-show/" target="_blank">Every Choice Changes Everything: The Show</a></span>
                 <span class="feed">Coding Horror</span>
                 <span class="time">2026-06-22 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/soytuber/securing-ai-codex-operational-bugs-claude-output-integrity-copilot-context-3g08" target="_blank">Securing AI: Codex Operational Bugs, Claude Output Integrity, Copilot Context</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-22 21:36</span>
             </div>
         </div>
 </div>
@@ -323,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 05:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
