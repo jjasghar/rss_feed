@@ -1,27 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-22 23:27:44 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-23 00:27:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, June 22, 2026 - 23:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, June 23, 2026 - 00:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss" target="_blank">Iran war live: US waives oil sanctions, to release $12bn in frozen funds</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-23 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pool-2-rt-gmh-260622_1782161278039_hpMain_4x3t_384.jpg" alt="Trump doubles down on Reflecting Pool vandalism claims without providing evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-doubles-reflecting-pool-vandalism-claims-providing-evidence/story?id=134113300" target="_blank">Trump doubles down on Reflecting Pool vandalism claims without providing evidence</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-22 23:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8a5/live/4c851ec0-6e8e-11f1-8e1d-bbbb1017d210.jpg" alt="US eases oil sanctions as Iran denies Vance claim on nuclear inspectors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss" target="_blank">US eases oil sanctions as Iran denies Vance claim on nuclear inspectors</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-22 23:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260507-for-sale-rs-6de77f.jpg" alt="Senate passes sweeping housing affordability bill with bipartisan support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,38 +104,20 @@
                 <span class="time">2026-06-22 22:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/gas-3-abc-gmh-260622_1782152347640_hpMain_4x3t_384.jpg" alt="How far will gas prices fall? Experts explain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/gas-prices-falling-experts-weigh/story?id=134093047" target="_blank">How far will gas prices fall? Experts explain</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-22 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_2_4x3t_384.jpg" alt="Nancy Guthrie abduction: 2nd ransom note sent to Tucson TV station said she died" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/nancy-guthrie-abduction-2nd-ransom-note-tucson-tv/story?id=134107878" target="_blank">Nancy Guthrie abduction: 2nd ransom note sent to Tucson TV station said she died</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-22 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/22/nx-s1-5866741/supreme-court-texas-death-penalty" target="_blank">Supreme Court declines to hear Texas man&#x27;s intellectual disability case in capital case</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-22 20:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling" target="_blank">Nvidia says its AI data center design runs hotter to use a lot less water</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-22 23:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a3958bcdf5a1d50d09fc7ed/master/pass/GettyImages-2275575477.jpg" alt="A Source of Mysterious Repeating Radio Signals From Space Has Been Identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,20 +163,29 @@
                 <span class="time">2026-06-22 21:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings" target="_blank">AI is cursing renters with the promise of impossible homes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-22 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/akaranjkar08/chatgpt-market-share-falls-below-50-what-gemini-and-claudes-surge-means-for-developers-june-26m6" target="_blank">ChatGPT Market Share Falls Below 50%: What Gemini and Claude&#x27;s Surge Means for Developers (June 2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-23 00:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.platypush.tech/article/Local-voice-assistant" target="_blank">A fully local voice assistant setup</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-06-22 22:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,24 +222,6 @@
                 <span class="time">2026-06-22 19:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/moksh57/printf-and-scanf-in-c-understanding-input-and-output-l6n" target="_blank">printf() and scanf() in C: Understanding Input and Output</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-22 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/how-to-use-risc-v-custom-instructions-with-ubuntu" target="_blank">How to use RISC-V custom instructions with Ubuntu</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-22 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVRS41MDR2Q75TJEM0BWPZ7D/hero-image.png" alt="The Best Prime Day Deals on Tech Basics, From Batteries to Power Strips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-deals-on-tech-basics-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Tech Basics, From Batteries to Power Strips</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-22 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/12/989758634cca554a29d0aeb9774a213b-1280x720.jpg" alt="Hideo Kojima Shares New Screenshot Of Upcoming Horror Game OD And…Hey, That Looks Like PT!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +295,6 @@
                 <span class="time">2026-06-22 19:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVR36Z6117HX6J6Q3HJK294F/hero-image.jpg" alt="These Independent Apps Let You Use Your Whoop Without a Subscription (For Now)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/these-apps-let-you-use-your-whoop-without-a-subscription-for-now?utm_medium=RSS" target="_blank">These Independent Apps Let You Use Your Whoop Without a Subscription (For Now)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-22 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 73 | 📡 Total Sources: 39 | 📸 With Images: 243 |
-        🔄 Last Updated: 23:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 00:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
