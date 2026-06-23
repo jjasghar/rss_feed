@@ -1,36 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-06-23 20:39:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-23 21:29:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, June 23, 2026 - 20:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, June 23, 2026 - 21:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +61,15 @@
                 <span class="title"><a href="https://abcnews.com/Politics/senate-house-pass-war-powers-resolution-1st-time/story?id=134145998" target="_blank">Senate and House pass war powers resolution for 1st time since Iran war started</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-23 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab1/live/43f9a4e0-6f35-11f1-a91d-9509c96f4739.jpg" alt="Hundreds of schools plan closures ahead of red heat alerts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwyl940y94xo?at_medium=RSS&at_campaign=rss" target="_blank">Hundreds of schools plan closures ahead of red heat alerts</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-23 20:16</span>
             </div>
         </div>
 <div class="story">
@@ -91,20 +108,29 @@
                 <span class="time">2026-06-23 19:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/23/nx-s1-5867692/2026-world-cup-fifa-cristiano-ronaldo-goal" target="_blank">Portugal&#x27;s Ronaldo shakes off World Cup doubters, scores 2 after sluggish start</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-23 18:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/953936/roborock-saros-20-amazon-deal-sale" target="_blank">Prime Day takes $240 off Roborock’s Saros 20, one of our favorite robovacs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-23 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-23-at-3.43.31-PM-500x500.png" alt="Odd police video shows drone removing knife from motionless suspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/" target="_blank">Odd police video shows drone removing knife from motionless suspect</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-23 20:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-500x500-1782243478.jpg" alt="Oracle’s 21,000 layoffs help drive its debt-fueled AI investments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +167,29 @@
                 <span class="time">2026-06-23 18:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026_Toyota_C-HR_XSE_Tandoori_108_NR-500x500.jpg" alt="A curious crossover: The Toyota C-HR review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/" target="_blank">A curious crossover: The Toyota C-HR review</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-23 18:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/955011/formula-e-season-13-electric-racing" target="_blank">Formula E&amp;#8217;s new season is starting to look more like F1</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-23 17:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2kribex02zp5c6v9yk0s.webp" alt="I Thought My Company&#x27;s New Urinal Was Revolutionary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/erintomorri/i-thought-my-companys-new-urinal-was-revolutionary-1hpm" target="_blank">I Thought My Company&#x27;s New Urinal Was Revolutionary</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-23 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.1" target="_blank">COSMIC Epoch 1.1 Released With COSMIC-Monitor, Compositor Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-23 20:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +226,6 @@
                 <span class="time">2026-06-23 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/byte-guard/15-best-free-security-tools-in-2026-2e6p" target="_blank">15 Best Free Security Tools in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-23 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2--EPYC-Sorano-Network" target="_blank">Linux 7.2 Showing Some Unexpected &amp; Nice Performance Gains On AMD EPYC Sorano</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-23 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVCYE6Q09HAEEV3ESVDDEB9A/hero-image.png" alt="This Fire TV Soundbar Is Over 40% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazons-fire-tv-soundbar-plus-prime-day-2026?utm_medium=RSS" target="_blank">This Fire TV Soundbar Is Over 40% Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-23 21:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/CleanShot-2026-06-23-at-12.09.36%402x.jpg?fit=1200%2C671&amp;quality=60&amp;ssl=1" alt="Duplicate Content splices 1960s video art with today&#x27;s TikToks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +308,6 @@
                 <span class="time">2026-06-23 17:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/ut74wnfzr19h1.jpg" alt="An 11th-Hour ARG Clue Is Upending A Year’s Worth Of Deltarune Fan Theories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arg-clue-deltarune-fan-theory-last-minute-2000709558" target="_blank">An 11th-Hour ARG Clue Is Upending A Year’s Worth Of Deltarune Fan Theories</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-23 17:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 38 | 📸 With Images: 238 |
-        🔄 Last Updated: 20:39 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 38 | 📸 With Images: 240 |
+        🔄 Last Updated: 21:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
