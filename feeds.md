@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-23 22:23:22 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-23 23:21:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, June 23, 2026 - 22:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, June 23, 2026 - 23:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/23/us-supreme-court-says-rastafarian-man-shaved-by-prison-guards-cant-sue?traffic_source=rss" target="_blank">US Supreme Court says Rastafarian man shaved by prison guards can’t sue</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-23 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-deutsche-bahn-berlin_7281357.jpg?20260623235023" alt="Trains across Germany halted due to problem with communication system" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/german-railway-network-comes-to-halt-due-to-problem-with-communication-system-13557238" target="_blank">Trains across Germany halted due to problem with communication system</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-23 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/23/nx-s1-5867684/supreme-court-prison-guards-rastafarian-dreadlocks" target="_blank">Supreme Court rules that prison guards can&#x27;t be sued for shaving Rastafarian&#x27;s head</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-23 22:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/23/donald-trump-to-attend-world-cup-final-present-trophy-infantino?traffic_source=rss" target="_blank">Donald Trump to attend World Cup final, present trophy: Infantino</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-23 21:44</span>
@@ -58,39 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/pool-1-gty-gmh-260622_1782161279796_hpMain_4x3t_384.jpg" alt="&#x27;Permanent repair&#x27; to Reflecting Pool to come around July 4, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/US/bill-gates-ap-jef-260622_1782141182998_hpMain_4x3t_384.jpg" alt="Gates told panel Epstein was plotting to blackmail him about extramarital affairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/permanent-repair-reflecting-pool-july-4-trump/story?id=134137721" target="_blank">&#x27;Permanent repair&#x27; to Reflecting Pool to come around July 4, Trump says</a></span>
+                <span class="title"><a href="https://abcnews.com/US/bill-gates-told-house-panel-epstein-plotting-blackmail/story?id=134098296" target="_blank">Gates told panel Epstein was plotting to blackmail him about extramarital affairs</a></span>
                 <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-23 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-10-ap-er-260623_1782236916779_hpMain_4x3t_384.jpg" alt="Senate and House pass war powers resolution for 1st time since Iran war started" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/senate-house-pass-war-powers-resolution-1st-time/story?id=134145998" target="_blank">Senate and House pass war powers resolution for 1st time since Iran war started</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-23 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab1/live/43f9a4e0-6f35-11f1-a91d-9509c96f4739.jpg" alt="Hundreds of schools plan closures ahead of red heat alerts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwyl940y94xo?at_medium=RSS&at_campaign=rss" target="_blank">Hundreds of schools plan closures ahead of red heat alerts</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-23 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/23/alibaba-sues-us-military-over-labelling-it-a-chinese-military?traffic_source=rss" target="_blank">Alibaba sues US military over labelling it a ‘Chinese military company’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-23 20:12</span>
+                <span class="time">2026-06-23 20:38</span>
             </div>
         </div>
 </div>
@@ -98,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a396b1e518be327f36b3895/master/pass/PRIME-DEALS.jpg" alt="117 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-prime-day-absolute-best-deals/" target="_blank">117 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-23 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-500x500.jpg" alt="White House drastically shortens deadline for dropping quantum-vulnerable crypto" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/" target="_blank">White House drastically shortens deadline for dropping quantum-vulnerable crypto</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-23 22:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,24 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/" target="_blank">Odd police video shows drone removing knife from motionless suspect</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-23 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-500x500-1782243478.jpg" alt="Oracle’s 21,000 layoffs help drive its debt-fueled AI investments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/" target="_blank">Oracle’s 21,000 layoffs help drive its debt-fueled AI investments</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-23 20:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/" target="_blank">After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-23 19:49</span>
             </div>
         </div>
 </div>
@@ -240,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/mio-1280x734.jpg" alt="The Studio Behind One Of 2026’s Most Delightful Metroidvanias Is Closing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-studio-behind-one-of-2026s-most-delightful-metroidvanias-is-closing-2000709642" target="_blank">The Studio Behind One Of 2026’s Most Delightful Metroidvanias Is Closing</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-23 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVCYE6Q09HAEEV3ESVDDEB9A/hero-image.png" alt="This Fire TV Soundbar Is Over 40% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -284,15 +301,6 @@
                 <span class="time">2026-06-23 18:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVTF86K9CPWZ91MQ18Q18E6D/hero-image.png" alt="Prime Day 2026 Live Blog: The Best Deals on Headphones, TVs, Fitness Tech, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-prime-day-live-blog-06-23-2026?utm_medium=RSS" target="_blank">Prime Day 2026 Live Blog: The Best Deals on Headphones, TVs, Fitness Tech, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-23 17:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 38 | 📸 With Images: 238 |
-        🔄 Last Updated: 22:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 38 | 📸 With Images: 239 |
+        🔄 Last Updated: 23:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
