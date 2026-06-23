@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-23 00:27:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-23 01:35:57 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, June 23, 2026 - 00:27 UTC</div>
+    <div class="newspaper-date">Tuesday, June 23, 2026 - 01:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -98,10 +97,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/22/egypt-denied-flight-to-seattle-ahead-of-final-world-cup-group-match?traffic_source=rss" target="_blank">Egypt denied flight to Seattle ahead of final World Cup group match</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-22 22:11</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/22/nx-s1-5866719/save-voter-data-trump-judge-unlawful" target="_blank">A federal judge finds a Trump data system to verify voters is unlawful</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-22 22:25</span>
             </div>
         </div>
 </div>
@@ -169,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fagentskillshub.top%2Fog-image.png" alt="We security-graded 117,854 AI agent skills. Here&#x27;s what we found." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yansen_zhu_9b0dae1c4cc0da/we-security-graded-117854-ai-agent-skills-heres-what-we-found-3hhh" target="_blank">We security-graded 117,854 AI agent skills. Here&#x27;s what we found.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-23 01:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -189,6 +197,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-skull"></span>
+                <span class="title"><a href="https://blog.codinghorror.com/every-choice-changes-everything-the-show/" target="_blank">Every Choice Changes Everything: The Show</a></span>
+                <span class="feed">Coding Horror</span>
+                <span class="time">2026-06-22 22:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/soytuber/securing-ai-codex-operational-bugs-claude-output-integrity-copilot-context-3g08" target="_blank">Securing AI: Codex Operational Bugs, Claude Output Integrity, Copilot Context</a></span>
                 <span class="feed">DEV Community</span>
@@ -202,24 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/USB4STREAM-In-Linux-7.2" target="_blank">USB4STREAM Merged For Linux 7.2 To Quickly Send Data Between USB4 Connected Systems</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-22 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/news/june26-training-promo/" target="_blank">🔥 Prime Day Savings Are Live! Save up to 75% on training, certifications, bundles, and THRIVE-ONE Annual. Ends June 26.</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2026-06-22 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/tux-airpods-linux.webp?resize=406%2C232&amp;ssl=1" alt="Control AirPods &amp; Galaxy Buds on Ubuntu with ‘BudsLink’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/budslink-airpods-galaxy-buds-linux" target="_blank">Control AirPods &amp; Galaxy Buds on Ubuntu with ‘BudsLink’</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-22 19:28</span>
             </div>
         </div>
 </div>
@@ -332,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 243 |
-        🔄 Last Updated: 00:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 79 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 01:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
