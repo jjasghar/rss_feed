@@ -1,44 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-06-23 21:29:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-23 22:23:22 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, June 23, 2026 - 21:30 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, June 23, 2026 - 22:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +39,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/23/donald-trump-to-attend-world-cup-final-present-trophy-infantino?traffic_source=rss" target="_blank">Donald Trump to attend World Cup final, present trophy: Infantino</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-23 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/23/nx-s1-5868599/senate-iran-war-powers-resolution" target="_blank">In symbolic vote, Congress directs Trump to remove forces from Iran war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-23 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pool-1-gty-gmh-260622_1782161279796_hpMain_4x3t_384.jpg" alt="&#x27;Permanent repair&#x27; to Reflecting Pool to come around July 4, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/permanent-repair-reflecting-pool-july-4-trump/story?id=134137721" target="_blank">&#x27;Permanent repair&#x27; to Reflecting Pool to come around July 4, Trump says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-23 20:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-10-ap-er-260623_1782236916779_hpMain_4x3t_384.jpg" alt="Senate and House pass war powers resolution for 1st time since Iran war started" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,38 +93,29 @@
                 <span class="time">2026-06-23 20:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260623-Iran-war-aa-346-ba5699.jpg" alt="Senate rebukes Trump by approving House-passed measure calling for end to Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/senate-rebukes-trump-approving-house-passed-iran-war-powers-resolution-rcna351445" target="_blank">Senate rebukes Trump by approving House-passed measure calling for end to Iran war</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-23 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq" target="_blank">Is AI &#x27;one big bubble?&#x27; Behind the tech selloff</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-23 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/23/ronaldo-scores-twice-as-portugal-thrash-uzbekistan-5-0-at-world-cup-2026?traffic_source=rss" target="_blank">Ronaldo scores twice as Portugal thrash Uzbekistan 5-0 at World Cup 2026</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-23 19:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt" target="_blank">Hollywood is bending the knee to OpenAI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-23 22:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/" target="_blank">Superhuman acquires AI detection startup GPTZero</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-23 21:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,24 +150,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/" target="_blank">After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-23 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a39b5c3580177a5599b11a3/master/pass/security_browser_GettyImages-114315029.jpg" alt="Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dialog-hack-website-misconfiguration/" target="_blank">Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-23 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/955121/meta-prediction-market-app-arena-polymarket-kalshi-clone" target="_blank">Zuckerberg reportedly wants a Polymarket clone — but without real money</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-23 18:31</span>
             </div>
         </div>
 </div>
@@ -336,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 38 | 📸 With Images: 240 |
-        🔄 Last Updated: 21:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 38 | 📸 With Images: 238 |
+        🔄 Last Updated: 22:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
