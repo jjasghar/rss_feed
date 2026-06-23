@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-23 09:01:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-23 10:59:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, June 23, 2026 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, June 23, 2026 - 10:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c0b/live/8a475b00-6eee-11f1-b3b4-39330bfcd14d.jpg" alt="Drowning deaths soar in France as Europe buckles in peak of heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss" target="_blank">Drowning deaths soar in France as Europe buckles in peak of heatwave</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-23 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/23/irans-president-lands-in-pakistan-after-crucial-talks-with-us?traffic_source=rss" target="_blank">Iran’s president lands in Pakistan after crucial talks with US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-23 10:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +99,20 @@
                 <span class="time">2026-06-23 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-palau-oceans-pacific_7280239.jpg?20260622165042" alt="Billionaire to invest in ocean protection as UK and US scale back funding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/billionaire-to-invest-in-ocean-protection-as-uk-and-us-scale-back-funding-13556720" target="_blank">Billionaire to invest in ocean protection as UK and US scale back funding</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-23 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc5f/live/b5a5a950-6ea8-11f1-8546-8f19e4fe30f4.jpg" alt="Labour MPs mull leadership challenge to prevent Burnham &#x27;coronation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2kqd9ver1o?at_medium=RSS&at_campaign=rss" target="_blank">Labour MPs mull leadership challenge to prevent Burnham &#x27;coronation&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-23 02:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a39c73ad8ef6fd843d20906/master/pass/Launorma_Liveblog.png" alt="We&#x27;re Tracking Prime Day Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/live/amazon-prime-day-live-tracker-july-2026/" target="_blank">We&#x27;re Tracking Prime Day Live</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-23 10:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a39bf7f0bf55f5b8a30365a/master/pass/The-Best-Prime-Day-Apple-Deals-on-AirPods,-iPads,-and-More.jpg" alt="Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +158,38 @@
                 <span class="time">2026-06-23 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/" target="_blank">The running list: major tech layoffs in 2026 where employers cited AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-23 01:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Serial" target="_blank">Linux 8250/16550 UART Serial Driver Seeing Some Modernization Work In 2026</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-23 10:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.stephendiehl.com/posts/bad_place_2026/" target="_blank">Crypto in 2026: Oh, This Is the Bad Place</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-23 10:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/aws-blocks-framework-preview/en/headerimage/generatedHeaderImage-1782118076693.jpg" alt="AWS Launches Blocks, an Open-Source TypeScript Framework Designed for AI Agents to Build Backends" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/aws-blocks-framework-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Blocks, an Open-Source TypeScript Framework Designed for AI Agents to Build Backends</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-23 09:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +215,6 @@
                 <span class="title"><a href="https://dev.to/manoj_saichallagulla_798/viewmodel-vs-coroutine-scope-oln" target="_blank">ViewModel VS Coroutine Scope</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-23 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://swelljoe.com/post/will-it-mythos/" target="_blank">Will It Mythos?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-23 04:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fagentskillshub.top%2Fog-image.png" alt="We security-graded 117,854 AI agent skills. Here&#x27;s what we found." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yansen_zhu_9b0dae1c4cc0da/we-security-graded-117854-ai-agent-skills-heres-what-we-found-3hhh" target="_blank">We security-graded 117,854 AI agent skills. Here&#x27;s what we found.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-23 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/miracle-wm.jpg?resize=406%2C232&amp;ssl=1" alt="Focus blur, nightlight added to Miracle-wm desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/miracle-wm-focus-blue-nightlight" target="_blank">Focus blur, nightlight added to Miracle-wm desktop</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-23 00:32</span>
             </div>
         </div>
 </div>
@@ -318,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 39 | 📸 With Images: 241 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 84 | 📡 Total Sources: 39 | 📸 With Images: 241 |
+        🔄 Last Updated: 10:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
