@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-23 12:05:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-23 13:48:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, June 23, 2026 - 12:06 UTC</div>
+    <div class="newspaper-date">Tuesday, June 23, 2026 - 13:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,10 +45,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility" target="_blank">Kenyan minister orders halt to construction of US Ebola facility</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-23 13:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed9/live/f05274c0-6ef3-11f1-b1db-af71d47507d6.jpg" alt="Peter Murrell jailed for more than five years for embezzling SNP funds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yzlqv4dyeo?at_medium=RSS&at_campaign=rss" target="_blank">Peter Murrell jailed for more than five years for embezzling SNP funds</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-23 12:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss" target="_blank">Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-23 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-montreal-police-shooting_7280876.jpg?20260623125009" alt="Police officer, passer-by and gunman killed in hotel shoot-out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/its-a-nightmare-police-officer-passer-by-and-gunman-killed-in-hotel-shooting-13557033" target="_blank">Police officer, passer-by and gunman killed in hotel shoot-out</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-23 11:41</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +96,29 @@
                 <span class="time">2026-06-23 10:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/23/about-20-drown-in-france-trying-to-escape-heatwave-sweeping-much-of-europe?traffic_source=rss" target="_blank">About 20 drown in France trying to escape heatwave sweeping much of Europe</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-23 08:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/23/nx-s1-5867281/brexit-10-years-later" target="_blank">Britain left the EU 10 years ago. Its politics has been an unruly mess</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-23 06:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66d4/live/4c1d6d60-6ebc-11f1-8e1d-bbbb1017d210.jpg" alt="Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss" target="_blank">Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-23 05:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/953517/oura-ring-4-prime-day-smart-ring-deal-sale" target="_blank">The Oura Ring 4 is as low as $226 for Prime Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-23 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/" target="_blank">Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-23 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/cory3-500x500-1782115411.jpg" alt="How to burst the AI bubble: Strike at its roots" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +155,38 @@
                 <span class="time">2026-06-23 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/954291/amflows-tl-e-bike-is-ready-for-babys-first-mountain-adventure" target="_blank">Amflow&amp;#8217;s TL e-bike is ready for baby&amp;#8217;s first mountain adventure</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-23 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/starfallillustration2-500x500.jpg" alt="With Starfall, SpaceX eyes an edge in global cargo delivery from orbit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/" target="_blank">With Starfall, SpaceX eyes an edge in global cargo delivery from orbit</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-23 05:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/EROFS-Sparse-AI-Datasets" target="_blank">EROFS With Linux 7.2 Better Handles Large Sparse AI Datasets, More Efficient I/O</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-23 13:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/savepointapp/restream-savepoint-simulcast-to-30-platforms-from-one-station-3bp7" target="_blank">Restream + SavePoint: Simulcast to 30+ Platforms from One Station</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-23 13:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/lucide-v1-icons/en/headerimage/generatedHeaderImage-1782203932198.jpg" alt="Lucide Releases Version 1.0, Removing Brand Icons and Cutting Bundle Size for Millions of Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/lucide-v1-icons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Lucide Releases Version 1.0, Removing Brand Icons and Cutting Bundle Size for Millions of Projects</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-23 13:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,38 +214,29 @@
                 <span class="time">2026-06-23 09:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17365805/niri-window-manager" target="_blank">I Finally Tried Niri, The New Way Of Tiling Linux Users Are Going Crazy About</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-23 08:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/06/23/oh-the-places-you-ll-go-with-spatial-data/" target="_blank">Oh the places you’ll go with spatial data​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‌‌‍​﻿‌‍‌‍​﻿‌‍‌‍‌‍​﻿‍​​﻿‍​‌‍‌‍​‍﻿‌​﻿‍​‌‍​﻿​﻿‌​‌‍‌​​‍﻿‌​﻿‌​‌‍​‍‌‍​‌​﻿​‌​‍﻿‌​﻿‍​​﻿‍‌‌‍​‍​﻿​‌​‍﻿‌​﻿​‌​﻿​​​﻿​‍‌‍​‍​﻿‌​​﻿‌‍‌‍​﻿​﻿​‌​﻿‌​‌‍‌​​﻿‍‌​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‌‌‍​﻿‌‍‌‍​﻿‌‍‌‍‌‍​﻿‍​​﻿‍​‌‍‌‍​‍﻿‌​﻿‍​‌‍​﻿​﻿‌​‌‍‌​​‍﻿‌​﻿‌​‌‍​‍‌‍​‌​﻿​‌​‍﻿‌​﻿‍​​﻿‍‌‌‍​‍​﻿​‌​‍﻿‌​﻿​‌​﻿​​​﻿​‍‌‍​‍​﻿‌​​﻿‌‍‌‍​﻿​﻿​‌​﻿‌​‌‍‌​​﻿‍‌​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-06-23 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manoj_saichallagulla_798/viewmodel-vs-coroutine-scope-oln" target="_blank">ViewModel VS Coroutine Scope</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-23 07:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/artfixer-1280x720.jpg" alt="AI Hallucinations Are A Feature, Not A Bug" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nvidia-art-fixer-ai-gaussian-splatting-hallucination-ram-prices-2000709422" target="_blank">AI Hallucinations Are A Feature, Not A Bug</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-23 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVR3QQZ36HYA832G24FHRCS5/hero-image.png" alt="The Best Prime Day Deals on Bluetooth Trackers up to 38% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/bluetooth-trackers-deals-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Bluetooth Trackers up to 38% Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-23 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVRS41MDR2Q75TJEM0BWPZ7D/hero-image.png" alt="The Best Prime Day Deals on Tech Basics, From Batteries to Power Strips" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,24 +273,6 @@
                 <span class="time">2026-06-22 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Transfr-Pro-Fast-Secure-File-Transfer-Subscriptions.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Send giant files and see who opened them with a lifetime subscription to this $100 tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/22/send-giant-files-and-see-who-opened-them-with-a-lifetime-subscription-to-this-100-tool.html" target="_blank">Send giant files and see who opened them with a lifetime subscription to this $100 tool</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-22 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_530761315.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="California&#x27;s vanished sunflower sea stars are not totally vanished" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/22/californias-vanished-sunflower-sea-stars-are-not-totally-vanished.html" target="_blank">California&#x27;s vanished sunflower sea stars are not totally vanished</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-22 19:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 39 | 📸 With Images: 241 |
-        🔄 Last Updated: 12:06 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 241 |
+        🔄 Last Updated: 13:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
