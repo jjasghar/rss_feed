@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-23 18:35:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-23 19:32:52 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, June 23, 2026 - 18:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, June 23, 2026 - 19:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/23/ronaldo-scores-twice-as-portugal-thrash-uzbekistan-5-0-at-world-cup-2026?traffic_source=rss" target="_blank">Ronaldo scores twice as Portugal thrash Uzbekistan 5-0 at World Cup 2026</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-23 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/23/nx-s1-5867692/2026-world-cup-fifa-cristiano-ronaldo-goal" target="_blank">Portugal&#x27;s Ronaldo shakes off World Cup doubters, scores 2 after sluggish start</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-23 18:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-2-epa-gmh-260619_1781876644736_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says &#x27;no further Naval Blockade&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a17c/live/99969e10-6f14-11f1-8e1d-bbbb1017d210.png" alt="Starmer holds talks with Burnham as he seeks &#x27;orderly&#x27; transition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c2eyj7j4evko?at_medium=RSS&at_campaign=rss" target="_blank">Starmer holds talks with Burnham as he seeks &#x27;orderly&#x27; transition</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-23 15:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -69,38 +96,20 @@
                 <span class="time">2026-06-23 15:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28dd/live/5e3948b0-6f08-11f1-87e9-1dc598ae70b3.jpg" alt="PM to push ahead with controversial defence plan despite resignation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c892dvvwpjjo?at_medium=RSS&at_campaign=rss" target="_blank">PM to push ahead with controversial defence plan despite resignation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-23 14:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility" target="_blank">Kenyan minister orders halt to construction of US Ebola facility</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-23 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed9/live/f05274c0-6ef3-11f1-b1db-af71d47507d6.jpg" alt="Peter Murrell jailed for more than five years for embezzling SNP funds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yzlqv4dyeo?at_medium=RSS&at_campaign=rss" target="_blank">Peter Murrell jailed for more than five years for embezzling SNP funds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-23 12:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a39b5c3580177a5599b11a3/master/pass/security_browser_GettyImages-114315029.jpg" alt="Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dialog-hack-website-misconfiguration/" target="_blank">Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-23 19:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +155,29 @@
                 <span class="time">2026-06-23 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026" target="_blank">Here are the best Prime Day deal on the Verge staff’s favorite stuff</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-23 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/BASIC09-LLVM-Front-End" target="_blank">BASIC09 Programming Language Front-End Developed For LLVM</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-23 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://www.jerrysmap.com/the-map" target="_blank">Jerry&#x27;s Map</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-23 18:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +214,6 @@
                 <span class="time">2026-06-23 15:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17366061/pinevoice-smart-speaker" target="_blank">PINE64&amp;#x27;s Smart Speaker is a Home Assistant Powered Alternative to Amazon Echo</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-23 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/youtube/w_728,c_limit/5wks1W-auKY" alt="Slow down to speed up: so much has changed in 6 months’ time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/slow-down-to-speed-up" target="_blank">Slow down to speed up: so much has changed in 6 months’ time</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-06-23 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,6 +228,15 @@
                 <span class="time">2026-06-23 16:12</span>
             </div>
         </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html" target="_blank">Anthropic’s Fable 5 Model Jailbroken Within Days</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-23 11:03</span>
+            </div>
+        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -240,6 +249,15 @@
                 <span class="title"><a href="https://kotaku.com/valve-says-the-companies-making-ram-give-them-a-price-and-if-they-say-no-they-never-talk-to-us-again-2000709575" target="_blank">Valve Says The Companies Making RAM Give Them A Price And If They Say No, They ‘Never Talk To Us Again’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-23 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/KubCollection-e1782238453873.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="The Criterion Collection&#x27;s Stanley Kubrick set is coming for your wallet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/23/the-criterion-collections-stanley-kubrick-set-is-coming-for-your-wallet.html" target="_blank">The Criterion Collection&#x27;s Stanley Kubrick set is coming for your wallet</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-23 18:14</span>
             </div>
         </div>
 <div class="story">
@@ -278,15 +296,6 @@
                 <span class="time">2026-06-23 16:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/DashResume-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This AI resume tool helps you get past ATS filters for $40" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/23/this-ai-resume-tool-helps-you-get-past-ats-filters-for-40.html" target="_blank">This AI resume tool helps you get past ATS filters for $40</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-23 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 39 | 📸 With Images: 241 |
-        🔄 Last Updated: 18:36 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 39 | 📸 With Images: 241 |
+        🔄 Last Updated: 19:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
