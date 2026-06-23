@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-23 13:48:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-23 14:58:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, June 23, 2026 - 13:48 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, June 23, 2026 - 14:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +107,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/64b87fbfc3f2cf2daf39fccd/master/pass/Jackery-Explorer-2000-Plus-Lifestyle-Gear.png" alt="Stop Worrying About Storms with This Jackery Power Station—Half-off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jackerys-power-station-half-off-for-prime-day-2026/" target="_blank">Stop Worrying About Storms with This Jackery Power Station—Half-off for Prime Day</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-23 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/953038/hoto-electric-screwdriver-kit-pro-amazon-deal-sale" target="_blank">Hoto’s 25-bit electric screwdriver is 40 percent off during Prime Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-23 14:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -137,29 +160,38 @@
                 <span class="time">2026-06-23 10:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a39bf7f0bf55f5b8a30365a/master/pass/The-Best-Prime-Day-Apple-Deals-on-AirPods,-iPads,-and-More.jpg" alt="Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-prime-day-apple-deals-2026/" target="_blank">Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-23 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/i-slashed-my-power-bill-in-half-with-a-whole-home-battery/" target="_blank">Time-Based Use Rates and Whole-Home Battery Backups Combine</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-23 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/varunvarde/devsecops-explained-embedding-security-into-every-deployment-30mn" target="_blank">DevSecOps Explained: Embedding Security into Every Deployment</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-23 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ATI-R300-Big-Endian-2026" target="_blank">Open-Source Driver For ATI R300 Era GPUs Seeing Improved Power Mac Support In 2026</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-23 14:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/06/23/the-2026-developer-survey-is-now-open-for-human-developers-only/" target="_blank">The 2026 Developer Survey is now open (for human developers only)!​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​﻿‌‍‌‍​﻿​﻿​﻿‌‍​﻿​‍‌‍‌‌​﻿​‌​‍﻿‌‌‍‌‍‌‍‌‌​﻿‌﻿‌‍​‍​‍﻿‌​﻿‌​​﻿‌‌‌‍​‌‌‍‌‍​‍﻿‌‌‍​‍​﻿‌‍​﻿‍‌‌‍​﻿​‍﻿‌​﻿‍‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​﻿​﻿​‌‌‍​﻿​﻿‌‍‌‍​‌​﻿​​​﻿‌‌​﻿​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​﻿‌‍‌‍​﻿​﻿​﻿‌‍​﻿​‍‌‍‌‌​﻿​‌​‍﻿‌‌‍‌‍‌‍‌‌​﻿‌﻿‌‍​‍​‍﻿‌​﻿‌​​﻿‌‌‌‍​‌‌‍‌‍​‍﻿‌‌‍​‍​﻿‌‍​﻿‍‌‌‍​﻿​‍﻿‌​﻿‍‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​﻿​﻿​‌‌‍​﻿​﻿‌‍‌‍​‌​﻿​​​﻿‌‌​﻿​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-06-23 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,38 +219,29 @@
                 <span class="time">2026-06-23 13:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Serial" target="_blank">Linux 8250/16550 UART Serial Driver Seeing Some Modernization Work In 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-23 10:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.stephendiehl.com/posts/bad_place_2026/" target="_blank">Crypto in 2026: Oh, This Is the Bad Place</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-23 10:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/aws-blocks-framework-preview/en/headerimage/generatedHeaderImage-1782118076693.jpg" alt="AWS Launches Blocks, an Open-Source TypeScript Framework Designed for AI Agents to Build Backends" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/aws-blocks-framework-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Blocks, an Open-Source TypeScript Framework Designed for AI Agents to Build Backends</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-23 09:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/3840px-Colossi_of_Memnon_May_2015_2-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="For centuries, a cracked Egyptian statue sang at dawn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/23/post-colossi-of-memnon.html" target="_blank">For centuries, a cracked Egyptian statue sang at dawn</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-23 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVRQF7662B0KG1Y5X5YK7FGW/hero-image.png" alt="The Best Prime Day Deals on Bluetooth Speakers up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/bluetooth-speaker-deals-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Bluetooth Speakers up to 50% Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-23 14:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/artfixer-1280x720.jpg" alt="AI Hallucinations Are A Feature, Not A Bug" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,24 +278,6 @@
                 <span class="time">2026-06-22 21:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/od1-960x539-1.jpg" alt="Only Xbox Was Interested In Kojima’s Horror Game, Other Companies Didn’t ‘Understand The Concept’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/only-xbox-was-interested-in-kojimas-horror-game-other-companies-didnt-understand-the-concept-2000709107" target="_blank">Only Xbox Was Interested In Kojima’s Horror Game, Other Companies Didn’t ‘Understand The Concept’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-22 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVREJXQ82VRM2QNCDJE1N8KM/hero-image.png" alt="The Echo Dot Max Is Cheaper Than Ever Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/echo-dot-max-deal-prime-day-2026?utm_medium=RSS" target="_blank">The Echo Dot Max Is Cheaper Than Ever Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-22 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 241 |
-        🔄 Last Updated: 13:48 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 14:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
