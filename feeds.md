@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-23 17:32:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-23 18:35:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 14 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, June 23, 2026 - 17:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, June 23, 2026 - 18:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,9 +105,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/955121/meta-prediction-market-app-arena-polymarket-kalshi-clone" target="_blank">Zuckerberg reportedly wants a Polymarket clone — but without real money</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-23 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026_Toyota_C-HR_XSE_Tandoori_108_NR-500x500.jpg" alt="A curious crossover: The Toyota C-HR review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/" target="_blank">A curious crossover: The Toyota C-HR review</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-23 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/transportation/955011/formula-e-season-13-electric-racing" target="_blank">Formula E&amp;#8217;s new season is starting to look more like F1</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-23 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/" target="_blank">Anthropic’s Claude Tag is learning your company, one Slack message at a time</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-23 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -130,33 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026" target="_blank">Here are the best Prime Day deal on the Verge staff’s favorite stuff</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/64627b7d065114c6bc3080cc/master/pass/Gear%20Yeti%20Hopper%2012%20SOURCE%20Yeti.jpg" alt="Just in Time for July Fourth, I Found 3 Great Yeti Cooler Deals (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/yeti-tundra-coolers-are-on-rare-sale-today-apd/" target="_blank">Just in Time for July Fourth, I Found 3 Great Yeti Cooler Deals (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-23 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/" target="_blank">Password manager maker LastPass says hackers stole customer support case data during Klue breach</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-23 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/64b87fbfc3f2cf2daf39fccd/master/pass/Jackery-Explorer-2000-Plus-Lifestyle-Gear.png" alt="Stop Worrying About Storms with This Jackery Power Station—Half-off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jackerys-power-station-half-off-for-prime-day-2026/" target="_blank">Stop Worrying About Storms with This Jackery Power Station—Half-off for Prime Day</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-23 14:52</span>
             </div>
         </div>
 </div>
@@ -238,6 +234,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/ramguy-1280x720.jpg" alt="Valve Says The Companies Making RAM Give Them A Price And If They Say No, They ‘Never Talk To Us Again’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/valve-says-the-companies-making-ram-give-them-a-price-and-if-they-say-no-they-never-talk-to-us-again-2000709575" target="_blank">Valve Says The Companies Making RAM Give Them A Price And If They Say No, They ‘Never Talk To Us Again’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-23 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KTXFM7BRV5YDX7F143P3QDF7/hero-image.png" alt="These Budget-Friendly Samsung Galaxy Earbuds Are Almost 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-buds-3-fe-sale-prime-day-2026?utm_medium=RSS" target="_blank">These Budget-Friendly Samsung Galaxy Earbuds Are Almost 40% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-23 18:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVTF86K9CPWZ91MQ18Q18E6D/hero-image.png" alt="Prime Day 2026 Live Blog: The Best Deals on Headphones, TVs, Fitness Tech, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -273,24 +287,6 @@
                 <span class="time">2026-06-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/3840px-Colossi_of_Memnon_May_2015_2-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="For centuries, a cracked Egyptian statue sang at dawn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/23/post-colossi-of-memnon.html" target="_blank">For centuries, a cracked Egyptian statue sang at dawn</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-23 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVRQF7662B0KG1Y5X5YK7FGW/hero-image.png" alt="The Best Prime Day Deals on Bluetooth Speakers up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/bluetooth-speaker-deals-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Bluetooth Speakers up to 50% Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-23 14:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 39 | 📸 With Images: 240 |
-        🔄 Last Updated: 17:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 39 | 📸 With Images: 241 |
+        🔄 Last Updated: 18:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
