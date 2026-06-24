@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 05:16:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-24 07:04:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 05:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,54 +52,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss" target="_blank">Diabetes patients in Gaza face survival battle amid war shortages</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-24 06:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/24/nx-s1-5869125/court-allows-trump-speedy-deportations" target="_blank">Appeals court allows Trump administration expanded use of speedy deportations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-24 06:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/24/kenyan-health-minister-orders-halt-of-construction-of-us-ebola-facility?traffic_source=rss" target="_blank">Kenyan Health Minister orders halt of construction of US Ebola facility</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-24 05:06</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782267221750_now_brk_brad_lander_projected_win_260623_S3_1920x1080-zpdtrw.jpg" alt="Brad Lander projected winner in N.Y. Democratic primary for 10th Congressional district" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/brad-lander-projected-winner-in-ny-10-democratic-primary-265578053557" target="_blank">Brad Lander projected winner in N.Y. Democratic primary for 10th Congressional district</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-24 02:13</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence" target="_blank">Play puts spotlight on Kenya’s crisis of gender-based violence</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-24 04:00</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340e/live/f69c8770-6f7b-11f1-8e1d-bbbb1017d210.jpg" alt="Congress passes war powers measure for first time, rebuking Trump&#x27;s war with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/24/syrians-reject-trumps-call-for-syria-to-combat-hezbollah-in-lebanon?traffic_source=rss" target="_blank">Syrians reject Trump’s call for Syria to combat Hezbollah in Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-24 01:57</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss" target="_blank">Congress passes war powers measure for first time, rebuking Trump&#x27;s war with Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-24 03:57</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-the-world-podcast-richard-engel_7259029.jpg?20260526161544" alt="Can Trump&#x27;s Iran deal survive?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss" target="_blank">Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-24 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/23/ronaldo-late-to-world-cup-party-but-still-able-to-steal-the-show?traffic_source=rss" target="_blank">Ronaldo late to World Cup party but still able to steal the show</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-23 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/23/us-supreme-court-says-rastafarian-man-shaved-by-prison-guards-cant-sue?traffic_source=rss" target="_blank">US Supreme Court says Rastafarian man shaved by prison guards can’t sue</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-23 23:01</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/can-trumps-iran-deal-survive-13557161" target="_blank">Can Trump&#x27;s Iran deal survive?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-24 03:30</span>
             </div>
         </div>
 </div>
@@ -167,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oleksandr_kuryzhev_42873f/fix-untagged-aws-resources-automatically-with-python-and-boto3-232n" target="_blank">Fix Untagged AWS Resources Automatically with Python and Boto3</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-24 07:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mr_hamlin/we-made-our-x402-payment-gateway-loop-native-heres-how-and-why-your-agent-needs-it-4iog" target="_blank">We Made Our x402 Payment Gateway Loop-Native — Here&#x27;s How (and Why Your Agent Needs It)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-24 01:24</span>
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/erintomorri/i-thought-my-companys-new-urinal-was-revolutionary-1hpm" target="_blank">I Thought My Company&#x27;s New Urinal Was Revolutionary</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-23 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.1" target="_blank">COSMIC Epoch 1.1 Released With COSMIC-Monitor, Compositor Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-23 20:49</span>
             </div>
         </div>
 </div>
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 05:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
