@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 11:57:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-24 12:50:49 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 11:57 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 12:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/24/iranians-cautiously-optimistic-about-thorny-deal-with-us?traffic_source=rss" target="_blank">Iranians cautiously optimistic about thorny deal with US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-24 12:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc" target="_blank">France confirms first Ebola case in doctor who had worked in DRC</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-24 12:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a57/live/2d405c80-6fc1-11f1-b1db-af71d47507d6.jpg" alt="Power outages hit France as record heatwave set to peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +100,20 @@
                 <span class="time">2026-06-24 09:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/24/nx-s1-5851839/how-to-plan-a-dream-summer" target="_blank">4 ways to design a dreamy summer, according to a happiness expert</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-24 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/24/ukraine-strikes-strategic-russian-bridge-in-crimea?traffic_source=rss" target="_blank">Ukraine strikes strategic Russian bridge in Crimea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-24 08:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/955300/star-fox-review-nintendo-switch-2" target="_blank">Star Fox is the Switch 2’s most impressive visual showcase yet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-24 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +159,20 @@
                 <span class="time">2026-06-24 06:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-dyson-deals-2026/" target="_blank">Best Dyson Deals for Prime Day: Vacuums, Hair Tools, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-24 00:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/krithika_murugesan_0698b3/crewai-installation-guide-how-i-set-up-a-multi-agent-system-and-fixed-common-errors-1le8" target="_blank">CrewAI Installation Guide: How I Set Up a Multi-Agent System and Fixed Common Errors</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-24 12:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,6 +192,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/5-principles-llm-behavior/en/mediumimage/naomi-saphra-medium-1781688751052.jpg" alt="Presentation: Rules for Understanding Language Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/5-principles-llm-behavior/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Rules for Understanding Language Models</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-24 11:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -201,24 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/articles/rdla-offline-first-reactive-android-data-layer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beyond CLEAN and MVP: Architecting an Offline-first Reactive Data Layer in Android</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-24 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ycbing/i-built-an-ai-studio-that-turns-1-line-of-text-into-a-5-minute-short-drama-j01" target="_blank">I Built an AI Studio That Turns 1 Line of Text Into a 5-Minute Short Drama</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-24 08:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bunny.net/blog/were-making-bunny-dns-free/" target="_blank">We&#x27;re making Bunny DNS free: because a faster internet won&#x27;t build itself</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-24 08:50</span>
             </div>
         </div>
 </div>
@@ -249,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVVJP4BDB22RMMKFZ0E007HK/hero-image.png" alt="The Best Prime Day Deals on VR Headsets and Accessories up to 32% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-vr-headset-and-accessory-deals-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on VR Headsets and Accessories up to 32% Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-24 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/arbys.jpg?fit=1102%2C803&amp;quality=60&amp;ssl=1" alt="We Have The Herpes: Arby&#x27;s worker accused of infecting customer by spitting in food" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +300,6 @@
                 <span class="time">2026-06-23 19:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/ramguy-1280x720.jpg" alt="Valve Says The Companies Making RAM Give Them A Price And If They Say No, They ‘Never Talk To Us Again’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/valve-says-the-companies-making-ram-give-them-a-price-and-if-they-say-no-they-never-talk-to-us-again-2000709575" target="_blank">Valve Says The Companies Making RAM Give Them A Price And If They Say No, They ‘Never Talk To Us Again’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-23 18:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 11:57 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 12:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
