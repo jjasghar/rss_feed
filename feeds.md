@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 01:34:43 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-24 03:00:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 01:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/24/syrians-reject-trumps-call-for-syria-to-combat-hezbollah-in-lebanon?traffic_source=rss" target="_blank">Syrians reject Trump’s call for Syria to combat Hezbollah in Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-24 01:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://news.sky.com/story/german-railway-network-comes-to-halt-due-to-problem-with-communication-system-13557238" target="_blank">Trains across Germany halted due to problem with communication system</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-06-23 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/23/nx-s1-5867684/supreme-court-prison-guards-rastafarian-dreadlocks" target="_blank">Supreme Court rules that prison guards can&#x27;t be sued for shaving Rastafarian&#x27;s head</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-23 22:33</span>
             </div>
         </div>
 </div>
@@ -182,6 +181,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://words.filippo.io/vuln-reports/" target="_blank">Vulnerability reports are not special anymore</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-23 23:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/04/cosmic-7.jpg?resize=406%2C232&amp;ssl=1" alt="COSMIC desktop update adds new system monitor app" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -206,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.1" target="_blank">COSMIC Epoch 1.1 Released With COSMIC-Monitor, Compositor Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-23 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/po8rewq/designing-single-purpose-agents-instead-of-one-big-automation-script-ddg" target="_blank">Designing Single-Purpose Agents Instead of One Big Automation Script</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-23 20:30</span>
             </div>
         </div>
 </div>
@@ -245,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/arbys.jpg?fit=1102%2C803&amp;quality=60&amp;ssl=1" alt="We Have The Herpes: Arby&#x27;s worker accused of infecting customer by spitting in food" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/23/we-have-the-herpes-arbys-worker-accused-of-infecting-customer-by-spitting-in-food.html" target="_blank">We Have The Herpes: Arby&#x27;s worker accused of infecting customer by spitting in food</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-24 01:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/mio-1280x734.jpg" alt="The Studio Behind One Of 2026’s Most Delightful Metroidvanias Is Closing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +298,6 @@
                 <span class="time">2026-06-23 18:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/KubCollection-e1782238453873.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="The Criterion Collection&#x27;s Stanley Kubrick set is coming for your wallet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/23/the-criterion-collections-stanley-kubrick-set-is-coming-for-your-wallet.html" target="_blank">The Criterion Collection&#x27;s Stanley Kubrick set is coming for your wallet</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-23 18:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 01:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 237 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
