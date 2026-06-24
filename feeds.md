@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 22:26:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-24 23:22:21 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 22:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 23:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/24/european-heatwave-scorching-weather-triggers-uk-red-warning?traffic_source=rss" target="_blank">European heatwave, scorching weather triggers UK ‘red’ warning</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-24 22:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +103,29 @@
                 <span class="time">2026-06-24 19:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-3-rt-gmh-260624._1782312259509_hpMain_4x3t_384.jpg" alt="Judge permanently blocks Trump EO requiring proof of citizenship to vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/judge-permanently-blocks-trump-eo-requiring-proof-citizenship/story?id=134175354" target="_blank">Judge permanently blocks Trump EO requiring proof of citizenship to vote</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-24 19:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/gta6-500x500.jpg" alt="Hotly anticipated Grand Theft Auto VI will cost more than other AAA games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/" target="_blank">Hotly anticipated Grand Theft Auto VI will cost more than other AAA games</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-24 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026" target="_blank">This year’s Prime Day deals on Apple products are the best I’ve seen</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-24 21:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/NASA_MSFC_031224_USA-DTA-install-onto-test-stand-4large-500x500.jpg" alt="13 years and $500 million for a stage adapter? Report justifies NASA cancellations." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +162,20 @@
                 <span class="time">2026-06-24 19:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games" target="_blank">GTA VI is a worrying sign for the future of physical games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-24 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/m39421_COTA-American-Flag-Landscape-500x500.jpg" alt="Formula E reveals first calendar for GEN4 with lots of real race tracks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/06/formula-e-reveals-first-calendar-for-gen4-with-lots-of-real-race-tracks/" target="_blank">Formula E reveals first calendar for GEN4 with lots of real race tracks</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-24 17:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ybear_81/how-i-connected-claude-desktop-to-live-salesforce-crm-data-using-mcp-3p50" target="_blank">How I Connected Claude Desktop to Live Salesforce CRM Data Using MCP</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-24 23:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm2ea41kmwp186fo65us6.png" alt="Your @EventListener Fires Before the Transaction Commits⚙️" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/code_with_kyryl/your-eventlistener-fires-before-the-transaction-commits-286m" target="_blank">Your @EventListener Fires Before the Transaction Commits⚙️</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-24 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-MM" target="_blank">MGLRU Improvement Yielding Nice Gains On Linux 7.2: MongoDB 30~100% Higher Throughput</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-24 21:19</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/google-open-rl-fine-tuning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google OpenRL is an Experimental Self-hosted API for LLM Post-Training Fine-tuning</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-24 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/" target="_blank">OpenAI unveils its first custom chip, built by Broadcom</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-24 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/tech-interviews-with-neetcode" target="_blank">Tech interviews with NeetCode</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-06-24 17:32</span>
             </div>
         </div>
 </div>
@@ -325,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 22:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 23:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
