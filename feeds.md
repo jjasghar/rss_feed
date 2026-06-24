@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 17:34:20 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-24 18:30:58 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 17:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 18:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +44,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/24/ivan-cepeda-concedes-defeat-in-colombia-election-sealing-right-wing-win?traffic_source=rss" target="_blank">Ivan Cepeda concedes defeat in Colombia election, sealing right-wing win</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-24 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/24/nx-s1-5869578/kennedy-center-tarp" target="_blank">A judge says the Kennedy Center must update him on its plans — and address that tarp</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-24 18:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e66/live/9b1b95b0-6feb-11f1-a9c4-37da5d161ee0.jpg" alt="Power outages hit France as it records hottest day since measurements began" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss" target="_blank">Power outages hit France as it records hottest day since measurements began</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-24 17:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782318532713_now_daily_a_allen_trump_housing_260624_S3_1920x1080-oe78uy.jpg" alt="Trump cancels plan to sign housing bill until Congress passes election reforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-cancels-plan-to-sign-housing-bill-until-congress-passes-election-reforms-265606213504" target="_blank">Trump cancels plan to sign housing bill until Congress passes election reforms</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-24 16:29</span>
             </div>
         </div>
 <div class="story">
@@ -74,33 +97,6 @@
                 <span class="time">2026-06-24 14:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260624-Trump-aa-1005-12af24.jpg" alt="Trump cancels plan to sign major housing bill as he fights with Congress over the SAVE Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-cancels-plan-sign-major-housing-bill-fights-congress-act-rcna351558" target="_blank">Trump cancels plan to sign major housing bill as he fights with Congress over the SAVE Act</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-24 14:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/24/iranians-cautiously-optimistic-about-thorny-deal-with-us?traffic_source=rss" target="_blank">Iranians cautiously optimistic about thorny deal with US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-24 12:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc" target="_blank">France confirms first Ebola case in doctor who had worked in DRC</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-24 12:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +109,15 @@
                 <span class="title"><a href="https://www.wired.com/story/breville-deals-apd-6-24-2026/" target="_blank">The Best Breville Espresso Machine Is 30 Percent off Right Now (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-06-24 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/" target="_blank">Facebook rolls out an AI companion app for creators</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-24 17:16</span>
             </div>
         </div>
 <div class="story">
@@ -151,20 +156,20 @@
                 <span class="time">2026-06-24 15:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2224665122-500x500.jpg" alt="Military branches restore flu shot requirement after virus swept through base" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/" target="_blank">Military branches restore flu shot requirement after virus swept through base</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-24 14:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/google-open-rl-fine-tuning/en/headerimage/google-open-rl-fine-tuning-1782322457170.jpeg" alt="Google OpenRL is an Experimental Self-hosted API for LLM Post-Training Fine-tuning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/google-open-rl-fine-tuning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google OpenRL is an Experimental Self-hosted API for LLM Post-Training Fine-tuning</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-24 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +215,6 @@
                 <span class="time">2026-06-24 15:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/silverstone-rm32" target="_blank">SilverStone RM32 3U Server Chassis + 1000W Extreme 1000Rz Platinum PSU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-24 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +234,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVTPDJMRRY2GKC10A8E7C9P0/hero-image.jpg" alt="Save 30% on RingConn’s Gen 2 and Enjoy Health Data Without the Subscription Fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/ad/tech/save-30-on-ringconns-gen-2-and-enjoy-health-data-without-the-subscription?utm_medium=RSS" target="_blank">Save 30% on RingConn’s Gen 2 and Enjoy Health Data Without the Subscription Fees</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-24 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/rhythm-doggo-1280x720.jpg" alt="This Gorgeous Indie Platformer Has An Unreachable Area So Imaginary Dogs Don’t Have To Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-gorgeous-indie-platformer-has-an-unreachable-area-so-imaginary-dogs-dont-have-to-die-2000709929" target="_blank">This Gorgeous Indie Platformer Has An Unreachable Area So Imaginary Dogs Don’t Have To Die</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-24 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/microscope-view-of-intricate-gold-microchip-circuitry-with-numbered-frame-u201c6-u201d.jpeg?fit=1200%2C608&amp;quality=60&amp;ssl=1" alt="AI-designed radio chips look like QR codes and beat human ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/24/ai-designed-radio-chips-look-like-qr-codes-and-beat-human-ones.html" target="_blank">AI-designed radio chips look like QR codes and beat human ones</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-24 17:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2013/07/shutterstock_79316680.jpg?fit=600%2C322&amp;quality=60&amp;ssl=1" alt="Miami Marlins searching for this sad hotdog-less doggo, to treat him to a Dream Day at the ballpark" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/whats-new-on-netflix-in-july-2026?utm_medium=RSS" target="_blank">What&#x27;s New on Netflix in July 2026</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-24 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/fox.jpg" alt="Star Fox Reviews Say The Remake Of An N64 Classic Sticks The Landing, But Just Barely" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-fox-reviews-say-the-remake-of-an-n64-classic-sticks-the-landing-but-just-barely-2000709962" target="_blank">Star Fox Reviews Say The Remake Of An N64 Classic Sticks The Landing, But Just Barely</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-24 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVWS5BQMW8R116DEXE2VZ144/hero-image.webp" alt="The Best Home Security Deals From Google, Blink, and More Are up to 72% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-home-security-deals-prime-day-2026?utm_medium=RSS" target="_blank">The Best Home Security Deals From Google, Blink, and More Are up to 72% Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-24 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVVJP4BDB22RMMKFZ0E007HK/hero-image.png" alt="The Best Prime Day Deals on VR Headsets and Accessories up to 32% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-vr-headset-and-accessory-deals-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on VR Headsets and Accessories up to 32% Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-24 12:30</span>
             </div>
         </div>
 </div>
@@ -320,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 17:34 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 18:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
