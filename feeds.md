@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 13:40:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-24 14:53:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 13:41 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 14:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260624-Trump-aa-1005-12af24.jpg" alt="Trump cancels plan to sign major housing bill as he fights with Congress over the SAVE Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-cancels-plan-sign-major-housing-bill-fights-congress-act-rcna351558" target="_blank">Trump cancels plan to sign major housing bill as he fights with Congress over the SAVE Act</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-24 14:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +99,29 @@
                 <span class="time">2026-06-24 11:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/24/kenya-braces-for-return-of-gen-z-protests-how-did-they-begin?traffic_source=rss" target="_blank">Kenya braces for return of Gen Z protests – how did they begin?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-24 10:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/slate-screenshot-1-500x500-1782308233.jpg" alt="Slate Auto&#x27;s truck builder goes live for its $25k electric pickup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/06/here-are-five-ways-you-could-build-a-slate-ev-from-25000-to-37000/" target="_blank">Slate Auto&#x27;s truck builder goes live for its $25k electric pickup</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-24 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/" target="_blank">If you want to cut your screen time, just get a Brick</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-24 14:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/whitehouseapp-500x500.png" alt="White House app auto-downloads to government phones, can&#x27;t be uninstalled" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +158,38 @@
                 <span class="time">2026-06-24 11:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/952204/grand-theft-auto-vi-price" target="_blank">GTA VI finally gets a price tag</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-24 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a39c0acf875943dad2ebda1/master/pass/The-Best-Kindle-Deals-Happening-for-Amazon-Prime-Day.jpg" alt="Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/kindle-prime-day-deals-06-24-2026/" target="_blank">Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-24 08:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/slima4/999-uptime-is-43-minutes-a-month-do-you-know-your-number-1p9g" target="_blank">99.9% uptime is 43 minutes a month. Do you know your number?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-24 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/pinevoice-pine64-speaker.webp?resize=406%2C232&amp;ssl=1" alt="Pine64 launch $50 RISC-V smart speaker for Home Assistant tinkerers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch" target="_blank">Pine64 launch $50 RISC-V smart speaker for Home Assistant tinkerers</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-24 14:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-Linux-Gamma-2.4-2.6" target="_blank">New AMD Linux Patches Expose Gamma 2.4 + Gamma 2.6 Curves</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-24 14:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,33 +215,6 @@
                 <span class="title"><a href="https://dev.to/rosgluk/a2a-vs-mcp-do-ai-agents-really-need-both-protocols-27ce" target="_blank">A2A vs MCP: Do AI Agents Really Need Both Protocols?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-24 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/anbox-cloud-on-c4a-metal-android-at-scale-without-friction" target="_blank">Anbox Cloud on C4A metal: Android, at scale, without friction</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-24 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/5-principles-llm-behavior/en/mediumimage/naomi-saphra-medium-1781688751052.jpg" alt="Presentation: Rules for Understanding Language Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/5-principles-llm-behavior/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Rules for Understanding Language Models</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-24 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GCC-x86-Generic-Mispredict" target="_blank">One Line x86 Change To GCC Compiler Nets +12% Benchmark Win For Modern Intel/AMD CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-24 10:45</span>
             </div>
         </div>
 </div>
@@ -243,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/fox.jpg" alt="Star Fox Reviews Say The Remake Of An N64 Classic Sticks The Landing, But Just Barely" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-fox-reviews-say-the-remake-of-an-n64-classic-sticks-the-landing-but-just-barely-2000709962" target="_blank">Star Fox Reviews Say The Remake Of An N64 Classic Sticks The Landing, But Just Barely</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-24 14:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVWS5BQMW8R116DEXE2VZ144/hero-image.webp" alt="The Best Home Security Deals From Google, Blink, and More Are up to 72% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +299,6 @@
                 <span class="time">2026-06-23 21:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Deal Days cuts Microsoft Office Professional 2021 from $220 to $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/23/deal-days-cuts-microsoft-office-professional-2021-from-220-to-30.html" target="_blank">Deal Days cuts Microsoft Office Professional 2021 from $220 to $30</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-23 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 13:41 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 14:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
