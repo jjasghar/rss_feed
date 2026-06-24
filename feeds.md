@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 15:43:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-24 16:40:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 15:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 16:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/" target="_blank">NTSB launches probe into fatal Texas Tesla crash</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-24 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements" target="_blank">Figma now has AI motion graphics and shader tools</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-24 16:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a3b1efdfb31b3da3e9adc12/master/pass/politics_white_house_anthropic_dario_amodei.jpg" alt="The Trump White House Is Over Anthropic CEO Dario Amodei" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -135,29 +158,20 @@
                 <span class="time">2026-06-24 14:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/whitehouseapp-500x500.png" alt="White House app auto-downloads to government phones, can&#x27;t be uninstalled" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/white-house-app-auto-downloads-to-government-phones-cant-be-uninstalled/" target="_blank">White House app auto-downloads to government phones, can&#x27;t be uninstalled</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-24 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/955300/star-fox-review-nintendo-switch-2" target="_blank">Star Fox is the Switch 2’s most impressive visual showcase yet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-24 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzsb09kmk7ekhxmugap33.webp" alt="Building An AI Agent Playground Before Giving It Production Access" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nazar_boyko/building-an-ai-agent-playground-before-giving-it-production-access-4glh" target="_blank">Building An AI Agent Playground Before Giving It Production Access</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-24 16:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +217,6 @@
                 <span class="time">2026-06-24 14:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/constant_chen_/sipp-a-local-first-runtime-for-hybrid-ai-applications-2ce5" target="_blank">Sipp: a local-first runtime for Hybrid AI Applications</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-24 13:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -226,20 +231,20 @@
                 <span class="time">2026-06-24 11:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/" target="_blank">Scattered Spider Hackers Plead Guilty on Day 1 of Trial</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-06-23 16:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/OVR_S3_LegendarySkins_NyanCafe_Kiriko_UltraSkin_JPA_001-1280x720.jpg" alt="Overwatch Fans Revolt Over New Skins That Cost Too Damn Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-ultra-skins-kiriko-sierra-price-coins-bundle-2000710142" target="_blank">Overwatch Fans Revolt Over New Skins That Cost Too Damn Much</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-24 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVWZS6WDE538EP5G4B76J9B9/hero-image.png" alt="What&#x27;s New on Netflix in July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +290,6 @@
                 <span class="time">2026-06-24 01:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/mio-1280x734.jpg" alt="The Studio Behind One Of 2026’s Most Delightful Metroidvanias Is Closing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-studio-behind-one-of-2026s-most-delightful-metroidvanias-is-closing-2000709642" target="_blank">The Studio Behind One Of 2026’s Most Delightful Metroidvanias Is Closing</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-23 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 15:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 16:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
