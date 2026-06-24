@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 10:58:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-24 11:57:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 10:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 11:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a57/live/2d405c80-6fc1-11f1-b1db-af71d47507d6.jpg" alt="Power outages hit France as record heatwave set to peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss" target="_blank">Power outages hit France as record heatwave set to peak</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-24 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection" target="_blank">IAEA chief says inspectors will visit nuclear sites under Iran-U.S. interim deal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-24 11:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +103,29 @@
                 <span class="time">2026-06-24 08:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss" target="_blank">Diabetes patients in Gaza face survival battle amid war shortages</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-24 06:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/24/nx-s1-5869125/court-allows-trump-speedy-deportations" target="_blank">Appeals court allows Trump administration expanded use of speedy deportations</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-24 06:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/954273/dyson-pencilwash-wet-floor-cleaner-mop-deal-sale" target="_blank">The Dyson PencilWash is down to its lowest price ever for Prime Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-24 11:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a39c73ad8ef6fd843d20906/master/pass/Launorma_Liveblog.png" alt="We&#x27;re Tracking Prime Day Live To Find Sales Worth Shopping in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/live/amazon-prime-day-live-tracker-july-24-2026/" target="_blank">We&#x27;re Tracking Prime Day Live To Find Sales Worth Shopping in 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-24 11:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +162,38 @@
                 <span class="time">2026-06-24 00:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/" target="_blank">Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-24 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026" target="_blank">The best robot vacuum deals available during Prime Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-24 00:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rosgluk/a2a-vs-mcp-do-ai-agents-really-need-both-protocols-27ce" target="_blank">A2A vs MCP: Do AI Agents Really Need Both Protocols?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-24 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/anbox-cloud-on-c4a-metal-android-at-scale-without-friction" target="_blank">Anbox Cloud on C4A metal: Android, at scale, without friction</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-24 11:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCC-x86-Generic-Mispredict" target="_blank">One Line x86 Change To GCC Compiler Nets +12% Benchmark Win For Modern Intel/AMD CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-24 10:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/rdla-offline-first-reactive-android-data-layer/en/headerimage/rdla-offline-first-reactive-android-data-layer-header-1781776366032.jpg" alt="Article: Beyond CLEAN and MVP: Architecting an Offline-first Reactive Data Layer in Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,33 +221,6 @@
                 <span class="time">2026-06-24 08:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oleksandr_kuryzhev_42873f/fix-untagged-aws-resources-automatically-with-python-and-boto3-232n" target="_blank">Fix Untagged AWS Resources Automatically with Python and Boto3</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-24 07:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mr_hamlin/we-made-our-x402-payment-gateway-loop-native-heres-how-and-why-your-agent-needs-it-4iog" target="_blank">We Made Our x402 Payment Gateway Loop-Native — Here&#x27;s How (and Why Your Agent Needs It)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-24 01:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Sched-Ext-Restructured" target="_blank">&quot;Disgusting&quot; Linux sched_ext Source Code Restructured Following Complaint By Linus Torvalds</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-24 00:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,19 +229,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/" target="_blank">Scattered Spider Hackers Plead Guilty on Day 1 of Trial</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-06-23 16:12</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis-2.html" target="_blank">Embedding Forbidden Text in Spyware to Discourage AI Analysis</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-24 11:03</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html" target="_blank">Anthropic’s Fable 5 Model Jailbroken Within Days</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-23 11:03</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/" target="_blank">Scattered Spider Hackers Plead Guilty on Day 1 of Trial</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-06-23 16:12</span>
             </div>
         </div>
 </div>
@@ -339,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 10:58 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 11:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
