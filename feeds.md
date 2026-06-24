@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 21:28:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-24 22:26:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 21:28 UTC</div>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 22:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/24/ronaldinho-makes-surprise-return-to-football-at-46?traffic_source=rss" target="_blank">Ronaldinho makes surprise return to football at 46</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-24 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e66/live/9b1b95b0-6feb-11f1-a9c4-37da5d161ee0.jpg" alt="France, UK and Spain see record temperatures as heatwave grips western Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss" target="_blank">France, UK and Spain see record temperatures as heatwave grips western Europe</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-24 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-capitol-16-gty-gmh-260624_1782326054435_hpMain_4x3t_384.jpg" alt="Trump and Cassidy clash over war powers vote in meeting with Republican senators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-cassidy-clash-war-powers-vote-meeting-republican/story?id=134179399" target="_blank">Trump and Cassidy clash over war powers vote in meeting with Republican senators</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-24 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6551/live/0e9d3450-6fea-11f1-b1db-af71d47507d6.jpg" alt="UK sees hottest June day on record as 36.1C recorded in Hampshire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,38 +97,20 @@
                 <span class="time">2026-06-24 19:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai" target="_blank">Meta plans to release AI-powered prediction market app, documents show</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-24 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/24/ivan-cepeda-concedes-defeat-in-colombia-election-sealing-right-wing-win?traffic_source=rss" target="_blank">Ivan Cepeda concedes defeat in Colombia election, sealing right-wing win</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-24 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/24/nx-s1-5869578/kennedy-center-tarp" target="_blank">A judge says the Kennedy Center must update him on its plans — and address that tarp</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-24 18:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/NASA_MSFC_031224_USA-DTA-install-onto-test-stand-4large-500x500.jpg" alt="13 years and $500 million for a stage adapter? Report justifies NASA cancellations." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/" target="_blank">13 years and $500 million for a stage adapter? Report justifies NASA cancellations.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-24 21:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a3c36cecc32244df2188fca/master/pass/This-Is-the-Roborock-Vacuum-To-Buy-During-Prime-Day.jpg" alt="The Best Roborock Deal This Prime Day (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/cars/2026/06/formula-e-reveals-first-calendar-for-gen4-with-lots-of-real-race-tracks/" target="_blank">Formula E reveals first calendar for GEN4 with lots of real race tracks</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-24 17:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a34781c9bab9b898fe10473/master/pass/Amazon%E2%80%99s-2-Best-Selling-Espresso-Machines-Are-Up-to-$200-Off.jpg" alt="The Best Breville Espresso Machine Is 30 Percent off Right Now (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/breville-deals-apd-6-24-2026/" target="_blank">The Best Breville Espresso Machine Is 30 Percent off Right Now (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-24 17:31</span>
             </div>
         </div>
 </div>
@@ -231,6 +235,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/sonic.jpg" alt="The Original Sonic Games Are Back With New Sega Genesis Cartridges That Will Only Cost You $100 A Piece" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-original-sonic-games-are-back-with-new-sega-genesis-cartridges-that-will-only-cost-you-100-a-piece-2000710199" target="_blank">The Original Sonic Games Are Back With New Sega Genesis Cartridges That Will Only Cost You $100 A Piece</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-24 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVRWR5DG7G8MSKTJXMQCEZDQ/hero-image.png" alt="Stage a Backyard Movie Night With These Portable Projectors, up to 40% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-projector-deals-prime-day-june-24-2026?utm_medium=RSS" target="_blank">Stage a Backyard Movie Night With These Portable Projectors, up to 40% Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-24 21:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Chicosdelivery-1280x720.jpg" alt="Sony’s New Shovelware Purge Forces Another Game Maker Off The PlayStation Store" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -264,24 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/best-deals-video-games-controllers-peripherals-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Video Games, Controllers, and Peripherals</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-24 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/03/dogecoin-e1739219389594.jpg?fit=1080%2C864&amp;quality=60&amp;ssl=1" alt="Companies discover AI is expensive when employees actually use it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/24/companies-discover-ai-is-expensive-when-employees-actually-use-it.html" target="_blank">Companies discover AI is expensive when employees actually use it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-24 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01-1280x720.jpg" alt="Time Is A Flat Circle As People Online Debate If GTA 6 Has Suffered A Graphical Downgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/time-is-a-flat-circle-as-people-online-debate-if-gta-6-has-suffered-a-graphical-downgrade-2000710166" target="_blank">Time Is A Flat Circle As People Online Debate If GTA 6 Has Suffered A Graphical Downgrade</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-24 19:08</span>
             </div>
         </div>
 </div>
@@ -321,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 21:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 22:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
