@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 12:50:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-24 13:40:54 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 12:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 13:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -65,6 +62,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2" target="_blank">Star Fox Review: Can&#x27;t quite teach an old Fox new tricks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-24 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a57/live/2d405c80-6fc1-11f1-b1db-af71d47507d6.jpg" alt="Power outages hit France as record heatwave set to peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -91,20 +97,20 @@
                 <span class="time">2026-06-24 10:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/lander-mamdani_1782268950970_hpMain_4x3t_384.jpg" alt="Clean sweep as 3 candidates endorsed by Mamdani win primaries in New York" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/clean-sweep-3-candidates-endorsed-mamdani-win-primaries/story?id=134152579" target="_blank">Clean sweep as 3 candidates endorsed by Mamdani win primaries in New York</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-24 09:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/whitehouseapp-500x500.png" alt="White House app auto-downloads to government phones, can&#x27;t be uninstalled" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/white-house-app-auto-downloads-to-government-phones-cant-be-uninstalled/" target="_blank">White House app auto-downloads to government phones, can&#x27;t be uninstalled</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-24 13:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +156,20 @@
                 <span class="time">2026-06-24 08:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/" target="_blank">How to invest when everything is moving too fast</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-24 06:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/constant_chen_/sipp-a-local-first-runtime-for-hybrid-ai-applications-2ce5" target="_blank">Sipp: a local-first runtime for Hybrid AI Applications</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-24 13:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +215,6 @@
                 <span class="time">2026-06-24 10:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/rdla-offline-first-reactive-android-data-layer/en/headerimage/rdla-offline-first-reactive-android-data-layer-header-1781776366032.jpg" alt="Article: Beyond CLEAN and MVP: Architecting an Offline-first Reactive Data Layer in Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/rdla-offline-first-reactive-android-data-layer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beyond CLEAN and MVP: Architecting an Offline-first Reactive Data Layer in Android</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-24 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVWS5BQMW8R116DEXE2VZ144/hero-image.webp" alt="The Best Home Security Deals From Google, Blink, and More Are up to 72% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-home-security-deals-prime-day-2026?utm_medium=RSS" target="_blank">The Best Home Security Deals From Google, Blink, and More Are up to 72% Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-24 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVVJP4BDB22RMMKFZ0E007HK/hero-image.png" alt="The Best Prime Day Deals on VR Headsets and Accessories up to 32% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +297,6 @@
                 <span class="time">2026-06-23 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/CleanShot-2026-06-23-at-12.09.36%402x.jpg?fit=1200%2C671&amp;quality=60&amp;ssl=1" alt="Duplicate Content splices 1960s video art with today&#x27;s TikToks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/23/duplicate-content-splices-1960s-video-art-with-todays-tiktoks.html" target="_blank">Duplicate Content splices 1960s video art with today&#x27;s TikToks</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-23 19:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -337,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 12:51 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 13:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
