@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 14:53:17 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-24 15:43:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 14:53 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 15:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/24/nx-s1-5866554/texas-secretary-of-state-schatzline" target="_blank">Will Texas&#x27; new top voting official be a &#x27;disruptor&#x27;? Locals are preparing for it</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-24 15:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-260623_1782226136444_hpMain_4x3t_384.jpg" alt="Trump cancels signing of bipartisan housing bill until his SAVE America Act is passed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-cancels-signing-bipartisan-housing-bill-save-america/story?id=134169511" target="_blank">Trump cancels signing of bipartisan housing bill until his SAVE America Act is passed</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-24 14:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260624-Trump-aa-1005-12af24.jpg" alt="Trump cancels plan to sign major housing bill as he fights with Congress over the SAVE Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +94,29 @@
                 <span class="time">2026-06-24 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a57/live/2d405c80-6fc1-11f1-b1db-af71d47507d6.jpg" alt="Power outages hit France as record heatwave set to peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss" target="_blank">Power outages hit France as record heatwave set to peak</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-24 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection" target="_blank">IAEA chief says inspectors will visit nuclear sites under Iran-U.S. interim deal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-24 11:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3b1efdfb31b3da3e9adc12/master/pass/politics_white_house_anthropic_dario_amodei.jpg" alt="The Trump White House Is Over Anthropic CEO Dario Amodei" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/" target="_blank">The Trump White House Is Over Anthropic CEO Dario Amodei</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-24 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2224665122-500x500.jpg" alt="Military branches restore flu shot requirement after virus swept through base" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/" target="_blank">Military branches restore flu shot requirement after virus swept through base</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-24 14:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/slate-screenshot-1-500x500-1782308233.jpg" alt="Slate Auto&#x27;s truck builder goes live for its $25k electric pickup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +153,29 @@
                 <span class="time">2026-06-24 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/954273/dyson-pencilwash-wet-floor-cleaner-mop-deal-sale" target="_blank">The Dyson PencilWash is down to its lowest price ever for Prime Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-24 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a39c73ad8ef6fd843d20906/master/pass/Launorma_Liveblog.png" alt="We&#x27;re Tracking Prime Day Live To Find Sales Worth Shopping in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/live/amazon-prime-day-live-tracker-july-24-2026/" target="_blank">We&#x27;re Tracking Prime Day Live To Find Sales Worth Shopping in 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-24 11:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/post01/devto-how-online-casinos-prove-their-rng-is-fair-and-why-most-software-cant-3l92" target="_blank">dev.to How Online Casinos Prove Their RNG Is Fair, and Why Most Software Can&#x27;t</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-24 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/silverstone-rm32" target="_blank">SilverStone RM32 3U Server Chassis + 1000W Extreme 1000Rz Platinum PSU</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-24 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +212,6 @@
                 <span class="time">2026-06-24 13:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/krithika_murugesan_0698b3/crewai-installation-guide-how-i-set-up-a-multi-agent-system-and-fixed-common-errors-1le8" target="_blank">CrewAI Installation Guide: How I Set Up a Multi-Agent System and Fixed Common Errors</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-24 12:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rosgluk/a2a-vs-mcp-do-ai-agents-really-need-both-protocols-27ce" target="_blank">A2A vs MCP: Do AI Agents Really Need Both Protocols?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-24 11:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVWZS6WDE538EP5G4B76J9B9/hero-image.png" alt="What&#x27;s New on Netflix in July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/whats-new-on-netflix-in-july-2026?utm_medium=RSS" target="_blank">What&#x27;s New on Netflix in July 2026</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-24 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/fox.jpg" alt="Star Fox Reviews Say The Remake Of An N64 Classic Sticks The Landing, But Just Barely" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,20 +294,20 @@
                 <span class="time">2026-06-23 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVCYE6Q09HAEEV3ESVDDEB9A/hero-image.png" alt="This Fire TV Soundbar Is Over 40% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazons-fire-tv-soundbar-plus-prime-day-2026?utm_medium=RSS" target="_blank">This Fire TV Soundbar Is Over 40% Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-23 21:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1782175517-20260624.png" alt="Saturday Morning Breakfast Cereal - Comedy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/comedy-2" target="_blank">Saturday Morning Breakfast Cereal - Comedy</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-24 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -322,22 +326,13 @@
                 <span class="time">2026-06-23 16:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1782077132-20260623.png" alt="Saturday Morning Breakfast Cereal - Spiraling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/spiraling" target="_blank">Saturday Morning Breakfast Cereal - Spiraling</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-23 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 14:53 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 15:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
