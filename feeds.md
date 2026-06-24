@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 16:40:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-24 17:34:20 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 16:40 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 17:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e66/live/9b1b95b0-6feb-11f1-a9c4-37da5d161ee0.jpg" alt="Power outages hit France as it records hottest day since measurements began" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss" target="_blank">Power outages hit France as it records hottest day since measurements began</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-24 17:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +101,29 @@
                 <span class="time">2026-06-24 12:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2" target="_blank">Star Fox Review: Can&#x27;t quite teach an old Fox new tricks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-24 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a34781c9bab9b898fe10473/master/pass/Amazon%E2%80%99s-2-Best-Selling-Espresso-Machines-Are-Up-to-$200-Off.jpg" alt="The Best Breville Espresso Machine Is 30 Percent off Right Now (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/breville-deals-apd-6-24-2026/" target="_blank">The Best Breville Espresso Machine Is 30 Percent off Right Now (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-24 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-500x500.jpg" alt="Google starts lowering Play Store fees, making good on Epic Games settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/" target="_blank">Google starts lowering Play Store fees, making good on Epic Games settlement</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-24 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +160,29 @@
                 <span class="time">2026-06-24 14:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/slate-screenshot-1-500x500-1782308233.jpg" alt="Slate Auto&#x27;s truck builder goes live for its $25k electric pickup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/06/here-are-five-ways-you-could-build-a-slate-ev-from-25000-to-37000/" target="_blank">Slate Auto&#x27;s truck builder goes live for its $25k electric pickup</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-24 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/" target="_blank">If you want to cut your screen time, just get a Brick</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-24 14:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/tech-interviews-with-neetcode" target="_blank">Tech interviews with NeetCode</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-06-24 17:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-F2FS" target="_blank">F2FS Integrates FSERROR Reporting, Reduces Memory Footprint In Linux 7.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-24 16:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzsb09kmk7ekhxmugap33.webp" alt="Building An AI Agent Playground Before Giving It Production Access" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -170,6 +190,15 @@
                 <span class="title"><a href="https://dev.to/nazar_boyko/building-an-ai-agent-playground-before-giving-it-production-access-4glh" target="_blank">Building An AI Agent Playground Before Giving It Production Access</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-24 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://twitter.com/ID_AA_Carmack/status/2069799283369345247" target="_blank">John Carmack on the mistakes around Quake that ruined id software</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-24 15:56</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/silverstone-rm32" target="_blank">SilverStone RM32 3U Server Chassis + 1000W Extreme 1000Rz Platinum PSU</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-24 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/slima4/999-uptime-is-43-minutes-a-month-do-you-know-your-number-1p9g" target="_blank">99.9% uptime is 43 minutes a month. Do you know your number?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-24 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/pinevoice-pine64-speaker.webp?resize=406%2C232&amp;ssl=1" alt="Pine64 launch $50 RISC-V smart speaker for Home Assistant tinkerers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch" target="_blank">Pine64 launch $50 RISC-V smart speaker for Home Assistant tinkerers</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-24 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-Linux-Gamma-2.4-2.6" target="_blank">New AMD Linux Patches Expose Gamma 2.4 + Gamma 2.6 Curves</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-24 14:22</span>
             </div>
         </div>
 </div>
@@ -236,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2013/07/shutterstock_79316680.jpg?fit=600%2C322&amp;quality=60&amp;ssl=1" alt="Miami Marlins searching for this sad hotdog-less doggo, to treat him to a Dream Day at the ballpark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/24/miami-marlins-searching-for-this-sad-hotdog-less-doggo-to-treat-him-to-a-dream-day-at-the-ballpark.html" target="_blank">Miami Marlins searching for this sad hotdog-less doggo, to treat him to a Dream Day at the ballpark</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-24 16:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/OVR_S3_LegendarySkins_NyanCafe_Kiriko_UltraSkin_JPA_001-1280x720.jpg" alt="Overwatch Fans Revolt Over New Skins That Cost Too Damn Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +292,6 @@
                 <span class="time">2026-06-24 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/arbys.jpg?fit=1102%2C803&amp;quality=60&amp;ssl=1" alt="We Have The Herpes: Arby&#x27;s worker accused of infecting customer by spitting in food" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/23/we-have-the-herpes-arbys-worker-accused-of-infecting-customer-by-spitting-in-food.html" target="_blank">We Have The Herpes: Arby&#x27;s worker accused of infecting customer by spitting in food</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-24 01:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,22 +315,13 @@
                 <span class="time">2026-06-24 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/our-friend/" target="_blank">Our Friend</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-06-23 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 16:40 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 17:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
