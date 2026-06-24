@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 09:00:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-24 10:58:00 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 09:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 10:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/24/kenya-braces-for-return-of-gen-z-protests-how-did-they-begin?traffic_source=rss" target="_blank">Kenya braces for return of Gen Z protests – how did they begin?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-24 10:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/lander-mamdani_1782268950970_hpMain_4x3t_384.jpg" alt="Clean sweep as 3 candidates endorsed by Mamdani win primaries in New York" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/clean-sweep-3-candidates-endorsed-mamdani-win-primaries/story?id=134152579" target="_blank">Clean sweep as 3 candidates endorsed by Mamdani win primaries in New York</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-24 09:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/24/nx-s1-5851839/how-to-plan-a-dream-summer" target="_blank">4 ways to design a dreamy summer, according to a happiness expert</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-24 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,38 +102,20 @@
                 <span class="time">2026-06-24 06:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/24/kenyan-health-minister-orders-halt-of-construction-of-us-ebola-facility?traffic_source=rss" target="_blank">Kenyan Health Minister orders halt of construction of US Ebola facility</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-24 05:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence" target="_blank">Play puts spotlight on Kenya’s crisis of gender-based violence</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-24 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340e/live/f69c8770-6f7b-11f1-8e1d-bbbb1017d210.jpg" alt="Congress passes war powers measure for first time, breaking with Trump over Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss" target="_blank">Congress passes war powers measure for first time, breaking with Trump over Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-24 03:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/952204/grand-theft-auto-vi-price" target="_blank">GTA VI finally gets a price tag</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-24 10:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a39c0acf875943dad2ebda1/master/pass/The-Best-Kindle-Deals-Happening-for-Amazon-Prime-Day.jpg" alt="Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -156,20 +161,20 @@
                 <span class="time">2026-06-24 00:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/" target="_blank">India’s MoEngage bets that the future of marketing is millions of AI agents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-23 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/rdla-offline-first-reactive-android-data-layer/en/headerimage/rdla-offline-first-reactive-android-data-layer-header-1781776366032.jpg" alt="Article: Beyond CLEAN and MVP: Architecting an Offline-first Reactive Data Layer in Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/rdla-offline-first-reactive-android-data-layer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beyond CLEAN and MVP: Architecting an Offline-first Reactive Data Layer in Android</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-24 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,6 +182,15 @@
                 <span class="title"><a href="https://dev.to/ycbing/i-built-an-ai-studio-that-turns-1-line-of-text-into-a-5-minute-short-drama-j01" target="_blank">I Built an AI Studio That Turns 1 Line of Text Into a 5-Minute Short Drama</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-24 08:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bunny.net/blog/were-making-bunny-dns-free/" target="_blank">We&#x27;re making Bunny DNS free: because a faster internet won&#x27;t build itself</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-24 08:50</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Sched-Ext-Restructured" target="_blank">&quot;Disgusting&quot; Linux sched_ext Source Code Restructured Following Complaint By Linus Torvalds</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-24 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://words.filippo.io/vuln-reports/" target="_blank">Vulnerability reports are not special anymore</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-23 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/04/cosmic-7.jpg?resize=406%2C232&amp;ssl=1" alt="COSMIC desktop update adds new system monitor app" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/cosmic-desktop-update-system-monitor" target="_blank">COSMIC desktop update adds new system monitor app</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-23 22:05</span>
             </div>
         </div>
 </div>
@@ -314,6 +310,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/24/chronocaust" target="_blank">Chronocaust</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-24 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/our-friend/" target="_blank">Our Friend</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
@@ -334,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 39 | 📸 With Images: 240 |
-        🔄 Last Updated: 09:00 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 10:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
