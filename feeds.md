@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-23 23:21:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-24 00:22:20 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, June 23, 2026 - 23:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 00:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/23/ronaldo-late-to-world-cup-party-but-still-able-to-steal-the-show?traffic_source=rss" target="_blank">Ronaldo late to World Cup party but still able to steal the show</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-23 23:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +99,20 @@
                 <span class="time">2026-06-23 20:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/bill-gates-ap-jef-260622_1782141182998_hpMain_4x3t_384.jpg" alt="Gates told panel Epstein was plotting to blackmail him about extramarital affairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/bill-gates-told-house-panel-epstein-plotting-blackmail/story?id=134098296" target="_blank">Gates told panel Epstein was plotting to blackmail him about extramarital affairs</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-23 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/" target="_blank">India’s MoEngage bets that the future of marketing is millions of AI agents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-23 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a396b1e518be327f36b3895/master/pass/PRIME-DEALS.jpg" alt="117 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +158,20 @@
                 <span class="time">2026-06-23 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-23-at-3.43.31-PM-500x500.png" alt="Odd police video shows drone removing knife from motionless suspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/" target="_blank">Odd police video shows drone removing knife from motionless suspect</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-23 20:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/04/cosmic-7.jpg?resize=406%2C232&amp;ssl=1" alt="COSMIC desktop update adds new system monitor app" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/cosmic-desktop-update-system-monitor" target="_blank">COSMIC desktop update adds new system monitor app</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-23 22:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2kribex02zp5c6v9yk0s.webp" alt="I Thought My Company&#x27;s New Urinal Was Revolutionary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/BASIC09-LLVM-Front-End" target="_blank">BASIC09 Programming Language Front-End Developed For LLVM</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-23 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://www.jerrysmap.com/the-map" target="_blank">Jerry&#x27;s Map</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-23 18:40</span>
             </div>
         </div>
 </div>
@@ -266,6 +264,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Deal Days cuts Microsoft Office Professional 2021 from $220 to $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/23/deal-days-cuts-microsoft-office-professional-2021-from-220-to-30.html" target="_blank">Deal Days cuts Microsoft Office Professional 2021 from $220 to $30</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-23 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/CleanShot-2026-06-23-at-12.09.36%402x.jpg?fit=1200%2C671&amp;quality=60&amp;ssl=1" alt="Duplicate Content splices 1960s video art with today&#x27;s TikToks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -290,15 +297,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/23/the-criterion-collections-stanley-kubrick-set-is-coming-for-your-wallet.html" target="_blank">The Criterion Collection&#x27;s Stanley Kubrick set is coming for your wallet</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-23 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KTXFM7BRV5YDX7F143P3QDF7/hero-image.png" alt="These Budget-Friendly Samsung Galaxy Earbuds Are Almost 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-buds-3-fe-sale-prime-day-2026?utm_medium=RSS" target="_blank">These Budget-Friendly Samsung Galaxy Earbuds Are Almost 40% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-23 18:08</span>
             </div>
         </div>
 </div>
@@ -329,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 38 | 📸 With Images: 239 |
-        🔄 Last Updated: 23:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 38 | 📸 With Images: 240 |
+        🔄 Last Updated: 00:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
