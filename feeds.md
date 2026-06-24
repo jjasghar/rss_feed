@@ -1,28 +1,22 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 19:30:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-24 20:30:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
@@ -30,10 +24,10 @@
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 19:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 20:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6551/live/0e9d3450-6fea-11f1-b1db-af71d47507d6.jpg" alt="UK sees hottest June day on record as 36.1C recorded in Hampshire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss" target="_blank">UK sees hottest June day on record as 36.1C recorded in Hampshire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-24 20:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +97,29 @@
                 <span class="time">2026-06-24 18:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e66/live/9b1b95b0-6feb-11f1-a9c4-37da5d161ee0.jpg" alt="Power outages hit France as it records hottest day since measurements began" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss" target="_blank">Power outages hit France as it records hottest day since measurements began</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-24 17:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Slate-Truck-2-500x500-1782328772.jpg" alt="We take a ride in Slate&#x27;s $24,950 electric pickup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/features/2026/06/we-take-a-ride-in-slates-24950-electric-pickup/" target="_blank">We take a ride in Slate&#x27;s $24,950 electric pickup</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-24 20:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude" target="_blank">Congresswoman denies staff used AI to write defense funding amendment</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-24 19:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/" target="_blank">Facebook rolls out an AI companion app for creators</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-24 17:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-500x500.jpg" alt="Google starts lowering Play Store fees, making good on Epic Games settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/" target="_blank">Google starts lowering Play Store fees, making good on Epic Games settlement</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-24 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/" target="_blank">NTSB launches probe into fatal Texas Tesla crash</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-24 16:39</span>
             </div>
         </div>
 </div>
@@ -241,6 +235,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVXGH34ARR9VJKPKQ7JVV782/hero-image.png" alt="The Best Prime Day Deals on Video Games, Controllers, and Peripherals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-deals-video-games-controllers-peripherals-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Video Games, Controllers, and Peripherals</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-24 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/03/dogecoin-e1739219389594.jpg?fit=1080%2C864&amp;quality=60&amp;ssl=1" alt="Companies discover AI is expensive when employees actually use it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/24/companies-discover-ai-is-expensive-when-employees-actually-use-it.html" target="_blank">Companies discover AI is expensive when employees actually use it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-24 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01-1280x720.jpg" alt="Time Is A Flat Circle As People Online Debate If GTA 6 Has Suffered A Graphical Downgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -276,24 +288,6 @@
                 <span class="time">2026-06-24 18:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/rhythm-doggo-1280x720.jpg" alt="This Gorgeous Indie Platformer Has An Unreachable Area So Imaginary Dogs Don’t Have To Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-gorgeous-indie-platformer-has-an-unreachable-area-so-imaginary-dogs-dont-have-to-die-2000709929" target="_blank">This Gorgeous Indie Platformer Has An Unreachable Area So Imaginary Dogs Don’t Have To Die</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-24 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/microscope-view-of-intricate-gold-microchip-circuitry-with-numbered-frame-u201c6-u201d.jpeg?fit=1200%2C608&amp;quality=60&amp;ssl=1" alt="AI-designed radio chips look like QR codes and beat human ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/24/ai-designed-radio-chips-look-like-qr-codes-and-beat-human-ones.html" target="_blank">AI-designed radio chips look like QR codes and beat human ones</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-24 17:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 19:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 20:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
