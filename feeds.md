@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 00:22:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-24 01:34:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 00:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, June 24, 2026 - 01:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss" target="_blank">Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-24 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/23/ronaldo-late-to-world-cup-party-but-still-able-to-steal-the-show?traffic_source=rss" target="_blank">Ronaldo late to World Cup party but still able to steal the show</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-23 23:46</span>
@@ -61,6 +70,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/23/us-supreme-court-says-rastafarian-man-shaved-by-prison-guards-cant-sue?traffic_source=rss" target="_blank">US Supreme Court says Rastafarian man shaved by prison guards can’t sue</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-23 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-deutsche-bahn-berlin_7281357.jpg?20260623235023" alt="Trains across Germany briefly halted after communication system issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/german-railway-network-comes-to-halt-due-to-problem-with-communication-system-13557238" target="_blank">Trains across Germany briefly halted after communication system issue</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-23 22:47</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +99,38 @@
                 <span class="time">2026-06-23 22:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/23/donald-trump-to-attend-world-cup-final-present-trophy-infantino?traffic_source=rss" target="_blank">Donald Trump to attend World Cup final, present trophy: Infantino</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-23 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/23/nx-s1-5868599/senate-iran-war-powers-resolution" target="_blank">In symbolic vote, Congress directs Trump to remove forces from Iran war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-23 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prime-day-dyson-deals-2026/" target="_blank">Best Dyson Deals for Prime Day: Vacuums, Hair Tools, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-24 00:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/" target="_blank">Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-24 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026" target="_blank">The best robot vacuum deals available during Prime Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-24 00:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +158,29 @@
                 <span class="time">2026-06-23 22:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt" target="_blank">Hollywood is bending the knee to OpenAI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-23 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/" target="_blank">Superhuman acquires AI detection startup GPTZero</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-23 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/953936/roborock-saros-20-amazon-deal-sale" target="_blank">Prime Day takes $240 off Roborock’s Saros 20, one of our favorite robovacs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-23 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mr_hamlin/we-made-our-x402-payment-gateway-loop-native-heres-how-and-why-your-agent-needs-it-4iog" target="_blank">We Made Our x402 Payment Gateway Loop-Native — Here&#x27;s How (and Why Your Agent Needs It)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-24 01:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Sched-Ext-Restructured" target="_blank">&quot;Disgusting&quot; Linux sched_ext Source Code Restructured Following Complaint By Linus Torvalds</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-24 00:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/04/cosmic-7.jpg?resize=406%2C232&amp;ssl=1" alt="COSMIC desktop update adds new system monitor app" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/po8rewq/designing-single-purpose-agents-instead-of-one-big-automation-script-ddg" target="_blank">Designing Single-Purpose Agents Instead of One Big Automation Script</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-23 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/legal/privacy" target="_blank">Anthropic updates their terms to verify age or identity</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-23 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/BASIC09-LLVM-Front-End" target="_blank">BASIC09 Programming Language Front-End Developed For LLVM</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-23 19:28</span>
             </div>
         </div>
 </div>
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 38 | 📸 With Images: 240 |
-        🔄 Last Updated: 00:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 01:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
