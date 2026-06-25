@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 17:36:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-25 18:39:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 17:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 18:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/earthquake-3-gty-gmh-260625_1782389194984_hpMain_4x3t_384.jpg" alt="&#x27;The floor under me was shaking&#x27;: American tourist recounts Venezuela quakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/strong-71-magnitude-earthquake-recorded-coast-venezuela/story?id=134185994" target="_blank">&#x27;The floor under me was shaking&#x27;: American tourist recounts Venezuela quakes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-25 18:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,18 +91,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/25/nx-s1-5838860/supreme-court-asylum-policy" target="_blank">Supreme Court says U.S. can turn away asylum seekers at the border</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/25/nx-s1-5869755/judge-blocks-postal-service-proposal-to-restrict-mail-in-voting-under-trumps-order" target="_blank">Judge blocks Postal Service proposal to restrict mail-in voting under Trump&#x27;s order</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-25 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/scotus-1-rt-gmh-260330_1774885757272_hpMain_4x3t_384.jpg" alt="Supreme Court allows Trump administration&#x27;s cancellation of TPS for Haitians, Syrians" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-allows-trump-administrations-cancellation-tps-haitians/story?id=132122359" target="_blank">Supreme Court allows Trump administration&#x27;s cancellation of TPS for Haitians, Syrians</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-25 14:38</span>
+                <span class="time">2026-06-25 15:00</span>
             </div>
         </div>
 </div>
@@ -163,10 +163,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wayland-For-Artists" target="_blank">Academy Software Foundation Announces The &quot;Wayland For Artists Working Group&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-25 18:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/amrree/the-constraint-that-made-me-better-on-working-within-context-limits-1a0j" target="_blank">The Constraint That Made Me Better: On Working Within Context Limits</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-25 16:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://scrollprize.org/firstscroll" target="_blank">A Herculaneum scroll has been read for the first time</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-25 15:48</span>
             </div>
         </div>
 <div class="story">
@@ -196,29 +214,20 @@
                 <span class="time">2026-06-25 14:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://hackernewstrends.com" target="_blank">Show HN: I made Google Trends for Hacker News by indexing 18 years of comments</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-25 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kevinten10/mcp-discovery-why-your-mcp-server-needs-better-tool-discovery-than-you-think-after-85-production-3kg" target="_blank">MCP Discovery: Why Your MCP Server Needs Better Tool Discovery Than You Think (After 85 Production Outages)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-25 13:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html" target="_blank">AI and Liability</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-25 17:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -324,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 17:37 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 18:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
