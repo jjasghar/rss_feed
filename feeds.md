@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 22:27:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-25 23:26:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 22:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 23:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -173,10 +166,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/" target="_blank">Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-25 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lynkr/telangana-public-spending-intelligence-platform-2164" target="_blank">TELANGANA PUBLIC SPENDING INTELLIGENCE PLATFORM</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-25 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://expression.fire.org/p/the-papers-please-era-of-the-internet" target="_blank">The &#x27;papers, please&#x27; era of the internet will decimate your privacy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-25 21:44</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/sivolko/how-to-move-a-python-service-from-a-docker-image-dhi-without-breaking-package-installs-root-22nm" target="_blank">How to move a Python service from a Docker Image -DHI without breaking package installs, root permissions?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-25 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elenarevicheva/i-built-a-131-test-eval-harness-before-writing-new-features-heres-the-silent-failure-it-caught-47cb" target="_blank">I Built a 131-Test Eval Harness Before Writing New Features. Here&#x27;s the Silent Failure It Caught.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-25 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/cloudflare-bug-quiche/en/headerimage/generatedHeaderImage-1782410835538.jpg" alt="How Cloudflare Solved a Congestion Bug in quiche" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/cloudflare-bug-quiche/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Cloudflare Solved a Congestion Bug in quiche</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-25 19:00</span>
             </div>
         </div>
 </div>
@@ -252,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Om-Malik-in-2025.-_3Ca-href_3D_22https-commons.wikim_.jpg?fit=1080%2C688&amp;quality=60&amp;ssl=1" alt="Om Malik, 1966-2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/25/om-malik-1966-2026.html" target="_blank">Om Malik, 1966-2026</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-25 22:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVXGH34ARR9VJKPKQ7JVV782/hero-image.png" alt="The Best Prime Day Deals on Video Games, Controllers, and Peripherals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-deals-video-games-controllers-peripherals-prime-day-june-25-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Video Games, Controllers, and Peripherals</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-25 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KW074PBNTCKJ731AHH403W35/hero-image.png" alt="The Best Prime Day Deals on Amazon Fire TV Sticks, up to 55% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,24 +297,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-deals-on-amazon-devices-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Amazon Devices, up to 74% Off</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-25 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01-1-1280x720.jpg" alt="10 New Details We Learned From GTA 6′s Big Info Dump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/10-new-details-we-learned-from-gta-6s-big-info-dump-2000710519" target="_blank">10 New Details We Learned From GTA 6′s Big Info Dump</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-25 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/padme-1280x720.jpg" alt="Man, It’s Going To Get So Much Worse Before It Gets Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/man-its-going-to-get-so-much-worse-before-it-gets-better-2000710540" target="_blank">Man, It’s Going To Get So Much Worse Before It Gets Better</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-25 19:30</span>
             </div>
         </div>
 </div>
@@ -343,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 22:27 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 23:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
