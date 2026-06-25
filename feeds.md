@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 11:51:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-25 12:41:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 11:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 12:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/6/25/us-push-for-unified-libyan-government-tests-tripoli-factions?traffic_source=rss" target="_blank">US push for unified Libyan government tests Tripoli factions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-25 11:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +100,29 @@
                 <span class="time">2026-06-25 08:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/25/thousands-feared-dead-as-twin-earthquakes-cause-devastation-across-venezuel?traffic_source=rss" target="_blank">Thousands feared dead as twin earthquakes cause devastation across Venezuel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-25 04:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/" target="_blank">Amazon ups India bet with fresh $13B AI infrastructure investment</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-25 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3d125aae3c1cc072f46224/master/pass/GettyImages-2282651869.jpg" alt="Thousands Feared Dead After Venezuela Struck by Strongest Earthquake in Over 125 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/thousands-feared-dead-after-venezuela-struck-by-strongest-earthquakes-in-over-125-years/" target="_blank">Thousands Feared Dead After Venezuela Struck by Strongest Earthquake in Over 125 Years</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-25 11:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a39c0acf875943dad2ebda1/master/pass/The-Best-Kindle-Deals-Happening-for-Amazon-Prime-Day.jpg" alt="Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +159,29 @@
                 <span class="time">2026-06-25 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/" target="_blank">Europe is pushing back on Washington’s chip war</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-25 00:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale" target="_blank">The top tech Prime Day deals to shop on day two</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-24 23:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Extended-Cache-Aware-Sched" target="_blank">Linux Cache Aware Scheduling Extended For Even Better Performance: Up To 360% In MySQL</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-25 12:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17367784/terramaster-f4-425-pro-first-impressions" target="_blank">Terramaster F4-425 Pro: An Hardware Upgrade for an Already Solid NAS</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-25 12:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/06/europe-cloud-enterprise/en/headerimage/europe-cloud-enterprise-header-1782131709734.jpg" alt="Building a European Cloud Orchestration Platform within an Enterprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +189,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/europe-cloud-enterprise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Building a European Cloud Orchestration Platform within an Enterprise</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-25 11:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/" target="_blank">Dolphin Emulator Progress Release 2606</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-25 10:20</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/slack-multicloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-25 07:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://hl2.slqnt.dev/" target="_blank">Half-Life 2 in a Browser</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-25 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17367666/brave-origin-linux" target="_blank">Linux Users Get This For Free! Brave Origin Costs $59.99 For Everyone Else</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-25 04:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/levelsofself/i-built-a-content-engine-that-turns-one-video-into-posts-on-every-platform-4kbg" target="_blank">I built a content engine that turns one video into posts on every platform</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-25 02:49</span>
             </div>
         </div>
 </div>
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/gta-6-disc-2-1280x720.jpg" alt="A Disc-Based Version Of GTA 6 Could Arrive As Soon As December, Rumors Suggest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-6-disc-version-ps5-xbox-rockstar-grand-theft-auto-vi-2000710466" target="_blank">A Disc-Based Version Of GTA 6 Could Arrive As Soon As December, Rumors Suggest</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-25 12:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains pens backstory for nefarious Reflecting Pool vandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +291,6 @@
                 <span class="time">2026-06-24 20:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVXHBPP1J2TT7VKY6EB1DCB7/hero-image.png" alt="The Best Prime Day Deals on Shokz Headphones, up to 40% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/shokz-open-ear-headphones-deals-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Shokz Headphones, up to 40% Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-24 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 11:51 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 12:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
