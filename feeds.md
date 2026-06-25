@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 20:35:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-25 21:29:58 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 20:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 21:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows?traffic_source=rss" target="_blank">Economic losses mount as Venezuela earthquake death toll grows</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-25 21:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/25/nx-s1-5870557/what-made-the-deadly-venezuelan-earthquakes-different" target="_blank">What made the deadly Venezuelan earthquakes different</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-25 20:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782415753289_now_daily_b_ana_venezuela_260625_S3_1920x1080-paqyji.jpg" alt="NBC News reporter in Venezuela says people she knows might be missing under rubble" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/25/us-supreme-court-scales-back-roundup-cancer-lawsuits-in-victory-for-company?traffic_source=rss" target="_blank">US Supreme Court scales back Roundup cancer lawsuits in victory for company</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-25 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d756/live/636a2380-709e-11f1-86cf-0fd142c2b6fb.jpg" alt="UK braced for hottest June night after 36.7C high on warmest day of year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crlw2xgrp3xo?at_medium=RSS&at_campaign=rss" target="_blank">UK braced for hottest June night after 36.7C high on warmest day of year</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-25 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term" target="_blank">‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-25 16:04</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fartur/building-autonomous-ai-agents-in-the-enterprise-4j61" target="_blank">Building Autonomous AI Agents in the Enterprise</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-25 21:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sivolko/how-to-move-a-python-service-from-a-docker-image-dhi-without-breaking-package-installs-root-22nm" target="_blank">How to move a Python service from a Docker Image -DHI without breaking package installs, root permissions?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-25 20:27</span>
@@ -180,6 +186,15 @@
                 <span class="title"><a href="https://dev.to/elenarevicheva/i-built-a-131-test-eval-harness-before-writing-new-features-heres-the-silent-failure-it-caught-47cb" target="_blank">I Built a 131-Test Eval Harness Before Writing New Features. Here&#x27;s the Silent Failure It Caught.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-25 19:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/cloudflare-bug-quiche/en/headerimage/generatedHeaderImage-1782410835538.jpg" alt="How Cloudflare Solved a Congestion Bug in quiche" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/cloudflare-bug-quiche/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Cloudflare Solved a Congestion Bug in quiche</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-25 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/amrree/the-constraint-that-made-me-better-on-working-within-context-limits-1a0j" target="_blank">The Constraint That Made Me Better: On Working Within Context Limits</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-25 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://scrollprize.org/firstscroll" target="_blank">An entire Herculaneum scroll has been read for the first time</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-25 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://scrollprize.org/firstscroll" target="_blank">A Herculaneum scroll has been read for the first time</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-25 15:48</span>
             </div>
         </div>
 </div>
@@ -246,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/bungie-1280x774.jpg" alt="At Least 292 Laid Off At Bungie Amid Sony’s Latest Cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/at-least-292-laid-off-at-bungie-amid-sonys-latest-cuts-2000710669" target="_blank">At Least 292 Laid Off At Bungie Amid Sony’s Latest Cuts</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-25 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KW03ME2RJXY8Y1Z4PARK179H/hero-image.png" alt="The Best Prime Day Deals on Amazon Devices, up to 74% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-deals-on-amazon-devices-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Amazon Devices, up to 74% Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-25 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01-1-1280x720.jpg" alt="10 New Details We Learned From GTA 6′s Big Info Dump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +295,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/my-favorite-tech-deals-prime-day-june-25-2026?utm_medium=RSS" target="_blank">I&#x27;m a Tech Editor, and These Are My Favorite Prime Day Deals</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-25 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1115053.jpg?fit=1200%2C1573&amp;quality=60&amp;ssl=1" alt="A mountain man spent 25 years eating the livers of the people who killed his wife" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/25/a-mountain-man-spent-25-years-eating-the-livers-of-the-people-who-killed-his-wife.html" target="_blank">A mountain man spent 25 years eating the livers of the people who killed his wife</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-25 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/98d68d0ffd120a54639ecce13aacd510-1280x720.jpg" alt="The Internet Reacts To Mass Cuts At Bungie After The End Of Destiny 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/destiny-2-bungie-marathon-layoffs-sony-playstation-react-2000710535" target="_blank">The Internet Reacts To Mass Cuts At Bungie After The End Of Destiny 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-25 15:46</span>
             </div>
         </div>
 </div>
@@ -337,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 20:36 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 21:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
