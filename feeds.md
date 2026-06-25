@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 14:55:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-25 15:49:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 13 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 14:55 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 15:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d756/live/636a2380-709e-11f1-86cf-0fd142c2b6fb.jpg" alt="UK braced for hottest June night after temperature record broken for second day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crlw2xgrp3xo?at_medium=RSS&at_campaign=rss" target="_blank">UK braced for hottest June night after temperature record broken for second day</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-25 15:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/25/nx-s1-5838860/supreme-court-asylum-policy" target="_blank">Supreme Court says U.S. can turn away asylum seekers at the border</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-25 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/scotus-1-rt-gmh-260330_1774885757272_hpMain_4x3t_384.jpg" alt="Supreme Court allows Trump administration&#x27;s cancellation of TPS for Haitians, Syrians" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-allows-trump-administrations-cancellation-tps-haitians/story?id=132122359" target="_blank">Supreme Court allows Trump administration&#x27;s cancellation of TPS for Haitians, Syrians</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-25 14:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0192/live/117636f0-7084-11f1-8546-8f19e4fe30f4.jpg" alt="TikTok influencer charged with Dubai murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,38 +100,38 @@
                 <span class="time">2026-06-25 11:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss" target="_blank">Israeli forces kill Palestinian man during raid on his home</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-25 11:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/caracas-main_1782379602091_hpMain_4x3t_384.jpg" alt="Venezuela earthquakes live updates: At least 164 dead after massive twin tremors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/venezuela-earthquakes-updates/?id=134196335" target="_blank">Venezuela earthquakes live updates: At least 164 dead after massive twin tremors</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-25 11:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a3b/live/534f7160-703c-11f1-b1db-af71d47507d6.jpg" alt="&#x27;I thought I was going to die&#x27; - Venezuelans describe earthquake panic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I thought I was going to die&#x27; - Venezuelans describe earthquake panic</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-25 10:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/956756/world-cup-streaming" target="_blank">How the World Cup became a US streaming success story</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-25 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/" target="_blank">Netris raises $15M Series A from a16z to help AI neoclouds go live faster</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-25 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Original-5471-polestar-3-500x500-1782397788.jpeg" alt="Feds deny Polestar authorization to sell cars in US from model year 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/" target="_blank">Feds deny Polestar authorization to sell cars in US from model year 2027</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-25 14:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68b0b3aaaabb24a7fecf68ff/master/pass/Take%20$150%20off%20our%20Favorite%20GoPro.png" alt="Best Prime Day Action Cameras Deals I&#x27;ve Found (2026): GoPro, Insta360, DJI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,33 +159,6 @@
                 <span class="time">2026-06-25 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3d125aae3c1cc072f46224/master/pass/GettyImages-2282651869.jpg" alt="Thousands Feared Dead After Venezuela Struck by Strongest Earthquake in Over 125 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/thousands-feared-dead-after-venezuela-struck-by-strongest-earthquakes-in-over-125-years/" target="_blank">Thousands Feared Dead After Venezuela Struck by Strongest Earthquake in Over 125 Years</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-25 11:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a39c0acf875943dad2ebda1/master/pass/The-Best-Kindle-Deals-Happening-for-Amazon-Prime-Day.jpg" alt="Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/kindle-prime-day-deals-06-25-2026/" target="_blank">Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-25 11:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Sub-1nm-node-chip-3-e1782339299592-500x500.jpg" alt="IBM claims world’s first sub-1 nanometer chip technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/" target="_blank">IBM claims world’s first sub-1 nanometer chip technology</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-25 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,10 +167,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codeqa/where-ai-code-intelligence-fits-in-your-ai-developer-roadmap-2026-4006" target="_blank">Where AI code intelligence fits in your AI developer roadmap 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-25 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17367828/foss-weekly-26-26" target="_blank">FOSS Weekly #26.26: Free Origin Access, Niri Tiling, Firefox Tricks, Myna in Ubuntu and More Linux Stuff</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-06-25 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://hackernewstrends.com" target="_blank">Show HN: I made Google Trends for Hacker News by indexing 18 years of comments</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-25 14:08</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +218,6 @@
                 <span class="time">2026-06-25 12:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/europe-cloud-enterprise/en/headerimage/europe-cloud-enterprise-header-1782131709734.jpg" alt="Building a European Cloud Orchestration Platform within an Enterprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/europe-cloud-enterprise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Building a European Cloud Orchestration Platform within an Enterprise</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-25 11:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/" target="_blank">Dolphin Emulator Progress Release 2606</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-25 10:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/98d68d0ffd120a54639ecce13aacd510-1280x720.jpg" alt="The Internet Reacts To Mass Cuts At Bungie After The End Of Destiny 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/destiny-2-bungie-marathon-layoffs-sony-playstation-react-2000710535" target="_blank">The Internet Reacts To Mass Cuts At Bungie After The End Of Destiny 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-25 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVXCQ90TTKMN4DD05E9F2138/hero-image.png" alt="How to Find the Best Deal on a Garmin this Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/garmin-watch-best-deals-prime-day-june-25-2026?utm_medium=RSS" target="_blank">How to Find the Best Deal on a Garmin this Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-25 15:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/HP-EliteBook-840-G8-Laptop.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Deal Days knocks this HP EliteBook workhorse down to $275" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/25/deal-days-knocks-this-hp-elitebook-workhorse-down-to-275.html" target="_blank">Deal Days knocks this HP EliteBook workhorse down to $275</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-25 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVTHJ2Q84EJPZJ1FDJSHZCD4/hero-image.png" alt="The Best Prime Day Deals on Apple, Pixel, and Samsung Smartwatches and Accessories" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +291,6 @@
                 <span class="time">2026-06-25 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/gta-6-disc-2-1280x720.jpg" alt="A Disc-Based Version Of GTA 6 Could Arrive As Soon As December, Rumors Suggest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gta-6-disc-version-ps5-xbox-rockstar-grand-theft-auto-vi-2000710466" target="_blank">A Disc-Based Version Of GTA 6 Could Arrive As Soon As December, Rumors Suggest</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-25 12:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains pens backstory for nefarious Reflecting Pool vandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/24/grandpa-pudding-brains-pens-backstory-for-nefarious-reflecting-pool-vandal.html" target="_blank">Grandpa Pudding Brains pens backstory for nefarious Reflecting Pool vandal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-24 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/sonic.jpg" alt="The Original Sonic Games Are Back With New Sega Genesis Cartridges That Will Only Cost You $100 A Piece" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-original-sonic-games-are-back-with-new-sega-genesis-cartridges-that-will-only-cost-you-100-a-piece-2000710199" target="_blank">The Original Sonic Games Are Back With New Sega Genesis Cartridges That Will Only Cost You $100 A Piece</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-24 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,22 +305,13 @@
                 <span class="time">2026-06-24 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1782175517-20260624.png" alt="Saturday Morning Breakfast Cereal - Comedy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/comedy-2" target="_blank">Saturday Morning Breakfast Cereal - Comedy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-24 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 14:55 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 15:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
