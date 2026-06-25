@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 08:59:39 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-06-25 10:08:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 08:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 10:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/caracas-main_1782379602091_hpMain_4x3t_384.jpg" alt="Venezuela earthquakes live updates: Dozens dead, 700 injured after 2 massive quakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/venezuela-earthquakes-updates/?id=134196335" target="_blank">Venezuela earthquakes live updates: Dozens dead, 700 injured after 2 massive quakes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-25 10:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +94,29 @@
                 <span class="time">2026-06-25 02:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-two-powerful-quakes-shake-s-american-country?traffic_source=rss" target="_blank">Venezuela earthquakes live: Two powerful quakes shake S American country</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-25 01:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Sub-1nm-node-chip-3-e1782339299592-500x500.jpg" alt="IBM claims world’s first sub-1 nanometer chip technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/" target="_blank">IBM claims world’s first sub-1 nanometer chip technology</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-25 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch" target="_blank">Facebook’s Creator Studio has been revived as an AI companion app</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-25 09:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" alt="Dell Coupon Codes: 20% Off for June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +151,6 @@
                 <span class="title"><a href="https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/" target="_blank">Hotly anticipated Grand Theft Auto VI will cost more than other AAA games</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-24 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026" target="_blank">This year’s Prime Day deals on Apple products are the best I’ve seen</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-24 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/NASA_MSFC_031224_USA-DTA-install-onto-test-stand-4large-500x500.jpg" alt="13 years and $500 million for a stage adapter? Report justifies NASA cancellations." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/" target="_blank">13 years and $500 million for a stage adapter? Report justifies NASA cancellations.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-24 21:41</span>
             </div>
         </div>
 </div>
@@ -320,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 08:59 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 10:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
