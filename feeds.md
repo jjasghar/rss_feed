@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 10:08:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-25 11:51:20 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 10:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 11:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss" target="_blank">Israeli forces kill Palestinian man during raid on his home</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-25 11:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/caracas-main_1782379602091_hpMain_4x3t_384.jpg" alt="Venezuela earthquakes live updates: At least 164 dead after massive twin tremors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/venezuela-earthquakes-updates/?id=134196335" target="_blank">Venezuela earthquakes live updates: At least 164 dead after massive twin tremors</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-25 11:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a3b/live/534f7160-703c-11f1-b1db-af71d47507d6.jpg" alt="&#x27;I thought I was going to die&#x27; - Venezuelans describe earthquake panic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I thought I was going to die&#x27; - Venezuelans describe earthquake panic</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-25 10:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/caracas-main_1782379602091_hpMain_4x3t_384.jpg" alt="Venezuela earthquakes live updates: Dozens dead, 700 injured after 2 massive quakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,38 +101,20 @@
                 <span class="time">2026-06-25 04:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/25/nx-s1-5869807/2026-world-cup-fifa-usmnt-turkey" target="_blank">With a Round of 32 spot already clinched, the U.S. takes on Turkey in the World Cup</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-25 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cassisdy-1-rt-gmh-260624_1782335910695_hpMain_4x3t_384.jpg" alt="In reversal, Senate votes to block war powers resolution, delivering Trump a win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/reversal-senate-votes-block-war-powers-resolution-delivering/story?id=134193814" target="_blank">In reversal, Senate votes to block war powers resolution, delivering Trump a win</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-25 03:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss" target="_blank">Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-25 02:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a39c0acf875943dad2ebda1/master/pass/The-Best-Kindle-Deals-Happening-for-Amazon-Prime-Day.jpg" alt="Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/kindle-prime-day-deals-06-25-2026/" target="_blank">Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-25 11:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Sub-1nm-node-chip-3-e1782339299592-500x500.jpg" alt="IBM claims world’s first sub-1 nanometer chip technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +160,20 @@
                 <span class="time">2026-06-24 23:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/gta6-500x500.jpg" alt="Hotly anticipated Grand Theft Auto VI will cost more than other AAA games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/" target="_blank">Hotly anticipated Grand Theft Auto VI will cost more than other AAA games</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-24 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/europe-cloud-enterprise/en/headerimage/europe-cloud-enterprise-header-1782131709734.jpg" alt="Building a European Cloud Orchestration Platform within an Enterprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/europe-cloud-enterprise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Building a European Cloud Orchestration Platform within an Enterprise</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-25 11:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,28 +204,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/levelsofself/i-built-a-content-engine-that-turns-one-video-into-posts-on-every-platform-4kbg" target="_blank">I built a content engine that turns one video into posts on every platform</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-25 02:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Grab Builds Secure Agentic AI Workload Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grab Builds Secure Agentic AI Workload Platform</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-25 02:08</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17367666/brave-origin-linux" target="_blank">Linux Users Get This For Free! Brave Origin Costs $59.99 For Everyone Else</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-25 04:34</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/d_v_/augmented-team-quality-the-attrition-problem-2n22" target="_blank">Augmented Team Quality: The Attrition Problem</a></span>
+                <span class="title"><a href="https://dev.to/levelsofself/i-built-a-content-engine-that-turns-one-video-into-posts-on-every-platform-4kbg" target="_blank">I built a content engine that turns one video into posts on every platform</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-06-25 01:26</span>
+                <span class="time">2026-06-25 02:49</span>
             </div>
         </div>
 </div>
@@ -221,9 +228,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis-2.html" target="_blank">Embedding Forbidden Text in Spyware to Discourage AI Analysis</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html" target="_blank">Interesting Paper Exploring Prompt Injection</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-24 11:03</span>
+                <span class="time">2026-06-25 11:23</span>
             </div>
         </div>
 </div>
@@ -313,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 10:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 11:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
