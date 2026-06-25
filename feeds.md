@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-24 23:22:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-25 00:27:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, June 24, 2026 - 23:22 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 00:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/25/venezuela-struck-by-back-to-back-earthquakes-high-casualties-feared?traffic_source=rss" target="_blank">Venezuela struck by back-to-back earthquakes, many casualties feared</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-25 00:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-breaking-breakingnews_7210863.png?20260516142605" alt="&#x27;High casualties&#x27; feared as buildings collapse after back-to-back Venezuela earthquakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/high-casualties-feared-as-buildings-collapse-after-back-to-back-venezuela-earthquakes-13557528" target="_blank">&#x27;High casualties&#x27; feared as buildings collapse after back-to-back Venezuela earthquakes</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-24 23:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +97,29 @@
                 <span class="time">2026-06-24 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6551/live/0e9d3450-6fea-11f1-b1db-af71d47507d6.jpg" alt="UK sees hottest June day on record as 36.1C recorded in Hampshire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss" target="_blank">UK sees hottest June day on record as 36.1C recorded in Hampshire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-24 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_dutch-pm-unveils-moluccan-monument-after-apology-240626?traffic_source=rss" target="_blank">Dutch PM unveils Moluccan monument marking dark colonial chapter</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-24 19:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/" target="_blank">Europe is pushing back on Washington’s chip war</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-25 00:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale" target="_blank">The top tech Prime Day deals to shop on day two</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-24 23:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/gta6-500x500.jpg" alt="Hotly anticipated Grand Theft Auto VI will cost more than other AAA games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,24 +156,6 @@
                 <span class="time">2026-06-24 21:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Slate-Truck-2-500x500-1782328772.jpg" alt="We take a ride in Slate&#x27;s $24,950 electric pickup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/features/2026/06/we-take-a-ride-in-slates-24950-electric-pickup/" target="_blank">We take a ride in Slate&#x27;s $24,950 electric pickup</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-24 20:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude" target="_blank">Congresswoman denies staff used AI to write defense funding amendment</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-24 19:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +168,15 @@
                 <span class="title"><a href="https://dev.to/ybear_81/how-i-connected-claude-desktop-to-live-salesforce-crm-data-using-mcp-3p50" target="_blank">How I Connected Claude Desktop to Live Salesforce CRM Data Using MCP</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-24 23:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/kernel-paused.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu brings Livepatch to arm64 for rebootless kernel updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/ubuntu-livepatch-arm64" target="_blank">Ubuntu brings Livepatch to arm64 for rebootless kernel updates</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-24 22:10</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +215,6 @@
                 <span class="time">2026-06-24 18:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/google-open-rl-fine-tuning/en/headerimage/google-open-rl-fine-tuning-1782322457170.jpeg" alt="Google OpenRL is an Experimental Self-hosted API for LLM Post-Training Fine-tuning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/google-open-rl-fine-tuning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google OpenRL is an Experimental Self-hosted API for LLM Post-Training Fine-tuning</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-24 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains pens backstory for nefarious Reflecting Pool vandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/24/grandpa-pudding-brains-pens-backstory-for-nefarious-reflecting-pool-vandal.html" target="_blank">Grandpa Pudding Brains pens backstory for nefarious Reflecting Pool vandal</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-24 23:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/sonic.jpg" alt="The Original Sonic Games Are Back With New Sega Genesis Cartridges That Will Only Cost You $100 A Piece" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +288,6 @@
                 <span class="time">2026-06-24 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVXGH34ARR9VJKPKQ7JVV782/hero-image.png" alt="The Best Prime Day Deals on Video Games, Controllers, and Peripherals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-deals-video-games-controllers-peripherals-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Video Games, Controllers, and Peripherals</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-24 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 23:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 00:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
