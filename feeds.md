@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 15:49:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-25 16:42:53 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 15:49 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 16:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term" target="_blank">‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-25 16:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d756/live/636a2380-709e-11f1-86cf-0fd142c2b6fb.jpg" alt="UK braced for hottest June night after temperature record broken for second day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +105,38 @@
                 <span class="time">2026-06-25 11:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782386431957_tdy_news_7a_herrero_venezuela_earthquake_260625_S3_1920x1080-8046p3.jpg" alt="Venezuelan Journalist Recounts the Moment Twin Quakes Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/venezuelan-recounts-deadly-twin-quakes-details-rescue-efforts-265660997668" target="_blank">Venezuelan Journalist Recounts the Moment Twin Quakes Hit</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-25 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/" target="_blank">Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-25 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/956635/apple-watch-series-11-amazon-prime-day-2026-deal-sale" target="_blank">The Apple Watch Series 11 is $120 off for Prime Day, its all time low price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-25 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3a246397b3e5bb7d92cfe0/master/pass/The-Best-Fitness-Tech-Deals-This-Amazon-Prime-Day.jpg" alt="17 Best Prime Day Fitness Tech Deals (2026) Up to $250 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-prime-day-fitness-deals-06-25-2026/" target="_blank">17 Best Prime Day Fitness Tech Deals (2026) Up to $250 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-25 16:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,38 +164,20 @@
                 <span class="time">2026-06-25 14:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b0b3aaaabb24a7fecf68ff/master/pass/Take%20$150%20off%20our%20Favorite%20GoPro.png" alt="Best Prime Day Action Cameras Deals I&#x27;ve Found (2026): GoPro, Insta360, DJI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-camera-deals-06-25-2026/" target="_blank">Best Prime Day Action Cameras Deals I&#x27;ve Found (2026): GoPro, Insta360, DJI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-25 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/" target="_blank">Adobe acquires image and video enhancement tool maker Topaz Labs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-25 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/" target="_blank">Amazon ups India bet with fresh $13B AI infrastructure investment</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-25 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amrree/the-constraint-that-made-me-better-on-working-within-context-limits-1a0j" target="_blank">The Constraint That Made Me Better: On Working Within Context Limits</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-25 16:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Extended-Cache-Aware-Sched" target="_blank">Linux Cache Aware Scheduling Extended For Even Better Performance: Up To 360% In MySQL</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-25 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17367784/terramaster-f4-425-pro-first-impressions" target="_blank">Terramaster F4-425 Pro: An Hardware Upgrade for an Already Solid NAS</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-25 12:10</span>
             </div>
         </div>
 </div>
@@ -299,6 +304,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/my-parents/" target="_blank">My Parents</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-06-25 15:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1782175610-20260625.png" alt="Saturday Morning Breakfast Cereal - Agency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/agency" target="_blank">Saturday Morning Breakfast Cereal - Agency</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-25 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/24/chronocaust" target="_blank">Chronocaust</a></span>
                 <span class="feed">Penny Arcade</span>
@@ -310,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 15:49 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 16:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
