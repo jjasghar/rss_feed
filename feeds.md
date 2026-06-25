@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 07:04:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-25 08:59:39 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 07:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 08:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/25/nx-s1-5869201/morning-news-brief" target="_blank">Morning news brief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-25 08:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-two-powerful-quakes-shake-s-american-country?traffic_source=rss" target="_blank">Venezuela earthquakes live: Two powerful quakes shake S American country</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-25 01:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8174/live/f13330f0-7029-11f1-a63b-8b60bf46b11a.jpg" alt="Scotland fans face anxious World Cup wait after bruising Brazil defeat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdejr7gey9do?at_medium=RSS&at_campaign=rss" target="_blank">Scotland fans face anxious World Cup wait after bruising Brazil defeat</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-25 01:03</span>
             </div>
         </div>
 </div>
@@ -180,6 +175,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/06/slack-multicloud/en/headerimage/generatedHeaderImage-1782335922071.jpg" alt="Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/slack-multicloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-25 07:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -213,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/d_v_/augmented-team-quality-the-attrition-problem-2n22" target="_blank">Augmented Team Quality: The Attrition Problem</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-25 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://lwn.net/SubscriberLink/1078367/eaa511915870fdb2/" target="_blank">Free-threaded Python: past, present, and future</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-06-25 01:14</span>
             </div>
         </div>
 </div>
@@ -325,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 08:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
