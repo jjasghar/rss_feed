@@ -1,29 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 05:17:01 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-25 07:04:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 05:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +59,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/25/thousands-feared-dead-as-twin-earthquakes-cause-devastation-across-venezuel?traffic_source=rss" target="_blank">Thousands feared dead as twin earthquakes cause devastation across Venezuel</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-25 04:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/25/nx-s1-5869807/2026-world-cup-fifa-usmnt-turkey" target="_blank">With a Round of 32 spot already clinched, the U.S. takes on Turkey in the World Cup</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-25 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -84,20 +106,20 @@
                 <span class="time">2026-06-25 01:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782348114680_nn_gutierrez_trump_housing_bill_260624_S3_1920x1080-2js66i.jpg" alt="Trump and GOP senator in shouting match during closed-door meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-and-gop-senator-in-shouting-match-during-closed-door-meeting-265631301604" target="_blank">Trump and GOP senator in shouting match during closed-door meeting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-25 00:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" alt="Dell Coupon Codes: 20% Off for June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dell-coupon-code/" target="_blank">Dell Coupon Codes: 20% Off for June 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-25 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +165,29 @@
                 <span class="time">2026-06-24 21:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3c36cecc32244df2188fca/master/pass/This-Is-the-Roborock-Vacuum-To-Buy-During-Prime-Day.jpg" alt="The Best Roborock Deal This Prime Day (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-prime-day-roborock-deals-2026/" target="_blank">The Best Roborock Deal This Prime Day (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-24 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sujankim/jarvis-ai-platform-implementing-semantic-memory-retrieval-with-pgvector-30a1" target="_blank">Jarvis AI Platform: Implementing Semantic Memory Retrieval with pgvector</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-25 07:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://hl2.slqnt.dev/" target="_blank">Half-Life 2 in a Browser</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-25 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,24 +222,6 @@
                 <span class="title"><a href="https://lwn.net/SubscriberLink/1078367/eaa511915870fdb2/" target="_blank">Free-threaded Python: past, present, and future</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-06-25 01:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ybear_81/how-i-connected-claude-desktop-to-live-salesforce-crm-data-using-mcp-3p50" target="_blank">How I Connected Claude Desktop to Live Salesforce CRM Data Using MCP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-24 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/kernel-paused.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu brings Livepatch to arm64 for rebootless kernel updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/ubuntu-livepatch-arm64" target="_blank">Ubuntu brings Livepatch to arm64 for rebootless kernel updates</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-24 22:10</span>
             </div>
         </div>
 </div>
@@ -307,22 +320,13 @@
                 <span class="time">2026-06-24 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/24/chronocaust" target="_blank">Chronocaust</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-24 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 05:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
