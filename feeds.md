@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 12:41:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-25 13:39:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 12:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 13:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +50,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/6/25/us-push-for-unified-libyan-government-tests-tripoli-factions?traffic_source=rss" target="_blank">US push for unified Libyan government tests Tripoli factions</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-25 11:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782386431957_tdy_news_7a_herrero_venezuela_earthquake_260625_S3_1920x1080-8046p3.jpg" alt="Venezuelan Journalist Recounts the Moment Twin Quakes Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/venezuelan-recounts-deadly-twin-quakes-details-rescue-efforts-265660997668" target="_blank">Venezuelan Journalist Recounts the Moment Twin Quakes Hit</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-25 11:20</span>
             </div>
         </div>
 <div class="story">
@@ -83,21 +89,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/International/caracas-main_1782379602091_hpMain_4x3t_384.jpg" alt="Venezuela earthquakes live updates: Dozens dead, 700 injured after 2 massive quakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-karl-stefanovic-tommy-robinson_7282568.jpg?20260625120532" alt="Australia&#x27;s highest-paid TV presenter faces backlash over Tommy Robinson interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/venezuela-earthquakes-updates/?id=134196335" target="_blank">Venezuela earthquakes live updates: Dozens dead, 700 injured after 2 massive quakes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-25 10:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/25/nx-s1-5869201/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-25 08:46</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/australias-highest-paid-tv-presenter-faces-backlash-over-tommy-robinson-interview-13557660" target="_blank">Australia&#x27;s highest-paid TV presenter faces backlash over Tommy Robinson interview</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-25 10:32</span>
             </div>
         </div>
 </div>
@@ -105,6 +102,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68b0b3aaaabb24a7fecf68ff/master/pass/Take%20$150%20off%20our%20Favorite%20GoPro.png" alt="Best Prime Day Action Cameras Deals I&#x27;ve Found (2026): GoPro, Insta360, DJI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prime-day-camera-deals-06-25-2026/" target="_blank">Best Prime Day Action Cameras Deals I&#x27;ve Found (2026): GoPro, Insta360, DJI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-25 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/" target="_blank">Adobe acquires image and video enhancement tool maker Topaz Labs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-25 13:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +156,20 @@
                 <span class="time">2026-06-25 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch" target="_blank">Facebook’s Creator Studio has been revived as an AI companion app</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-25 09:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" alt="Dell Coupon Codes: 20% Off for June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dell-coupon-code/" target="_blank">Dell Coupon Codes: 20% Off for June 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-25 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kevinten10/mcp-discovery-why-your-mcp-server-needs-better-tool-discovery-than-you-think-after-85-production-3kg" target="_blank">MCP Discovery: Why Your MCP Server Needs Better Tool Discovery Than You Think (After 85 Production Outages)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-25 13:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +215,6 @@
                 <span class="time">2026-06-25 07:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/slack-multicloud/en/headerimage/generatedHeaderImage-1782335922071.jpg" alt="Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/slack-multicloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-25 07:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/ULTIMATE_EDITION_VICE_CITY_STYLE_04-1280x720.jpg" alt="Grand Theft Auto 6’s Code In A Box Is Somehow Already Selling Out On PS5, And Scalpers Have Their Eye On It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/grand-theft-auto-6-gta6-pre-orders-physical-disc-scalper-2000710491" target="_blank">Grand Theft Auto 6’s Code In A Box Is Somehow Already Selling Out On PS5, And Scalpers Have Their Eye On It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-25 13:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVZ19G87VJ909CBTGDWVGCV9/hero-image.png" alt="These Apple and Android Tablets Are up to 46% off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-android-apple-tablet-deals-prime-day-2026?utm_medium=RSS" target="_blank">These Apple and Android Tablets Are up to 46% off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-25 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/gta-6-disc-2-1280x720.jpg" alt="A Disc-Based Version Of GTA 6 Could Arrive As Soon As December, Rumors Suggest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +288,6 @@
                 <span class="time">2026-06-24 21:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Chicosdelivery-1280x720.jpg" alt="Sony’s New Shovelware Purge Forces Another Game Maker Off The PlayStation Store" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/afil-games-shovelware-playstation-store-eshop-slop-2000710187" target="_blank">Sony’s New Shovelware Purge Forces Another Game Maker Off The PlayStation Store</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-24 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="Whiskey Pete discovers viruses do not respect vaccine freedom speeches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/24/whiskey-pete-discovers-viruses-do-not-respect-vaccine-freedom-speeches.html" target="_blank">Whiskey Pete discovers viruses do not respect vaccine freedom speeches</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-24 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 12:41 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 13:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
