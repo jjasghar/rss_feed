@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 18:39:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-25 19:32:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 18:39 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 19:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/25/kenya-arrests-more-than-350-as-people-mark-anniversary-of-deadly-protests?traffic_source=rss" target="_blank">Kenya arrests more than 350 as people mark anniversary of deadly protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-25 18:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/earthquake-3-gty-gmh-260625_1782389194984_hpMain_4x3t_384.jpg" alt="&#x27;The floor under me was shaking&#x27;: American tourist recounts Venezuela quakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +104,29 @@
                 <span class="time">2026-06-25 15:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/25/nx-s1-5869755/judge-blocks-postal-service-proposal-to-restrict-mail-in-voting-under-trumps-order" target="_blank">Judge blocks Postal Service proposal to restrict mail-in voting under Trump&#x27;s order</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-25 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a39c73ad8ef6fd843d20906/master/pass/Launorma_Liveblog.png" alt="We&#x27;re Live-Blogging For The Real Heads Still Shopping Amazon Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/" target="_blank">We&#x27;re Live-Blogging For The Real Heads Still Shopping Amazon Prime Day</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-25 19:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-500x500.jpg" alt="Notion killing Skiff-influenced email app since most users use AI agents instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/" target="_blank">Notion killing Skiff-influenced email app since most users use AI agents instead</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-25 19:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +163,20 @@
                 <span class="time">2026-06-25 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/" target="_blank">Netris raises $15M Series A from a16z to help AI neoclouds go live faster</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-25 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Original-5471-polestar-3-500x500-1782397788.jpeg" alt="Feds deny Polestar authorization to sell cars in US from model year 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/" target="_blank">Feds deny Polestar authorization to sell cars in US from model year 2027</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-25 14:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/elenarevicheva/i-built-a-131-test-eval-harness-before-writing-new-features-heres-the-silent-failure-it-caught-47cb" target="_blank">I Built a 131-Test Eval Harness Before Writing New Features. Here&#x27;s the Silent Failure It Caught.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-25 19:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,6 +199,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://scrollprize.org/firstscroll" target="_blank">An entire Herculaneum scroll has been read for the first time</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-25 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://scrollprize.org/firstscroll" target="_blank">A Herculaneum scroll has been read for the first time</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-25 15:48</span>
@@ -194,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/codeqa/where-ai-code-intelligence-fits-in-your-ai-developer-roadmap-2026-4006" target="_blank">Where AI code intelligence fits in your AI developer roadmap 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-25 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ziglang.org/devlog/2026/#2026-06-25" target="_blank">Zig&#x27;s new bitCast semantics and LLVM back end improvements</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-25 14:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17367828/foss-weekly-26-26" target="_blank">FOSS Weekly #26.26: Free Origin Access, Niri Tiling, Firefox Tricks, Myna in Ubuntu and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-25 14:17</span>
             </div>
         </div>
 </div>
@@ -242,6 +250,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/padme-1280x720.jpg" alt="Man, It’s Going To Get So Much Worse Before It Gets Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/man-its-going-to-get-so-much-worse-before-it-gets-better-2000710540" target="_blank">Man, It’s Going To Get So Much Worse Before It Gets Better</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-25 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KV8QZM9NXE7JWZM6W9NMASEV/hero-image.png" alt="I&#x27;m a Tech Editor, and These Are My Favorite Prime Day Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-tech-deals-prime-day-june-25-2026?utm_medium=RSS" target="_blank">I&#x27;m a Tech Editor, and These Are My Favorite Prime Day Deals</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-25 18:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1115053.jpg?fit=1200%2C1573&amp;quality=60&amp;ssl=1" alt="A mountain man spent 25 years eating the livers of the people who killed his wife" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +302,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/25/deal-days-knocks-this-hp-elitebook-workhorse-down-to-275.html" target="_blank">Deal Days knocks this HP EliteBook workhorse down to $275</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVTHJ2Q84EJPZJ1FDJSHZCD4/hero-image.png" alt="The Best Prime Day Deals on Apple, Pixel, and Samsung Smartwatches and Accessories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-smartwatch-deals-prime-day-june-25-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Apple, Pixel, and Samsung Smartwatches and Accessories</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-25 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/ULTIMATE_EDITION_VICE_CITY_STYLE_04-1280x720.jpg" alt="Grand Theft Auto 6’s Code In A Box Is Somehow Already Selling Out On PS5, And Scalpers Have Their Eye On It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/grand-theft-auto-6-gta6-pre-orders-physical-disc-scalper-2000710491" target="_blank">Grand Theft Auto 6’s Code In A Box Is Somehow Already Selling Out On PS5, And Scalpers Have Their Eye On It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-25 13:26</span>
             </div>
         </div>
 </div>
@@ -333,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 18:39 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 19:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
