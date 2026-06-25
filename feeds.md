@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 21:29:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-25 22:27:27 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 21:30 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 22:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +112,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok" target="_blank">YouTube updates Shorts to make it even more like TikTok</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-25 22:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft-windows-500x500.jpg" alt="Microsoft adds another year to Windows 10 extended update program" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -118,6 +136,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/" target="_blank">Patronus AI lands $50M  to build ‘digital worlds’ that stress-test AI agents</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-25 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3c6b85f829e485b65527f0/master/pass/hydrow-arc-rower.jpg" alt="Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/" target="_blank">Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-25 19:58</span>
             </div>
         </div>
 <div class="story">
@@ -138,24 +165,6 @@
                 <span class="time">2026-06-25 19:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026" target="_blank">The 16 best robot vacuum deals available during Prime Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-25 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/" target="_blank">Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-25 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,9 +174,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lynkr/telangana-public-spending-intelligence-platform-2164" target="_blank">TELANGANA PUBLIC SPENDING INTELLIGENCE PLATFORM</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-25 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/fartur/building-autonomous-ai-agents-in-the-enterprise-4j61" target="_blank">Building Autonomous AI Agents in the Enterprise</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-25 21:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Akrites" target="_blank">Linux Foundation &amp; Others Launch &quot;Akrites&quot; To Defend Open-Source Software From AI-Enabled Exploits</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-25 21:09</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +222,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/cloudflare-bug-quiche/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Cloudflare Solved a Congestion Bug in quiche</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-25 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wayland-For-Artists" target="_blank">Academy Software Foundation Announces The &quot;Wayland For Artists Working Group&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-25 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amrree/the-constraint-that-made-me-better-on-working-within-context-limits-1a0j" target="_blank">The Constraint That Made Me Better: On Working Within Context Limits</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-25 16:32</span>
             </div>
         </div>
 </div>
@@ -244,12 +253,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KW074PBNTCKJ731AHH403W35/hero-image.png" alt="The Best Prime Day Deals on Amazon Fire TV Sticks, up to 55% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/fire-tv-sticks-deals-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Amazon Fire TV Sticks, up to 55% Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-25 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/bungie-1280x774.jpg" alt="At Least 292 Laid Off At Bungie Amid Sony’s Latest Cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/at-least-292-laid-off-at-bungie-amid-sonys-latest-cuts-2000710669" target="_blank">At Least 292 Laid Off At Bungie Amid Sony’s Latest Cuts</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-25 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/GoCable-8-in-1-EDC-100W-Cable.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Cut cable clutter with this 8-in-1 keyring charging tool for $22 during Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/25/cut-cable-clutter-with-this-8-in-1-keyring-charging-tool-for-22-during-deal-days.html" target="_blank">Cut cable clutter with this 8-in-1 keyring charging tool for $22 during Deal Days</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-25 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -277,24 +304,6 @@
                 <span class="title"><a href="https://kotaku.com/man-its-going-to-get-so-much-worse-before-it-gets-better-2000710540" target="_blank">Man, It’s Going To Get So Much Worse Before It Gets Better</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-25 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/Apple-MacBook-Air-1-e1782412269515.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Apple raises prices because AI ate the RAM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/25/apple-raises-prices-because-ai-ate-the-ram.html" target="_blank">Apple raises prices because AI ate the RAM</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-25 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KV8QZM9NXE7JWZM6W9NMASEV/hero-image.png" alt="I&#x27;m a Tech Editor, and These Are My Favorite Prime Day Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-tech-deals-prime-day-june-25-2026?utm_medium=RSS" target="_blank">I&#x27;m a Tech Editor, and These Are My Favorite Prime Day Deals</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-25 18:20</span>
             </div>
         </div>
 </div>
@@ -334,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 21:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 22:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
