@@ -1,40 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 03:00:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-25 05:17:01 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, June 25, 2026 - 05:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/25/thousands-feared-dead-as-twin-earthquakes-cause-devastation-across-venezuel?traffic_source=rss" target="_blank">Thousands feared dead as twin earthquakes cause devastation across Venezuel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-25 04:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cassisdy-1-rt-gmh-260624_1782335910695_hpMain_4x3t_384.jpg" alt="In reversal, Senate votes to block war powers resolution, delivering Trump a win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/reversal-senate-votes-block-war-powers-resolution-delivering/story?id=134193814" target="_blank">In reversal, Senate votes to block war powers resolution, delivering Trump a win</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-25 03:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +91,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-and-gop-senator-in-shouting-match-during-closed-door-meeting-265631301604" target="_blank">Trump and GOP senator in shouting match during closed-door meeting</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-25 00:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/25/venezuela-struck-by-back-to-back-earthquakes-high-casualties-feared?traffic_source=rss" target="_blank">Venezuela struck by back-to-back earthquakes, many casualties feared</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-25 00:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-breaking-breakingnews_7210863.png?20260516142605" alt="&#x27;High casualties&#x27; feared as buildings collapse after back-to-back Venezuela earthquakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/high-casualties-feared-as-buildings-collapse-after-back-to-back-venezuela-earthquakes-13557528" target="_blank">&#x27;High casualties&#x27; feared as buildings collapse after back-to-back Venezuela earthquakes</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-24 23:50</span>
             </div>
         </div>
 </div>
@@ -332,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 05:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
