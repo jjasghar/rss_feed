@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 05:22:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-26 07:11:03 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 05:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 07:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0691/live/dfcb8d20-711f-11f1-8e1d-bbbb1017d210.jpg" alt="King Charles reveals he paid £12.9m in tax for 2024-25" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss" target="_blank">King Charles reveals he paid £12.9m in tax for 2024-25</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-26 06:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss" target="_blank">US ends deportation protections (TPS) for Haitians and Syrians</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-26 05:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/26/who-will-control-africas-ai-infrastructure-and-at-what-cost?traffic_source=rss" target="_blank">Who will control Africa’s AI infrastructure, and at what cost?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-26 00:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/rep-1-gty-er-260625_1782426723429_hpMain_4x3t_384.jpg" alt="&#x27;It&#x27;s completely out of bounds&#x27;: Democrat launches Linda McMahon impeachment effort" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/completely-bounds-democrat-efforts-education-secretary-impeachment/story?id=134219766" target="_blank">&#x27;It&#x27;s completely out of bounds&#x27;: Democrat launches Linda McMahon impeachment effort</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-26 00:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows?traffic_source=rss" target="_blank">Economic losses mount as Venezuela earthquake death toll grows</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-25 21:12</span>
             </div>
         </div>
 </div>
@@ -172,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/diy_electronics_1a54d645a/5-things-i-wish-i-knew-before-starting-with-arduino-3djf" target="_blank">5 Things I Wish I Knew Before Starting with Arduino</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-26 07:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Coreboot-26.06-Released" target="_blank">Coreboot 26.06 Brings Support For Intel Nova Lake, AMD Strix Halo &amp; 31 New Boards</a></span>
                 <span class="feed">Phoronix</span>
@@ -212,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/lynkr/telangana-public-spending-intelligence-platform-2164" target="_blank">TELANGANA PUBLIC SPENDING INTELLIGENCE PLATFORM</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-25 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://expression.fire.org/p/the-papers-please-era-of-the-internet" target="_blank">The &#x27;papers, please&#x27; era of the internet will decimate your privacy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-25 21:44</span>
             </div>
         </div>
 </div>
@@ -343,7 +335,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 05:22 UTC
+        🔄 Last Updated: 07:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
