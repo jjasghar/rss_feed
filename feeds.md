@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 20:30:30 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-26 21:26:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 20:30 UTC</div>
+    <div class="newspaper-date">Friday, June 26, 2026 - 21:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +52,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/798c/live/7e611570-719a-11f1-ac61-7d0e237a354c.jpg" alt="Venezuela earthquakes kill 920 people as families desperate for news" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela earthquakes kill 920 people as families desperate for news</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-26 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/strait-of-hormuz-rt-jt-260623_1782236012536_hpMain_4x3t_384.jpg" alt="Iran live updates: US conducts strikes on Iran over Strait of Hormuz drone attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780" target="_blank">Iran live updates: US conducts strikes on Iran over Strait of Hormuz drone attack</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-26 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/26/nx-s1-5871369/new-york-ice-instagram-immigration-dhs-paigelynne-gonyea" target="_blank">She posted about ICE. Five months later, DHS agents told her to take her post down</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-26 20:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/26/us-federal-judge-questions-doj-decision-to-drop-adani-charges?traffic_source=rss" target="_blank">US federal judge questions DOJ decision to drop Adani charges</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-26 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f2a/live/cc364a40-716d-11f1-a4f8-ed826651ef10.jpg" alt="Hottest June day record broken for third day in row as temperature hits 37.3C" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss" target="_blank">Hottest June day record broken for third day in row as temperature hits 37.3C</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-26 19:40</span>
             </div>
         </div>
 <div class="story">
@@ -62,47 +105,29 @@
                 <span class="time">2026-06-26 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid" target="_blank">U.S. pledges generous earthquake relief to Venezuela</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-26 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d38/live/bda21270-714a-11f1-8546-8f19e4fe30f4.jpg" alt="Mother dies saving daughter in Venezuela earthquakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss" target="_blank">Mother dies saving daughter in Venezuela earthquakes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-26 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/26/nx-s1-5871397/world-cup-tickets-stubhub-resale-controversy" target="_blank">World Cup fans are missing games after their resale tickets fall through</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-26 16:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes" target="_blank">Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-26 15:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale" target="_blank">Our favorite Prime Day gadgets under $100 you don&amp;#8217;t need but will really want</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-26 21:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1987915833-500x500.jpg" alt="Streaming services’ obnoxiously loud ads become illegal on July 1 in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/" target="_blank">Streaming services’ obnoxiously loud ads become illegal on July 1 in California</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-26 21:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a3ed90c9625c74448e072d3/master/pass/Samsung%E2%80%99s-Excellent-OLED-Monitors-Are-Up-to-38-Percent-Off-For-Prime-Day.jpg" alt="Samsung’s Excellent OLED Monitors Are Up to 38 Percent Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +164,20 @@
                 <span class="time">2026-06-26 18:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview" target="_blank">OpenAI unveils GPT-5.6 amid US AI regulatory drama</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-26 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3abedeea2c52b725f7742e/master/pass/Sensitive-US-Intelligence-Operatives-Exposed-Security-2263872663.jpg" alt="The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/" target="_blank">The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-26 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/manage-sensitive-data-in-application-code-build-a-secure-configuration-service-3mlb" target="_blank">Manage Sensitive Data In Application Code | 🏗️ Build A Secure Configuration Service</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-26 21:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,20 +223,20 @@
                 <span class="time">2026-06-26 16:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/vercel-eve-agents/en/headerimage/generatedHeaderImage-1782478004947.jpg" alt="Vercel Introduces Eve, an Open-Source Framework for Building AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/vercel-eve-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Introduces Eve, an Open-Source Framework for Building AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-26 16:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html" target="_blank">The Chinese Control the Majority of Argentina’s Squid Fleet</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-26 20:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -244,6 +260,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/c3bb8e4c7a627ea259ef2ee0e7ed1a52-1280x717.jpg" alt="One Year In, It’s Still Really Fun To Suck Ass At Elden Ring Nightreign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fun-bad-elden-ring-nightreign-2000711051" target="_blank">One Year In, It’s Still Really Fun To Suck Ass At Elden Ring Nightreign</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-26 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVXV034A0Z2YGN06WGJ9FQF3/hero-image.png" alt="The Best Last-Minute Prime Day Deals on Laptops, Monitors, and PC Accessories" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/laptops-monitors-pc-accessories-prime-day-june-26-2026?utm_medium=RSS" target="_blank">The Best Last-Minute Prime Day Deals on Laptops, Monitors, and PC Accessories</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-26 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KW2NKBRZCEZ83FWT0Q4C5AKB/hero-image.png" alt="Garmin&#x27;s Most Basic Running Watch Is Now Cheaper Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +312,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/last-chance-fitness-equipment-deals-prime-day-june-26-2026?utm_medium=RSS" target="_blank">The Best Last-Minute Prime Day Deals on Fitness Equipment, up to 50% Off</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-26 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVTZN2BS87A66W770Q7SME33/hero-image.png" alt="These Peloton Bikes, Treadmills, and More Are up to 33% Off on the Last Day of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/peloton-bikes-treads-dumbbells-sale-prime-day-june-26-2026?utm_medium=RSS" target="_blank">These Peloton Bikes, Treadmills, and More Are up to 33% Off on the Last Day of Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-26 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/dest-2.jpg" alt="Destiny 2′s Final Hotfix Gets Delayed After Sony Lays Off Some Of The People Working On It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/destiny-2s-final-hotfix-gets-delayed-after-sony-lays-off-some-of-the-people-working-on-it-2000710981" target="_blank">Destiny 2′s Final Hotfix Gets Delayed After Sony Lays Off Some Of The People Working On It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-26 15:00</span>
             </div>
         </div>
 </div>
@@ -344,8 +360,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 20:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 21:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
