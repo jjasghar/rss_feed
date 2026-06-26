@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 10:57:27 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-26 11:53:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 10:57 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 11:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/26/g-s1-130361/up-first-newsletter-venezuela-earthquakes-asylum-claims-farmers" target="_blank">Rescuers scramble to find Venezuela earthquake survivors. And, SCOTUS rules on asylum</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-26 11:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc" target="_blank">Whereabouts of nearly 300 people with Ebola unknown in DRC</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-26 10:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +99,29 @@
                 <span class="time">2026-06-26 09:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/26/affordability-crisis-how-the-western-housing-crisis-spiralled?traffic_source=rss" target="_blank">‘Affordability crisis’: How the Western housing crisis spiralled</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-26 08:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0691/live/dfcb8d20-711f-11f1-8e1d-bbbb1017d210.jpg" alt="King Charles reveals he paid £12.9m in tax for 2024-25" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss" target="_blank">King Charles reveals he paid £12.9m in tax for 2024-25</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-26 06:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3abc00b35647f689f166fa/master/pass/The-Best-Walmart-Deals-This-Prime-Day.jpg" alt="23 Walmart Deals We Like Better Than That Other Sale Happening Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/walmart-deals-apd-06-26-2026/" target="_blank">23 Walmart Deals We Like Better Than That Other Sale Happening Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-26 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_8646-lowres-1-500x500.webp" alt="Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/" target="_blank">Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-26 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +158,29 @@
                 <span class="time">2026-06-25 22:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft-windows-500x500.jpg" alt="Microsoft adds another year to Windows 10 extended update program" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/" target="_blank">Microsoft adds another year to Windows 10 extended update program</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-25 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/" target="_blank">Patronus AI lands $50M  to build ‘digital worlds’ that stress-test AI agents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-25 20:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/derrickryangiggs/i-built-a-hybrid-search-engine-from-scratch-heres-what-i-learned-llm-zoomcamp-2026-module-2-3jdj" target="_blank">I Built a Hybrid Search Engine From Scratch — Here&#x27;s What I Learned (LLM Zoomcamp 2026, Module 2)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-26 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/challenges-designers-face-in-open-source-and-how-to-fix-them" target="_blank">Challenges designers face in open source (and how to fix them)</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-26 11:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +217,6 @@
                 <span class="time">2026-06-26 07:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/diy_electronics_1a54d645a/5-things-i-wish-i-knew-before-starting-with-arduino-3djf" target="_blank">5 Things I Wish I Knew Before Starting with Arduino</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-26 07:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Coreboot-26.06-Released" target="_blank">Coreboot 26.06 Brings Support For Intel Nova Lake, AMD Strix Halo &amp; 31 New Boards</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-26 00:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,18 +226,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html" target="_blank">AI and Liability</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html" target="_blank">One Million Passports Leaked Online</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-25 17:03</span>
+                <span class="time">2026-06-26 11:03</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html" target="_blank">Interesting Paper Exploring Prompt Injection</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html" target="_blank">AI and Liability</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-25 11:23</span>
+                <span class="time">2026-06-25 17:03</span>
             </div>
         </div>
 </div>
@@ -340,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 10:57 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 11:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
