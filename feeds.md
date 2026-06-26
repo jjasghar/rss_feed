@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 21:26:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-26 22:23:10 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 21:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 22:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +62,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782507130029_now_mtp_us_iran_strikes_260626_S3_1920x1080-jnp3oh.jpg" alt="U.S. strikes Iran after attack on commercial vessel in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/u-s-strikes-iran-after-attack-on-commercial-vessel-in-strait-of-hormuz-265759301628" target="_blank">U.S. strikes Iran after attack on commercial vessel in Strait of Hormuz</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-26 20:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -96,20 +97,38 @@
                 <span class="time">2026-06-26 19:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/26/israeli-prosecutors-charge-six-settlers-after-west-bank-mosque-attack?traffic_source=rss" target="_blank">Israeli prosecutors charge six settlers after West Bank mosque attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-26 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-500x500.jpg" alt="South Korea plans to train entire military as &quot;drone warriors&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/" target="_blank">South Korea plans to train entire military as &quot;drone warriors&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-26 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor" target="_blank">After covering Prime Day for 36 hours over four days, this is the one thing I bought</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-26 22:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3ad3217cb7548eacd53230/master/pass/WIRED%E2%80%99s-Favorite-Espresso-Machine-Is-on-Sale-for-the-First-Time.jpg" alt="Prime Day Deal 2026: Fellow Espresso Series 1 Is $200 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-prime-day-deal-2026-fellow-series-1/" target="_blank">Prime Day Deal 2026: Fellow Espresso Series 1 Is $200 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-26 22:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,33 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/samsungs-odyssey-oled-monitors-prime-day-2026/" target="_blank">Samsung’s Excellent OLED Monitors Are Up to 38 Percent Off for Prime Day</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-06-26 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/" target="_blank">Novak Djokovic has a new job —  advisor to private equity firm General Atlantic</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-26 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3a2c47580177a5599b11b0/master/pass/The-7-Best-Prime-Day-Streaming-Deals.jpg" alt="10 Best Prime Day Streaming Deals, Including Half Off Apple TV (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-prime-day-streaming-deals-06-26-2026/" target="_blank">10 Best Prime Day Streaming Deals, Including Half Off Apple TV (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-26 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale" target="_blank">Our 36 favorite gaming deals on Prime Day for Switch, PS5, and Xbox</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-26 18:43</span>
             </div>
         </div>
 </div>
@@ -261,6 +253,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVTF86K9CPWZ91MQ18Q18E6D/hero-image.png" alt="Prime Day 2026 Live Blog: The Best Deals on Headphones, TVs, Fitness Tech, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-prime-day-live-blog-06-26-2026?utm_medium=RSS" target="_blank">Prime Day 2026 Live Blog: The Best Deals on Headphones, TVs, Fitness Tech, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-26 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/ea308340-717b-11f1-8546-8f19e4fe30f4.jpg.webp?fit=1536%2C863&amp;quality=55&amp;ssl=1" alt="Rapist who faked own death reportedly dead again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/26/rapist-who-faked-own-death-reportedly-dead-again.html" target="_blank">Rapist who faked own death reportedly dead again</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-26 21:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/c3bb8e4c7a627ea259ef2ee0e7ed1a52-1280x717.jpg" alt="One Year In, It’s Still Really Fun To Suck Ass At Elden Ring Nightreign" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -294,24 +304,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/26/judge-orders-huntington-beach-to-add-more-democracy-to-its-democracy.html" target="_blank">Judge orders Huntington Beach to add more democracy to its democracy</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-26 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/terminator-2-1280x720.jpg" alt="PlayStation Is Deleting 551 Movies From Customers’ Accounts, Reminding Us Nothing Digital Is Ever Truly Ours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013" target="_blank">PlayStation Is Deleting 551 Movies From Customers’ Accounts, Reminding Us Nothing Digital Is Ever Truly Ours</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-26 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVDT1E7D36SPZC8BG7V3DJGP/hero-image.png" alt="The Best Last-Minute Prime Day Deals on Fitness Equipment, up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/last-chance-fitness-equipment-deals-prime-day-june-26-2026?utm_medium=RSS" target="_blank">The Best Last-Minute Prime Day Deals on Fitness Equipment, up to 50% Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-26 17:09</span>
             </div>
         </div>
 </div>
@@ -360,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 21:26 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 254 |
+        🔄 Last Updated: 22:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
