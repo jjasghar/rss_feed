@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 01:39:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-26 03:00:56 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 01:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 03:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ff4/live/aa946140-70f7-11f1-9a82-89f06f847cb2.jpg" alt="Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss" target="_blank">Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-26 02:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +101,20 @@
                 <span class="time">2026-06-25 18:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-oman-strait-of-hormuz_7277509.jpg?20260619093024" alt="UN suspends Strait of Hormuz evacuation after ship &#x27;hit by projectile&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/un-suspends-strait-of-hormuz-evacuation-after-ship-hit-by-projectile-13557819" target="_blank">UN suspends Strait of Hormuz evacuation after ship &#x27;hit by projectile&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-25 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3c48b56c59c72c499e0fad/master/pass/Model-Behavior-AI-Safe-Only-With-Anthropic-Business.jpg" alt="Anthropic Thinks Its Own Success Is Key to Making AI Safe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/" target="_blank">Anthropic Thinks Its Own Success Is Key to Making AI Safe</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-26 00:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +160,20 @@
                 <span class="time">2026-06-25 19:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a39c73ad8ef6fd843d20906/master/pass/Launorma_Liveblog.png" alt="We&#x27;re Live-Blogging For The Real Heads Still Shopping Amazon Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/" target="_blank">We&#x27;re Live-Blogging For The Real Heads Still Shopping Amazon Prime Day</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-25 19:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Coreboot-26.06-Released" target="_blank">Coreboot 26.06 Brings Support For Intel Nova Lake, AMD Strix Halo &amp; 31 New Boards</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-26 00:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +219,6 @@
                 <span class="time">2026-06-25 21:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fartur/building-autonomous-ai-agents-in-the-enterprise-4j61" target="_blank">Building Autonomous AI Agents in the Enterprise</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-25 21:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,12 +248,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/74c4d-17823083543544.webp?fit=1920%2C1080&amp;quality=55&amp;ssl=1" alt="JPMorgan Chase cans executive who stole trash can" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/25/jpmorgan-chase-cans-executive-who-stole-trash-can.html" target="_blank">JPMorgan Chase cans executive who stole trash can</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-26 00:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Full-Res-For-Print3-800x540-1.webp?fit=800%2C540&amp;quality=55&amp;ssl=1" alt="Webb spent three days photographing one beautiful galactic mess" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/06/25/webb-spent-three-days-photographing-one-beautiful-galactic-mess.html" target="_blank">Webb spent three days photographing one beautiful galactic mess</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-25 23:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVTF86K9CPWZ91MQ18Q18E6D/hero-image.png" alt="Prime Day 2026 Live Blog: The Best Deals on Headphones, TVs, Fitness Tech, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-prime-day-live-blog-06-25-2026?utm_medium=RSS" target="_blank">Prime Day 2026 Live Blog: The Best Deals on Headphones, TVs, Fitness Tech, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-25 23:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/steam-machine-2-1280x720.jpg" alt="Valve Removes ‘4K Gaming At 60 FPS’ From Steam Machine Page After Early Review Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663" target="_blank">Valve Removes ‘4K Gaming At 60 FPS’ From Steam Machine Page After Early Review Backlash</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-25 23:00</span>
             </div>
         </div>
 <div class="story">
@@ -268,33 +299,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/best-deals-video-games-controllers-peripherals-prime-day-june-25-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Video Games, Controllers, and Peripherals</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-25 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KW074PBNTCKJ731AHH403W35/hero-image.png" alt="The Best Prime Day Deals on Amazon Fire TV Sticks, up to 55% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/fire-tv-sticks-deals-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Amazon Fire TV Sticks, up to 55% Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-25 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/bungie-1280x774.jpg" alt="At Least 292 Laid Off At Bungie Amid Sony’s Latest Cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/at-least-292-laid-off-at-bungie-amid-sonys-latest-cuts-2000710669" target="_blank">At Least 292 Laid Off At Bungie Amid Sony’s Latest Cuts</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-25 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/GoCable-8-in-1-EDC-100W-Cable.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Cut cable clutter with this 8-in-1 keyring charging tool for $22 during Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/25/cut-cable-clutter-with-this-8-in-1-keyring-charging-tool-for-22-during-deal-days.html" target="_blank">Cut cable clutter with this 8-in-1 keyring charging tool for $22 during Deal Days</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-25 21:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 01:39 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 03:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
