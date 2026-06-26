@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 14:50:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-26 15:42:35 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 14:50 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 15:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes" target="_blank">Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-26 15:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/06/1920x1080/skynews-beijing-china-tower_7283653.jpg?20260626154142" alt="Plane crashed into Beijing&#x27;s tallest building, witnesses say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +98,38 @@
                 <span class="time">2026-06-26 13:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/longform/2026/6/26/the-hands-behind-the-beautiful-game?traffic_source=rss" target="_blank">The hands behind the beautiful game</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-26 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/952995/fitbit-charge-6-ace-lte-amazon-prime-day-2026-deal-sale" target="_blank">Fitbit’s Charge 6 and kid-friendly Ace LTE are much cheaper for Prime Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-26 15:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6923cb457986ae64be5848c8/master/pass/Unmissable%20Black%20Friday%20Netgear%20Mesh%20Router%20Deals.png" alt="Get $145 Off the Best Mesh Router This Prime Day 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-prime-day-router-deals-06-26-2026/" target="_blank">Get $145 Off the Best Mesh Router This Prime Day 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-26 15:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2240447022-500x500.jpg" alt="VW may close four factories to adapt to the future, report says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/" target="_blank">VW may close four factories to adapt to the future, report says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-26 15:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/64b87fbfc3f2cf2daf39fccd/master/pass/Jackery-Explorer-2000-Plus-Lifestyle-Gear.png" alt="Get Off Grid in Style Thanks to This Device—On Sale for Prime Day (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +157,29 @@
                 <span class="time">2026-06-26 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale" target="_blank">Prime Day is offering rare discounts on Philips Hue smart lights</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-26 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3abc00b35647f689f166fa/master/pass/The-Best-Walmart-Deals-This-Prime-Day.jpg" alt="23 Walmart Deals We Like Better Than That Other Sale Happening Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/walmart-deals-apd-06-26-2026/" target="_blank">23 Walmart Deals We Like Better Than That Other Sale Happening Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-26 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_8646-lowres-1-500x500.webp" alt="Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/" target="_blank">Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-26 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/carryologist/friday-fixes-the-fix-that-wasnt-25pi" target="_blank">Friday Fixes: The Fix That Wasn&#x27;t</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-26 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/stonking-stingray-ubuntu.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 Snapshot 2 is out (with a ‘breaking change’)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/ubuntu-26-10-snapshot-2-released" target="_blank">Ubuntu 26.10 Snapshot 2 is out (with a ‘breaking change’)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-26 14:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +216,6 @@
                 <span class="time">2026-06-26 12:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/dapr-1-18-cryptographic-ai/en/headerimage/generatedHeaderImage-1782128447195.jpg" alt="Dapr 1.18 Introduces Verifiable Execution, Bringing Cryptographic Trust to AI Agents and Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/dapr-1-18-cryptographic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dapr 1.18 Introduces Verifiable Execution, Bringing Cryptographic Trust to AI Agents and Workflows</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/" target="_blank">Transitioning as a hubber</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-26 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +245,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVTZN2BS87A66W770Q7SME33/hero-image.png" alt="These Peloton Bikes, Treadmills, and More Are up to 33% Off on the Last Day of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/peloton-bikes-treads-dumbbells-sale-prime-day-june-26-2026?utm_medium=RSS" target="_blank">These Peloton Bikes, Treadmills, and More Are up to 33% Off on the Last Day of Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-26 15:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/dest-2.jpg" alt="Destiny 2′s Final Hotfix Gets Delayed After Sony Lays Off Some Of The People Working On It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/destiny-2s-final-hotfix-gets-delayed-after-sony-lays-off-some-of-the-people-working-on-it-2000710981" target="_blank">Destiny 2′s Final Hotfix Gets Delayed After Sony Lays Off Some Of The People Working On It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-26 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVB9E9ERG61DC5NYDB83M0Q4/hero-image.png" alt="I Keep Finding New Prime Day Deals on Garmin, Oura, and Other Fitness Wearables" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -263,39 +281,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/toohey-1115084.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="A computer the size of a star would nest Dyson spheres like Russian dolls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/26/a-computer-the-size-of-a-star-would-nest-dyson-spheres-like-russian-dolls.html" target="_blank">A computer the size of a star would nest Dyson spheres like Russian dolls</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-26 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVTM2WT23893TVE1CKK0V349/hero-image.png" alt="These Prime Day Deals on Kindles and E-Readers End Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/last-chance-kindle-and-e-reader-prime-day-deals-june-26-2026?utm_medium=RSS" target="_blank">These Prime Day Deals on Kindles and E-Readers End Tonight</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-26 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/HLn9hXZXAAADpjw-1280x853.jpeg" alt="Your Guide To Evo 2026: Why The Games Are Changing, Attendance Is Down, But The Spirit Endures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/evo-2026-overview-what-to-watch-2kxo-rivals-of-aether-2-2000710640" target="_blank">Your Guide To Evo 2026: Why The Games Are Changing, Attendance Is Down, But The Spirit Endures</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/74c4d-17823083543544.webp?fit=1920%2C1080&amp;quality=55&amp;ssl=1" alt="JPMorgan Chase cans executive who stole trash can" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/25/jpmorgan-chase-cans-executive-who-stole-trash-can.html" target="_blank">JPMorgan Chase cans executive who stole trash can</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-26 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Full-Res-For-Print3-800x540-1.webp?fit=800%2C540&amp;quality=55&amp;ssl=1" alt="Webb spent three days photographing one beautiful galactic mess" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/25/webb-spent-three-days-photographing-one-beautiful-galactic-mess.html" target="_blank">Webb spent three days photographing one beautiful galactic mess</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-25 23:37</span>
             </div>
         </div>
 </div>
@@ -330,22 +330,13 @@
                 <span class="time">2026-06-25 15:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1782175610-20260625.png" alt="Saturday Morning Breakfast Cereal - Agency" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/agency" target="_blank">Saturday Morning Breakfast Cereal - Agency</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-25 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 14:50 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 15:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
