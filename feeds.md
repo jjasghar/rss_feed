@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 17:30:55 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-26 18:30:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 17:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 18:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/26/israeli-prosecutors-charge-six-settlers-after-west-bank-mosque-attack?traffic_source=rss" target="_blank">Israeli prosecutors charge six settlers after West Bank mosque attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-26 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d38/live/bda21270-714a-11f1-8546-8f19e4fe30f4.jpg" alt="Mother dies saving daughter in Venezuela earthquakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss" target="_blank">Iran slams the GCC and the US for ‘interventionist’ statement: What we know</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-26 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/26/aid-groups-urge-swift-action-to-avert-atrocities-in-sudans-el-obeid?traffic_source=rss" target="_blank">Aid groups urge swift action to avert ‘atrocities’ in Sudan’s el-Obeid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-26 13:32</span>
             </div>
         </div>
 </div>
@@ -169,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/archpilot-labs/ai-writes-code-in-seconds-architecture-debt-takes-months-to-notice-38bk" target="_blank">AI writes code in seconds. Architecture debt takes months to notice.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-26 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/umair_ashraf_3fc3dabc723d/i-built-a-lightweight-jquery-tree-select-plugin-4b9c" target="_blank">I built a lightweight jQuery Tree Select plugin 🌳</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-26 17:25</span>
@@ -210,15 +218,6 @@
                 <span class="time">2026-06-26 15:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/stonking-stingray-ubuntu.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 Snapshot 2 is out (with a ‘breaking change’)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/ubuntu-26-10-snapshot-2-released" target="_blank">Ubuntu 26.10 Snapshot 2 is out (with a ‘breaking change’)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-26 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/terminator-2-1280x720.jpg" alt="PlayStation Is Deleting 551 Movies From Customers’ Accounts, Reminding Us Nothing Digital Is Ever Truly Ours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013" target="_blank">PlayStation Is Deleting 551 Movies From Customers’ Accounts, Reminding Us Nothing Digital Is Ever Truly Ours</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-26 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVDT1E7D36SPZC8BG7V3DJGP/hero-image.png" alt="The Best Last-Minute Prime Day Deals on Fitness Equipment, up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,20 +300,29 @@
                 <span class="time">2026-06-26 14:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Dragons-Dogma-2-Dark-Arisen-official-artwork-Capcom-1280x720.jpg" alt="Everything We Spotted In Dragon’s Dogma 2: Dark Arisen’s New Spotlight Showcase" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dragons-dogma-2-dark-arisen-dragonsplague-relics-weapon-skills-2000710941" target="_blank">Everything We Spotted In Dragon’s Dogma 2: Dark Arisen’s New Spotlight Showcase</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-26 14:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/26/imperium-maledictum" target="_blank">Imperium Maledictum</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-26 17:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1782416796-20260626 - Copy.png" alt="Saturday Morning Breakfast Cereal - Milgram" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/milgram" target="_blank">Saturday Morning Breakfast Cereal - Milgram</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-26 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -329,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 17:31 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 18:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
