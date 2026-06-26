@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 03:00:56 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-26 05:22:07 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 03:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 05:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/26/g-s1-130347/king-charles-buckingham-palace" target="_blank">King Charles III will not live at Buckingham Palace after its costly refurbishment</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-26 05:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/809/943/46778010427-1080pnbcstations.jpg" alt="Gol de Kaan Ayhan y Tuquía vuelve a separarse frente a Estados Unidos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gol-de-kaan-ayhan-y-tuquia-vuelve-a-separarse-frente-a-estados-unidos-tmvo13197581" target="_blank">Gol de Kaan Ayhan y Tuquía vuelve a separarse frente a Estados Unidos</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-26 04:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ff4/live/aa946140-70f7-11f1-9a82-89f06f847cb2.jpg" alt="Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,39 +88,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/rep-1-gty-er-260625_1782426723429_hpMain_4x3t_384.jpg" alt="&#x27;It&#x27;s completely out of bounds&#x27;: Democrat launches Linda McMahon impeachment effort" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/completely-bounds-democrat-efforts-education-secretary-impeachment/story?id=134219766" target="_blank">&#x27;It&#x27;s completely out of bounds&#x27;: Democrat launches Linda McMahon impeachment effort</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-26 00:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows?traffic_source=rss" target="_blank">Economic losses mount as Venezuela earthquake death toll grows</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-25 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/25/nx-s1-5870557/what-made-the-deadly-venezuelan-earthquakes-different" target="_blank">What made the deadly Venezuelan earthquakes different</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-25 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782415753289_now_daily_b_ana_venezuela_260625_S3_1920x1080-paqyji.jpg" alt="NBC News reporter in Venezuela says people she knows might be missing under rubble" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/nbc-news-reporter-in-venezuela-says-people-she-knows-might-be-missing-under-rubble-265694277556" target="_blank">NBC News reporter in Venezuela says people she knows might be missing under rubble</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-25 19:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/25/kenya-arrests-more-than-350-as-people-mark-anniversary-of-deadly-protests?traffic_source=rss" target="_blank">Kenya arrests more than 350 as people mark anniversary of deadly protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-25 18:55</span>
             </div>
         </div>
 </div>
@@ -338,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 03:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 05:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
