@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 00:28:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-26 01:39:41 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 00:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 01:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/26/who-will-control-africas-ai-infrastructure-and-at-what-cost?traffic_source=rss" target="_blank">Who will control Africa’s AI infrastructure, and at what cost?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-26 00:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +95,6 @@
                 <span class="title"><a href="https://news.sky.com/story/un-suspends-strait-of-hormuz-evacuation-after-ship-hit-by-projectile-13557819" target="_blank">UN suspends Strait of Hormuz evacuation after ship &#x27;hit by projectile&#x27;</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-06-25 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/earthquake-3-gty-gmh-260625_1782389194984_hpMain_4x3t_384.jpg" alt="&#x27;The floor under me was shaking&#x27;: American tourist recounts Venezuela quakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/strong-71-magnitude-earthquake-recorded-coast-venezuela/story?id=134185994" target="_blank">&#x27;The floor under me was shaking&#x27;: American tourist recounts Venezuela quakes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-25 18:22</span>
             </div>
         </div>
 </div>
@@ -172,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-june-26-2026-red-hat" target="_blank">Friday Five — June 26, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-06-26 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/" target="_blank">Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks</a></span>
                 <span class="feed">The GitHub Blog</span>
@@ -203,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/fartur/building-autonomous-ai-agents-in-the-enterprise-4j61" target="_blank">Building Autonomous AI Agents in the Enterprise</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-25 21:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/whisp-linux-scratchpad" target="_blank">Fed up with complex note taking apps? Try Whisp for Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-25 21:10</span>
             </div>
         </div>
 </div>
@@ -333,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 00:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 01:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
