@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 09:00:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-26 10:57:27 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 09:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 10:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +53,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme?traffic_source=rss" target="_blank">IAEA demands verification of Iran nuclear ambitions amid ‘statement war’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-26 10:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/earthquake-24-gty-gmh-260625_1782416113357_hpMain_4x3t_384.jpg" alt="Venezuela earthquakes live updates: Death toll rises at least 235, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/venezuela-earthquakes-updates/?id=134196335" target="_blank">Venezuela earthquakes live updates: Death toll rises at least 235, official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-26 10:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/26/nx-s1-5871147/venezuela-houston-earthquake-katy" target="_blank">&#x27;We are with you, Venezuela&#x27;: Houston community rallies after deadly earthquakes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-26 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2450/live/78b7a860-713a-11f1-8546-8f19e4fe30f4.jpg" alt="King becomes first monarch to reveal tax bill as royal public funding to double to £100m" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss" target="_blank">King becomes first monarch to reveal tax bill as royal public funding to double to £100m</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-26 09:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/26/affordability-crisis-how-the-western-housing-crisis-spiralled?traffic_source=rss" target="_blank">‘Affordability crisis’: How the Western housing crisis spiralled</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-26 08:36</span>
@@ -64,47 +103,20 @@
                 <span class="time">2026-06-26 06:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss" target="_blank">US ends deportation protections (TPS) for Haitians and Syrians</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-26 05:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/26/g-s1-130347/king-charles-buckingham-palace" target="_blank">King Charles III will not live at Buckingham Palace after its costly refurbishment</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-26 05:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/809/943/46778010427-1080pnbcstations.jpg" alt="Gol de Kaan Ayhan y Tuquía vuelve a separarse frente a Estados Unidos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gol-de-kaan-ayhan-y-tuquia-vuelve-a-separarse-frente-a-estados-unidos-tmvo13197581" target="_blank">Gol de Kaan Ayhan y Tuquía vuelve a separarse frente a Estados Unidos</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-26 04:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ff4/live/aa946140-70f7-11f1-9a82-89f06f847cb2.jpg" alt="Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss" target="_blank">Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-26 02:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit" target="_blank">Trump Mobile will take your $499 right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-26 08:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a3c48b56c59c72c499e0fad/master/pass/Model-Behavior-AI-Safe-Only-With-Anthropic-Business.jpg" alt="Anthropic Thinks Its Own Success Is Key to Making AI Safe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +162,29 @@
                 <span class="time">2026-06-25 20:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3c6b85f829e485b65527f0/master/pass/hydrow-arc-rower.jpg" alt="Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/" target="_blank">Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-25 19:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manoir_yantai_f22f01340f0/knowledge-and-memory-management-v002-knowledge-collection-memory-management-2h8g" target="_blank">Knowledge-and-Memory-Management v0.0.2: Knowledge Collection &amp; Memory Management</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-26 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-ISPC-1.31-Released" target="_blank">Intel ISPC 1.31 Brings New Targets For Nova Lake, Experimental PowerPC 64-bit</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-26 10:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Coreboot-26.06-Released" target="_blank">Coreboot 26.06 Brings Support For Intel Nova Lake, AMD Strix Halo &amp; 31 New Boards</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-26 00:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.10-Snapshot-2" target="_blank">Ubuntu 26.10 Snapshot 2 Released For Monthly Testing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-26 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-june-26-2026-red-hat" target="_blank">Friday Five — June 26, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-06-26 00:00</span>
             </div>
         </div>
 </div>
@@ -308,6 +311,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/26/imperium-maledictum" target="_blank">Imperium Maledictum</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-26 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/my-parents/" target="_blank">My Parents</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
@@ -328,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 09:00 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 10:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
