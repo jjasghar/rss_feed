@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-25 23:26:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-26 00:28:18 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, June 25, 2026 - 23:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 00:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -82,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-oman-strait-of-hormuz_7277509.jpg?20260619093024" alt="UN suspends Strait of Hormuz evacuation after ship &#x27;hit by projectile&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/un-suspends-strait-of-hormuz-evacuation-after-ship-hit-by-projectile-13557819" target="_blank">UN suspends Strait of Hormuz evacuation after ship &#x27;hit by projectile&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-25 18:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/earthquake-3-gty-gmh-260625_1782389194984_hpMain_4x3t_384.jpg" alt="&#x27;The floor under me was shaking&#x27;: American tourist recounts Venezuela quakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -90,20 +96,20 @@
                 <span class="time">2026-06-25 18:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/25/us-supreme-court-scales-back-roundup-cancer-lawsuits-in-victory-for-company?traffic_source=rss" target="_blank">US Supreme Court scales back Roundup cancer lawsuits in victory for company</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-25 17:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/" target="_blank">The White House is asking OpenAI to slow roll the release of its new model over safety concerns</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-25 23:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +155,20 @@
                 <span class="time">2026-06-25 19:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-500x500.jpg" alt="Notion killing Skiff-influenced email app since most users use AI agents instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/" target="_blank">Notion killing Skiff-influenced email app since most users use AI agents instead</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-25 19:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.10-Snapshot-2" target="_blank">Ubuntu 26.10 Snapshot 2 Released For Monthly Testing</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-26 00:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,19 +208,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Akrites" target="_blank">Linux Foundation &amp; Others Launch &quot;Akrites&quot; To Defend Open-Source Software From AI-Enabled Exploits</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-25 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sivolko/how-to-move-a-python-service-from-a-docker-image-dhi-without-breaking-package-installs-root-22nm" target="_blank">How to move a Python service from a Docker Image -DHI without breaking package installs, root permissions?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-25 20:27</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/whisp-linux-scratchpad" target="_blank">Fed up with complex note taking apps? Try Whisp for Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-25 21:10</span>
             </div>
         </div>
 </div>
@@ -245,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Full-Res-For-Print3-800x540-1.webp?fit=800%2C540&amp;quality=55&amp;ssl=1" alt="Webb spent three days photographing one beautiful galactic mess" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/25/webb-spent-three-days-photographing-one-beautiful-galactic-mess.html" target="_blank">Webb spent three days photographing one beautiful galactic mess</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-25 23:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Om-Malik-in-2025.-_3Ca-href_3D_22https-commons.wikim_.jpg?fit=1080%2C688&amp;quality=60&amp;ssl=1" alt="Om Malik, 1966-2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +296,6 @@
                 <span class="time">2026-06-25 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KW03ME2RJXY8Y1Z4PARK179H/hero-image.png" alt="The Best Prime Day Deals on Amazon Devices, up to 74% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-deals-on-amazon-devices-prime-day-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Amazon Devices, up to 74% Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-25 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 23:26 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 00:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
