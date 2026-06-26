@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 13:37:01 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-26 14:50:01 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Generated 12 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 13:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 14:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-beijing-china-tower_7283653.jpg?20260626154142" alt="Plane crashed into Beijing&#x27;s tallest building, witnesses say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/plane-crashed-into-beijings-tallest-building-witnesses-say-13558050" target="_blank">Plane crashed into Beijing&#x27;s tallest building, witnesses say</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-26 14:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss" target="_blank">Iran slams the GCC and the US for ‘interventionist’ statement: What we know</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-26 14:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -60,37 +83,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media" target="_blank">Australia plans to strengthen laws banning children from social media</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-26 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/features/longform/2026/6/26/the-hands-behind-the-beautiful-game?traffic_source=rss" target="_blank">The hands behind the beautiful game</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-26 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/26/g-s1-130361/up-first-newsletter-venezuela-earthquakes-asylum-claims-farmers" target="_blank">Rescuers scramble to find Venezuela earthquake survivors. And, SCOTUS rules on asylum</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-26 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc" target="_blank">Whereabouts of nearly 300 people with Ebola unknown in DRC</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-26 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme?traffic_source=rss" target="_blank">IAEA demands verification of Iran nuclear ambitions amid ‘statement war’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-26 10:38</span>
             </div>
         </div>
 </div>
@@ -98,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/64b87fbfc3f2cf2daf39fccd/master/pass/Jackery-Explorer-2000-Plus-Lifestyle-Gear.png" alt="Get Off Grid in Style Thanks to This Device—On Sale for Prime Day (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jackerys-power-station-half-off-for-prime-day-06-26-2026/" target="_blank">Get Off Grid in Style Thanks to This Device—On Sale for Prime Day (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-26 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240006305-500x500.jpg" alt="SpaceX plans to launch Starlink mobile service in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +157,29 @@
                 <span class="time">2026-06-26 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit" target="_blank">Trump Mobile will take your $499 right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-26 08:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tpmsh/virtual-threads-and-the-myth-of-easy-async-why-javas-new-concurrency-model-still-needs-2974" target="_blank">Virtual Threads and the Myth of “Easy Async”: Why Java’s New Concurrency Model Still Needs Discipline</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-26 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ai-sdlc-pull-request/en/mediumimage/michael-webster-medium-1781688909041.jpeg" alt="Presentation: AI Works, Pull Requests Don’t: How AI Is Breaking the SDLC and What To Do About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-sdlc-pull-request/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: AI Works, Pull Requests Don’t: How AI Is Breaking the SDLC and What To Do About It</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-26 14:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +216,6 @@
                 <span class="time">2026-06-26 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/derrickryangiggs/i-built-a-hybrid-search-engine-from-scratch-heres-what-i-learned-llm-zoomcamp-2026-module-2-3jdj" target="_blank">I Built a Hybrid Search Engine From Scratch — Here&#x27;s What I Learned (LLM Zoomcamp 2026, Module 2)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-26 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/challenges-designers-face-in-open-source-and-how-to-fix-them" target="_blank">Challenges designers face in open source (and how to fix them)</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-26 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVB9E9ERG61DC5NYDB83M0Q4/hero-image.png" alt="I Keep Finding New Prime Day Deals on Garmin, Oura, and Other Fitness Wearables" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-fitness-wearables-deals-prime-day-june-26-2026?utm_medium=RSS" target="_blank">I Keep Finding New Prime Day Deals on Garmin, Oura, and Other Fitness Wearables</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-26 14:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Dragons-Dogma-2-Dark-Arisen-official-artwork-Capcom-1280x720.jpg" alt="Everything We Spotted In Dragon’s Dogma 2: Dark Arisen’s New Spotlight Showcase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dragons-dogma-2-dark-arisen-dragonsplague-relics-weapon-skills-2000710941" target="_blank">Everything We Spotted In Dragon’s Dogma 2: Dark Arisen’s New Spotlight Showcase</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-26 14:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVTM2WT23893TVE1CKK0V349/hero-image.png" alt="These Prime Day Deals on Kindles and E-Readers End Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +298,6 @@
                 <span class="time">2026-06-25 23:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVTF86K9CPWZ91MQ18Q18E6D/hero-image.png" alt="Prime Day 2026 Live Blog: The Best Deals on Headphones, TVs, Fitness Tech, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-prime-day-live-blog-06-25-2026?utm_medium=RSS" target="_blank">Prime Day 2026 Live Blog: The Best Deals on Headphones, TVs, Fitness Tech, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-25 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/steam-machine-2-1280x720.jpg" alt="Valve Removes ‘4K Gaming At 60 FPS’ From Steam Machine Page After Early Review Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663" target="_blank">Valve Removes ‘4K Gaming At 60 FPS’ From Steam Machine Page After Early Review Backlash</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-25 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,6 +310,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/26/imperium-maledictum" target="_blank">Imperium Maledictum</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-06-26 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5860.png" alt="Trip Of A Lifetime" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5860" target="_blank">Trip Of A Lifetime</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-06-26 01:12</span>
             </div>
         </div>
 <div class="story">
@@ -330,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 13:37 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 256 |
+        🔄 Last Updated: 14:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
