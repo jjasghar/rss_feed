@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 07:11:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-26 09:00:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 07:11 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 09:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/26/affordability-crisis-how-the-western-housing-crisis-spiralled?traffic_source=rss" target="_blank">‘Affordability crisis’: How the Western housing crisis spiralled</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-26 08:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0691/live/dfcb8d20-711f-11f1-8e1d-bbbb1017d210.jpg" alt="King Charles reveals he paid £12.9m in tax for 2024-25" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss" target="_blank">Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-26 02:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/26/who-will-control-africas-ai-infrastructure-and-at-what-cost?traffic_source=rss" target="_blank">Who will control Africa’s AI infrastructure, and at what cost?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-26 00:53</span>
             </div>
         </div>
 </div>
@@ -165,6 +168,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/epok/root-cause-analysis-across-every-signal-on-one-screen-34gn" target="_blank">Root Cause Analysis Across Every Signal, On One Screen</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-26 08:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://aditya.patadia.org/p/ai-and-cloud-costs" target="_blank">Why current LLM costs are not sustainable</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-26 07:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/diy_electronics_1a54d645a/5-things-i-wish-i-knew-before-starting-with-arduino-3djf" target="_blank">5 Things I Wish I Knew Before Starting with Arduino</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-26 07:03</span>
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-june-26-2026-red-hat" target="_blank">Friday Five — June 26, 2026</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-06-26 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/" target="_blank">Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-25 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lynkr/telangana-public-spending-intelligence-platform-2164" target="_blank">TELANGANA PUBLIC SPENDING INTELLIGENCE PLATFORM</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-25 22:21</span>
             </div>
         </div>
 </div>
@@ -320,22 +323,13 @@
                 <span class="time">2026-06-25 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5859.png" alt="Back In Town" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5859" target="_blank">Back In Town</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-06-25 08:58</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 07:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 09:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
