@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 11:53:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-26 12:36:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 11:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 12:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/longform/2026/6/26/the-hands-behind-the-beautiful-game?traffic_source=rss" target="_blank">The hands behind the beautiful game</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-26 12:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +104,20 @@
                 <span class="time">2026-06-26 09:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2450/live/78b7a860-713a-11f1-8546-8f19e4fe30f4.jpg" alt="King becomes first monarch to reveal tax bill as royal public funding to double to £100m" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss" target="_blank">King becomes first monarch to reveal tax bill as royal public funding to double to £100m</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-26 09:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale" target="_blank">Prime Day is offering rare discounts on Philips Hue smart lights</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-26 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a3abc00b35647f689f166fa/master/pass/The-Best-Walmart-Deals-This-Prime-Day.jpg" alt="23 Walmart Deals We Like Better Than That Other Sale Happening Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +163,38 @@
                 <span class="time">2026-06-25 23:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok" target="_blank">YouTube updates Shorts to make it even more like TikTok</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-25 22:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jeancarlosn/airline-and-transport-chatbot-compliance-using-litellm-microsoft-assert-5ag5" target="_blank">Airline and Transport Chatbot Compliance using LiteLLM + Microsoft ASSERT</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-26 12:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/mondaycom/HATCHA" target="_blank">Captcha proves you&#x27;re human. HATCHA proves you&#x27;re not</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-26 12:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/" target="_blank">Transitioning as a hubber</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-26 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +220,6 @@
                 <span class="title"><a href="https://dev.to/manoir_yantai_f22f01340f0/knowledge-and-memory-management-v002-knowledge-collection-memory-management-2h8g" target="_blank">Knowledge-and-Memory-Management v0.0.2: Knowledge Collection &amp; Memory Management</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-26 10:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-ISPC-1.31-Released" target="_blank">Intel ISPC 1.31 Brings New Targets For Nova Lake, Experimental PowerPC 64-bit</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-26 10:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/epok/root-cause-analysis-across-every-signal-on-one-screen-34gn" target="_blank">Root Cause Analysis Across Every Signal, On One Screen</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-26 08:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://aditya.patadia.org/p/ai-and-cloud-costs" target="_blank">Why current LLM costs are not sustainable</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-26 07:44</span>
             </div>
         </div>
 </div>
@@ -245,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/HLn9hXZXAAADpjw-1280x853.jpeg" alt="Your Guide To Evo 2026: Why The Games Are Changing, Attendance Is Down, But The Spirit Endures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/evo-2026-overview-what-to-watch-2kxo-rivals-of-aether-2-2000710640" target="_blank">Your Guide To Evo 2026: Why The Games Are Changing, Attendance Is Down, But The Spirit Endures</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-26 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/74c4d-17823083543544.webp?fit=1920%2C1080&amp;quality=55&amp;ssl=1" alt="JPMorgan Chase cans executive who stole trash can" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +304,6 @@
                 <span class="time">2026-06-25 22:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVXGH34ARR9VJKPKQ7JVV782/hero-image.png" alt="The Best Prime Day Deals on Video Games, Controllers, and Peripherals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-deals-video-games-controllers-peripherals-prime-day-june-25-2026?utm_medium=RSS" target="_blank">The Best Prime Day Deals on Video Games, Controllers, and Peripherals</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-25 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 11:53 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 41 | 📸 With Images: 257 |
+        🔄 Last Updated: 12:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
