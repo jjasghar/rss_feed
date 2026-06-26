@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 22:23:10 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-26 23:23:05 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 22:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 23:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a3ed5da979872ef6f4ade00/master/pass/Influencers-Real-Mad-They-Are-Not-Allowed-to-Screen-The-Odyssey-Culture-3EGY4PW.jpg" alt="Film Critics Are Thrilled Universal Is Skipping Influencer Screenings for ‘The Odyssey’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/" target="_blank">Film Critics Are Thrilled Universal Is Skipping Influencer Screenings for ‘The Odyssey’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-26 23:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-500x500.jpg" alt="South Korea plans to train entire military as &quot;drone warriors&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -147,20 +156,20 @@
                 <span class="time">2026-06-26 21:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3ed90c9625c74448e072d3/master/pass/Samsung%E2%80%99s-Excellent-OLED-Monitors-Are-Up-to-38-Percent-Off-For-Prime-Day.jpg" alt="Samsung’s Excellent OLED Monitors Are Up to 38 Percent Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/samsungs-odyssey-oled-monitors-prime-day-2026/" target="_blank">Samsung’s Excellent OLED Monitors Are Up to 38 Percent Off for Prime Day</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-26 19:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/numbpill3d/sandboxing-reality-how-to-spoof-iphone-locations-for-advanced-penetration-testing-5dpg" target="_blank">Sandboxing Reality: How to Spoof iPhone Locations for Advanced Penetration Testing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-26 23:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +213,6 @@
                 <span class="title"><a href="https://openai.com/index/previewing-gpt-5-6-sol/" target="_blank">Previewing GPT‑5.6 Sol: a next-generation model</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-26 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/" target="_blank">GitHub and UNDP team up to advance development priorities in Ghana with open source</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-26 16:53</span>
             </div>
         </div>
 </div>
@@ -352,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 254 |
-        🔄 Last Updated: 22:23 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 255 |
+        🔄 Last Updated: 23:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
