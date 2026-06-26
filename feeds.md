@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-26 19:30:23 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-26 20:30:30 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, June 26, 2026 - 19:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, June 26, 2026 - 20:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,9 +48,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/26/us-federal-judge-questions-doj-decision-to-drop-adani-charges?traffic_source=rss" target="_blank">US federal judge questions DOJ decision to drop Adani charges</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-26 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/26/israeli-prosecutors-charge-six-settlers-after-west-bank-mosque-attack?traffic_source=rss" target="_blank">Israeli prosecutors charge six settlers after West Bank mosque attack</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-26 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid" target="_blank">U.S. pledges generous earthquake relief to Venezuela</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-26 17:42</span>
             </div>
         </div>
 <div class="story">
@@ -75,29 +98,29 @@
                 <span class="time">2026-06-26 15:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-beijing-china-tower_7283653.jpg?20260626154142" alt="Plane crashed into Beijing&#x27;s tallest building, witnesses say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/plane-crashed-into-beijings-tallest-building-witnesses-say-13558050" target="_blank">Plane crashed into Beijing&#x27;s tallest building, witnesses say</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-26 14:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss" target="_blank">Iran slams the GCC and the US for ‘interventionist’ statement: What we know</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-26 14:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3ed90c9625c74448e072d3/master/pass/Samsung%E2%80%99s-Excellent-OLED-Monitors-Are-Up-to-38-Percent-Off-For-Prime-Day.jpg" alt="Samsung’s Excellent OLED Monitors Are Up to 38 Percent Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/samsungs-odyssey-oled-monitors-prime-day-2026/" target="_blank">Samsung’s Excellent OLED Monitors Are Up to 38 Percent Off for Prime Day</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-26 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/" target="_blank">Novak Djokovic has a new job —  advisor to private equity firm General Atlantic</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-26 19:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a3a2c47580177a5599b11b0/master/pass/The-7-Best-Prime-Day-Streaming-Deals.jpg" alt="10 Best Prime Day Streaming Deals, Including Half Off Apple TV (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,24 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/" target="_blank">The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-06-26 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026" target="_blank">The 16 best robot vacuum deals you can still get before Prime Day ends</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-26 16:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/952995/fitbit-charge-6-ace-lte-amazon-prime-day-2026-deal-sale" target="_blank">Fitbit’s Charge 6 and kid-friendly Ace LTE are much cheaper for Prime Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-26 15:27</span>
             </div>
         </div>
 </div>
@@ -240,6 +245,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KW2NKBRZCEZ83FWT0Q4C5AKB/hero-image.png" alt="Garmin&#x27;s Most Basic Running Watch Is Now Cheaper Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/garmin-forerunner-55-prime-day-deal-2026?utm_medium=RSS" target="_blank">Garmin&#x27;s Most Basic Running Watch Is Now Cheaper Than Ever</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-26 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/trump-voting-box.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Judge orders Huntington Beach to add more democracy to its democracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/26/judge-orders-huntington-beach-to-add-more-democracy-to-its-democracy.html" target="_blank">Judge orders Huntington Beach to add more democracy to its democracy</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-26 19:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/terminator-2-1280x720.jpg" alt="PlayStation Is Deleting 551 Movies From Customers’ Accounts, Reminding Us Nothing Digital Is Ever Truly Ours" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -273,24 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/destiny-2s-final-hotfix-gets-delayed-after-sony-lays-off-some-of-the-people-working-on-it-2000710981" target="_blank">Destiny 2′s Final Hotfix Gets Delayed After Sony Lays Off Some Of The People Working On It</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-26 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/MagTag-Ultra-Slim-Tracker-Card-Works-with-Apple-Find-My-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This tiny tracker card can help you find your stuff for $20" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/26/this-tiny-tracker-card-can-help-you-find-your-stuff-for-20.html" target="_blank">This tiny tracker card can help you find your stuff for $20</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-26 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVB9E9ERG61DC5NYDB83M0Q4/hero-image.png" alt="I Keep Finding New Prime Day Deals on Garmin, Oura, and Other Fitness Wearables" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-fitness-wearables-deals-prime-day-june-26-2026?utm_medium=RSS" target="_blank">I Keep Finding New Prime Day Deals on Garmin, Oura, and Other Fitness Wearables</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-26 14:33</span>
             </div>
         </div>
 </div>
@@ -339,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 19:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 20:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
