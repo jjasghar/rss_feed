@@ -1,43 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-27 00:26:10 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-27 01:35:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 35 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, June 27, 2026 - 00:26 UTC</div>
+    <div class="newspaper-date">Saturday, June 27, 2026 - 01:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,12 +46,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b677/live/8a16eaa0-71ab-11f1-a700-c5ebf7bd79d0.jpg" alt="Home Office to introduce new asylum routes to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss" target="_blank">Home Office to introduce new asylum routes to UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-27 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss" target="_blank">Trump justifies strikes on Iran amid ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-27 00:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss" target="_blank">Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-27 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782515761952_nn_cku_trump_orders_retaliatory_airstrikes_against_iran_260626_S3_1920x1080-7klc2n.jpg" alt="Trump orders retaliatory airstrikes against Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-orders-retaliatory-airstrikes-against-iran-265768517845" target="_blank">Trump orders retaliatory airstrikes against Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-26 23:16</span>
             </div>
         </div>
 <div class="story">
@@ -80,38 +99,20 @@
                 <span class="time">2026-06-26 20:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782507130029_now_mtp_us_iran_strikes_260626_S3_1920x1080-jnp3oh.jpg" alt="U.S. strikes Iran after attack on commercial vessel in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/u-s-strikes-iran-after-attack-on-commercial-vessel-in-strait-of-hormuz-265759301628" target="_blank">U.S. strikes Iran after attack on commercial vessel in Strait of Hormuz</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-26 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/26/nx-s1-5871369/new-york-ice-instagram-immigration-dhs-paigelynne-gonyea" target="_blank">She posted about ICE. Five months later, DHS agents told her to take her post down</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-26 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/26/us-federal-judge-questions-doj-decision-to-drop-adani-charges?traffic_source=rss" target="_blank">US federal judge questions DOJ decision to drop Adani charges</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-26 20:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026" target="_blank">The 17 best robot vacuum deals you can still get before Prime Day ends</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-27 00:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +158,20 @@
                 <span class="time">2026-06-26 22:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3ad3217cb7548eacd53230/master/pass/WIRED%E2%80%99s-Favorite-Espresso-Machine-Is-on-Sale-for-the-First-Time.jpg" alt="Prime Day Deal 2026: Fellow Espresso Series 1 Is $200 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-prime-day-deal-2026-fellow-series-1/" target="_blank">Prime Day Deal 2026: Fellow Espresso Series 1 Is $200 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-26 22:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jjn1056/pagi-distribution-split-1kdo" target="_blank">PAGI Distribution Split</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-27 01:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/archpilot-labs/ai-writes-code-in-seconds-architecture-debt-takes-months-to-notice-38bk" target="_blank">AI writes code in seconds. Architecture debt takes months to notice.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-26 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/umair_ashraf_3fc3dabc723d/i-built-a-lightweight-jquery-tree-select-plugin-4b9c" target="_blank">I built a lightweight jQuery Tree Select plugin 🌳</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-26 17:25</span>
             </div>
         </div>
 </div>
@@ -348,22 +340,13 @@
                 <span class="time">2026-06-26 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5860.png" alt="Trip Of A Lifetime" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5860" target="_blank">Trip Of A Lifetime</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-06-26 01:12</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 00:26 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 254 |
+        🔄 Last Updated: 01:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
