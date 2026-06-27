@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-27 20:21:14 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-27 21:20:33 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, June 27, 2026 - 20:21 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, June 27, 2026 - 21:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +105,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler" target="_blank">Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-27 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/" target="_blank">SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-27 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out" target="_blank">Margaret Atwood says the problem with AI is &amp;#8216;garbage in, garbage out&amp;#8217;</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-27 18:39</span>
@@ -137,29 +155,20 @@
                 <span class="time">2026-06-27 15:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/" target="_blank">The fittest founder in the room got cancer. Here’s how he used AI to fight back.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-27 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability" target="_blank">Inside the room where the smart home industry is still betting on Matter</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-27 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zwiserfit/we-run-9-ai-agents-on-2-cpu-cores-and-36gb-ram-the-engineering-memoir-3ad7" target="_blank">We Run 9 AI Agents on 2 CPU Cores and 3.6GB RAM: The Engineering Memoir</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-27 21:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,6 +191,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ipcrawl.com/" target="_blank">IP Crawl: Living atlas of open webcams discovered on the public internet</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-27 19:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy" target="_blank">Ships keep moving through Hormuz despite strike</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-27 19:06</span>
@@ -194,38 +212,6 @@
                 <span class="title"><a href="https://dev.to/shrsv/sequence-transduction-the-forgotten-problem-that-led-to-modern-llms-439e" target="_blank">Sequence Transduction: The Forgotten Problem That Led to Modern LLMs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-27 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mishansavy/why-i-still-use-nginx-over-everything-else-24hj" target="_blank">Why I still use NGINX over everything else</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-27 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/bikini/exploitarium" target="_blank">Anonymous GitHub account mass-dropping undisclosed 0-days</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-27 14:31</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html" target="_blank">The Chinese Control the Majority of Argentina’s Squid Fleet</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-26 20:57</span>
             </div>
         </div>
 </div>
@@ -306,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 20:21 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 251 |
+        🔄 Last Updated: 21:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
