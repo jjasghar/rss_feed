@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-27 09:39:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-27 10:36:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, June 27, 2026 - 09:40 UTC</div>
+    <div class="newspaper-date">Saturday, June 27, 2026 - 10:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/27/nx-s1-5859907/lyme-disease-vaccine-hesitancy-rural-hunters" target="_blank">If a Lyme disease vaccine gets approved, how would it go over? We asked hunters</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-27 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran" target="_blank">U.S. strikes Iran in response to a drone attack on a ship</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-27 04:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731d/live/eebb89d0-71a0-11f1-b1db-af71d47507d6.jpg" alt="US strikes Iran after attack on cargo ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss" target="_blank">US strikes Iran after attack on cargo ship</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-27 02:48</span>
             </div>
         </div>
 </div>
@@ -161,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-System-Monitor" target="_blank">COSMIC&#x27;s New System Monitor Is Looking Very Slick</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-27 10:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nicodemanez/why-i-built-my-own-licensing-sdk-instead-of-using-paddle-4j98" target="_blank">Why I Built My Own Licensing SDK Instead of Using Paddle</a></span>
                 <span class="feed">DEV Community</span>
@@ -201,15 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Shotcut-26.6-Released" target="_blank">Shotcut 26.6 Released With HDR Improvements, Vulkan Display On Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-27 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/numbpill3d/sandboxing-reality-how-to-spoof-iphone-locations-for-advanced-penetration-testing-5dpg" target="_blank">Sandboxing Reality: How to Spoof iPhone Locations for Advanced Penetration Testing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-26 23:13</span>
             </div>
         </div>
 </div>
@@ -331,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 09:40 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 10:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
