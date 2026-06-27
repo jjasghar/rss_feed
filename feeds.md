@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-27 03:00:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-27 05:13:46 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, June 27, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, June 27, 2026 - 05:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss" target="_blank">US strikes on Iran test fragile ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-27 04:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran" target="_blank">U.S. strikes Iran in response to a drone attack on a ship</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-27 04:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +99,6 @@
                 <span class="time">2026-06-27 00:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss" target="_blank">Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-27 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782515761952_nn_cku_trump_orders_retaliatory_airstrikes_against_iran_260626_S3_1920x1080-7klc2n.jpg" alt="Trump orders retaliatory airstrikes against Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-orders-retaliatory-airstrikes-against-iran-265768517845" target="_blank">Trump orders retaliatory airstrikes against Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-26 23:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,6 +111,24 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026" target="_blank">Prime Day is almost over, but these are still the best Apple deals I&amp;#8217;ve seen</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-27 02:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/" target="_blank">Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-27 01:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3a2d6fb32bb5aac135070f/master/pass/The-Best-Amazon-Prime-Day-Deals-Under-$100.jpg" alt="The 28 Best Deals Under $100 Before Prime Day Ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/" target="_blank">The 28 Best Deals Under $100 Before Prime Day Ends</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-27 00:59</span>
             </div>
         </div>
 <div class="story">
@@ -136,24 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/best-prime-day-apple-deals-06-26-2026/" target="_blank">17 Last Minute Prime Day Apple Deals on iPads, Macs, and More</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-06-27 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3ed5da979872ef6f4ade00/master/pass/Influencers-Real-Mad-They-Are-Not-Allowed-to-Screen-The-Odyssey-Culture-3EGY4PW.jpg" alt="Film Critics Are Thrilled Universal Is Skipping Influencer Screenings for ‘The Odyssey’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/" target="_blank">Film Critics Are Thrilled Universal Is Skipping Influencer Screenings for ‘The Odyssey’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-26 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-500x500.jpg" alt="South Korea plans to train entire military as &quot;drone warriors&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/" target="_blank">South Korea plans to train entire military as &quot;drone warriors&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-26 22:19</span>
             </div>
         </div>
 </div>
@@ -253,6 +255,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Edge-Magazines-publishers-reportedly-paid-hands.jpg?fit=1080%2C914&amp;quality=60&amp;ssl=1" alt="Famed &quot;trademark troll&quot; Tim Langdell back on the Edge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/26/famed-trademark-troll-tim-langdell-back-on-the-edge.html" target="_blank">Famed &quot;trademark troll&quot; Tim Langdell back on the Edge</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-27 02:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/phara.jpg?fit=1080%2C751&amp;quality=60&amp;ssl=1" alt="Man detained after playing Imperial March to troops in D.C. wins &quot;substantial&quot; settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -297,15 +308,6 @@
                 <span class="time">2026-06-26 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KW2NKBRZCEZ83FWT0Q4C5AKB/hero-image.png" alt="Garmin&#x27;s Most Basic Running Watch Is Now Cheaper Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/garmin-forerunner-55-prime-day-deal-2026?utm_medium=RSS" target="_blank">Garmin&#x27;s Most Basic Running Watch Is Now Cheaper Than Ever</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-26 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,22 +340,13 @@
                 <span class="time">2026-06-26 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/720_ollie.png" alt="720 Ollie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3264/" target="_blank">720 Ollie</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-06-26 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 05:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
