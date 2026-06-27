@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-27 01:35:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-27 03:00:21 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, June 27, 2026 - 01:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, June 27, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/27/cape-verde-qualify-for-world-cup-round-of-32-set-up-date-with-argentina?traffic_source=rss" target="_blank">Cape Verde qualify for World Cup Round of 32, set up date with Argentina</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-27 02:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b677/live/8a16eaa0-71ab-11f1-a700-c5ebf7bd79d0.jpg" alt="Home Office to introduce new asylum routes to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss" target="_blank">Home Office to introduce new asylum routes to UK</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-27 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/26/nx-s1-5872821/pete-buttigieg-cps-police-swatting" target="_blank">Pete Buttigieg and his kids subject to CPS, police investigation after false report</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-27 00:26</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +97,20 @@
                 <span class="time">2026-06-26 23:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/798c/live/7e611570-719a-11f1-ac61-7d0e237a354c.jpg" alt="Venezuela earthquakes kill 920 people as families desperate for news" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela earthquakes kill 920 people as families desperate for news</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-26 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/strait-of-hormuz-rt-jt-260623_1782236012536_hpMain_4x3t_384.jpg" alt="Iran live updates: US conducts strikes on Iran over Strait of Hormuz drone attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780" target="_blank">Iran live updates: US conducts strikes on Iran over Strait of Hormuz drone attack</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-26 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026" target="_blank">Prime Day is almost over, but these are still the best Apple deals I&amp;#8217;ve seen</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-27 02:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/" target="_blank">South Korea plans to train entire military as &quot;drone warriors&quot;</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-26 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor" target="_blank">After covering Prime Day for 36 hours over four days, this is the one thing I bought</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-26 22:09</span>
             </div>
         </div>
 </div>
@@ -340,13 +338,22 @@
                 <span class="time">2026-06-26 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/720_ollie.png" alt="720 Ollie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3264/" target="_blank">720 Ollie</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-06-26 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 254 |
-        🔄 Last Updated: 01:35 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
