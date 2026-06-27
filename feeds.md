@@ -1,27 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-27 14:29:08 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-06-27 15:24:42 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, June 27, 2026 - 14:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, June 27, 2026 - 15:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss" target="_blank">With water cuts looming in Arizona in US, locals fight data centres</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-27 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/strait-of-hormuz-rt-jt-260623_1782236012536_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;Unidentified projectile&#x27; hits ship in strait, tracker says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780" target="_blank">Iran live updates: &#x27;Unidentified projectile&#x27; hits ship in strait, tracker says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-27 14:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,24 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss" target="_blank">Could Israel’s coming election see an end to Netanyahu’s political career?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-27 10:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/27/nx-s1-5859907/lyme-disease-vaccine-hesitancy-rural-hunters" target="_blank">If a Lyme disease vaccine gets approved, how would it go over? We asked hunters</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-27 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war" target="_blank">Inside a secretive Ukrainian team launching deep drone strikes at Russia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-27 09:02</span>
             </div>
         </div>
 </div>
@@ -238,6 +251,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_05-1280x720.jpg" alt="There Remains No Disc-Based Version Of Grand Theft Auto 6 Despite Promising Email From Rockstar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/there-remains-no-disc-based-version-of-grand-theft-auto-vi-despite-promising-email-from-rockstar-2000711186" target="_blank">There Remains No Disc-Based Version Of Grand Theft Auto 6 Despite Promising Email From Rockstar</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-27 15:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_2679905335-scaled.jpg?fit=2560%2C1733&amp;quality=60&amp;ssl=1" alt="The BBC ends longwave radio service today" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -282,15 +304,6 @@
                 <span class="time">2026-06-26 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/ea308340-717b-11f1-8546-8f19e4fe30f4.jpg.webp?fit=1536%2C863&amp;quality=55&amp;ssl=1" alt="Rapist who faked own death reportedly dead again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/26/rapist-who-faked-own-death-reportedly-dead-again.html" target="_blank">Rapist who faked own death reportedly dead again</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-26 21:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,22 +318,13 @@
                 <span class="time">2026-06-26 17:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1782416796-20260626 - Copy.png" alt="Saturday Morning Breakfast Cereal - Milgram" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/milgram" target="_blank">Saturday Morning Breakfast Cereal - Milgram</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-26 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 41 | 📸 With Images: 255 |
-        🔄 Last Updated: 14:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 41 | 📸 With Images: 254 |
+        🔄 Last Updated: 15:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
