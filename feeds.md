@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-27 21:20:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-27 22:19:17 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, June 27, 2026 - 21:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, June 27, 2026 - 22:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/strait-of-hormuz-rt-jt-260623_1782236012536_hpMain_4x3t_384.jpg" alt="Iran live updates: US conducts additional strikes against multiple Iranian targets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780" target="_blank">Iran live updates: US conducts additional strikes against multiple Iranian targets</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-27 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/27/nx-s1-5873485/trump-nominates-lance-schroyer-ice-director" target="_blank">Trump nominates former Oklahoma state trooper to head ICE</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-27 22:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss" target="_blank">With water cuts looming in Arizona in US, locals fight data centres</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-27 15:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/strait-of-hormuz-rt-jt-260623_1782236012536_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;Unidentified projectile&#x27; hits ship in strait, tracker says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780" target="_blank">Iran live updates: &#x27;Unidentified projectile&#x27; hits ship in strait, tracker says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-27 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/27/g-s1-129705/uzbekistan-world-cup" target="_blank">Uzbekistan makes its World Cup debut, a first for Central Asia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-27 13:45</span>
             </div>
         </div>
 </div>
@@ -220,6 +222,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Office-2024-Professional-Plus.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Only 24 hours left to score MS Office Pro+ 2024 for $55 with Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/27/only-24-hours-left-to-score-ms-office-pro-2024-for-55-with-deal-days.html" target="_blank">Only 24 hours left to score MS Office Pro+ 2024 for $55 with Deal Days</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-27 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/snap.jpg" alt="The Hot New Nintendo Collectibles Are 35mm Film Slides" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-hot-new-nintendo-collectibles-are-35mm-film-slides-super-mario-64-2000711209" target="_blank">The Hot New Nintendo Collectibles Are 35mm Film Slides</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-27 20:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/zuck-1280x803.jpg" alt="Mark Zuckerberg Reportedly Looking To Start His Own Betting App To Rival Polymarket" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -255,24 +275,6 @@
                 <span class="time">2026-06-27 11:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_1735256852-scaled.jpg?fit=2560%2C1757&amp;quality=60&amp;ssl=1" alt="Reviving old PCs with Linux now that new ones cost an arm and a leg" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/27/reviving-old-pcs-with-linux-now-that-new-ones-cost-an-arm-and-a-leg.html" target="_blank">Reviving old PCs with Linux now that new ones cost an arm and a leg</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-27 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Edge-Magazines-publishers-reportedly-paid-hands.jpg?fit=1080%2C914&amp;quality=60&amp;ssl=1" alt="Famed &quot;trademark troll&quot; Tim Langdell back on the Edge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/26/famed-trademark-troll-tim-langdell-back-on-the-edge.html" target="_blank">Famed &quot;trademark troll&quot; Tim Langdell back on the Edge</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-27 02:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 251 |
-        🔄 Last Updated: 21:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 22:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
