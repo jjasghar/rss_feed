@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-27 16:21:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-27 17:21:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, June 27, 2026 - 16:21 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, June 27, 2026 - 17:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss" target="_blank">Tropical Storm Mekkhala leaves Taiwan underwater</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-27 17:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +103,29 @@
                 <span class="time">2026-06-27 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/strait-of-hormuz-rt-jt-260623_1782236012536_hpMain_4x3t_384.jpg" alt="Iran live updates: Bahrain accuses Iran of targeted drone attack following US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780" target="_blank">Iran live updates: Bahrain accuses Iran of targeted drone attack following US strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-27 11:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/" target="_blank">Apple Vision Pro exec is reportedly leaving for OpenAI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-27 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire" target="_blank">The Guardian&amp;#8217;s Kai Wright refuses to buy a new phone</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-27 15:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +162,20 @@
                 <span class="time">2026-06-27 11:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3ef3589858133e592bac26/master/pass/GettyImages-2282644793.jpg" alt="Why Venezuela’s Second Earthquake Was So Damaging to Buildings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/why-venezuelas-second-earthquake-so-damaging-to-buildings/" target="_blank">Why Venezuela’s Second Earthquake Was So Damaging to Buildings</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-27 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026" target="_blank">Prime Day is almost over, but these are still the best Apple deals I&amp;#8217;ve seen</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-27 02:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Sequence Transduction: The Forgotten Problem That Led to Modern LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shrsv/sequence-transduction-the-forgotten-problem-that-led-to-modern-llms-439e" target="_blank">Sequence Transduction: The Forgotten Problem That Led to Modern LLMs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-27 17:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/mishansavy/why-i-still-use-nginx-over-everything-else-24hj" target="_blank">Why I still use NGINX over everything else</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-27 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/bikini/exploitarium" target="_blank">Anonymous GitHub account mass-dropping undisclosed 0-days</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-27 14:31</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +221,6 @@
                 <span class="time">2026-06-27 11:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/aws-credentials-provider/en/headerimage/generatedHeaderImage-1781712757418.jpg" alt="AWS Introduces Workload Credentials Provider for Automated Certificate and Secret Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/aws-credentials-provider/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Workload Credentials Provider for Automated Certificate and Secret Management</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-27 11:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-System-Monitor" target="_blank">COSMIC&#x27;s New System Monitor Is Looking Very Slick</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-27 10:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,15 +233,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html" target="_blank">The Chinese Control the Majority of Argentina’s Squid Fleet</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-06-26 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html" target="_blank">Meta Is Testing Facial Recognition for Police and Military</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-26 16:40</span>
             </div>
         </div>
 </div>
@@ -329,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 41 | 📸 With Images: 254 |
-        🔄 Last Updated: 16:21 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 17:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
