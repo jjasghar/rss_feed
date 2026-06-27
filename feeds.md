@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-27 10:36:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-27 11:28:36 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, June 27, 2026 - 10:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, June 27, 2026 - 11:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/strait-of-hormuz-rt-jt-260623_1782236012536_hpMain_4x3t_384.jpg" alt="Iran live updates: Bahrain accuses Iran of targeted drone attack following US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780" target="_blank">Iran live updates: Bahrain accuses Iran of targeted drone attack following US strikes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-27 11:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss" target="_blank">Could Israel’s coming election see an end to Netanyahu’s political career?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-27 10:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/27/venezuelans-dig-for-earthquake-survivors-as-72-hour-rescue-window-nears-end?traffic_source=rss" target="_blank">Venezuelans dig for earthquake survivors as 72-hour rescue window nears end</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-27 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss" target="_blank">US strikes on Iran test fragile ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-27 04:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran" target="_blank">U.S. strikes Iran in response to a drone attack on a ship</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-27 04:12</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-MD-RAID5-Scalability-Work" target="_blank">Linux MD RAID5 Seeing Scalability Improvements Up To 17%</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-27 11:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/COSMIC-System-Monitor" target="_blank">COSMIC&#x27;s New System Monitor Is Looking Very Slick</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-27 10:02</span>
@@ -210,15 +215,6 @@
                 <span class="time">2026-06-27 01:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Shotcut-26.6-Released" target="_blank">Shotcut 26.6 Released With HDR Improvements, Vulkan Display On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-27 00:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,20 +238,20 @@
                 <span class="time">2026-06-26 16:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html" target="_blank">One Million Passports Leaked Online</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-26 11:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_1735256852-scaled.jpg?fit=2560%2C1757&amp;quality=60&amp;ssl=1" alt="Reviving old PCs with Linux now that new ones cost an arm and a leg" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/27/reviving-old-pcs-with-linux-now-that-new-ones-cost-an-arm-and-a-leg.html" target="_blank">Reviving old PCs with Linux now that new ones cost an arm and a leg</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-27 10:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Edge-Magazines-publishers-reportedly-paid-hands.jpg?fit=1080%2C914&amp;quality=60&amp;ssl=1" alt="Famed &quot;trademark troll&quot; Tim Langdell back on the Edge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,15 +297,6 @@
                 <span class="time">2026-06-26 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVXV034A0Z2YGN06WGJ9FQF3/hero-image.png" alt="The Best Last-Minute Prime Day Deals on Laptops, Monitors, and PC Accessories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/laptops-monitors-pc-accessories-prime-day-june-26-2026?utm_medium=RSS" target="_blank">The Best Last-Minute Prime Day Deals on Laptops, Monitors, and PC Accessories</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-26 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 10:36 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 41 | 📸 With Images: 255 |
+        🔄 Last Updated: 11:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
