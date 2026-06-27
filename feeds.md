@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-27 18:20:37 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-27 19:27:53 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, June 27, 2026 - 18:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, June 27, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a396b1e518be327f36b3895/master/pass/PRIME-DEALS.jpg" alt="62 Last Minute Prime Day Weekend Deals: Up to 45% Off (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/" target="_blank">62 Last Minute Prime Day Weekend Deals: Up to 45% Off (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-27 18:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -147,20 +159,20 @@
                 <span class="time">2026-06-27 11:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3f2054bffe1a86cf19ada5/master/pass/Save-on-Some-Stellar-Pants-During-a-Rare-Duer-Sale.jpg" alt="Duer’s Wear-Everywhere Pants Are on Sale This Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/save-on-some-stellar-pants-during-a-rare-duer-sale/" target="_blank">Duer’s Wear-Everywhere Pants Are on Sale This Weekend</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-27 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saifuddin_tipu_ba2d0355b0/we-didnt-need-another-ai-tool-we-needed-better-processes-254" target="_blank">We Didn&#x27;t Need Another AI Tool. We Needed Better Processes.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-27 19:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Sequence Transduction: The Forgotten Problem That Led to Modern LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/dev48v/cross-validation-why-one-traintest-split-lies-4e3m" target="_blank">Cross-Validation: Why One Train/Test Split Lies</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-27 12:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-MD-RAID5-Scalability-Work" target="_blank">Linux MD RAID5 Seeing Scalability Improvements Up To 17%</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-27 11:17</span>
             </div>
         </div>
 </div>
@@ -307,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 18:20 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
