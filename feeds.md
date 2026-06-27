@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-27 05:13:46 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-27 06:58:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, June 27, 2026 - 05:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, June 27, 2026 - 06:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -64,6 +65,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731d/live/eebb89d0-71a0-11f1-b1db-af71d47507d6.jpg" alt="US strikes Iran after attack on cargo ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss" target="_blank">US strikes Iran after attack on cargo ship</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-27 02:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -88,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/26/nx-s1-5872821/pete-buttigieg-cps-police-swatting" target="_blank">Pete Buttigieg and his kids subject to CPS, police investigation after false report</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-27 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss" target="_blank">Trump justifies strikes on Iran amid ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-27 00:16</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nicodemanez/how-to-ship-and-sell-a-paid-desktop-app-outside-the-app-stores-2026-42j4" target="_blank">How to ship and sell a paid desktop app outside the app stores (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-27 06:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jjn1056/pagi-distribution-split-1kdo" target="_blank">PAGI Distribution Split</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-27 01:26</span>
@@ -206,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-HDR-Over-DP-MST" target="_blank">New Intel Linux Driver Patches Enable HDR Over DP MST Connections</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-26 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/archpilot-labs/ai-writes-code-in-seconds-architecture-debt-takes-months-to-notice-38bk" target="_blank">AI writes code in seconds. Architecture debt takes months to notice.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-26 18:18</span>
             </div>
         </div>
 </div>
@@ -345,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 05:13 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 06:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
