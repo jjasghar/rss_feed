@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-27 12:21:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-27 13:29:32 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, June 27, 2026 - 12:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, June 27, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/27/nx-s1-5865082/opinion-ranch-dressing-is-a-winner-at-the-world-cup-games" target="_blank">Opinion: Ranch dressing is a winner at the World Cup games</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-27 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/strait-of-hormuz-rt-jt-260623_1782236012536_hpMain_4x3t_384.jpg" alt="Iran live updates: Bahrain accuses Iran of targeted drone attack following US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +101,20 @@
                 <span class="time">2026-06-27 08:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/27/venezuelans-dig-for-earthquake-survivors-as-72-hour-rescue-window-nears-end?traffic_source=rss" target="_blank">Venezuelans dig for earthquake survivors as 72-hour rescue window nears end</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-27 08:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability" target="_blank">Inside the room where the smart home industry is still betting on Matter</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-27 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Amble-0085_HERO-500x500.jpg" alt="Apple and Audi alumni have made a luxe EV based on the moon buggy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -112,6 +122,15 @@
                 <span class="title"><a href="https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/" target="_blank">Apple and Audi alumni have made a luxe EV based on the moon buggy</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-27 11:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3f2054bffe1a86cf19ada5/master/pass/Save-on-Some-Stellar-Pants-During-a-Rare-Duer-Sale.jpg" alt="Duer’s Wear-Everywhere Pants Are on Sale This Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/save-on-some-stellar-pants-during-a-rare-duer-sale/" target="_blank">Duer’s Wear-Everywhere Pants Are on Sale This Weekend</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-27 11:01</span>
             </div>
         </div>
 <div class="story">
@@ -141,29 +160,20 @@
                 <span class="time">2026-06-27 01:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3a2d6fb32bb5aac135070f/master/pass/The-Best-Amazon-Prime-Day-Deals-Under-$100.jpg" alt="The 28 Best Deals Under $100 Before Prime Day Ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/" target="_blank">The 28 Best Deals Under $100 Before Prime Day Ends</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-27 00:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026" target="_blank">The 17 best robot vacuum deals you can still get before Prime Day ends</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-27 00:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/a-dev/choreography-of-validation-how-to-make-your-auth-form-seamless-and-usable-1dpm" target="_blank">Choreography of validation: how to make your auth form seamless and usable</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-27 13:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/questioner/creating-ebooks-1he2" target="_blank">Creating Ebooks</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-27 07:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nicodemanez/how-to-ship-and-sell-a-paid-desktop-app-outside-the-app-stores-2026-42j4" target="_blank">How to ship and sell a paid desktop app outside the app stores (2026)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-27 06:38</span>
             </div>
         </div>
 </div>
@@ -328,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 255 |
-        🔄 Last Updated: 12:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 255 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
