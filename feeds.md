@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-27 11:28:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-27 12:21:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, June 27, 2026 - 11:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, June 27, 2026 - 12:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Amble-0085_HERO-500x500.jpg" alt="Apple and Audi alumni have made a luxe EV based on the moon buggy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/" target="_blank">Apple and Audi alumni have made a luxe EV based on the moon buggy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-27 11:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a3ef3589858133e592bac26/master/pass/GettyImages-2282644793.jpg" alt="Why Venezuela’s Second Earthquake Was So Damaging to Buildings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -147,20 +159,20 @@
                 <span class="time">2026-06-27 00:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale" target="_blank">Prime Day&amp;#8217;s final hours bring rare discounts on Philips Hue smart lights</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-27 00:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev48v/cross-validation-why-one-traintest-split-lies-4e3m" target="_blank">Cross-Validation: Why One Train/Test Split Lies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-27 12:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +218,6 @@
                 <span class="time">2026-06-27 06:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jjn1056/pagi-distribution-split-1kdo" target="_blank">PAGI Distribution Split</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-27 01:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_2679905335-scaled.jpg?fit=2560%2C1733&amp;quality=60&amp;ssl=1" alt="The BBC ends longwave radio service today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/27/the-bbc-ends-longwave-radio-service-today.html" target="_blank">The BBC ends longwave radio service today</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-27 11:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_1735256852-scaled.jpg?fit=2560%2C1757&amp;quality=60&amp;ssl=1" alt="Reviving old PCs with Linux now that new ones cost an arm and a leg" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +300,6 @@
                 <span class="time">2026-06-26 21:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/c3bb8e4c7a627ea259ef2ee0e7ed1a52-1280x717.jpg" alt="One Year In, It’s Still Really Fun To Suck Ass At Elden Ring Nightreign" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fun-bad-elden-ring-nightreign-2000711051" target="_blank">One Year In, It’s Still Really Fun To Suck Ass At Elden Ring Nightreign</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-26 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 41 | 📸 With Images: 255 |
-        🔄 Last Updated: 11:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 255 |
+        🔄 Last Updated: 12:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
