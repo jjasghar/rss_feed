@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-28 14:31:21 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-28 15:25:35 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, June 28, 2026 - 14:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, June 28, 2026 - 15:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e1c/live/06b1efb0-72ce-11f1-8d28-af7129502366.jpg" alt="Senior Labour figures say party is united behind Andy Burnham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&at_campaign=rss" target="_blank">Senior Labour figures say party is united behind Andy Burnham</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-28 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses?traffic_source=rss" target="_blank">If USMCA is not renewed, analysts expect uncertainty for businesses</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-28 14:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/b36ae050-72e1-11f1-b28d-37d67ec29837.png" alt="Two boys rescued from Venezuela earthquake rubble after days of being trapped" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +93,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780" target="_blank">Iran live updates: Kuwait and Bahrain condemn &#x27;heinous&#x27; Iranian aerial strikes</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-28 09:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-lionel-messi-world-cup_7280448.jpg?20260622203213" alt="&lt;a href=&quot;https://news.sky.com/story/world-cup-live-scotland-brazil-england-three-lions-bellingham-latest-13535760?postid=11956222#liveblog-body&quot;&gt;Who will face who in last 32 of World Cup?&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/who-will-face-who-in-last-32-of-world-cup-13558503" target="_blank">&lt;a href=&quot;https://news.sky.com/story/world-cup-live-scotland-brazil-england-three-lions-bellingham-latest-13535760?postid=11956222#liveblog-body&quot;&gt;Who will face who in last 32 of World Cup?&lt;/a&gt;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-28 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake" target="_blank">&quot;If you are alive, make any noise&quot;: Venezuela searches rubble on day four</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-28 08:50</span>
             </div>
         </div>
 </div>
@@ -166,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alkur_jaswanth_ce4f9fc791/the-standard-way-to-score-ai-agent-monitors-is-gameable-a-coin-flip-scores-f1-088-3om6" target="_blank">The standard way to score AI agent monitors is gameable a coin flip scores F1 0.88</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-28 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sarantoon/thameniiybkhaawsang-openai-chal-gpt-56-cchudepliiynkhngwngkaar-ai-thiikhnaithytngruu-1hdb" target="_blank">ทำเนียบขาวสั่ง OpenAI ชะลอ GPT-5.6 — จุดเปลี่ยนของวงการ AI ที่คนไทยต้องรู้</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-28 14:23</span>
@@ -205,15 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Q2-2026" target="_blank">Linux Dropping Old Drivers, AI Detected Vulnerabilities &amp; Other Kernel Highlights Of Q2</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-28 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oliuntangled/webmcp-gen-generate-chrome-webmcp-tool-definitions-from-typescript-17ag" target="_blank">webmcp-gen: Generate Chrome WebMCP Tool Definitions from TypeScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-28 08:52</span>
             </div>
         </div>
 </div>
@@ -277,25 +274,11 @@
         </div>
 </div>
 </div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1782416846-20260627.png" alt="Saturday Morning Breakfast Cereal - Mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/mission" target="_blank">Saturday Morning Breakfast Cereal - Mission</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-27 15:20</span>
-            </div>
-        </div>
-</div>
-</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 14:31 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 64 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 15:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
