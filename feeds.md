@@ -1,33 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-06-28 12:22:20 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-28 13:29:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, June 28, 2026 - 12:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, June 28, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/b36ae050-72e1-11f1-b28d-37d67ec29837.png" alt="Two boys rescued from Venezuela earthquake rubble after days of being trapped" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss" target="_blank">Two boys rescued from Venezuela earthquake rubble after days of being trapped</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-28 12:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +108,20 @@
                 <span class="time">2026-06-28 08:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss" target="_blank">Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-28 06:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4049a8d5e2129e79332c13/master/pass/The-WIRED-Guide-to-Houston-for-Business-Travelers.jpg" alt="What to Do in Houston If You&#x27;re Here for Business (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-wired-guide-to-houston-for-business-travelers/" target="_blank">What to Do in Houston If You&#x27;re Here for Business (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-28 12:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a3c6e5695155ed1f252b17b/master/pass/culture_almost_homeless_reddit.jpg" alt="The ‘Almost Homeless’ Subreddit Is a Stark Glimpse at Soaring Wealth Inequality" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +167,20 @@
                 <span class="time">2026-06-27 21:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/" target="_blank">SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-27 20:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/openai/codex/issues/2847" target="_blank">A way to exclude sensitive files issue still open for OpenAI Codex</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-28 12:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +224,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17369273/kde-step" target="_blank">Every Physics Teacher (And Student) Should Try This Open Source Software</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-06-28 07:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep" target="_blank">Marfa Public Radio Puts You to Sleep</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-28 02:23</span>
             </div>
         </div>
 </div>
@@ -293,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 63 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 12:22 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
