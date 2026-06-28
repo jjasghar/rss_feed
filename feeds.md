@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-28 07:15:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-28 08:58:44 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, June 28, 2026 - 07:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, June 28, 2026 - 08:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-lionel-messi-world-cup_7280448.jpg?20260622203213" alt="&lt;a href=&quot;https://news.sky.com/story/world-cup-live-scotland-brazil-england-three-lions-bellingham-latest-13535760?postid=11956222#liveblog-body&quot;&gt;Who will face who in last 32 of World Cup?&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/who-will-face-who-in-last-32-of-world-cup-13558503" target="_blank">&lt;a href=&quot;https://news.sky.com/story/world-cup-live-scotland-brazil-england-three-lions-bellingham-latest-13535760?postid=11956222#liveblog-body&quot;&gt;Who will face who in last 32 of World Cup?&lt;/a&gt;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-28 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake" target="_blank">&quot;If you are alive, make any noise&quot;: Venezuela searches rubble on day four</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-28 08:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +100,20 @@
                 <span class="time">2026-06-28 00:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss" target="_blank">Iran war live: Trump threatens Tehran as US bombs Sirik, Qeshm for 2nd day</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-28 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/281f/live/cb817fe0-7283-11f1-ad8e-b511163b3cf4.jpg" alt="Clarke steps down as Scotland boss after World Cup exit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/c5yzq73x1p7o?at_medium=RSS&at_campaign=rss" target="_blank">Clarke steps down as Scotland boss after World Cup exit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-27 23:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review" target="_blank">TMD’s keyless bike lock is a $280 solution to a $60 problem</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-28 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +159,38 @@
                 <span class="time">2026-06-27 18:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a396b1e518be327f36b3895/master/pass/PRIME-DEALS.jpg" alt="62 Last Minute Prime Day Weekend Deals: Up to 45% Off (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/" target="_blank">62 Last Minute Prime Day Weekend Deals: Up to 45% Off (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-27 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oliuntangled/webmcp-gen-generate-chrome-webmcp-tool-definitions-from-typescript-17ag" target="_blank">webmcp-gen: Generate Chrome WebMCP Tool Definitions from TypeScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-28 08:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/06/swift-6-4-beta-features/en/headerimage/android-studio-otter-llm-1782634112952.jpeg" alt="Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/06/swift-6-4-beta-features/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-28 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17369273/kde-step" target="_blank">Every Physics Teacher (And Student) Should Try This Open Source Software</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-28 07:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +216,6 @@
                 <span class="title"><a href="https://evilbit.de/dns-resolver-guide.html" target="_blank">Choosing a Public DNS Resolver</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-27 22:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zwiserfit/we-run-9-ai-agents-on-2-cpu-cores-and-36gb-ram-the-engineering-memoir-3ad7" target="_blank">We Run 9 AI Agents on 2 CPU Cores and 3.6GB RAM: The Engineering Memoir</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-27 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hanasite/pal-giving-ai-agents-hands-in-the-physical-world-48mj" target="_blank">PAL: Giving AI Agents Hands in the Physical World</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-27 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saifuddin_tipu_ba2d0355b0/we-didnt-need-another-ai-tool-we-needed-better-processes-254" target="_blank">We Didn&#x27;t Need Another AI Tool. We Needed Better Processes.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-27 19:13</span>
             </div>
         </div>
 </div>
@@ -295,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 07:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 251 |
+        🔄 Last Updated: 08:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
