@@ -1,44 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-28 13:29:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-28 14:31:21 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 36 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, June 28, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, June 28, 2026 - 14:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial" target="_blank">Prosecutors used ChatGPT logs as evidence in the Palisades fire trial</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-28 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/" target="_blank">Govee’s smart nugget ice maker makes every iced drink feel like a luxury</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-28 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a4049a8d5e2129e79332c13/master/pass/The-WIRED-Guide-to-Houston-for-Business-Travelers.jpg" alt="What to Do in Houston If You&#x27;re Here for Business (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,29 +157,29 @@
                 <span class="time">2026-06-28 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/" target="_blank">Instagram is testing more ways to customize ‘Your Algorithm’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-27 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler" target="_blank">Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-27 21:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sarantoon/thameniiybkhaawsang-openai-chal-gpt-56-cchudepliiynkhngwngkaar-ai-thiikhnaithytngruu-1hdb" target="_blank">ทำเนียบขาวสั่ง OpenAI ชะลอ GPT-5.6 — จุดเปลี่ยนของวงการ AI ที่คนไทยต้องรู้</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-28 14:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-DRM-Color-Format" target="_blank">Linux 7.3 To Introduce DRM &quot;Color Format&quot; Property With AMD GPU Driver Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-28 13:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/oliuntangled/webmcp-gen-generate-chrome-webmcp-tool-definitions-from-typescript-17ag" target="_blank">webmcp-gen: Generate Chrome WebMCP Tool Definitions from TypeScript</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-28 08:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/swift-6-4-beta-features/en/headerimage/android-studio-otter-llm-1782634112952.jpeg" alt="Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/swift-6-4-beta-features/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-28 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17369273/kde-step" target="_blank">Every Physics Teacher (And Student) Should Try This Open Source Software</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-28 07:41</span>
             </div>
         </div>
 </div>
@@ -304,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 14:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
