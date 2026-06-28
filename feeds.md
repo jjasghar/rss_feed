@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-06-28 21:20:51 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-06-28 22:19:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, June 28, 2026 - 21:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, June 28, 2026 - 22:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/28/ireland-upstage-world-champions-india-to-win-t20-series-at-home?traffic_source=rss" target="_blank">Ireland upstage world champions India to win T20 series at home</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-28 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3890/live/b1c7e240-732f-11f1-873e-b188b9703f87.jpg" alt="Chris Mason: Burnham starts to sketch out his vision as potential prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg4vypy8lzo?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Burnham starts to sketch out his vision as potential prime minister</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-28 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/28/nx-s1-5874042/in-venezuela-silence-has-become-a-rescue-tool" target="_blank">In Venezuela, silence has become a rescue tool</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-28 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +99,20 @@
                 <span class="time">2026-06-28 18:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait" target="_blank">U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-28 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/28/the-match-that-changed-the-world-cup-forever?traffic_source=rss" target="_blank">The match that changed the World Cup forever</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-28 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe" target="_blank">Trade tensions shake up Brazil&#x27;s caipirinha spirit</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-28 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/" target="_blank">California law targeting loud streaming ads takes effect on July 1</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-28 21:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +158,6 @@
                 <span class="time">2026-06-28 17:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial" target="_blank">Prosecutors used ChatGPT logs as evidence in the Palisades fire trial</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-28 14:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -194,6 +193,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://collider.ee/blog/2026-06-28-1500_a_hash_proves_the_bytes_not_the_source/" target="_blank">A hash proves the bytes, not the source</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-06-28 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-Q2-2026" target="_blank">USB4STREAM, Optimizations, Jay &amp; Other Popular Intel Linux News From This Quarter</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://github.com/librepods-org/librepods" target="_blank">Librepods: AirPods liberated from Apple&#x27;s ecosystem</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-28 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/monawwar/do-we-still-need-a-full-ide-in-the-age-of-ai-agents-4mel" target="_blank">Do we still need a full IDE in the age of AI agents?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-28 16:15</span>
             </div>
         </div>
 </div>
@@ -296,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 21:21 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 22:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
