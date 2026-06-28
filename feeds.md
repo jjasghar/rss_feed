@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-28 19:28:00 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-28 20:23:06 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Error processing https://lifehacker.com/rss: The read operation timed out -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, June 28, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, June 28, 2026 - 20:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/28/nx-s1-5828903/trump-gordie-howe-bridge-canada-blocked" target="_blank">A bridge to Canada may be blocked by the Trump administration</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-28 20:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss" target="_blank">Israel kills three Palestinians in Gaza as attacks on tents continue</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-28 19:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe" target="_blank">Trade tensions shake up Brazil&#x27;s caipirinha spirit</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-28 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e1c/live/06b1efb0-72ce-11f1-8d28-af7129502366.jpg" alt="Senior Labour figures say party is united behind Andy Burnham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&at_campaign=rss" target="_blank">Senior Labour figures say party is united behind Andy Burnham</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-28 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses?traffic_source=rss" target="_blank">If USMCA is not renewed, analysts expect uncertainty for businesses</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-28 14:52</span>
             </div>
         </div>
 </div>
@@ -171,10 +167,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/calligra/overlayfs-explained-how-dockers-filesystem-layers-actually-work-1ja2" target="_blank">OverlayFS Explained: How Docker&#x27;s Filesystem Layers Actually Work</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-28 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc1-Released" target="_blank">Linux 7.2-rc1 Released: &quot;Things Look Reasonably Normal&quot; While Landing AMDGPU HDMI 2.1 FRL, AMD ISP4 &amp; CAS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-28 20:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-Q2-2026" target="_blank">USB4STREAM, Optimizations, Jay &amp; Other Popular Intel Linux News From This Quarter</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-28 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/librepods-org/librepods" target="_blank">Librepods: AirPods liberated from Apple&#x27;s ecosystem</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-28 18:48</span>
             </div>
         </div>
 <div class="story">
@@ -193,33 +216,6 @@
                 <span class="title"><a href="https://dev.to/alkur_jaswanth_ce4f9fc791/the-standard-way-to-score-ai-agent-monitors-is-gameable-a-coin-flip-scores-f1-088-3om6" target="_blank">The standard way to score AI agent monitors is gameable a coin flip scores F1 0.88</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-28 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-June-2026-Released" target="_blank">CachyOS June 2026 OS Released With More Performance Optimizations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-28 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pudding.cool/2026/06/menu-story/" target="_blank">5k menus from the New York Public Library’s Buttolph Collection (1880-1920)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-28 14:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pudding.cool/2026/06/menu-collection/" target="_blank">5k Restaurant Menus, Years 1880-1920</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-28 14:44</span>
             </div>
         </div>
 </div>
@@ -300,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 20:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
