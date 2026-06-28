@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-28 18:20:25 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-28 19:28:00 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, June 28, 2026 - 18:20 UTC</div>
+    <div class="newspaper-date">Sunday, June 28, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/6/28/starmer-couldnt-master-the-media-can-burnham?traffic_source=rss" target="_blank">Starmer couldn’t master the media. Can Burnham?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-28 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait" target="_blank">U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-28 18:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +104,29 @@
                 <span class="time">2026-06-28 14:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-aramco-saudi-arabia_7285048.jpg?20260628155801" alt="Saudi Arabian helicopter crash kills 14" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/saudi-arabian-helicopter-crash-kills-14-13558603" target="_blank">Saudi Arabian helicopter crash kills 14</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-28 14:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782654192881_mtp_full_marshall_260628_S3_1920x1080-oao4ex.jpg" alt="GOP Sen. Marshall says additional U.S. strikes in Iran just ‘mop-up operation’: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/gop-sen-marshall-says-additional-u-s-strikes-in-iran-just-mop-up-operation-full-interview-265834565704" target="_blank">GOP Sen. Marshall says additional U.S. strikes in Iran just ‘mop-up operation’: Full interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-28 13:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/" target="_blank">Ford rehires ‘gray beard’ engineers after AI falls short</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-28 19:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/maxplanck-500x500.jpg" alt="Why did this journal retract two 1940s papers by Max Planck?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/" target="_blank">Why did this journal retract two 1940s papers by Max Planck?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-28 18:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +163,20 @@
                 <span class="time">2026-06-28 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4049a8d5e2129e79332c13/master/pass/The-WIRED-Guide-to-Houston-for-Business-Travelers.jpg" alt="What to Do in Houston If You&#x27;re Here for Business (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-wired-guide-to-houston-for-business-travelers/" target="_blank">What to Do in Houston If You&#x27;re Here for Business (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-28 12:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3c6e5695155ed1f252b17b/master/pass/culture_almost_homeless_reddit.jpg" alt="The ‘Almost Homeless’ Subreddit Is a Stark Glimpse at Soaring Wealth Inequality" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-almost-homeless-subreddit-is-a-stark-glimpse-at-soaring-wealth-inequality/" target="_blank">The ‘Almost Homeless’ Subreddit Is a Stark Glimpse at Soaring Wealth Inequality</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-28 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-Q2-2026" target="_blank">USB4STREAM, Optimizations, Jay &amp; Other Popular Intel Linux News From This Quarter</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-28 18:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,7 +208,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pudding.cool/2026/06/menu-collection/" target="_blank">5k Restaurant Menus, Years 1880-1920</a></span>
+                <span class="title"><a href="https://pudding.cool/2026/06/menu-story/" target="_blank">5k menus from the New York Public Library’s Buttolph Collection (1880-1920)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-28 14:44</span>
             </div>
@@ -205,19 +216,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sarantoon/thameniiybkhaawsang-openai-chal-gpt-56-cchudepliiynkhngwngkaar-ai-thiikhnaithytngruu-1hdb" target="_blank">ทำเนียบขาวสั่ง OpenAI ชะลอ GPT-5.6 — จุดเปลี่ยนของวงการ AI ที่คนไทยต้องรู้</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-28 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-DRM-Color-Format" target="_blank">Linux 7.3 To Introduce DRM &quot;Color Format&quot; Property With AMD GPU Driver Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-28 13:34</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pudding.cool/2026/06/menu-collection/" target="_blank">5k Restaurant Menus, Years 1880-1920</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-28 14:44</span>
             </div>
         </div>
 </div>
@@ -231,6 +233,15 @@
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/cyberpunk-edgerunners-returns-to-netflix-this-fall-2000711261" target="_blank">Cyberpunk: Edgerunners’ Season 2 Return To Netflix Finally Has A Release Date This Fall</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2026-06-28 18:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/etSTK-scaled.png?fit=2560%2C2560&amp;quality=55&amp;ssl=1" alt="Gallery of images with one pixel for each RGB value" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/28/gallery-of-images-with-one-pixel-for-each-rgb-value.html" target="_blank">Gallery of images with one pixel for each RGB value</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-28 18:12</span>
             </div>
         </div>
@@ -270,15 +281,6 @@
                 <span class="time">2026-06-27 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/snap.jpg" alt="The Hot New Nintendo Collectibles Are 35mm Film Slides" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-hot-new-nintendo-collectibles-are-35mm-film-slides-super-mario-64-2000711209" target="_blank">The Hot New Nintendo Collectibles Are 35mm Film Slides</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-27 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 18:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
