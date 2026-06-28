@@ -1,31 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-06-28 15:25:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-28 16:23:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, June 28, 2026 - 15:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, June 28, 2026 - 16:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe" target="_blank">Trade tensions shake up Brazil&#x27;s caipirinha spirit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-28 15:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e1c/live/06b1efb0-72ce-11f1-8d28-af7129502366.jpg" alt="Senior Labour figures say party is united behind Andy Burnham" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -60,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782654192881_mtp_full_marshall_260628_S3_1920x1080-oao4ex.jpg" alt="GOP Sen. Marshall says additional U.S. strikes in Iran just ‘mop-up operation’: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/gop-sen-marshall-says-additional-u-s-strikes-in-iran-just-mop-up-operation-full-interview-265834565704" target="_blank">GOP Sen. Marshall says additional U.S. strikes in Iran just ‘mop-up operation’: Full interview</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-28 13:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/b36ae050-72e1-11f1-b28d-37d67ec29837.png" alt="Two boys rescued from Venezuela earthquake rubble after days of being trapped" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -75,24 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/28/at-least-11-dead-in-civilian-plane-crash-in-eastern-france-authorities?traffic_source=rss" target="_blank">At least 11 dead in civilian plane crash in eastern France: Authorities</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-28 11:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/28/nx-s1-5847966/medical-debt-politics-republican-democrat" target="_blank">These church members disagree on politics. Together they&#x27;re wiping out medical debt</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-28 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/bahrain-embed_1782638011517_hpMain_2_4x3t_384.jpg" alt="Iran live updates: Kuwait and Bahrain condemn &#x27;heinous&#x27; Iranian aerial strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780" target="_blank">Iran live updates: Kuwait and Bahrain condemn &#x27;heinous&#x27; Iranian aerial strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-28 09:23</span>
             </div>
         </div>
 </div>
@@ -163,9 +174,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/monawwar/do-we-still-need-a-full-ide-in-the-age-of-ai-agents-4mel" target="_blank">Do we still need a full IDE in the age of AI agents?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-28 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alkur_jaswanth_ce4f9fc791/the-standard-way-to-score-ai-agent-monitors-is-gameable-a-coin-flip-scores-f1-088-3om6" target="_blank">The standard way to score AI agent monitors is gameable a coin flip scores F1 0.88</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-28 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-June-2026-Released" target="_blank">CachyOS June 2026 OS Released With More Performance Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-28 14:49</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +222,6 @@
                 <span class="title"><a href="https://github.com/openai/codex/issues/2847" target="_blank">A way to exclude sensitive files issue still open for OpenAI Codex</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-28 12:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bizoxe/analyzing-and-troubleshooting-bottlenecks-in-fastapi-optimizing-auth-flow-cryptography-and-data-41li" target="_blank">Analyzing and Troubleshooting Bottlenecks in FastAPI: Optimizing Auth Flow, Cryptography, and Data Serialization</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-28 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Q2-2026" target="_blank">Linux Dropping Old Drivers, AI Detected Vulnerabilities &amp; Other Kernel Highlights Of Q2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-28 11:00</span>
             </div>
         </div>
 </div>
@@ -263,13 +274,18 @@
                 <span class="time">2026-06-27 18:16</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/backrooms-1280x720.jpg" alt="A24’s Bad Excuse For Its Controversial Google AI Partnership Isn’t Impressing Fans: ‘We’d Rather Have A Seat At The Table’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1782416890-20260628.png" alt="Saturday Morning Breakfast Cereal - Protocol" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/a24s-bad-excuse-for-its-controversial-google-ai-partnership-isnt-impressing-fans-wed-rather-have-a-seat-at-the-table-2000711181" target="_blank">A24’s Bad Excuse For Its Controversial Google AI Partnership Isn’t Impressing Fans: ‘We’d Rather Have A Seat At The Table’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-27 16:00</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/protocol-2" target="_blank">Saturday Morning Breakfast Cereal - Protocol</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-28 15:20</span>
             </div>
         </div>
 </div>
@@ -277,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 64 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 15:25 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 16:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
