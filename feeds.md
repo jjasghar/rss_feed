@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-28 17:24:10 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-28 18:20:25 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, June 28, 2026 - 17:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, June 28, 2026 - 18:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -81,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-aramco-saudi-arabia_7285048.jpg?20260628155801" alt="Saudi Arabian helicopter crash kills 14" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/saudi-arabian-helicopter-crash-kills-14-13558603" target="_blank">Saudi Arabian helicopter crash kills 14</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-28 14:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782654192881_mtp_full_marshall_260628_S3_1920x1080-oao4ex.jpg" alt="GOP Sen. Marshall says additional U.S. strikes in Iran just ‘mop-up operation’: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -89,20 +102,20 @@
                 <span class="time">2026-06-28 13:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/b36ae050-72e1-11f1-b28d-37d67ec29837.png" alt="Two boys rescued from Venezuela earthquake rubble after days of being trapped" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss" target="_blank">Two boys rescued from Venezuela earthquake rubble after days of being trapped</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-28 12:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer" target="_blank">China claims the world&amp;#8217;s fastest supercomputer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-28 17:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +159,6 @@
                 <span class="title"><a href="https://www.wired.com/story/the-almost-homeless-subreddit-is-a-stark-glimpse-at-soaring-wealth-inequality/" target="_blank">The ‘Almost Homeless’ Subreddit Is a Stark Glimpse at Soaring Wealth Inequality</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-06-28 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review" target="_blank">TMD’s keyless bike lock is a $280 solution to a $60 problem</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-28 07:00</span>
             </div>
         </div>
 </div>
@@ -222,6 +226,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/edgerunners2.jpg" alt="Cyberpunk: Edgerunners’ Season 2 Return To Netflix Finally Has A Release Date This Fall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cyberpunk-edgerunners-returns-to-netflix-this-fall-2000711261" target="_blank">Cyberpunk: Edgerunners’ Season 2 Return To Netflix Finally Has A Release Date This Fall</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-28 18:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/iProVPN.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="How to get a 5-year VPN for the cost of a sandwich – that&#x27;s less than a cent per day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/28/how-to-get-a-5-year-vpn-for-the-cost-of-a-sandwich-thats-less-than-a-cent-per-day.html" target="_blank">How to get a 5-year VPN for the cost of a sandwich – that&#x27;s less than a cent per day</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-28 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_2014514525-scaled.jpg?fit=2560%2C1587&amp;quality=60&amp;ssl=1" alt="Budapest enjoys first Pride march since Orbán voted out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -257,15 +279,6 @@
                 <span class="time">2026-06-27 20:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/zuck-1280x803.jpg" alt="Mark Zuckerberg Reportedly Looking To Start His Own Betting App To Rival Polymarket" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mark-zuckerberg-reportedly-looking-to-start-his-own-betting-app-to-rival-polymarket-2000711206" target="_blank">Mark Zuckerberg Reportedly Looking To Start His Own Betting App To Rival Polymarket</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-27 18:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -285,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 17:24 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 39 | 📸 With Images: 251 |
+        🔄 Last Updated: 18:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
