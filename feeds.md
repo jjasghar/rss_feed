@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-28 16:23:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-28 17:24:10 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, June 28, 2026 - 16:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, June 28, 2026 - 17:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/28/the-match-that-changed-the-world-cup-forever?traffic_source=rss" target="_blank">The match that changed the World Cup forever</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-28 17:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +98,20 @@
                 <span class="time">2026-06-28 12:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/28/at-least-11-dead-in-civilian-plane-crash-in-eastern-france-authorities?traffic_source=rss" target="_blank">At least 11 dead in civilian plane crash in eastern France: Authorities</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-28 11:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/" target="_blank">Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-28 17:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,15 +157,6 @@
                 <span class="time">2026-06-28 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/" target="_blank">Indian payments chief thinks AI will be heavily involved in next era of digital payment growth</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-28 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -200,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pudding.cool/2026/06/menu-collection/" target="_blank">5k Restaurant Menus, Years 1880-1920</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-28 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sarantoon/thameniiybkhaawsang-openai-chal-gpt-56-cchudepliiynkhngwngkaar-ai-thiikhnaithytngruu-1hdb" target="_blank">ทำเนียบขาวสั่ง OpenAI ชะลอ GPT-5.6 — จุดเปลี่ยนของวงการ AI ที่คนไทยต้องรู้</a></span>
                 <span class="feed">DEV Community</span>
@@ -213,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-DRM-Color-Format" target="_blank">Linux 7.3 To Introduce DRM &quot;Color Format&quot; Property With AMD GPU Driver Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-28 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/openai/codex/issues/2847" target="_blank">A way to exclude sensitive files issue still open for OpenAI Codex</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-28 12:27</span>
             </div>
         </div>
 </div>
@@ -293,8 +285,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 16:23 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 17:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
