@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-28 11:31:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-28 12:22:20 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, June 28, 2026 - 11:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, June 28, 2026 - 12:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/28/at-least-11-dead-in-civilian-plane-crash-in-eastern-france-authorities?traffic_source=rss" target="_blank">At least 11 dead in civilian plane crash in eastern France: Authorities</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-28 11:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss" target="_blank">Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-28 06:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss" target="_blank">Gulf countries attacked after US launches second round of strikes on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-28 03:40</span>
             </div>
         </div>
 </div>
@@ -163,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bizoxe/analyzing-and-troubleshooting-bottlenecks-in-fastapi-optimizing-auth-flow-cryptography-and-data-41li" target="_blank">Analyzing and Troubleshooting Bottlenecks in FastAPI: Optimizing Auth Flow, Cryptography, and Data Serialization</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-28 12:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Q2-2026" target="_blank">Linux Dropping Old Drivers, AI Detected Vulnerabilities &amp; Other Kernel Highlights Of Q2</a></span>
                 <span class="feed">Phoronix</span>
@@ -203,15 +213,6 @@
                 <span class="title"><a href="https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep" target="_blank">Marfa Public Radio Puts You to Sleep</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-28 02:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Nourish-Wayland-Compositor" target="_blank">Nourish: A New Wayland Compositor Powered By Vulkan With Infinite Scrolling/Panning</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-28 00:52</span>
             </div>
         </div>
 </div>
@@ -293,7 +294,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 63 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 11:31 UTC
+        🔄 Last Updated: 12:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
