@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-28 01:39:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-28 03:01:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, June 28, 2026 - 01:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, June 28, 2026 - 03:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/28/colombia-wins-world-cup-2026-group-after-breathless-0-0-draw-with-portugal?traffic_source=rss" target="_blank">Colombia top World Cup 2026 group after breathless 0-0 draw with Portugal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-28 01:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +93,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-s-deal-to-end-war-in-question-after-iran-retaliates-to-us-strikes-265807941770" target="_blank">Trump’s deal to end war in question after Iran retaliates to US strikes</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-06-27 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84b9/live/16c604b0-71c8-11f1-b1db-af71d47507d6.jpg" alt="Scotland&#x27;s elimination from World Cup confirmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/cddl508zgp5o?at_medium=RSS&at_campaign=rss" target="_blank">Scotland&#x27;s elimination from World Cup confirmed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-27 22:58</span>
             </div>
         </div>
 </div>
@@ -172,6 +163,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep" target="_blank">Marfa Public Radio Puts You to Sleep</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-28 02:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Nourish-Wayland-Compositor" target="_blank">Nourish: A New Wayland Compositor Powered By Vulkan With Infinite Scrolling/Panning</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-28 00:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://evilbit.de/dns-resolver-guide.html" target="_blank">Choosing a Public DNS Resolver</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-06-27 22:11</span>
@@ -204,29 +213,20 @@
                 <span class="time">2026-06-27 19:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ipcrawl.com/" target="_blank">IP Crawl: Living atlas of open webcams discovered on the public internet</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-27 19:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy" target="_blank">Ships keep moving through Hormuz despite strike</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-27 19:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_2734154579-scaled.jpg?fit=2560%2C1655&amp;quality=60&amp;ssl=1" alt="Australia&#x27;s social media ban not working, study finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/27/australias-social-media-ban-not-working-study-finds.html" target="_blank">Australia&#x27;s social media ban not working, study finds</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-28 02:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Microsoft-Office-2024-Professional-Plus.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Only 24 hours left to score MS Office Pro+ 2024 for $55 with Deal Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +272,6 @@
                 <span class="time">2026-06-27 15:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_2679905335-scaled.jpg?fit=2560%2C1733&amp;quality=60&amp;ssl=1" alt="The BBC ends longwave radio service today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/27/the-bbc-ends-longwave-radio-service-today.html" target="_blank">The BBC ends longwave radio service today</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-27 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 01:39 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 03:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
