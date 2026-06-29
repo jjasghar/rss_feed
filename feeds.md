@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-29 09:29:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-29 11:36:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, June 29, 2026 - 09:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, June 29, 2026 - 11:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd5b/live/8eda9340-70a5-11f1-a074-f75fb10ee765.jpg" alt="White working-class children failed by education system, says inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq51j10q601o?at_medium=RSS&at_campaign=rss" target="_blank">White working-class children failed by education system, says inquiry</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-29 10:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Lebanon-main_1782723834786_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel targets Hezbollah in southern Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134300648" target="_blank">Iran live updates: Israel targets Hezbollah in southern Lebanon</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-29 09:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260629-Venezuela-rs-3e73de.jpg" alt="Frustration and fading hopes in Venezuela with thousands still missing after twin quakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/venezuela/venezuela-earthquake-latest-death-toll-missing-rescues-la-guaira-rcna352179" target="_blank">Frustration and fading hopes in Venezuela with thousands still missing after twin quakes</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-29 09:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,33 +100,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss" target="_blank">Mum of newborn rescued from Venezuela rubble tells BBC baby motivated her to survive</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-29 07:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/29/g-s1-130772/israel-armenian-wwi-deaths-genocide" target="_blank">Israel moves to formally recognize Armenian WWI deaths as a genocide</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-29 07:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7954/live/eba46400-733b-11f1-8e1d-bbbb1017d210.jpg" alt="Burnham to give mayors more power in 10-year plan to transform Britain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c14yr0mgdp6o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to give mayors more power in 10-year plan to transform Britain</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-29 02:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7954/live/eba46400-733b-11f1-8e1d-bbbb1017d210.jpg" alt="Burnham to promise devolution in first major speech since launching No 10 bid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c14yr0mgdp6o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to promise devolution in first major speech since launching No 10 bid</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-29 02:52</span>
             </div>
         </div>
 </div>
@@ -170,6 +170,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vshosting/ai-agents-are-rewriting-the-rules-of-web-traffic-and-most-businesses-arent-ready-1a8m" target="_blank">AI Agents Are Rewriting the Rules of Web Traffic – And Most Businesses Aren’t Ready</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-29 11:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/security-ai-threat-evolution/en/headerimage/security-ai-threat-evolution-header-1782202845102.jpg" alt="Article: Virtual panel: Security in the Machine Age: Expert Insights on AI Threat Evolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/security-ai-threat-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Virtual panel: Security in the Machine Age: Expert Insights on AI Threat Evolution</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-29 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Low-Power-CPU-Core-Linux" target="_blank">AMD Linux Patches Introduce New &quot;Low Power&quot; CPU Core Type</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-29 10:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17369622/purism-librem-16" target="_blank">You Can Spend Up to $11,944 on Purism&amp;#x27;s Librem 16 Linux Laptop</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-29 10:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/luciano0322/deconstructing-the-semantic-confusion-between-state-derived-state-and-effects-31i" target="_blank">Deconstructing the Semantic Confusion Between State, Derived State, and Effects</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-29 09:28</span>
@@ -184,40 +220,18 @@
                 <span class="time">2026-06-29 08:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/rajtilakjee/kivo" target="_blank">Kivo - A lightweight desktop teleprompter built with PySide6</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-06-29 04:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tiennguyenftuk52/i-run-a-209-node-automation-pipeline-on-n8n-i-modeled-what-it-would-cost-on-per-task-billing-26f4" target="_blank">I run a 209-node automation pipeline on n8n. I modeled what it would cost on per-task billing.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-29 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://danunparsed.com/p/hackerrank-open-source-ats" target="_blank">HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-29 01:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mageia-10-Released" target="_blank">Mageia 10 Released For This Linux Distribution Carrying On The Mandrake Legacy</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-29 01:10</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html" target="_blank">Robot Police Officers</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-29 10:55</span>
             </div>
         </div>
 </div>
@@ -225,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/09/shutterstock_1271754283.jpg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="A million passports leaked online by marijuana club portal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/28/a-million-passports-leaked-online-by-marijuana-club-portal.html" target="_blank">A million passports leaked online by marijuana club portal</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-29 01:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/peacockhouse.jpg" alt="New Indie Text Adventure Hides An Incredibly Eerie Vaporwave Labyrinth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +293,6 @@
                 <span class="time">2026-06-28 18:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/iProVPN.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="How to get a 5-year VPN for the cost of a sandwich – that&#x27;s less than a cent per day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/28/how-to-get-a-5-year-vpn-for-the-cost-of-a-sandwich-thats-less-than-a-cent-per-day.html" target="_blank">How to get a 5-year VPN for the cost of a sandwich – that&#x27;s less than a cent per day</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-28 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 76 | 📡 Total Sources: 39 | 📸 With Images: 245 |
-        🔄 Last Updated: 09:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 81 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 11:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
