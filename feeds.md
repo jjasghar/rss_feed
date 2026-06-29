@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-29 17:51:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-29 18:36:02 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, June 29, 2026 - 17:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, June 29, 2026 - 18:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/6/29/can-governments-fix-the-global-housing-crisis?traffic_source=rss" target="_blank">Can governments fix the global housing crisis?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-29 18:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/slaughter-rt-gmh-260629_1782743696666_hpMain_4x3t_384.jpg" alt="Supreme Court backs Trump firing of FTC member, rolling back 90 years of precedent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +100,20 @@
                 <span class="time">2026-06-29 15:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/29/nx-s1-5844697/supreme-court-restricts-use-of-geofence-warrants" target="_blank">Supreme Court restricts use of geofence warrants</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-29 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/" target="_blank">Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-29 18:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +159,29 @@
                 <span class="time">2026-06-29 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/958790/weber-blackstone-ceo-roger-dahle-grilling-griddles-merger-outdoor-cooking" target="_blank">Let him cook: How Weber Blackstone CEO Roger Dahle went from upstart to the biggest name in grilling</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-29 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/theoriginalbpc/introduction-to-python-module-four-part-two-indexing-4kfj" target="_blank">Introduction to Python Module Four Part Two: Indexing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-29 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Git-2.55-Released" target="_blank">Git 2.55 Released With Rust Support Enabled By Default, &lt;em&gt;git history fixup&lt;/em&gt;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-29 17:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/06/eliya-jvm-diagnostic-profile/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Eliya 25 Brings a JVM-Level Diagnostic Profile to OpenJDK 25 LTS</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-29 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Red-Hat-ARM-Engineer-Back-Ryzen" target="_blank">Red Hat ARM Engineer Abandons ARM64 Linux Personal Desktop, Goes Back To AMD Ryzen System</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-29 14:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf" target="_blank">Mag 7 starting to underperform [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-29 14:12</span>
             </div>
         </div>
 </div>
@@ -301,12 +306,30 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1782692310-20260629.png" alt="Saturday Morning Breakfast Cereal - Minos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/minos" target="_blank">Saturday Morning Breakfast Cereal - Minos</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-06-29 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2026/06/29/non-fungible-tims" target="_blank">Non-Fungible Tims</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-06-29 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/asteroid_threat.png" alt="Asteroid Threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3265/" target="_blank">Asteroid Threat</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-06-29 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -323,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 17:51 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 18:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
