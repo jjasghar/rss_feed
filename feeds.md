@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-29 19:31:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-29 20:33:30 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, June 29, 2026 - 19:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, June 29, 2026 - 20:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1c3/live/dd101930-73e9-11f1-bb9e-33cb2da512b5.png" alt="Aftershock frays nerves as many Venezuelans left to fend for themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss" target="_blank">Aftershock frays nerves as many Venezuelans left to fend for themselves</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16?traffic_source=rss" target="_blank">Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-29 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-jetblue-plane_7286037.jpg?20260629201142" alt="Passenger plane landing in New York &#x27;hit by drone&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/passenger-plane-landing-at-new-yorks-jfk-airport-hit-by-drone-13559025" target="_blank">Passenger plane landing in New York &#x27;hit by drone&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-29 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e63/live/1b4290f0-73dd-11f1-bb92-23f4f6ea1fbd.jpg" alt="New &#x27;No 10 North&#x27; plan will rebalance power in Britain, Burnham promises" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2jw5q5pdzo?at_medium=RSS&at_campaign=rss" target="_blank">New &#x27;No 10 North&#x27; plan will rebalance power in Britain, Burnham promises</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-29 18:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -58,42 +93,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/supreme-court-allows-trump-firing-ftc-commissioner/story?id=129203395" target="_blank">Supreme Court backs Trump firing of FTC member, rolling back 90 years of precedent</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-29 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss" target="_blank">Afghan families mourn loved ones as border tensions with Pakistan rise</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-29 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/29/nx-s1-5874696/chris-evert-martina-navratilova-tennis-cancer" target="_blank">They were world-class tennis rivals. Now friends, they&#x27;ve teamed up against cancer</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-29 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7238/live/8ad52370-73cd-11f1-86e4-8d1ac421c5df.jpg" alt="Burnham&#x27;s &#x27;Manchesterism&#x27; could change the UK, but is not yet a full economic plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cpq3yxdyx9do?at_medium=RSS&at_campaign=rss" target="_blank">Burnham&#x27;s &#x27;Manchesterism&#x27; could change the UK, but is not yet a full economic plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-29 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-daniel-vettrino-caribbean_7285912.jpg?20260629171640" alt="British man killed on Caribbean island after being shot &#x27;multiple times&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/british-man-killed-on-caribbean-island-after-being-shot-multiple-times-13558963" target="_blank">British man killed on Caribbean island after being shot &#x27;multiple times&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-29 15:04</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arunabh_priyadarshi_bfb98/single-table-dynamodb-design-for-a-real-time-game-rooms-rounds-leaderboards-1j4l" target="_blank">Single-table DynamoDB design for a real-time game (rooms, rounds, leaderboards)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-29 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/theoriginalbpc/introduction-to-python-module-four-part-two-indexing-4kfj" target="_blank">Introduction to Python Module Four Part Two: Indexing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-29 18:32</span>
@@ -205,15 +213,6 @@
                 <span class="time">2026-06-29 16:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/eliya-jvm-diagnostic-profile/en/headerimage/java-istock-image-01-1762720446658-1782700328980.jpg" alt="Eliya 25 Brings a JVM-Level Diagnostic Profile to OpenJDK 25 LTS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/eliya-jvm-diagnostic-profile/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Eliya 25 Brings a JVM-Level Diagnostic Profile to OpenJDK 25 LTS</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-29 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,12 +242,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/image-10.jpg" alt="Large Man Blows In Cartridge, Sticks It In An NES, And Smashes Another Man’s Face With It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/aew-wrestling-nintendo-entertainment-system-forbidden-door-2000711483" target="_blank">Large Man Blows In Cartridge, Sticks It In An NES, And Smashes Another Man’s Face With It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-29 20:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Tekken-8-Roger-Jr-DLC-trailer-Bandai-Namco-1280x722.jpg" alt="Tekken 8′s Roger Jr DLC Trailer References Infamous Kangaroo Punching Tekken 7 Meme" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/tekken-8s-roger-jr-dlc-trailer-references-the-same-kangaroo-punching-meme-that-led-to-him-being-cut-from-tekken-7-2000711390" target="_blank">Tekken 8′s Roger Jr DLC Trailer References Infamous Kangaroo Punching Tekken 7 Meme</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-29 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/melaniacowpancake-e1782761018311.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="America 250 celebrates with contestants nearly puking pancakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/29/america-250-celebrates-with-contestants-nearly-puking-pancakes.html" target="_blank">America 250 celebrates with contestants nearly puking pancakes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-29 19:24</span>
             </div>
         </div>
 <div class="story">
@@ -278,29 +295,20 @@
                 <span class="time">2026-06-29 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Image-Jeff-Reeves-Shutterstock.jpg?fit=1080%2C715&amp;quality=60&amp;ssl=1" alt="The dentist who convinced FDR to bomb Japan with bats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/29/the-dentist-who-convinced-fdr-to-bomb-japan-with-bats.html" target="_blank">The dentist who convinced FDR to bomb Japan with bats</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-29 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KW025HM4JVG0TRF0HGA2EFDW/hero-image.png" alt="Every Fitbit With a Screen Is Still on Sale after Prime Day, up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-fitbit-deals-june-2026?utm_medium=RSS" target="_blank">Every Fitbit With a Screen Is Still on Sale after Prime Day, up to 50% Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-29 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/29/non-fungible-tims-2" target="_blank">Non-Fungible Tims</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-06-29 18:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1782692310-20260629.png" alt="Saturday Morning Breakfast Cereal - Minos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -342,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 19:31 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 20:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
