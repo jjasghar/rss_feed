@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-29 16:57:05 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-06-29 17:51:37 UTC -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, June 29, 2026 - 16:57 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, June 29, 2026 - 17:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -80,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-daniel-vettrino-caribbean_7285912.jpg?20260629171640" alt="British man killed on Caribbean island after being shot &#x27;multiple times&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/british-man-killed-on-caribbean-island-after-being-shot-multiple-times-13558963" target="_blank">British man killed on Caribbean island after being shot &#x27;multiple times&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-29 15:04</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -88,20 +95,38 @@
                 <span class="time">2026-06-29 14:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250821-mail-in-ballot-drop-box-vl-225p-93a7f6.jpg" alt="Supreme Court allows states to count mail-in ballots that arrive late, rejecting RNC challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-states-count-mail-ballots-arrive-late-rejecting-r-rcna266933" target="_blank">Supreme Court allows states to count mail-in ballots that arrive late, rejecting RNC challenge</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-29 14:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale" target="_blank">At $499, Apple&amp;#8217;s M3-powered iPad Air is a good deal</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-29 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2266901963-500x500-1782751424.jpg" alt="Kalshi sues Illinois over new tax on prediction market sports bets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/kalshi-sues-illinois-over-new-tax-on-prediction-market-sports-bets/" target="_blank">Kalshi sues Illinois over new tax on prediction market sports bets</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-29 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/" target="_blank">Arena, the AI leaderboard everyone uses, is now a $100M business</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-29 17:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,38 +154,29 @@
                 <span class="time">2026-06-29 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/11/comcast-sign-500x500.jpg" alt="Comcast is splitting its media and broadband properties" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/comcast-is-splitting-its-media-and-broadband-properties/" target="_blank">Comcast is splitting its media and broadband properties</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-29 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/" target="_blank">Pocket raises $11M in bet on rising demand for AI note-taking devices</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-29 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/957784/flipper-devices-busy-bar-productivity-multitool-timer-led-display-presale" target="_blank">The Flipper Zero creators’ Busy Bar productivity display will go on sale next month</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-29 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/minh_le_b4d8d987f1ef7616e/nextflow-king-workflow-18o1" target="_blank">NextFLow !!! King WorkFlow</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-29 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/git/highlights-from-git-2-55/" target="_blank">Highlights from Git 2.55</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-29 17:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +213,6 @@
                 <span class="time">2026-06-29 14:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/leeryeong/your-ai-agents-leak-risk-depends-more-on-the-model-than-the-prompt-3f36" target="_blank">Your AI agent&#x27;s leak risk depends more on the model than the prompt</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-29 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vshosting/ai-agents-are-rewriting-the-rules-of-web-traffic-and-most-businesses-arent-ready-1a8m" target="_blank">AI Agents Are Rewriting the Rules of Web Traffic – And Most Businesses Aren’t Ready</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-29 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/sad-pikachu-target-1280x720.jpg" alt="Target Seems To Be Artificially Increasing Prices On Pokémon TCG Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-tcg-where-target-stock-prices-gouging-scalpers-2000711454" target="_blank">Target Seems To Be Artificially Increasing Prices On Pokémon TCG Products</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-29 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/Image-Jeff-Reeves-Shutterstock.jpg?fit=1080%2C715&amp;quality=60&amp;ssl=1" alt="The dentist who convinced FDR to bomb Japan with bats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/29/the-dentist-who-convinced-fdr-to-bomb-japan-with-bats.html" target="_blank">The dentist who convinced FDR to bomb Japan with bats</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-29 17:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KW025HM4JVG0TRF0HGA2EFDW/hero-image.png" alt="Every Fitbit With a Screen Is Still on Sale after Prime Day, up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +295,6 @@
                 <span class="time">2026-06-29 01:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/peacockhouse.jpg" alt="New Indie Text Adventure Hides An Incredibly Eerie Vaporwave Labyrinth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-indie-text-adventure-hides-a-eerie-vaporwave-labyrinth-2000711270" target="_blank">New Indie Text Adventure Hides An Incredibly Eerie Vaporwave Labyrinth</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-28 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/peacockhouse.jpg" alt="New Indie Text Adventure Hides A Eerie Vaporwave Labyrinth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-indie-text-adventure-hides-a-eerie-vaporwave-labyrinth-2000711270" target="_blank">New Indie Text Adventure Hides A Eerie Vaporwave Labyrinth</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-28 21:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 16:57 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 17:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
