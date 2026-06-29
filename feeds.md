@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-06-29 11:36:11 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-06-29 13:20:02 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, June 29, 2026 - 11:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, June 29, 2026 - 13:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say" target="_blank">Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-29 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10c3/live/f5587650-73bb-11f1-b1db-af71d47507d6.jpg" alt="Henry Zeffman: Andy Burnham offers a blueprint for his premiership" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cpq3yy48zglo?at_medium=RSS&at_campaign=rss" target="_blank">Henry Zeffman: Andy Burnham offers a blueprint for his premiership</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-29 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss" target="_blank">Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-29 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782732348818_tdy_news_7a_vaquerio_venezuela_quakes_260629_S3_1920x1080-b5qel5.jpg" alt="Venezuela Quakes: Race for Survivors as Death Toll Hits 1,450" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/venezuela-quakes-race-for-survivors-as-death-toll-hits-1-450-265862213870" target="_blank">Venezuela Quakes: Race for Survivors as Death Toll Hits 1,450</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-29 11:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd5b/live/8eda9340-70a5-11f1-a074-f75fb10ee765.jpg" alt="White working-class children failed by education system, says inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,47 +100,38 @@
                 <span class="time">2026-06-29 09:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260629-Venezuela-rs-3e73de.jpg" alt="Frustration and fading hopes in Venezuela with thousands still missing after twin quakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/venezuela/venezuela-earthquake-latest-death-toll-missing-rescues-la-guaira-rcna352179" target="_blank">Frustration and fading hopes in Venezuela with thousands still missing after twin quakes</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-29 09:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/29/fifa-world-cup-round-of-32-schedule-predictions-and-latest-news?traffic_source=rss" target="_blank">FIFA World Cup: Round of 32 schedule, predictions and latest news</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-29 09:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/29/nx-s1-5795892/world-cup-common-ground-beer-mexico-canada-united-states" target="_blank">3 World Cup rivals find &#x27;Common Ground&#x27; in a cross-border beer</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-29 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11d3/live/dab5cfc0-738c-11f1-9e21-8bd55db03589.jpg" alt="Mum of newborn rescued from Venezuela rubble tells BBC baby motivated her to survive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss" target="_blank">Mum of newborn rescued from Venezuela rubble tells BBC baby motivated her to survive</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-29 07:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/" target="_blank">Pocket raises $11M in bet on rising demand for AI note-taking devices</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-29 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/957784/flipper-devices-busy-bar-productivity-multitool-timer-led-display-presale" target="_blank">The Flipper Zero creators’ Busy Bar productivity display will go on sale next month</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-29 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/x59-first-supersonic-flight-500x500.webp" alt="NASA&#x27;s X-59 &quot;frankenjet&quot; tests supersonic flight without the sonic boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/nasas-x-59-frankenjet-tests-supersonic-flight-without-the-sonic-boom/" target="_blank">NASA&#x27;s X-59 &quot;frankenjet&quot; tests supersonic flight without the sonic boom</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-29 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a3d9d34555d01fc904122a8/master/pass/Millions-in-Tesla-Gear-Being-Stolen-Right-From-its-Loading-Docks-Business.jpg" alt="Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,38 +159,20 @@
                 <span class="time">2026-06-28 21:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine" target="_blank">Suno launches Spark incubator program to feed independent artists to its AI machine</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-28 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/" target="_blank">Ford rehires ‘gray beard’ engineers after AI falls short</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-28 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/maxplanck-500x500.jpg" alt="Why did this journal retract two 1940s papers by Max Planck?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/" target="_blank">Why did this journal retract two 1940s papers by Max Planck?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-28 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/leeryeong/your-ai-agents-leak-risk-depends-more-on-the-model-than-the-prompt-3f36" target="_blank">Your AI agent&#x27;s leak risk depends more on the model than the prompt</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-29 13:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,28 +203,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17369622/purism-librem-16" target="_blank">You Can Spend Up to $11,944 on Purism&amp;#x27;s Librem 16 Linux Laptop</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-29 10:18</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/" target="_blank">Sandia National Labs SA3000 8085 CPU</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-29 10:20</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/luciano0322/deconstructing-the-semantic-confusion-between-state-derived-state-and-effects-31i" target="_blank">Deconstructing the Semantic Confusion Between State, Derived State, and Effects</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-29 09:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/ai-coding-outpaces-governance/en/headerimage/ai-coding-outpaces-governance-1782718807762.jpeg" alt="AI Tools Accelerates Coding, but Not Overall Software Delivery, GitLab Research Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/ai-coding-outpaces-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Tools Accelerates Coding, but Not Overall Software Delivery, GitLab Research Finds</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-29 08:00</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17369622/purism-librem-16" target="_blank">You Can Spend Up to $11,944 on Purism&amp;#x27;s Librem 16 Linux Laptop</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-06-29 10:18</span>
             </div>
         </div>
 </div>
@@ -330,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 81 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 11:36 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 13:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
