@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-29 00:26:30 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-29 01:40:26 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, June 29, 2026 - 00:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, June 29, 2026 - 01:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/bahrain-embed_1782638011517_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US and Iran agree to stop strikes, US official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780" target="_blank">Iran live updates: US and Iran agree to stop strikes, US official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-29 01:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +105,20 @@
                 <span class="time">2026-06-28 21:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3890/live/b1c7e240-732f-11f1-873e-b188b9703f87.jpg" alt="Chris Mason: Burnham starts to sketch out his vision as potential prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg4vypy8lzo?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Burnham starts to sketch out his vision as potential prime minister</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-28 21:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity" target="_blank">China’s Z.ai claims it can match Mythos on cybersecurity</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-28 21:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +164,29 @@
                 <span class="time">2026-06-28 17:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/" target="_blank">Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-28 17:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mageia-10-Released" target="_blank">Mageia 10 Released For This Linux Distribution Carrying On The Mandrake Legacy</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-29 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/gimp-1996-flatpak" target="_blank">Run a 30-year old version of GIMP on modern Linux via Flatpak</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-28 22:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +221,6 @@
                 <span class="title"><a href="https://collider.ee/blog/2026-06-28-1500_a_hash_proves_the_bytes_not_the_source/" target="_blank">A hash proves the bytes, not the source</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-06-28 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-Q2-2026" target="_blank">USB4STREAM, Optimizations, Jay &amp; Other Popular Intel Linux News From This Quarter</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-28 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/librepods-org/librepods" target="_blank">Librepods: AirPods liberated from Apple&#x27;s ecosystem</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-28 18:48</span>
             </div>
         </div>
 </div>
@@ -299,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 00:26 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 01:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
