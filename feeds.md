@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-29 15:05:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-29 16:57:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, June 29, 2026 - 15:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, June 29, 2026 - 16:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/slaughter-rt-gmh-260629_1782743696666_hpMain_4x3t_384.jpg" alt="Supreme Court backs Trump firing of FTC member, rolling back 90 years of precedent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-allows-trump-firing-ftc-commissioner/story?id=129203395" target="_blank">Supreme Court backs Trump firing of FTC member, rolling back 90 years of precedent</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-29 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss" target="_blank">Afghan families mourn loved ones as border tensions with Pakistan rise</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-29 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/29/nx-s1-5874696/chris-evert-martina-navratilova-tennis-cancer" target="_blank">They were world-class tennis rivals. Now friends, they&#x27;ve teamed up against cancer</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-29 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7238/live/8ad52370-73cd-11f1-86e4-8d1ac421c5df.jpg" alt="Burnham&#x27;s &#x27;Manchesterism&#x27; could change the UK, but is not yet a full economic plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cpq3yxdyx9do?at_medium=RSS&at_campaign=rss" target="_blank">Burnham&#x27;s &#x27;Manchesterism&#x27; could change the UK, but is not yet a full economic plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-29 15:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,47 +97,29 @@
                 <span class="time">2026-06-29 14:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say" target="_blank">Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-29 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10c3/live/f5587650-73bb-11f1-b1db-af71d47507d6.jpg" alt="Henry Zeffman: Andy Burnham offers a blueprint for his premiership" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cpq3yy48zglo?at_medium=RSS&at_campaign=rss" target="_blank">Henry Zeffman: Andy Burnham offers a blueprint for his premiership</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-29 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss" target="_blank">Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-29 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782732348818_tdy_news_7a_vaquerio_venezuela_quakes_260629_S3_1920x1080-b5qel5.jpg" alt="Venezuela Quakes: Race for Survivors as Death Toll Hits 1,450" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/venezuela-quakes-race-for-survivors-as-death-toll-hits-1-450-265862213870" target="_blank">Venezuela Quakes: Race for Survivors as Death Toll Hits 1,450</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-29 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale" target="_blank">The best July 4th sales we found so far</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-29 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3d5a09979872ef6f4ad98a/master/pass/English_WhatsApp_usernames-reservation-2%20copy.jpg" alt="Usernames Are Coming to WhatsApp Soon. Here&#x27;s How to Reserve Yours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-reserve-your-whatsapp-username-before-it-goes-live/" target="_blank">Usernames Are Coming to WhatsApp Soon. Here&#x27;s How to Reserve Yours</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-29 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +156,20 @@
                 <span class="time">2026-06-29 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/x59-first-supersonic-flight-500x500.webp" alt="NASA&#x27;s X-59 &quot;frankenjet&quot; tests supersonic flight without the sonic boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/nasas-x-59-frankenjet-tests-supersonic-flight-without-the-sonic-boom/" target="_blank">NASA&#x27;s X-59 &quot;frankenjet&quot; tests supersonic flight without the sonic boom</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-29 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3d9d34555d01fc904122a8/master/pass/Millions-in-Tesla-Gear-Being-Stolen-Right-From-its-Loading-Docks-Business.jpg" alt="Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/" target="_blank">Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-29 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-72-threadripper" target="_blank">Linux 7.2 On Threadripper Shows Some Nice I/O Improvements &amp; Faster Poll, Some Regressions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-29 16:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/06/eliya-jvm-diagnostic-profile/en/headerimage/java-istock-image-01-1762720446658-1782700328980.jpg" alt="Eliya 25 Brings a JVM-Level Diagnostic Profile to OpenJDK 25 LTS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,20 +215,20 @@
                 <span class="time">2026-06-29 11:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/security-ai-threat-evolution/en/headerimage/security-ai-threat-evolution-header-1782202845102.jpg" alt="Article: Virtual panel: Security in the Machine Age: Expert Insights on AI Threat Evolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/security-ai-threat-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Virtual panel: Security in the Machine Age: Expert Insights on AI Threat Evolution</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-29 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html" target="_blank">Factoring RSA Keys with Many Zeros</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-06-29 16:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -239,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KW025HM4JVG0TRF0HGA2EFDW/hero-image.png" alt="Every Fitbit With a Screen Is Still on Sale after Prime Day, up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-fitbit-deals-june-2026?utm_medium=RSS" target="_blank">Every Fitbit With a Screen Is Still on Sale after Prime Day, up to 50% Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-29 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/olivia-cooke.jpg" alt="Oh Great, There’s Another Unnecessary Sexual Assault In Game Of Thrones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +297,6 @@
                 <span class="time">2026-06-28 21:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/The-bag_2C-as-posted-by-Lauren-County-Sheriffs-Of.jpg?fit=1080%2C643&amp;quality=60&amp;ssl=1" alt="Bag labeled &quot;deffntely not a bag full full of drugs&quot; was full of drugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/28/bag-labeled-deffntely-not-a-bag-full-full-of-drugs-was-full-of-drugs.html" target="_blank">Bag labeled &quot;deffntely not a bag full full of drugs&quot; was full of drugs</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-28 18:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,22 +320,13 @@
                 <span class="time">2026-06-29 01:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1782416890-20260628.png" alt="Saturday Morning Breakfast Cereal - Protocol" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/protocol-2" target="_blank">Saturday Morning Breakfast Cereal - Protocol</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-28 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 239 |
-        🔄 Last Updated: 15:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 16:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
