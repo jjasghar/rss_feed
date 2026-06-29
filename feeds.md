@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-29 01:40:26 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-29 03:01:25 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, June 29, 2026 - 01:40 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, June 29, 2026 - 03:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7954/live/eba46400-733b-11f1-8e1d-bbbb1017d210.jpg" alt="Burnham to promise devolution in first major speech since launching No 10 bid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c14yr0mgdp6o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to promise devolution in first major speech since launching No 10 bid</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-29 02:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/longform/2026/6/29/venezuelas-earthquakes-pose-first-major-test-for-president-delcy-rodriguez?traffic_source=rss" target="_blank">Venezuela’s earthquakes pose first major test for President Delcy Rodriguez</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-29 02:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd93/live/fc2f4510-7345-11f1-95e1-39c8d2c78f5f.png" alt="Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss" target="_blank">Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-29 01:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/bahrain-embed_1782638011517_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US and Iran agree to stop strikes, US official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,33 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/28/nx-s1-5874019/weather-extreme-heat-wave-north-carolina-ohio-july-4-danger-prepare" target="_blank">A &#x27;heat dome&#x27; is driving dangerous heat across the U.S. into the July 4 weekend</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-28 23:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/bahrain-embed_1782638011517_hpMain_2_4x3t_384.jpg" alt="Iran live updates: Talks still planned despite strikes, US official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=134086780" target="_blank">Iran live updates: Talks still planned despite strikes, US official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-28 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss" target="_blank">Heightened emotions in Iran after Team Melli knocked out of World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-28 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/28/ireland-upstage-world-champions-india-to-win-t20-series-at-home?traffic_source=rss" target="_blank">Ireland upstage world champions India to win T20 series at home</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-28 21:37</span>
             </div>
         </div>
 </div>
@@ -172,10 +171,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tiennguyenftuk52/i-run-a-209-node-automation-pipeline-on-n8n-i-modeled-what-it-would-cost-on-per-task-billing-26f4" target="_blank">I run a 209-node automation pipeline on n8n. I modeled what it would cost on per-task billing.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-29 02:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Mageia-10-Released" target="_blank">Mageia 10 Released For This Linux Distribution Carrying On The Mandrake Legacy</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-29 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/gimp-054-flatpak.webp?resize=406%2C232&amp;ssl=1" alt="This Flatpak runs a 30-year old version of GIMP – pre-GTK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/gimp-1996-flatpak" target="_blank">This Flatpak runs a 30-year old version of GIMP – pre-GTK</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-28 22:10</span>
             </div>
         </div>
 <div class="story">
@@ -205,29 +222,20 @@
                 <span class="time">2026-06-28 20:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc1-Released" target="_blank">Linux 7.2-rc1 Released: &quot;Things Look Reasonably Normal&quot; While Landing AMDGPU HDMI 2.1 FRL, AMD ISP4 &amp; CAS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-28 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://collider.ee/blog/2026-06-28-1500_a_hash_proves_the_bytes_not_the_source/" target="_blank">A hash proves the bytes, not the source</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-06-28 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/peacockhouse.jpg" alt="New Indie Text Adventure Hides An Incredibly Eerie Vaporwave Labyrinth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-indie-text-adventure-hides-a-eerie-vaporwave-labyrinth-2000711270" target="_blank">New Indie Text Adventure Hides An Incredibly Eerie Vaporwave Labyrinth</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-28 21:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/peacockhouse.jpg" alt="New Indie Text Adventure Hides A Eerie Vaporwave Labyrinth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,20 +281,20 @@
                 <span class="time">2026-06-28 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_2014514525-scaled.jpg?fit=2560%2C1587&amp;quality=60&amp;ssl=1" alt="Budapest enjoys first Pride march since Orbán voted out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/27/budapest-enjoys-first-pride-march-since-orban-voted-out.html" target="_blank">Budapest enjoys first Pride march since Orbán voted out</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-28 02:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5861.png" alt="What She&#x27;s Up To" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5861" target="_blank">What She&#x27;s Up To</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-06-29 01:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1782416890-20260628.png" alt="Saturday Morning Breakfast Cereal - Protocol" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 01:40 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 03:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
