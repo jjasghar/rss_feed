@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-29 18:36:02 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-06-29 19:31:09 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, June 29, 2026 - 18:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, June 29, 2026 - 19:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -247,6 +243,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Tekken-8-Roger-Jr-DLC-trailer-Bandai-Namco-1280x722.jpg" alt="Tekken 8′s Roger Jr DLC Trailer References Infamous Kangaroo Punching Tekken 7 Meme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tekken-8s-roger-jr-dlc-trailer-references-the-same-kangaroo-punching-meme-that-led-to-him-being-cut-from-tekken-7-2000711390" target="_blank">Tekken 8′s Roger Jr DLC Trailer References Infamous Kangaroo Punching Tekken 7 Meme</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-29 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWA42KARN6SHR8REFY61HN4B/hero-image.png" alt="WhatsApp Is Replacing Phone Numbers With Usernames" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/whatsapp-username-update?utm_medium=RSS" target="_blank">WhatsApp Is Replacing Phone Numbers With Usernames</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-29 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/dog.jpg?fit=1080%2C715&amp;quality=60&amp;ssl=1" alt="Jonah the hotdog-less Marlins dog gets his dream day on July 12" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/29/jonah-the-hotdog-less-marlins-dog-gets-his-dream-day-on-july-12.html" target="_blank">Jonah the hotdog-less Marlins dog gets his dream day on July 12</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-29 18:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/sad-pikachu-target-1280x720.jpg" alt="Target Seems To Be Artificially Increasing Prices On Pokémon TCG Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -271,33 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/best-fitbit-deals-june-2026?utm_medium=RSS" target="_blank">Every Fitbit With a Screen Is Still on Sale after Prime Day, up to 50% Off</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-29 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/olivia-cooke.jpg" alt="Oh Great, There’s Another Unnecessary Sexual Assault In Game Of Thrones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/house-of-the-dragon-season-three-sexual-assault-game-of-thrones-2000711385" target="_blank">Oh Great, There’s Another Unnecessary Sexual Assault In Game Of Thrones</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-29 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/old-timey-musk-e1740520828650.jpg?fit=1080%2C802&amp;quality=60&amp;ssl=1" alt="Elon Musk demands one name of someone killed by aid cuts, gets a list" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/29/elon-musk-demands-one-name-of-someone-killed-by-aid-cuts-gets-a-list.html" target="_blank">Elon Musk demands one name of someone killed by aid cuts, gets a list</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-29 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/09/shutterstock_1271754283.jpg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="A million passports leaked online by marijuana club portal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/28/a-million-passports-leaked-online-by-marijuana-club-portal.html" target="_blank">A million passports leaked online by marijuana club portal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-29 01:24</span>
             </div>
         </div>
 </div>
@@ -346,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 18:36 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 19:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
