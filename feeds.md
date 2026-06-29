@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-06-29 20:33:30 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-06-29 21:28:26 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, June 29, 2026 - 20:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, June 29, 2026 - 21:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss" target="_blank">Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-29 21:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1c3/live/dd101930-73e9-11f1-bb9e-33cb2da512b5.png" alt="Aftershock frays nerves as many Venezuelans left to fend for themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss" target="_blank">Aftershock frays nerves as many Venezuelans left to fend for themselves</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782762096389_f_mo_dc_trump_scotus_mailin_260629_S3_1920x1080-ng7zt0.jpg" alt="Trump responds to Supreme Court ruling on mail-in ballots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-responds-to-supreme-court-ruling-on-mail-in-ballots-265892933690" target="_blank">Trump responds to Supreme Court ruling on mail-in ballots</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-29 19:41</span>
             </div>
         </div>
 <div class="story">
@@ -77,29 +102,38 @@
                 <span class="time">2026-06-29 18:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/6/29/can-governments-fix-the-global-housing-crisis?traffic_source=rss" target="_blank">Can governments fix the global housing crisis?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-29 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/slaughter-rt-gmh-260629_1782743696666_hpMain_4x3t_384.jpg" alt="Supreme Court backs Trump firing of FTC member, rolling back 90 years of precedent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-allows-trump-firing-ftc-commissioner/story?id=129203395" target="_blank">Supreme Court backs Trump firing of FTC member, rolling back 90 years of precedent</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-29 16:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-500x500.png" alt="South Korea to spend $1T on more memory chip production and humanoid robots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/" target="_blank">South Korea to spend $1T on more memory chip production and humanoid robots</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-29 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint" target="_blank">T-Mobile is booting customers from its oldest plans</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-29 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/" target="_blank">Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-29 20:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,33 +159,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/kalshi-sues-illinois-over-new-tax-on-prediction-market-sports-bets/" target="_blank">Kalshi sues Illinois over new tax on prediction market sports bets</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-06-29 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/" target="_blank">Arena, the AI leaderboard everyone uses, is now a $100M business</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-29 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale" target="_blank">The best July 4th sales we found so far</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-29 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3d5a09979872ef6f4ad98a/master/pass/English_WhatsApp_usernames-reservation-2%20copy.jpg" alt="Usernames Are Coming to WhatsApp Soon. Here&#x27;s How to Reserve Yours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-reserve-your-whatsapp-username-before-it-goes-live/" target="_blank">Usernames Are Coming to WhatsApp Soon. Here&#x27;s How to Reserve Yours</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-29 16:00</span>
             </div>
         </div>
 </div>
@@ -207,10 +214,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-72-threadripper" target="_blank">Linux 7.2 On Threadripper Shows Some Nice I/O Improvements &amp; Faster Poll, Some Regressions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-29 16:50</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://quesma.com/blog/qwen-36-is-awesome/" target="_blank">Qwen 3.6 27B is the sweet spot for local development</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-29 17:05</span>
             </div>
         </div>
 </div>
@@ -241,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/reddit-judge-1280x720.jpg" alt="TikToker Tries To Reveal Hater’s Identity, Judge Says Nah, Dude" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tiktoker-tries-to-reveal-haters-identity-judge-says-nah-dude-2000711485" target="_blank">TikToker Tries To Reveal Hater’s Identity, Judge Says Nah, Dude</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-29 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWAFZSFYGGG5QVB0EF66YRR0/hero-image.jpg" alt="Update Your iPhone Now to Patch These 29 Security Flaws" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/update-your-iphone-now-to-patch-these-security-flaws?utm_medium=RSS" target="_blank">Update Your iPhone Now to Patch These 29 Security Flaws</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-29 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/image-10.jpg" alt="Large Man Blows In Cartridge, Sticks It In An NES, And Smashes Another Man’s Face With It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +300,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/whatsapp-username-update?utm_medium=RSS" target="_blank">WhatsApp Is Replacing Phone Numbers With Usernames</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-29 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/dog.jpg?fit=1080%2C715&amp;quality=60&amp;ssl=1" alt="Jonah the hotdog-less Marlins dog gets his dream day on July 12" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/29/jonah-the-hotdog-less-marlins-dog-gets-his-dream-day-on-july-12.html" target="_blank">Jonah the hotdog-less Marlins dog gets his dream day on July 12</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-29 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/sad-pikachu-target-1280x720.jpg" alt="Target Seems To Be Artificially Increasing Prices On Pokémon TCG Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-tcg-where-target-stock-prices-gouging-scalpers-2000711454" target="_blank">Target Seems To Be Artificially Increasing Prices On Pokémon TCG Products</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-29 17:30</span>
             </div>
         </div>
 </div>
@@ -350,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 20:33 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 21:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
