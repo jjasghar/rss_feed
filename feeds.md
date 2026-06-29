@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-06-29 21:28:26 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-06-29 22:21:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, June 29, 2026 - 21:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, June 29, 2026 - 22:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +46,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/29/sinner-and-sabalenka-answer-doubters-on-wimbledon-day-one?traffic_source=rss" target="_blank">Sinner and Sabalenka answer doubters on Wimbledon Day one</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-29 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e963/live/252a69a0-73fe-11f1-958a-899f98f625e2.jpg" alt="Long-delayed defence spending plan to be published on Tuesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss" target="_blank">Long-delayed defence spending plan to be published on Tuesday</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-29 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss" target="_blank">Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-29 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/29/g-s1-130942/temporary-protected-status-program-explainer-supreme-court" target="_blank">The Temporary Protected Status program may effectively be over. Here&#x27;s what we know.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-29 20:54</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +96,20 @@
                 <span class="time">2026-06-29 19:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16?traffic_source=rss" target="_blank">Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-29 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-jetblue-plane_7286037.jpg?20260629201142" alt="Passenger plane landing in New York &#x27;hit by drone&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/passenger-plane-landing-at-new-yorks-jfk-airport-hit-by-drone-13559025" target="_blank">Passenger plane landing in New York &#x27;hit by drone&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-06-29 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e63/live/1b4290f0-73dd-11f1-bb92-23f4f6ea1fbd.jpg" alt="New &#x27;No 10 North&#x27; plan will rebalance power in Britain, Burnham promises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2jw5q5pdzo?at_medium=RSS&at_campaign=rss" target="_blank">New &#x27;No 10 North&#x27; plan will rebalance power in Britain, Burnham promises</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-29 18:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a429931b8212c2a1f822da2/master/pass/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg" alt="Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/" target="_blank">Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-29 21:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-500x500.png" alt="South Korea to spend $1T on more memory chip production and humanoid robots" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +155,29 @@
                 <span class="time">2026-06-29 17:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2266901963-500x500-1782751424.jpg" alt="Kalshi sues Illinois over new tax on prediction market sports bets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/06/kalshi-sues-illinois-over-new-tax-on-prediction-market-sports-bets/" target="_blank">Kalshi sues Illinois over new tax on prediction market sports bets</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-29 17:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ndcodes/100-days-of-devops-day-4-permissions-that-actually-matter-and-why-s3-versioning-shouldnt-be-2b7k" target="_blank">100 Days of DevOps, Day 4: Permissions That Actually Matter and Why S3 Versioning Shouldn&#x27;t Be Optional</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-29 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.12-Released" target="_blank">Wine 11.12 Released With Wayland Fractional Scaling &amp; Other Wayland Enhancements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-29 21:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +214,6 @@
                 <span class="time">2026-06-29 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/git/highlights-from-git-2-55/" target="_blank">Highlights from Git 2.55</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-29 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://quesma.com/blog/qwen-36-is-awesome/" target="_blank">Qwen 3.6 27B is the sweet spot for local development</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-29 17:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/05/94ae0b526db97620b82a3b7227812ca5-1280x720.jpg" alt="Netflix Reportedly Making Live-Action Persona Series Nobody Asked For With Deadpool Director And Star Trek Picard Writer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/netflix-reportedly-making-live-action-persona-series-nobody-asked-for-with-deadpool-director-and-star-trek-picard-writer-2000711527" target="_blank">Netflix Reportedly Making Live-Action Persona Series Nobody Asked For With Deadpool Director And Star Trek Picard Writer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-29 22:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/reddit-judge-1280x720.jpg" alt="TikToker Tries To Reveal Hater’s Identity, Judge Says Nah, Dude" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +294,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/29/america-250-celebrates-with-contestants-nearly-puking-pancakes.html" target="_blank">America 250 celebrates with contestants nearly puking pancakes</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-29 19:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWA42KARN6SHR8REFY61HN4B/hero-image.png" alt="WhatsApp Is Replacing Phone Numbers With Usernames" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/whatsapp-username-update?utm_medium=RSS" target="_blank">WhatsApp Is Replacing Phone Numbers With Usernames</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-29 18:43</span>
             </div>
         </div>
 </div>
@@ -357,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 21:28 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 22:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
