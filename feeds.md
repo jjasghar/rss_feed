@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-29 22:21:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-29 23:19:09 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, June 29, 2026 - 22:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, June 29, 2026 - 23:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/29/australian-football-legend-sam-kerr-signs-with-gotham-fc-after-chelsea-exit?traffic_source=rss" target="_blank">Australian football legend Sam Kerr signs with Gotham FC after Chelsea exit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-29 22:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss" target="_blank">Aftershock frays nerves as many Venezuelans left to fend for themselves</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-29 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782762096389_f_mo_dc_trump_scotus_mailin_260629_S3_1920x1080-ng7zt0.jpg" alt="Trump responds to Supreme Court ruling on mail-in ballots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-responds-to-supreme-court-ruling-on-mail-in-ballots-265892933690" target="_blank">Trump responds to Supreme Court ruling on mail-in ballots</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-29 19:41</span>
             </div>
         </div>
 </div>
@@ -164,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mariaramos_seo/how-to-write-content-that-ai-search-engines-actually-cite-3g0d" target="_blank">How to Write Content That AI Search Engines Actually Cite</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-29 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ndcodes/100-days-of-devops-day-4-permissions-that-actually-matter-and-why-s3-versioning-shouldnt-be-2b7k" target="_blank">100 Days of DevOps, Day 4: Permissions That Actually Matter and Why S3 Versioning Shouldn&#x27;t Be Optional</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-29 22:04</span>
@@ -205,15 +215,6 @@
                 <span class="time">2026-06-29 17:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/minh_le_b4d8d987f1ef7616e/nextflow-king-workflow-18o1" target="_blank">NextFLow !!! King WorkFlow</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-29 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/B2ZRIYTXJREMTBEAJ2UT6WBDPU.jpeg?fit=1280%2C721&amp;quality=60&amp;ssl=1" alt="Killer dies of heart attack while disposing of victim&#x27;s body" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/29/murderer-dies-of-heart-attack-while-disposing-of-victims-body.html" target="_blank">Killer dies of heart attack while disposing of victim&#x27;s body</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-29 22:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/05/94ae0b526db97620b82a3b7227812ca5-1280x720.jpg" alt="Netflix Reportedly Making Live-Action Persona Series Nobody Asked For With Deadpool Director And Star Trek Picard Writer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/tekken-8s-roger-jr-dlc-trailer-references-the-same-kangaroo-punching-meme-that-led-to-him-being-cut-from-tekken-7-2000711390" target="_blank">Tekken 8′s Roger Jr DLC Trailer References Infamous Kangaroo Punching Tekken 7 Meme</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-29 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/melaniacowpancake-e1782761018311.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="America 250 celebrates with contestants nearly puking pancakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/29/america-250-celebrates-with-contestants-nearly-puking-pancakes.html" target="_blank">America 250 celebrates with contestants nearly puking pancakes</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-29 19:24</span>
             </div>
         </div>
 </div>
@@ -351,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 22:21 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 23:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
