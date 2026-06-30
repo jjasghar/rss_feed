@@ -1,30 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 21:28:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-30 22:24:10 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 21:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, June 30, 2026 - 22:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-epa-gmh-260629_1782766900469_hpMain_4x3t_384.jpg" alt="Trump pushes legislation to end birthright citizenship after SCOTUS decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-bad-scotus-upheld-birthright-citizenship-pushes-legislation/story?id=134349017" target="_blank">Trump pushes legislation to end birthright citizenship after SCOTUS decision</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-30 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-5876268/npr-discusses-error-in-reporting-on-the-last-day-of-the-supreme-court-term" target="_blank">NPR discusses error in reporting on the last day of the Supreme Court term</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-30 21:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +107,6 @@
                 <span class="time">2026-06-30 19:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/30/england-vs-dr-congo-world-cup-round-of-32-kane-match-prediction-lineups?traffic_source=rss" target="_blank">England vs DR Congo: World Cup Round of 32: Kane, match prediction, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-30 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-5876301/peptides-fda-panel-compounding-rfk" target="_blank">FDA scientists flag concerns with peptides, the trendy molecules RFK Jr. supports</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-30 18:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,6 +119,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine" target="_blank">Amazon fined $2.25 million for failing to help identity theft victims</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-06-30 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a429d965cdc2b309c97ad67/master/pass/Daisy%20One%20Silver%20Hero.jpg" alt="Daisy Sound’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/daisy-sound-yet-another-company-is-making-premium-high-end-headphones/" target="_blank">Daisy Sound’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-30 21:07</span>
             </div>
         </div>
 <div class="story">
@@ -144,15 +166,6 @@
                 <span class="time">2026-06-30 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/" target="_blank">Threads adds new features to Live Chats as it expands access</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-30 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/fmerian/the-state-of-startups-2026-key-takeaways-4io4" target="_blank">The State of Startups 2026: Key Takeaways</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-30 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GraalVM-Community-25.1.3" target="_blank">GraalVM CE 25.1.3 Gets Native Image &quot;Hello World&quot; Program Down To &lt;em&gt;Just&lt;/em&gt; 6.5MB</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-30 20:11</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +225,6 @@
                 <span class="time">2026-06-30 17:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/" target="_blank">How GitHub maintains compliance for open source dependencies</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-06-30 17:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/0_Meme-depicting-JD-Vance-as-bald.jpg?fit=810%2C539&amp;quality=60&amp;ssl=1" alt="JD Vance discovers the Nicene Creed in a yard sign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/30/jd-vance-discovers-the-nicene-creed-in-a-yard-sign.html" target="_blank">JD Vance discovers the Nicene Creed in a yard sign</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-30 21:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/braind.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A single drug injection reversed autism-like behavior in mice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +298,6 @@
                 <span class="time">2026-06-30 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/xbox-bad-1280x720.jpg" alt="Xbox Unions In The Dark Despite Negotiating Layoff Protections For Months: ‘We Understand That Businesses Have To Business, But The Uncertainty Is Maddening’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-unions-layoffs-help-2000711624" target="_blank">Xbox Unions In The Dark Despite Negotiating Layoff Protections For Months: ‘We Understand That Businesses Have To Business, But The Uncertainty Is Maddening’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-30 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 21:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 22:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
