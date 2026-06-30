@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 19:31:11 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-30 20:34:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 19:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, June 30, 2026 - 20:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +52,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cedb/live/3a35ce80-7470-11f1-b8da-6d87dfdc4508.jpg" alt="Starmer trims budgets to fund extra £15bn for defence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss" target="_blank">Starmer trims budgets to fund extra £15bn for defence</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-30 20:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss" target="_blank">Five humanitarian workers killed in convoy ambush in South Sudan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-30 20:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/821f/live/08b6c1d0-74ba-11f1-b1db-af71d47507d6.jpg" alt="Americans react to Supreme Court upholding birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss" target="_blank">Americans react to Supreme Court upholding birthright citizenship</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-30 19:36</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -54,45 +91,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-5876301/peptides-fda-panel-compounding-rfk" target="_blank">FDA scientists flag concerns with peptides, the trendy molecules RFK Jr. supports</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-30 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-5876093/heat-wave-fourth-midwest-east-coast" target="_blank">It&#x27;s going to be a hot July Fourth for much of the country</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-30 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/30/toddler-pulled-from-debris-six-days-after-venezuelan-earthquakes?traffic_source=rss" target="_blank">Toddler pulled from debris six days after Venezuelan earthquakes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-30 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests" target="_blank">‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-30 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/scotus-5-rt-gmh-260630_1782828688500_hpMain_4x3t_384.jpg" alt="Supreme Court rejects Trump&#x27;s attempt to end birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-rejects-trumps-attempt-end-birthright-citizenship/story?id=134318851" target="_blank">Supreme Court rejects Trump&#x27;s attempt to end birthright citizenship</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-30 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/30/heavy-rainfall-kills-dozens-in-ghana-ivory-coast?traffic_source=rss" target="_blank">Heavy rainfall kills dozens in Ghana, Ivory Coast</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-30 15:54</span>
             </div>
         </div>
 </div>
@@ -100,6 +110,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/" target="_blank">The DeepMind trio who built a poker AI, are now making money for quant hedge funds</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-30 20:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale" target="_blank">Acer&amp;#8217;s Swift Go 16 is a lot of laptop for $900</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-30 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +164,20 @@
                 <span class="time">2026-06-30 16:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/" target="_blank">Tesla starts testing Cybercab without pedals or a steering wheel in Austin</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-30 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/959433/libby-ai-filter" target="_blank">Libby will filter out AI content, kind of</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-30 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fmerian/the-state-of-startups-2026-key-takeaways-4io4" target="_blank">The State of Startups 2026: Key Takeaways</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-30 20:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +223,6 @@
                 <span class="time">2026-06-30 17:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hueyemma769/how-to-implement-rbac-in-go-584e" target="_blank">How to implement RBAC in Go</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-30 17:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/steammachine-1280x720.jpg" alt="In A Land Of Boring Consoles, The Steam Machine Is Fun And Quirky" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/in-a-land-of-boring-consoles-the-steam-machine-is-fun-and-quirky-2000711813" target="_blank">In A Land Of Boring Consoles, The Steam Machine Is Fun And Quirky</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-30 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H2A3R29JR8JKFMG5FE4FY/hero-image.jpg" alt="Why I Always Check the Wet Bulb Temperature Before Exercising Outside in Summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/use-wet-bulb-temperatures-to-tell-when-its-too-hot-to-exercise-outdoors?utm_medium=RSS" target="_blank">Why I Always Check the Wet Bulb Temperature Before Exercising Outside in Summer</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-30 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/trumpgreatamericanfair-1280x720.jpg" alt="The Internet Can’t Stop Mocking Trump’s Terrible State Fair" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +294,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/30/tasmanias-favorite-1000-kilo-chaos-seal-is-back-on-land.html" target="_blank">Tasmania&#x27;s favorite 1,000-kilo chaos seal is back on land</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-30 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/marathon-5-1280x715.jpg" alt="Marathon Fan Goes Viral For Getting To Level 45 Without Having Any Idea How The Game Actually Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-fan-goes-viral-for-getting-to-level-45-without-having-any-idea-how-the-game-actually-works-2000711622" target="_blank">Marathon Fan Goes Viral For Getting To Level 45 Without Having Any Idea How The Game Actually Works</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-30 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KW2WHANE2QECR900Q7HWFCB6/hero-image.jpg" alt="The Out of Touch Adults&#x27; Guide to Kid Culture: What Does &#x27;TLPUR&#x27; Mean?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-does-tlpur-mean-current-trends-explained?utm_medium=RSS" target="_blank">The Out of Touch Adults&#x27; Guide to Kid Culture: What Does &#x27;TLPUR&#x27; Mean?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-30 13:30</span>
             </div>
         </div>
 </div>
@@ -323,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 230 |
-        🔄 Last Updated: 19:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 233 |
+        🔄 Last Updated: 20:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
