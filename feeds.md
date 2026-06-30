@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 17:32:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-30 18:31:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 17:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, June 30, 2026 - 18:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -69,6 +59,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/scotus-5-rt-gmh-260630_1782828688500_hpMain_4x3t_384.jpg" alt="Supreme Court rejects Trump&#x27;s attempt to end birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-rejects-trumps-attempt-end-birthright-citizenship/story?id=134318851" target="_blank">Supreme Court rejects Trump&#x27;s attempt to end birthright citizenship</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-30 16:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -93,15 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-4622951/samuel-alito-retires" target="_blank">Editor&#x27;s note: NPR retracts story</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-06-30 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/Supreme_Court-26177133350916-AP-cx8n8g.jpg" alt="Crowds outside Supreme Court cheer at birthright citizenship decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/crowds-outside-supreme-court-cheer-at-birthright-citizenship-decision-265956933524" target="_blank">Crowds outside Supreme Court cheer at birthright citizenship decision</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-30 14:46</span>
             </div>
         </div>
 </div>
@@ -171,6 +161,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/timevolt/the-terraform-awakens-infrastructure-as-code-quest-1mgb" target="_blank">The Terraform Awakens: Infrastructure as Code Quest</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-30 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/news/claude-sonnet-5" target="_blank">Claude Sonnet 5</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-06-30 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/" target="_blank">How GitHub maintains compliance for open source dependencies</a></span>
                 <span class="feed">The GitHub Blog</span>
@@ -204,24 +212,6 @@
                 <span class="time">2026-06-30 16:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/ai-text-to-speech.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s ‘Myna’ lets you talk instead of type – but how does it work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/what-is-myna-ubuntu-ai-dictation" target="_blank">Ubuntu’s ‘Myna’ lets you talk instead of type – but how does it work?</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-30 16:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-72-features" target="_blank">Linux 7.2 Features: Cache Aware Scheduling, USB4STREAM, AMD ISP4, AMDGPU HDMI 2.1 FRL</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-30 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/trumpgreatamericanfair-1280x720.jpg" alt="The Internet Can’t Stop Mocking Trump’s Terrible State Fair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-internet-cant-stop-mocking-trumps-terrible-state-fair-2000711666" target="_blank">The Internet Can’t Stop Mocking Trump’s Terrible State Fair</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-30 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/xbox-bad-1280x720.jpg" alt="Xbox Unions In The Dark Despite Negotiating Layoff Protections For Months: ‘We Understand That Businesses Have To Business, But The Uncertainty Is Maddening’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +285,6 @@
                 <span class="time">2026-06-30 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPR1F85S1D35VMFQNY926W1W/hero-image.png" alt="This Floatable Anker Speaker Is Now $40 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-boom-2-speaker-sale-june-2026?utm_medium=RSS" target="_blank">This Floatable Anker Speaker Is Now $40 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-30 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,22 +308,13 @@
                 <span class="time">2026-06-30 00:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/06/29/non-fungible-tims-2" target="_blank">Non-Fungible Tims</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-06-29 18:28</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 17:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 233 |
+        🔄 Last Updated: 18:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
