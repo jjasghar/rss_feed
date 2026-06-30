@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 15:46:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-06-30 16:40:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 15:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, June 30, 2026 - 16:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/30/heavy-rainfall-kills-dozens-in-ghana-ivory-coast?traffic_source=rss" target="_blank">Heavy rainfall kills dozens in Ghana, Ivory Coast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-30 15:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +98,38 @@
                 <span class="time">2026-06-30 14:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f08b/live/bf9f3500-744a-11f1-8546-8f19e4fe30f4.jpg" alt="Government promises to act on maternity care failings which &#x27;shame our society&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&at_campaign=rss" target="_blank">Government promises to act on maternity care failings which &#x27;shame our society&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-30 14:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/" target="_blank">Blue Origin still doesn’t know why its New Glenn rocket blew up last month</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-30 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/959264/bose-soundlink-max-wd-black-deal-sale" target="_blank">The Bose Soundlink Max is $120 off ahead of the July 4th weekend</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-30 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2208838235-500x500.jpg" alt="The US going 100% EV by 2040 would save more than 100k lives, study says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/06/the-us-going-100-ev-by-2040-would-save-more-than-100k-lives-study-says/" target="_blank">The US going 100% EV by 2040 would save more than 100k lives, study says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-30 16:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,38 +157,29 @@
                 <span class="time">2026-06-30 15:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/" target="_blank">Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-30 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-ron-desantis-500x500.jpg" alt="Florida bans local governments from pursuing net-zero emissions goals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/" target="_blank">Florida bans local governments from pursuing net-zero emissions goals</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-30 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1-500x500.png" alt="Ars Live, today: The latest on the aftermath of the New Glenn catastrophe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/" target="_blank">Ars Live, today: The latest on the aftermath of the New Glenn catastrophe</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-30 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/ai-text-to-speech.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s ‘Myna’ lets you talk instead of type – but how does it work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/what-is-myna-ubuntu-ai-dictation" target="_blank">Ubuntu’s ‘Myna’ lets you talk instead of type – but how does it work?</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-30 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-72-features" target="_blank">Linux 7.2 Features: Cache Aware Scheduling, USB4STREAM, AMD ISP4, AMDGPU HDMI 2.1 FRL</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-30 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +216,6 @@
                 <span class="time">2026-06-30 12:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-becomes-gold-sponsor-of-trifecta-tech-foundation" target="_blank">Canonical becomes Gold Sponsor of Trifecta Tech Foundation</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-06-30 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/" target="_blank">European digital ID wallets are a gift to Google and Apple</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-06-30 10:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,20 +230,20 @@
                 <span class="time">2026-06-30 12:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html" target="_blank">Factoring RSA Keys with Many Zeros</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-29 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/neilseal.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Tasmania&#x27;s favorite 1,000-kilo chaos seal is back on land" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/30/tasmanias-favorite-1000-kilo-chaos-seal-is-back-on-land.html" target="_blank">Tasmania&#x27;s favorite 1,000-kilo chaos seal is back on land</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-30 15:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/marathon-5-1280x715.jpg" alt="Marathon Fan Goes Viral For Getting To Level 45 Without Having Any Idea How The Game Actually Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +289,6 @@
                 <span class="time">2026-06-30 03:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/antarctica.png?fit=640%2C427&amp;quality=55&amp;ssl=1" alt="Flagdoku tests your knowledge of flags" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/29/flagdoku-tests-your-knowledge-of-flags.html" target="_blank">Flagdoku tests your knowledge of flags</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-30 02:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 15:46 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 16:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
