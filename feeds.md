@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 16:40:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-06-30 17:32:11 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 16:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, June 30, 2026 - 17:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-5876093/heat-wave-fourth-midwest-east-coast" target="_blank">It&#x27;s going to be a hot July Fourth for much of the country</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-30 17:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/30/toddler-pulled-from-debris-six-days-after-venezuelan-earthquakes?traffic_source=rss" target="_blank">Toddler pulled from debris six days after Venezuelan earthquakes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-30 17:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,30 +96,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Supreme Court rejects Trump’s attempt to end birthright citizenship: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Supreme Court rejects Trump’s attempt to end birthright citizenship: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-30 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3737/live/24fbc0a0-748f-11f1-8546-8f19e4fe30f4.jpg" alt="Supreme Court&#x27;s birthright ruling is major blow to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss" target="_blank">Supreme Court&#x27;s birthright ruling is major blow to Trump</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-30 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260406-birthright-citizenship-protest-supreme-court-gk-590fa5.jpg" alt="Supreme Court rejects Trump’s attempt to limit birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/Supreme_Court-26177133350916-AP-cx8n8g.jpg" alt="Crowds outside Supreme Court cheer at birthright citizenship decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-nixes-trump-attempt-limit-birthright-citizenship-rcna266935" target="_blank">Supreme Court rejects Trump’s attempt to limit birthright citizenship</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/crowds-outside-supreme-court-cheer-at-birthright-citizenship-decision-265956933524" target="_blank">Crowds outside Supreme Court cheer at birthright citizenship decision</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-30 14:36</span>
+                <span class="time">2026-06-30 14:46</span>
             </div>
         </div>
 </div>
@@ -103,6 +109,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/" target="_blank">Threads adds new features to Live Chats as it expands access</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-30 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +163,47 @@
                 <span class="time">2026-06-30 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4304a19ec6fcabfa38b311/master/pass/New-York-Is-About-to-Fee-Hotter-Than-Phoenix-Science-1012325148.jpg" alt="New York Is About to Feel Hotter Than Phoenix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/new-york-about-feel-hotter-than-phoenix/" target="_blank">New York Is About to Feel Hotter Than Phoenix</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-30 15:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/" target="_blank">How GitHub maintains compliance for open source dependencies</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-06-30 17:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hueyemma769/how-to-implement-rbac-in-go-584e" target="_blank">How to implement RBAC in Go</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-30 17:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!JLz_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17f00be6-8fd8-474c-9e1f-9dab109ef86f_2048x1536.jpeg" alt="Impressions from visiting OpenAI, Anthropic, &amp; Cursor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai" target="_blank">Impressions from visiting OpenAI, Anthropic, &amp; Cursor</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-06-30 17:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/ai-text-to-speech.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s ‘Myna’ project lets you talk instead of type – what is it?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/what-is-myna-ubuntu-ai-dictation" target="_blank">Ubuntu’s ‘Myna’ project lets you talk instead of type – what is it?</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-06-30 16:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/ai-text-to-speech.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s ‘Myna’ lets you talk instead of type – but how does it work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -178,42 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/linux-72-features" target="_blank">Linux 7.2 Features: Cache Aware Scheduling, USB4STREAM, AMD ISP4, AMDGPU HDMI 2.1 FRL</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-30 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/flashship_ro/cum-iti-citeste-de-fapt-motorul-de-cautare-pagina-in-2026-si-de-ce-numarul-de-cuvinte-e-irelevant-abf" target="_blank">Cum îți citește de fapt motorul de căutare pagina în 2026 (și de ce numărul de cuvinte e irelevant)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-30 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.7.2-Released" target="_blank">KDE Plasma 6.7.2 Brings Fix For Most Common KWin Crash, Better Chromium Video Playback</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-30 14:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-development/en/mediumimage/SriramMadapusiVasudevan-medium-1782220895596.jpg" alt="Presentation: Trustworthy Productivity: Securing AI-Accelerated Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Trustworthy Productivity: Securing AI-Accelerated Development</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-30 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/notalex1001/agent-vs-robots-whats-the-difference-474c" target="_blank">Agent vs Robots: What&#x27;s the Difference?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-30 12:23</span>
             </div>
         </div>
 </div>
@@ -235,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/xbox-bad-1280x720.jpg" alt="Xbox Unions In The Dark Despite Negotiating Layoff Protections For Months: ‘We Understand That Businesses Have To Business, But The Uncertainty Is Maddening’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-unions-layoffs-help-2000711624" target="_blank">Xbox Unions In The Dark Despite Negotiating Layoff Protections For Months: ‘We Understand That Businesses Have To Business, But The Uncertainty Is Maddening’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-30 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/cameras-e1782837397179.jpg?fit=768%2C435&amp;quality=60&amp;ssl=1" alt="TED-stage futurist/longevity salesman says mass surveillance will make us behave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/30/ted-stage-futurist-longevity-salesman-says-mass-surveillance-will-make-us-behave.html" target="_blank">TED-stage futurist/longevity salesman says mass surveillance will make us behave</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-30 16:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/neilseal.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Tasmania&#x27;s favorite 1,000-kilo chaos seal is back on land" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-boom-2-speaker-sale-june-2026?utm_medium=RSS" target="_blank">This Floatable Anker Speaker Is Now $40 Off</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-30 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Persona-3-Portable-official-artwork-Atlus-1280x853.jpg" alt="Persona 3 Dual Meme Becomes A Reality Following Release Of Unofficial Nintendo DS Demake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/persona-3-dual-meme-becomes-a-reality-following-release-of-unofficial-nintendo-ds-demake-2000711591" target="_blank">Persona 3 Dual Meme Becomes A Reality Following Release Of Unofficial Nintendo DS Demake</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-30 12:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/the-last-museum-search-across-5-8-million-museum-artworks-v0-pskAMjOTcZm98Zn7OdwZMVHQDknStznLDXUDvcouIzQ.webp?fit=1080%2C739&amp;quality=55&amp;ssl=1" alt="Browse 5.8 million works of art at the Last Museum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/29/browse-5-8-million-works-of-art-at-the-last-museum.html" target="_blank">Browse 5.8 million works of art at the Last Museum</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-30 03:04</span>
             </div>
         </div>
 </div>
@@ -326,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 39 | 📸 With Images: 234 |
-        🔄 Last Updated: 16:40 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 17:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
