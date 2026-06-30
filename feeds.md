@@ -1,30 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 18:31:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-30 19:31:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 18:31 UTC</div>
+    <div class="newspaper-date">Tuesday, June 30, 2026 - 19:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/30/england-vs-dr-congo-world-cup-round-of-32-kane-match-prediction-lineups?traffic_source=rss" target="_blank">England vs DR Congo: World Cup Round of 32: Kane, match prediction, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-30 18:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -59,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests" target="_blank">‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-06-30 16:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/scotus-5-rt-gmh-260630_1782828688500_hpMain_4x3t_384.jpg" alt="Supreme Court rejects Trump&#x27;s attempt to end birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -74,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/6/30/heavy-rainfall-kills-dozens-in-ghana-ivory-coast?traffic_source=rss" target="_blank">Heavy rainfall kills dozens in Ghana, Ivory Coast</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-30 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/30/scotus-rules-against-trumps-order-limiting-birthright-citizenship?traffic_source=rss" target="_blank">SCOTUS rules against Trump’s order limiting birthright citizenship</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-30 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-4622951/samuel-alito-retires" target="_blank">Editor&#x27;s note: NPR retracts story</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-30 14:51</span>
             </div>
         </div>
 </div>
@@ -162,9 +163,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vilan011/building-an-openshift-418-cluster-from-scratch-part-1-the-network-foundation-utilities-server-5g92" target="_blank">Building an OpenShift 4.18 Cluster from Scratch: Part 1 – The Network Foundation &amp; Utilities Server</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-30 19:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/timevolt/the-terraform-awakens-infrastructure-as-code-quest-1mgb" target="_blank">The Terraform Awakens: Infrastructure as Code Quest</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-30 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-Stratis-Storage" target="_blank">Fedora 45 Looks To Finally Offer Install Support For Stratis Storage</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-30 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/hueyemma769/how-to-implement-rbac-in-go-584e" target="_blank">How to implement RBAC in Go</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-30 17:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!JLz_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17f00be6-8fd8-474c-9e1f-9dab109ef86f_2048x1536.jpeg" alt="Impressions from visiting OpenAI, Anthropic, &amp; Cursor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai" target="_blank">Impressions from visiting OpenAI, Anthropic, &amp; Cursor</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-06-30 17:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/ai-text-to-speech.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s ‘Myna’ project lets you talk instead of type – what is it?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/06/what-is-myna-ubuntu-ai-dictation" target="_blank">Ubuntu’s ‘Myna’ project lets you talk instead of type – what is it?</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-06-30 16:27</span>
             </div>
         </div>
 </div>
@@ -291,6 +292,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/wild-card/" target="_blank">Wild Card</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-06-30 18:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1782692356-20260630.png" alt="Saturday Morning Breakfast Cereal - Uncanny" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -313,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 233 |
-        🔄 Last Updated: 18:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 230 |
+        🔄 Last Updated: 19:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
