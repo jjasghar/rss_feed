@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 00:26:08 UTC -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-06-30 01:37:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 00:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, June 30, 2026 - 01:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,6 +162,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vdalal/is-your-mcp-server-safe-one-line-in-mcpjson-and-your-agent-recovers-from-its-own-drop-table-3k13" target="_blank">Is your MCP server safe? One line in mcp.json, and your agent recovers from its own DROP TABLE</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-30 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nasrulhazim/resolve-the-tenant-from-the-user-not-the-request-4n02" target="_blank">Resolve the tenant from the user, not the request</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-30 00:04</span>
@@ -210,15 +212,6 @@
                 <span class="time">2026-06-29 21:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arunabh_priyadarshi_bfb98/single-table-dynamodb-design-for-a-real-time-game-rooms-rounds-leaderboards-1j4l" target="_blank">Single-table DynamoDB design for a real-time game (rooms, rounds, leaderboards)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-29 20:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_2404616901-scaled.jpg?fit=2560%2C1751&amp;quality=60&amp;ssl=1" alt="Now space has been corrupted by capitalism, there&#x27;s only one place left to escape to: Null Island" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/29/now-space-has-been-corrupted-by-capitalism-theres-only-one-place-left-to-escape-to-null-island.html" target="_blank">Now space has been corrupted by capitalism, there&#x27;s only one place left to escape to: Null Island</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-29 23:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/B2ZRIYTXJREMTBEAJ2UT6WBDPU.jpeg?fit=1280%2C721&amp;quality=60&amp;ssl=1" alt="Killer dies of heart attack while disposing of victim&#x27;s body" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +294,6 @@
                 <span class="time">2026-06-29 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Tekken-8-Roger-Jr-DLC-trailer-Bandai-Namco-1280x722.jpg" alt="Tekken 8′s Roger Jr DLC Trailer References Infamous Kangaroo Punching Tekken 7 Meme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tekken-8s-roger-jr-dlc-trailer-references-the-same-kangaroo-punching-meme-that-led-to-him-being-cut-from-tekken-7-2000711390" target="_blank">Tekken 8′s Roger Jr DLC Trailer References Infamous Kangaroo Punching Tekken 7 Meme</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-29 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -342,22 +335,13 @@
                 <span class="time">2026-06-29 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5861.png" alt="What She&#x27;s Up To" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5861" target="_blank">What She&#x27;s Up To</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-06-29 01:15</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 00:26 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 01:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
