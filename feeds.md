@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 11:54:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-06-30 12:34:40 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 11:54 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, June 30, 2026 - 12:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/30/islamic-centre-brings-joy-through-world-cup-watch-parties?traffic_source=rss" target="_blank">Islamic centre brings joy through World Cup watch parties</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-30 12:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f08b/live/bf9f3500-744a-11f1-8546-8f19e4fe30f4.jpg" alt="Government promises to act after &#x27;shocking&#x27; failings in maternity care in England" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&at_campaign=rss" target="_blank">Government promises to act after &#x27;shocking&#x27; failings in maternity care in England</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-30 12:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,30 +89,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-5873958/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-30 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/30/peru-elects-keiko-fujimori-in-victory-for-latin-american-right?traffic_source=rss" target="_blank">Peru elects Keiko Fujimori in victory for Latin American right</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-30 06:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/venezuela_1782783255109_hpMain_4x3t_384.jpeg" alt="Hotel with over 100 recently deported Venezuelans collapsed in deadly earthquakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/US/scotus-2-rt-gmh-260611_1781182240286_hpMain_4x3t_384.jpg" alt="What to know about birthright citizenship ahead of Supreme Court&#x27;s ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/hotel-100-venezuelans-recently-deported-us-collapsed-deadly/story?id=134327448" target="_blank">Hotel with over 100 recently deported Venezuelans collapsed in deadly earthquakes</a></span>
+                <span class="title"><a href="https://abcnews.com/Politics/faq-birthright-citizenship-ahead-supreme-courts-ruling/story?id=134215675" target="_blank">What to know about birthright citizenship ahead of Supreme Court&#x27;s ruling</a></span>
                 <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-30 03:58</span>
+                <span class="time">2026-06-30 09:05</span>
             </div>
         </div>
 </div>
@@ -103,6 +102,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a430e5c1a7682b9dd9cacbc/master/pass/The-2-Best-Slushie-Machines-for-Parties,-Margs,-and-Soft-Serve-Ice-Cream.jpg" alt="The 2 Best Slushie Machines of 2026: Now With Soft Serve" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-slushie-machines/" target="_blank">The 2 Best Slushie Machines of 2026: Now With Soft Serve</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-30 11:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +156,20 @@
                 <span class="time">2026-06-29 21:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-500x500.png" alt="South Korea to spend $1T on more memory chip production and humanoid robots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/" target="_blank">South Korea to spend $1T on more memory chip production and humanoid robots</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-29 21:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/notalex1001/agent-vs-robots-whats-the-difference-474c" target="_blank">Agent vs Robots: What&#x27;s the Difference?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-30 12:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +215,6 @@
                 <span class="time">2026-06-30 08:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/06/30/why-intent-prediction-needs-more-than-an-llm/" target="_blank">Why intent prediction needs more than an LLM​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌​﻿​​‌‍‌‍​﻿‌​​﻿‌‌​﻿​​​﻿‍‌‌‍​﻿​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‌​﻿‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​‌​﻿​‌​‍﻿‌​﻿‍​‌‍​‌‌‍‌​‌‍​﻿​‍﻿‌​﻿‌‌​﻿‌‌​﻿‌‌​﻿‌‍‌‍‌‌​﻿‍​​﻿​‍​﻿​‌‌‍‌‌‌‍​‌​﻿‌﻿​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌​﻿​​‌‍‌‍​﻿‌​​﻿‌‌​﻿​​​﻿‍‌‌‍​﻿​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‌​﻿‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​‌​﻿​‌​‍﻿‌​﻿‍​‌‍​‌‌‍‌​‌‍​﻿​‍﻿‌​﻿‌‌​﻿‌‌​﻿‌‌​﻿‌‍‌‍‌‌​﻿‍​​﻿​‍​﻿​‌‌‍‌‌‌‍​‌​﻿‌﻿​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-06-30 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPR1F85S1D35VMFQNY926W1W/hero-image.png" alt="This Floatable Anker Speaker Is Now $40 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-boom-2-speaker-sale-june-2026?utm_medium=RSS" target="_blank">This Floatable Anker Speaker Is Now $40 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-30 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Persona-3-Portable-official-artwork-Atlus-1280x853.jpg" alt="Persona 3 Dual Meme Becomes A Reality Following Release Of Unofficial Nintendo DS Demake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/persona-3-dual-meme-becomes-a-reality-following-release-of-unofficial-nintendo-ds-demake-2000711591" target="_blank">Persona 3 Dual Meme Becomes A Reality Following Release Of Unofficial Nintendo DS Demake</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-30 12:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/the-last-museum-search-across-5-8-million-museum-artworks-v0-pskAMjOTcZm98Zn7OdwZMVHQDknStznLDXUDvcouIzQ.webp?fit=1080%2C739&amp;quality=55&amp;ssl=1" alt="Browse 5.8 million works of art at the Last Museum" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/29/murderer-dies-of-heart-attack-while-disposing-of-victims-body.html" target="_blank">Killer dies of heart attack while disposing of victim&#x27;s body</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-29 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/94ae0b526db97620b82a3b7227812ca5-1280x720.jpg" alt="Netflix Reportedly Making Live-Action Persona Series Nobody Asked For With Deadpool Director And Star Trek Picard Writer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/netflix-reportedly-making-live-action-persona-series-nobody-asked-for-with-deadpool-director-and-star-trek-picard-writer-2000711527" target="_blank">Netflix Reportedly Making Live-Action Persona Series Nobody Asked For With Deadpool Director And Star Trek Picard Writer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-29 22:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/reddit-judge-1280x720.jpg" alt="TikToker Tries To Reveal Hater’s Identity, Judge Says Nah, Dude" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tiktoker-tries-to-reveal-haters-identity-judge-says-nah-dude-2000711485" target="_blank">TikToker Tries To Reveal Hater’s Identity, Judge Says Nah, Dude</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-29 20:40</span>
             </div>
         </div>
 </div>
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 39 | 📸 With Images: 233 |
-        🔄 Last Updated: 11:54 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 12:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
