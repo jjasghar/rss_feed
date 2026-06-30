@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 01:37:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-30 03:00:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 01:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, June 30, 2026 - 03:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/30/mourners-light-candles-after-deadly-german-shelter-shooting?traffic_source=rss" target="_blank">Mourners light candles after deadly German shelter shooting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-06-30 02:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +101,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss" target="_blank">Long-delayed defence spending plan to be published on Tuesday</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-06-29 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss" target="_blank">Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-29 21:01</span>
             </div>
         </div>
 </div>
@@ -241,6 +250,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/antarctica.png?fit=640%2C427&amp;quality=55&amp;ssl=1" alt="Flagdoku tests your knowledge of flags" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/29/flagdoku-tests-your-knowledge-of-flags.html" target="_blank">Flagdoku tests your knowledge of flags</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-30 02:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_2404616901-scaled.jpg?fit=2560%2C1751&amp;quality=60&amp;ssl=1" alt="Now space has been corrupted by capitalism, there&#x27;s only one place left to escape to: Null Island" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -283,15 +301,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/update-your-iphone-now-to-patch-these-security-flaws?utm_medium=RSS" target="_blank">Update Your iPhone Now to Patch These 29 Security Flaws</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-29 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/image-10.jpg" alt="Large Man Blows In Cartridge, Sticks It In An NES, And Smashes Another Man’s Face With It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/aew-wrestling-nintendo-entertainment-system-forbidden-door-2000711483" target="_blank">Large Man Blows In Cartridge, Sticks It In An NES, And Smashes Another Man’s Face With It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-29 20:15</span>
             </div>
         </div>
 </div>
@@ -340,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 01:37 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 235 |
+        🔄 Last Updated: 03:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
