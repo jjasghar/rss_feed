@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 03:00:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-30 05:18:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 03:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, June 30, 2026 - 05:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8b/live/a59aec20-742d-11f1-8e1d-bbbb1017d210.jpg" alt="Angry Venezuelans accuse government of negligence and apathy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss" target="_blank">Angry Venezuelans accuse government of negligence and apathy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-30 03:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-monaco-explosion_7286198.jpg?20260630041313" alt="Makeshift bomb explodes in Monaco, with three seriously hurt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/monaco-three-seriously-hurt-as-makeshift-bomb-explodes-outside-residential-building-13559079" target="_blank">Makeshift bomb explodes in Monaco, with three seriously hurt</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-06-30 03:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/30/mourners-light-candles-after-deadly-german-shelter-shooting?traffic_source=rss" target="_blank">Mourners light candles after deadly German shelter shooting</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-06-30 02:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction" target="_blank">Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-30 01:43</span>
             </div>
         </div>
 <div class="story">
@@ -74,33 +99,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/yawn-trump-downplays-bipartisan-landmark-housing-bill/story?id=134323115" target="_blank">&#x27;It&#x27;s a yawn&#x27;: Trump downplays  bipartisan landmark housing bill</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-29 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/29/australian-football-legend-sam-kerr-signs-with-gotham-fc-after-chelsea-exit?traffic_source=rss" target="_blank">Australian football legend Sam Kerr signs with Gotham FC after Chelsea exit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-29 22:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/6/29/sinner-and-sabalenka-answer-doubters-on-wimbledon-day-one?traffic_source=rss" target="_blank">Sinner and Sabalenka answer doubters on Wimbledon Day one</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-29 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e963/live/252a69a0-73fe-11f1-958a-899f98f625e2.jpg" alt="Long-delayed defence spending plan to be published on Tuesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss" target="_blank">Long-delayed defence spending plan to be published on Tuesday</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-29 21:30</span>
             </div>
         </div>
 </div>
@@ -171,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alice_31281c3fed5d0305db5/how-a-long-running-ai-agent-survives-being-interrupted-every-few-minutes-1j37" target="_blank">How a long-running AI agent survives being interrupted every few minutes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-30 05:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vdalal/is-your-mcp-server-safe-one-line-in-mcpjson-and-your-agent-recovers-from-its-own-drop-table-3k13" target="_blank">Is your MCP server safe? One line in mcp.json, and your agent recovers from its own DROP TABLE</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-30 01:25</span>
@@ -210,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/ndcodes/100-days-of-devops-day-4-permissions-that-actually-matter-and-why-s3-versioning-shouldnt-be-2b7k" target="_blank">100 Days of DevOps, Day 4: Permissions That Actually Matter and Why S3 Versioning Shouldn&#x27;t Be Optional</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-29 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.12-Released" target="_blank">Wine 11.12 Released With Wayland Fractional Scaling &amp; Other Wayland Enhancements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-29 21:05</span>
             </div>
         </div>
 </div>
@@ -335,22 +333,13 @@
                 <span class="time">2026-06-29 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/asteroid_threat.png" alt="Asteroid Threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3265/" target="_blank">Asteroid Threat</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-06-29 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 03:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 235 |
+        🔄 Last Updated: 05:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
