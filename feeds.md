@@ -1,41 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 20:34:12 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-06-30 21:28:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 20:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, June 30, 2026 - 21:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks" target="_blank">Meta considered buying Kalshi before developing its own prediction market app</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-06-30 20:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cedb/live/3a35ce80-7470-11f1-b8da-6d87dfdc4508.jpg" alt="Starmer trims budgets to fund extra £15bn for defence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,20 +94,38 @@
                 <span class="time">2026-06-30 18:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-5876093/heat-wave-fourth-midwest-east-coast" target="_blank">It&#x27;s going to be a hot July Fourth for much of the country</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-30 17:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine" target="_blank">Amazon fined $2.25 million for failing to help identity theft victims</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-06-30 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/MGViZTU1YTIt._CB799536100_-500x500.jpg" alt="Amazon blames piracy apps with malware for killing new Fire Stick sideloading" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/" target="_blank">Amazon blames piracy apps with malware for killing new Fire Stick sideloading</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-30 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/" target="_blank">The DeepMind trio who built a poker AI are now making money for quant hedge funds</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-30 20:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,33 +151,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/" target="_blank">Threads adds new features to Live Chats as it expands access</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-30 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/" target="_blank">Blue Origin still doesn’t know why its New Glenn rocket blew up last month</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-30 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/959264/bose-soundlink-max-wd-black-deal-sale" target="_blank">The Bose Soundlink Max is $120 off ahead of the July 4th weekend</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-30 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2208838235-500x500.jpg" alt="The US going 100% EV by 2040 would save more than 100k lives, study says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/06/the-us-going-100-ev-by-2040-would-save-more-than-100k-lives-study-says/" target="_blank">The US going 100% EV by 2040 would save more than 100k lives, study says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-30 16:03</span>
             </div>
         </div>
 </div>
@@ -243,11 +232,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/braind.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A single drug injection reversed autism-like behavior in mice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/30/a-single-drug-injection-reversed-autism-like-behavior-in-mice-and-the-brain-change-wasnt-permanent.html" target="_blank">A single drug injection reversed autism-like behavior in mice</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-06-30 20:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/steammachine-1280x720.jpg" alt="In A Land Of Boring Consoles, The Steam Machine Is Fun And Quirky" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/in-a-land-of-boring-consoles-the-steam-machine-is-fun-and-quirky-2000711813" target="_blank">In A Land Of Boring Consoles, The Steam Machine Is Fun And Quirky</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2026-06-30 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWCMY2CSQ0BXDEJNNPD2FQFM/hero-image.jpg" alt="10 Hacks Every Discord User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-discord-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Discord User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-06-30 20:30</span>
             </div>
         </div>
@@ -276,24 +283,6 @@
                 <span class="title"><a href="https://kotaku.com/xbox-unions-layoffs-help-2000711624" target="_blank">Xbox Unions In The Dark Despite Negotiating Layoff Protections For Months: ‘We Understand That Businesses Have To Business, But The Uncertainty Is Maddening’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-06-30 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/cameras-e1782837397179.jpg?fit=768%2C435&amp;quality=60&amp;ssl=1" alt="TED-stage futurist/longevity salesman says mass surveillance will make us behave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/30/ted-stage-futurist-longevity-salesman-says-mass-surveillance-will-make-us-behave.html" target="_blank">TED-stage futurist/longevity salesman says mass surveillance will make us behave</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-30 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/neilseal.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Tasmania&#x27;s favorite 1,000-kilo chaos seal is back on land" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/30/tasmanias-favorite-1000-kilo-chaos-seal-is-back-on-land.html" target="_blank">Tasmania&#x27;s favorite 1,000-kilo chaos seal is back on land</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-30 15:36</span>
             </div>
         </div>
 </div>
@@ -333,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 233 |
-        🔄 Last Updated: 20:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 235 |
+        🔄 Last Updated: 21:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
