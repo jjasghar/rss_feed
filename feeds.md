@@ -1,33 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 12:34:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-30 13:32:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 12:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, June 30, 2026 - 13:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -62,6 +56,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782818736101_tdy_news_7a_jarrett_trump_scotus_260630_S3_1920x1080-ztulni.jpg" alt="Supreme Court Deals Trump Major Losses and 1 Historic Win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/supreme-court-deals-trump-major-losses-and-1-historic-win-265944645794" target="_blank">Supreme Court Deals Trump Major Losses and 1 Historic Win</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-30 11:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -88,20 +91,20 @@
                 <span class="time">2026-06-30 09:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/scotus-2-rt-gmh-260611_1781182240286_hpMain_4x3t_384.jpg" alt="What to know about birthright citizenship ahead of Supreme Court&#x27;s ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/faq-birthright-citizenship-ahead-supreme-courts-ruling/story?id=134215675" target="_blank">What to know about birthright citizenship ahead of Supreme Court&#x27;s ruling</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-30 09:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1-500x500.png" alt="Ars Live, today: The latest on the aftermath of the New Glenn catastrophe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/" target="_blank">Ars Live, today: The latest on the aftermath of the New Glenn catastrophe</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-30 13:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a430e5c1a7682b9dd9cacbc/master/pass/The-2-Best-Slushie-Machines-for-Parties,-Margs,-and-Soft-Serve-Ice-Cream.jpg" alt="The 2 Best Slushie Machines of 2026: Now With Soft Serve" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +150,6 @@
                 <span class="time">2026-06-29 22:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a429931b8212c2a1f822da2/master/pass/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg" alt="Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/" target="_blank">Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-29 21:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +162,15 @@
                 <span class="title"><a href="https://dev.to/notalex1001/agent-vs-robots-whats-the-difference-474c" target="_blank">Agent vs Robots: What&#x27;s the Difference?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-30 12:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-becomes-gold-sponsor-of-trifecta-tech-foundation" target="_blank">Canonical becomes Gold Sponsor of Trifecta Tech Foundation</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-06-30 12:04</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +207,6 @@
                 <span class="title"><a href="https://www.infoq.com/articles/tradeoffs-event-driven-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Scaling Java-Based Real-Time Systems: The Hidden Tradeoffs of Event-Driven Design</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-06-30 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17370191/linux-foundation-agent-name-service-announcement" target="_blank">AI Agents Could Get Verified Identities, Courtesy of DNS</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-06-30 08:58</span>
             </div>
         </div>
 </div>
@@ -325,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 12:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 13:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
