@@ -1,27 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 13:32:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-06-30 14:48:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Generated 12 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 13:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, June 30, 2026 - 14:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +53,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Supreme Court rejects Trump’s attempt to end birthright citizenship: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Supreme Court rejects Trump’s attempt to end birthright citizenship: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-30 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3737/live/24fbc0a0-748f-11f1-8546-8f19e4fe30f4.jpg" alt="Supreme Court&#x27;s birthright ruling is major blow to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss" target="_blank">Supreme Court&#x27;s birthright ruling is major blow to Trump</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-30 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260406-birthright-citizenship-protest-supreme-court-gk-590fa5.jpg" alt="Supreme Court rejects Trump’s attempt to limit birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-nixes-trump-attempt-limit-birthright-citizenship-rcna266935" target="_blank">Supreme Court rejects Trump’s attempt to limit birthright citizenship</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-30 14:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f08b/live/bf9f3500-744a-11f1-8546-8f19e4fe30f4.jpg" alt="Government promises to act on maternity care failings which &#x27;shame our society&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&at_campaign=rss" target="_blank">Government promises to act on maternity care failings which &#x27;shame our society&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-06-30 14:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -55,47 +107,29 @@
                 <span class="time">2026-06-30 12:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782818736101_tdy_news_7a_jarrett_trump_scotus_260630_S3_1920x1080-ztulni.jpg" alt="Supreme Court Deals Trump Major Losses and 1 Historic Win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/supreme-court-deals-trump-major-losses-and-1-historic-win-265944645794" target="_blank">Supreme Court Deals Trump Major Losses and 1 Historic Win</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-30 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests" target="_blank">Police units deployed across South Africa before anti-immigration marches</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-06-30 10:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-5875206/trumps-cuts-science-researchers-move-abroad" target="_blank">After Trump&#x27;s re-election, these U.S. scientists found jobs in the U.K.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-30 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-epa-gmh-260629_1782766899995_hpMain_4x3t_384.jpg" alt="Uncertainty clouds next step in US-Iran negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/uncertainty-clouds-step-us-iran-negotiations/story?id=134325959" target="_blank">Uncertainty clouds next step in US-Iran negotiations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-30 09:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/" target="_blank">Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-06-30 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-ron-desantis-500x500.jpg" alt="Florida bans local governments from pursuing net-zero emissions goals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/" target="_blank">Florida bans local governments from pursuing net-zero emissions goals</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-30 13:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1-500x500.png" alt="Ars Live, today: The latest on the aftermath of the New Glenn catastrophe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,29 +166,38 @@
                 <span class="time">2026-06-30 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/" target="_blank">The AI jobs debate just got messier</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-30 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/russia-hacking-binary-500x500.jpg" alt="US offers $10 million for info on group behind Signal and WhatsApp hacking spree" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/" target="_blank">US offers $10 million for info on group behind Signal and WhatsApp hacking spree</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-29 22:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/flashship_ro/cum-iti-citeste-de-fapt-motorul-de-cautare-pagina-in-2026-si-de-ce-numarul-de-cuvinte-e-irelevant-abf" target="_blank">Cum îți citește de fapt motorul de căutare pagina în 2026 (și de ce numărul de cuvinte e irelevant)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-06-30 14:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.7.2-Released" target="_blank">KDE Plasma 6.7.2 Brings Fix For Most Common KWin Crash, Better Chromium Video Playback</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-06-30 14:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ai-development/en/mediumimage/SriramMadapusiVasudevan-medium-1782220895596.jpg" alt="Presentation: Trustworthy Productivity: Securing AI-Accelerated Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Trustworthy Productivity: Securing AI-Accelerated Development</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-06-30 14:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,33 +225,6 @@
                 <span class="time">2026-06-30 10:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Kills-AMX-TF32" target="_blank">Intel Kills Off AMX-TF32 Support Before It Even Shipped In Diamond Rapids</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-30 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/06/aws-lambda-microvms/en/headerimage/generatedHeaderImage-1782380968528.jpg" alt="AWS Launches Lambda MicroVMs for Isolated Agent and User Code Execution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/06/aws-lambda-microvms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Lambda MicroVMs for Isolated Agent and User Code Execution</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-30 09:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/tradeoffs-event-driven-design/en/headerimage/tradeoffs-event-driven-design-header-1782458803116.jpg" alt="Article: Scaling Java-Based Real-Time Systems: The Hidden Tradeoffs of Event-Driven Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/tradeoffs-event-driven-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Scaling Java-Based Real-Time Systems: The Hidden Tradeoffs of Event-Driven Design</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-06-30 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/marathon-5-1280x715.jpg" alt="Marathon Fan Goes Viral For Getting To Level 45 Without Having Any Idea How The Game Actually Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-fan-goes-viral-for-getting-to-level-45-without-having-any-idea-how-the-game-actually-works-2000711622" target="_blank">Marathon Fan Goes Viral For Getting To Level 45 Without Having Any Idea How The Game Actually Works</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-30 14:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KW2WHANE2QECR900Q7HWFCB6/hero-image.jpg" alt="The Out of Touch Adults&#x27; Guide to Kid Culture: What Does &#x27;TLPUR&#x27; Mean?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-does-tlpur-mean-current-trends-explained?utm_medium=RSS" target="_blank">The Out of Touch Adults&#x27; Guide to Kid Culture: What Does &#x27;TLPUR&#x27; Mean?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-06-30 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KPR1F85S1D35VMFQNY926W1W/hero-image.png" alt="This Floatable Anker Speaker Is Now $40 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,24 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/29/flagdoku-tests-your-knowledge-of-flags.html" target="_blank">Flagdoku tests your knowledge of flags</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-30 02:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_2404616901-scaled.jpg?fit=2560%2C1751&amp;quality=60&amp;ssl=1" alt="Now space has been corrupted by capitalism, there&#x27;s only one place left to escape to: Null Island" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/29/now-space-has-been-corrupted-by-capitalism-theres-only-one-place-left-to-escape-to-null-island.html" target="_blank">Now space has been corrupted by capitalism, there&#x27;s only one place left to escape to: Null Island</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-29 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/B2ZRIYTXJREMTBEAJ2UT6WBDPU.jpeg?fit=1280%2C721&amp;quality=60&amp;ssl=1" alt="Killer dies of heart attack while disposing of victim&#x27;s body" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/29/murderer-dies-of-heart-attack-while-disposing-of-victims-body.html" target="_blank">Killer dies of heart attack while disposing of victim&#x27;s body</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-29 22:19</span>
             </div>
         </div>
 </div>
@@ -319,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 13:32 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 14:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
