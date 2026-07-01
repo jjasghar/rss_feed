@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 21:29:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-01 22:25:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 21:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 22:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,9 +165,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/scrapemint/search-every-sec-filing-by-keyword-with-the-keyless-edgar-full-text-api-1j22" target="_blank">Search Every SEC Filing by Keyword With the Keyless EDGAR Full Text API</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-01 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://zcode.z.ai/en" target="_blank">ZCode – Harness for GLM-5.2</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-01 22:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alexdegerman/how-i-built-a-real-time-multiplayer-prediction-game-with-nextjs-node-and-bigint-suffix-scaling-2pa3" target="_blank">How I Built a Real-Time Multiplayer Prediction Game with Next.js, Node, and BigInt Suffix Scaling</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-01 21:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Linux-June-2026" target="_blank">KDE Linux Introduces &quot;Developer Mode&quot; Option, Easier Log Collection</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-01 21:06</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/System76-Lemur-Pro-Panther-Lake" target="_blank">System76 Launches New Lemur Pro Laptop Powered By Intel Panther Lake</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-01 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tokuji_30/blackbull-goes-multi-protocol-part-3-one-apppy-two-protocols-3gep" target="_blank">BlackBull goes multi-protocol (part 3) — one `app.py`, two protocols</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-01 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software" target="_blank">How Kent Beck shapes the software engineering industry</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-07-01 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thomasbnt/acronyms-and-jargon-in-development-and-open-source-45m9" target="_blank">Acronyms and Jargon in Development and Open Source</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-01 16:35</span>
             </div>
         </div>
 </div>
@@ -240,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWA0YBH0P5R6Y97W1RSQK8TK/hero-image.jpg" alt="10 Hacks Every Apple Home User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-hacks-every-apple-home-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple Home User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-01 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/pokemon-james-money.jpg" alt="GameStop Is Inflating Pokémon’s 30th Anniversary Card Prices By Insane Amounts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/01/the-village-people-wrote-a-disco-anthem-grandpa-pudding-brains-found-a-mirror.html" target="_blank">The Village People wrote a disco anthem. Grandpa Pudding Brains found a mirror</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-01 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWF3KZ2QZ1N3QDPG42VRKFJ5/hero-image.png" alt="Gemini Spark Is Now Available on Mac, but Is It Worth the Risk?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/gemini-spark-macos?utm_medium=RSS" target="_blank">Gemini Spark Is Now Available on Mac, but Is It Worth the Risk?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-01 16:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 21:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 234 |
+        🔄 Last Updated: 22:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
