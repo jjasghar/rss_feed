@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 15:50:23 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-01 16:44:43 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 15:50 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 16:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Climbers unfurl banner atop Empire State Building: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Climbers unfurl banner atop Empire State Building: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-01 16:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +100,20 @@
                 <span class="time">2026-07-01 12:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/01/g-s1-131327/up-first-newsletter-supreme-court-birthright-citizenship-colorado-primaries-world-cup-heat-american-pride" target="_blank">SCOTUS upholds birthright citizenship. And, key results from Colorado&#x27;s primaries</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-01 11:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4507fbc62f6b3817907e8f/master/pass/GettyImages-2283952380.jpg" alt="Penalty Shootouts: Is the Team That Kicks First More Likely to Win?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/penalty-shootouts-is-the-team-that-kicks-first-more-likely-to-win/" target="_blank">Penalty Shootouts: Is the Team That Kicks First More Likely to Win?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-01 16:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,15 +159,6 @@
                 <span class="time">2026-07-01 11:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4422d26c66c0772f06a930/master/pass/venezuela%20espacio%20terremoto.jpg" alt="Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/" target="_blank">Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-01 08:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,9 +168,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thomasbnt/acronyms-and-jargon-in-development-and-open-source-45m9" target="_blank">Acronyms and Jargon in Development and Open Source</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-01 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dev48v/adaboost-from-scratch-how-a-pile-of-dumb-rules-becomes-a-smart-classifier-368i" target="_blank">AdaBoost from Scratch: How a Pile of Dumb Rules Becomes a Smart Classifier</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-01 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/" target="_blank">For first time, a cell built from scratch grows and divides</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-01 14:20</span>
             </div>
         </div>
 <div class="story">
@@ -205,24 +218,6 @@
                 <span class="time">2026-07-01 14:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/opg9680/you-have-violated-the-rules-of-our-community-2b19" target="_blank">You have violated the rules of our community</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-01 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Glibc-System-Tunables" target="_blank">Glibc Introduces /etc/tunables.conf For System-Wide Tunables</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-01 13:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +244,15 @@
                 <span class="title"><a href="https://kotaku.com/sonys-famous-e3-2013-press-conference-celebrating-disc-based-games-hits-different-now-2000711966" target="_blank">Sony’s Famous E3 2013 Press Conference Celebrating Disc-Based Games Hits Different Now</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-01 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2233190537.jpg?fit=1200%2C1195&amp;quality=60&amp;ssl=1" alt="Farmer gives away 125,000 pounds of nectarines rather than let Big Ag rot them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/01/farmer-gives-away-125000-pounds-of-nectarines-rather-than-let-big-ag-rot-them.html" target="_blank">Farmer gives away 125,000 pounds of nectarines rather than let Big Ag rot them</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-01 15:40</span>
             </div>
         </div>
 <div class="story">
@@ -285,15 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/the-best-sun-shirts-for-runners?utm_medium=RSS" target="_blank">Sun Shirts Are the Underrated Hero of Summer Exercise</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-01 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/PS-logo1-1280x720.jpg" alt="PlayStation Is Shutting Down The PS3 And Vita Stores Next Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-3-ps3-vita-store-shutdown-digital-sony-2000711929" target="_blank">PlayStation Is Shutting Down The PS3 And Vita Stores Next Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-01 12:27</span>
             </div>
         </div>
 </div>
@@ -333,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 232 |
-        🔄 Last Updated: 15:50 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 39 | 📸 With Images: 232 |
+        🔄 Last Updated: 16:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
