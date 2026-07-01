@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 05:28:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-01 07:22:26 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 05:28 UTC</div>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 07:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/01/g-s1-131309/serena-williams-wimbledon" target="_blank">Serena Williams &#x27;enjoyed the moment&#x27; despite 3-set loss at Wimbledon</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-01 07:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population" target="_blank">‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-01 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss" target="_blank">Democratic socialist Kiros defeats longtime incumbent in Colorado primary</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-01 05:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48cd/live/c47affb0-6e45-11f1-bb1f-fde176159761.png" alt="Superdry co-founder was my boss when he raped me" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&at_campaign=rss" target="_blank">Superdry co-founder was my boss when he raped me</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-01 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/01/nx-s1-5876418/2026-world-cup-fifa-usmnt-bosnia-herzegovina-round-of-32" target="_blank">Win or go home: The U.S. to face Bosnia and Herzegovina in World Cup knockout game</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-01 05:00</span>
@@ -60,42 +98,6 @@
                 <span class="time">2026-07-01 02:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/1/mbappe-deschamps-break-world-cup-records-in-sweden-thrashing?traffic_source=rss" target="_blank">Mbappe, Deschamps break World Cup records in Sweden thrashing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-01 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782860178018_nn_jarrett_scotus_260630_S3_1920x1080-hl76q4.jpg" alt="Supreme Court rejects Trump’s push to end birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/supreme-court-rejects-trump-s-push-to-end-birthright-citizenship-265983557529" target="_blank">Supreme Court rejects Trump’s push to end birthright citizenship</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-06-30 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-260630_1782823611385_hpMain_4x3t_384.jpg" alt="Trump made $1 billion from crypto, financial disclosure shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-made-1-billion-crypto-financial-disclosure-shows/story?id=134358357" target="_blank">Trump made $1 billion from crypto, financial disclosure shows</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-30 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/6/30/whatsapp-privacy?traffic_source=rss" target="_blank">“WhatsApp Privacy Changes”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-30 22:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,6 +110,15 @@
                 <span class="title"><a href="https://www.wired.com/story/ulta-coupon/" target="_blank">Ulta Promo Codes: Up to 50% Off in July 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-01 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/" target="_blank">The ‘Father of the Internet’ is finally retiring</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-01 03:15</span>
             </div>
         </div>
 <div class="story">
@@ -144,15 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/" target="_blank">The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-06-30 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/" target="_blank">Startup Battlefield Australia application closes in days: Apply before July 6</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-30 23:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 05:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 234 |
+        🔄 Last Updated: 07:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
