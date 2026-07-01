@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 17:33:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-01 18:34:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 17:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 18:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/1/kane-double-fires-england-to-comeback-win-over-dr-congo-at-world-cup-2026?traffic_source=rss" target="_blank">Kane double fires England to comeback win over DR Congo at World Cup 2026</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-01 18:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/263/971/46892757316-1080pnbcstations.jpg" alt="¿It´s Coming Home? Inglaterra y sus aficionados quieren traer la Copa Mundial de regreso a casa" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/it-s-coming-home-inglaterra-y-sus-aficionados-quieren-traer-la-copa-mundial-de-regreso-a-casa-tmvo13199477" target="_blank">¿It´s Coming Home? Inglaterra y sus aficionados quieren traer la Copa Mundial de regreso a casa</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-01 18:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,39 +88,21 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/1/is-ukraines-campaign-of-targeting-russian-refineries-working?traffic_source=rss" target="_blank">Is Ukraine’s campaign of targeting Russian refineries working?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-01 15:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb09/live/375931d0-7528-11f1-8e1d-bbbb1017d210.jpg" alt="Badenoch accuses Starmer of leaving defence spending &#x27;mess&#x27; for Burnham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&at_campaign=rss" target="_blank">Badenoch accuses Starmer of leaving defence spending &#x27;mess&#x27; for Burnham</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-01 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/1/how-war-on-iran-changed-the-global-energy-sector-forever?traffic_source=rss" target="_blank">How war on Iran changed the global energy sector forever</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-01 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/PeteButtigieg-abc-gmh-260701_1782912707650_hpMain_4x3t_384.jpg" alt="&#x27;We just can&#x27;t go on like this&#x27;: Pete Buttigieg speaks out after swatting incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/US/donald-trump-10-rt-gmh-260701_1782910643054_hpMain_4x3t_384.jpg" alt="Trump takes 1st flight on Air Force One gifted by Qatar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/pete-buttigieg-speaks-after-targeted-child-services-swatting-call/story?id=134358132" target="_blank">&#x27;We just can&#x27;t go on like this&#x27;: Pete Buttigieg speaks out after swatting incident</a></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-takes-1st-flight-new-air-force-gifted/story?id=134373911" target="_blank">Trump takes 1st flight on Air Force One gifted by Qatar</a></span>
                 <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-01 13:41</span>
+                <span class="time">2026-07-01 16:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-ivory-coast-floods_7287426.jpg?20260701172313" alt="59 killed in floods and fears number of dead could rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/59-killed-in-ivory-coast-floods-amid-fears-number-of-dead-could-rise-13559592" target="_blank">59 killed in floods and fears number of dead could rise</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-01 16:05</span>
             </div>
         </div>
 </div>
@@ -107,6 +110,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/" target="_blank">Neocloud Together AI raises $800M, leaps to $8.3B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-01 18:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a4507fbc62f6b3817907e8f/master/pass/GettyImages-2283952380.jpg" alt="Penalty Shootouts: Is the Team That Kicks First More Likely to Win?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +162,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down" target="_blank">Sony is closing the PS3 and Vita digital stores</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-01 12:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d4403d94490f13c636bd21/master/pass/The-Best-Automatic-Litter-Boxes-Tested-by-Our-Spoiled-Cats.jpg" alt="The Best Automatic Litter Box of 2026: Petkit and Litter-Robot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-automatic-cat-litter-boxes/" target="_blank">The Best Automatic Litter Box of 2026: Petkit and Litter-Robot</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-01 11:38</span>
             </div>
         </div>
 </div>
@@ -240,6 +243,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/04/a14200a7dbf0cc944b5d6a79129b4fbf.jpg" alt="Yui-Gi-Oh Tournament Postponed Because Players Were Too Smelly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/yui-gi-oh-tournament-postponed-because-players-were-too-smelly-2000711992" target="_blank">Yui-Gi-Oh Tournament Postponed Because Players Were Too Smelly</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-01 18:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWFAYKC8FQ8QZCN32NC4GJ61/hero-image.png" alt="This Samsung &quot;The Frame&quot; TV Is $400 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsungs-the-frame-tv-deal-july-2026?utm_medium=RSS" target="_blank">This Samsung &quot;The Frame&quot; TV Is $400 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-01 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/bafkreidgzc5ahmujexnek4s65ijw4njw3s362lhby3uraegfg3npm56smu%40jpeg.jpeg?fit=607%2C341&amp;quality=60&amp;ssl=1" alt="The Village People wrote a disco anthem. Grandpa Pudding Brains found a mirror" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/01/the-village-people-wrote-a-disco-anthem-grandpa-pudding-brains-found-a-mirror.html" target="_blank">The Village People wrote a disco anthem. Grandpa Pudding Brains found a mirror</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-01 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KWF3KZ2QZ1N3QDPG42VRKFJ5/hero-image.png" alt="Gemini Spark Is Now Available on Mac, but Is It Worth the Risk?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -264,33 +294,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/01/farmer-gives-away-125000-pounds-of-nectarines-rather-than-let-big-ag-rot-them.html" target="_blank">Farmer gives away 125,000 pounds of nectarines rather than let Big Ag rot them</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-01 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/fireworks-1-e1751479203207.jpeg?fit=768%2C531&amp;quality=60&amp;ssl=1" alt="This poop dog firework puts a funny twist on the classic black snake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/01/this-poop-dog-firework-puts-a-funny-twist-on-the-classic-black-snake.html" target="_blank">This poop dog firework puts a funny twist on the classic black snake</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-01 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWEAY04WSP237JJ6WXEBG18S/hero-image.png" alt="This Google Indoor Nest Camera Is 35% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-wired-nest-cam-sale-july-2026?utm_medium=RSS" target="_blank">This Google Indoor Nest Camera Is 35% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-01 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/image-26-1280x703.jpg" alt="The Internet Reacts To PlayStation Killing Off Game Discs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-5-ps5-physical-media-discs-sony-ps6-2000711940" target="_blank">The Internet Reacts To PlayStation Killing Off Game Discs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-01 13:01</span>
             </div>
         </div>
 </div>
@@ -339,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 231 |
-        🔄 Last Updated: 17:34 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 18:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
