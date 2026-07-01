@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 03:01:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-01 05:28:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 03:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 05:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/01/nx-s1-5876418/2026-world-cup-fifa-usmnt-bosnia-herzegovina-round-of-32" target="_blank">Win or go home: The U.S. to face Bosnia and Herzegovina in World Cup knockout game</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-01 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4736/live/00072a20-74dd-11f1-816e-6b18feb3817d.jpg" alt="Trump made more than $1bn from crypto in first year back in office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +96,29 @@
                 <span class="time">2026-06-30 22:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-3-epa-gmh-260629_1782766900469_hpMain_4x3t_384.jpg" alt="Trump pushes legislation to end birthright citizenship after SCOTUS decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-bad-scotus-upheld-birthright-citizenship-pushes-legislation/story?id=134349017" target="_blank">Trump pushes legislation to end birthright citizenship after SCOTUS decision</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-06-30 21:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Ulta Promo Codes: Up to 50% Off in July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ulta-coupon/" target="_blank">Ulta Promo Codes: Up to 50% Off in July 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-01 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/" target="_blank">The “Father of the Internet” is finally retiring</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-01 03:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/" target="_blank">Startup Battlefield Australia application closes in days: Apply before July 6</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-06-30 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy" target="_blank">Dish files for bankruptcy, but not shutting down</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-30 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/ballistaspider-500x500.jpg" alt="June research roundup: 6 cool science stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/" target="_blank">June research roundup: 6 cool science stories we almost missed</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-30 22:11</span>
             </div>
         </div>
 </div>
@@ -326,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 03:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 05:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
