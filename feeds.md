@@ -1,44 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 14:55:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-01 15:50:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 14:55 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 15:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/1/is-ukraines-campaign-of-targeting-russian-refineries-working?traffic_source=rss" target="_blank">Is Ukraine’s campaign of targeting Russian refineries working?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-01 15:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb09/live/375931d0-7528-11f1-8e1d-bbbb1017d210.jpg" alt="Badenoch accuses Starmer of leaving defence spending &#x27;mess&#x27; for Burnham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&at_campaign=rss" target="_blank">Badenoch accuses Starmer of leaving defence spending &#x27;mess&#x27; for Burnham</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-01 14:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,29 +105,20 @@
                 <span class="time">2026-07-01 11:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1782905084288_tdy_news_7a_jarrett_birthright_citizenship_260701_S3_1920x1080-w6113w.jpg" alt="Supreme Court Deals Major Blow to Trump on Birthright Citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-responds-to-supreme-court-s-birthright-citizenship-ruling-266004549980" target="_blank">Supreme Court Deals Major Blow to Trump on Birthright Citizenship</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-01 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf79/live/5f3d4680-752f-11f1-80a1-17435238a3d4.jpg" alt="Three die in Mexico City World Cup celebrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss" target="_blank">Three die in Mexico City World Cup celebrations</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-01 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming" target="_blank">Comcast’s split could make or break Peacock</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-01 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,20 +164,29 @@
                 <span class="time">2026-07-01 08:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Ulta Promo Codes: Up to 50% Off in July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ulta-coupon/" target="_blank">Ulta Promo Codes: Up to 50% Off in July 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-01 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev48v/adaboost-from-scratch-how-a-pile-of-dumb-rules-becomes-a-smart-classifier-368i" target="_blank">AdaBoost from Scratch: How a Pile of Dumb Rules Becomes a Smart Classifier</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-01 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/" target="_blank">For First Time, a Cell Built from Scratch Grows and Divides</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-01 14:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/kit-firefox-logo.webp?resize=406%2C232&amp;ssl=1" alt="Firefox is adding Vulkan video decoding for Nvidia GPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,24 +223,6 @@
                 <span class="time">2026-07-01 13:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html" target="_blank">Why I Stopped Arguing with People</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-01 13:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mailtester-ninja/the-state-of-email-in-2026-what-50000-domains-reveal-about-mx-spf-dmarc-441c" target="_blank">The State of Email in 2026: what 50,000 domains reveal about MX, SPF &amp; DMARC</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-01 12:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/jack-trenton-1280x719.jpg" alt="Sony’s Famous E3 2013 Press Conference Celebrating Disc-Based Games Hits Different Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sonys-famous-e3-2013-press-conference-celebrating-disc-based-games-hits-different-now-2000711966" target="_blank">Sony’s Famous E3 2013 Press Conference Celebrating Disc-Based Games Hits Different Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-01 15:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/fireworks-1-e1751479203207.jpeg?fit=768%2C531&amp;quality=60&amp;ssl=1" alt="This poop dog firework puts a funny twist on the classic black snake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +296,6 @@
                 <span class="time">2026-07-01 12:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/All-the-ice-gone_3B-75-meters-up.jpg?fit=1080%2C561&amp;quality=60&amp;ssl=1" alt="Floodmap shows the world without ice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/30/floodmap-shows-the-world-without-ice-and.html" target="_blank">Floodmap shows the world without ice</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-01 00:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,22 +328,13 @@
                 <span class="time">2026-06-30 18:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1782692356-20260630.png" alt="Saturday Morning Breakfast Cereal - Uncanny" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/uncanny-3" target="_blank">Saturday Morning Breakfast Cereal - Uncanny</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-06-30 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 234 |
-        🔄 Last Updated: 14:55 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 232 |
+        🔄 Last Updated: 15:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
