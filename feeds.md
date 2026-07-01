@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 01:42:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-01 03:01:13 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 01:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 03:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4736/live/00072a20-74dd-11f1-816e-6b18feb3817d.jpg" alt="Trump made more than $1bn from crypto in first year back in office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss" target="_blank">Trump made more than $1bn from crypto in first year back in office</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-01 02:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trump-bad-scotus-upheld-birthright-citizenship-pushes-legislation/story?id=134349017" target="_blank">Trump pushes legislation to end birthright citizenship after SCOTUS decision</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-06-30 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-5876238/the-biggest-news-from-the-final-day-of-this-supreme-court-term" target="_blank">What the Supreme Court did on the final day of its term</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-30 21:46</span>
             </div>
         </div>
 </div>
@@ -166,12 +163,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvob8hq7fsafn5kvk3sn.png" alt="The AI Cost-Modeling Handbook: I let Claude do the modeling, but never the arithmetic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/copyleftdev/the-ai-cost-modeling-handbook-i-let-claude-do-the-modeling-but-never-the-arithmetic-3h95" target="_blank">The AI Cost-Modeling Handbook: I let Claude do the modeling, but never the arithmetic</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-01 02:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gophernment/cchaak-chatbot-thrrmdaa-suu-ai-thiithamngaanaethneraaaid-eraaetimaairekhaaaipbaang-4ilg" target="_blank">จาก chatbot ธรรมดา สู่ AI ที่ทำงานแทนเราได้ — เราเติมอะไรเข้าไปบ้าง?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-01 01:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Q2-2026-Highlights" target="_blank">Performance Optimizations, NVIDIA Vera, Arc Pro B70 &amp; Other Linux Highlights From Q2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-01 00:24</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.2" target="_blank">COSMIC Epoch 1.2 Desktop Fixes Flickering Issues For Intel Graphics</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-06-30 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fmerian/the-state-of-startups-2026-key-takeaways-4io4" target="_blank">The State of Startups 2026: Key Takeaways</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-30 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GraalVM-Community-25.1.3" target="_blank">GraalVM CE 25.1.3 Gets Native Image &quot;Hello World&quot; Program Down To &lt;em&gt;Just&lt;/em&gt; 6.5MB</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-30 20:11</span>
             </div>
         </div>
 </div>
@@ -329,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 01:42 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 03:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
