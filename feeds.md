@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 09:02:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-01 11:01:13 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 09:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london" target="_blank">Greetings from London, where Banksy&#x27;s flag man is a warning cry</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-01 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/01/nx-s1-5876418/2026-world-cup-fifa-usmnt-bosnia-herzegovina-round-of-32" target="_blank">Win or go home: The U.S. to face Bosnia and Herzegovina in World Cup knockout game</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-01 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4736/live/00072a20-74dd-11f1-816e-6b18feb3817d.jpg" alt="Trump made more than $1bn from crypto in first year back in office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss" target="_blank">Trump made more than $1bn from crypto in first year back in office</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-01 02:59</span>
             </div>
         </div>
 </div>
@@ -163,6 +166,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rv_688a20c2e1fe40b6498568/the-step-by-step-process-of-penetration-testing-a-defensive-guide-5f8f" target="_blank">The Step-by-Step Process of Penetration Testing: A Defensive Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-01 10:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://asahilinux.org/2026/06/progress-report-7-1/" target="_blank">Asahi Linux 7.1 Progress Report</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-01 10:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/marketing_wizr_f14586ace9/we-let-ai-write-a-third-of-our-code-heres-the-review-process-that-kept-us-sane-379a" target="_blank">We Let AI Write a Third of Our Code. Here&#x27;s the Review Process That Kept Us Sane.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-01 08:55</span>
@@ -193,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/gophernment/cchaak-chatbot-thrrmdaa-suu-ai-thiithamngaanaethneraaaid-eraaetimaairekhaaaipbaang-4ilg" target="_blank">จาก chatbot ธรรมดา สู่ AI ที่ทำงานแทนเราได้ — เราเติมอะไรเข้าไปบ้าง?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-01 01:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Q2-2026-Highlights" target="_blank">Performance Optimizations, NVIDIA Vera, Arc Pro B70 &amp; Other Linux Highlights From Q2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-01 00:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/williamcardoso/desenvolvedor-de-tecnico-a-arquiteto-do-produto-32gf" target="_blank">Desenvolvedor: de técnico a arquiteto do produto</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-01 00:10</span>
             </div>
         </div>
 </div>
@@ -292,6 +295,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/01/modular-doom" target="_blank">Modular Doom</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-01 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5863.png" alt="Makes Sense To Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -323,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 233 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 233 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
