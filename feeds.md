@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 19:30:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-01 20:31:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 19:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 20:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +105,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/News_NG-ReturnToFlight_2-RocketLift-500x500.webp" alt="NASA chief praises progress Blue Origin is making after launch failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/" target="_blank">NASA chief praises progress Blue Origin is making after launch failure</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-01 19:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2200913289-500x500.jpg" alt="US home battery installations hit record high on rising electricity costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -148,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/penalty-shootouts-is-the-team-that-kicks-first-more-likely-to-win/" target="_blank">Penalty Shootouts: Is the Team That Kicks First More Likely to Win?</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-01 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming" target="_blank">Comcast’s split could make or break Peacock</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-01 15:30</span>
             </div>
         </div>
 </div>
@@ -238,6 +237,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/pokemon-james-money.jpg" alt="GameStop Is Inflating Pokémon’s 30th Anniversary Card Prices By Insane Amounts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-30-anniversary-gamestop-cards-prices-tcg-etb-2000712074" target="_blank">GameStop Is Inflating Pokémon’s 30th Anniversary Card Prices By Insane Amounts</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-01 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HJQ9J6DXKK9CQWAW4DENY/hero-image.jpg" alt="How to Tell the Difference Between Heat Exhaustion and Heat Stroke" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/the-difference-between-heat-exhaustion-heat-stroke?utm_medium=RSS" target="_blank">How to Tell the Difference Between Heat Exhaustion and Heat Stroke</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-01 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2024/04/a14200a7dbf0cc944b5d6a79129b4fbf.jpg" alt="Yui-Gi-Oh Tournament Postponed Because Players Were Too Smelly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -271,24 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/gemini-spark-macos?utm_medium=RSS" target="_blank">Gemini Spark Is Now Available on Mac, but Is It Worth the Risk?</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-01 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/jack-trenton-1280x719.jpg" alt="Sony’s Famous E3 2013 Press Conference Celebrating Disc-Based Games Hits Different Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sonys-famous-e3-2013-press-conference-celebrating-disc-based-games-hits-different-now-2000711966" target="_blank">Sony’s Famous E3 2013 Press Conference Celebrating Disc-Based Games Hits Different Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-01 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2233190537.jpg?fit=1200%2C1195&amp;quality=60&amp;ssl=1" alt="Farmer gives away 125,000 pounds of nectarines rather than let Big Ag rot them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/01/farmer-gives-away-125000-pounds-of-nectarines-rather-than-let-big-ag-rot-them.html" target="_blank">Farmer gives away 125,000 pounds of nectarines rather than let Big Ag rot them</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-01 15:40</span>
             </div>
         </div>
 </div>
@@ -337,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 234 |
-        🔄 Last Updated: 19:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 20:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
