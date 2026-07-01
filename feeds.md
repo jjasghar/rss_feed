@@ -1,45 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-06-30 23:25:03 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-01 00:26:52 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 36 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, June 30, 2026 - 23:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 00:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-260630_1782823611385_hpMain_4x3t_384.jpg" alt="Trump made $1 billion from crypto, financial disclosure shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-made-1-billion-crypto-financial-disclosure-shows/story?id=134358357" target="_blank">Trump made $1 billion from crypto, financial disclosure shows</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-06-30 22:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -100,20 +101,29 @@
                 <span class="time">2026-06-30 20:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss" target="_blank">Five humanitarian workers killed in convoy ambush in South Sudan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-06-30 20:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back" target="_blank">Anthropic&amp;#8217;s long-sidelined Fable 5 is greenlit to return</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-01 00:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a444e05c62f6b38179079b8/master/pass/White-House-LiftsExport-Controls-Anthropic-Business-AP-26168447800568.jpg" alt="The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/" target="_blank">The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-06-30 23:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,6 +143,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/ballistaspider-500x500.jpg" alt="June research roundup: 6 cool science stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/" target="_blank">June research roundup: 6 cool science stories we almost missed</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-06-30 22:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -141,38 +160,20 @@
                 <span class="time">2026-06-30 21:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a429d965cdc2b309c97ad67/master/pass/Daisy%20One%20Silver%20Hero.jpg" alt="Daisy Sound’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/daisy-sound-yet-another-company-is-making-premium-high-end-headphones/" target="_blank">Daisy Sound’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-30 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/MGViZTU1YTIt._CB799536100_-500x500.jpg" alt="Amazon blames piracy apps with malware for killing new Fire Stick sideloading" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/" target="_blank">Amazon blames piracy apps with malware for killing new Fire Stick sideloading</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-06-30 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/" target="_blank">The DeepMind trio who built a poker AI are now making money for quant hedge funds</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-06-30 20:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/williamcardoso/desenvolvedor-de-tecnico-a-arquiteto-do-produto-32gf" target="_blank">Desenvolvedor: de técnico a arquiteto do produto</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-01 00:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -216,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/vilan011/building-an-openshift-418-cluster-from-scratch-part-1-the-network-foundation-utilities-server-5g92" target="_blank">Building an OpenShift 4.18 Cluster from Scratch: Part 1 – The Network Foundation &amp; Utilities Server</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-06-30 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/timevolt/the-terraform-awakens-infrastructure-as-code-quest-1mgb" target="_blank">The Terraform Awakens: Infrastructure as Code Quest</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-30 18:15</span>
             </div>
         </div>
 </div>
@@ -323,22 +315,13 @@
                 <span class="time">2026-06-30 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5862.png" alt="Absolute Foolishness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5862" target="_blank">Absolute Foolishness</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-06-30 00:26</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 23:25 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 00:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
