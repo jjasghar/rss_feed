@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 18:34:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-01 19:30:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 18:34 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 19:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -73,6 +68,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates" target="_blank">Untold casualties and humanitarian needs: What to know a week from Venezuela&#x27;s quakes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-01 17:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/01/nx-s1-5877341/lone-star-ticks-are-covering-much-of-the-u-s-heres-what-you-need-to-know" target="_blank">Lone star ticks are covering much of the U.S. Here&#x27;s what you need to know</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-01 17:20</span>
@@ -96,20 +100,20 @@
                 <span class="time">2026-07-01 16:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-ivory-coast-floods_7287426.jpg?20260701172313" alt="59 killed in floods and fears number of dead could rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/59-killed-in-ivory-coast-floods-amid-fears-number-of-dead-could-rise-13559592" target="_blank">59 killed in floods and fears number of dead could rise</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-01 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2200913289-500x500.jpg" alt="US home battery installations hit record high on rising electricity costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/" target="_blank">US home battery installations hit record high on rising electricity costs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-01 19:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -117,6 +121,24 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/" target="_blank">Neocloud Together AI raises $800M, leaps to $8.3B valuation</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-01 18:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a42d38427caad328b221827/master/pass/AI-Lab-Ring-Alarm-on-AI-Business.jpg" alt="You Can Now Sound the Alarm on AI Behaving Badly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/" target="_blank">You Can Now Sound the Alarm on AI Behaving Badly</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-01 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds" target="_blank">Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-01 17:45</span>
             </div>
         </div>
 <div class="story">
@@ -137,38 +159,20 @@
                 <span class="time">2026-07-01 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/" target="_blank">Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-01 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a43bed9c37a6fbccfbb539e/master/pass/motorola-esim-row-pdp-benefits-03-d-.jpg" alt="Motorola Phones Now Have a Built-In Travel eSIM for Mobile Data Outside the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/exclusive-motorola-phones-now-get-a-built-in-travel-esim/" target="_blank">Motorola Phones Now Have a Built-In Travel eSIM for Mobile Data Outside the US</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-01 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down" target="_blank">Sony is closing the PS3 and Vita digital stores</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-01 12:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/System76-Lemur-Pro-Panther-Lake" target="_blank">System76 Launches New Lemur Pro Laptop Powered By Intel Panther Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-01 18:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +216,6 @@
                 <span class="title"><a href="https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/" target="_blank">6 security settings every GitHub maintainer should enable this week</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-07-01 15:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dev48v/adaboost-from-scratch-how-a-pile-of-dumb-rules-becomes-a-smart-classifier-368i" target="_blank">AdaBoost from Scratch: How a Pile of Dumb Rules Becomes a Smart Classifier</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-01 15:42</span>
             </div>
         </div>
 </div>
@@ -302,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/01/modular-doom" target="_blank">Modular Doom</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-01 18:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1782855002-20260701 -edit.png" alt="Saturday Morning Breakfast Cereal - App" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -328,22 +332,13 @@
                 <span class="time">2026-07-01 00:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/wild-card/" target="_blank">Wild Card</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-06-30 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 18:34 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 234 |
+        🔄 Last Updated: 19:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
