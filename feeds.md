@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 00:26:52 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-07-01 01:42:26 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 00:27 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 01:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/1/mbappe-deschamps-break-world-cup-records-in-sweden-thrashing?traffic_source=rss" target="_blank">Mbappe, Deschamps break World Cup records in Sweden thrashing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-01 00:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782860178018_nn_jarrett_scotus_260630_S3_1920x1080-hl76q4.jpg" alt="Supreme Court rejects Trump’s push to end birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/supreme-court-rejects-trump-s-push-to-end-birthright-citizenship-265983557529" target="_blank">Supreme Court rejects Trump’s push to end birthright citizenship</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-06-30 22:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-260630_1782823611385_hpMain_4x3t_384.jpg" alt="Trump made $1 billion from crypto, financial disclosure shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,27 +96,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-5876268/npr-discusses-error-in-reporting-on-the-last-day-of-the-supreme-court-term" target="_blank">NPR discusses error in reporting on the last day of the Supreme Court term</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-5876238/the-biggest-news-from-the-final-day-of-this-supreme-court-term" target="_blank">What the Supreme Court did on the final day of its term</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-30 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks" target="_blank">Meta considered buying Kalshi before developing its own prediction market app</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-06-30 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cedb/live/3a35ce80-7470-11f1-b8da-6d87dfdc4508.jpg" alt="Starmer trims budgets to fund extra £15bn for defence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss" target="_blank">Starmer trims budgets to fund extra £15bn for defence</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-06-30 20:17</span>
+                <span class="time">2026-06-30 21:46</span>
             </div>
         </div>
 </div>
@@ -106,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit" target="_blank">Meta is adding ridiculous &amp;#8216;rate limits&amp;#8217; and a soft paywall to its smart glasses</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-01 00:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +160,20 @@
                 <span class="time">2026-06-30 22:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine" target="_blank">Amazon fined $2.25 million for failing to help identity theft victims</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-06-30 21:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gophernment/cchaak-chatbot-thrrmdaa-suu-ai-thiithamngaanaethneraaaid-eraaetimaairekhaaaipbaang-4ilg" target="_blank">จาก chatbot ธรรมดา สู่ AI ที่ทำงานแทนเราได้ — เราเติมอะไรเข้าไปบ้าง?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-01 01:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +219,6 @@
                 <span class="time">2026-06-30 20:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vilan011/building-an-openshift-418-cluster-from-scratch-part-1-the-network-foundation-utilities-server-5g92" target="_blank">Building an OpenShift 4.18 Cluster from Scratch: Part 1 – The Network Foundation &amp; Utilities Server</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-30 19:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,12 +239,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/All-the-ice-gone_3B-75-meters-up.jpg?fit=1080%2C561&amp;quality=60&amp;ssl=1" alt="Floodmap shows the world without ice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/06/30/floodmap-shows-the-world-without-ice-and.html" target="_blank">Floodmap shows the world without ice</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-01 00:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_2785070817-scaled.jpg?fit=2560%2C1766&amp;quality=60&amp;ssl=1" alt="Microsoft says 8GB &quot;great for everyday use&quot; after years insisting on 16GB for Windows 11" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/06/30/microsoft-says-8gb-great-for-everyday-use-after-years-insisting-16gb-for-windows-11.html" target="_blank">Microsoft says 8GB &quot;great for everyday use&quot; after years insisting on 16GB for Windows 11</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-30 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2019/05/aerm1b5ziq3qxqfwtoef-1280x720.jpg" alt="Everything We Know About World Of Warcraft‘s Rumored Classic+" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/everything-we-know-about-world-of-warcrafts-rumored-classic-2000711801" target="_blank">Everything We Know About World Of Warcraft‘s Rumored Classic+</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-06-30 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -274,29 +292,20 @@
                 <span class="time">2026-06-30 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWCMY2CSQ0BXDEJNNPD2FQFM/hero-image.jpg" alt="10 Hacks Every Discord User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-discord-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Discord User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-30 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H2A3R29JR8JKFMG5FE4FY/hero-image.jpg" alt="Why I Always Check the Wet Bulb Temperature Before Exercising Outside in Summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/use-wet-bulb-temperatures-to-tell-when-its-too-hot-to-exercise-outdoors?utm_medium=RSS" target="_blank">Why I Always Check the Wet Bulb Temperature Before Exercising Outside in Summer</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-06-30 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5863.png" alt="Makes Sense To Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5863" target="_blank">Makes Sense To Me</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-01 00:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -320,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 00:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 01:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
