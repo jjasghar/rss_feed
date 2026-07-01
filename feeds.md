@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 16:44:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-01 17:33:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 16:44 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 17:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/01/nx-s1-5877341/lone-star-ticks-are-covering-much-of-the-u-s-heres-what-you-need-to-know" target="_blank">Lone star ticks are covering much of the U.S. Here&#x27;s what you need to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-01 17:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Climbers unfurl banner atop Empire State Building: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,21 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://s.abcnews.com/images/GMA/PeteButtigieg-abc-gmh-260701_1782912707650_hpMain_4x3t_384.jpg" alt="&#x27;We just can&#x27;t go on like this&#x27;: Pete Buttigieg speaks out after swatting incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/1/man-charged-after-arson-attack-on-islamic-centre-in-dublin?traffic_source=rss" target="_blank">Man charged after arson attack on Islamic centre in Dublin</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-01 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing" target="_blank">Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-01 12:45</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/pete-buttigieg-speaks-after-targeted-child-services-swatting-call/story?id=134358132" target="_blank">&#x27;We just can&#x27;t go on like this&#x27;: Pete Buttigieg speaks out after swatting incident</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-01 13:41</span>
             </div>
         </div>
 </div>
@@ -168,9 +170,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tokuji_30/blackbull-goes-multi-protocol-part-3-one-apppy-two-protocols-3gep" target="_blank">BlackBull goes multi-protocol (part 3) — one `app.py`, two protocols</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-01 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software" target="_blank">How Kent Beck shapes the software engineering industry</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-07-01 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/thomasbnt/acronyms-and-jargon-in-development-and-open-source-45m9" target="_blank">Acronyms and Jargon in Development and Open Source</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-01 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Faster-Small-Direct" target="_blank">Linux 7.3 To Overcome &quot;Significant Bottleneck&quot; For Small I/O With PCIe Gen5 NVMe SSDs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-01 16:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/" target="_blank">6 security settings every GitHub maintainer should enable this week</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-01 15:59</span>
             </div>
         </div>
 <div class="story">
@@ -180,42 +218,6 @@
                 <span class="title"><a href="https://dev.to/dev48v/adaboost-from-scratch-how-a-pile-of-dumb-rules-becomes-a-smart-classifier-368i" target="_blank">AdaBoost from Scratch: How a Pile of Dumb Rules Becomes a Smart Classifier</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-01 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/" target="_blank">For first time, a cell built from scratch grows and divides</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-01 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/" target="_blank">For First Time, a Cell Built from Scratch Grows and Divides</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-01 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/kit-firefox-logo.webp?resize=406%2C232&amp;ssl=1" alt="Firefox is adding Vulkan video decoding for Nvidia GPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/firefox-vulkan-video-decoding-nvidia" target="_blank">Firefox is adding Vulkan video decoding for Nvidia GPUs</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-01 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/instacart-multi-tenant-marketing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-01 14:05</span>
             </div>
         </div>
 </div>
@@ -237,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWF3KZ2QZ1N3QDPG42VRKFJ5/hero-image.png" alt="Gemini Spark Is Now Available on Mac, but Is It Worth the Risk?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/gemini-spark-macos?utm_medium=RSS" target="_blank">Gemini Spark Is Now Available on Mac, but Is It Worth the Risk?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-01 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/jack-trenton-1280x719.jpg" alt="Sony’s Famous E3 2013 Press Conference Celebrating Disc-Based Games Hits Different Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,20 +293,20 @@
                 <span class="time">2026-07-01 13:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J1B624TFGVMK7KNSNESXCPZB/hero-image.jpg" alt="Sun Shirts Are the Underrated Hero of Summer Exercise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/the-best-sun-shirts-for-runners?utm_medium=RSS" target="_blank">Sun Shirts Are the Underrated Hero of Summer Exercise</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-01 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1782855002-20260701 -edit.png" alt="Saturday Morning Breakfast Cereal - App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/app-6" target="_blank">Saturday Morning Breakfast Cereal - App</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-01 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -328,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 39 | 📸 With Images: 232 |
-        🔄 Last Updated: 16:44 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 231 |
+        🔄 Last Updated: 17:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
