@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 11:01:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-01 12:51:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 12:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing" target="_blank">Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-01 12:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,20 +85,11 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48cd/live/c47affb0-6e45-11f1-bb1f-fde176159761.png" alt="Superdry co-founder was my boss when he raped me" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48cd/live/c47affb0-6e45-11f1-bb1f-fde176159761.png" alt="Woman raped by Superdry co-founder tells BBC she was working for him at the time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&at_campaign=rss" target="_blank">Superdry co-founder was my boss when he raped me</a></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&at_campaign=rss" target="_blank">Woman raped by Superdry co-founder tells BBC she was working for him at the time</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-07-01 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/01/nx-s1-5876418/2026-world-cup-fifa-usmnt-bosnia-herzegovina-round-of-32" target="_blank">Win or go home: The U.S. to face Bosnia and Herzegovina in World Cup knockout game</a></span>
-                <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-01 05:00</span>
             </div>
         </div>
@@ -103,6 +98,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d4403d94490f13c636bd21/master/pass/The-Best-Automatic-Litter-Boxes-Tested-by-Our-Spoiled-Cats.jpg" alt="The Best Automatic Litter Box of 2026: Petkit and Litter-Robot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-automatic-cat-litter-boxes/" target="_blank">The Best Automatic Litter Box of 2026: Petkit and Litter-Robot</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-01 11:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a4422d26c66c0772f06a930/master/pass/venezuela%20espacio%20terremoto.jpg" alt="Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +152,6 @@
                 <span class="time">2026-07-01 00:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back" target="_blank">Anthropic&amp;#8217;s long-sidelined Fable 5 is greenlit to return</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-01 00:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,9 +161,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mailtester-ninja/the-state-of-email-in-2026-what-50000-domains-reveal-about-mx-spf-dmarc-441c" target="_blank">The State of Email in 2026: what 50,000 domains reveal about MX, SPF &amp; DMARC</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-01 12:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rv_688a20c2e1fe40b6498568/the-step-by-step-process-of-penetration-testing-a-defensive-guide-5f8f" target="_blank">The Step-by-Step Process of Penetration Testing: A Defensive Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-01 10:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCC-16.2-Early-August" target="_blank">GCC 16.2 Being Planned For Early August Release</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-01 10:31</span>
             </div>
         </div>
 <div class="story">
@@ -198,43 +211,29 @@
                 <span class="time">2026-07-01 07:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvob8hq7fsafn5kvk3sn.png" alt="The AI Cost-Modeling Handbook: I let Claude do the modeling, but never the arithmetic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/copyleftdev/the-ai-cost-modeling-handbook-i-let-claude-do-the-modeling-but-never-the-arithmetic-3h95" target="_blank">The AI Cost-Modeling Handbook: I let Claude do the modeling, but never the arithmetic</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-01 02:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gophernment/cchaak-chatbot-thrrmdaa-suu-ai-thiithamngaanaethneraaaid-eraaetimaairekhaaaipbaang-4ilg" target="_blank">จาก chatbot ธรรมดา สู่ AI ที่ทำงานแทนเราได้ — เราเติมอะไรเข้าไปบ้าง?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-01 01:30</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html" target="_blank">The Realities of AI Video Surveillance</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-06-30 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J1B624TFGVMK7KNSNESXCPZB/hero-image.jpg" alt="Sun Shirts Are the Underrated Hero of Summer Exercise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/the-best-sun-shirts-for-runners?utm_medium=RSS" target="_blank">Sun Shirts Are the Underrated Hero of Summer Exercise</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-01 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/PS-logo1-1280x720.jpg" alt="PlayStation Is Shutting Down The PS3 And Vita Stores Next Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-3-ps3-vita-store-shutdown-digital-sony-2000711929" target="_blank">PlayStation Is Shutting Down The PS3 And Vita Stores Next Year</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-01 12:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/All-the-ice-gone_3B-75-meters-up.jpg?fit=1080%2C561&amp;quality=60&amp;ssl=1" alt="Floodmap shows the world without ice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +268,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/30/jd-vance-discovers-the-nicene-creed-in-a-yard-sign.html" target="_blank">JD Vance discovers the Nicene Creed in a yard sign</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-06-30 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/braind.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A single drug injection reversed autism-like behavior in mice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/30/a-single-drug-injection-reversed-autism-like-behavior-in-mice-and-the-brain-change-wasnt-permanent.html" target="_blank">A single drug injection reversed autism-like behavior in mice</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-30 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/steammachine-1280x720.jpg" alt="In A Land Of Boring Consoles, The Steam Machine Is Fun And Quirky" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/in-a-land-of-boring-consoles-the-steam-machine-is-fun-and-quirky-2000711813" target="_blank">In A Land Of Boring Consoles, The Steam Machine Is Fun And Quirky</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-06-30 20:30</span>
             </div>
         </div>
 </div>
@@ -335,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 233 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 234 |
+        🔄 Last Updated: 12:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
