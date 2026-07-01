@@ -1,38 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 13:44:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-01 14:55:16 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 13:44 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 14:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/1/how-war-on-iran-changed-the-global-energy-sector-forever?traffic_source=rss" target="_blank">How war on Iran changed the global energy sector forever</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-01 14:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +108,20 @@
                 <span class="time">2026-07-01 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london" target="_blank">Greetings from London, where Banksy&#x27;s flag man is a warning cry</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-01 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/" target="_blank">Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-01 14:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a43bed9c37a6fbccfbb539e/master/pass/motorola-esim-row-pdp-benefits-03-d-.jpg" alt="Motorola Phones Now Have a Built-In Travel eSIM for Mobile Data Outside the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +167,29 @@
                 <span class="time">2026-07-01 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/" target="_blank">The ‘Father of the Internet’ is finally retiring</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-01 03:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/kit-firefox-logo.webp?resize=406%2C232&amp;ssl=1" alt="Firefox is adding Vulkan video decoding for Nvidia GPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/firefox-vulkan-video-decoding-nvidia" target="_blank">Firefox is adding Vulkan video decoding for Nvidia GPUs</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-01 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/instacart-multi-tenant-marketing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-01 14:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,37 +211,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html" target="_blank">Why I Stopped Arguing with People</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-01 13:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mailtester-ninja/the-state-of-email-in-2026-what-50000-domains-reveal-about-mx-spf-dmarc-441c" target="_blank">The State of Email in 2026: what 50,000 domains reveal about MX, SPF &amp; DMARC</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-01 12:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rv_688a20c2e1fe40b6498568/the-step-by-step-process-of-penetration-testing-a-defensive-guide-5f8f" target="_blank">The Step-by-Step Process of Penetration Testing: A Defensive Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-01 10:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17370842/linux-backup-tools" target="_blank">6 Backup Tools for Linux Users of All Kind</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-01 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GCC-16.2-Early-August" target="_blank">GCC 16.2 Being Planned For Early August Release</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-01 10:31</span>
             </div>
         </div>
 </div>
@@ -239,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/fireworks-1-e1751479203207.jpeg?fit=768%2C531&amp;quality=60&amp;ssl=1" alt="This poop dog firework puts a funny twist on the classic black snake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/01/this-poop-dog-firework-puts-a-funny-twist-on-the-classic-black-snake.html" target="_blank">This poop dog firework puts a funny twist on the classic black snake</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-01 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KWEAY04WSP237JJ6WXEBG18S/hero-image.png" alt="This Google Indoor Nest Camera Is 35% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +297,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/06/30/floodmap-shows-the-world-without-ice-and.html" target="_blank">Floodmap shows the world without ice</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-01 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/shutterstock_2785070817-scaled.jpg?fit=2560%2C1766&amp;quality=60&amp;ssl=1" alt="Microsoft says 8GB &quot;great for everyday use&quot; after years insisting on 16GB for Windows 11" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/06/30/microsoft-says-8gb-great-for-everyday-use-after-years-insisting-16gb-for-windows-11.html" target="_blank">Microsoft says 8GB &quot;great for everyday use&quot; after years insisting on 16GB for Windows 11</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-06-30 22:27</span>
             </div>
         </div>
 </div>
@@ -339,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 13:44 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 234 |
+        🔄 Last Updated: 14:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
