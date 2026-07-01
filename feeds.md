@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 07:22:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-01 09:02:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 07:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, July 01, 2026 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +101,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a4422d26c66c0772f06a930/master/pass/venezuela%20espacio%20terremoto.jpg" alt="Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/" target="_blank">Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-01 08:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Ulta Promo Codes: Up to 50% Off in July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -148,20 +154,29 @@
                 <span class="time">2026-07-01 00:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a444e05c62f6b38179079b8/master/pass/White-House-LiftsExport-Controls-Anthropic-Business-AP-26168447800568.jpg" alt="The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/" target="_blank">The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-06-30 23:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marketing_wizr_f14586ace9/we-let-ai-write-a-third-of-our-code-heres-the-review-process-that-kept-us-sane-379a" target="_blank">We Let AI Write a Third of Our Code. Here&#x27;s the Review Process That Kept Us Sane.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-01 08:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/dirtyclone-linux-vulnerability-fixes-available" target="_blank">DirtyClone Linux kernel local privilege escalation vulnerability fixes available</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-07-01 07:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvob8hq7fsafn5kvk3sn.png" alt="The AI Cost-Modeling Handbook: I let Claude do the modeling, but never the arithmetic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/williamcardoso/desenvolvedor-de-tecnico-a-arquiteto-do-produto-32gf" target="_blank">Desenvolvedor: de técnico a arquiteto do produto</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-01 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bshahin/recaptcha-v2-vs-v3-vs-enterprise-how-to-tell-which-one-youre-fighting-and-how-to-solve-each-4bpo" target="_blank">reCAPTCHA v2 vs v3 vs Enterprise — how to tell which one you&#x27;re fighting (and how to solve each)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-06-30 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.2" target="_blank">COSMIC Epoch 1.2 Desktop Fixes Flickering Issues For Intel Graphics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-06-30 22:30</span>
             </div>
         </div>
 </div>
@@ -326,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 234 |
-        🔄 Last Updated: 07:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 233 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
