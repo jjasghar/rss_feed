@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 15:42:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-02 16:32:01 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Error processing https://rss.slashdot.org/Slashdot/slashdotMain: The read operation timed out -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 15:43 UTC</div>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 16:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +59,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss" target="_blank">Into the Darkness</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-02 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c79/live/85630fb0-7602-11f1-b976-0b9c15b0ccfc.png" alt="Married at First Sight UK star arrested on suspicion of rape" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn8k774pm3jo?at_medium=RSS&at_campaign=rss" target="_blank">Married at First Sight UK star arrested on suspicion of rape</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-02 15:10</span>
             </div>
         </div>
 <div class="story">
@@ -89,20 +106,20 @@
                 <span class="time">2026-07-02 11:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup" target="_blank">Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-02 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4665ffbc6a7b7d7a89d98f/master/pass/070226_Kratom.jpg" alt="The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-dea-plans-to-ban-kratom-compound-7-oh-sold-as-a-gas-station-opioid/" target="_blank">The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-02 16:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +165,6 @@
                 <span class="time">2026-07-02 14:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a43de2b329ca5a09d2b7803/master/pass/Gear_7%20Lesser-Known%20Google%20Account%20Settings%20You%20Should%20Change_v3.jpg" alt="7 Lesser-Known Google Account Settings You Should Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/7-google-account-settings-you-should-change/" target="_blank">7 Lesser-Known Google Account Settings You Should Change</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-02 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,9 +174,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maverick_y_4e3300c63f2285/i-built-a-differential-tester-for-toon-and-it-found-two-silent-corruption-bugs-on-the-first-run-4ia7" target="_blank">I built a differential tester for TOON, and it found two silent-corruption bugs on the first run</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-02 16:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dailycontext/how-docusign-is-bringing-contract-table-extraction-to-production-with-nvidia-nemotron-parse-3bnh" target="_blank">How Docusign is Bringing Contract Table Extraction to Production with NVIDIA Nemotron Parse</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-02 15:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mathstodon.xyz/@iblech/116769502749142438" target="_blank">Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-02 15:25</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +224,6 @@
                 <span class="time">2026-07-02 13:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-GCC-ACE-AI-Patches" target="_blank">Intel Posts Initial GCC Compiler Patches For AI Compute Extensions &quot;ACE&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-02 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yimtheppariyapol/the-whole-pm-craft-packed-into-68-skills-and-the-one-that-made-me-stop-and-look-47" target="_blank">The whole PM craft, packed into ~68 skills, and the one that made me stop and look</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-02 12:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +250,15 @@
                 <span class="title"><a href="https://kotaku.com/video-game-industry-esa-digital-ownership-2000712263" target="_blank">The Video Game Industry’s Trade Body Doesn’t Want To Talk About Digital Ownership</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-02 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/03-lunar-canoyons-image-two.webp?fit=1160%2C653&amp;quality=55&amp;ssl=1" alt="Nixon gave Cyprus a piece of the moon. Then a coup made it disappear." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/02/nixon-gave-cyprus-a-piece-of-the-moon-then-a-coup-made-it-disappear.html" target="_blank">Nixon gave Cyprus a piece of the moon. Then a coup made it disappear.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-02 15:30</span>
             </div>
         </div>
 <div class="story">
@@ -278,15 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/playstation-veteran-gives-a-harsh-review-of-the-steam-machine-am-i-going-back-to-ps4-days-2000712230" target="_blank">PlayStation Veteran Gives A Harsh Review Of The Steam Machine: ‘Am I Going Back To PS4 Days?’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-02 12:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/jackassmovie-1280x720.jpg" alt="The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-new-jackass-movie-does-something-hollywood-franchises-never-do-anymore-say-goodbye-and-end-2000712073" target="_blank">The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-02 12:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 15:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 16:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
