@@ -1,32 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 20:25:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-02 21:23:00 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 20:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 21:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss" target="_blank">Could water become a flashpoint between Islamabad and New Delhi?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-02 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,6 +91,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/heat-4-gty-gmh-260702_1783015165495_hpMain_4x3t_384.jpg" alt="Heat wave forecast: Amtrak cancels some trains as intense heat continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/heat-wave-forecast-dangerous-temps-continue-july-4/story?id=134404736" target="_blank">Heat wave forecast: Amtrak cancels some trains as intense heat continues</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-02 18:29</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -78,29 +108,29 @@
                 <span class="time">2026-07-02 17:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/02/nx-s1-5879113/heat-wave-nighttime-climate-change" target="_blank">The days are hot, but so are the nights. That&#x27;s a problem, experts say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-02 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/Folarin-Balogun-2-rt-gmh-260702_1782997447936_hpMain_4x3t_384.jpg" alt="US soccer coach responds to World Cup red card suspension" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/us-soccer-star-folarin-baloguns-1-game-red/story?id=134403937" target="_blank">US soccer coach responds to World Cup red card suspension</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-02 16:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai" target="_blank">Meta has a new app called Pocket that is absolutely nothing like the old Pocket</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-02 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/" target="_blank">IQM, Europe’s first public quantum company, admits the future of the tech is uncertain</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-02 20:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-500x500.jpg" alt="Newly discovered PamStealer isn&#x27;t your typical macOS malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,29 +167,20 @@
                 <span class="time">2026-07-02 17:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast" target="_blank">The video game disc is dead</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-02 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4665ffbc6a7b7d7a89d98f/master/pass/070226_Kratom.jpg" alt="The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-dea-plans-to-ban-kratom-compound-7-oh-sold-as-a-gas-station-opioid/" target="_blank">The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-02 16:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.zachtronics.com/exapunks/" target="_blank">Exapunks (2018)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-02 18:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +226,6 @@
                 <span class="time">2026-07-02 15:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mathstodon.xyz/@iblech/116769502749142438" target="_blank">Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-02 15:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/07/ed70760a47bcc0689184c4e5367e7e3d.jpg" alt="Suicide Squad Devs Open Up About The Game’s Struggles: ‘I Started Feeling Like I Wasn’t Making Games Anymore, I Was Following A Spreadsheet’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/suicide-squad-devs-open-up-about-the-games-struggles-i-started-feeling-like-i-wasnt-making-games-anymore-i-was-following-a-spreadsheet-2000712357" target="_blank">Suicide Squad Devs Open Up About The Game’s Struggles: ‘I Started Feeling Like I Wasn’t Making Games Anymore, I Was Following A Spreadsheet’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-02 21:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KWJ0Y50E4NYTVYAGJGWWS2ZJ/hero-image.jpg" alt="10 Hacks Every Fitbit Air User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +308,6 @@
                 <span class="time">2026-07-02 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/playstation-games-1280x720.jpg" alt="The Video Game Industry’s Trade Body Doesn’t Want To Talk About Digital Ownership" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/video-game-industry-esa-digital-ownership-2000712263" target="_blank">The Video Game Industry’s Trade Body Doesn’t Want To Talk About Digital Ownership</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-02 15:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 20:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 247 |
+        🔄 Last Updated: 21:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
