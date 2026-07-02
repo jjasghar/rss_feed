@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 18:28:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-02 19:28:09 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 18:28 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pool-2-ap-gmh-260702_1783017648772_hpMain_4x3t_384.jpg" alt="Olympian David Hearn indicted for alleged vandalism of Reflecting Pool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/olympian-david-hearn-indicted-alleged-vandalism-reflecting-pool/story?id=134420251" target="_blank">Olympian David Hearn indicted for alleged vandalism of Reflecting Pool</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-02 18:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss" target="_blank">Into the Darkness</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-02 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c79/live/85630fb0-7602-11f1-b976-0b9c15b0ccfc.png" alt="Married at First Sight UK star arrested on suspicion of rape" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn8k774pm3jo?at_medium=RSS&at_campaign=rss" target="_blank">Married at First Sight UK star arrested on suspicion of rape</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-02 15:10</span>
             </div>
         </div>
 </div>
@@ -168,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17371813/collabora-office-26-04" target="_blank">Collabora Office 26.04 Keeps AI Optional and Refines Writer and Calc</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-02 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/maverick_y_4e3300c63f2285/i-built-a-differential-tester-for-toon-and-it-found-two-silent-corruption-bugs-on-the-first-run-4ia7" target="_blank">I built a differential tester for TOON, and it found two silent-corruption bugs on the first run</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +214,6 @@
                 <span class="time">2026-07-02 15:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pytgaen/8-small-data-transforms-i-dont-want-to-write-as-shell-glue-anymore-832" target="_blank">8 small data transforms I don&#x27;t want to write as shell glue anymore</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-02 14:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +240,15 @@
                 <span class="title"><a href="https://kotaku.com/final-fantasy-7-revelation-might-be-getting-story-dlc-based-on-new-leak-2000712290" target="_blank">Final Fantasy 7 Revelation Might Be Getting Story DLC Based On New Leak</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-02 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Photo-Ben-_26-Jerrys.jpg?fit=1080%2C769&amp;quality=60&amp;ssl=1" alt="Ben &amp; Jerry&#x27;s maintains a Flavor Graveyard of discontinued ice cream products" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/02/ben-jerrys-maintains-a-flavor-graveyard-of-discontinued-ice-cream-products.html" target="_blank">Ben &amp; Jerry&#x27;s maintains a Flavor Graveyard of discontinued ice cream products</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-02 16:20</span>
             </div>
         </div>
 <div class="story">
@@ -283,15 +287,6 @@
                 <span class="time">2026-07-02 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWG1NFVRB1A7H39M78EMEXXR/hero-image.png" alt="The Top 10 Movies Right Now, According to Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-top-10-movies-right-now-according-to-streaming-data-july-2026?utm_medium=RSS" target="_blank">The Top 10 Movies Right Now, According to Streaming Data</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-02 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,22 +310,13 @@
                 <span class="time">2026-07-02 00:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/01/modular-doom" target="_blank">Modular Doom</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-01 18:36</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 18:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
