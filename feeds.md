@@ -1,42 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 22:20:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-02 23:21:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 22:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 23:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/02/nx-s1-5879162/freedom-250-report-house-democrats-controversy" target="_blank">House Democrats accuse Trump of &#x27;hijacking&#x27; America&#x27;s 250th birthday for his own gain</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-02 21:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +106,20 @@
                 <span class="time">2026-07-02 18:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260702-David-Hearn-vl-212p-b96d43.jpg" alt="U.S. Olympic canoeist David ‘Davey’ Hearn charged in Reflecting Pool vandalism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/us-olympian-david-hearn-charged-reflecting-pool-vandalism-rcna352788" target="_blank">U.S. Olympic canoeist David ‘Davey’ Hearn charged in Reflecting Pool vandalism</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-02 18:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/" target="_blank">Private space pilots are flying orbital missions for the US Space Force</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-02 23:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,6 +136,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai" target="_blank">Meta has a new app called Pocket that is absolutely nothing like the old Pocket</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-02 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a46af1af78eee0a42c7f75f/master/pass/GettyImages-2282580741.jpg" alt="How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/love-island-usa-app/" target="_blank">How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-02 20:47</span>
             </div>
         </div>
 <div class="story">
@@ -147,29 +165,20 @@
                 <span class="time">2026-07-02 19:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal" target="_blank">Weber marks down grills and griddles to their best prices ever for July 4th</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-02 18:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a45a0b0f1efb2d48b192c77/master/pass/Model-Behavior-Cursor-Will-Keep-Using-Anthropic-OpenAI-Models-After-SpaceX-Deal-Business.jpg" alt="Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/" target="_blank">Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-02 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdlgrf9hw1hfq44fmfu00.png" alt="How to Connect Claude to Your WordPress Site in 5 Minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sid_verse/how-to-connect-claude-to-your-wordpress-site-in-5-minutes-35jl" target="_blank">How to Connect Claude to Your WordPress Site in 5 Minutes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-02 23:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcz4ytbajureytql7wwi4.jpg" alt="The Symfony Scheduler Component: Cron in Your App, Not Your Crontab" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,6 +186,15 @@
                 <span class="title"><a href="https://dev.to/gabrielanhaia/the-symfony-scheduler-component-cron-in-your-app-not-your-crontab-8p0" target="_blank">The Symfony Scheduler Component: Cron in Your App, Not Your Crontab</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-02 22:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-Consider-Shadow-Stack" target="_blank">Fedora 45 Considering x86_64 Shadow Stack Usage By Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-02 21:17</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +222,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17371813/collabora-office-26-04" target="_blank">Collabora Office 26.04 Keeps AI Optional and Refines Writer and Calc</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-07-02 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maverick_y_4e3300c63f2285/i-built-a-differential-tester-for-toon-and-it-found-two-silent-corruption-bugs-on-the-first-run-4ia7" target="_blank">I built a differential tester for TOON, and it found two silent-corruption bugs on the first run</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-02 16:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/swiftui-wwdc26/en/headerimage/swiftui-wwdc26-1783007395426.jpeg" alt="SwiftUI Adds New Document Protocol, Improves Performance, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/swiftui-wwdc26/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">SwiftUI Adds New Document Protocol, Improves Performance, and More</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-02 16:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 22:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 23:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
