@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-01 23:26:13 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-02 00:26:55 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, July 01, 2026 - 23:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 00:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/2/belgium-stage-3-2-comeback-win-over-senegal-to-enter-world-cup-last?traffic_source=rss" target="_blank">Belgium stage 3–2 comeback win over Senegal to enter World Cup last 16</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-02 00:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/301/59/46897056254-1080pnbcstations.jpg" alt="Tielemans no falla desde los once pasos para Bélgica" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,20 +96,20 @@
                 <span class="time">2026-07-01 20:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/1/kane-double-fires-england-to-comeback-win-over-dr-congo-at-world-cup-2026?traffic_source=rss" target="_blank">Kane double fires England to comeback win over DR Congo at World Cup 2026</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-01 18:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/" target="_blank">Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-01 23:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a05f7ba777517f18b69ac48/master/pass/Best%20Griddles%20(update)%20top%20art%20052026%20SOURCE%20Home%20Depot.jpg" alt="The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -117,6 +117,15 @@
                 <span class="title"><a href="https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/" target="_blank">The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-01 23:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update" target="_blank">Apple’s entry-level MacBook Pro could be up for a redesign</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-01 22:39</span>
             </div>
         </div>
 <div class="story">
@@ -146,29 +155,20 @@
                 <span class="time">2026-07-01 19:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2200913289-500x500.jpg" alt="US home battery installations hit record high on rising electricity costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/" target="_blank">US home battery installations hit record high on rising electricity costs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-01 19:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/" target="_blank">Neocloud Together AI raises $800M, leaps to $8.3B valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-01 18:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/breachprotocol/turn-the-camera-away-and-the-ais-world-freezes-3ggo" target="_blank">Turn the camera away, and the AI&#x27;s world freezes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-02 00:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/KDE-Linux-June-2026" target="_blank">KDE Linux Introduces &quot;Developer Mode&quot; Option, Easier Log Collection</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-01 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://zcode.z.ai/cn" target="_blank">ZCode: Claude Code from the Makers of GLM</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-01 19:11</span>
             </div>
         </div>
 </div>
@@ -342,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 23:26 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 235 |
+        🔄 Last Updated: 00:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
