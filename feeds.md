@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 13:30:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-02 14:42:24 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 13:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 14:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +111,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280413039-500x500.jpg" alt="Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/" target="_blank">Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-02 14:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/" target="_blank">US government says it got hacked — again</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-02 14:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a43de2b329ca5a09d2b7803/master/pass/Gear_7%20Lesser-Known%20Google%20Account%20Settings%20You%20Should%20Change_v3.jpg" alt="7 Lesser-Known Google Account Settings You Should Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/7-google-account-settings-you-should-change/" target="_blank">7 Lesser-Known Google Account Settings You Should Change</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-02 13:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -130,38 +164,38 @@
                 <span class="time">2026-07-02 11:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2246163658-500x500.jpg" alt="Google’s AI buildout drove 37% increase in electricity use in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/" target="_blank">Google’s AI buildout drove 37% increase in electricity use in 2025</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-02 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a440cd07bfc78bf5e9f6406/master/pass/GenZ-Luddite-Summer-Culture-IMG_4448.jpg" alt="Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/" target="_blank">Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-02 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/" target="_blank">Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-02 05:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pytgaen/8-small-data-transforms-i-dont-want-to-write-as-shell-glue-anymore-832" target="_blank">8 small data transforms I don&#x27;t want to write as shell glue anymore</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-02 14:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/risc-v-rvv-vector-benchmarks" target="_blank">RISC-V RVV Vector Performance Benchmarks With The SpacemiT K3 SoC</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-02 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17371670/foss-weekly-26-27" target="_blank">FOSS Weekly #26.27: Dev Mode in KDE Linux, Local AI, De-Google Android, Free Terminal Starter Course, KDE Step and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-02 13:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +223,6 @@
                 <span class="time">2026-07-02 12:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17371605/tinyretropad-notepad-clone" target="_blank">Sick of AI Slop, Former Microsoft Engineer Built a New, AI-less Notepad</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-02 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/platform-projects-products/en/headerimage/platform-projects-products-header-1782131812023.jpg" alt="Shifting Platform Development from Projects to Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/platform-projects-products/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Shifting Platform Development from Projects to Products</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-02 11:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prathamchauhan/how-to-let-a-vercel-app-read-a-private-clickhouse-on-ec2-using-cloudflare-tunnel-3kjp" target="_blank">How to Let a Vercel App Read a Private ClickHouse on EC2 (Using Cloudflare Tunnel)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-02 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2022/07/994c1fdcdf5808a9f466007f07c8aee1-1280x720.jpg" alt="It’s Too Hot To Play Video Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/it-s-too-hot-to-play-video-games-1847410462" target="_blank">It’s Too Hot To Play Video Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-02 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWG1NFVRB1A7H39M78EMEXXR/hero-image.png" alt="The Top 10 Movies Right Now, According to Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-top-10-movies-right-now-according-to-streaming-data-july-2026?utm_medium=RSS" target="_blank">The Top 10 Movies Right Now, According to Streaming Data</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-02 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KWGW1B8AAGH7XXE9TKEM38BN/hero-image.png" alt="This Complete Samsung Soundbar System Is $400 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/weird-al-yankovic-ai-commercial-reese-witherspoon-michael-caine-2000712222" target="_blank">Weird Al Continues To Prove He’s The Best, Refusing To Shill For AI</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-02 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Gerstmann.jpeg?fit=318%2C435&amp;quality=60&amp;ssl=1" alt="This neurological condition makes people deny their own limbs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/01/this-neurological-condition-makes-people-deny-their-own-limbs.html" target="_blank">This neurological condition makes people deny their own limbs</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-01 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWA0YBH0P5R6Y97W1RSQK8TK/hero-image.jpg" alt="10 Hacks Every Apple Home User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-hacks-every-apple-home-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple Home User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-01 22:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 13:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 14:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
