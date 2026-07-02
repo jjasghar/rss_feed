@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 17:31:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-02 18:28:20 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 17:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 18:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/07/02/g-s1-131712/photos-fans-gather-in-the-bay-area-for-the-world-cup-match-between-the-u-s-and-bosnia-herzegovina" target="_blank">Photos: Fans gather in the Bay Area for the World Cup match between the U.S. and Bosnia-Herzegovina</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-02 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/02/nx-s1-5879113/heat-wave-nighttime-climate-change" target="_blank">The days are hot, but so are the nights. That&#x27;s a problem, experts say</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-02 16:55</span>
@@ -61,6 +72,15 @@
                 <span class="title"><a href="https://abcnews.com/GMA/Culture/us-soccer-star-folarin-baloguns-1-game-red/story?id=134403937" target="_blank">US soccer coach responds to World Cup red card suspension</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-02 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116a/live/fcec98d0-763e-11f1-a627-714adb4eed6e.jpg" alt="Venezuela quake survivor pulled out alive after eight days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela quake survivor pulled out alive after eight days</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-02 16:11</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +101,38 @@
                 <span class="time">2026-07-02 15:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/2/why-has-trump-refused-to-renew-the-usmca-and-what-will-that-mean?traffic_source=rss" target="_blank">Why has Trump refused to renew the USMCA, and what will that mean?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-02 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/construction-workers-gty-jt-260701_1782940094051_hpMain_4x3t_384.jpg" alt="Hiring worse than expected in June amid elevated inflation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/jobs-report-set-show-hiring-robust-pace/story?id=134336526" target="_blank">Hiring worse than expected in June amid elevated inflation</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-02 12:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal" target="_blank">Weber marks down grills and griddles to their best prices ever for July 4th</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-02 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a45a0b0f1efb2d48b192c77/master/pass/Model-Behavior-Cursor-Will-Keep-Using-Anthropic-OpenAI-Models-After-SpaceX-Deal-Business.jpg" alt="Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/" target="_blank">Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-02 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/" target="_blank">Boeing-owned Wisk Aero accused of firing manager who raised safety concerns</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-02 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,33 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/" target="_blank">Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-02 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2267710211-500x500.jpg" alt="Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/" target="_blank">Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-02 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/960664/godox-key-light-elgato-insta360-deal-sale" target="_blank">Godox’s feature-packed key light is down to its best price yet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-02 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280413039-500x500.jpg" alt="Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/" target="_blank">Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-02 14:39</span>
             </div>
         </div>
 </div>
@@ -237,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/ff7-a-1280x732.jpg" alt="Final Fantasy 7 Revelation Might Be Getting Story DLC Based On New Leak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-7-revelation-might-be-getting-story-dlc-based-on-new-leak-2000712290" target="_blank">Final Fantasy 7 Revelation Might Be Getting Story DLC Based On New Leak</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-02 17:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KWAFZSFYGGG5QVB0EF66YRR0/hero-image.jpg" alt="Apple Is Changing How It Issues Security Updates Due to Threats From AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -281,15 +292,6 @@
                 <span class="time">2026-07-02 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWGW1B8AAGH7XXE9TKEM38BN/hero-image.png" alt="This Complete Samsung Soundbar System Is $400 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-hw-q990h-soundbar-system-sale-july-2026?utm_medium=RSS" target="_blank">This Complete Samsung Soundbar System Is $400 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-02 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 17:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 18:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
