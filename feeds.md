@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 01:37:38 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-02 03:00:24 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 01:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss" target="_blank">Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-02 02:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/321/78/46899843780-1080pnbcstations.jpg" alt="Golazo de Malik Tillman y Estados Unidos aumenta la ventaja sobre a Bosnia y Herzegovina" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/golazo-de-malik-tillman-y-estados-unidos-aumenta-la-ventaja-sobre-a-bosnia-y-herzegovina-tmvo13199608" target="_blank">Golazo de Malik Tillman y Estados Unidos aumenta la ventaja sobre a Bosnia y Herzegovina</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-02 01:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +96,6 @@
                 <span class="title"><a href="https://news.sky.com/story/alleged-member-of-international-cyber-hacking-group-scattered-spider-arrested-13559690" target="_blank">Alleged member of hacking group Scattered Spider arrested</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-07-01 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/301/59/46897056254-1080pnbcstations.jpg" alt="Tielemans no falla desde los once pasos para Bélgica" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/tielemans-no-falla-desde-los-once-pasos-para-belgica-tmvo13199558" target="_blank">Tielemans no falla desde los once pasos para Bélgica</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-01 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss" target="_blank">US judge sides with NAACP over proposed mail-in ballot restrictions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-01 22:53</span>
             </div>
         </div>
 </div>
@@ -164,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Council-AI-Desktop" target="_blank">Fedora Council Seeks To Shutdown Current Discussions Over AI Developer Desktop</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-02 01:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/breachprotocol/turn-the-camera-away-and-the-ais-world-freezes-3ggo" target="_blank">Turn the camera away, and the AI&#x27;s world freezes</a></span>
                 <span class="feed">DEV Community</span>
@@ -177,6 +187,15 @@
                 <span class="title"><a href="https://dev.to/dharu_namikaze/stripped-the-best-feature-out-of-google-antigravity-and-made-it-open-source-3oo" target="_blank">Stripped the best feature out of Google Antigravity and made it open source</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-01 23:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/linux-app-release-roundup-june-2026.webp?resize=406%2C232&amp;ssl=1" alt="Linux App Release Roundup (June 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/linux-app-release-roundup-june-2026" target="_blank">Linux App Release Roundup (June 2026)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-01 22:35</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +214,6 @@
                 <span class="title"><a href="https://zcode.z.ai/en" target="_blank">ZCode – Harness for GLM-5.2</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-01 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexdegerman/how-i-built-a-real-time-multiplayer-prediction-game-with-nextjs-node-and-bigint-suffix-scaling-2pa3" target="_blank">How I Built a Real-Time Multiplayer Prediction Game with Next.js, Node, and BigInt Suffix Scaling</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-01 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Linux-June-2026" target="_blank">KDE Linux Introduces &quot;Developer Mode&quot; Option, Easier Log Collection</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-01 21:06</span>
             </div>
         </div>
 </div>
@@ -294,6 +295,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5864.png" alt="Moray Solves A Mystery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5864" target="_blank">Moray Solves A Mystery</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-02 00:36</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -325,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 01:37 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
