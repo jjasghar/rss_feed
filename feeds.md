@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 19:28:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-02 20:25:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 20:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/02/g-s1-131124/christian-missionaries-have-found-a-new-virtual-mission-territory" target="_blank">Christian missionaries have found a new (virtual) mission territory</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-02 20:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/pool-2-ap-gmh-260702_1783017648772_hpMain_4x3t_384.jpg" alt="Olympian David Hearn indicted for alleged vandalism of Reflecting Pool" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/olympian-david-hearn-indicted-alleged-vandalism-reflecting-pool/story?id=134420251" target="_blank">Olympian David Hearn indicted for alleged vandalism of Reflecting Pool</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-02 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260702-David-Hearn-vl-212p-b96d43.jpg" alt="U.S. Olympic canoeist David ‘Davey’ Hearn charged in Reflecting Pool vandalism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/us-olympian-david-hearn-charged-reflecting-pool-vandalism-rcna352788" target="_blank">U.S. Olympic canoeist David ‘Davey’ Hearn charged in Reflecting Pool vandalism</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-02 18:34</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +96,20 @@
                 <span class="time">2026-07-02 16:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116a/live/fcec98d0-763e-11f1-a627-714adb4eed6e.jpg" alt="Venezuela quake survivor pulled out alive after eight days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela quake survivor pulled out alive after eight days</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-02 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss" target="_blank">Into the Darkness</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-02 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-500x500.jpg" alt="Newly discovered PamStealer isn&#x27;t your typical macOS malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/" target="_blank">Newly discovered PamStealer isn&#x27;t your typical macOS malware</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-02 19:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +153,6 @@
                 <span class="title"><a href="https://www.wired.com/story/the-dea-plans-to-ban-kratom-compound-7-oh-sold-as-a-gas-station-opioid/" target="_blank">The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-02 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/" target="_blank">Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-02 15:26</span>
             </div>
         </div>
 </div>
@@ -222,6 +222,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/" target="_blank">FBI Seizes NetNut Proxy Platform, Popa Botnet</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-07-02 19:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html" target="_blank">Cybersecurity Mission Creep in the US</a></span>
                 <span class="feed">Schneier on Security</span>
@@ -233,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWJ0Y50E4NYTVYAGJGWWS2ZJ/hero-image.jpg" alt="10 Hacks Every Fitbit Air User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/hacks-every-fitbit-air-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Fitbit Air User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-02 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/IMG_4066-1280x720.jpg" alt="Captain America’s Bulge Won’t Stop Jiggling In His New Marvel Rivals Summer Skin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvel-rivals-captain-america-summer-skin-physics-2000712337" target="_blank">Captain America’s Bulge Won’t Stop Jiggling In His New Marvel Rivals Summer Skin</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-02 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/ff7-a-1280x732.jpg" alt="Final Fantasy 7 Revelation Might Be Getting Story DLC Based On New Leak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +296,6 @@
                 <span class="time">2026-07-02 15:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/03-lunar-canoyons-image-two.webp?fit=1160%2C653&amp;quality=55&amp;ssl=1" alt="Nixon gave Cyprus a piece of the moon. Then a coup made it disappear." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/02/nixon-gave-cyprus-a-piece-of-the-moon-then-a-coup-made-it-disappear.html" target="_blank">Nixon gave Cyprus a piece of the moon. Then a coup made it disappear.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-02 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2022/07/994c1fdcdf5808a9f466007f07c8aee1-1280x720.jpg" alt="It’s Too Hot To Play Video Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/it-s-too-hot-to-play-video-games-1847410462" target="_blank">It’s Too Hot To Play Video Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-02 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 20:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
