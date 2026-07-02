@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 16:32:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-02 17:31:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Error processing https://rss.slashdot.org/Slashdot/slashdotMain: The read operation timed out -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 16:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 17:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/02/nx-s1-5879113/heat-wave-nighttime-climate-change" target="_blank">The days are hot, but so are the nights. That&#x27;s a problem, experts say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-02 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/Folarin-Balogun-2-rt-gmh-260702_1782997447936_hpMain_4x3t_384.jpg" alt="US soccer coach responds to World Cup red card suspension" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/us-soccer-star-folarin-baloguns-1-game-red/story?id=134403937" target="_blank">US soccer coach responds to World Cup red card suspension</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-02 16:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +99,20 @@
                 <span class="time">2026-07-02 12:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a5/live/7b404350-7601-11f1-b409-f16cfa99a4ec.jpg" alt="Labour failed to prepare for power, admits PM&#x27;s former top aide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&at_campaign=rss" target="_blank">Labour failed to prepare for power, admits PM&#x27;s former top aide</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-02 12:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2e/live/248b9c60-75d1-11f1-be8b-cbfeee563106.jpg" alt="&#x27;Most massive&#x27; Russian attack on Kyiv kills at least 18" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Most massive&#x27; Russian attack on Kyiv kills at least 18</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-02 11:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast" target="_blank">The video game disc is dead</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-02 16:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a4665ffbc6a7b7d7a89d98f/master/pass/070226_Kratom.jpg" alt="The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -156,15 +158,6 @@
                 <span class="time">2026-07-02 14:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/" target="_blank">US government says it got hacked — again</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-02 14:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +170,24 @@
                 <span class="title"><a href="https://dev.to/maverick_y_4e3300c63f2285/i-built-a-differential-tester-for-toon-and-it-found-two-silent-corruption-bugs-on-the-first-run-4ia7" target="_blank">I built a differential tester for TOON, and it found two silent-corruption bugs on the first run</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-02 16:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/swiftui-wwdc26/en/headerimage/swiftui-wwdc26-1783007395426.jpeg" alt="SwiftUI Adds New Document Protocol, Improves Performance, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/swiftui-wwdc26/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">SwiftUI Adds New Document Protocol, Improves Performance, and More</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-02 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/" target="_blank">How GitHub used secret scanning to reach inbox zero</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-02 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -206,24 +217,6 @@
                 <span class="time">2026-07-02 14:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/risc-v-rvv-vector-benchmarks" target="_blank">RISC-V RVV Vector Performance Benchmarks With The SpacemiT K3 SoC</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-02 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17371670/foss-weekly-26-27" target="_blank">FOSS Weekly #26.27: Dev Mode in KDE Linux, Local AI, De-Google Android, Free Terminal Starter Course, KDE Step and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-02 13:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWAFZSFYGGG5QVB0EF66YRR0/hero-image.jpg" alt="Apple Is Changing How It Issues Security Updates Due to Threats From AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-issuing-more-security-updates-due-to-ai-threats?utm_medium=RSS" target="_blank">Apple Is Changing How It Issues Security Updates Due to Threats From AI</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-02 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/playstation-games-1280x720.jpg" alt="The Video Game Industry’s Trade Body Doesn’t Want To Talk About Digital Ownership" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +290,6 @@
                 <span class="time">2026-07-02 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/Steam-Machine-Alt.jpg" alt="PlayStation Veteran Gives A Harsh Review Of The Steam Machine: ‘Am I Going Back To PS4 Days?’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-veteran-gives-a-harsh-review-of-the-steam-machine-am-i-going-back-to-ps4-days-2000712230" target="_blank">PlayStation Veteran Gives A Harsh Review Of The Steam Machine: ‘Am I Going Back To PS4 Days?’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-02 12:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 16:32 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 17:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
