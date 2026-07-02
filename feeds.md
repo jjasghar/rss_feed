@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 11:45:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-02 12:34:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 11:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 12:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a5/live/7b404350-7601-11f1-b409-f16cfa99a4ec.jpg" alt="Labour failed to prepare for power, admits PM&#x27;s former top aide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&at_campaign=rss" target="_blank">Labour failed to prepare for power, admits PM&#x27;s former top aide</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-02 12:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2e/live/248b9c60-75d1-11f1-be8b-cbfeee563106.jpg" alt="&#x27;Most massive&#x27; Russian attack on Kyiv kills at least 18" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Most massive&#x27; Russian attack on Kyiv kills at least 18</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-02 11:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +99,20 @@
                 <span class="time">2026-07-02 09:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak" target="_blank">Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-02 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2e/live/248b9c60-75d1-11f1-be8b-cbfeee563106.jpg" alt="At least 13 killed in large-scale Russian missile and drone strikes on Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss" target="_blank">At least 13 killed in large-scale Russian missile and drone strikes on Kyiv</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-02 06:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box" target="_blank">Mystery box shows are complicated for everyone — even the actors</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-02 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f5039cd2f33f723151e0ca/master/pass/The-Best-Travel-Adapters.jpg" alt="8 Best Travel Adapters (2026): My Top Recommendations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +158,29 @@
                 <span class="time">2026-07-02 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/" target="_blank">Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-01 23:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yimtheppariyapol/the-whole-pm-craft-packed-into-68-skills-and-the-one-that-made-me-stop-and-look-47" target="_blank">The whole PM craft, packed into ~68 skills, and the one that made me stop and look</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-02 12:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/YSERVER-1.3-Released" target="_blank">Vibe Coded X11 Server Written In Rust Adds Xinerama, FreeBSD Support &amp; Other Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-02 12:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +217,6 @@
                 <span class="time">2026-07-02 09:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/service-level-prioritized-load-shedding/en/mediumimage/medium-1782221254342.jpg" alt="Presentation: Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/service-level-prioritized-load-shedding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-02 09:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/07/02/ai-coding-chaos-into-a-repeatable-playbook/" target="_blank">How do you turn AI coding chaos into a repeatable playbook?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​﻿​﻿‌﻿‌‍‌‍​﻿​​​﻿‍​​﻿‍​​﻿​‍​‍﻿‌‌‍‌‌​﻿​‌‌‍​‌​﻿‌﻿​‍﻿‌​﻿‌​‌‍‌​​﻿​​‌‍‌‌​‍﻿‌​﻿‍‌‌‍‌‌​﻿​​​﻿‌‍​‍﻿‌​﻿‍​​﻿‌‍‌‍​﻿‌‍​﻿‌‍‌‌​﻿‍‌‌‍​﻿​﻿​﻿​﻿‌‍​﻿​‌​﻿​﻿‌‍​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​﻿​﻿‌﻿‌‍‌‍​﻿​​​﻿‍​​﻿‍​​﻿​‍​‍﻿‌‌‍‌‌​﻿​‌‌‍​‌​﻿‌﻿​‍﻿‌​﻿‌​‌‍‌​​﻿​​‌‍‌‌​‍﻿‌​﻿‍‌‌‍‌‌​﻿​​​﻿‌‍​‍﻿‌​﻿‍​​﻿‌‍‌‍​﻿‌‍​﻿‌‍‌‌​﻿‍‌‌‍​﻿​﻿​﻿​﻿‌‍​﻿​‌​﻿​﻿‌‍​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-07-02 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/jackassmovie-1280x720.jpg" alt="The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-new-jackass-movie-does-something-hollywood-franchises-never-do-anymore-say-goodbye-and-end-2000712073" target="_blank">The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-02 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/weird-al-1280x720.jpg" alt="Weird Al Continues To Prove He’s The Best, Refusing To Shill For AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +290,6 @@
                 <span class="time">2026-07-01 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HJQ9J6DXKK9CQWAW4DENY/hero-image.jpg" alt="How to Tell the Difference Between Heat Exhaustion and Heat Stroke" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/the-difference-between-heat-exhaustion-heat-stroke?utm_medium=RSS" target="_blank">How to Tell the Difference Between Heat Exhaustion and Heat Stroke</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-01 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 11:45 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 12:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
