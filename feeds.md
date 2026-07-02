@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 00:26:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-02 01:37:38 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 00:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 01:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +47,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/2/a-war-zone-venezuela-aid-workers-fear-health-crisis-after-earthquakes?traffic_source=rss" target="_blank">‘A war zone’: Venezuela aid workers fear health crisis after earthquakes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-02 01:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/wc-6-ap-gmh-260619_1781899018384_hpMain_2_4x3t_384.jpg" alt="What to know about tonight’s USMNT World Cup match" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/usmnt-faces-bosnia-herzegovina-world-cups-knockout-round/story?id=134347846" target="_blank">What to know about tonight’s USMNT World Cup match</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-02 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/2/belgium-stage-3-2-comeback-win-over-senegal-to-enter-world-cup-last?traffic_source=rss" target="_blank">Belgium stage 3–2 comeback win over Senegal to enter World Cup last 16</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-02 00:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/20/09/1920x1080/skynews-hacker-us-hacking_5104463.jpg?20200922051705" alt="Alleged member of hacking group Scattered Spider arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/alleged-member-of-international-cyber-hacking-group-scattered-spider-arrested-13559690" target="_blank">Alleged member of hacking group Scattered Spider arrested</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-01 23:38</span>
             </div>
         </div>
 <div class="story">
@@ -67,33 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss" target="_blank">US judge sides with NAACP over proposed mail-in ballot restrictions</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-01 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2078/live/ee675030-758e-11f1-92e5-efd489c4d444.jpg" alt="Aunt of Venezuelan boy pulled from rubble tells BBC she will give him &#x27;mother&#x27;s warmth&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss" target="_blank">Aunt of Venezuelan boy pulled from rubble tells BBC she will give him &#x27;mother&#x27;s warmth&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-01 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss" target="_blank">US signs $1 lease with Israel to build permanent embassy in West Jerusalem</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-01 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/earthquake-1-ap-gmh-260701_1782937427104_hpMain_4x3t_384.jpg" alt="Venezuela earthquakes latest: Nearly 50,000 unaccounted for as death toll climbs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/venezuela-earthquakes-latest-50000-unaccounted-death-toll-climbs/story?id=134386173" target="_blank">Venezuela earthquakes latest: Nearly 50,000 unaccounted for as death toll climbs</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-01 20:38</span>
             </div>
         </div>
 </div>
@@ -319,22 +320,13 @@
                 <span class="time">2026-07-01 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5863.png" alt="Makes Sense To Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5863" target="_blank">Makes Sense To Me</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-01 00:33</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 00:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 01:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
