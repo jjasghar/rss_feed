@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 08:59:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-02 10:06:22 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 08:59 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 10:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2e/live/248b9c60-75d1-11f1-be8b-cbfeee563106.jpg" alt="At least 13 killed in &#x27;most massive&#x27; Russian attack on Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss" target="_blank">At least 13 killed in &#x27;most massive&#x27; Russian attack on Kyiv</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-02 09:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak" target="_blank">Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-02 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2e/live/248b9c60-75d1-11f1-be8b-cbfeee563106.jpg" alt="At least 13 killed in large-scale Russian missile and drone strikes on Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +99,20 @@
                 <span class="time">2026-07-02 03:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/315/723/46900608015-1080pnbcstations.jpg" alt="Estados Unidos con diez hombres clasifica a octavos tras vencer a Bosnia y Herzegovina" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/estados-unidos-con-diez-hombres-clasifica-a-octavos-tras-vencer-a-bosnia-y-herzegovina-tmvo13199622" target="_blank">Estados Unidos con diez hombres clasifica a octavos tras vencer a Bosnia y Herzegovina</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-02 02:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Sports/SOCCER-WORLDCUP-USA-BIH-_1782957470443_hpMain_4x3t_384.jpg" alt="US defeats Bosnia-Herzegovina 2-0, advancing to World Cup round of 16" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/usmnt-faces-bosnia-herzegovina-world-cups-knockout-round/story?id=134347846" target="_blank">US defeats Bosnia-Herzegovina 2-0, advancing to World Cup round of 16</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-02 02:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a440cd07bfc78bf5e9f6406/master/pass/GenZ-Luddite-Summer-Culture-IMG_4448.jpg" alt="Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/" target="_blank">Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-02 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +158,38 @@
                 <span class="time">2026-07-01 22:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-500x500.jpg" alt="T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/" target="_blank">T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-01 21:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prathamchauhan/how-to-let-a-vercel-app-read-a-private-clickhouse-on-ec2-using-cloudflare-tunnel-3kjp" target="_blank">How to Let a Vercel App Read a Private ClickHouse on EC2 (Using Cloudflare Tunnel)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-02 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rusticl-Better-Utilization-Mesa" target="_blank">Rusticl OpenCL Driver Improving Hardware Utilization In Mesa 26.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-02 09:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/service-level-prioritized-load-shedding/en/mediumimage/medium-1782221254342.jpg" alt="Presentation: Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/service-level-prioritized-load-shedding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-02 09:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,33 +215,6 @@
                 <span class="title"><a href="https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/" target="_blank">Kimi K2.7 Code is generally available in GitHub Copilot</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-02 04:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Council-AI-Desktop" target="_blank">Fedora Council Seeks To Shutdown Current Discussions Over AI Developer Desktop</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-02 01:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/breachprotocol/turn-the-camera-away-and-the-ais-world-freezes-3ggo" target="_blank">Turn the camera away, and the AI&#x27;s world freezes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-02 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dharu_namikaze/stripped-the-best-feature-out-of-google-antigravity-and-made-it-open-source-3oo" target="_blank">Stripped the best feature out of Google Antigravity and made it open source</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-01 23:13</span>
             </div>
         </div>
 </div>
@@ -325,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 240 |
-        🔄 Last Updated: 08:59 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 39 | 📸 With Images: 240 |
+        🔄 Last Updated: 10:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
