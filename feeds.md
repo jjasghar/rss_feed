@@ -1,44 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 21:23:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-02 22:20:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 36 feeds processed -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 21:23 UTC</div>
+    <div class="newspaper-date">Thursday, July 02, 2026 - 22:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/2/oyarzabal-scores-two-goals-as-spain-dominates-austria-in-world-cup-knockout?traffic_source=rss" target="_blank">Oyarzabal scores two goals as Spain dominates Austria in World Cup knockout</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-02 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/409/467/46916607948-1080pnbcstations.jpg" alt="Oyarzabal lidera a España en una sólida victoria sobre Austria." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/oyarzabal-lidera-a-espana-en-una-solida-victoria-sobre-austria-tmvo13199926" target="_blank">Oyarzabal lidera a España en una sólida victoria sobre Austria.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-02 21:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,29 +106,20 @@
                 <span class="time">2026-07-02 18:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/heat-4-gty-gmh-260702_1783015165495_hpMain_4x3t_384.jpg" alt="Heat wave forecast: Amtrak cancels some trains as intense heat continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/heat-wave-forecast-dangerous-temps-continue-july-4/story?id=134404736" target="_blank">Heat wave forecast: Amtrak cancels some trains as intense heat continues</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-02 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/07/02/g-s1-131712/photos-fans-gather-in-the-bay-area-for-the-world-cup-match-between-the-u-s-and-bosnia-herzegovina" target="_blank">Photos: Fans gather in the Bay Area for the World Cup match between the U.S. and Bosnia-Herzegovina</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-02 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges" target="_blank">Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-02 22:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,20 +165,29 @@
                 <span class="time">2026-07-02 18:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/" target="_blank">Boeing-owned Wisk Aero accused of firing manager who raised safety concerns</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-02 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcz4ytbajureytql7wwi4.jpg" alt="The Symfony Scheduler Component: Cron in Your App, Not Your Crontab" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gabrielanhaia/the-symfony-scheduler-component-cron-in-your-app-not-your-crontab-8p0" target="_blank">The Symfony Scheduler Component: Cron in Your App, Not Your Crontab</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-02 22:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data" target="_blank">Virginia bans sale of geolocation data</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-02 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,24 +224,6 @@
                 <span class="time">2026-07-02 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/" target="_blank">How GitHub used secret scanning to reach inbox zero</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-02 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dailycontext/how-docusign-is-bringing-contract-table-extraction-to-production-with-nvidia-nemotron-parse-3bnh" target="_blank">How Docusign is Bringing Contract Table Extraction to Production with NVIDIA Nemotron Parse</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-02 15:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -255,12 +253,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/snowrunner2-1280x720.jpg" alt="9 Perfectly Ice-Cold Video Games To Help You Survive The Summer Heat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hot-out-play-nice-cold-video-games-2000712347" target="_blank">9 Perfectly Ice-Cold Video Games To Help You Survive The Summer Heat</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-02 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2024/07/ed70760a47bcc0689184c4e5367e7e3d.jpg" alt="Suicide Squad Devs Open Up About The Game’s Struggles: ‘I Started Feeling Like I Wasn’t Making Games Anymore, I Was Following A Spreadsheet’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/suicide-squad-devs-open-up-about-the-games-struggles-i-started-feeling-like-i-wasnt-making-games-anymore-i-was-following-a-spreadsheet-2000712357" target="_blank">Suicide Squad Devs Open Up About The Game’s Struggles: ‘I Started Feeling Like I Wasn’t Making Games Anymore, I Was Following A Spreadsheet’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-02 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWHRC142G46RNKXEM0AKXA3M/hero-image.jpg" alt="10 Hacks Every MacBook Pro User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-macbook-pro-hacks?utm_medium=RSS" target="_blank">10 Hacks Every MacBook Pro User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-02 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -288,24 +304,6 @@
                 <span class="title"><a href="https://kotaku.com/final-fantasy-7-revelation-might-be-getting-story-dlc-based-on-new-leak-2000712290" target="_blank">Final Fantasy 7 Revelation Might Be Getting Story DLC Based On New Leak</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-02 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Photo-Ben-_26-Jerrys.jpg?fit=1080%2C769&amp;quality=60&amp;ssl=1" alt="Ben &amp; Jerry&#x27;s maintains a Flavor Graveyard of discontinued ice cream products" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/02/ben-jerrys-maintains-a-flavor-graveyard-of-discontinued-ice-cream-products.html" target="_blank">Ben &amp; Jerry&#x27;s maintains a Flavor Graveyard of discontinued ice cream products</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-02 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWAFZSFYGGG5QVB0EF66YRR0/hero-image.jpg" alt="Apple Is Changing How It Issues Security Updates Due to Threats From AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-issuing-more-security-updates-due-to-ai-threats?utm_medium=RSS" target="_blank">Apple Is Changing How It Issues Security Updates Due to Threats From AI</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-02 16:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 247 |
-        🔄 Last Updated: 21:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 22:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
