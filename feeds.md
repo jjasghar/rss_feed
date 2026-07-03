@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-03 15:36:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-03 16:28:19 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, July 03, 2026 - 15:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, July 03, 2026 - 16:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-george-stana-nandito-badea_7266213.jpg?20260605150543" alt="Two men jailed for stabbing TV presenter on street" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/two-men-recruited-by-iran-jailed-for-stabbing-iranian-tv-presenter-on-london-street-13559993" target="_blank">Two men jailed for stabbing TV presenter on street</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-03 15:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/3/election-wins-prove-pro-palestine-us-campus-protests-didnt-fail-activists?traffic_source=rss" target="_blank">Election wins prove pro-Palestine US campus protests didn’t fail: Activists</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-03 14:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/heat-4-gty-gmh-260702_1783015165495_hpMain_4x3t_384.jpg" alt="Heat wave forecast: Amtrak cancels over 2 dozen trains as intense heat continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/heat-wave-forecast-dangerous-temps-continue-july-4/story?id=134404736" target="_blank">Heat wave forecast: Amtrak cancels over 2 dozen trains as intense heat continues</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-03 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260703-declaration-independence-uk-mb-1340-0f2a13.jpg" alt="Rare copy of the Declaration of Independence seized by the British in 1776 is found" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/europe/rare-declaration-independence-found-in-uk-rcna352852" target="_blank">Rare copy of the Declaration of Independence seized by the British in 1776 is found</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-03 12:58</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +102,20 @@
                 <span class="time">2026-07-03 12:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/3/world-cup-wrap-day-22?traffic_source=rss" target="_blank">World cup wrap day 22</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-03 12:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party" target="_blank">July 4th events threatened by heat wave. And, Russia strikes on Ukraine&#x27;s capital</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-03 11:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783078040222_tdy_news_7a_engel_funeral_supreme_leader_260703_S3_1920x1080-f4b3t0.jpg" alt="Preparations Underway for Funeral of Iran’s Supreme Leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/preparations-underway-for-funeral-of-iran-s-supreme-leader-266128965961" target="_blank">Preparations Underway for Funeral of Iran’s Supreme Leader</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-03 11:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a47cb0ef78eee0a42c7fd67/master/pass/GettyImages-2273112054.jpg" alt="Google DeepMind Unionization Talks Are Off to a Rocky Start" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/" target="_blank">Google DeepMind Unionization Talks Are Off to a Rocky Start</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-03 16:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +161,38 @@
                 <span class="time">2026-07-03 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69bdf168d86dbf7bd47a3b44/master/pass/Best%20Non%20US%20Phones%20Update%202%20SOURCE%20Simon%20Hill.jpg" alt="7 Best Phones You Can’t Buy in the US (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/" target="_blank">7 Best Phones You Can’t Buy in the US (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-03 10:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/Ubuntu-Snap-package.jpg?resize=406%2C232&amp;ssl=1" alt="Snap Store downtime this weekend means no snap installs or updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/snap-store-offline-july-2026" target="_blank">Snap Store downtime this weekend means no snap installs or updates</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-03 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abhijith_p_subash/best-clipboard-managers-in-2026-mac-windows-linux-compared-i-tested-them-all-8a3" target="_blank">Best Clipboard Managers in 2026: Mac, Windows &amp; Linux Compared (I Tested Them All)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-03 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.356-Released" target="_blank">Vulkan Adds Extension For OCP&#x27;s Microscaling MX Formats To Help Machine Learning</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-03 15:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,33 +218,6 @@
                 <span class="title"><a href="https://github.com/rajtilakjee/dogesh" target="_blank">Dogesh is a Python-based interpreted programming language where every keyword speaks dog</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-07-03 14:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-cp-Ubuntu-Images" target="_blank">Rust Coreutils cp Ended Up Breaking Ubuntu Image Builds With Latest Incompatibility</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-03 12:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/hardwood-java-parquet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-03 12:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-DRM-First-For-Linux-7.3" target="_blank">Intel Prepares More Nova Lake Graphics/Display Enablement For Linux 7.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-03 11:30</span>
             </div>
         </div>
 </div>
@@ -248,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWJZXKTQZFMD1XX5E9DG054D/hero-image.png" alt="The Most Versatile DeWalt Cordless Tool I Use Is 55% Off for Lowe’s 4th of July Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/dewalt-cordless-oscillating-multitool-4th-of-july-sale-2026?utm_medium=RSS" target="_blank">The Most Versatile DeWalt Cordless Tool I Use Is 55% Off for Lowe’s 4th of July Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-03 15:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/indiepenance250-2-1280x720.jpg" alt="10 Extraordinary New Indie Games To Wishlist This 250th Indie-Penance Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +302,6 @@
                 <span class="time">2026-07-02 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWJ0Y50E4NYTVYAGJGWWS2ZJ/hero-image.jpg" alt="10 Hacks Every Fitbit Air User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/hacks-every-fitbit-air-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Fitbit Air User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-02 20:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 15:36 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 16:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
