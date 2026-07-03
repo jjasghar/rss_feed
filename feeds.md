@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-03 16:28:19 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-03 17:28:22 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, July 03, 2026 - 16:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, July 03, 2026 - 17:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +53,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260703-mamdani-mb-1631-09f517.jpg" alt="Mamdani offers a contrast to Trump’s vision for America in a 250th anniversary address" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/mamdani-offers-contrast-trumps-vision-america-250th-anniversary-addres-rcna352868" target="_blank">Mamdani offers a contrast to Trump’s vision for America in a 250th anniversary address</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-03 16:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/3/heavy-rain-floods-mumbai-during-intense-monsoon-spell?traffic_source=rss" target="_blank">Heavy rain floods Mumbai during intense monsoon spell</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-03 16:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/06/1920x1080/skynews-george-stana-nandito-badea_7266213.jpg?20260605150543" alt="Two men jailed for stabbing TV presenter on street" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/two-men-recruited-by-iran-jailed-for-stabbing-iranian-tv-presenter-on-london-street-13559993" target="_blank">Two men jailed for stabbing TV presenter on street</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-07-03 15:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da5c/live/fab66790-76f1-11f1-b9cc-bd5880081b3f.jpg" alt="Ukrainian suspect hunted by police after Monaco bomb attack was &#x27;disguised as a man&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss" target="_blank">Ukrainian suspect hunted by police after Monaco bomb attack was &#x27;disguised as a man&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-03 15:20</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +106,20 @@
                 <span class="time">2026-07-03 13:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260703-declaration-independence-uk-mb-1340-0f2a13.jpg" alt="Rare copy of the Declaration of Independence seized by the British in 1776 is found" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/europe/rare-declaration-independence-found-in-uk-rcna352852" target="_blank">Rare copy of the Declaration of Independence seized by the British in 1776 is found</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-03 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule?traffic_source=rss" target="_blank">Canada vs Morocco: World Cup Round of 16: Saibari, prediction, schedule</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-03 12:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442b/live/58bbd620-76d6-11f1-a627-714adb4eed6e.jpg" alt="Police criticise timing of decision on pubs staying open for England match" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&at_campaign=rss" target="_blank">Police criticise timing of decision on pubs staying open for England match</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-03 12:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/" target="_blank">Chevy built an all-American EV truck — why is nobody buying it?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-03 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a47cb0ef78eee0a42c7fd67/master/pass/GettyImages-2273112054.jpg" alt="Google DeepMind Unionization Talks Are Off to a Rocky Start" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +163,6 @@
                 <span class="title"><a href="https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/" target="_blank">Inside the Luddite festival harnessing Gen Z’s rage against Big Tech</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-03 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6966abea428592e866cf6614/master/pass/The%20Best%20Bone%20Conduction%20Headphones.png" alt="Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-bone-conduction-headphones/" target="_blank">Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-03 11:30</span>
             </div>
         </div>
 </div>
@@ -212,12 +216,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://res.infoq.com/news/2026/07/cloudflare-unified-data-platform/en/headerimage/generatedHeaderImage-1782169354918.jpg" alt="Cloudflare Details Unified Data Platform Where Billing Workloads Account for 53% of Queries" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/rajtilakjee/dogesh" target="_blank">Dogesh is a Python-based interpreted programming language where every keyword speaks dog</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-07-03 14:19</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/cloudflare-unified-data-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Details Unified Data Platform Where Billing Workloads Account for 53% of Queries</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-03 14:29</span>
             </div>
         </div>
 </div>
@@ -248,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/intergalactic-1280x710.jpg" alt="I Can Never Remember The Actual Name Of Naughty Dog’s New Space Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/i-can-never-remember-the-actual-name-of-naughty-dogs-new-space-game-2000712393" target="_blank">I Can Never Remember The Actual Name Of Naughty Dog’s New Space Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-03 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KWJZXKTQZFMD1XX5E9DG054D/hero-image.png" alt="The Most Versatile DeWalt Cordless Tool I Use Is 55% Off for Lowe’s 4th of July Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +306,6 @@
                 <span class="time">2026-07-02 21:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWHRC142G46RNKXEM0AKXA3M/hero-image.jpg" alt="10 Hacks Every MacBook Pro User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-macbook-pro-hacks?utm_medium=RSS" target="_blank">10 Hacks Every MacBook Pro User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-02 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 16:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 17:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
