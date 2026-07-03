@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-03 22:18:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-03 23:20:16 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, July 03, 2026 - 22:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, July 03, 2026 - 23:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss" target="_blank">Egypt say Dallas police officer pushed player, team director at World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-03 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/stage-mount-rushmore-rt-jt-260703_1783089332570_hpMain_4x3t_384.jpg" alt="White House says there&#x27;d be &#x27;no better addition&#x27; to Mount Rushmore than Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-heads-mount-rushmore-kick-off-america-250/story?id=134443201" target="_blank">White House says there&#x27;d be &#x27;no better addition&#x27; to Mount Rushmore than Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-03 22:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss" target="_blank">Is China’s new ethnic unity law a step towards forced assimilation?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-03 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death" target="_blank">Iran plans dayslong funeral for Supreme Leader Khamenei after war death</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-03 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f30/live/6152b0e0-770f-11f1-beb9-b5355696e847.jpg" alt="England v Mexico set to move to earlier kick-off time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&at_campaign=rss" target="_blank">England v Mexico set to move to earlier kick-off time</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-03 19:24</span>
             </div>
         </div>
 </div>
@@ -160,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz4ypacn11k7zrkz179lt.jpg" alt="Injecting Version Info at Build Time in Go With -ldflags" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j" target="_blank">Injecting Version Info at Build Time in Go With -ldflags</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-03 23:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -202,15 +216,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/snap-store-offline-july-2026" target="_blank">Snap Store downtime this weekend means no snap installs or updates</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-07-03 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abhijith_p_subash/best-clipboard-managers-in-2026-mac-windows-linux-compared-i-tested-them-all-8a3" target="_blank">Best Clipboard Managers in 2026: Mac, Windows &amp; Linux Compared (I Tested Them All)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-03 16:10</span>
             </div>
         </div>
 </div>
@@ -333,7 +338,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 22:18 UTC
+        🔄 Last Updated: 23:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
