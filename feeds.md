@@ -1,26 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-03 11:44:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-03 12:33:09 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, July 03, 2026 - 11:44 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, July 03, 2026 - 12:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442b/live/58bbd620-76d6-11f1-a627-714adb4eed6e.jpg" alt="Police criticise timing of decision on pubs staying open for England match" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&at_campaign=rss" target="_blank">Police criticise timing of decision on pubs staying open for England match</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-03 12:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/3/world-cup-wrap-day-22?traffic_source=rss" target="_blank">World cup wrap day 22</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-03 12:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783078040222_tdy_news_7a_engel_funeral_supreme_leader_260703_S3_1920x1080-f4b3t0.jpg" alt="Preparations Underway for Funeral of Iran’s Supreme Leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/preparations-underway-for-funeral-of-iran-s-supreme-leader-266128965961" target="_blank">Preparations Underway for Funeral of Iran’s Supreme Leader</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-03 11:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,38 +98,20 @@
                 <span class="time">2026-07-03 07:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/03/nx-s1-5880386/croatia-portugal-chaotic-minutes" target="_blank">Croatia vs. Portugal: What happened in those final, chaotic minutes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-03 06:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/03/g-s1-131904/ex-hk-bookseller-lam-wing-kee-detained-by-china-in-2015-dies-in-taiwan-at-70" target="_blank">Ex-HK bookseller Lam Wing-kee, detained by China in 2015, dies in Taiwan at 70</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-03 04:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/38eea710-5538-11f1-b682-cf91850925ea.png" alt="Mother says new custodial sentences for daughter&#x27;s rapists &#x27;better&#x27; but still &#x27;not enough&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvg53d9p18vo?at_medium=RSS&at_campaign=rss" target="_blank">Mother says new custodial sentences for daughter&#x27;s rapists &#x27;better&#x27; but still &#x27;not enough&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-03 04:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1176751554-500x500.jpg" alt="Inside the Luddite festival harnessing Gen Z’s rage against Big Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/" target="_blank">Inside the Luddite festival harnessing Gen Z’s rage against Big Tech</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-03 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6966abea428592e866cf6614/master/pass/The%20Best%20Bone%20Conduction%20Headphones.png" alt="Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,15 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead" target="_blank">Sony’s PlayStation disc factory is already being repurposed</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-03 01:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/" target="_blank">Last chance to apply — Startup Battlefield Australia applications close July 6</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-03 00:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 11:44 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 12:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
