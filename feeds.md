@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-03 20:22:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-03 21:22:46 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, July 03, 2026 - 20:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, July 03, 2026 - 21:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/3/nasa-launches-robotic-mission-to-save-telescope-falling-back-to-earth?traffic_source=rss" target="_blank">NASA launches robotic mission to save telescope falling back to Earth</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-03 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg" target="_blank">Taylor Swift and Travis Kelce fans gather for glimpse of top secret wedding</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-03 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f72b/live/871da560-771d-11f1-b976-0b9c15b0ccfc.jpg" alt="Starmer warns Burnham will have to spend time on global affairs, in first interview since quitting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer warns Burnham will have to spend time on global affairs, in first interview since quitting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-03 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +106,20 @@
                 <span class="time">2026-07-03 19:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/3/keiko-fujimori-officially-declared-winner-of-peru-presidential-race?traffic_source=rss" target="_blank">Keiko Fujimori officially declared winner of Peru presidential race</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-03 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/dc-heat-gty-jt-260703_1783095189881_hpMain_4x3t_384.jpg" alt="Heat wave forecast: Great American State Fair postponed amid extreme temps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/heat-wave-forecast-dangerous-temps-continue-july-4/story?id=134404736" target="_blank">Heat wave forecast: Great American State Fair postponed amid extreme temps</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-03 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/stage-mount-rushmore-rt-jt-260703_1783089332570_hpMain_4x3t_384.jpg" alt="Trump heads to Mount Rushmore to kick off America 250 celebrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-heads-mount-rushmore-kick-off-america-250/story?id=134443201" target="_blank">Trump heads to Mount Rushmore to kick off America 250 celebrations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-03 16:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/" target="_blank">The only AI glossary you’ll need this year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-03 21:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a4458adca4ecb6c5b11ffa9/master/pass/Nuclear-Startups-Hit-Big-Milestone-Science.jpg" alt="3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +163,6 @@
                 <span class="title"><a href="https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras" target="_blank">While you’re watching the World Cup, the feds may be watching you</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-03 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave" target="_blank">Hydration isn’t complicated: Just drink water</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-03 14:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 20:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 21:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
