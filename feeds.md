@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-03 18:24:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-03 19:28:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, July 03, 2026 - 18:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, July 03, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f30/live/6152b0e0-770f-11f1-beb9-b5355696e847.jpg" alt="England v Mexico set to move to earlier kick-off time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&at_campaign=rss" target="_blank">England v Mexico set to move to earlier kick-off time</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-03 19:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +74,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/stage-mount-rushmore-rt-jt-260703_1783089332570_hpMain_4x3t_384.jpg" alt="Trump heads to Mount Rushmore to kick off America 250 celebrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-heads-mount-rushmore-kick-off-america-250/story?id=134443201" target="_blank">Trump heads to Mount Rushmore to kick off America 250 celebrations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-03 16:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260703-mamdani-mb-1631-09f517.jpg" alt="Mamdani offers a contrast to Trump’s vision for America in a 250th anniversary address" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -81,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/3/heavy-rain-floods-mumbai-during-intense-monsoon-spell?traffic_source=rss" target="_blank">Heavy rain floods Mumbai during intense monsoon spell</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-03 16:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-george-stana-nandito-badea_7266213.jpg?20260605150543" alt="Two men jailed for stabbing TV presenter on street" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/two-men-recruited-by-iran-jailed-for-stabbing-iranian-tv-presenter-on-london-street-13559993" target="_blank">Two men jailed for stabbing TV presenter on street</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-03 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da5c/live/fab66790-76f1-11f1-b9cc-bd5880081b3f.jpg" alt="Ukrainian suspect hunted by police after Monaco bomb attack was &#x27;disguised as a man&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss" target="_blank">Ukrainian suspect hunted by police after Monaco bomb attack was &#x27;disguised as a man&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-03 15:20</span>
             </div>
         </div>
 </div>
@@ -233,20 +232,20 @@
                 <span class="time">2026-07-03 11:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/" target="_blank">FBI Seizes NetNut Proxy Platform, Popa Botnet</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-07-02 19:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/usedgames-1280x720.jpg" alt="Man, I Miss Big Bargain Bins Of Used Video Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/man-i-miss-big-bargain-bins-of-used-video-games-2000712341" target="_blank">Man, I Miss Big Bargain Bins Of Used Video Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-03 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/ninjala-2-1280x760.jpg" alt="Hands-On With Ninjala 2: The Anime Brawler Returns To Switch 2 With A New Twist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,20 +291,20 @@
                 <span class="time">2026-07-03 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/IBM_5100_-_MfK_Bern-scaled.jpg?fit=2560%2C1875&amp;quality=60&amp;ssl=1" alt="John Titor, the internet&#x27;s most famous time traveler, vanished in 2001" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/02/john-titor-the-internets-most-famous-time-traveler-vanished-in-2001.html" target="_blank">John Titor, the internet&#x27;s most famous time traveler, vanished in 2001</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-03 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/03/once-upon-a-galaxy-2" target="_blank">Once Upon A Galaxy!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-03 18:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1783019248-20260703.png" alt="Saturday Morning Breakfast Cereal - Percent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -338,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 253 |
-        🔄 Last Updated: 18:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
