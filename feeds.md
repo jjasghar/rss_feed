@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-03 17:28:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-03 18:24:07 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, July 03, 2026 - 17:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, July 03, 2026 - 18:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/3/keiko-fujimori-officially-declared-winner-of-peru-presidential-race?traffic_source=rss" target="_blank">Keiko Fujimori officially declared winner of Peru presidential race</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-03 18:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/dc-heat-gty-jt-260703_1783095189881_hpMain_4x3t_384.jpg" alt="Heat wave forecast: Great American State Fair postponed amid extreme temps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/heat-wave-forecast-dangerous-temps-continue-july-4/story?id=134404736" target="_blank">Heat wave forecast: Great American State Fair postponed amid extreme temps</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-03 18:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260703-mamdani-mb-1631-09f517.jpg" alt="Mamdani offers a contrast to Trump’s vision for America in a 250th anniversary address" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,29 +101,20 @@
                 <span class="time">2026-07-03 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/3/election-wins-prove-pro-palestine-us-campus-protests-didnt-fail-activists?traffic_source=rss" target="_blank">Election wins prove pro-Palestine US campus protests didn’t fail: Activists</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-03 14:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/heat-4-gty-gmh-260702_1783015165495_hpMain_4x3t_384.jpg" alt="Heat wave forecast: Amtrak cancels over 2 dozen trains as intense heat continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/heat-wave-forecast-dangerous-temps-continue-july-4/story?id=134404736" target="_blank">Heat wave forecast: Amtrak cancels over 2 dozen trains as intense heat continues</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-03 13:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update" target="_blank">Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-03 17:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,20 +160,29 @@
                 <span class="time">2026-07-03 13:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1176751554-500x500.jpg" alt="Inside the Luddite festival harnessing Gen Z’s rage against Big Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/" target="_blank">Inside the Luddite festival harnessing Gen Z’s rage against Big Tech</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-03 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mqasimca/send-shipment-updates-from-a-logistics-email-agent-41aa" target="_blank">Send shipment updates from a logistics email agent</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-03 18:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/05/ubuntu-logo-and-the-snapcraft-logo-tiled.jpg?resize=406%2C232&amp;ssl=1" alt="Snap Store will be down for maintenance this weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/snap-store-offline-july-2026" target="_blank">Snap Store will be down for maintenance this weekend</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-03 16:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/Ubuntu-Snap-package.jpg?resize=406%2C232&amp;ssl=1" alt="Snap Store downtime this weekend means no snap installs or updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,28 +213,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Coreboot-openSIL-MSI-Windows" target="_blank">Coreboot + AMD openSIL On MSI Ryzen Motherboard Now Works With Windows 11</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-03 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3y89ifqpfis8owftswd0.jpg" alt="Building a Fast, Free Online QR Scanner and Generator (Open Source)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/salman_ali_81cfecb56b4bf7/building-a-fast-free-online-qr-scanner-and-generator-open-source-bo5" target="_blank">Building a Fast, Free Online QR Scanner and Generator (Open Source)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-03 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/cloudflare-unified-data-platform/en/headerimage/generatedHeaderImage-1782169354918.jpg" alt="Cloudflare Details Unified Data Platform Where Billing Workloads Account for 53% of Queries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/cloudflare-unified-data-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Details Unified Data Platform Where Billing Workloads Account for 53% of Queries</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-03 14:29</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts" target="_blank">Claude, please stop trying to memorize random crap</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-03 15:32</span>
             </div>
         </div>
 </div>
@@ -252,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/ninjala-2-1280x760.jpg" alt="Hands-On With Ninjala 2: The Anime Brawler Returns To Switch 2 With A New Twist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hands-on-with-ninjala-2-the-anime-brawler-returns-to-switch-2-with-a-new-twist-2000712493" target="_blank">Hands-On With Ninjala 2: The Anime Brawler Returns To Switch 2 With A New Twist</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-03 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/toohey-1115883.jpg?fit=1200%2C595&amp;quality=60&amp;ssl=1" alt="57 AI billionaires are worth $320 billion combined" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/03/57-ai-billionaires-are-worth-320-billion-combined.html" target="_blank">57 AI billionaires are worth $320 billion combined</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-03 17:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/intergalactic-1280x710.jpg" alt="I Can Never Remember The Actual Name Of Naughty Dog’s New Space Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,24 +299,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/02/john-titor-the-internets-most-famous-time-traveler-vanished-in-2001.html" target="_blank">John Titor, the internet&#x27;s most famous time traveler, vanished in 2001</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-03 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/snowrunner2-1280x720.jpg" alt="9 Perfectly Ice-Cold Video Games To Help You Survive The Summer Heat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hot-out-play-nice-cold-video-games-2000712347" target="_blank">9 Perfectly Ice-Cold Video Games To Help You Survive The Summer Heat</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-02 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/07/ed70760a47bcc0689184c4e5367e7e3d.jpg" alt="Suicide Squad Devs Open Up About The Game’s Struggles: ‘I Started Feeling Like I Wasn’t Making Games Anymore, I Was Following A Spreadsheet’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/suicide-squad-devs-open-up-about-the-games-struggles-i-started-feeling-like-i-wasnt-making-games-anymore-i-was-following-a-spreadsheet-2000712357" target="_blank">Suicide Squad Devs Open Up About The Game’s Struggles: ‘I Started Feeling Like I Wasn’t Making Games Anymore, I Was Following A Spreadsheet’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-02 21:04</span>
             </div>
         </div>
 </div>
@@ -343,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 17:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 253 |
+        🔄 Last Updated: 18:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
