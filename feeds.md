@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-03 00:23:34 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-07-03 01:31:22 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, July 03, 2026 - 00:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, July 03, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead" target="_blank">Sony’s PlayStation disc factory is already being repurposed</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-03 01:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a46d189d3a3e66a651b0e66/master/pass/IMG_0190.png" alt="The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -148,15 +156,6 @@
                 <span class="time">2026-07-02 20:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/" target="_blank">IQM, Europe’s first public quantum company, admits the future of the tech is uncertain</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-02 20:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,9 +165,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/leonardo_gomes_d16f42ac53/organization-isnt-just-about-code-its-about-team-process-5825" target="_blank">Organization Isn&#x27;t Just About Code — It&#x27;s About Team Process</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-03 01:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ReactOS-First-NT6-Syscall" target="_blank">ReactOS Implements First Windows NT6 System Call In Step Toward Vista Compatibility</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-03 00:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/6sensehq/the-best-mvps-feel-manual-before-they-feel-scalable-3695" target="_blank">The Best MVPs Feel Manual Before They Feel Scalable</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-03 00:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-3-2026" target="_blank">Friday Five — July 3, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-07-03 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +213,6 @@
                 <span class="title"><a href="https://dev.to/gabrielanhaia/the-symfony-scheduler-component-cron-in-your-app-not-your-crontab-8p0" target="_blank">The Symfony Scheduler Component: Cron in Your App, Not Your Crontab</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-02 22:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-Consider-Shadow-Stack" target="_blank">Fedora 45 Considering x86_64 Shadow Stack Usage By Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-02 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data" target="_blank">Virginia bans sale of geolocation data</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-02 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.zachtronics.com/exapunks/" target="_blank">Exapunks (2018)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-02 18:41</span>
             </div>
         </div>
 </div>
@@ -312,22 +311,13 @@
                 <span class="time">2026-07-02 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5864.png" alt="Moray Solves A Mystery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5864" target="_blank">Moray Solves A Mystery</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-02 00:36</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 00:23 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
