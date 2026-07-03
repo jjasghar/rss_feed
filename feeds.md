@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-03 12:33:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-03 13:31:03 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 03, 2026 - 12:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, July 03, 2026 - 13:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule?traffic_source=rss" target="_blank">Canada vs Morocco: World Cup Round of 16: Saibari, prediction, schedule</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-03 12:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442b/live/58bbd620-76d6-11f1-a627-714adb4eed6e.jpg" alt="Police criticise timing of decision on pubs staying open for England match" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party" target="_blank">July 4th events threatened by heat wave. And, Russia strikes on Ukraine&#x27;s capital</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-03 11:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783078040222_tdy_news_7a_engel_funeral_supreme_leader_260703_S3_1920x1080-f4b3t0.jpg" alt="Preparations Underway for Funeral of Iran’s Supreme Leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -78,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/3/us-police-staff-spark-altercation-with-egyptian-players-posing-with-fans?traffic_source=rss" target="_blank">US Police staff spark altercation with Egyptian players posing with fans</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-03 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/03/nx-s1-5845436/coffee-july-4-colonies-america-250-1776-boston-tea-party" target="_blank">But first, coffee: The drink that energized the American Revolution</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-03 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-anastasiia-berezovska_7288727.jpg?20260703111231" alt="Woman wanted over Monaco bombing &#x27;that targeted Ukrainian tycoon&#x27; is named" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/arrest-warrant-issued-for-woman-wanted-over-monaco-bombing-13560051" target="_blank">Woman wanted over Monaco bombing &#x27;that targeted Ukrainian tycoon&#x27; is named</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-03 07:38</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-cp-Ubuntu-Images" target="_blank">Rust Coreutils cp Ended Up Breaking Ubuntu Image Builds With Latest Incompatibility</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-03 12:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/hardwood-java-parquet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-03 12:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-DRM-First-For-Linux-7.3" target="_blank">Intel Prepares More Nova Lake Graphics/Display Enablement For Linux 7.3</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-03 11:30</span>
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/learnwithfun/what-is-python-and-how-to-get-started-a-beginners-guide-4ke2" target="_blank">What is Python and How to Get Started? (A Beginner&#x27;s Guide)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-03 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://stefan.schueller.net/posts/the-free-market-lie/" target="_blank">The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn&#x27;t</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-03 04:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abhinavdevs/variable-scope-and-variable-shadowing-in-golang-2hmo" target="_blank">Variable Scope and Variable Shadowing in Golang</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-03 04:13</span>
             </div>
         </div>
 </div>
@@ -335,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 12:33 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 13:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
