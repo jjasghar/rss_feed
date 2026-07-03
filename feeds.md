@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-02 23:21:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-03 00:23:34 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 02, 2026 - 23:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, July 03, 2026 - 00:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a46d189d3a3e66a651b0e66/master/pass/IMG_0190.png" alt="The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-onions-infowars-parody-is-here-alex-jones-is-going-to-hate-it/" target="_blank">The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-03 00:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -156,20 +157,20 @@
                 <span class="time">2026-07-02 20:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-500x500.jpg" alt="Newly discovered PamStealer isn&#x27;t your typical macOS malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/" target="_blank">Newly discovered PamStealer isn&#x27;t your typical macOS malware</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-02 19:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/6sensehq/the-best-mvps-feel-manual-before-they-feel-scalable-3695" target="_blank">The Best MVPs Feel Manual Before They Feel Scalable</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-03 00:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdlgrf9hw1hfq44fmfu00.png" alt="How to Connect Claude to Your WordPress Site in 5 Minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,15 +214,6 @@
                 <span class="title"><a href="https://www.zachtronics.com/exapunks/" target="_blank">Exapunks (2018)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-02 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17371813/collabora-office-26-04" target="_blank">Collabora Office 26.04 Keeps AI Optional and Refines Writer and Calc</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-02 16:41</span>
             </div>
         </div>
 </div>
@@ -334,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 23:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 00:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
