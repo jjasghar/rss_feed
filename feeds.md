@@ -1,34 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-07-03 10:51:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-03 11:44:24 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, July 03, 2026 - 10:51 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, July 03, 2026 - 11:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -63,6 +55,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-anastasiia-berezovska_7288727.jpg?20260703111231" alt="Woman wanted over Monaco bombing &#x27;that targeted Ukrainian tycoon&#x27; is named" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/arrest-warrant-issued-for-woman-wanted-over-monaco-bombing-13560051" target="_blank">Woman wanted over Monaco bombing &#x27;that targeted Ukrainian tycoon&#x27; is named</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-03 07:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -89,20 +90,20 @@
                 <span class="time">2026-07-03 04:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/GettyImages-2260538908_1783047264941_hpMain_4x3t_384.jpg" alt="DOJ declines to turn over additional Epstein files, says redactions were appropriate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/doj-declines-turn-additional-epstein-files-redactions/story?id=134430675" target="_blank">DOJ declines to turn over additional Epstein files, says redactions were appropriate</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-03 03:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6966abea428592e866cf6614/master/pass/The%20Best%20Bone%20Conduction%20Headphones.png" alt="Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-bone-conduction-headphones/" target="_blank">Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-03 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69bdf168d86dbf7bd47a3b44/master/pass/Best%20Non%20US%20Phones%20Update%202%20SOURCE%20Simon%20Hill.jpg" alt="7 Best Phones You Can’t Buy in the US (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +149,20 @@
                 <span class="time">2026-07-03 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a46d189d3a3e66a651b0e66/master/pass/IMG_0190.png" alt="The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-onions-infowars-parody-is-here-alex-jones-is-going-to-hate-it/" target="_blank">The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-03 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-DRM-First-For-Linux-7.3" target="_blank">Intel Prepares More Nova Lake Graphics/Display Enablement For Linux 7.3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-03 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +208,6 @@
                 <span class="time">2026-07-03 04:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dragos_roua/switching-from-claude-code-to-grok-same-interface-different-model-4kcn" target="_blank">Switching from Claude Code to Grok – Same Interface, Different Model</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-03 02:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -224,19 +216,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/" target="_blank">FBI Seizes NetNut Proxy Platform, Popa Botnet</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-07-02 19:27</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html" target="_blank">Flock Cameras Can Surveil Cars Without License Plates</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-03 11:15</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html" target="_blank">Cybersecurity Mission Creep in the US</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-02 11:11</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/" target="_blank">FBI Seizes NetNut Proxy Platform, Popa Botnet</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-07-02 19:27</span>
             </div>
         </div>
 </div>
@@ -313,6 +305,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5865.png" alt="Close Relations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5865" target="_blank">Close Relations</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-03 01:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1782855084-20260702.png" alt="Saturday Morning Breakfast Cereal - Adult" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -326,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 10:51 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 11:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
