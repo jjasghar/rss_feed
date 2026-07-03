@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-03 06:10:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-03 08:00:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, July 03, 2026 - 06:10 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, July 03, 2026 - 08:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +51,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/03/nx-s1-5880386/croatia-portugal-chaotic-minutes" target="_blank">Croatia vs. Portugal: What happened in those final, chaotic minutes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-03 06:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/03/g-s1-131904/ex-hk-bookseller-lam-wing-kee-detained-by-china-in-2015-dies-in-taiwan-at-70" target="_blank">Ex-HK bookseller Lam Wing-kee, detained by China in 2015, dies in Taiwan at 70</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-03 04:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/38eea710-5538-11f1-b682-cf91850925ea.png" alt="Mother says new custodial sentences for daughter&#x27;s rapists &#x27;better&#x27; but still &#x27;not enough&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvg53d9p18vo?at_medium=RSS&at_campaign=rss" target="_blank">Mother says new custodial sentences for daughter&#x27;s rapists &#x27;better&#x27; but still &#x27;not enough&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-03 04:24</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +101,20 @@
                 <span class="time">2026-07-03 01:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.guim.co.uk/img/media/d29634c780d5f82a8438482e7ab53b70831d9456/178_51_390_312/master/390.jpg?width=140&quality=85&auto=format&fit=max&s=5dacd17fd5f30448a549bac7637871ac" alt="‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips" target="_blank">‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-03 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48b/live/8ecc3ab0-76a0-11f1-a627-714adb4eed6e.jpg" alt="On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss" target="_blank">On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-02 23:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/" target="_blank">Politician who investigated spyware abuses had his phone hacked with Pegasus spyware</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-03 05:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges" target="_blank">Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-02 22:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai" target="_blank">Meta has a new app called Pocket that is absolutely nothing like the old Pocket</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-02 21:09</span>
             </div>
         </div>
 </div>
@@ -316,7 +321,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 06:10 UTC
+        🔄 Last Updated: 08:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
