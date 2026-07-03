@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-03 04:22:39 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-07-03 06:10:42 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, July 03, 2026 - 04:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, July 03, 2026 - 06:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/03/g-s1-131904/ex-hk-bookseller-lam-wing-kee-detained-by-china-in-2015-dies-in-taiwan-at-70" target="_blank">Ex-HK bookseller Lam Wing-kee, detained by China in 2015, dies in Taiwan at 70</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-03 04:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/GettyImages-2260538908_1783047264941_hpMain_4x3t_384.jpg" alt="DOJ declines to turn over additional Epstein files, says redactions were appropriate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,30 +79,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i.guim.co.uk/img/media/d29634c780d5f82a8438482e7ab53b70831d9456/178_51_390_312/master/390.jpg?width=140&quality=85&auto=format&fit=max&s=5dacd17fd5f30448a549bac7637871ac" alt="‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/02/nx-s1-5879162/freedom-250-report-house-democrats-controversy" target="_blank">House Democrats accuse Trump of &#x27;hijacking&#x27; America&#x27;s 250th birthday for his own gain</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-02 21:47</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips" target="_blank">‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-03 00:00</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48b/live/8ecc3ab0-76a0-11f1-a627-714adb4eed6e.jpg" alt="On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/2/oyarzabal-scores-two-goals-as-spain-dominates-austria-in-world-cup-knockout?traffic_source=rss" target="_blank">Oyarzabal scores two goals as Spain dominates Austria in World Cup knockout</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-02 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/409/467/46916607948-1080pnbcstations.jpg" alt="Oyarzabal lidera a España en una sólida victoria sobre Austria." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/oyarzabal-lidera-a-espana-en-una-solida-victoria-sobre-austria-tmvo13199926" target="_blank">Oyarzabal lidera a España en una sólida victoria sobre Austria.</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-02 21:31</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss" target="_blank">On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-02 23:15</span>
             </div>
         </div>
 </div>
@@ -165,6 +163,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/07/03/the-good-the-bad-and-the-ai-apps/" target="_blank">The good, the bad, and the AI apps​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌​​﻿​​​﻿​‌​﻿‌﻿​﻿‌‌‌‍‌‍​﻿‌​​‍﻿‌​﻿‌​​﻿​​‌‍​‌​﻿‍​​‍﻿‌​﻿‌​​﻿‌﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‍‌‌‍​‍‌‍​‍​﻿​﻿​‍﻿‌‌‍​‌​﻿‌​​﻿‌‌​﻿​﻿‌‍​‍​﻿​﻿​﻿​‍​﻿‌‍‌‍​‌‌‍​‌​﻿‌﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌​​﻿​​​﻿​‌​﻿‌﻿​﻿‌‌‌‍‌‍​﻿‌​​‍﻿‌​﻿‌​​﻿​​‌‍​‌​﻿‍​​‍﻿‌​﻿‌​​﻿‌﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‍‌‌‍​‍‌‍​‍​﻿​﻿​‍﻿‌‌‍​‌​﻿‌​​﻿‌‌​﻿​﻿‌‍​‍​﻿​﻿​﻿​‍​﻿‌‍‌‍​‌‌‍​‌​﻿‌﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-07-03 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/learnwithfun/what-is-python-and-how-to-get-started-a-beginners-guide-4ke2" target="_blank">What is Python and How to Get Started? (A Beginner&#x27;s Guide)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-03 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://stefan.schueller.net/posts/the-free-market-lie/" target="_blank">The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn&#x27;t</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-03 04:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/abhinavdevs/variable-scope-and-variable-shadowing-in-golang-2hmo" target="_blank">Variable Scope and Variable Shadowing in Golang</a></span>
                 <span class="feed">DEV Community</span>
@@ -187,33 +212,6 @@
                 <span class="title"><a href="https://dev.to/leonardo_gomes_d16f42ac53/organization-isnt-just-about-code-its-about-team-process-5825" target="_blank">Organization Isn&#x27;t Just About Code — It&#x27;s About Team Process</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-03 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ReactOS-First-NT6-Syscall" target="_blank">ReactOS Implements First Windows NT6 System Call In Step Toward Vista Compatibility</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-03 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/6sensehq/the-best-mvps-feel-manual-before-they-feel-scalable-3695" target="_blank">The Best MVPs Feel Manual Before They Feel Scalable</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-03 00:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-3-2026" target="_blank">Friday Five — July 3, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-07-03 00:00</span>
             </div>
         </div>
 </div>
@@ -244,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/IBM_5100_-_MfK_Bern-scaled.jpg?fit=2560%2C1875&amp;quality=60&amp;ssl=1" alt="John Titor, the internet&#x27;s most famous time traveler, vanished in 2001" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/02/john-titor-the-internets-most-famous-time-traveler-vanished-in-2001.html" target="_blank">John Titor, the internet&#x27;s most famous time traveler, vanished in 2001</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-03 02:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/snowrunner2-1280x720.jpg" alt="9 Perfectly Ice-Cold Video Games To Help You Survive The Summer Heat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +296,6 @@
                 <span class="time">2026-07-02 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/ff7-a-1280x732.jpg" alt="Final Fantasy 7 Revelation Might Be Getting Story DLC Based On New Leak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-7-revelation-might-be-getting-story-dlc-based-on-new-leak-2000712290" target="_blank">Final Fantasy 7 Revelation Might Be Getting Story DLC Based On New Leak</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-02 17:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 04:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 06:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
