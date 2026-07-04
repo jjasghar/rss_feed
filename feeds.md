@@ -1,39 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 22:16:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-04 23:18:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 22:16 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 23:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +55,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-ukrainian-drone-st-petersburg_7264305.jpg?20260603100334" alt="Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/st-petersburg-oil-terminal-hit-as-ukraine-targets-russia-in-major-drone-attack-13560510" target="_blank">Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-04 21:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,30 +92,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66eb/live/5b4cadc0-77d4-11f1-a11a-f7f719b3bf79.jpg" alt="Police leadership needs &#x27;ethical reset&#x27;, Lord Blunkett tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy0429yx1k9o?at_medium=RSS&at_campaign=rss" target="_blank">Police leadership needs &#x27;ethical reset&#x27;, Lord Blunkett tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-04 19:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/heat-dc-rt-jt-260703_1783101371232_hpMain_4x3t_384.jpg" alt="Disney Celebrates America live updates: Eagle-eye view of Great American State Fair" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/live-updates/disney-celebrates-america-live-updates-abc-marks-americas/?id=133895774" target="_blank">Disney Celebrates America live updates: Eagle-eye view of Great American State Fair</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-04 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/4/russias-medvedev-says-strait-of-hormuz-is-irans-nuclear?traffic_source=rss" target="_blank">Russia’s Medvedev says Strait of Hormuz is Iran’s ‘nuclear weapon’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-04 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations" target="_blank">Washington&#x27;s July 4 parade is off. The fireworks are still on</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-04 16:42</span>
             </div>
         </div>
 </div>
@@ -171,6 +177,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/samson_tanimawo/why-your-microservices-need-circuit-breakers-and-how-to-add-them-1ee8" target="_blank">Why Your Microservices Need Circuit Breakers (And How to Add Them)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-04 23:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/karthika_jasinska_443e83f/javascript-object-constructor-1oom" target="_blank">JavaScript Object Constructor</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-04 22:14</span>
@@ -212,20 +227,29 @@
                 <span class="time">2026-07-04 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1cl8lwpikftj0gx517gf.jpg" alt="Maps You Control: A Pure-Vector MapView And Pluggable Native Providers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codenameone/maps-you-control-a-pure-vector-mapview-and-pluggable-native-providers-409h" target="_blank">Maps You Control: A Pure-Vector MapView And Pluggable Native Providers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-04 14:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/5929022-tokyo-jungle-screenshot.jpg" alt="Seven Games To Download From PlayStation 3’s Storefront Before It Closes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/seven-games-to-download-from-playstation-3s-storefront-before-it-closes-2000712600" target="_blank">Seven Games To Download From PlayStation 3’s Storefront Before It Closes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-04 22:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Kyocera-DuraXE-Epic-E4830-Flip-Phone-ATT-GSM-Unlocked.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Want to cut back on screen time? Start with this $112 old-school flip phone (MSRP $269.99)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/04/want-to-cut-back-on-screen-time-start-with-this-112-old-school-flip-phone-msrp-269-99.html" target="_blank">Want to cut back on screen time? Start with this $112 old-school flip phone (MSRP $269.99)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-04 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/cap.jpg" alt="Spend Your Fourth Of July Figuring Out If Marvel Rivals Shrank Captain America’s Bulge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 22:16 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 23:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
