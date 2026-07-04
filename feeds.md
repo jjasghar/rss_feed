@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 15:21:59 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-04 16:18:49 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 15:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 16:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/dc-parachute-gty-jt-260703_1783096826702_hpMain_4x3t_384.jpg" alt="Disney Celebrates America live updates: DC&#x27;s Reagan Airport temporarily closed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/disney-celebrates-america-live-updates-abc-marks-americas/?id=133895774" target="_blank">Disney Celebrates America live updates: DC&#x27;s Reagan Airport temporarily closed</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-04 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/04/g-s1-129679/chutes-ladders-schistosomiasis-worms-parasites" target="_blank">Move over Chutes &amp; Ladders: Schisto &amp; Ladders has educational value plus worms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-04 15:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/476f/live/8c060860-77a9-11f1-90c7-73fde41eb72e.jpg" alt="Prince Harry will not be joined by Meghan and children on London trip" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +98,29 @@
                 <span class="time">2026-07-04 12:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/04/nx-s1-5871128/opinion-america-is-still-a-work-in-progress" target="_blank">Opinion: America is still a work in progress</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-04 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes" target="_blank">‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-04 11:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a46ad6eddd659cd42168382/master/pass/Livestream%20Top%20Art%20-%20Yahoo%20Boys.jpg" alt="Submit Your Questions: Inside The World of Online Romance Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/" target="_blank">Submit Your Questions: Inside The World of Online Romance Scams</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-04 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy" target="_blank">Matic’s robot vacuum is getting a $250 price hike in September</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-04 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +157,6 @@
                 <span class="time">2026-07-04 11:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a453f6f8f445966503e6c40/master/pass/GettyImages-458097145.jpg" alt="Where NASA Posts Its Best Space Photos, and How to Find Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/where-nasa-posts-its-best-space-photos/" target="_blank">Where NASA Posts Its Best Space Photos, and How to Find Them</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-04 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a464811cdac8962d86f5c0f/master/pass/070226_iPhone-Dum-Phone-GIF.gif" alt="This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/" target="_blank">This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-04 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/codenameone/maps-you-control-a-pure-vector-mapview-and-pluggable-native-providers-409h" target="_blank">Maps You Control: A Pure-Vector MapView And Pluggable Native Providers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-04 14:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/anthropics/claude-code/issues/74066" target="_blank">Potential session/cache leakage between workspace instances or consumer accounts</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-04 14:03</span>
             </div>
         </div>
 <div class="story">
@@ -209,20 +216,20 @@
                 <span class="time">2026-07-04 10:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17372577/brave-browser-containers" target="_blank">Brave Says This is Not a Privacy Feature, But Using Containers Has Its Perks</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-04 10:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/FileJump-2TB-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="2TB cloud storage, yours forever on sale for $59" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/04/2tb-cloud-storage-yours-forever-on-sale-for-59.html" target="_blank">2TB cloud storage, yours forever on sale for $59</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-04 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/danganronpa-1280x720.jpg" alt="Creator Says Fans Worried By Danganronpa 2×2′s Surprise Delay Can Just Play GTA 6 While They Wait" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,24 +266,6 @@
                 <span class="time">2026-07-03 17:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/intergalactic-1280x710.jpg" alt="I Can Never Remember The Actual Name Of Naughty Dog’s New Space Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/i-can-never-remember-the-actual-name-of-naughty-dogs-new-space-game-2000712393" target="_blank">I Can Never Remember The Actual Name Of Naughty Dog’s New Space Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-03 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWJZXKTQZFMD1XX5E9DG054D/hero-image.png" alt="The Most Versatile DeWalt Cordless Tool I Use Is 55% Off for Lowe’s 4th of July Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/dewalt-cordless-oscillating-multitool-4th-of-july-sale-2026?utm_medium=RSS" target="_blank">The Most Versatile DeWalt Cordless Tool I Use Is 55% Off for Lowe’s 4th of July Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-03 15:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 15:22 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 16:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
