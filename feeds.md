@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 20:18:04 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-07-04 21:16:51 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 20:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 21:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/04/g-s1-132025/mount-rushmore-speech-trump-july-4-250" target="_blank">In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-04 20:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert" target="_blank">Archaeologists uncover ancient Byzantine city in Egypt’s western desert</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-04 20:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations" target="_blank">Washington&#x27;s July 4 parade is off. The fireworks are still on</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-04 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/dc-parachute-gty-jt-260703_1783096826702_hpMain_4x3t_384.jpg" alt="Disney Celebrates America live updates: DC&#x27;s Reagan Airport temporarily closed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/disney-celebrates-america-live-updates-abc-marks-americas/?id=133895774" target="_blank">Disney Celebrates America live updates: DC&#x27;s Reagan Airport temporarily closed</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-04 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/04/g-s1-129679/chutes-ladders-schistosomiasis-worms-parasites" target="_blank">Move over Chutes &amp; Ladders: Schisto &amp; Ladders has educational value plus worms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-04 15:51</span>
             </div>
         </div>
 </div>
@@ -280,8 +273,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 20:18 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 21:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
