@@ -1,28 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 07:55:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-04 08:51:59 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 07:55 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 08:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/2283872994_1783127804228_hpMain_4x3t_384.jpg" alt="Disney Celebrates America live updates: Rare look inside Statue of Liberty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/disney-celebrates-america-live-updates-abc-marks-americas/?id=133895774" target="_blank">Disney Celebrates America live updates: Rare look inside Statue of Liberty</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-04 08:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,20 +105,20 @@
                 <span class="time">2026-07-03 23:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss" target="_blank">Egypt say Dallas police officer pushed player, team director at World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-03 22:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/961332/qi-active-cooling-really-works" target="_blank">Qi fan fan</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-04 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,20 +164,29 @@
                 <span class="time">2026-07-03 16:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras" target="_blank">While you’re watching the World Cup, the feds may be watching you</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-03 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/cycle-eu-control-plane/en/headerimage/generatedHeaderImage-1782203284411.jpg" alt="Cycle Introduces EU Control Plane as Sovereignty Debate Continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/cycle-eu-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cycle Introduces EU Control Plane as Sovereignty Debate Continues</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-04 08:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/" target="_blank">The bottleneck might be the air in the room</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-04 06:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/ubuntu-time-server.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu is swapping its time sync tool for a Rust-based version" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/wellallytech/stop-leaking-medical-data-build-a-privacy-first-skin-cancer-classifier-with-federated-learning--40o1" target="_blank">Stop Leaking Medical Data! Build a Privacy-First Skin Cancer Classifier with Federated Learning &amp; PySyft 🩺🛡️</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-04 01:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-GPU-Reset-Recovery-2026" target="_blank">GNOME Mutter GPU Reset Recovery Becoming A Reality</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-04 00:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fdjedkdlsspec/ai-assisted-authz-review-reading-permission-boundaries-in-ory-kratos-31cg" target="_blank">AI-Assisted AuthZ Review: Reading Permission Boundaries in Ory Kratos</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-04 00:12</span>
             </div>
         </div>
 </div>
@@ -311,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 07:55 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 08:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
