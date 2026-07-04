@@ -1,41 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 08:51:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-04 09:40:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 08:52 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 09:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -88,21 +77,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87fd/live/91ddb5d0-7763-11f1-a627-714adb4eed6e.jpg" alt="Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss" target="_blank">Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-04 02:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss" target="_blank">Iran war live: Millions expected in Tehran for funeral of Ali Khamenei</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-04 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/dc-sunrise-gty-jt-260703_1783096714334_hpMain_4x3t_384.jpg" alt="Disney Celebrates America live updates: ABC marks America&#x27;s 250th anniversary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/disney-celebrates-america-live-updates-abc-marks-americas/?id=133895774" target="_blank">Disney Celebrates America live updates: ABC marks America&#x27;s 250th anniversary</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-03 23:48</span>
             </div>
         </div>
 </div>
@@ -170,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/eqvps/running-a-mail-server-on-a-vps-what-actually-keeps-you-out-of-spam-2hop" target="_blank">Running a mail server on a VPS: what actually keeps you out of spam</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-04 09:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/07/cycle-eu-control-plane/en/headerimage/generatedHeaderImage-1782203284411.jpg" alt="Cycle Introduces EU Control Plane as Sovereignty Debate Continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -212,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/sifathossensuvo01/-ai-wont-replace-developers-but-developers-who-use-ai-will-replace-those-who-don-394l" target="_blank"># AI Won’t Replace Developers — But Developers Who Use AI Will Replace Those Who Don’</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-04 02:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wellallytech/stop-leaking-medical-data-build-a-privacy-first-skin-cancer-classifier-with-federated-learning--40o1" target="_blank">Stop Leaking Medical Data! Build a Privacy-First Skin Cancer Classifier with Federated Learning &amp; PySyft 🩺🛡️</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-04 01:15</span>
             </div>
         </div>
 </div>
@@ -324,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 08:52 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 09:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
