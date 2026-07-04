@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 04:19:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-04 06:01:56 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 04:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends" target="_blank">Cape Verde&#x27;s historic World Cup ride ends after pushing Argentina to the brink</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-04 05:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783138220471_now_brk_trump_mount_rushmore_julie_260703_S3_1920x1080-l6slc9.jpg" alt="Trump focuses America&#x27;s 250th anniversary speech on Communism and unity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-focuses-america-s-250th-anniversary-speech-on-communism-and-unity-266161221509" target="_blank">Trump focuses America&#x27;s 250th anniversary speech on Communism and unity</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-04 04:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss" target="_blank">Egypt say Dallas police officer pushed player, team director at World Cup</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-03 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/stage-mount-rushmore-rt-jt-260703_1783089332570_hpMain_4x3t_384.jpg" alt="White House says there&#x27;d be &#x27;no better addition&#x27; to Mount Rushmore than Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-heads-mount-rushmore-kick-off-america-250/story?id=134443201" target="_blank">White House says there&#x27;d be &#x27;no better addition&#x27; to Mount Rushmore than Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-03 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6d/live/57c990d0-772c-11f1-9510-1546718f668b.jpg" alt="Starmer tells of &#x27;intensely personal&#x27; decision to quit and warns Burnham in first interview since resigning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer tells of &#x27;intensely personal&#x27; decision to quit and warns Burnham in first interview since resigning</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-03 21:26</span>
             </div>
         </div>
 </div>
@@ -161,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/ubuntu-time-server.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu is swapping its time sync tool for a Rust-based version" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-ntpd-rs-rust-time-sync" target="_blank">Ubuntu is swapping its time sync tool for a Rust-based version</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-04 04:13</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/fdjedkdlsspec/ai-assisted-authz-review-reading-permission-boundaries-in-ory-kratos-31cg" target="_blank">AI-Assisted AuthZ Review: Reading Permission Boundaries in Ory Kratos</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-04 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz4ypacn11k7zrkz179lt.jpg" alt="Injecting Version Info at Build Time in Go With -ldflags" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j" target="_blank">Injecting Version Info at Build Time in Go With -ldflags</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-03 23:09</span>
             </div>
         </div>
 </div>
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 04:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
