@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 12:20:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-04 13:28:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 12:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f355/live/2bc17ce0-7791-11f1-a57a-7bede9cb391f.jpg" alt="Pubs and police brace for England-Mexico 1am kick-off after Fifa U-turn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy9r2x4pz1wo?at_medium=RSS&at_campaign=rss" target="_blank">Pubs and police brace for England-Mexico 1am kick-off after Fifa U-turn</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-04 12:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/04/nx-s1-5871128/opinion-america-is-still-a-work-in-progress" target="_blank">Opinion: America is still a work in progress</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-04 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-iran-supreme-leader_7289344.jpg?20260704092034" alt="Thousands gather for funeral of Iran&#x27;s assassinated supreme leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339" target="_blank">Thousands gather for funeral of Iran&#x27;s assassinated supreme leader</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-04 09:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/07/1920x1080/skynews-iran-supreme-leader_7289344.jpg?20260704092034" alt="Thousands gather for funeral of Iran&#x27;s assassinated supreme leader Ali Khamenei" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -69,38 +101,20 @@
                 <span class="time">2026-07-04 09:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/04/nx-s1-5877727/swing-voters-america-250-midterms" target="_blank">&#x27;Cautiously optimistic&#x27;:  Swing voters describe their view of America at 250</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-04 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/2283872994_1783127804228_hpMain_4x3t_384.jpg" alt="Disney Celebrates America live updates: Rare look inside Statue of Liberty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/disney-celebrates-america-live-updates-abc-marks-americas/?id=133895774" target="_blank">Disney Celebrates America live updates: Rare look inside Statue of Liberty</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-04 08:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years" target="_blank">Overseas education project for women and girls axed by UK after two years</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-04 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on" target="_blank">The square-ish phone that I wanted to love</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-04 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1302713332-500x500.jpg" alt="When the ability to smell goes away" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/" target="_blank">The only AI glossary you’ll need this year</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-03 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4458adca4ecb6c5b11ffa9/master/pass/Nuclear-Startups-Hit-Big-Milestone-Science.jpg" alt="3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/" target="_blank">3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-03 18:13</span>
             </div>
         </div>
 </div>
@@ -302,7 +307,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 12:21 UTC
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
