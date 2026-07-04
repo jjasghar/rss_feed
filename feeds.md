@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 10:36:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-04 11:28:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 10:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 11:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +107,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1302713332-500x500.jpg" alt="When the ability to smell goes away" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/" target="_blank">When the ability to smell goes away</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-04 11:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a453f6f8f445966503e6c40/master/pass/GettyImages-458097145.jpg" alt="Where NASA Posts Its Best Space Photos, and How to Find Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/where-nasa-posts-its-best-space-photos/" target="_blank">Where NASA Posts Its Best Space Photos, and How to Find Them</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-04 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a464811cdac8962d86f5c0f/master/pass/070226_iPhone-Dum-Phone-GIF.gif" alt="This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -142,24 +160,6 @@
                 <span class="time">2026-07-03 18:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update" target="_blank">Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-03 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/" target="_blank">Chevy built an all-American EV truck — why is nobody buying it?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-03 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +172,15 @@
                 <span class="title"><a href="https://dev.to/devyjones/rotating-proxies-for-scrapy-playwright-and-requests-one-small-library-2j97" target="_blank">Rotating proxies for Scrapy, Playwright and requests — one small library</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-04 10:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17372577/brave-browser-containers" target="_blank">Brave Says This is Not a Privacy Feature, But Using Containers Has Its Perks</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-04 10:10</span>
             </div>
         </div>
 <div class="story">
@@ -208,29 +217,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-ntpd-rs-rust-time-sync" target="_blank">Ubuntu is swapping its time sync tool for a Rust-based version</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-07-04 04:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/circuitrocks/kensat-a-home-built-cubesat-running-a-tinyllama-llm-in-orbit-3i59" target="_blank">KENSAT: A Home-Built CubeSat Running a TinyLlama LLM in Orbit</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-04 04:12</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html" target="_blank">Flock Cameras Can Surveil Cars Without License Plates</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-03 11:15</span>
             </div>
         </div>
 </div>
@@ -320,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 10:36 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 11:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
