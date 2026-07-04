@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 21:16:51 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-07-04 22:16:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 21:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 22:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +112,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/" target="_blank">New Google commercial imagines a Declaration of Independence written with help from AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-04 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies" target="_blank">NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-04 19:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/" target="_blank">Midjourney wants Hollywood studios to reveal the details of their AI usage</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-04 18:00</span>
@@ -136,29 +162,20 @@
                 <span class="time">2026-07-04 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy" target="_blank">Matic’s robot vacuum is getting a $250 price hike in September</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-04 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview" target="_blank">Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-04 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/karthika_jasinska_443e83f/javascript-object-constructor-1oom" target="_blank">JavaScript Object Constructor</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-04 22:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/codenameone/maps-you-control-a-pure-vector-mapview-and-pluggable-native-providers-409h" target="_blank">Maps You Control: A Pure-Vector MapView And Pluggable Native Providers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-04 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/anthropics/claude-code/issues/74066" target="_blank">Potential session/cache leakage between workspace instances or consumer accounts</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-04 14:03</span>
             </div>
         </div>
 </div>
@@ -260,6 +268,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/04/returnal-3" target="_blank">Returnal</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-04 17:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1783107265-20260704.png" alt="Saturday Morning Breakfast Cereal - Typical" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -273,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 21:17 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 22:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
