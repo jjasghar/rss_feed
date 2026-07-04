@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 14:29:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-04 15:21:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 14:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 15:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/476f/live/8c060860-77a9-11f1-90c7-73fde41eb72e.jpg" alt="Prince Harry will not be joined by Meghan and children on London trip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr5jpzn2814o?at_medium=RSS&at_campaign=rss" target="_blank">Prince Harry will not be joined by Meghan and children on London trip</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-04 15:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks" target="_blank">China&#x27;s military promotes 2 new generals after anti-corruption purge thins ranks</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-04 14:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/7/4/canada-vs-morocco-live-fifa-world-cup-2026-last-16?traffic_source=rss" target="_blank">Canada vs Morocco LIVE: FIFA World Cup 2026 last 16</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-04 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -76,29 +100,20 @@
                 <span class="time">2026-07-04 11:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/4/england-mexico-fifa-world-cup-azteca-kickoff-altitude-weather-explained?traffic_source=rss" target="_blank">England vs Mexico at Azteca: Kickoff, altitude and weather explained</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-04 11:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-iran-supreme-leader_7289344.jpg?20260704092034" alt="Thousands gather for funeral of Iran&#x27;s assassinated supreme leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339" target="_blank">Thousands gather for funeral of Iran&#x27;s assassinated supreme leader</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-04 09:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview" target="_blank">Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-04 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/" target="_blank">This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-04 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/961332/qi-active-cooling-really-works" target="_blank">Qi fan fan</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-04 07:00</span>
             </div>
         </div>
 </div>
@@ -218,6 +224,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/danganronpa-1280x720.jpg" alt="Creator Says Fans Worried By Danganronpa 2×2′s Surprise Delay Can Just Play GTA 6 While They Wait" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/creator-says-fans-worried-by-danganronpa-2x2s-surprise-delay-can-just-play-gta-6-while-they-wait-2000712572" target="_blank">Creator Says Fans Worried By Danganronpa 2×2′s Surprise Delay Can Just Play GTA 6 While They Wait</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-04 13:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/usedgames-1280x720.jpg" alt="Man, I Miss Big Bargain Bins Of Used Video Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -262,20 +277,20 @@
                 <span class="time">2026-07-03 15:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/indiepenance250-2-1280x720.jpg" alt="10 Extraordinary New Indie Games To Wishlist This 250th Indie-Penance Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/indie-penance-day-indie-games-steam-wishlist-deckbuilder-4x-2000712495" target="_blank">10 Extraordinary New Indie Games To Wishlist This 250th Indie-Penance Day</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-03 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1783107265-20260704.png" alt="Saturday Morning Breakfast Cereal - Typical" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/typical" target="_blank">Saturday Morning Breakfast Cereal - Typical</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-04 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -285,22 +300,13 @@
                 <span class="time">2026-07-03 18:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1783019248-20260703.png" alt="Saturday Morning Breakfast Cereal - Percent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/percent-2" target="_blank">Saturday Morning Breakfast Cereal - Percent</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-03 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 14:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 15:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
