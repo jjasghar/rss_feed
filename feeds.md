@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 00:22:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-04 01:31:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 00:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -83,21 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6d/live/57c990d0-772c-11f1-9510-1546718f668b.jpg" alt="Starmer tells of &#x27;intensely personal&#x27; decision to quit and warns Burnham in first interview since resigning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer tells of &#x27;intensely personal&#x27; decision to quit and warns Burnham in first interview since resigning</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-03 21:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/3/nasa-launches-robotic-mission-to-save-telescope-falling-back-to-earth?traffic_source=rss" target="_blank">NASA launches robotic mission to save telescope falling back to Earth</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-03 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg" target="_blank">Taylor Swift and Travis Kelce fans gather for glimpse of top secret wedding</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-03 21:03</span>
             </div>
         </div>
 </div>
@@ -168,6 +167,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wellallytech/stop-leaking-medical-data-build-a-privacy-first-skin-cancer-classifier-with-federated-learning--40o1" target="_blank">Stop Leaking Medical Data! Build a Privacy-First Skin Cancer Classifier with Federated Learning &amp; PySyft 🩺🛡️</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-04 01:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-GPU-Reset-Recovery-2026" target="_blank">GNOME Mutter GPU Reset Recovery Becoming A Reality</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-04 00:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/fdjedkdlsspec/ai-assisted-authz-review-reading-permission-boundaries-in-ory-kratos-31cg" target="_blank">AI-Assisted AuthZ Review: Reading Permission Boundaries in Ory Kratos</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-04 00:12</span>
@@ -198,24 +215,6 @@
                 <span class="title"><a href="https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/" target="_blank">Espionage Against the European Parliament</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-03 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/UPower-1.91.3" target="_blank">UPower 1.91.3 Fixes Behavior To Avoid Degrading Your Laptop Battery Faster</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-03 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mqasimca/send-shipment-updates-from-a-logistics-email-agent-41aa" target="_blank">Send shipment updates from a logistics email agent</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-03 18:11</span>
             </div>
         </div>
 </div>
@@ -323,22 +322,13 @@
                 <span class="time">2026-07-03 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5865.png" alt="Close Relations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5865" target="_blank">Close Relations</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-03 01:27</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 00:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
