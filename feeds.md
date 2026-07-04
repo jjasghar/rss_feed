@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 17:20:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-04 18:17:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 17:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 18:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations" target="_blank">Washington&#x27;s July 4 parade is off. The fireworks are still on</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-04 16:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/dc-parachute-gty-jt-260703_1783096826702_hpMain_4x3t_384.jpg" alt="Disney Celebrates America live updates: DC&#x27;s Reagan Airport temporarily closed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +94,20 @@
                 <span class="time">2026-07-04 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f355/live/2bc17ce0-7791-11f1-a57a-7bede9cb391f.jpg" alt="Pubs and police brace for England-Mexico 1am kick-off after Fifa U-turn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy9r2x4pz1wo?at_medium=RSS&at_campaign=rss" target="_blank">Pubs and police brace for England-Mexico 1am kick-off after Fifa U-turn</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-04 12:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/supergirl1-500x500-1782142632.jpg" alt="Review: Supergirl is not the disaster its low box office suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/" target="_blank">Review: Supergirl is not the disaster its low box office suggests</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-04 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +153,6 @@
                 <span class="time">2026-07-04 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685ab0fbecbfc34a8f85ebcc/master/pass/MagSafe%20Chargers%20Reviewer%20Collage_Source_Amazon.png" alt="15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-wireless-chargers/" target="_blank">15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-04 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,9 +162,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kloakd/why-browser-automation-is-broken-and-how-ai-agents-change-everything-2b48" target="_blank">Why Browser Automation is Broken - and How AI Agents Change Everything</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-04 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jimmy_8c1b32b2d6828c1b642/javanese-script-isnt-just-an-old-alphabet-its-a-completely-different-writing-system-2h3d" target="_blank">Javanese Script Isn&#x27;t Just &quot;An Old Alphabet&quot; — It&#x27;s a Completely Different Writing System</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-04 17:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://javoriuski.com/post/youtube" target="_blank">Leaking YouTube creators&#x27; private videos</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-04 16:45</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/4K-60-FPS-USB-Video-Capture" target="_blank">4K @ 60 FPS USB Video Capture Finally Becomes Less Problematic On Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-04 13:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aepfli/left-of-the-loop-the-trireme-3lei" target="_blank">Left of the Loop: The Trireme</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-04 12:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Mutter-Background-Blur" target="_blank">GNOME Lands ext-background-effect-v1 Support For Background Blur Effect</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-04 12:14</span>
             </div>
         </div>
 </div>
@@ -244,15 +244,6 @@
                 <span class="time">2026-07-03 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/ninjala-2-1280x760.jpg" alt="Hands-On With Ninjala 2: The Anime Brawler Returns To Switch 2 With A New Twist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hands-on-with-ninjala-2-the-anime-brawler-returns-to-switch-2-with-a-new-twist-2000712493" target="_blank">Hands-On With Ninjala 2: The Anime Brawler Returns To Switch 2 With A New Twist</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-03 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -281,8 +272,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 17:20 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 71 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 18:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
