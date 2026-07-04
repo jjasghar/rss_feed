@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 09:40:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-04 10:36:40 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 09:40 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 10:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-iran-supreme-leader_7289344.jpg?20260704092034" alt="Thousands gather for funeral of Iran&#x27;s assassinated supreme leader Ali Khamenei" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339" target="_blank">Thousands gather for funeral of Iran&#x27;s assassinated supreme leader Ali Khamenei</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-04 09:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/04/nx-s1-5877727/swing-voters-america-250-midterms" target="_blank">&#x27;Cautiously optimistic&#x27;:  Swing voters describe their view of America at 250</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-04 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/2283872994_1783127804228_hpMain_4x3t_384.jpg" alt="Disney Celebrates America live updates: Rare look inside Statue of Liberty" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/live-updates/disney-celebrates-america-live-updates-abc-marks-americas/?id=133895774" target="_blank">Disney Celebrates America live updates: Rare look inside Statue of Liberty</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-04 08:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years" target="_blank">Overseas education project for women and girls axed by UK after two years</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-04 08:00</span>
             </div>
         </div>
 <div class="story">
@@ -67,38 +101,20 @@
                 <span class="time">2026-07-04 04:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss" target="_blank">‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-04 02:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87fd/live/91ddb5d0-7763-11f1-a627-714adb4eed6e.jpg" alt="Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss" target="_blank">Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-04 02:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss" target="_blank">Iran war live: Millions expected in Tehran for funeral of Ali Khamenei</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-04 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a464811cdac8962d86f5c0f/master/pass/070226_iPhone-Dum-Phone-GIF.gif" alt="This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/" target="_blank">This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-04 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +160,20 @@
                 <span class="time">2026-07-03 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a47cb0ef78eee0a42c7fd67/master/pass/GettyImages-2273112054.jpg" alt="Google DeepMind Unionization Talks Are Off to a Rocky Start" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/" target="_blank">Google DeepMind Unionization Talks Are Off to a Rocky Start</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-03 16:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devyjones/rotating-proxies-for-scrapy-playwright-and-requests-one-small-library-2j97" target="_blank">Rotating proxies for Scrapy, Playwright and requests — one small library</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-04 10:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/circuitrocks/kensat-a-home-built-cubesat-running-a-tinyllama-llm-in-orbit-3i59" target="_blank">KENSAT: A Home-Built CubeSat Running a TinyLlama LLM in Orbit</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-04 04:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sifathossensuvo01/-ai-wont-replace-developers-but-developers-who-use-ai-will-replace-those-who-don-394l" target="_blank"># AI Won’t Replace Developers — But Developers Who Use AI Will Replace Those Who Don’</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-04 02:41</span>
             </div>
         </div>
 </div>
@@ -313,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 09:40 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 10:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
