@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-03 23:20:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-04 00:22:52 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, July 03, 2026 - 23:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 00:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss" target="_blank">Iran war live: Millions expected in Tehran for funeral of Ali Khamenei</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/dc-sunrise-gty-jt-260703_1783096714334_hpMain_4x3t_384.jpg" alt="Disney Celebrates America live updates: ABC marks America&#x27;s 250th anniversary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/disney-celebrates-america-live-updates-abc-marks-americas/?id=133895774" target="_blank">Disney Celebrates America live updates: ABC marks America&#x27;s 250th anniversary</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-03 23:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg" target="_blank">Taylor Swift and Travis Kelce fans gather for glimpse of top secret wedding</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-03 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f72b/live/871da560-771d-11f1-b976-0b9c15b0ccfc.jpg" alt="Starmer warns Burnham will have to spend time on global affairs, in first interview since quitting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer warns Burnham will have to spend time on global affairs, in first interview since quitting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-03 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss" target="_blank">Is China’s new ethnic unity law a step towards forced assimilation?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-03 19:59</span>
             </div>
         </div>
 </div>
@@ -165,12 +165,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fdjedkdlsspec/ai-assisted-authz-review-reading-permission-boundaries-in-ory-kratos-31cg" target="_blank">AI-Assisted AuthZ Review: Reading Permission Boundaries in Ory Kratos</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-04 00:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz4ypacn11k7zrkz179lt.jpg" alt="Injecting Version Info at Build Time in Go With -ldflags" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j" target="_blank">Injecting Version Info at Build Time in Go With -ldflags</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-03 23:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-51-Alpha" target="_blank">GNOME 51 Alpha Released With Numerous Enhancements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-03 22:43</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/mqasimca/send-shipment-updates-from-a-logistics-email-agent-41aa" target="_blank">Send shipment updates from a logistics email agent</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-03 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/05/ubuntu-logo-and-the-snapcraft-logo-tiled.jpg?resize=406%2C232&amp;ssl=1" alt="Snap Store will be down for maintenance this weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/snap-store-offline-july-2026" target="_blank">Snap Store will be down for maintenance this weekend</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-03 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/Ubuntu-Snap-package.jpg?resize=406%2C232&amp;ssl=1" alt="Snap Store downtime this weekend means no snap installs or updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/snap-store-offline-july-2026" target="_blank">Snap Store downtime this weekend means no snap installs or updates</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-03 16:28</span>
             </div>
         </div>
 </div>
@@ -337,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 23:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 00:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
