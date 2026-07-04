@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 18:17:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing 54 RSS feeds at 2026-07-04 19:26:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 18:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 19:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/heat-dc-rt-jt-260703_1783101371232_hpMain_4x3t_384.jpg" alt="Disney Celebrates America live updates: Eagle-eye view of Great American State Fair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/disney-celebrates-america-live-updates-abc-marks-americas/?id=133895774" target="_blank">Disney Celebrates America live updates: Eagle-eye view of Great American State Fair</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-04 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/4/russias-medvedev-says-strait-of-hormuz-is-irans-nuclear?traffic_source=rss" target="_blank">Russia’s Medvedev says Strait of Hormuz is Iran’s ‘nuclear weapon’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-04 18:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +100,20 @@
                 <span class="time">2026-07-04 15:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks" target="_blank">China&#x27;s military promotes 2 new generals after anti-corruption purge thins ranks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-04 14:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/7/4/canada-vs-morocco-live-fifa-world-cup-2026-last-16?traffic_source=rss" target="_blank">Canada vs Morocco LIVE: FIFA World Cup 2026 last 16</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-04 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/" target="_blank">Midjourney wants Hollywood studios to reveal the details of their AI usage</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-04 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/supergirl1-500x500-1782142632.jpg" alt="Review: Supergirl is not the disaster its low box office suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,15 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview" target="_blank">Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-04 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on" target="_blank">The square-ish phone that I wanted to love</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-04 13:00</span>
             </div>
         </div>
 </div>
@@ -218,6 +224,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/redring-1280x765.jpg" alt="The Steam Machine Has Its Own ‘Red Ring Of Death’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-steam-machine-has-its-own-red-ring-of-death-2000712587" target="_blank">The Steam Machine Has Its Own ‘Red Ring Of Death’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-04 16:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/FileJump-2TB-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="2TB cloud storage, yours forever on sale for $59" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -235,15 +250,6 @@
                 <span class="time">2026-07-04 13:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/usedgames-1280x720.jpg" alt="Man, I Miss Big Bargain Bins Of Used Video Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/man-i-miss-big-bargain-bins-of-used-video-games-2000712341" target="_blank">Man, I Miss Big Bargain Bins Of Used Video Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-03 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -258,22 +264,13 @@
                 <span class="time">2026-07-04 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/03/once-upon-a-galaxy-2" target="_blank">Once Upon A Galaxy!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-03 18:26</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 71 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 18:17 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 71 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 19:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
