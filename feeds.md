@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-04 11:28:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-04 12:20:52 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, July 04, 2026 - 11:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, July 04, 2026 - 12:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes" target="_blank">‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-04 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/4/england-mexico-fifa-world-cup-azteca-kickoff-altitude-weather-explained?traffic_source=rss" target="_blank">England vs Mexico at Azteca: Kickoff, altitude and weather explained</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-04 11:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/07/1920x1080/skynews-iran-supreme-leader_7289344.jpg?20260704092034" alt="Thousands gather for funeral of Iran&#x27;s assassinated supreme leader Ali Khamenei" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +94,6 @@
                 <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years" target="_blank">Overseas education project for women and girls axed by UK after two years</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-07-04 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends" target="_blank">Cape Verde&#x27;s historic World Cup ride ends after pushing Argentina to the brink</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-04 05:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783138220471_now_brk_trump_mount_rushmore_julie_260703_S3_1920x1080-l6slc9.jpg" alt="Trump focuses America&#x27;s 250th anniversary speech on Communism and unity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-focuses-america-s-250th-anniversary-speech-on-communism-and-unity-266161221509" target="_blank">Trump focuses America&#x27;s 250th anniversary speech on Communism and unity</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-04 04:10</span>
             </div>
         </div>
 </div>
@@ -169,6 +164,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aepfli/left-of-the-loop-the-trireme-3lei" target="_blank">Left of the Loop: The Trireme</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-04 12:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Mutter-Background-Blur" target="_blank">GNOME Lands ext-background-effect-v1 Support For Background Blur Effect</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-04 12:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devyjones/rotating-proxies-for-scrapy-playwright-and-requests-one-small-library-2j97" target="_blank">Rotating proxies for Scrapy, Playwright and requests — one small library</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-04 10:28</span>
@@ -199,24 +212,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/cycle-eu-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cycle Introduces EU Control Plane as Sovereignty Debate Continues</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-04 08:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/" target="_blank">The bottleneck might be the air in the room</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-04 06:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/ubuntu-time-server.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu is swapping its time sync tool for a Rust-based version" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-ntpd-rs-rust-time-sync" target="_blank">Ubuntu is swapping its time sync tool for a Rust-based version</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-04 04:13</span>
             </div>
         </div>
 </div>
@@ -306,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 11:28 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 12:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
