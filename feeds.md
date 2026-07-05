@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 10:41:09 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-05 11:29:20 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 10:41 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 11:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/5/sooryavanshi-sets-record-for-youngest-india-player-in-international-match?traffic_source=rss" target="_blank">Sooryavanshi sets record for youngest India player in international match</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-05 11:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/05/g-s1-132046/paul-pelosi-hit-and-run-california-car-damage" target="_blank">Paul Pelosi in hit-and-run in California, car left with major damage, authorities say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-05 10:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +99,20 @@
                 <span class="time">2026-07-05 08:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-speech-4th-4_1783222450817_hpMain_4x3t_384.jpg" alt="Trump celebrates July 4th in National Mall address, repeatedly touches on politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-hold-rally-celebrate-july-fourth-washington/story?id=134374334" target="_blank">Trump celebrates July 4th in National Mall address, repeatedly touches on politics</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-05 05:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2122/live/167ae740-7831-11f1-b395-4d0639d71a69.jpg" alt="US marks its 250th birthday with fireworks, flyovers and extreme weather" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss" target="_blank">US marks its 250th birthday with fireworks, flyovers and extreme weather</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-05 04:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238555391-500x500.jpg" alt="Chemical accidents rise as Trump administration proposes weakening safety rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/" target="_blank">Chemical accidents rise as Trump administration proposes weakening safety rules</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-05 11:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a47e564859a99ea1a378dc1/master/pass/Review--TCL-RM9L-RGB-Mini-LED-Smart-TV.jpg" alt="Review: TCL RM9L RGB-Mini LED (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +158,29 @@
                 <span class="time">2026-07-04 16:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion" target="_blank">White House deletes thousands of web pages about energy conservation as heatwave slams US</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-04 16:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sriharshagangisetty/why-i-built-mediashed-jd6" target="_blank">Why I built MediaShed</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-05 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Half-Life-2-ReactOS" target="_blank">ReactOS &quot;Open-Source Windows&quot; Project Now Capable Of Running Half-Life 2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-05 10:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/kiarina/extracting-speech-segments-with-silero-vad-and-onnx-runtime-3h8a" target="_blank">Extracting Speech Segments with Silero VAD and ONNX Runtime</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-05 07:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html" target="_blank">PEP 814: Add frozendict built-in type</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-07-05 06:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17373238/sipeeds-nanokvm-go-crowdfunding" target="_blank">Sipeed&amp;#x27;s New KVM Wants AI Agents to See and Control Your Screen</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-05 06:43</span>
             </div>
         </div>
 </div>
@@ -307,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 10:41 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 38 | 📸 With Images: 244 |
+        🔄 Last Updated: 11:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
