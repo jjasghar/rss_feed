@@ -1,28 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 22:17:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-05 23:20:36 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 22:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 23:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/5/venezuelan-leader-marks-independence-day-with-message-of-no-social-unrest?traffic_source=rss" target="_blank">Venezuelan leader marks Independence Day with message of ‘no social unrest’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-05 22:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,20 +100,29 @@
                 <span class="time">2026-07-05 17:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi" target="_blank">Guam and surrounding Pacific islands brace for impact of Super Typhoon Bavi</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-05 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep" target="_blank">Some of the nation’s rich are letting AI teach their kids</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-05 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/" target="_blank">Uber’s European expansion plans may have hit a speed bump</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-05 21:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,24 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy" target="_blank">Where to preorder Grand Theft Auto VI</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-05 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/" target="_blank">5 desk gadgets that can make your workday better</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-05 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence" target="_blank">Infuriating Google commercial imagines the founding fathers embracing AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-05 14:23</span>
             </div>
         </div>
 </div>
@@ -216,6 +224,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/psycho-1280x747.jpg" alt="Mob Psycho 100 Director Reflects On That Final Episode: ‘I Thought The way It Ended Was Great’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mob-psycho-100-director-reflects-on-that-final-episode-i-thought-the-way-it-ended-was-great-2000712700" target="_blank">Mob Psycho 100 Director Reflects On That Final Episode: ‘I Thought The way It Ended Was Great’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-05 22:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Windows-11-Pro.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Until the end of the day on July 5, you can get Windows 11 Pro for a one-time $10.49 payment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -260,15 +277,6 @@
                 <span class="time">2026-07-05 14:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/Love-and-Deepspaces-sexy-wolf-man-Valko-Papergames.jpg" alt="Love And Deepspace Petitions Demanding Devs ‘Bring Back’ Sexy Wolf Man Amass Over 300,000 Signatures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/love-and-deepspace-petitions-demanding-devs-bring-back-sexy-wolf-man-amass-over-300000-signatures-2000712590" target="_blank">Love And Deepspace Petitions Demanding Devs ‘Bring Back’ Sexy Wolf Man Amass Over 300,000 Signatures</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-05 13:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -288,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 22:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 23:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
