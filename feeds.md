@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 03:00:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing 54 RSS feeds at 2026-07-05 04:29:41 UTC -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 03:00 UTC</div>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 04:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/5/a-name-a-document-a-future-cameroons-fight-to-register-every-child?traffic_source=rss" target="_blank">A name, a document, a future: Cameroon’s fight to register every child</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-05 03:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e9/live/dde8f140-7800-11f1-b528-69433fdf608f.jpg" alt="Tuchel praises respectful Mexico fans amid increased security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss" target="_blank">Tuchel praises respectful Mexico fans amid increased security</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-05 02:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783217081435_nbc_spec_national_mall_reopens_260704_S3_1920x1080-wneo6a.jpg" alt="National Mall reopens after crowds shelter amid severe weather in D.C." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +94,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/thousands-shelter-in-government-buildings-after-salute-to-america-event-weather-delays-266182213888" target="_blank">Inside D.C. evacuation areas as guests wait for updates on Salute to America event</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-07-05 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/state-fair-gty-jt-260704_1783193417065_hpMain_4x3t_384.jpg" alt="Disney Celebrates America live updates: Star-Spangled Bash underway in Nashville" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/disney-celebrates-america-live-updates-abc-marks-americas/?id=133895774" target="_blank">Disney Celebrates America live updates: Star-Spangled Bash underway in Nashville</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-05 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/tm-lv-sal-sta-oah8am.jpg" alt="Salute to America 250 delayed due to weather" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-250th-anniversary-celebrated-in-d-c-with-salute-to-america-266181189759" target="_blank">Salute to America 250 delayed due to weather</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-04 23:34</span>
             </div>
         </div>
 </div>
@@ -307,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 04:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
