@@ -1,26 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 15:24:41 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-07-05 16:20:11 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 18 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 15:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 16:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +50,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/5/cape-verde-celebrates-teams-return-after-historic-world-cup?traffic_source=rss" target="_blank">Cape Verde celebrates team’s return after historic World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-05 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/05/g-s1-129643/construction-business-women-kenya" target="_blank">Construction is a man&#x27;s game. These women are demolishing the barriers</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -52,6 +72,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/5/extreme-weather-disrupts-uss-250th-anniversary-celebrations?traffic_source=rss" target="_blank">Extreme weather disrupts US’s 250th anniversary celebrations</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-05 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/862f/live/dccd2af0-7856-11f1-975d-e3c93736afa3.jpg" alt="Reform denies rules broken by Farage after benefits from ally not declared" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss" target="_blank">Reform denies rules broken by Farage after benefits from ally not declared</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-05 12:31</span>
             </div>
         </div>
 <div class="story">
@@ -72,29 +101,29 @@
                 <span class="time">2026-07-05 12:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/05/nx-s1-5804732/proposed-data-centers-in-pennsylvania-are-leading-strangers-to-mobilize-in-protest" target="_blank">Pennsylvania&#x27;s proposed data centers are bringing strangers together in protest</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-05 12:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss" target="_blank">Jailed Gaza hospital chief in life-threatening condition, rights group says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-05 11:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy" target="_blank">Where to preorder Grand Theft Auto VI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-05 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/" target="_blank">5 desk gadgets that can make your workday better</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-05 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,29 +160,20 @@
                 <span class="time">2026-07-05 11:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a46b606a501cf42d472ee9a/master/pass/S062626-fire-prediction-3.jpg" alt="Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prediction-markets-let-you-bet-wildfire/" target="_blank">Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-05 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a47e564859a99ea1a378dc1/master/pass/Review--TCL-RM9L-RGB-Mini-LED-Smart-TV.jpg" alt="Review: TCL RM9L RGB-Mini LED (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/tcl-rm9l/" target="_blank">Review: TCL RM9L RGB-Mini LED (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-05 10:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nisa_fatima_bcd75fa085b76/building-a-personal-learning-path-agent-in-typescript-with-hazeljs-58d3" target="_blank">Building a Personal Learning Path Agent in typescript with HazelJS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-05 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,15 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-AMDKFD-Start-Linux-7.3" target="_blank">AMD Begins Staging Graphics Driver Changes For Linux 7.3</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-05 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ohugonnot/apprendre-le-css-la-methode-qui-evite-la-frustration-2026-1kj8" target="_blank">Apprendre le CSS : la méthode qui évite la frustration (2026)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-05 09:00</span>
             </div>
         </div>
 </div>
@@ -286,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 15:24 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 16:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
