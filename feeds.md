@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 19:27:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-05 20:21:44 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 19:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 20:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/5/australia-thrash-england-to-win-record-seventh-womens-t20-world-cup?traffic_source=rss" target="_blank">Australia thrash England to win record seventh Women’s T20 World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-05 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/05/nx-s1-5883091/national-guard-fatal-shooting-memphis" target="_blank">National Guard troops fatally shoot a man in downtown Memphis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-05 19:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +101,6 @@
                 <span class="time">2026-07-05 14:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/05/g-s1-129643/construction-business-women-kenya" target="_blank">Construction is a man&#x27;s game. These women are demolishing the barriers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-05 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/5/extreme-weather-disrupts-uss-250th-anniversary-celebrations?traffic_source=rss" target="_blank">Extreme weather disrupts US’s 250th anniversary celebrations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-05 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -105,6 +113,15 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review" target="_blank">Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-05 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/" target="_blank">Amazon will stop accepting new customers for Mechanical Turk</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-05 17:43</span>
             </div>
         </div>
 <div class="story">
@@ -143,20 +160,20 @@
                 <span class="time">2026-07-05 12:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/960600/xbox-is-a-disaster" target="_blank">Xbox is a disaster</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-05 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/azeem_malik/implementing-dkim-and-dmarc-for-google-workspace-a-step-by-step-technical-guide-to-authenticate-20ff" target="_blank">Implementing DKIM and DMARC for Google Workspace: A Step-by-Step Technical Guide to Authenticate Your Emails</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-05 20:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/ty215/the-less-i-type-the-better-the-output-a-context-framework-i-had-claude-design-for-ai-coding-534n" target="_blank">The Less I Type, the Better the Output: A Context Framework I Had Claude Design for AI Coding</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-05 15:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://organicmaps.app/" target="_blank">Organic Maps</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-05 14:14</span>
             </div>
         </div>
 </div>
@@ -289,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 19:27 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 20:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
