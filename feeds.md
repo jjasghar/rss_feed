@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 07:58:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-05 09:08:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 07:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 09:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/2026/7/5/video-world-cup-2026-highlights?traffic_source=rss" target="_blank">Watch World Cup Day 24: France and Morocco advance to quarterfinals</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-05 08:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request" target="_blank">Pastor freed from prison in China weeks after Trump requested his release</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-05 08:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-speech-4th-4_1783222450817_hpMain_4x3t_384.jpg" alt="Trump celebrates July 4th in National Mall address, repeatedly touches on politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,39 +80,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783225312950_nbc_spec_analyze_trump_speech_250_260704_S3_1920x1080-ggoudn.jpg" alt="Trump uses America’s 250 speech to honor military heroes and also push political agendas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-uses-america-s-250-speech-to-honor-military-heroes-and-also-push-political-agendas-266189381587" target="_blank">Trump uses America’s 250 speech to honor military heroes and also push political agendas</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-05 04:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/5/a-name-a-document-a-future-cameroons-fight-to-register-every-child?traffic_source=rss" target="_blank">A name, a document, a future: Cameroon’s fight to register every child</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-05 03:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e9/live/dde8f140-7800-11f1-b528-69433fdf608f.jpg" alt="Tuchel praises respectful Mexico fans amid increased security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss" target="_blank">Tuchel praises respectful Mexico fans amid increased security</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-05 02:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783217081435_nbc_spec_national_mall_reopens_260704_S3_1920x1080-wneo6a.jpg" alt="National Mall reopens after crowds shelter amid severe weather in D.C." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/national-mall-reopens-after-crowds-shelter-amid-severe-weather-in-d-c-266186821625" target="_blank">National Mall reopens after crowds shelter amid severe weather in D.C.</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-05 02:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nyc-fireworks-3_1783214252953_hpMain_4x3t_384.jpg" alt="Disney Celebrates America live updates: Fireworks light up New York City skyline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/disney-celebrates-america-live-updates-abc-marks-americas/?id=133895774" target="_blank">Disney Celebrates America live updates: Fireworks light up New York City skyline</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-05 01:27</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ohugonnot/apprendre-le-css-la-methode-qui-evite-la-frustration-2026-1kj8" target="_blank">Apprendre le CSS : la méthode qui évite la frustration (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-05 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/aws-s3-annotations/en/headerimage/generatedHeaderImage-1782327927331.jpg" alt="AWS Introduces Amazon S3 Annotations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/aws-s3-annotations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Amazon S3 Annotations</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-05 08:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kiarina/extracting-speech-segments-with-silero-vad-and-onnx-runtime-3h8a" target="_blank">Extracting Speech Segments with Silero VAD and ONNX Runtime</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-05 07:45</span>
@@ -197,24 +213,6 @@
                 <span class="title"><a href="https://ui.shadcn.com/docs/changelog" target="_blank">Shadcn/UI now defaults to Base UI instead of Radix</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-05 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17373225/dockframe" target="_blank">HW Lab&amp;#x27;s DockFrame Heads to Crowd Supply With Swappable Tool Cards</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-05 04:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gophernment/osloq-aih-ai-reproduction-ewlaaekid-bug-1blp" target="_blank">Osloq — ให้ AI reproduction เวลาเกิด bug</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-05 02:44</span>
             </div>
         </div>
 </div>
@@ -304,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 07:58 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 09:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
