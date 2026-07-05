@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 12:24:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-05 13:29:03 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 12:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/5/what-to-know-about-the-renewed-coordinated-attacks-across-mali?traffic_source=rss" target="_blank">What to know about the renewed coordinated attacks across Mali</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-05 12:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/05/nx-s1-5804732/proposed-data-centers-in-pennsylvania-are-leading-strangers-to-mobilize-in-protest" target="_blank">Pennsylvania&#x27;s proposed data centers are bringing strangers together in protest</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-05 12:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +105,20 @@
                 <span class="time">2026-07-05 10:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/2026/7/5/video-world-cup-2026-highlights?traffic_source=rss" target="_blank">Watch World Cup Day 24: France and Morocco advance to quarterfinals</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-05 08:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request" target="_blank">Pastor freed from prison in China weeks after Trump requested his release</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-05 08:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/" target="_blank">Almost 90 new unicorns have been minted so far this year — here they are</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-05 12:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +164,20 @@
                 <span class="time">2026-07-04 20:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies" target="_blank">NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-04 19:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/michaelfv/gbase-8a-performance-anomaly-case-study-how-a-single-parameter-change-sparked-a-chain-reaction-1epa" target="_blank">GBase 8a Performance Anomaly Case Study: How a Single Parameter Change Sparked a Chain Reaction</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-05 13:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +223,20 @@
                 <span class="time">2026-07-05 08:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kiarina/extracting-speech-segments-with-silero-vad-and-onnx-runtime-3h8a" target="_blank">Extracting Speech Segments with Silero VAD and ONNX Runtime</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-05 07:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/Love-and-Deepspaces-sexy-wolf-man-Valko-Papergames.jpg" alt="Love And Deepspace Petitions Demanding Devs ‘Bring Back’ Sexy Wolf Man Amass Over 300,000 Signatures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/love-and-deepspace-petitions-demanding-devs-bring-back-sexy-wolf-man-amass-over-300000-signatures-2000712590" target="_blank">Love And Deepspace Petitions Demanding Devs ‘Bring Back’ Sexy Wolf Man Amass Over 300,000 Signatures</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-05 13:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/5929022-tokyo-jungle-screenshot.jpg" alt="Seven Games To Download From PlayStation 3’s Storefront Before It Closes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +282,6 @@
                 <span class="time">2026-07-04 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/danganronpa-1280x720.jpg" alt="Creator Says Fans Worried By Danganronpa 2×2′s Surprise Delay Can Just Play GTA 6 While They Wait" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/creator-says-fans-worried-by-danganronpa-2x2s-surprise-delay-can-just-play-gta-6-while-they-wait-2000712572" target="_blank">Creator Says Fans Worried By Danganronpa 2×2′s Surprise Delay Can Just Play GTA 6 While They Wait</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-04 13:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 12:24 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
