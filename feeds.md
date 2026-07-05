@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 20:21:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-05 21:20:28 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 20:21 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 21:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss" target="_blank">Albanian court frees protesters who rallied against Kushner-linked resort</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-05 20:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +98,20 @@
                 <span class="time">2026-07-05 16:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/5/cape-verde-celebrates-teams-return-after-historic-world-cup?traffic_source=rss" target="_blank">Cape Verde celebrates team’s return after historic World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-05 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/" target="_blank">Trump memecoin investors lost $3.8 billion, analysis finds</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-05 20:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +157,20 @@
                 <span class="time">2026-07-05 14:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/" target="_blank">Almost 90 new unicorns have been minted so far this year — here they are</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-05 12:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/blacknobilityenterprisellcarch/behind-the-curtain-ape-qil-quantum-supreme-octopus-and-the-3-tier-sovereign-auth-pipeline-545p" target="_blank">Behind the Curtain: APE-QIL QUANTUM SUPREME OCTOPUS and the 3-Tier Sovereign Auth Pipeline</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-05 21:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/nisa_fatima_bcd75fa085b76/building-a-personal-learning-path-agent-in-typescript-with-hazeljs-58d3" target="_blank">Building a Personal Learning Path Agent in typescript with HazelJS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-05 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ty215/the-less-i-type-the-better-the-output-a-context-framework-i-had-claude-design-for-ai-coding-534n" target="_blank">The Less I Type, the Better the Output: A Context Framework I Had Claude Design for AI Coding</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-05 15:18</span>
             </div>
         </div>
 </div>
@@ -297,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 20:21 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 21:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
