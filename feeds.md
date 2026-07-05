@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 16:20:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-05 17:24:13 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 16:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 17:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/reflecting-pool-20260705-gty-jh_1783259198949_hpMain_4x3t_384.jpg" alt="Burgum defends cost of fixes to Reflecting Pool: &#x27;It&#x27;s going to be a small number&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/secretary-burgum-defends-cost-reflecting-pool-repairs-small/story?id=134494488" target="_blank">Burgum defends cost of fixes to Reflecting Pool: &#x27;It&#x27;s going to be a small number&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-05 16:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +101,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss" target="_blank">Iran&#x27;s supreme leader absent as senior officials attend ayatollah&#x27;s funeral</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-05 12:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/5/what-to-know-about-the-renewed-coordinated-attacks-across-mali?traffic_source=rss" target="_blank">What to know about the renewed coordinated attacks across Mali</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-05 12:27</span>
             </div>
         </div>
 </div>
@@ -169,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mqasimca/answer-wheres-my-order-emails-with-an-agent-that-has-its-own-inbox-51d0" target="_blank">Answer &#x27;where&#x27;s my order?&#x27; emails with an agent that has its own inbox</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-05 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nisa_fatima_bcd75fa085b76/building-a-personal-learning-path-agent-in-typescript-with-hazeljs-58d3" target="_blank">Building a Personal Learning Path Agent in typescript with HazelJS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-05 16:14</span>
@@ -181,6 +192,15 @@
                 <span class="title"><a href="https://dev.to/ty215/the-less-i-type-the-better-the-output-a-context-framework-i-had-claude-design-for-ai-coding-534n" target="_blank">The Less I Type, the Better the Output: A Context Framework I Had Claude Design for AI Coding</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-05 15:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://organicmaps.app/" target="_blank">Organic Maps</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-05 14:14</span>
             </div>
         </div>
 <div class="story">
@@ -201,29 +221,20 @@
                 <span class="time">2026-07-05 11:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Half-Life-2-ReactOS" target="_blank">ReactOS &quot;Open-Source Windows&quot; Project Now Capable Of Running Half-Life 2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-05 10:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-AMDKFD-Start-Linux-7.3" target="_blank">AMD Begins Staging Graphics Driver Changes For Linux 7.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-05 10:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/06/0da3a7eaa915fb21ff0f9362a8ab62f1.jpg" alt="The First English Trailer For Yoko Taro’s Evangelion Series Is Here To Remind You It’s Coming And Looks Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-first-english-trailer-for-yoko-taros-evangelion-series-is-here-to-remind-you-its-coming-and-looks-great-2000712671" target="_blank">The First English Trailer For Yoko Taro’s Evangelion Series Is Here To Remind You It’s Coming And Looks Great</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-05 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/kohi-1280x698.jpg" alt="Hideo Kojima Finds It Really Sad That Sony Is Killing PlayStation Game Discs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,20 +280,20 @@
                 <span class="time">2026-07-04 19:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/redring-1280x765.jpg" alt="The Steam Machine Has Its Own ‘Red Ring Of Death’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-steam-machine-has-its-own-red-ring-of-death-2000712587" target="_blank">The Steam Machine Has Its Own ‘Red Ring Of Death’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-04 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1783226823-20260705.png" alt="Saturday Morning Breakfast Cereal - Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/memory-4" target="_blank">Saturday Morning Breakfast Cereal - Memory</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-05 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -297,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 16:20 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 17:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
