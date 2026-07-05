@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 01:31:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-05 03:00:16 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 01:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783217081435_nbc_spec_national_mall_reopens_260704_S3_1920x1080-wneo6a.jpg" alt="National Mall reopens after crowds shelter amid severe weather in D.C." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/national-mall-reopens-after-crowds-shelter-amid-severe-weather-in-d-c-266186821625" target="_blank">National Mall reopens after crowds shelter amid severe weather in D.C.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-05 02:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/nyc-fireworks-3_1783214252953_hpMain_4x3t_384.jpg" alt="Disney Celebrates America live updates: Fireworks light up New York City skyline" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/watch-live-250th-anniversary-celebrated-in-d-c-with-salute-to-america-266181189759" target="_blank">Salute to America 250 delayed due to weather</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-07-04 23:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/06/1920x1080/skynews-ukrainian-drone-st-petersburg_7264305.jpg?20260603100334" alt="Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/st-petersburg-oil-terminal-hit-as-ukraine-targets-russia-in-major-drone-attack-13560510" target="_blank">Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-04 21:14</span>
             </div>
         </div>
 </div>
@@ -170,6 +170,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gophernment/osloq-aih-ai-reproduction-ewlaaekid-bug-1blp" target="_blank">Osloq — ให้ AI reproduction เวลาเกิด bug</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-05 02:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OpenRazer-3.12.4" target="_blank">OpenRazer 3.12.4 Fixes Compatibility With Linux 7.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-05 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/" target="_blank">Scientists reverse brain aging, with a nasal spray</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-04 23:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/samson_tanimawo/why-your-microservices-need-circuit-breakers-and-how-to-add-them-1ee8" target="_blank">Why Your Microservices Need Circuit Breakers (And How to Add Them)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-04 23:02</span>
@@ -191,33 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/FEX-2607-Emulator" target="_blank">FEX 2607 Optimizing For Yet-To-Be-Released ARM 256-bit SVE2 Hardware</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-04 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kloakd/why-browser-automation-is-broken-and-how-ai-agents-change-everything-2b48" target="_blank">Why Browser Automation is Broken - and How AI Agents Change Everything</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-04 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jimmy_8c1b32b2d6828c1b642/javanese-script-isnt-just-an-old-alphabet-its-a-completely-different-writing-system-2h3d" target="_blank">Javanese Script Isn&#x27;t Just &quot;An Old Alphabet&quot; — It&#x27;s a Completely Different Writing System</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-04 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://javoriuski.com/post/youtube" target="_blank">Leaking YouTube creators&#x27; private videos</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-04 16:45</span>
             </div>
         </div>
 </div>
@@ -307,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 01:32 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
