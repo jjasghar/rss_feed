@@ -1,35 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 14:29:41 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-05 15:24:41 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 1 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 14:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 15:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +158,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ty215/the-less-i-type-the-better-the-output-a-context-framework-i-had-claude-design-for-ai-coding-534n" target="_blank">The Less I Type, the Better the Output: A Context Framework I Had Claude Design for AI Coding</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-05 15:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/michaelfv/gbase-8a-performance-anomaly-case-study-how-a-single-parameter-change-sparked-a-chain-reaction-1epa" target="_blank">GBase 8a Performance Anomaly Case Study: How a Single Parameter Change Sparked a Chain Reaction</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-05 13:25</span>
@@ -206,15 +206,6 @@
                 <span class="title"><a href="https://dev.to/ohugonnot/apprendre-le-css-la-methode-qui-evite-la-frustration-2026-1kj8" target="_blank">Apprendre le CSS : la méthode qui évite la frustration (2026)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-05 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/aws-s3-annotations/en/headerimage/generatedHeaderImage-1782327927331.jpg" alt="AWS Introduces Amazon S3 Annotations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/aws-s3-annotations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Amazon S3 Annotations</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-05 08:55</span>
             </div>
         </div>
 </div>
@@ -290,22 +281,13 @@
                 <span class="time">2026-07-04 17:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1783107265-20260704.png" alt="Saturday Morning Breakfast Cereal - Typical" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/typical" target="_blank">Saturday Morning Breakfast Cereal - Typical</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-04 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 14:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 15:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
