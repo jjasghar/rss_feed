@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 18:19:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-05 19:27:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 18:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 19:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +102,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review" target="_blank">Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-05 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy" target="_blank">Where to preorder Grand Theft Auto VI</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-05 16:00</span>
@@ -151,20 +152,29 @@
                 <span class="time">2026-07-05 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238555391-500x500.jpg" alt="Chemical accidents rise as Trump administration proposes weakening safety rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/" target="_blank">Chemical accidents rise as Trump administration proposes weakening safety rules</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-05 11:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kwasii/how-to-generate-dummy-data-for-excel-spreadsheets-using-fakerforge-free-csv-export-a1j" target="_blank">How to Generate Dummy Data for Excel Spreadsheets Using FakerForge (Free CSV Export)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-05 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/ubuntu-2510-questing-quokka-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 loses security updates this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-2510-eol-july-9-2026" target="_blank">Ubuntu 25.10 loses security updates this week</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-05 17:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,29 +211,20 @@
                 <span class="time">2026-07-05 14:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michaelfv/gbase-8a-performance-anomaly-case-study-how-a-single-parameter-change-sparked-a-chain-reaction-1epa" target="_blank">GBase 8a Performance Anomaly Case Study: How a Single Parameter Change Sparked a Chain Reaction</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-05 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sriharshagangisetty/why-i-built-mediashed-jd6" target="_blank">Why I built MediaShed</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-05 11:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/meowthpayday.jpg" alt="Nintendo President Promises To Tackle Pokémon Card Scalpers After Billions Printed Fail To Satisfy Market" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-president-promises-to-tackle-pokemon-card-scalpers-after-billions-printed-fail-to-satisfy-market-2000712688" target="_blank">Nintendo President Promises To Tackle Pokémon Card Scalpers After Billions Printed Fail To Satisfy Market</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-05 18:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/06/0da3a7eaa915fb21ff0f9362a8ab62f1.jpg" alt="The First English Trailer For Yoko Taro’s Evangelion Series Is Here To Remind You It’s Coming And Looks Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +270,6 @@
                 <span class="time">2026-07-04 22:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Kyocera-DuraXE-Epic-E4830-Flip-Phone-ATT-GSM-Unlocked.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Want to cut back on screen time? Start with this $112 old-school flip phone (MSRP $269.99)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/04/want-to-cut-back-on-screen-time-start-with-this-112-old-school-flip-phone-msrp-269-99.html" target="_blank">Want to cut back on screen time? Start with this $112 old-school flip phone (MSRP $269.99)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-04 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 18:19 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 19:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
