@@ -1,34 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 21:20:28 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-05 22:17:53 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 21:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 22:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/05/nx-s1-5881076/y-si-si-the-phrase-uniting-mexicos-world-cup-fans" target="_blank">Y si sí: the phrase uniting Mexico during the World Cup</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-05 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +90,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi" target="_blank">Guam and surrounding Pacific islands brace for impact of Super Typhoon Bavi</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-05 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/reflecting-pool-20260705-gty-jh_1783259198949_hpMain_4x3t_384.jpg" alt="Burgum defends cost of fixes to Reflecting Pool: &#x27;It&#x27;s going to be a small number&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/secretary-burgum-defends-cost-reflecting-pool-repairs-small/story?id=134494488" target="_blank">Burgum defends cost of fixes to Reflecting Pool: &#x27;It&#x27;s going to be a small number&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-05 16:03</span>
             </div>
         </div>
 </div>
@@ -166,9 +160,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ryan_brinn/are-we-all-artists-now-422j" target="_blank">Are We All Artists Now?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-05 21:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/blacknobilityenterprisellcarch/behind-the-curtain-ape-qil-quantum-supreme-octopus-and-the-3-tier-sovereign-auth-pipeline-545p" target="_blank">Behind the Curtain: APE-QIL QUANTUM SUPREME OCTOPUS and the 3-Tier Sovereign Auth Pipeline</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-05 21:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.opentools.studio/" target="_blank">Reparaible and open source paper printer</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-05 21:03</span>
             </div>
         </div>
 <div class="story">
@@ -198,29 +210,20 @@
                 <span class="time">2026-07-05 17:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mqasimca/answer-wheres-my-order-emails-with-an-agent-that-has-its-own-inbox-51d0" target="_blank">Answer &#x27;where&#x27;s my order?&#x27; emails with an agent that has its own inbox</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-05 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nisa_fatima_bcd75fa085b76/building-a-personal-learning-path-agent-in-typescript-with-hazeljs-58d3" target="_blank">Building a Personal Learning Path Agent in typescript with HazelJS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-05 16:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Windows-11-Pro.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Until the end of the day on July 5, you can get Windows 11 Pro for a one-time $10.49 payment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/05/until-the-end-of-the-day-on-july-5-you-can-get-windows-11-pro-for-a-one-time-10-49-payment.html" target="_blank">Until the end of the day on July 5, you can get Windows 11 Pro for a one-time $10.49 payment</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-05 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/meowthpayday.jpg" alt="Nintendo President Promises To Tackle Pokémon Card Scalpers After Billions Printed Fail To Satisfy Market" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +269,6 @@
                 <span class="time">2026-07-05 13:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/5929022-tokyo-jungle-screenshot.jpg" alt="Seven Games To Download From PlayStation 3’s Storefront Before It Closes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seven-games-to-download-from-playstation-3s-storefront-before-it-closes-2000712600" target="_blank">Seven Games To Download From PlayStation 3’s Storefront Before It Closes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-04 22:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 21:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 22:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
