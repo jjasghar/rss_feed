@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 09:08:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-05 10:41:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 09:08 UTC</div>
+    <div class="newspaper-date">Sunday, July 05, 2026 - 10:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +52,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/5/reform-uks-farage-failed-to-disclose-funds-from-convicted-criminal-report?traffic_source=rss" target="_blank">Reform UK’s Farage failed to disclose funds from convicted criminal: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-05 10:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/2026/7/5/video-world-cup-2026-highlights?traffic_source=rss" target="_blank">Watch World Cup Day 24: France and Morocco advance to quarterfinals</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-05 08:30</span>
@@ -59,6 +73,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request" target="_blank">Pastor freed from prison in China weeks after Trump requested his release</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-05 08:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/28e7ea40-7845-11f1-a62d-b782ecdb6ead.jpg" alt="US marks 250th birthday with fireworks, flyovers and extreme weather" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss" target="_blank">US marks 250th birthday with fireworks, flyovers and extreme weather</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-05 08:24</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +102,20 @@
                 <span class="time">2026-07-05 04:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783225312950_nbc_spec_analyze_trump_speech_250_260704_S3_1920x1080-ggoudn.jpg" alt="Trump uses America’s 250 speech to honor military heroes and also push political agendas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-uses-america-s-250-speech-to-honor-military-heroes-and-also-push-political-agendas-266189381587" target="_blank">Trump uses America’s 250 speech to honor military heroes and also push political agendas</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-05 04:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/5/a-name-a-document-a-future-cameroons-fight-to-register-every-child?traffic_source=rss" target="_blank">A name, a document, a future: Cameroon’s fight to register every child</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-05 03:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a47e564859a99ea1a378dc1/master/pass/Review--TCL-RM9L-RGB-Mini-LED-Smart-TV.jpg" alt="Review: TCL RM9L RGB-Mini LED (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/tcl-rm9l/" target="_blank">Review: TCL RM9L RGB-Mini LED (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-05 10:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +161,20 @@
                 <span class="time">2026-07-04 16:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a46ad6eddd659cd42168382/master/pass/Livestream%20Top%20Art%20-%20Yahoo%20Boys.jpg" alt="Submit Your Questions: Inside The World of Online Romance Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/" target="_blank">Submit Your Questions: Inside The World of Online Romance Scams</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-04 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-AMDKFD-Start-Linux-7.3" target="_blank">AMD Begins Staging Graphics Driver Changes For Linux 7.3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-05 10:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,28 +205,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17373238/sipeeds-nanokvm-go-crowdfunding" target="_blank">Sipeed&amp;#x27;s New KVM Wants AI Agents to See and Control Your Screen</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-05 06:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3u7a5y9nbqbjx7p0phua.jpg" alt="TypeScript 6.0 `isolatedDeclarations`: What It Actually Replaces and Why It Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jsmanifest/typescript-60-isolateddeclarations-what-it-actually-replaces-and-why-it-matters-716" target="_blank">TypeScript 6.0 `isolatedDeclarations`: What It Actually Replaces and Why It Matters</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-05 06:04</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html" target="_blank">PEP 814: Add frozendict built-in type</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-07-05 06:52</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ui.shadcn.com/docs/changelog" target="_blank">Shadcn/UI now defaults to Base UI instead of Radix</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-05 04:46</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17373238/sipeeds-nanokvm-go-crowdfunding" target="_blank">Sipeed&amp;#x27;s New KVM Wants AI Agents to See and Control Your Screen</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-05 06:43</span>
             </div>
         </div>
 </div>
@@ -302,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 09:08 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 10:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
