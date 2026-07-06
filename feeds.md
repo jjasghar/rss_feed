@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-06 18:34:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-06 19:31:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, July 06, 2026 - 18:34 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, July 06, 2026 - 19:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +108,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/" target="_blank">You can now customize Siri’s pace and expressivity in the latest iOS 27 beta</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-06 19:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283985401-500x500.jpg" alt="NRC is (sort of) getting rid of &quot;as low as reasonably achievable&quot; standard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/" target="_blank">NRC is (sort of) getting rid of &quot;as low as reasonably achievable&quot; standard</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-06 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview" target="_blank">Five questions for Dr. Rubin, who’s armed with a mic and a bowtie</a></span>
                 <span class="feed">The Verge</span>
@@ -134,29 +159,29 @@
                 <span class="time">2026-07-06 14:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing" target="_blank">Inside the big business of the creator economy, with the agents making it happen</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-06 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/" target="_blank">Station F ramps up as a launchpad for Europe’s hottest AI startups</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-06 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/buywhere/what-is-an-mcp-server-a-plain-english-guide-for-builders-2026-2jm6" target="_blank">What Is an MCP Server? A Plain-English Guide for Builders (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-06 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Marek-Double-VRS-RADV-Perf" target="_blank">Marek Olšák At Valve Lands RADV Code That Can &quot;Double Performance&quot; With Some VRS Cases</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-06 18:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +218,6 @@
                 <span class="time">2026-07-06 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/isaias_velasquez_d2261770/ba-008-running-multiple-browsers-in-parallel-305d" target="_blank">[BA-008] Running multiple browsers in parallel</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-06 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/open-source-security-research" target="_blank">Building an open source chain of trust: new research uncovers key blockers and ways forward</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-07-06 14:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in July" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/free-kindle-books-july-2026?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in July</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-06 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/07/texas-plate.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="License plate cameras scan 20 billion vehicles a month, and cities are pulling the plug" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/06/post-license-plate-cameras-scan-20-billion-vehicles-a-m.html" target="_blank">License plate cameras scan 20 billion vehicles a month, and cities are pulling the plug</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-06 18:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JERXKVHK8X0MXQXAGDNC0YP3/hero-image.png" alt="TCL&#x27;s More Affordable Take on &#x27;The Frame&#x27; TV Is Nearly $600 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/elder-scrolls-online-team-seemingly-halved-xbox-layoffs-2000712920" target="_blank">The Elder Scrolls Online Team Seemingly Gutted By Xbox Layoffs, Says Game’s Roadmaps ‘Will Be Shifting’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-06 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/EDU-Unlimited-by-StackSkills.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your next hobby, side hustle, or promotion could start with one of the 1,000+ courses in this $20 platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/06/your-next-hobby-side-hustle-or-promotion-could-start-with-one-of-the-1000-courses-in-this-20-platform.html" target="_blank">Your next hobby, side hustle, or promotion could start with one of the 1,000+ courses in this $20 platform</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-06 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/20260705-LOX-00194-1280x853.jpg" alt="In The Midst Of The Horrors, SGDQ Is Here To Remind Us That Games Can Be Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/summer-games-done-quick-2026-schedule-how-to-watch-2000712827" target="_blank">In The Midst Of The Horrors, SGDQ Is Here To Remind Us That Games Can Be Good</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-06 14:30</span>
             </div>
         </div>
 </div>
@@ -321,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 18:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 19:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
