@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-07-06 16:57:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-06 17:52:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, July 06, 2026 - 16:57 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, July 06, 2026 - 17:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +54,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/6/what-makes-this-nato-summit-high-stakes?traffic_source=rss" target="_blank">What makes this NATO summit high stakes?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-06 17:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/6/argentina-vs-egypt-fifa-world-cup-last-16-messi-salah-prediction-kickoff-news?traffic_source=rss" target="_blank">Argentina vs Egypt: FIFA World Cup last 16 – Messi, Salah, prediction, news</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-06 16:40</span>
@@ -62,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/06/nx-s1-5883784/dhs-ice-critic-lawsuit-free-speech" target="_blank">Man sues DHS after agents tracked him down for sending a scathing email to ICE</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-06 15:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f002/live/3fd125b0-794d-11f1-9510-1546718f668b.jpg" alt="Trump confirms he asked Fifa to review Balogun ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -71,30 +96,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1403/live/b221e570-794b-11f1-bfee-d367081f1131.jpg" alt="Henderson expected to have surgery on injured wrist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/6/fifa-world-cup-mohamed-salah-egypt-football-team-golden-generation?traffic_source=rss" target="_blank">FIFA World Cup: Mohamed Salah and the ghosts of Egypt’s ‘golden generation’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-06 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/06/g-s1-132097/up-first-newsletter-america-250-trump-democrats-iran-israel-world-cup-folarin-balogun" target="_blank">Trump, Mamdani give contrasting July 4th speeches. And, U.S. faces Belgium in World Cup</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-06 11:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c163/live/a90f6680-791c-11f1-9510-1546718f668b.jpg" alt="Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region</a></span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/cvgmmm5923yo?at_medium=RSS&at_campaign=rss" target="_blank">Henderson expected to have surgery on injured wrist</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-07-06 11:21</span>
+                <span class="time">2026-07-06 15:22</span>
             </div>
         </div>
 </div>
@@ -102,6 +109,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview" target="_blank">Five questions for Dr. Rubin, who’s armed with a mic and a bowtie</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-06 17:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +163,6 @@
                 <span class="time">2026-07-06 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Bentley-Torcal-500x500.jpg" alt="Bentley teases its first EV, the Torcal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/" target="_blank">Bentley teases its first EV, the Torcal</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-06 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +189,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo" target="_blank">AMD Ryzen AI Halo – $4k AI Dev Kit</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-06 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ryzen-ai-linux-os" target="_blank">Ryzen AI Developer Platform: AMD&#x27;s Own Linux Distribution Built Atop Debian</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-06 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/isaias_velasquez_d2261770/ba-008-running-multiple-browsers-in-parallel-305d" target="_blank">[BA-008] Running multiple browsers in parallel</a></span>
                 <span class="feed">DEV Community</span>
@@ -195,24 +220,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/open-source-security-research" target="_blank">Building an open source chain of trust: new research uncovers key blockers and ways forward</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-07-06 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dernocua.github.io/notes/aluminum-foil.html" target="_blank">Aluminum foil (2021)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-06 13:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Flattens-The-Pick" target="_blank">Linux 7.3 Expected To &quot;Flatten The Pick&quot; For Better Scheduling While Gaming &amp; More</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-06 13:22</span>
             </div>
         </div>
 </div>
@@ -234,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/blade-1280x729.jpg" alt="With Arkane For Sale And Blade At Risk, Original Founder Asks Xbox CEO: ‘How Much?’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/with-arkane-for-sale-and-blade-at-risk-original-founder-asks-xbox-ceo-how-much-2000712945" target="_blank">With Arkane For Sale And Blade At Risk, Original Founder Asks Xbox CEO: ‘How Much?’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-06 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2407979133.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Prediction market pays news networks to launder gambling as analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/06/prediction-market-pays-news-networks-to-launder-gambling-as-analysis.html" target="_blank">Prediction market pays news networks to launder gambling as analysis</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-06 16:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2021/03/mo1vkyz9oewozzxormiu-1280x720.jpg" alt="The Elder Scrolls Online Team Seemingly Gutted By Xbox Layoffs, Says Game’s Roadmaps ‘Will Be Shifting’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +295,6 @@
                 <span class="time">2026-07-06 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/wekkkdn-1280x720.jpg" alt="The Weeknd Wins Over Persona 3 Baddie After Fumbling Persona 5’s Hot Doctor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/weeknd-persona-3-reload-mitsuru-kirijo-romance-5-tae-2000712825" target="_blank">The Weeknd Wins Over Persona 3 Baddie After Fumbling Persona 5’s Hot Doctor</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-06 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/psycho-1280x747.jpg" alt="Mob Psycho 100 Director Reflects On That Final Episode: ‘I Thought The way It Ended Was Great’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mob-psycho-100-director-reflects-on-that-final-episode-i-thought-the-way-it-ended-was-great-2000712700" target="_blank">Mob Psycho 100 Director Reflects On That Final Episode: ‘I Thought The way It Ended Was Great’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-05 22:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 240 |
-        🔄 Last Updated: 16:57 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 39 | 📸 With Images: 237 |
+        🔄 Last Updated: 17:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
