@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-06 20:34:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-06 21:29:08 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, July 06, 2026 - 20:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, July 06, 2026 - 21:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Sports/usmnt-world-cup-ap-jt-260703_1783108692644_hpMain_4x3t_384.jpg" alt="US to face Belgium in World Cup showdown as star striker&#x27;s red card ban lifted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/usmnt-set-showdown-belgium-world-cup-round-16/story?id=134450328" target="_blank">US to face Belgium in World Cup showdown as star striker&#x27;s red card ban lifted</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-06 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/6/survivors-and-bodies-still-being-pulled-from-rubble-days-after-twin-quakes?traffic_source=rss" target="_blank">Survivors and bodies still being pulled from rubble days after twin quakes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-06 21:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260706-graham-platner-vl-336p-10bc06.jpg" alt="Graham Platner considering ‘best path forward’ in Maine Senate race after denying sexual assault claim" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/graham-platner-best-path-forward-maine-senate-rcna353222" target="_blank">Graham Platner considering ‘best path forward’ in Maine Senate race after denying sexual assault claim</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-06 20:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +100,20 @@
                 <span class="time">2026-07-06 18:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/6/what-makes-this-nato-summit-high-stakes?traffic_source=rss" target="_blank">What makes this NATO summit high stakes?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-06 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/6/argentina-vs-egypt-fifa-world-cup-last-16-messi-salah-prediction-kickoff-news?traffic_source=rss" target="_blank">Argentina vs Egypt: FIFA World Cup last 16 – Messi, Salah, prediction, news</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-06 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Folarin-Balogun-ao-gmh-260706_1783348700503_hpMain_4x3t_384.jpg" alt="Trump says he asked FIFA to review US World Cup star Folarin Balogun&#x27;s red card ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/us-world-cup-star-folarin-baloguns-red-card/story?id=134500486" target="_blank">Trump says he asked FIFA to review US World Cup star Folarin Balogun&#x27;s red card ban</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-06 16:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/online-bill-500x500-1783369484.jpg" alt="FCC to end Biden-era rule that forces ISPs to list all their fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/" target="_blank">FCC to end Biden-era rule that forces ISPs to list all their fees</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-06 21:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -123,6 +136,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/" target="_blank">Vercel CEO Guillermo Rauch on the fight to split off models from agents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-06 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/" target="_blank">You can now customize Siri’s pace and expressivity in the latest iOS 27 beta</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-06 19:01</span>
@@ -135,24 +157,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/" target="_blank">NRC is (sort of) getting rid of &quot;as low as reasonably achievable&quot; standard</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-06 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview" target="_blank">Five questions for Dr. Rubin, who’s armed with a mic and a bowtie</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-06 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie" target="_blank">Former Xbox studios Double Fine and Compulsion will keep games after going indie</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-06 16:22</span>
             </div>
         </div>
 </div>
@@ -176,6 +180,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Marek-Double-VRS-RADV-Perf" target="_blank">Marek Olšák At Valve Lands RADV Code That Can &quot;Double Performance&quot; With Some VRS Cases</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-06 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openwrt.org/toh/openwrt/one" target="_blank">OpenWrt One – Open Hardware Router</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-06 18:23</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +218,6 @@
                 <span class="time">2026-07-06 15:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ryzen-ai-linux-os" target="_blank">Ryzen AI Developer Platform: AMD&#x27;s Own Linux Distribution Built Atop Debian</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-06 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-06 21:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/you_i_polar_opposites_s2-1280x853.jpg" alt="Fake Eyelashes And Street-Walking: How The Cast Of You And I Are Polar Opposites Got Into Character" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fake-eyelashes-and-street-walking-how-the-cast-of-you-and-i-are-polar-opposites-got-into-character-2000712972" target="_blank">Fake Eyelashes And Street-Walking: How The Cast Of You And I Are Polar Opposites Got Into Character</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-06 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in July" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/with-arkane-for-sale-and-blade-at-risk-original-founder-asks-xbox-ceo-how-much-2000712945" target="_blank">With Arkane For Sale And Blade At Risk, Original Founder Asks Xbox CEO: ‘How Much?’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-06 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2407979133.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Prediction market pays news networks to launder gambling as analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/06/prediction-market-pays-news-networks-to-launder-gambling-as-analysis.html" target="_blank">Prediction market pays news networks to launder gambling as analysis</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-06 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2021/03/mo1vkyz9oewozzxormiu-1280x720.jpg" alt="The Elder Scrolls Online Team Seemingly Gutted By Xbox Layoffs, Says Game’s Roadmaps ‘Will Be Shifting’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elder-scrolls-online-team-seemingly-halved-xbox-layoffs-2000712920" target="_blank">The Elder Scrolls Online Team Seemingly Gutted By Xbox Layoffs, Says Game’s Roadmaps ‘Will Be Shifting’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-06 16:10</span>
             </div>
         </div>
 </div>
@@ -324,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 20:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 21:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
