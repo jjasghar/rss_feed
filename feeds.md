@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-05 23:20:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-06 00:23:09 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, July 05, 2026 - 23:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, July 06, 2026 - 00:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783294111647_wnn_dgr_balogun_red_card_260705_S3_1920x1080-kgqpfb.jpg" alt="FIFA reverses ban against U.S. men’s soccer star" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/fifa-reverses-ban-against-u-s-men-s-soccer-star-266203717748" target="_blank">FIFA reverses ban against U.S. men’s soccer star</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-05 23:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/05/nx-s1-5883091/national-guard-fatal-shooting-memphis" target="_blank">National Guard troops fatally shoot a man in downtown Memphis</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-05 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/5/us-congressman-denies-existence-of-palestinians-in-interview-2?traffic_source=rss" target="_blank">US Congressman denies existence of Palestinians in interview</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-05 17:37</span>
             </div>
         </div>
 </div>
@@ -168,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/simbyheart/i-built-an-ai-agent-that-remembers-why-customers-leave-and-im-building-my-way-into-ai-development-oic" target="_blank">I Built an AI Agent That Remembers Why Customers Leave (And I&#x27;m Building My Way Into AI Development)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-06 00:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ryan_brinn/are-we-all-artists-now-422j" target="_blank">Are We All Artists Now?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-05 21:58</span>
@@ -186,6 +190,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.opentools.studio/" target="_blank">OpenPrinter</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-05 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.opentools.studio/" target="_blank">Reparaible and open source paper printer</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-05 21:03</span>
@@ -198,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/azeem_malik/implementing-dkim-and-dmarc-for-google-workspace-a-step-by-step-technical-guide-to-authenticate-20ff" target="_blank">Implementing DKIM and DMARC for Google Workspace: A Step-by-Step Technical Guide to Authenticate Your Emails</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-05 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kwasii/how-to-generate-dummy-data-for-excel-spreadsheets-using-fakerforge-free-csv-export-a1j" target="_blank">How to Generate Dummy Data for Excel Spreadsheets Using FakerForge (Free CSV Export)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-05 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/ubuntu-2510-questing-quokka-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 loses security updates this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-2510-eol-july-9-2026" target="_blank">Ubuntu 25.10 loses security updates this week</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-05 17:59</span>
             </div>
         </div>
 </div>
@@ -296,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 23:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 00:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
