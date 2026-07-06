@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-06 19:31:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-06 20:34:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, July 06, 2026 - 19:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, July 06, 2026 - 20:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/6/what-is-the-fallout-of-the-increasing-violence-in-mali?traffic_source=rss" target="_blank">What is the fallout of the increasing violence in Mali?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-06 20:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Folarin-Balogun-ao-gmh-260706_1783348700503_hpMain_4x3t_384.jpg" alt="FIFA rejects Belgium&#x27;s appeal of Folarin Balogun&#x27;s red card ban suspension" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +96,29 @@
                 <span class="time">2026-07-06 16:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/06/nx-s1-5883784/dhs-ice-critic-lawsuit-free-speech" target="_blank">Man sues DHS after agents tracked him down for sending a scathing email to ICE</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-06 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale" target="_blank">Hoto&amp;#8217;s PixelDrive screwdriver is down to $60, matching its best price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-06 20:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070326a-lg-500x500.jpg" alt="What is the oldest American object ever launched into space?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/" target="_blank">What is the oldest American object ever launched into space?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-06 19:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie" target="_blank">Former Xbox studios Double Fine and Compulsion will keep games after going indie</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-06 16:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/" target="_blank">Apple brings back card payments for Apple Account purchases in India after a four-year hiatus</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-06 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4bb2899a04d6f37d84ef36/master/pass/GettyImages-2166320719.jpg" alt="The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/" target="_blank">The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-06 14:50</span>
             </div>
         </div>
 </div>
@@ -328,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 19:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 235 |
+        🔄 Last Updated: 20:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
