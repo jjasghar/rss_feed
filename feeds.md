@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-06 05:23:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-06 07:24:15 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 34 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, July 06, 2026 - 05:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, July 06, 2026 - 07:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/528b/live/e5134170-78ee-11f1-b5ef-67aee6df60e2.jpg" alt="At least 11 killed in second Russian strikes on Kyiv in a week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss" target="_blank">At least 11 killed in second Russian strikes on Kyiv in a week</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-06 07:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending" target="_blank">Trump won spending promises from NATO last year. This week, he&#x27;ll try to enforce them</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-06 06:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/6/sports-stadium-becomes-home-for-victims-of-the-venezuela-earthquakes?traffic_source=rss" target="_blank">Sports stadium becomes home for victims of the Venezuela earthquakes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-06 02:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/folarin-balogun-getty-cw-20260705_1783273199797_hpMain_4x3t_384.jpg" alt="Trump asked FIFA to review US World Cup star Folarin Balogun&#x27;s red card ban: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/us-world-cup-star-folarin-baloguns-red-card/story?id=134500486" target="_blank">Trump asked FIFA to review US World Cup star Folarin Balogun&#x27;s red card ban: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-06 00:39</span>
             </div>
         </div>
 <div class="story">
@@ -79,38 +102,20 @@
                 <span class="time">2026-07-06 00:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783294111647_wnn_dgr_balogun_red_card_260705_S3_1920x1080-kgqpfb.jpg" alt="FIFA reverses ban against U.S. men’s soccer star" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/fifa-reverses-ban-against-u-s-men-s-soccer-star-266203717748" target="_blank">FIFA reverses ban against U.S. men’s soccer star</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-05 23:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/5/venezuelan-leader-marks-independence-day-with-message-of-no-social-unrest?traffic_source=rss" target="_blank">Venezuelan leader marks Independence Day with message of ‘no social unrest’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-05 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/05/nx-s1-5881076/y-si-si-the-phrase-uniting-mexicos-world-cup-fans" target="_blank">Y si sí: the phrase uniting Mexico during the World Cup</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-05 21:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/" target="_blank">This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-06 06:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +159,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/" target="_blank">Amazon will stop accepting new customers for Mechanical Turk</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-05 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy" target="_blank">Where to preorder Grand Theft Auto VI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-05 16:00</span>
             </div>
         </div>
 </div>
@@ -311,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 05:23 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 07:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
