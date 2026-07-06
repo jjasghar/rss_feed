@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-06 13:09:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-06 15:00:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, July 06, 2026 - 13:09 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, July 06, 2026 - 15:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/6/fifa-world-cup-mohamed-salah-egypt-football-team-golden-generation?traffic_source=rss" target="_blank">FIFA World Cup: Mohamed Salah and the ghosts of Egypt’s ‘golden generation’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-06 14:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-srilanka-prison_7291097.jpg?20260706114743" alt="At least 25 people killed after Sri Lankan prison riot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-25-people-killed-after-sri-lankan-prison-riot-13560944" target="_blank">At least 25 people killed after Sri Lankan prison riot</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-06 10:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdfc/live/9fa9b320-791c-11f1-a627-714adb4eed6e.jpg" alt="Buckingham Palace says Prince Harry will not stay at palace" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -79,29 +95,29 @@
                 <span class="time">2026-07-06 10:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/nato-exercise-20260705-rt-jh_1783286002789_hpMain_4x3t_384.jpg" alt="US taking stock of NATO as Trump heads to Turkey for summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596" target="_blank">US taking stock of NATO as Trump heads to Turkey for summit</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-06 09:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-meloni-trump_7138805.jpg?20260118120922" alt="&#x27;Restraining order needed&#x27;: Trump escalates Meloni feud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-escalates-meloni-feud-suggesting-italian-pm-needs-restraining-order-13560889" target="_blank">&#x27;Restraining order needed&#x27;: Trump escalates Meloni feud</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-06 08:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4bb2899a04d6f37d84ef36/master/pass/GettyImages-2166320719.jpg" alt="The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/" target="_blank">The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-06 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing" target="_blank">Inside the big business of the creator economy, with the agents making it happen</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-06 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +154,38 @@
                 <span class="time">2026-07-06 06:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep" target="_blank">Some of the nation’s rich are letting AI teach their kids</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-05 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/" target="_blank">Uber’s European expansion plans may have hit a speed bump</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-05 21:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/isaias_velasquez_d2261770/ba-008-running-multiple-browsers-in-parallel-305d" target="_blank">[BA-008] Running multiple browsers in parallel</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-06 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/open-source-security-research" target="_blank">Building an open source chain of trust: new research uncovers key blockers and ways forward</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-07-06 14:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Flattens-The-Pick" target="_blank">Linux 7.3 Expected To &quot;Flatten The Pick&quot; For Better Scheduling While Gaming &amp; More</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-06 13:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +213,6 @@
                 <span class="time">2026-07-06 11:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/new-blueprint-cloud-security/en/smallimage/the-infoq-podcast-logo-thumbnail-1782468606100.jpg" alt="Podcast: Spite-Driven Engineering: A New Blueprint for Cloud Security in the AI Native Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/new-blueprint-cloud-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Spite-Driven Engineering: A New Blueprint for Cloud Security in the AI Native Era</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-06 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.map.signalbox.io" target="_blank">Real-time map of Great Britain&#x27;s rail network</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-06 09:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nolanpiercework/i-tried-making-an-idle-browser-game-with-ai-the-prompt-was-the-easy-part-4df9" target="_blank">I Tried Making an Idle Browser Game With AI. The Prompt Was the Easy Part.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-06 09:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/20260705-LOX-00194-1280x853.jpg" alt="In The Midst Of The Horrors, SGDQ Is Here To Remind Us That Games Can Be Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/summer-games-done-quick-2026-schedule-how-to-watch-2000712827" target="_blank">In The Midst Of The Horrors, SGDQ Is Here To Remind Us That Games Can Be Good</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-06 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWV3BT4QBCW1W3H7P5D28TD6/hero-image.png" alt="I Compared Siri AI to Gemini on iPhone and There&#x27;s a Clear Winner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/i-compared-siri-ai-to-gemini-on-iphone?utm_medium=RSS" target="_blank">I Compared Siri AI to Gemini on iPhone and There&#x27;s a Clear Winner</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-06 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/wekkkdn-1280x720.jpg" alt="The Weeknd Wins Over Persona 3 Baddie After Fumbling Persona 5’s Hot Doctor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +284,6 @@
                 <span class="title"><a href="https://kotaku.com/nintendo-president-promises-to-tackle-pokemon-card-scalpers-after-billions-printed-fail-to-satisfy-market-2000712688" target="_blank">Nintendo President Promises To Tackle Pokémon Card Scalpers After Billions Printed Fail To Satisfy Market</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-05 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/06/0da3a7eaa915fb21ff0f9362a8ab62f1.jpg" alt="The First English Trailer For Yoko Taro’s Evangelion Series Is Here To Remind You It’s Coming And Looks Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-first-english-trailer-for-yoko-taros-evangelion-series-is-here-to-remind-you-its-coming-and-looks-great-2000712671" target="_blank">The First English Trailer For Yoko Taro’s Evangelion Series Is Here To Remind You It’s Coming And Looks Great</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-05 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/The-27-App-Lifetime-Mac-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="We found one lifetime license that can replace 27 subscriptions, and it&#x27;s only $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/05/we-found-one-lifetime-license-that-can-replace-27-subscriptions-and-its-only-30.html" target="_blank">We found one lifetime license that can replace 27 subscriptions, and it&#x27;s only $30</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-05 15:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 239 |
+        🔄 Last Updated: 15:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
