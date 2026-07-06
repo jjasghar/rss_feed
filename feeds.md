@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-06 21:29:08 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-07-06 22:24:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, July 06, 2026 - 21:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, July 06, 2026 - 22:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/06/g-s1-132202/world-cup-retire-ronaldo-neymar-ochoa-neuer" target="_blank">This World Cup marks end of era for Ronaldo and other soccer greats</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-06 21:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Sports/usmnt-world-cup-ap-jt-260703_1783108692644_hpMain_4x3t_384.jpg" alt="US to face Belgium in World Cup showdown as star striker&#x27;s red card ban lifted" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/GMA/Culture/us-world-cup-star-folarin-baloguns-red-card/story?id=134500486" target="_blank">FIFA rejects Belgium&#x27;s appeal of Folarin Balogun&#x27;s red card ban suspension</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-06 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss" target="_blank">Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-06 18:02</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-ANV-Gen125-H265-Encode" target="_blank">Vulkan Video H.264/H.265 Encode Now Working For Intel Alchemist GPUs On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-06 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/buywhere/what-is-an-mcp-server-a-plain-english-guide-for-builders-2026-2jm6" target="_blank">What Is an MCP Server? A Plain-English Guide for Builders (2026)</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +217,6 @@
                 <span class="time">2026-07-06 15:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo" target="_blank">AMD Ryzen AI Halo – $4k AI Dev Kit</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-06 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/fanfest-1280x683.jpg" alt="Xbox Lays Off FanFest Guy Three Months After Bringing Back Xbox FanFest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-lays-off-fanfest-guy-three-months-after-bringing-back-xbox-fanfest-2000713030" target="_blank">Xbox Lays Off FanFest Guy Three Months After Bringing Back Xbox FanFest</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-06 21:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +290,6 @@
                 <span class="time">2026-07-06 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/blade-1280x729.jpg" alt="With Arkane For Sale And Blade At Risk, Original Founder Asks Xbox CEO: ‘How Much?’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/with-arkane-for-sale-and-blade-at-risk-original-founder-asks-xbox-ceo-how-much-2000712945" target="_blank">With Arkane For Sale And Blade At Risk, Original Founder Asks Xbox CEO: ‘How Much?’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-06 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 21:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 22:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
