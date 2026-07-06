@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-06 22:24:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-06 23:22:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, July 06, 2026 - 22:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, July 06, 2026 - 23:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/Folarin-Balogun-3-ap-gmh-260706_1783358681600_hpMain_4x3t_384.jpg" alt="Folarin Balogun in starting lineup for US vs. Belgium after red card ban lifted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/usmnt-set-showdown-belgium-world-cup-round-16/story?id=134450328" target="_blank">Folarin Balogun in starting lineup for US vs. Belgium after red card ban lifted</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-06 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/6/late-spain-goal-eliminates-portugal-ends-ronaldos-international-career?traffic_source=rss" target="_blank">Late Spain goal eliminates Portugal, ends Ronaldo’s international career?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-06 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783373492941_now_hallie_ska_platner_260706_S3_1920x1080-mhyr0p.jpg" alt="Maine Democratic Senate candidate Graham Platner denies new allegations of sexual assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/maine-democratic-senate-candidate-graham-platner-denies-new-allegations-of-sexual-assault-266254917687" target="_blank">Maine Democratic Senate candidate Graham Platner denies new allegations of sexual assault</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-06 21:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +102,20 @@
                 <span class="time">2026-07-06 21:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260706-graham-platner-vl-336p-10bc06.jpg" alt="Graham Platner considering ‘best path forward’ in Maine Senate race after denying sexual assault claim" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/graham-platner-best-path-forward-maine-senate-rcna353222" target="_blank">Graham Platner considering ‘best path forward’ in Maine Senate race after denying sexual assault claim</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-06 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/6/what-is-the-fallout-of-the-increasing-violence-in-mali?traffic_source=rss" target="_blank">What is the fallout of the increasing violence in Mali?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-06 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Folarin-Balogun-ao-gmh-260706_1783348700503_hpMain_4x3t_384.jpg" alt="FIFA rejects Belgium&#x27;s appeal of Folarin Balogun&#x27;s red card ban suspension" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/us-world-cup-star-folarin-baloguns-red-card/story?id=134500486" target="_blank">FIFA rejects Belgium&#x27;s appeal of Folarin Balogun&#x27;s red card ban suspension</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-06 18:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/" target="_blank">US investors will soon get access to SK Hynix, another memory maker riding the AI boom</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-06 23:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/online-bill-500x500-1783369484.jpg" alt="FCC to end Biden-era rule that forces ISPs to list all their fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +159,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/" target="_blank">You can now customize Siri’s pace and expressivity in the latest iOS 27 beta</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-06 19:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283985401-500x500.jpg" alt="NRC is (sort of) getting rid of &quot;as low as reasonably achievable&quot; standard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/" target="_blank">NRC is (sort of) getting rid of &quot;as low as reasonably achievable&quot; standard</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-06 17:48</span>
             </div>
         </div>
 </div>
@@ -314,6 +317,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/offside.png" alt="Offside" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3268/" target="_blank">Offside</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-07-06 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5866.png" alt="Process Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -327,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 22:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 23:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
