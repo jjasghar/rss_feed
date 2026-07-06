@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-06 07:24:15 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-06 09:16:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, July 06, 2026 - 07:24 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, July 06, 2026 - 09:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/nato-exercise-20260705-rt-jh_1783286002789_hpMain_4x3t_384.jpg" alt="US taking stock of NATO as Trump heads to Turkey for summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596" target="_blank">US taking stock of NATO as Trump heads to Turkey for summit</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-06 09:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/528b/live/e5134170-78ee-11f1-b5ef-67aee6df60e2.jpg" alt="At least 11 killed in second Russian strikes on Kyiv in a week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/6/belgium-astonished-at-fifas-u-turn-on-balogun-red-card-for-usa-match?traffic_source=rss" target="_blank">Belgium ‘astonished’ at FIFA’s U-turn on Balogun red card for USA match</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-06 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da77/live/4b8540a0-5e98-11f1-926a-77cd300adf90.jpg" alt="Police leadership needs fundamental overhaul, review finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crlwwkyg610o?at_medium=RSS&at_campaign=rss" target="_blank">Police leadership needs fundamental overhaul, review finds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-06 00:17</span>
             </div>
         </div>
 </div>
@@ -169,6 +166,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nolanpiercework/i-tried-making-an-idle-browser-game-with-ai-the-prompt-was-the-easy-part-4df9" target="_blank">I Tried Making an Idle Browser Game With AI. The Prompt Was the Easy Part.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-06 09:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/rust-autonomous-mobile-robots/en/mediumimage/andy-brinkmeyer-medium-1782817486635.jpeg" alt="Presentation: Practical Robustness: Going Beyond Memory Safety in Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/rust-autonomous-mobile-robots/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Practical Robustness: Going Beyond Memory Safety in Rust</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-06 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.12" target="_blank">D7VK&#x27;s Performance Gains Since Its Inception For Older Direct3D Versions On Linux</a></span>
                 <span class="feed">Phoronix</span>
@@ -200,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/simbyheart/i-built-an-ai-agent-that-remembers-why-customers-leave-and-im-building-my-way-into-ai-development-oic" target="_blank">I Built an AI Agent That Remembers Why Customers Leave (And I&#x27;m Building My Way Into AI Development)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-06 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ryan_brinn/are-we-all-artists-now-422j" target="_blank">Are We All Artists Now?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-05 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/blacknobilityenterprisellcarch/behind-the-curtain-ape-qil-quantum-supreme-octopus-and-the-3-tier-sovereign-auth-pipeline-545p" target="_blank">Behind the Curtain: APE-QIL QUANTUM SUPREME OCTOPUS and the 3-Tier Sovereign Auth Pipeline</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-05 21:07</span>
             </div>
         </div>
 </div>
@@ -307,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 07:24 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 239 |
+        🔄 Last Updated: 09:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
