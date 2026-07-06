@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-06 09:16:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-06 11:28:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, July 06, 2026 - 09:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, July 06, 2026 - 11:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +46,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c163/live/a90f6680-791c-11f1-9510-1546718f668b.jpg" alt="Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-06 11:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/6/huge-crowd-joins-funeral-procession-for-irans-supreme-leader-khamenei?traffic_source=rss" target="_blank">Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-06 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdfc/live/9fa9b320-791c-11f1-a627-714adb4eed6e.jpg" alt="Buckingham Palace says Prince Harry will not stay at palace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c77yykl87yno?at_medium=RSS&at_campaign=rss" target="_blank">Buckingham Palace says Prince Harry will not stay at palace</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-06 10:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/nato-exercise-20260705-rt-jh_1783286002789_hpMain_4x3t_384.jpg" alt="US taking stock of NATO as Trump heads to Turkey for summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596" target="_blank">US taking stock of NATO as Trump heads to Turkey for summit</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-06 09:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-meloni-trump_7138805.jpg?20260118120922" alt="Trump escalates Meloni feud, suggesting Italian PM needs &#x27;restraining order&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-escalates-meloni-feud-suggesting-italian-pm-needs-restraining-order-13560889" target="_blank">Trump escalates Meloni feud, suggesting Italian PM needs &#x27;restraining order&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-06 08:17</span>
             </div>
         </div>
 <div class="story">
@@ -63,47 +99,20 @@
                 <span class="time">2026-07-06 07:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending" target="_blank">Trump won spending promises from NATO last year. This week, he&#x27;ll try to enforce them</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-06 06:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/6/sports-stadium-becomes-home-for-victims-of-the-venezuela-earthquakes?traffic_source=rss" target="_blank">Sports stadium becomes home for victims of the Venezuela earthquakes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-06 02:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/folarin-balogun-getty-cw-20260705_1783273199797_hpMain_4x3t_384.jpg" alt="Trump asked FIFA to review US World Cup star Folarin Balogun&#x27;s red card ban: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/us-world-cup-star-folarin-baloguns-red-card/story?id=134500486" target="_blank">Trump asked FIFA to review US World Cup star Folarin Balogun&#x27;s red card ban: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-06 00:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/6/belgium-astonished-at-fifas-u-turn-on-balogun-red-card-for-usa-match?traffic_source=rss" target="_blank">Belgium ‘astonished’ at FIFA’s U-turn on Balogun red card for USA match</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-06 00:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/DSC_8270-1-500x500.jpg" alt="The Czinger 21C might be the wildest car we drive all year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/" target="_blank">The Czinger 21C might be the wildest car we drive all year</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-06 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +158,29 @@
                 <span class="time">2026-07-05 18:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/" target="_blank">Amazon will stop accepting new customers for Mechanical Turk</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-05 17:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kasmav/how-a-javascript-pivot-table-can-handle-10-million-rows-in-the-browser-4bpe" target="_blank">How a JavaScript Pivot Table Can Handle 10 Million Rows in the Browser</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-06 11:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/podcasts/new-blueprint-cloud-security/en/smallimage/the-infoq-podcast-logo-thumbnail-1782468606100.jpg" alt="Podcast: Spite-Driven Engineering: A New Blueprint for Cloud Security in the AI Native Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/new-blueprint-cloud-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Spite-Driven Engineering: A New Blueprint for Cloud Security in the AI Native Era</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-06 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,22 +217,18 @@
                 <span class="time">2026-07-06 01:08</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://twitter.com/thsottiaux/status/2073933490513752151" target="_blank">GPT-5.6 Sol Ultra will be in Codex</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-06 01:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/simbyheart/i-built-an-ai-agent-that-remembers-why-customers-leave-and-im-building-my-way-into-ai-development-oic" target="_blank">I Built an AI Agent That Remembers Why Customers Leave (And I&#x27;m Building My Way Into AI Development)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-06 00:21</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html" target="_blank">France to Stop Certifying Non-Quantum-Safe Encryption</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-06 10:45</span>
             </div>
         </div>
 </div>
@@ -304,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 239 |
-        🔄 Last Updated: 09:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 11:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
