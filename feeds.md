@@ -1,40 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-06 17:52:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-06 18:34:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, July 06, 2026 - 17:53 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, July 06, 2026 - 18:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Folarin-Balogun-ao-gmh-260706_1783348700503_hpMain_4x3t_384.jpg" alt="FIFA rejects Belgium&#x27;s appeal of Folarin Balogun&#x27;s red card ban suspension" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/us-world-cup-star-folarin-baloguns-red-card/story?id=134500486" target="_blank">FIFA rejects Belgium&#x27;s appeal of Folarin Balogun&#x27;s red card ban suspension</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-06 18:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss" target="_blank">Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-06 18:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/06/nx-s1-5883784/dhs-ice-critic-lawsuit-free-speech" target="_blank">Man sues DHS after agents tracked him down for sending a scathing email to ICE</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-06 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f002/live/3fd125b0-794d-11f1-9510-1546718f668b.jpg" alt="Trump confirms he asked Fifa to review Balogun ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss" target="_blank">Trump confirms he asked Fifa to review Balogun ban</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-06 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1403/live/b221e570-794b-11f1-bfee-d367081f1131.jpg" alt="Henderson expected to have surgery on injured wrist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/cvgmmm5923yo?at_medium=RSS&at_campaign=rss" target="_blank">Henderson expected to have surgery on injured wrist</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-06 15:22</span>
             </div>
         </div>
 </div>
@@ -242,6 +231,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JERXKVHK8X0MXQXAGDNC0YP3/hero-image.png" alt="TCL&#x27;s More Affordable Take on &#x27;The Frame&#x27; TV Is Nearly $600 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/nxtvision-picture-frame-tv-deal-july-2026?utm_medium=RSS" target="_blank">TCL&#x27;s More Affordable Take on &#x27;The Frame&#x27; TV Is Nearly $600 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-06 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/blade-1280x729.jpg" alt="With Arkane For Sale And Blade At Risk, Original Founder Asks Xbox CEO: ‘How Much?’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -286,20 +284,20 @@
                 <span class="time">2026-07-06 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWV3BT4QBCW1W3H7P5D28TD6/hero-image.png" alt="I Compared Siri AI to Gemini on iPhone and There&#x27;s a Clear Winner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/i-compared-siri-ai-to-gemini-on-iphone?utm_medium=RSS" target="_blank">I Compared Siri AI to Gemini on iPhone and There&#x27;s a Clear Winner</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-06 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/06/rex-ready-player-one-part-one" target="_blank">Rex Ready Player One, Part One</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-06 18:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -323,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 39 | 📸 With Images: 237 |
-        🔄 Last Updated: 17:53 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 18:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
