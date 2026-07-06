@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-06 11:28:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-06 13:09:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, July 06, 2026 - 11:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, July 06, 2026 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/06/g-s1-132097/up-first-newsletter-america-250-trump-democrats-iran-israel-world-cup-folarin-balogun" target="_blank">Trump, Mamdani give contrasting July 4th speeches. And, U.S. faces Belgium in World Cup</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-06 11:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c163/live/a90f6680-791c-11f1-9510-1546718f668b.jpg" alt="Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,21 +89,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-meloni-trump_7138805.jpg?20260118120922" alt="Trump escalates Meloni feud, suggesting Italian PM needs &#x27;restraining order&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-meloni-trump_7138805.jpg?20260118120922" alt="&#x27;Restraining order needed&#x27;: Trump escalates Meloni feud" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-escalates-meloni-feud-suggesting-italian-pm-needs-restraining-order-13560889" target="_blank">Trump escalates Meloni feud, suggesting Italian PM needs &#x27;restraining order&#x27;</a></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-escalates-meloni-feud-suggesting-italian-pm-needs-restraining-order-13560889" target="_blank">&#x27;Restraining order needed&#x27;: Trump escalates Meloni feud</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-07-06 08:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/528b/live/e5134170-78ee-11f1-b5ef-67aee6df60e2.jpg" alt="At least 11 killed in second Russian strikes on Kyiv in a week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss" target="_blank">At least 11 killed in second Russian strikes on Kyiv in a week</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-06 07:15</span>
             </div>
         </div>
 </div>
@@ -104,6 +102,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/" target="_blank">Station F ramps up as a launchpad for Europe’s hottest AI startups</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-06 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Bentley-Torcal-500x500.jpg" alt="Bentley teases its first EV, the Torcal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/" target="_blank">Bentley teases its first EV, the Torcal</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-06 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/DSC_8270-1-500x500.jpg" alt="The Czinger 21C might be the wildest car we drive all year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +156,29 @@
                 <span class="time">2026-07-05 21:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/" target="_blank">Trump memecoin investors lost $3.8 billion, analysis finds</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-05 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review" target="_blank">Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-05 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/code__mancer/building-a-memory-driven-ai-tutor-in-4-days-with-cognee-2j8b" target="_blank">Building a Memory-Driven AI Tutor in 4 Days with Cognee</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-06 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/online-cohort-ai-security/en/headerimage/online-ai-security-cohort-1783334952666.jpg" alt="InfoQ Opens AI Security &amp; Privacy Engineering Cohort for Regulated Industries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/online-cohort-ai-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">InfoQ Opens AI Security &amp; Privacy Engineering Cohort for Regulated Industries</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-06 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,37 +200,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.map.signalbox.io" target="_blank">Real-time map of Great Britain&#x27;s rail network</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-06 09:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nolanpiercework/i-tried-making-an-idle-browser-game-with-ai-the-prompt-was-the-easy-part-4df9" target="_blank">I Tried Making an Idle Browser Game With AI. The Prompt Was the Easy Part.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-06 09:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/rust-autonomous-mobile-robots/en/mediumimage/andy-brinkmeyer-medium-1782817486635.jpeg" alt="Presentation: Practical Robustness: Going Beyond Memory Safety in Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/rust-autonomous-mobile-robots/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Practical Robustness: Going Beyond Memory Safety in Rust</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-06 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.12" target="_blank">D7VK&#x27;s Performance Gains Since Its Inception For Older Direct3D Versions On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-06 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc2-Released" target="_blank">Linux 7.2-rc2 Released: &quot;Things Look Very Normal&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-06 01:08</span>
             </div>
         </div>
 </div>
@@ -236,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/wekkkdn-1280x720.jpg" alt="The Weeknd Wins Over Persona 3 Baddie After Fumbling Persona 5’s Hot Doctor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/weeknd-persona-3-reload-mitsuru-kirijo-romance-5-tae-2000712825" target="_blank">The Weeknd Wins Over Persona 3 Baddie After Fumbling Persona 5’s Hot Doctor</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-06 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/psycho-1280x747.jpg" alt="Mob Psycho 100 Director Reflects On That Final Episode: ‘I Thought The way It Ended Was Great’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,20 +288,20 @@
                 <span class="time">2026-07-05 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/kohi-1280x698.jpg" alt="Hideo Kojima Finds It Really Sad That Sony Is Killing PlayStation Game Discs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hideo-kojima-finds-it-really-sad-that-sony-is-killing-playstation-game-discs-2000712659" target="_blank">Hideo Kojima Finds It Really Sad That Sony Is Killing PlayStation Game Discs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-05 14:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/06/rex-ready-player-one-part-one" target="_blank">Rex Ready Player One, Part One</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-06 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5866.png" alt="Process Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -318,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 11:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
