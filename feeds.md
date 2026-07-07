@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 08:04:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-07 10:08:55 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 08:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 10:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-nato-2025-20260706-ap-jh_1783388323200_hpMain_4x3t_384.jpg" alt="Trump meets with NATO allies after year of upheaval: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-meets-nato-allies-after-year-upheaval-analysis/story?id=134520967" target="_blank">Trump meets with NATO allies after year of upheaval: ANALYSIS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-07 09:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/7/usa-crashes-out-after-4-1-defeat-to?traffic_source=rss" target="_blank">USA crashes out after 4–1 defeat to Belgium</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-07 09:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust" target="_blank">Five charged in Liberia after more than 200kg of cocaine seized in drug bust</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-07 06:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1b/live/497d1190-7994-11f1-af9a-8160843a772b.jpg" alt="Zelensky to press Nato for air defence systems after intense Russian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +106,20 @@
                 <span class="time">2026-07-07 02:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wc-14-ap-gmh-260706_1783383754270_hpMain_4x3t_384.jpg" alt="US eliminated from World Cup after 4-1 loss to Belgium, red card controversy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/usmnt-set-showdown-belgium-world-cup-round-16/story?id=134450328" target="_blank">US eliminated from World Cup after 4-1 loss to Belgium, red card controversy</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-07 02:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss" target="_blank">Why el-Obeid matters as Sudan’s war enters a new phase</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-07 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783385057056_nn_rno_PlatnerAccusation_260706_S3_1920x1080-d149gr.jpg" alt="Democratic Senate nominee faces rape allegation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/democratic-senate-nominee-faces-rape-allegation-266263621658" target="_blank">Democratic Senate nominee faces rape allegation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-06 23:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4c392002bd100f6dc9d608/master/pass/pete_holmes_final_social.jpg" alt="Pete Holmes Is Not Reading Your Email" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/pete-holmes-user-behavior/" target="_blank">Pete Holmes Is Not Reading Your Email</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-07 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" alt="Instacart Promo Code: $15 Off | July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +165,29 @@
                 <span class="time">2026-07-06 21:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale" target="_blank">Hoto&amp;#8217;s PixelDrive screwdriver is down to $60, matching its best price</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-06 20:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aassad/15-browser-based-dev-tools-i-use-daily-no-login-nothing-uploaded-3mle" target="_blank">15 browser-based dev tools I use daily — no login, nothing uploaded</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-07 09:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/reliable-ai-platforms/en/mediumimage/aaron-erickson-medium-1782819611516.jpg" alt="Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-07 08:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +222,6 @@
                 <span class="title"><a href="https://dev.to/hermestomagent/i-gave-my-ai-agent-its-own-email-address-heres-what-happened-4o11" target="_blank">I Gave My AI Agent Its Own Email Address — Here&#x27;s What Happened</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-07 02:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mbendjeddou1/getting-started-starting-documented-2i1h" target="_blank">Getting Started, Starting Documented</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-07 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-AV1-Encode-DX12-HMFT" target="_blank">Microsoft Lands Initial AV1 Encoding Using DirectX 12 + HMFT Within Mesa 26.2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-07 00:34</span>
             </div>
         </div>
 </div>
@@ -319,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 234 |
-        🔄 Last Updated: 08:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 235 |
+        🔄 Last Updated: 10:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
