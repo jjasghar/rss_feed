@@ -1,45 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 12:55:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-07 13:40:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 36 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 12:55 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 13:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/7/at-least-nine-police-officers-killed-in-southwestern-pakistan-attack?traffic_source=rss" target="_blank">At least nine police officers killed in southwestern Pakistan attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-07 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/07/g-s1-132218/theres-no-treatment-designed-for-the-ebola-strain-ravaging-drc-but-now-theres-hope" target="_blank">There&#x27;s no treatment designed for the Ebola strain ravaging DRC. But now there&#x27;s hope</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-07 12:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump, Turkish President Erdogan hold bilateral meeting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,29 +105,38 @@
                 <span class="time">2026-07-07 11:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola" target="_blank">What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-07 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-marine-le-pen-france_7292009.jpg?20260707131931" alt="Far-right French leader Le Pen able to run in next presidential election after court ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/far-right-french-leader-le-pen-able-to-run-in-next-presidential-election-after-court-ruling-13561256" target="_blank">Far-right French leader Le Pen able to run in next presidential election after court ruling</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-07 10:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/" target="_blank">Hacktivists call out Trump by hacking and defacing US Army websites</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-07 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4bd7c758fe114a7a5cba2a/master/pass/Solos-Smart-Glasses-Gear-10.jpg" alt="These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/" target="_blank">These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-07 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy" target="_blank">Solos debuts an even lighter version of its camera-less smart glasses</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-07 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,33 +164,6 @@
                 <span class="time">2026-07-07 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/960802/3d-printed-gun-laws-ghost-guns" target="_blank">Are you ready for what it takes to stop ghost guns?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-07 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4c392002bd100f6dc9d608/master/pass/pete_holmes_final_social.jpg" alt="Pete Holmes Is Not Reading Your Email" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pete-holmes-user-behavior/" target="_blank">Pete Holmes Is Not Reading Your Email</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-07 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/" target="_blank">The first American autonomous ground vehicles are fighting in Ukraine</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-07 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,9 +173,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/carlos_arturocastaog_/el-quehacer-diario-del-programador-moda-cambio-y-conciencia-4dco" target="_blank">El quehacer diario del programador: moda, cambio y conciencia</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-07 13:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17374380/windows-11-cam-bug" target="_blank">LOL! Storage Bug on Microsoft Windows 11 Could Eat Up 500 GB Disk Space</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-07 12:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/irinobservability/the-llm-narrates-the-code-decides-33f2" target="_blank">The LLM narrates. The code decides.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-07 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://streetcomplete.app/" target="_blank">StreetComplete: Fixing OpenStreetMap, one tiny quest at a time</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-07 12:38</span>
             </div>
         </div>
 <div class="story">
@@ -198,33 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/TUXEDO-Computers-Goes-Debian" target="_blank">TUXEDO Computers Switching TUXEDO OS From Ubuntu To Debian Testing</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-07 12:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/aws-devops-ai-agent/en/headerimage/generatedHeaderImage-1783328078228.jpg" alt="AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code Before Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/aws-devops-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code Before Production</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-07 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://korben.info/en/mullvad-cofounder-funding-far-right.html" target="_blank">Mullvad&#x27;s co-founder is bankrolling the far right</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-07 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/0xramprasad/terrausd-collapsed-with-18b-in-circulation-chainlink-proof-of-reserve-would-have-caught-it-earlier-4n3j" target="_blank">TerraUSD Collapsed With $18B in Circulation. Chainlink Proof of Reserve Would Have Caught It Earlier</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-07 11:40</span>
             </div>
         </div>
 </div>
@@ -246,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/doom-1280x724.jpg" alt="Doom Designer John Romero Says He Hopes People Are Preserving id Software’s History Amid Reported Xbox Bloodbath" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/doom-designer-john-romero-says-he-hopes-people-are-preserving-id-softwares-history-amid-reported-xbox-bloodbath-2000713308" target="_blank">Doom Designer John Romero Says He Hopes People Are Preserving id Software’s History Amid Reported Xbox Bloodbath</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-07 13:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/Asha-Sharma-Matt-Booty-crop-1280x720.jpeg" alt="Xbox CEO Says Healthy Console Is ‘Necessary But Not Sufficient’ For Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +296,6 @@
                 <span class="time">2026-07-06 22:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/fanfest-1280x683.jpg" alt="Xbox Lays Off FanFest Guy Three Months After Bringing Back Xbox FanFest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-lays-off-fanfest-guy-three-months-after-bringing-back-xbox-fanfest-2000713030" target="_blank">Xbox Lays Off FanFest Guy Three Months After Bringing Back Xbox FanFest</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-06 21:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 232 |
-        🔄 Last Updated: 12:55 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 229 |
+        🔄 Last Updated: 13:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
