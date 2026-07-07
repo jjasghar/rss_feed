@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 14:57:02 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-07-07 15:53:31 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 14:57 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 15:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-ap-gmh-260707_1783433417669_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll consider giving Turkey F-35 jets, adds that US will lift sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-hell-giving-turkey-35-jets-adds-us/story?id=134547490" target="_blank">Trump says he&#x27;ll consider giving Turkey F-35 jets, adds that US will lift sanctions</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-07 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/558b/live/18611500-79f5-11f1-907e-1db4355f6fc4.jpg" alt="Harry loses High Court privacy case against Daily Mail publisher" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9324nyqwjno?at_medium=RSS&at_campaign=rss" target="_blank">Harry loses High Court privacy case against Daily Mail publisher</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-07 14:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +101,20 @@
                 <span class="time">2026-07-07 12:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump, Turkish President Erdogan hold bilateral meeting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  President Trump, Turkish President Erdogan hold bilateral meeting: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-07 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/7/7/argentina-vs-egypt-live-fifa-world-cup-2026?traffic_source=rss" target="_blank">Argentina vs Egypt LIVE: FIFA World Cup 2026</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-07 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/962156/discord-accidental-bans-grid-images" target="_blank">Discord accidentally banned over 8,000 people for posting grids and other &amp;#8216;benign&amp;#8217; images</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-07 15:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,6 +131,15 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/961962/anker-soundcore-sleep-a20-jbl-go-5-deal-sale" target="_blank">Anker&amp;#8217;s noise-blocking earbuds for sleeping are nearly half off</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-07 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1230363263-500x500.jpg" alt="New virus catalog reveals which pathogens pose the greatest threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/" target="_blank">New virus catalog reveals which pathogens pose the greatest threat</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-07 13:15</span>
             </div>
         </div>
 <div class="story">
@@ -141,29 +160,29 @@
                 <span class="time">2026-07-07 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy" target="_blank">Solos debuts an even lighter version of its camera-less smart glasses</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-07 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/961601/marshall-acton-stanmore-iv-bluetooth-wireless-speakers-repair" target="_blank">Marshall upgrades the bass and repairability of two wireless speakers</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-07 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ceaz/go-go-gadget-2oc6" target="_blank">Go-go Gadget...</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-07 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Rigel-Upstream-GCC" target="_blank">NVIDIA Upstreams Initial Rigel CPU Support Into GCC Compiler</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-07 15:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/irinobservability/the-llm-narrates-the-code-decides-33f2" target="_blank">The LLM narrates. The code decides.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-07 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://streetcomplete.app/" target="_blank">StreetComplete: Fixing OpenStreetMap, one tiny quest at a time</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-07 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ciphercue.com/blog/european-web-hosting-vendor-share-2026" target="_blank">Europe&#x27;s company websites are mostly served by US vendors</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-07 12:08</span>
             </div>
         </div>
 </div>
@@ -319,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 229 |
-        🔄 Last Updated: 14:57 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 229 |
+        🔄 Last Updated: 15:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
