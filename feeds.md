@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 21:28:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-07 22:22:17 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 21:28 UTC</div>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 22:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg" alt="US launches strikes on Iran after tankers hit in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss" target="_blank">US launches strikes on Iran after tankers hit in Strait of Hormuz</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-07 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c70/live/8a9d72b0-7a51-11f1-b726-3d305a892bc6.png" alt="Farage resigns as MP and vows to fight by-election amid finances row" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0ly51kzdz3o?at_medium=RSS&at_campaign=rss" target="_blank">Farage resigns as MP and vows to fight by-election amid finances row</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-07 22:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Hormuz-DB-260707_1783424887741_hpMain_4x3t_384.jpg" alt="Iran live updates: US launches &#x27;powerful&#x27; airstrikes after reported strait attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: US launches &#x27;powerful&#x27; airstrikes after reported strait attacks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-07 21:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Hormuz-DB-260707_1783424887741_hpMain_4x3t_384.jpg" alt="Iran live updates: US conducting &#x27;powerful&#x27; airstrikes after Strait of Hormuz attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,38 +102,20 @@
                 <span class="time">2026-07-07 20:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wc-7-rt-gmh-260707_1783447114260_hpMain_4x3t_384.jpg" alt="Messi, Argentina stage comeback against Egypt in World Cup thriller" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/lionel-messi-leads-argentina-past-egypt-world-cup/story?id=134558817" target="_blank">Messi, Argentina stage comeback against Egypt in World Cup thriller</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-07 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3959/live/095fc1e0-7a32-11f1-ab76-d75965dea4d1.jpg" alt="Marine Le Pen to run for French presidency and appeal conviction in top court" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss" target="_blank">Marine Le Pen to run for French presidency and appeal conviction in top court</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-07 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/07/nx-s1-5884872/2026-world-cup-fifa-argentina-egypt-round-of-16" target="_blank">Reigning champion Argentina escapes with remarkable World Cup victory over Egypt</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-07 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4d6e8fe06236b4d104fe30/master/pass/Meta-Lets-Anyone-Use-Your-Instagram-Photos-in-AI-Images-Gear-2268477073.jpg" alt="Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/" target="_blank">Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-07 21:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Electric-Arc-Furnace-500x500.jpg" alt="Data centers’ energy demand threatens Trump’s “Made in America” plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +161,6 @@
                 <span class="time">2026-07-07 19:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Pixel-11-event-500x500.jpg" alt="Google&#x27;s Pixel 11 launch event is set for August 12, with possible price increases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/" target="_blank">Google&#x27;s Pixel 11 launch event is set for August 12, with possible price increases</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-07 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +173,15 @@
                 <span class="title"><a href="https://dev.to/vultr/deploying-dokploy-self-hosted-paas-for-docker-applications-on-ubuntu-2404-27eg" target="_blank">Deploying Dokploy - Self-Hosted PaaS for Docker Applications on Ubuntu 24.04</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-07 21:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Proton-11.0-1" target="_blank">Proton 11.0-1 Released To Advance Valve&#x27;s Steam Play For The Best Linux Experience Yet</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-07 21:10</span>
             </div>
         </div>
 <div class="story">
@@ -204,19 +214,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tenaciousdan/unity-foundational-architecture-smart-bootstrapping-52pf" target="_blank">Unity Foundational Architecture: Smart Bootstrapping</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-07 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!jug7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd16fca2a-ad43-4f69-9a9d-8dd72f2edda3_1182x704.png" alt="Tech jobs market in 2026, part 3: hiring managers &amp; job seekers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/tech-jobs-market-in-2026-part-3-hiring" target="_blank">Tech jobs market in 2026, part 3: hiring managers &amp; job seekers</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-07-07 17:25</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/" target="_blank">Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-07 18:24</span>
             </div>
         </div>
 </div>
@@ -238,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/AcePDF-Converter-Editor.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Stop PDF headaches — convert, merge, and edit files in minutes with AcePDF for a one-time $24" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/07/stop-pdf-headaches-convert-merge-and-edit-files-in-minutes-with-acepdf-for-a-one-time-24.html" target="_blank">Stop PDF headaches — convert, merge, and edit files in minutes with AcePDF for a one-time $24</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-07 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/1000008531.jpg" alt="9 Rhythm Heaven Groove Games That Made Me Want To Put A Controller Through My TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +293,6 @@
                 <span class="time">2026-07-07 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/03/902c2c22-a222-4057-2f32-bd1e3162b902_BCS_106_UC_0811_0195-e1783443153855.jpg?fit=768%2C520&amp;quality=60&amp;ssl=1" alt="Mike Ehrmantraut gets his moment in the newest Saul4Democracy PSA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/07/mike-ehrmantraut-gets-his-moment-in-the-newest-saul4democracy-psa.html" target="_blank">Mike Ehrmantraut gets his moment in the newest Saul4Democracy PSA</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-07 16:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 39 | 📸 With Images: 230 |
-        🔄 Last Updated: 21:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 22:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
