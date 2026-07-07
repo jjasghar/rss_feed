@@ -1,45 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 20:32:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-07 21:28:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 36 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 20:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 21:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Hormuz-DB-260707_1783424887741_hpMain_4x3t_384.jpg" alt="Iran live updates: US conducting &#x27;powerful&#x27; airstrikes after Strait of Hormuz attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: US conducting &#x27;powerful&#x27; airstrikes after Strait of Hormuz attacks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-07 21:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/7/nasdaq-vs-dow-how-are-the-key-indices-different-as-spacex-joins-one?traffic_source=rss" target="_blank">Nasdaq vs Dow: How are the key indices different as SpaceX joins one?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-07 20:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/773/231/47018258262-1080pnbcstations.jpg" alt="¡Argentina está de regreso! La albiceleste remonta en un duelo cardíaco ante Egipto" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/argentina-esta-de-regreso-la-albiceleste-remonta-en-un-duelo-cardiaco-ante-egipto-tmvo13201432" target="_blank">¡Argentina está de regreso! La albiceleste remonta en un duelo cardíaco ante Egipto</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-07 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e88a/live/3b9507f0-7a24-11f1-b976-0b9c15b0ccfc.jpg" alt="Chris Mason: Farage attempts to seize back the agenda after finance row" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1my1g29gk7o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Farage attempts to seize back the agenda after finance row</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-07 16:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/760/43/47016896992-1080pnbcstations.jpg" alt="Egipto anota, Hassan pide calma y el banquillo rompe en celebración" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/egipto-anota-hassan-pide-calma-y-el-banquillo-rompe-en-celebracion-tmvo13201401" target="_blank">Egipto anota, Hassan pide calma y el banquillo rompe en celebración</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-07 16:33</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/07/nx-s1-5884872/2026-world-cup-fifa-argentina-egypt-round-of-16" target="_blank">Reigning champion Argentina escapes with remarkable World Cup victory over Egypt</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-07 18:49</span>
             </div>
         </div>
 </div>
@@ -114,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Electric-Arc-Furnace-500x500.jpg" alt="Data centers’ energy demand threatens Trump’s “Made in America” plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/" target="_blank">Data centers’ energy demand threatens Trump’s “Made in America” plan</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-07 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram" target="_blank">Meta’s new Muse Image model can pull other Instagram users into AI photos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-07 20:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/texas-flag-500x500.jpg" alt="SCOTUS lets Texas enforce app store law that Big Tech calls &quot;censorship regime&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,29 +160,20 @@
                 <span class="time">2026-07-07 19:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/962415/x-video-editor-recycled-content" target="_blank">X says top accounts steal videos from other users as it announces new video tools</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-07 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4d000d4cf7b85a60294910/master/pass/648792438" alt="Mysterious Compound Detected on Pluto and Titan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan/" target="_blank">Mysterious Compound Detected on Pluto and Titan</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-07 18:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vultr/deploying-dokploy-self-hosted-paas-for-docker-applications-on-ubuntu-2404-27eg" target="_blank">Deploying Dokploy - Self-Hosted PaaS for Docker Applications on Ubuntu 24.04</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-07 21:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -218,15 +219,6 @@
                 <span class="time">2026-07-07 17:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-server-a-platform-made-for-enterprise-scale" target="_blank">Ubuntu Server: a platform made for enterprise scale</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-07-07 16:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -253,6 +245,15 @@
                 <span class="title"><a href="https://kotaku.com/rhythm-heaven-groove-games-frustrating-worst-best-2000713407" target="_blank">9 Rhythm Heaven Groove Games That Made Me Want To Put A Controller Through My TV</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-07 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2734545931-scaled.jpg?fit=2560%2C1819&amp;quality=60&amp;ssl=1" alt="Russians returning to 1 horsepower amid gasoline shortages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/07/russians-returning-to-1-horsepower-amid-gasoline-shortages.html" target="_blank">Russians returning to 1 horsepower amid gasoline shortages</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-07 20:23</span>
             </div>
         </div>
 <div class="story">
@@ -291,15 +292,6 @@
                 <span class="time">2026-07-07 16:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-07-at-12.24.28-PM-1280x720.jpg" alt="After Unprecedented Leak, The New Avatar Movie Looks Great In First Official Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/avatar-aang-last-airbender-movie-trailer-date-paramount-2000713384" target="_blank">After Unprecedented Leak, The New Avatar Movie Looks Great In First Official Trailer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-07 16:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 230 |
-        🔄 Last Updated: 20:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 39 | 📸 With Images: 230 |
+        🔄 Last Updated: 21:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
