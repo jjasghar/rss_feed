@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 22:22:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-07 23:18:17 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 22:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 23:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -117,6 +107,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok" target="_blank">Of course viewers are giving up on Netflix shows</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-07 21:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Electric-Arc-Furnace-500x500.jpg" alt="Data centers’ energy demand threatens Trump’s “Made in America” plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -152,20 +151,29 @@
                 <span class="time">2026-07-07 20:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/" target="_blank">Discord admits AI moderation bug wrongfully banned users over harmless images</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-07 19:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/only_machua_dda6986f7477a/powerbi-is-smart-but-also-lazy-4mji" target="_blank">PowerBi is smart but also lazy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-07 23:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/tuxedo-infinityflex-14.jpg?resize=406%2C232&amp;ssl=1" alt="TUXEDO OS drops Ubuntu to rebase on Debian Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/slug-tuxedo-os-debian-rebase" target="_blank">TUXEDO OS drops Ubuntu to rebase on Debian Testing</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-07 22:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +208,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/momentic-postgres-clickhouse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-07 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jeffrey_hamilton6399/i-built-a-background-remover-that-doesnt-upload-your-photos-no-40month-ofd" target="_blank">I built a background remover that doesn&#x27;t upload your photos (no $40/month)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-07 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/" target="_blank">Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-07 18:24</span>
             </div>
         </div>
 </div>
@@ -321,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 22:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 39 | 📸 With Images: 234 |
+        🔄 Last Updated: 23:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
