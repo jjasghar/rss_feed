@@ -1,33 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 00:24:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-07 01:31:32 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 00:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss" target="_blank">Why el-Obeid matters as Sudan’s war enters a new phase</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-07 00:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/06/g-s1-132202/world-cup-retire-ronaldo-neymar-ochoa-neuer" target="_blank">This World Cup marks end of era for Ronaldo and other soccer greats</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-06 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Sports/usmnt-world-cup-ap-jt-260703_1783108692644_hpMain_4x3t_384.jpg" alt="US to face Belgium in World Cup showdown as star striker&#x27;s red card ban lifted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/usmnt-set-showdown-belgium-world-cup-round-16/story?id=134450328" target="_blank">US to face Belgium in World Cup showdown as star striker&#x27;s red card ban lifted</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-06 21:15</span>
             </div>
         </div>
 </div>
@@ -165,6 +161,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mbendjeddou1/getting-started-starting-documented-2i1h" target="_blank">Getting Started, Starting Documented</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-07 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/01888927bd0e8aa92caca/diffraction-grating-how-thousands-of-slits-turn-light-into-a-spectrum-28kg" target="_blank">Diffraction Grating: How Thousands of Slits Turn Light into a Spectrum</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-07 00:17</span>
@@ -206,15 +211,6 @@
                 <span class="time">2026-07-06 18:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openwrt.org/toh/openwrt/one" target="_blank">OpenWrt One – Open Hardware Router</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-06 18:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/the-odyssey-1280x746.jpg" alt="The First Reactions To Christopher Nolan’s Odyssey Call It ‘Clunky,’ ‘Astonishing,’ And Like Peter Jackson’s Lord Of The Rings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-first-reactions-to-christopher-nolans-odyssey-call-it-clunky-astonishing-and-like-peter-jacksons-lord-of-the-rings-2000713055" target="_blank">The First Reactions To Christopher Nolan’s Odyssey Call It ‘Clunky,’ ‘Astonishing,’ And Like Peter Jackson’s Lord Of The Rings</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-06 23:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/fanfest-1280x683.jpg" alt="Xbox Lays Off FanFest Guy Three Months After Bringing Back Xbox FanFest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,20 +284,20 @@
                 <span class="time">2026-07-06 18:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JERXKVHK8X0MXQXAGDNC0YP3/hero-image.png" alt="TCL&#x27;s More Affordable Take on &#x27;The Frame&#x27; TV Is Nearly $600 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/nxtvision-picture-frame-tv-deal-july-2026?utm_medium=RSS" target="_blank">TCL&#x27;s More Affordable Take on &#x27;The Frame&#x27; TV Is Nearly $600 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-06 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5867.png" alt="Files Not Found" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5867" target="_blank">Files Not Found</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-07 01:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -320,22 +325,13 @@
                 <span class="time">2026-07-06 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5866.png" alt="Process Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5866" target="_blank">Process Optimization</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-06 00:48</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 00:24 UTC
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
