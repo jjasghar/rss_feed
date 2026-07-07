@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 17:36:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-07 18:36:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 17:36 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 18:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/773/231/47018258262-1080pnbcstations.jpg" alt="¡Argentina está de regreso! La albiceleste remonta en un duelo cardíaco ante Egipto" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/argentina-esta-de-regreso-la-albiceleste-remonta-en-un-duelo-cardiaco-ante-egipto-tmvo13201432" target="_blank">¡Argentina está de regreso! La albiceleste remonta en un duelo cardíaco ante Egipto</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-07 18:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e88a/live/3b9507f0-7a24-11f1-b976-0b9c15b0ccfc.jpg" alt="Chris Mason: Farage attempts to seize back the agenda after finance row" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/558b/live/18611500-79f5-11f1-907e-1db4355f6fc4.jpg" alt="Harry loses High Court privacy case against Daily Mail publisher" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9324nyqwjno?at_medium=RSS&at_campaign=rss" target="_blank">Harry loses High Court privacy case against Daily Mail publisher</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-07 14:41</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/07/g-s1-132294/lawsuit-asylum-iran" target="_blank">New lawsuit alleges U.S. shared asylum application details with Iran</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-07 14:04</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds" target="_blank">Catnip lotion as effective as Deet at repelling mosquitoes, study finds</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-07 15:17</span>
             </div>
         </div>
 </div>
@@ -104,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs" target="_blank">The ‘G-Wagen of golf carts’ could be the ideal second car</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-07 17:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +158,6 @@
                 <span class="time">2026-07-07 15:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/" target="_blank">AI law startup Norm raises $120M, hits unicorn valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-07 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +179,15 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/tech-jobs-market-in-2026-part-3-hiring" target="_blank">Tech jobs market in 2026, part 3: hiring managers &amp; job seekers</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2026-07-07 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-server-a-platform-made-for-enterprise-scale" target="_blank">Ubuntu Server: a platform made for enterprise scale</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-07-07 16:42</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Rigel-Upstream-GCC" target="_blank">NVIDIA Upstreams Initial Rigel CPU Support Into GCC Compiler</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-07 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/carlos_arturocastaog_/el-quehacer-diario-del-programador-moda-cambio-y-conciencia-4dco" target="_blank">El quehacer diario del programador: moda, cambio y conciencia</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-07 13:34</span>
             </div>
         </div>
 </div>
@@ -313,22 +313,13 @@
                 <span class="time">2026-07-07 01:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/06/rex-ready-player-one-part-one" target="_blank">Rex Ready Player One, Part One</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-06 18:16</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 39 | 📸 With Images: 232 |
-        🔄 Last Updated: 17:36 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 39 | 📸 With Images: 229 |
+        🔄 Last Updated: 18:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
