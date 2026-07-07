@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 10:08:55 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-07 11:57:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 10:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 11:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/07/g-s1-132281/up-first-newsletter-graham-platner-nato-trump-climate-change-us-roads" target="_blank">Woman accuses Graham Platner of sexual assault. And, NATO summit begins</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-07 11:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-anastasiia-berezovska_7288727.jpg?20260703111231" alt="Woman suspected of carrying out Monaco bombing of Ukrainian tycoon found dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/woman-suspected-of-carrying-out-monaco-bombing-of-ukrainian-tycoon-found-dead-13561246" target="_blank">Woman suspected of carrying out Monaco bombing of Ukrainian tycoon found dead</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-07 10:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-nato-2025-20260706-ap-jh_1783388323200_hpMain_4x3t_384.jpg" alt="Trump meets with NATO allies after year of upheaval: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,29 +101,29 @@
                 <span class="time">2026-07-07 04:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/704/387/47004645396-1080pnbcstations.jpg" alt="¡Romelu Lukaku se une a la fiesta! Entra y firma el cuarto para sellar la goleada de Bélgica" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/romelu-lukaku-se-une-a-la-fiesta-entra-y-firma-el-cuarto-para-sellar-la-goleada-de-belgica-tmvo13201143" target="_blank">¡Romelu Lukaku se une a la fiesta! Entra y firma el cuarto para sellar la goleada de Bélgica</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-07 02:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/07/nx-s1-5877797/end-marriage-good-terms-divorce" target="_blank">What a divorce coach wishes couples knew before ending a marriage</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-07 02:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68ce2fd1550f612a902e2a42/master/pass/iPhone%2017%20Cases%20Hero%20Image%20SOURCE%20Julian%20Chokkattu.jpg" alt="The Best iPhone 17 Cases (2026): Our Picks After Testing 100+" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/" target="_blank">The Best iPhone 17 Cases (2026): Our Picks After Testing 100+</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-07 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/960802/3d-printed-gun-laws-ghost-guns" target="_blank">Are you ready for what it takes to stop ghost guns?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-07 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a4c392002bd100f6dc9d608/master/pass/pete_holmes_final_social.jpg" alt="Pete Holmes Is Not Reading Your Email" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -118,6 +131,15 @@
                 <span class="title"><a href="https://www.wired.com/story/pete-holmes-user-behavior/" target="_blank">Pete Holmes Is Not Reading Your Email</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-07 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/" target="_blank">The first American autonomous ground vehicles are fighting in Ukraine</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-07 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -138,38 +160,38 @@
                 <span class="time">2026-07-07 00:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/" target="_blank">The ‘first’ AI-run ransomware attack still needed a human</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-06 23:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/" target="_blank">US investors will soon get access to SK Hynix, another memory maker riding the AI boom</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-06 23:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/online-bill-500x500-1783369484.jpg" alt="FCC to end Biden-era rule that forces ISPs to list all their fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/" target="_blank">FCC to end Biden-era rule that forces ISPs to list all their fees</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-06 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://korben.info/en/mullvad-cofounder-funding-far-right.html" target="_blank">Mullvad&#x27;s co-founder is bankrolling the far right</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-07 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/0xramprasad/terrausd-collapsed-with-18b-in-circulation-chainlink-proof-of-reserve-would-have-caught-it-earlier-4n3j" target="_blank">TerraUSD Collapsed With $18B in Circulation. Chainlink Proof of Reserve Would Have Caught It Earlier</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-07 11:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AF-ALG-Restrict-Sysctl-Linux" target="_blank">AF_ALG &quot;Nightmare&quot; Being Further Limited In Linux 7.3 With New Sysctl Knob</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-07 10:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,33 +219,6 @@
                 <span class="time">2026-07-07 07:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17374265/pocketmage-campaign" target="_blank">This E-Paper PDA Wants You to Ditch Your Smartphone for a Keyboard and Two Tiny Screens</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-07 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yuta_tu_df870be227e99357a/wan-mei-de-ping-yong-3b7j" target="_blank">完美的平庸</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-07 04:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hermestomagent/i-gave-my-ai-agent-its-own-email-address-heres-what-happened-4o11" target="_blank">I Gave My AI Agent Its Own Email Address — Here&#x27;s What Happened</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-07 02:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,9 +228,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html" target="_blank">France to Stop Certifying Non-Quantum-Safe Encryption</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html" target="_blank">Google Is Suing Chinese Scammers Who Are Using Gemini</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-06 10:45</span>
+                <span class="time">2026-07-07 10:43</span>
             </div>
         </div>
 </div>
@@ -325,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 10:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 230 |
+        🔄 Last Updated: 11:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
