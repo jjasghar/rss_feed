@@ -1,28 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 06:20:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-07 08:04:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 06:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 08:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -98,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" alt="Instacart Promo Code: $15 Off | July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/instacart-promo/code/" target="_blank">Instacart Promo Code: $15 Off | July 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-07 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -142,20 +159,29 @@
                 <span class="time">2026-07-06 20:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070326a-lg-500x500.jpg" alt="What is the oldest American object ever launched into space?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/" target="_blank">What is the oldest American object ever launched into space?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-06 19:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/07/07/agent-orchestration-is-so-two-years-ago/" target="_blank">Agent orchestration is so two-years ago​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​‍‌‍​‍​﻿​﻿​﻿​﻿​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍‌​​‍﻿‌‌‍​‌​﻿​‌​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍‌‍‌‍​‍‌‍​‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​‍‌‍​﻿​﻿​‍‌‍‌‍‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​‍‌‍​‍​﻿​﻿​﻿​﻿​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍‌​​‍﻿‌‌‍​‌​﻿​‌​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍‌‍‌‍​‍‌‍​‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​‍‌‍​﻿​﻿​‍‌‍‌‍‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-07-07 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17374265/pocketmage-campaign" target="_blank">This E-Paper PDA Wants You to Ditch Your Smartphone for a Keyboard and Two Tiny Screens</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-07 06:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Microsoft-AV1-Encode-DX12-HMFT" target="_blank">Microsoft Lands Initial AV1 Encoding Using DirectX 12 + HMFT Within Mesa 26.2</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-07 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/01888927bd0e8aa92caca/diffraction-grating-how-thousands-of-slits-turn-light-into-a-spectrum-28kg" target="_blank">Diffraction Grating: How Thousands of Slits Turn Light into a Spectrum</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-07 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/java-news-roundup-jun29-2026/en/headerimage/java-news-roundup-image-1783370367210.jpg" alt="Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/java-news-roundup-jun29-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-06 23:30</span>
             </div>
         </div>
 </div>
@@ -306,22 +314,13 @@
                 <span class="time">2026-07-06 18:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/06/rex-ready-player-one-part-one" target="_blank">Rex Ready Player One, Part One</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-06 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 06:20 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 234 |
+        🔄 Last Updated: 08:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
