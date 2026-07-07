@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 13:40:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-07 14:57:02 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 13:41 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 14:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/7/the-world-cup-is-exposing-the-contradictions-of-national-identity?traffic_source=rss" target="_blank">The World Cup is exposing the contradictions of national identity</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-07 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8300/live/585cd5e0-79fa-11f1-9510-1546718f668b.jpg" alt="Zelensky presses Nato for air defence systems after intense Russian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky presses Nato for air defence systems after intense Russian strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-07 13:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +100,29 @@
                 <span class="time">2026-07-07 12:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/07/g-s1-132281/up-first-newsletter-graham-platner-nato-trump-climate-change-us-roads" target="_blank">Woman accuses Graham Platner of sexual assault. And, NATO summit begins</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-07 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/tdy_trump2-stxzf2.jpg" alt="Trump to Meet NATO Leaders Amid Doubts Over His Commitment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-and-nato-allies-gather-in-turkey-for-high-stakes-summit-266285125541" target="_blank">Trump to Meet NATO Leaders Amid Doubts Over His Commitment</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-07 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/" target="_blank">AI law startup Norm raises $120M, hits unicorn valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-07 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/961962/anker-soundcore-sleep-a20-jbl-go-5-deal-sale" target="_blank">Anker&amp;#8217;s noise-blocking earbuds for sleeping are nearly half off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-07 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,24 +159,6 @@
                 <span class="time">2026-07-07 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/" target="_blank">Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-07 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ce2fd1550f612a902e2a42/master/pass/iPhone%2017%20Cases%20Hero%20Image%20SOURCE%20Julian%20Chokkattu.jpg" alt="The Best iPhone 17 Cases (2026): Our Picks After Testing 100+" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/" target="_blank">The Best iPhone 17 Cases (2026): Our Picks After Testing 100+</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-07 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +171,15 @@
                 <span class="title"><a href="https://dev.to/carlos_arturocastaog_/el-quehacer-diario-del-programador-moda-cambio-y-conciencia-4dco" target="_blank">El quehacer diario del programador: moda, cambio y conciencia</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-07 13:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing" target="_blank">You shouldn&#x27;t trust Trusted Publishing</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-07-07 13:13</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +216,6 @@
                 <span class="title"><a href="https://ciphercue.com/blog/european-web-hosting-vendor-share-2026" target="_blank">Europe&#x27;s company websites are mostly served by US vendors</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-07 12:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/TUXEDO-Computers-Goes-Debian" target="_blank">TUXEDO Computers Switching TUXEDO OS From Ubuntu To Debian Testing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-07 12:06</span>
             </div>
         </div>
 </div>
@@ -324,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 229 |
-        🔄 Last Updated: 13:41 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 229 |
+        🔄 Last Updated: 14:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
