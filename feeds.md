@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 18:36:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-07 19:30:52 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 18:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 19:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/wc-7-rt-gmh-260707_1783447114260_hpMain_4x3t_384.jpg" alt="Messi, Argentina stage comeback against Egypt in World Cup thriller" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/lionel-messi-leads-argentina-past-egypt-world-cup/story?id=134558817" target="_blank">Messi, Argentina stage comeback against Egypt in World Cup thriller</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-07 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3959/live/095fc1e0-7a32-11f1-ab76-d75965dea4d1.jpg" alt="Marine Le Pen to run for French presidency and appeal conviction in top court" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss" target="_blank">Marine Le Pen to run for French presidency and appeal conviction in top court</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-07 19:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/773/231/47018258262-1080pnbcstations.jpg" alt="¡Argentina está de regreso! La albiceleste remonta en un duelo cardíaco ante Egipto" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +96,38 @@
                 <span class="time">2026-07-07 15:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-ap-gmh-260707_1783433417669_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll consider giving Turkey F-35 jets, adds that US will lift sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-hell-giving-turkey-35-jets-adds-us/story?id=134547490" target="_blank">Trump says he&#x27;ll consider giving Turkey F-35 jets, adds that US will lift sanctions</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-07 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds" target="_blank">Catnip lotion as effective as Deet at repelling mosquitoes, study finds</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-07 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/" target="_blank">Discord admits AI moderation bug wrongfully banned users over harmless images</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-07 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Pixel-11-event-500x500.jpg" alt="Google&#x27;s Pixel 11 launch event is set for August 12, with possible price increases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/" target="_blank">Google&#x27;s Pixel 11 launch event is set for August 12, with possible price increases</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-07 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/962415/x-video-editor-recycled-content" target="_blank">X says top accounts steal videos from other users as it announces new video tools</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-07 18:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +155,20 @@
                 <span class="time">2026-07-07 16:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2195894561-500x500.jpg" alt="Facing US export controls, China&#x27;s DeepSeek plans to make its own chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/" target="_blank">Facing US export controls, China&#x27;s DeepSeek plans to make its own chips</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-07 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs" target="_blank">Doom developer id reportedly cut in half as part of Xbox layoffs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-07 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/962156/discord-accidental-bans-grid-images" target="_blank">Discord accidentally banned over 8,000 people for posting grids and other &amp;#8216;benign&amp;#8217; images</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-07 15:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jeffrey_hamilton6399/i-built-a-background-remover-that-doesnt-upload-your-photos-no-40month-ofd" target="_blank">I built a background remover that doesn&#x27;t upload your photos (no $40/month)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-07 19:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +214,6 @@
                 <span class="time">2026-07-07 15:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Rigel-Upstream-GCC" target="_blank">NVIDIA Upstreams Initial Rigel CPU Support Into GCC Compiler</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-07 15:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0CQ2SS3QDBNP666AZ416ZMK/hero-image.png" alt="This Massive Hisense U7 QLED TV Is 43% Off, Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hisense-u7-qled-tv-deal-july-2026?utm_medium=RSS" target="_blank">This Massive Hisense U7 QLED TV Is 43% Off, Its Lowest Price Ever</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-07 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KWYND2NSGTS0PBQ8BJYYK328/hero-image.png" alt="This Samsung Soundbar and Subwoofer Combo Is $80 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +287,6 @@
                 <span class="time">2026-07-07 15:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/doom-1280x724.jpg" alt="Doom Designer John Romero Says He Hopes People Are Preserving id Software’s History Amid Reported Xbox Bloodbath" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/doom-designer-john-romero-says-he-hopes-people-are-preserving-id-softwares-history-amid-reported-xbox-bloodbath-2000713308" target="_blank">Doom Designer John Romero Says He Hopes People Are Preserving id Software’s History Amid Reported Xbox Bloodbath</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-07 13:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 39 | 📸 With Images: 229 |
-        🔄 Last Updated: 18:37 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 38 | 📸 With Images: 230 |
+        🔄 Last Updated: 19:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
