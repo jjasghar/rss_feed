@@ -1,32 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 19:30:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-07 20:32:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 19:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 20:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +55,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/7/canadian-province-sues-openai-over-alleged-chatgpt-linked-shooting-warnings?traffic_source=rss" target="_blank">Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-07 20:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/wc-7-rt-gmh-260707_1783447114260_hpMain_4x3t_384.jpg" alt="Messi, Argentina stage comeback against Egypt in World Cup thriller" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +109,29 @@
                 <span class="time">2026-07-07 16:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f55c/live/897292a0-7a22-11f1-bee8-53ce494e1abc.jpg" alt="Marine Le Pen found guilty, but court clears way for presidential run if she wears tag" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cly85qjg45no?at_medium=RSS&at_campaign=rss" target="_blank">Marine Le Pen found guilty, but court clears way for presidential run if she wears tag</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-07 15:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/texas-flag-500x500.jpg" alt="SCOTUS lets Texas enforce app store law that Big Tech calls &quot;censorship regime&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/" target="_blank">SCOTUS lets Texas enforce app store law that Big Tech calls &quot;censorship regime&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-07 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/" target="_blank">Why the rise of open source AI isn’t hurting Anthropic … yet</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-07 20:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,30 +160,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media.wired.com/photos/6a4d000d4cf7b85a60294910/master/pass/648792438" alt="Mysterious Compound Detected on Pluto and Titan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs" target="_blank">The ‘G-Wagen of golf carts’ could be the ideal second car</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-07 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/" target="_blank">Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-07 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/" target="_blank">Claude Cowork expands to mobile and web</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-07 16:27</span>
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan/" target="_blank">Mysterious Compound Detected on Pluto and Titan</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-07 18:03</span>
             </div>
         </div>
 </div>
@@ -160,6 +173,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jamesdev4123/how-a-48-hour-pdf-rabbit-hole-taught-me-to-stop-guessing-and-build-a-repeatable-research-flow-6f" target="_blank">How a 48‑hour PDF rabbit hole taught me to stop guessing and build a repeatable research flow</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-07 20:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/momentic-postgres-clickhouse/en/headerimage/momentic-postgres-clickhouse-1783452382371.jpeg" alt="Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/momentic-postgres-clickhouse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-07 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +227,6 @@
                 <span class="time">2026-07-07 16:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ceaz/go-go-gadget-2oc6" target="_blank">Go-go Gadget...</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-07 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Rigel-Upstream-GCC" target="_blank">NVIDIA Upstreams Initial Rigel CPU Core Support Into GCC Compiler</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-07 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/1000008531.jpg" alt="9 Rhythm Heaven Groove Games That Made Me Want To Put A Controller Through My TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rhythm-heaven-groove-games-frustrating-worst-best-2000713407" target="_blank">9 Rhythm Heaven Groove Games That Made Me Want To Put A Controller Through My TV</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-07 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/Taylor-Swift-A.PAES_-1.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Poet&#x27;s copyright lawsuit against Taylor Swift tossed again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/07/poets-copyright-lawsuit-against-taylor-swift-tossed-again.html" target="_blank">Poet&#x27;s copyright lawsuit against Taylor Swift tossed again</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-07 19:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K0CQ2SS3QDBNP666AZ416ZMK/hero-image.png" alt="This Massive Hisense U7 QLED TV Is 43% Off, Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +300,6 @@
                 <span class="time">2026-07-07 16:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWYK55KHX2S96PW1T5D0VKMP/hero-image.jpg" alt="Now That Sony Is Ending Physical Media, Is It Possible to Make Your Own PlayStation Discs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/is-it-possible-to-make-your-own-playstation-discs?utm_medium=RSS" target="_blank">Now That Sony Is Ending Physical Media, Is It Possible to Make Your Own PlayStation Discs</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-07 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-Noah18062C-CC-BY-SA-4.0-3C-1.jpg?fit=1080%2C791&amp;quality=60&amp;ssl=1" alt="Why English spelling looks like it lost a bar fight with history" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/07/why-english-spelling-looks-like-it-lost-a-bar-fight-with-history.html" target="_blank">Why English spelling looks like it lost a bar fight with history</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-07 15:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 38 | 📸 With Images: 230 |
-        🔄 Last Updated: 19:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 230 |
+        🔄 Last Updated: 20:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
