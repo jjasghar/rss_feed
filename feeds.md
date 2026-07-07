@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 16:44:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-07 17:36:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 16:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 17:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e88a/live/3b9507f0-7a24-11f1-b976-0b9c15b0ccfc.jpg" alt="Chris Mason: Farage attempts to seize back the agenda after finance row" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1my1g29gk7o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Farage attempts to seize back the agenda after finance row</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-07 16:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/760/43/47016896992-1080pnbcstations.jpg" alt="Egipto anota, Hassan pide calma y el banquillo rompe en celebración" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/egipto-anota-hassan-pide-calma-y-el-banquillo-rompe-en-celebracion-tmvo13201401" target="_blank">Egipto anota, Hassan pide calma y el banquillo rompe en celebración</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-07-07 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f55c/live/897292a0-7a22-11f1-bee8-53ce494e1abc.jpg" alt="Marine Le Pen found guilty, but court clears way for presidential run if she wears tag" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cly85qjg45no?at_medium=RSS&at_campaign=rss" target="_blank">Marine Le Pen found guilty, but court clears way for presidential run if she wears tag</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-07 15:46</span>
             </div>
         </div>
 <div class="story">
@@ -74,28 +93,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/7/the-world-cup-is-exposing-the-contradictions-of-national-identity?traffic_source=rss" target="_blank">The World Cup is exposing the contradictions of national identity</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-07 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8300/live/585cd5e0-79fa-11f1-9510-1546718f668b.jpg" alt="Zelensky presses Nato for air defence systems after intense Russian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky presses Nato for air defence systems after intense Russian strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-07 13:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/7/at-least-nine-police-officers-killed-in-southwestern-pakistan-attack?traffic_source=rss" target="_blank">At least nine police officers killed in southwestern Pakistan attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-07 13:08</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/07/g-s1-132294/lawsuit-asylum-iran" target="_blank">New lawsuit alleges U.S. shared asylum application details with Iran</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-07 14:04</span>
             </div>
         </div>
 </div>
@@ -103,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/" target="_blank">Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-07 17:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +158,6 @@
                 <span class="time">2026-07-07 14:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/961962/anker-soundcore-sleep-a20-jbl-go-5-deal-sale" target="_blank">Anker&amp;#8217;s noise-blocking earbuds for sleeping are nearly half off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-07 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,9 +167,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tenaciousdan/unity-foundational-architecture-smart-bootstrapping-52pf" target="_blank">Unity Foundational Architecture: Smart Bootstrapping</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-07 17:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!jug7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd16fca2a-ad43-4f69-9a9d-8dd72f2edda3_1182x704.png" alt="Tech jobs market in 2026, part 3: hiring managers &amp; job seekers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/tech-jobs-market-in-2026-part-3-hiring" target="_blank">Tech jobs market in 2026, part 3: hiring managers &amp; job seekers</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-07-07 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ceaz/go-go-gadget-2oc6" target="_blank">Go-go Gadget...</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-07 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Rigel-Upstream-GCC" target="_blank">NVIDIA Upstreams Initial Rigel CPU Core Support Into GCC Compiler</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-07 15:45</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +215,6 @@
                 <span class="title"><a href="https://dev.to/carlos_arturocastaog_/el-quehacer-diario-del-programador-moda-cambio-y-conciencia-4dco" target="_blank">El quehacer diario del programador: moda, cambio y conciencia</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-07 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing" target="_blank">You shouldn&#x27;t trust Trusted Publishing</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-07-07 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17374380/windows-11-cam-bug" target="_blank">LOL! Storage Bug on Microsoft Windows 11 Could Eat Up 500 GB Disk Space</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-07 12:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/irinobservability/the-llm-narrates-the-code-decides-33f2" target="_blank">The LLM narrates. The code decides.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-07 12:51</span>
             </div>
         </div>
 </div>
@@ -235,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWYND2NSGTS0PBQ8BJYYK328/hero-image.png" alt="This Samsung Soundbar and Subwoofer Combo Is $80 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-soundbar-and-subwoofer-combo-deal-july-2026?utm_medium=RSS" target="_blank">This Samsung Soundbar and Subwoofer Combo Is $80 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-07 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/03/902c2c22-a222-4057-2f32-bd1e3162b902_BCS_106_UC_0811_0195-e1783443153855.jpg?fit=768%2C520&amp;quality=60&amp;ssl=1" alt="Mike Ehrmantraut gets his moment in the newest Saul4Democracy PSA" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/07/mike-ehrmantraut-gets-his-moment-in-the-newest-saul4democracy-psa.html" target="_blank">Mike Ehrmantraut gets his moment in the newest Saul4Democracy PSA</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-07 16:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-07-at-12.24.28-PM-1280x720.jpg" alt="After Unprecedented Leak, The New Avatar Movie Looks Great In First Official Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/doom-designer-john-romero-says-he-hopes-people-are-preserving-id-softwares-history-amid-reported-xbox-bloodbath-2000713308" target="_blank">Doom Designer John Romero Says He Hopes People Are Preserving id Software’s History Amid Reported Xbox Bloodbath</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-07 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Asha-Sharma-Matt-Booty-crop-1280x720.jpeg" alt="Xbox CEO Says Healthy Console Is ‘Necessary But Not Sufficient’ For Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-ceo-says-healthy-console-is-necessary-but-not-sufficient-for-success-2000713306" target="_blank">Xbox CEO Says Healthy Console Is ‘Necessary But Not Sufficient’ For Success</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-07 12:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWXQ5VM7635ZZCT1EP9Z4V1E/hero-image.png" alt="This Hisense 55-Inch Mini-LED TV Is 38% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hisense-u6-pro-tv-sale-july-2026?utm_medium=RSS" target="_blank">This Hisense 55-Inch Mini-LED TV Is 38% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-07 12:30</span>
             </div>
         </div>
 </div>
@@ -326,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 231 |
-        🔄 Last Updated: 16:45 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 39 | 📸 With Images: 232 |
+        🔄 Last Updated: 17:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
