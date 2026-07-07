@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-07 15:53:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-07 16:44:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, July 07, 2026 - 15:53 UTC</div>
+    <div class="newspaper-date">Tuesday, July 07, 2026 - 16:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/760/43/47016896992-1080pnbcstations.jpg" alt="Egipto anota, Hassan pide calma y el banquillo rompe en celebración" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/egipto-anota-hassan-pide-calma-y-el-banquillo-rompe-en-celebracion-tmvo13201401" target="_blank">Egipto anota, Hassan pide calma y el banquillo rompe en celebración</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-07 16:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-4-ap-gmh-260707_1783433417669_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll consider giving Turkey F-35 jets, adds that US will lift sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +98,38 @@
                 <span class="time">2026-07-07 13:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/07/g-s1-132218/theres-no-treatment-designed-for-the-ebola-strain-ravaging-drc-but-now-theres-hope" target="_blank">There&#x27;s no treatment designed for the Ebola strain ravaging DRC. But now there&#x27;s hope</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-07 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/" target="_blank">Claude Cowork expands to mobile and web</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-07 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2195894561-500x500.jpg" alt="Facing US export controls, China&#x27;s DeepSeek plans to make its own chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/" target="_blank">Facing US export controls, China&#x27;s DeepSeek plans to make its own chips</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-07 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs" target="_blank">Doom developer id reportedly cut in half as part of Xbox layoffs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-07 16:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,33 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/961962/anker-soundcore-sleep-a20-jbl-go-5-deal-sale" target="_blank">Anker&amp;#8217;s noise-blocking earbuds for sleeping are nearly half off</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-07 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1230363263-500x500.jpg" alt="New virus catalog reveals which pathogens pose the greatest threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/" target="_blank">New virus catalog reveals which pathogens pose the greatest threat</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-07 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/" target="_blank">Hacktivists call out Trump by hacking and defacing US Army websites</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-07 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4bd7c758fe114a7a5cba2a/master/pass/Solos-Smart-Glasses-Gear-10.jpg" alt="These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/" target="_blank">These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-07 13:00</span>
             </div>
         </div>
 </div>
@@ -239,6 +236,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-07-at-12.24.28-PM-1280x720.jpg" alt="After Unprecedented Leak, The New Avatar Movie Looks Great In First Official Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/avatar-aang-last-airbender-movie-trailer-date-paramount-2000713384" target="_blank">After Unprecedented Leak, The New Avatar Movie Looks Great In First Official Trailer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-07 16:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWYK55KHX2S96PW1T5D0VKMP/hero-image.jpg" alt="Now That Sony Is Ending Physical Media, Is It Possible to Make Your Own PlayStation Discs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/is-it-possible-to-make-your-own-playstation-discs?utm_medium=RSS" target="_blank">Now That Sony Is Ending Physical Media, Is It Possible to Make Your Own PlayStation Discs</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-07 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-Noah18062C-CC-BY-SA-4.0-3C-1.jpg?fit=1080%2C791&amp;quality=60&amp;ssl=1" alt="Why English spelling looks like it lost a bar fight with history" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/07/why-english-spelling-looks-like-it-lost-a-bar-fight-with-history.html" target="_blank">Why English spelling looks like it lost a bar fight with history</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-07 15:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/doom-1280x724.jpg" alt="Doom Designer John Romero Says He Hopes People Are Preserving id Software’s History Amid Reported Xbox Bloodbath" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -265,38 +289,20 @@
                 <span class="time">2026-07-07 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/trmnl-a-hackable-e-ink-device-that-i-think-you-will-like-to-v0-98hl813yv43f1.webp?fit=1065%2C767&amp;quality=55&amp;ssl=1" alt="TRMNL: hackable e-ink dashboard to put anywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/07/trmnl-hackable-e-ink-dashboard-to-put-anywhere.html" target="_blank">TRMNL: hackable e-ink dashboard to put anywhere</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-07 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/the-odyssey-1280x746.jpg" alt="The First Reactions To Christopher Nolan’s Odyssey Call It ‘Clunky,’ ‘Astonishing,’ And Like Peter Jackson’s Lord Of The Rings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-first-reactions-to-christopher-nolans-odyssey-call-it-clunky-astonishing-and-like-peter-jacksons-lord-of-the-rings-2000713055" target="_blank">The First Reactions To Christopher Nolan’s Odyssey Call It ‘Clunky,’ ‘Astonishing,’ And Like Peter Jackson’s Lord Of The Rings</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-06 23:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/sign-language.jpg?fit=1200%2C807&amp;quality=60&amp;ssl=1" alt="Deaf kids in 1980s Nicaragua created a language from thin air" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/06/post-deaf-kids-in-1980s-nicaragua-created-a-language-fr.html" target="_blank">Deaf kids in 1980s Nicaragua created a language from thin air</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-06 22:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1783368305-20260707.png" alt="Saturday Morning Breakfast Cereal - Turing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/turing" target="_blank">Saturday Morning Breakfast Cereal - Turing</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-07 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5867.png" alt="Files Not Found" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -320,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 229 |
-        🔄 Last Updated: 15:53 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 231 |
+        🔄 Last Updated: 16:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
