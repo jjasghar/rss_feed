@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 09:45:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-08 10:38:37 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 09:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 10:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/08/nx-s1-5885073/fda-peptides-compounding-pharmacies" target="_blank">What&#x27;s behind the push to make peptide therapies more readily available</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-08 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +97,20 @@
                 <span class="time">2026-07-08 06:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/centcom-strikes-7-7_1783477003977_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran launches attacks on Kuwait, Bahrain after latest US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: Iran launches attacks on Kuwait, Bahrain after latest US strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-08 05:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4d733cae988deadc1e5529/master/pass/v4-.gif" alt="OnlyFans Models Are Accidentally Making Hacked Government Websites Disappear" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/onlyfans-creators-dmca-hacked-government-websites/" target="_blank">OnlyFans Models Are Accidentally Making Hacked Government Websites Disappear</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-08 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a4be55744dc79c43267387c/master/pass/DeepMind-Alum-QandA-Verity-Harding-Business.jpg" alt="This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/" target="_blank">Hackers can use 9 of the most popular AI tools to assemble massive botnets</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-08 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="We-Vibe Discount Codes and Deals: Up to 60% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/we-vibe-discount-code/" target="_blank">We-Vibe Discount Codes and Deals: Up to 60% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-08 05:00</span>
             </div>
         </div>
 </div>
@@ -295,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/08/rex-ready-player-one-part-two" target="_blank">Rex Ready Player One, Part Two</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-08 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5868.png" alt="Faulty Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -317,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 09:45 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 234 |
+        🔄 Last Updated: 10:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
