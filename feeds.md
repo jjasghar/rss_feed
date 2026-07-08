@@ -1,27 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 15:43:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-08 16:29:15 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 15:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 16:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump speaks at NATO summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  President Trump speaks at NATO summit</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-08 16:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,20 +95,20 @@
                 <span class="time">2026-07-08 11:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/08/g-s1-132474/up-first-newsletter-trump-iran-ceasefire-nato-graham-platner-ioc-russia" target="_blank">Trump says he believes the Iran ceasefire is &#x27;over.&#x27; And, IOC lifts Russia&#x27;s suspension</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-08 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/" target="_blank">Prime Intellect raises $130M Series A to help enterprises build their own AI agents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-08 16:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,20 +154,47 @@
                 <span class="time">2026-07-08 12:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life" target="_blank">The Steam Machine fits my TV, my desk, and my life</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-08 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ahk-dev/11-of-githubs-all-time-top-100-repos-passed-through-our-tracker-before-they-blew-up-heres-what-i-m4p" target="_blank">11 of GitHub&#x27;s all-time top 100 repos passed through our tracker before they blew up. Here&#x27;s what I learned.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-08 16:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-slider.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 23 will have full Wayland support (but X11 is staying)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/linux-mint-wayland-fully-supported" target="_blank">Linux Mint 23 will have full Wayland support (but X11 is staying)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-08 16:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OpenMandriva-Disrupted" target="_blank">OpenMandriva GitHub Disrupted &amp; Nefarious Package Push In Sabotage Attempt</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-08 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/" target="_blank">How GitHub Copilot enables zero DNS configuration for GitHub Pages</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-08 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Airbnb Shares Architecture Behind Sitar-Agent Dynamic Configuration Sidecar for Kubernetes Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -171,42 +211,6 @@
                 <span class="title"><a href="https://mistral.ai/news/robostral-navigate/" target="_blank">Mistral&#x27;s Robostral Navigate: a state of the art robotics navigation model</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-08 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wsdjeg/giving-your-neovim-ai-assistant-a-sense-of-time-scheduled-tasks-in-chatnvim-3da9" target="_blank">Giving Your Neovim AI Assistant a Sense of Time: Scheduled Tasks in chat.nvim</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-08 13:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17374891/tuxedo-os-is-ditching-ubuntu" target="_blank">TUXEDO OS is Ditching Ubuntu for a Debian Base That Never Goes Stable</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-08 12:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Toggle-Syscall-User-Dispatch" target="_blank">Linux 7.3 To Make It Easier To Disable Syscall User Dispatch</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-08 10:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/" target="_blank">Decoding the obfuscated bash script on a Uniqlo t-shirt</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-08 08:46</span>
             </div>
         </div>
 </div>
@@ -328,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 39 | 📸 With Images: 228 |
-        🔄 Last Updated: 15:43 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 39 | 📸 With Images: 229 |
+        🔄 Last Updated: 16:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
