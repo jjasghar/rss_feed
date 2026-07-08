@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 04:07:12 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing 54 RSS feeds at 2026-07-08 05:57:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 04:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 05:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/centcom-strikes-7-7_1783477003977_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran launches attacks on Kuwait, Bahrain after latest US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: Iran launches attacks on Kuwait, Bahrain after latest US strikes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-08 05:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss" target="_blank">At UN, Cuba rallies support against ‘ruthless’ US blockade</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-08 05:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,30 +89,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783465972947_nn_gha_usretaliatoryairstrikesiran_260707_S3_1920x1080-dgh4oq.jpg" alt="U.S. launches retaliatory airstrikes after Iran attacks commercial ships" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-houston-ice_7292561.jpg?20260708021523" alt="Man shot dead by ICE officer in Houston" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/u-s-launches-retaliatory-airstrikes-after-iran-attacks-commercial-ships-266337861517" target="_blank">U.S. launches retaliatory airstrikes after Iran attacks commercial ships</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-07 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01e5/live/0f9d78f0-7a40-11f1-ab76-d75965dea4d1.jpg" alt="Farage&#x27;s rivals rule out standing in Clacton by-election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o?at_medium=RSS&at_campaign=rss" target="_blank">Farage&#x27;s rivals rule out standing in Clacton by-election</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-07 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg" alt="US launches strikes on Iran after tankers hit in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss" target="_blank">US launches strikes on Iran after tankers hit in Strait of Hormuz</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-07 22:19</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/man-shot-dead-by-ice-officer-during-vehicle-stop-in-houston-13561507" target="_blank">Man shot dead by ICE officer in Houston</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-08 00:00</span>
             </div>
         </div>
 </div>
@@ -163,6 +165,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hamid_rm/introducing-go-workflow-engine-a-plug-and-play-workflow-solution-5dih" target="_blank">Introducing go-workflow-engine: A Plug-and-Play Workflow Solution</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-08 05:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/07/08/what-s-left-for-infrastructure-as-code-after-ai-moves-in/" target="_blank">What&#x27;s left for infrastructure-as-code after AI moves in?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿‌‍‌‌‌‍​‍‌‍‌​​﻿‌﻿​﻿‌‍‌‍‌​​﻿​‍​‍﻿‌‌‍​﻿‌‍‌‌‌‍​‍‌‍​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿‍​​﻿‍​​‍﻿‌​﻿‍​​﻿​‍‌‍‌‍​﻿‍‌​‍﻿‌​﻿​﻿‌‍‌​‌‍‌‍‌‍​‍​﻿​‍‌‍​﻿​﻿‍​‌‍​‍‌‍​﻿​﻿‌‌‌‍​﻿‌‍​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿‌‍‌‌‌‍​‍‌‍‌​​﻿‌﻿​﻿‌‍‌‍‌​​﻿​‍​‍﻿‌‌‍​﻿‌‍‌‌‌‍​‍‌‍​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿‍​​﻿‍​​‍﻿‌​﻿‍​​﻿​‍‌‍‌‍​﻿‍‌​‍﻿‌​﻿​﻿‌‍‌​‌‍‌‍‌‍​‍​﻿​‍‌‍​﻿​﻿‍​‌‍​‍‌‍​﻿​﻿‌‌‌‍​﻿‌‍​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-07-08 04:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gamya_m/i-started-writing-my-prediction-before-reading-the-ais-answer-heres-what-happened-9c5" target="_blank">I Started Writing My Prediction Before Reading the AI&#x27;s Answer. Here&#x27;s What Happened.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-08 03:58</span>
@@ -195,24 +215,6 @@
                 <span class="time">2026-07-08 00:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/only_machua_dda6986f7477a/powerbi-is-smart-but-also-lazy-4mji" target="_blank">PowerBi is smart but also lazy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-07 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/tuxedo-infinityflex-14.jpg?resize=406%2C232&amp;ssl=1" alt="TUXEDO OS drops Ubuntu to rebase on Debian Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/slug-tuxedo-os-debian-rebase" target="_blank">TUXEDO OS drops Ubuntu to rebase on Debian Testing</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-07 22:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/psplus-deal-1280x720.jpg" alt="Fans Canceling PS Plus To Boycott Sony Killing Discs Discover You Can Actually Save Money By Threatening To Quit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fans-canceling-ps-plus-to-boycott-sony-killing-discs-discover-you-can-actually-save-money-by-threatening-to-quit-2000713459" target="_blank">Fans Canceling PS Plus To Boycott Sony Killing Discs Discover You Can Actually Save Money By Threatening To Quit</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-07 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/AcePDF-Converter-Editor.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Stop PDF headaches — convert, merge, and edit files in minutes with AcePDF for a one-time $24" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +288,6 @@
                 <span class="time">2026-07-07 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWYND2NSGTS0PBQ8BJYYK328/hero-image.png" alt="This Samsung Soundbar and Subwoofer Combo Is $80 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-soundbar-and-subwoofer-combo-deal-july-2026?utm_medium=RSS" target="_blank">This Samsung Soundbar and Subwoofer Combo Is $80 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-07 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 04:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 235 |
+        🔄 Last Updated: 05:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
