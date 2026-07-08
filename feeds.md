@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 07:45:24 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-08 08:48:43 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 07:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 08:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -88,12 +89,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d7/live/39e985c0-7a6f-11f1-bee8-53ce494e1abc.jpg" alt="Will Le Pen rise again? French nationalist leader defiant after court&#x27;s ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/8/us-immigration-officer-shoots-and-kills-man-in-texas?traffic_source=rss" target="_blank">US immigration officer shoots and kills man in Texas</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-08 01:26</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss" target="_blank">Will Le Pen rise again? French nationalist leader defiant after court&#x27;s ruling</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-08 03:22</span>
             </div>
         </div>
 </div>
@@ -104,10 +105,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july" target="_blank">Samsung will launch its new wide foldable on July 22nd</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-08 08:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/" target="_blank">Hot French startup ZML releases free product to speed inference across lots of AI chips</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-08 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/" target="_blank">AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-08 07:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-500x500.jpg" alt="Hackers can use 9 of the most popular AI tools to assemble massive botnets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/" target="_blank">Hackers can use 9 of the most popular AI tools to assemble massive botnets</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-08 07:00</span>
             </div>
         </div>
 <div class="story">
@@ -126,33 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update" target="_blank">Meta’s glasses will turn off the camera if you tamper with the privacy light</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-07 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/" target="_blank">Final extension: Startup Battlefield Australia applications now close July 20</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-07 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/7827_lores-500x500.jpg" alt="Michigan sees explosive outbreak of diarrheal parasite with over 700 cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/" target="_blank">Michigan sees explosive outbreak of diarrheal parasite with over 700 cases</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-07 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4d6e8fe06236b4d104fe30/master/pass/Meta-Lets-Anyone-Use-Your-Instagram-Photos-in-AI-Images-Gear-2268477073.jpg" alt="Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/" target="_blank">Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-07 21:59</span>
             </div>
         </div>
 </div>
@@ -315,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 40 | 📸 With Images: 233 |
-        🔄 Last Updated: 07:45 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 40 | 📸 With Images: 233 |
+        🔄 Last Updated: 08:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
