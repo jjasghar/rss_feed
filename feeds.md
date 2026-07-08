@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 13:30:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-08 14:45:29 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 13:31 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 14:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss" target="_blank">Trump on Iran: ‘We’ll probably hit them hard again tonight’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-08 14:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +98,20 @@
                 <span class="time">2026-07-08 11:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/8/fifa-world-cup-golden-boot-race-messi-leads-mbappe-haaland-before-quarterfinals?traffic_source=rss" target="_blank">World Cup Golden Boot: Messi leads Mbappe, Haaland before quarterfinals</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-08 10:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/962781/google-pixel-11-lineup-price-increase" target="_blank">The whole Pixel line could get more expensive this year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-08 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +157,20 @@
                 <span class="time">2026-07-08 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4d484870c8efed0e484179/master/pass/Review--LG-Micro-RGB-Evo.jpg" alt="LG Micro RGB Evo Review: Brilliant, Bright, Not Budget-Friendly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/lg-micro-rgb-evo/" target="_blank">LG Micro RGB Evo Review: Brilliant, Bright, Not Budget-Friendly</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-08 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Airbnb Shares Architecture Behind Sitar-Agent Dynamic Configuration Sidecar for Kubernetes Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/sitar-agent-sidecar-config/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Airbnb Shares Architecture Behind Sitar-Agent Dynamic Configuration Sidecar for Kubernetes Services</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-08 14:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +216,6 @@
                 <span class="time">2026-07-08 05:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/07/08/what-s-left-for-infrastructure-as-code-after-ai-moves-in/" target="_blank">What&#x27;s left for infrastructure-as-code after AI moves in?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿‌‍‌‌‌‍​‍‌‍‌​​﻿‌﻿​﻿‌‍‌‍‌​​﻿​‍​‍﻿‌‌‍​﻿‌‍‌‌‌‍​‍‌‍​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿‍​​﻿‍​​‍﻿‌​﻿‍​​﻿​‍‌‍‌‍​﻿‍‌​‍﻿‌​﻿​﻿‌‍‌​‌‍‌‍‌‍​‍​﻿​‍‌‍​﻿​﻿‍​‌‍​‍‌‍​﻿​﻿‌‌‌‍​﻿‌‍​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿‌‍‌‌‌‍​‍‌‍‌​​﻿‌﻿​﻿‌‍‌‍‌​​﻿​‍​‍﻿‌‌‍​﻿‌‍‌‌‌‍​‍‌‍​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿‍​​﻿‍​​‍﻿‌​﻿‍​​﻿​‍‌‍‌‍​﻿‍‌​‍﻿‌​﻿​﻿‌‍‌​‌‍‌‍‌‍​‍​﻿​‍‌‍​﻿​﻿‍​‌‍​‍‌‍​﻿​﻿‌‌‌‍​﻿‌‍​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-07-08 04:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWZW59G89884T6XEC6AZD7G6/hero-image.png" alt="This Job Interview Scam Is a Ploy to Steal Your Google Credentials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/this-job-invite-scam-is-trying-to-steal-your-google-credentials?utm_medium=RSS" target="_blank">This Job Interview Scam Is a Ploy to Steal Your Google Credentials</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-08 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/mario-kart-tour.jpg" alt="Mario Kart Tour Will Be Gone Forever September 29" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +298,6 @@
                 <span class="time">2026-07-07 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2734545931-scaled.jpg?fit=2560%2C1819&amp;quality=60&amp;ssl=1" alt="Russians returning to 1 horsepower amid gasoline shortages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/07/russians-returning-to-1-horsepower-amid-gasoline-shortages.html" target="_blank">Russians returning to 1 horsepower amid gasoline shortages</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-07 20:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 227 |
-        🔄 Last Updated: 13:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 226 |
+        🔄 Last Updated: 14:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
