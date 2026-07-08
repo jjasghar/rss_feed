@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 00:20:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-08 01:31:14 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 00:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/8/how-the-us-iran-conflict-is-reshaping-africas-geopolitical-opportunities?traffic_source=rss" target="_blank">How the US-Iran conflict is reshaping Africa’s geopolitical opportunities</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-08 01:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/wc-20-ap-gmh-260707_1783469257671_hpMain_4x3t_384.jpg" alt="Vargas sends Switzerland to World Cup quarterfinals in shootout win over Colombia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Sports/wireStory/switzerland-colombia-headed-extra-time-after-0-0-134564708" target="_blank">Vargas sends Switzerland to World Cup quarterfinals in shootout win over Colombia</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-08 00:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783465972947_nn_gha_usretaliatoryairstrikesiran_260707_S3_1920x1080-dgh4oq.jpg" alt="U.S. launches retaliatory airstrikes after Iran attacks commercial ships" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +100,20 @@
                 <span class="time">2026-07-07 21:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Hormuz-DB-260707_1783424887741_hpMain_4x3t_384.jpg" alt="Iran live updates: US conducting &#x27;powerful&#x27; airstrikes after Strait of Hormuz attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: US conducting &#x27;powerful&#x27; airstrikes after Strait of Hormuz attacks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-07 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/7/nasdaq-vs-dow-how-are-the-key-indices-different-as-spacex-joins-one?traffic_source=rss" target="_blank">Nasdaq vs Dow: How are the key indices different as SpaceX joins one?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-07 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update" target="_blank">Meta’s glasses will turn off the camera if you tamper with the privacy light</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-07 23:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +159,20 @@
                 <span class="time">2026-07-07 20:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/texas-flag-500x500.jpg" alt="SCOTUS lets Texas enforce app store law that Big Tech calls &quot;censorship regime&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/" target="_blank">SCOTUS lets Texas enforce app store law that Big Tech calls &quot;censorship regime&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-07 20:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zeeshanali0704/frontend-javascript-utilities-from-scratch-4n02" target="_blank">Frontend JavaScript Utilities — From Scratch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-08 01:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,28 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.gao.gov/products/gao-26-108193" target="_blank">GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-07 22:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vultr/deploying-dokploy-self-hosted-paas-for-docker-applications-on-ubuntu-2404-27eg" target="_blank">Deploying Dokploy - Self-Hosted PaaS for Docker Applications on Ubuntu 24.04</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-07 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Proton-11.0-1" target="_blank">Proton 11.0-1 Released To Advance Valve&#x27;s Steam Play For The Best Linux Experience Yet</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-07 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jamesdev4123/how-a-48-hour-pdf-rabbit-hole-taught-me-to-stop-guessing-and-build-a-repeatable-research-flow-6f" target="_blank">How a 48‑hour PDF rabbit hole taught me to stop guessing and build a repeatable research flow</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-07 20:24</span>
             </div>
         </div>
 </div>
@@ -306,22 +305,13 @@
                 <span class="time">2026-07-07 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5867.png" alt="Files Not Found" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5867" target="_blank">Files Not Found</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-07 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 00:20 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 234 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
