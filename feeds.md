@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 17:28:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-08 18:26:02 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 17:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 18:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a4cd2c0b0c984e61e0cd621/master/pass/GettyImages-2284375074.jpg" alt="Dimming the Sun Would Help Lower the Risks of El Niño" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dimming-the-sun-would-lower-risks-of-el-nino/" target="_blank">Dimming the Sun Would Help Lower the Risks of El Niño</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-08 18:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -146,15 +157,6 @@
                 <span class="time">2026-07-08 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4d44298304133c49519ccb/master/pass/The-2-Best-Pickleball-Paddles-in-2026.jpg" alt="The Foam Era Has Changed Pickleball—Here Are the Top 2 Pickleball Paddles Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-best-pickleball-paddles-in-2026/" target="_blank">The Foam Era Has Changed Pickleball—Here Are the Top 2 Pickleball Paddles Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-08 12:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/ahk-dev/11-of-githubs-all-time-top-100-repos-passed-through-our-tracker-before-they-blew-up-heres-what-i-m4p" target="_blank">11 of GitHub&#x27;s all-time top 100 repos passed through our tracker before they blew up. Here&#x27;s what I learned.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-08 16:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-slider.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 23 to offer full Wayland support (but X11 is staying)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/linux-mint-wayland-fully-supported" target="_blank">Linux Mint 23 to offer full Wayland support (but X11 is staying)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-08 16:13</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +214,6 @@
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/" target="_blank">How GitHub Copilot enables zero DNS configuration for GitHub Pages</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-07-08 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Airbnb Shares Architecture Behind Sitar-Agent Dynamic Configuration Sidecar for Kubernetes Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/sitar-agent-sidecar-config/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Airbnb Shares Architecture Behind Sitar-Agent Dynamic Configuration Sidecar for Kubernetes Services</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-08 14:25</span>
             </div>
         </div>
 </div>
@@ -242,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KX10W2RNZQJJSWHN3W84FYW2/hero-image.jpg" alt="10 Shows Like &#x27;Off Campus&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-off-campus?utm_medium=RSS" target="_blank">10 Shows Like &#x27;Off Campus&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-08 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/mamdani-watch.jpg?fit=1600%2C1152&amp;quality=60&amp;ssl=1" alt="Zohran Mamdani&#x27;s retro wristwatch is a Casio classic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/08/zohran-mamdanis-retro-wristwatch-is-a-casio-classic.html" target="_blank">Zohran Mamdani&#x27;s retro wristwatch is a Casio classic</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-08 17:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KX05G98M4EX8P317KZDQMGMN/hero-image.jpg" alt="Six Ways iOS 27 Is Making AirPods Easier to Use on iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/mario-kart-tour-service-ending-september-nintendo-mobile-2000713693" target="_blank">Mario Kart Tour Will Be Gone Forever September 29</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-08 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/acblackflag-review2-1280x720.jpg" alt="Assassin’s Creed Black Flag Resynced: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/assassins-creed-black-flag-resynced-the-kotaku-review-2000713389" target="_blank">Assassin’s Creed Black Flag Resynced: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-08 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/psplus-deal-1280x720.jpg" alt="Fans Canceling PS Plus To Boycott Sony Killing Discs Discover You Can Actually Save Money By Threatening To Quit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fans-canceling-ps-plus-to-boycott-sony-killing-discs-discover-you-can-actually-save-money-by-threatening-to-quit-2000713459" target="_blank">Fans Canceling PS Plus To Boycott Sony Killing Discs Discover You Can Actually Save Money By Threatening To Quit</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-07 21:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 39 | 📸 With Images: 229 |
-        🔄 Last Updated: 17:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 231 |
+        🔄 Last Updated: 18:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
