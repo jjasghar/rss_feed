@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 10:38:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-08 11:32:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 10:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 11:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/303b/live/574a8a30-7ab8-11f1-b976-0b9c15b0ccfc.jpg" alt="Trump says ceasefire is &#x27;over&#x27; after US and Iran trade strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says ceasefire is &#x27;over&#x27; after US and Iran trade strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-08 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/8/fifa-world-cup-golden-boot-race-messi-leads-mbappe-haaland-before-quarterfinals?traffic_source=rss" target="_blank">World Cup Golden Boot: Messi leads Mbappe, Haaland before quarterfinals</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-08 10:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +100,29 @@
                 <span class="time">2026-07-08 07:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74d0/live/60cd7970-7a7f-11f1-b976-0b9c15b0ccfc.jpg" alt="US and Iran trade strikes after tankers hit in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran trade strikes after tankers hit in Strait of Hormuz</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-08 06:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/8/irans-economy-faces-long-road-to-recovery-as-fragile-truce-tested?traffic_source=rss" target="_blank">Iran’s economy faces long road to recovery as fragile truce tested</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-08 06:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4d484870c8efed0e484179/master/pass/Review--LG-Micro-RGB-Evo.jpg" alt="LG Micro RGB Evo Review: Brilliant, Bright, Not Budget-Friendly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/lg-micro-rgb-evo/" target="_blank">LG Micro RGB Evo Review: Brilliant, Bright, Not Budget-Friendly</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-08 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla" target="_blank">The robotaxi law that could ban Tesla</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a4d733cae988deadc1e5529/master/pass/v4-.gif" alt="OnlyFans Models Are Accidentally Making Hacked Government Websites Disappear" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +159,20 @@
                 <span class="time">2026-07-08 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/" target="_blank">AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-08 07:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-500x500.jpg" alt="Hackers can use 9 of the most popular AI tools to assemble massive botnets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/" target="_blank">Hackers can use 9 of the most popular AI tools to assemble massive botnets</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-08 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/" target="_blank">Decoding the obfuscated bash script on a Uniqlo t-shirt</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-08 08:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +218,6 @@
                 <span class="time">2026-07-08 01:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zeeshanali0704/frontend-javascript-utilities-from-scratch-4n02" target="_blank">Frontend JavaScript Utilities — From Scratch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-08 01:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -224,9 +227,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html" target="_blank">Google Is Suing Chinese Scammers Who Are Using Gemini</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html" target="_blank">Cybersecurity and the Gap Between Skill and Ability</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-07 10:43</span>
+                <span class="time">2026-07-08 11:03</span>
             </div>
         </div>
 </div>
@@ -234,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/acblackflag-review2-1280x720.jpg" alt="Assassin’s Creed Black Flag Resynced: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/assassins-creed-black-flag-resynced-the-kotaku-review-2000713389" target="_blank">Assassin’s Creed Black Flag Resynced: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-08 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/psplus-deal-1280x720.jpg" alt="Fans Canceling PS Plus To Boycott Sony Killing Discs Discover You Can Actually Save Money By Threatening To Quit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +291,6 @@
                 <span class="time">2026-07-07 19:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0CQ2SS3QDBNP666AZ416ZMK/hero-image.png" alt="This Massive Hisense U7 QLED TV Is 43% Off, Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hisense-u7-qled-tv-deal-july-2026?utm_medium=RSS" target="_blank">This Massive Hisense U7 QLED TV Is 43% Off, Its Lowest Price Ever</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-07 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 234 |
-        🔄 Last Updated: 10:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 231 |
+        🔄 Last Updated: 11:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
