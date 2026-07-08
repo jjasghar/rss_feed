@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 22:18:50 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-08 23:22:34 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 22:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 23:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/8/wildcard-fery-faces-zverev-in-wimbledon-semis-as-kostyuk-meets-noskova?traffic_source=rss" target="_blank">Wildcard Fery faces Zverev in Wimbledon semis, as Kostyuk meets Noskova</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-08 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1127/live/fbe04900-7b0c-11f1-bd97-bb877df31663.jpg" alt="Jackdaw boss warns of winter fuel shortages if gas field not approved" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss" target="_blank">Jackdaw boss warns of winter fuel shortages if gas field not approved</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-08 21:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/nato-21-gty-gmh-260708_1783519137644_hpMain_4x3t_384.jpg" alt="Iran live updates: CENTCOM says it launched additional strikes against Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +97,20 @@
                 <span class="time">2026-07-08 18:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/08/nx-s1-5886170/supreme-court-financial-disclosures-books-gifts-income" target="_blank">Supreme Court financial disclosures reveal how their books add to their income</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-08 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783529660247_now_brk_haake_trump_nato_presser_260708_S3_1920x1080-yhyzv5.jpg" alt="Trump faces questions on conflict with Iran during NATO summit press conference" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-faces-questions-on-conflict-with-iran-during-nato-summit-press-conference-266378309632" target="_blank">Trump faces questions on conflict with Iran during NATO summit press conference</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-08 16:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/" target="_blank">Despite ‘misgivings,’ judge approves Elon Musk’s $1.5 million SEC settlement</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-08 23:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -123,6 +127,15 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/" target="_blank">Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-08 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4d0ba71ec7b7e789dcf997/master/pass/InvestmentFoot_Lead.jpg" alt="Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/" target="_blank">Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-08 21:08</span>
             </div>
         </div>
 <div class="story">
@@ -143,29 +156,20 @@
                 <span class="time">2026-07-08 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261524889-500x500.jpg" alt="Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/" target="_blank">Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-08 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/" target="_blank">‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-08 19:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vibearcade/what-is-vibe-coding-how-ai-builds-games-from-scratch-40bh" target="_blank">What Is Vibe Coding? How AI Builds Games From Scratch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-08 23:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +215,6 @@
                 <span class="time">2026-07-08 18:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://e360.yale.edu/features/cassandra-rauert-interview" target="_blank">What Do We Know About the Microplastics Inside Us?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-08 17:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/marathon-1280x757.jpg" alt="Sony Reaches Settlement With Bungie Director It Accused Of Sexual Misconduct And Adds His Name To Marathon‘s Credits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sony-reaches-settlement-with-bungie-director-it-accused-of-sexual-misconduct-and-adds-his-name-to-marathons-credits-2000713874" target="_blank">Sony Reaches Settlement With Bungie Director It Accused Of Sexual Misconduct And Adds His Name To Marathon‘s Credits</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-08 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/22NO-ICE22-sticker-spotted-in-Tempe2C-AZ.-photo-Je.jpg?fit=1080%2C1056&amp;quality=60&amp;ssl=1" alt="ICE killed a Houston father, then called him the aggressor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/08/ice-killed-a-houston-father-then-called-him-the-aggressor.html" target="_blank">ICE killed a Houston father, then called him the aggressor</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-08 22:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Lewes_Arms_-_Dwyle_Flunking_-_geograph.org_.uk_-_494221-2.jpg?fit=640%2C468&amp;quality=60&amp;ssl=1" alt="Dwile flonking, the ancient pub sport invented in 1966" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,24 +297,6 @@
                 <span class="time">2026-07-08 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JSYMDW38TWQ2NQC0BKPWRDT4/hero-image.png" alt="The Premium Sonos Ace Headphones Are $120 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/sonos-ace-headphones-deal-july-2026?utm_medium=RSS" target="_blank">The Premium Sonos Ace Headphones Are $120 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-08 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KX10W2RNZQJJSWHN3W84FYW2/hero-image.jpg" alt="10 Shows Like &#x27;Off Campus&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-off-campus?utm_medium=RSS" target="_blank">10 Shows Like &#x27;Off Campus&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-08 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,6 +321,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/airport_meeting.png" alt="Airport Meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3269/" target="_blank">Airport Meeting</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-07-08 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5868.png" alt="Faulty Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -339,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 232 |
-        🔄 Last Updated: 22:19 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 232 |
+        🔄 Last Updated: 23:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
