@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 11:32:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-08 12:28:36 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 11:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 12:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss" target="_blank">Syria says one killed, 36 wounded after Damascus blasts during Macron visit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-08 11:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/303b/live/574a8a30-7ab8-11f1-b976-0b9c15b0ccfc.jpg" alt="Trump says ceasefire is &#x27;over&#x27; after US and Iran trade strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says ceasefire is &#x27;over&#x27; after US and Iran trade strikes</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-08 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/08/g-s1-132474/up-first-newsletter-trump-iran-ceasefire-nato-graham-platner-ioc-russia" target="_blank">Trump says he believes the Iran ceasefire is &#x27;over.&#x27; And, IOC lifts Russia&#x27;s suspension</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-08 11:15</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +96,29 @@
                 <span class="time">2026-07-08 09:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-main_1783501927479_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says he thinks Iran agreement is &#x27;over&#x27; after exchanges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: Trump says he thinks Iran agreement is &#x27;over&#x27; after exchanges</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-08 09:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/7/8/nato-summit-live-trump-world-leaders-meet-in-turkiyes-ankara?traffic_source=rss" target="_blank">NATO summit live: Trump, world leaders meet in Turkiye’s Ankara</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-08 07:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/692118a07d4b03d83b72c715/master/pass/Best%20MagSafe%20Power%20Banks%20SOURCE%20Simon%20Hill.jpg" alt="The Best MagSafe Power Banks for iPhone and Android, Plus Ones to Avoid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-power-banks/" target="_blank">The Best MagSafe Power Banks for iPhone and Android, Plus Ones to Avoid</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-08 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life" target="_blank">The Steam Machine fits my TV, my desk, and my life</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-08 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a4d484870c8efed0e484179/master/pass/Review--LG-Micro-RGB-Evo.jpg" alt="LG Micro RGB Evo Review: Brilliant, Bright, Not Budget-Friendly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +155,20 @@
                 <span class="time">2026-07-08 09:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july" target="_blank">Samsung will launch its new wide foldable on July 22nd</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-08 08:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/" target="_blank">Hot French startup ZML releases free product to speed inference across lots of AI chips</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-08 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Toggle-Syscall-User-Dispatch" target="_blank">Linux 7.3 To Make It Easier To Disable Syscall User Dispatch</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-08 10:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +214,6 @@
                 <span class="time">2026-07-08 03:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/XWayland-24.1.13-Released" target="_blank">XWayland 24.1.13 Released To Fix Two More Security Issues In The X.Org Codebase</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-08 01:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/mario-kart-tour.jpg" alt="Mario Kart Tour Will Be Gone Forever September 29" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-kart-tour-service-ending-september-nintendo-mobile-2000713693" target="_blank">Mario Kart Tour Will Be Gone Forever September 29</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-08 12:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/acblackflag-review2-1280x720.jpg" alt="Assassin’s Creed Black Flag Resynced: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +287,6 @@
                 <span class="time">2026-07-07 20:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/Taylor-Swift-A.PAES_-1.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Poet&#x27;s copyright lawsuit against Taylor Swift tossed again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/07/poets-copyright-lawsuit-against-taylor-swift-tossed-again.html" target="_blank">Poet&#x27;s copyright lawsuit against Taylor Swift tossed again</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-07 19:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 231 |
-        🔄 Last Updated: 11:33 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 230 |
+        🔄 Last Updated: 12:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
