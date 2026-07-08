@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 12:28:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-08 13:30:57 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 12:28 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 13:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/08/nx-s1-5885770/graham-platner-maine-democrats" target="_blank">Maine Democrats say Platner&#x27;s campaign is trying to influence replacement process</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-08 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/8/irans-supreme-leaders-coffin-arrives-in-najaf?traffic_source=rss" target="_blank">Iran’s supreme leader’s coffin arrives in Najaf</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-08 13:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +99,38 @@
                 <span class="time">2026-07-08 10:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/08/nx-s1-5885073/fda-peptides-compounding-pharmacies" target="_blank">What&#x27;s behind the push to make peptide therapies more readily available</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-08 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/8/european-mps-call-for-probe-of-fifa-boss-infantino-over-red-card-suspension?traffic_source=rss" target="_blank">European MPs call for probe of FIFA boss Infantino over red card suspension</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-08 09:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date" target="_blank">Fi&amp;#8217;s Starlink-enabled pet tracker found my dog when LTE couldn&amp;#8217;t</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-08 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/" target="_blank">Venus Williams-backed WeWard can now lock your apps until you hit your steps</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-08 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4d44298304133c49519ccb/master/pass/The-2-Best-Pickleball-Paddles-in-2026.jpg" alt="The Foam Era Has Changed Pickleball—Here Are the Top 2 Pickleball Paddles Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-best-pickleball-paddles-in-2026/" target="_blank">The Foam Era Has Changed Pickleball—Here Are the Top 2 Pickleball Paddles Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-08 12:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692118a07d4b03d83b72c715/master/pass/Best%20MagSafe%20Power%20Banks%20SOURCE%20Simon%20Hill.jpg" alt="The Best MagSafe Power Banks for iPhone and Android, Plus Ones to Avoid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,38 +158,29 @@
                 <span class="time">2026-07-08 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla" target="_blank">The robotaxi law that could ban Tesla</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-08 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4d733cae988deadc1e5529/master/pass/v4-.gif" alt="OnlyFans Models Are Accidentally Making Hacked Government Websites Disappear" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/onlyfans-creators-dmca-hacked-government-websites/" target="_blank">OnlyFans Models Are Accidentally Making Hacked Government Websites Disappear</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-08 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4be55744dc79c43267387c/master/pass/DeepMind-Alum-QandA-Verity-Harding-Business.jpg" alt="This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/" target="_blank">This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-08 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wsdjeg/giving-your-neovim-ai-assistant-a-sense-of-time-scheduled-tasks-in-chatnvim-3da9" target="_blank">Giving Your Neovim AI Assistant a Sense of Time: Scheduled Tasks in chat.nvim</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-08 13:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17374891/tuxedo-os-is-ditching-ubuntu" target="_blank">TUXEDO OS is Ditching Ubuntu for a Debian Base That Never Goes Stable</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-08 12:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,29 +217,20 @@
                 <span class="time">2026-07-08 04:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/" target="_blank">How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-08 03:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gamya_m/i-started-writing-my-prediction-before-reading-the-ais-answer-heres-what-happened-9c5" target="_blank">I Started Writing My Prediction Before Reading the AI&#x27;s Answer. Here&#x27;s What Happened.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-08 03:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/" target="_blank">Felons, Fraudsters Flog Offensive Cybersecurity Startup</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-07-08 12:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -324,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 230 |
-        🔄 Last Updated: 12:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 227 |
+        🔄 Last Updated: 13:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
