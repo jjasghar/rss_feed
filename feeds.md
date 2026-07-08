@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 21:22:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-08 22:18:50 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 21:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 22:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/nato-21-gty-gmh-260708_1783519137644_hpMain_4x3t_384.jpg" alt="Iran live updates: CENTCOM says it launched additional strikes against Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: CENTCOM says it launched additional strikes against Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-08 21:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donation" target="_blank">A new proposal for organ donation sparks concern</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-08 21:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/8/former-rebel-turned-government-ally-proposes-a-path-to-peace-for-sudan?traffic_source=rss" target="_blank">Former rebel turned government ally proposes a path to peace for Sudan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-08 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/139f/live/077839f0-7af2-11f1-9510-1546718f668b.jpg" alt="UK to change law so ringleader of Rochdale grooming gang can be deported" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss" target="_blank">UK to change law so ringleader of Rochdale grooming gang can be deported</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-08 18:05</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +102,29 @@
                 <span class="time">2026-07-08 16:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss" target="_blank">The Strait of Hormuz is now at the centre of Iranian and US calculus</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-08 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f0d/live/654565b0-af1b-11f0-904a-f9028cea88d6.png" alt="Ruth Ellis, last woman to be hanged in UK, gets conditional posthumous pardon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crel4rj801do?at_medium=RSS&at_campaign=rss" target="_blank">Ruth Ellis, last woman to be hanged in UK, gets conditional posthumous pardon</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-08 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump speaks at NATO summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  President Trump speaks at NATO summit</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-08 16:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/" target="_blank">Feds demand autonomous vehicle companies stop interfering with first responders</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-08 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261090247-500x500.jpg" alt="Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/" target="_blank">Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-08 21:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a4d3e5ad99ed47ae9e00cc8/master/pass/AI-Lab-I-Made-A-Self-Improving-AI-Business.jpg" alt="I Built a Self-Improving AI, and So Can You" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +161,6 @@
                 <span class="time">2026-07-08 19:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4cd2c0b0c984e61e0cd621/master/pass/GettyImages-2284375074.jpg" alt="Dimming the Sun Would Help Lower the Risks of El Niño" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dimming-the-sun-would-lower-risks-of-el-nino/" target="_blank">Dimming the Sun Would Help Lower the Risks of El Niño</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-08 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma" target="_blank">If Microsoft sold off Xbox, who would even buy it?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-08 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +173,15 @@
                 <span class="title"><a href="https://dev.to/danielbilek/the-evolving-agent-how-jean2-learns-across-sessions-2m98" target="_blank">The Evolving Agent: How Jean2 Learns Across Sessions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-08 21:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/separating-signal-from-noise-coding-evaluations/" target="_blank">Separating signal from noise in coding evaluations</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-08 21:03</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +220,6 @@
                 <span class="time">2026-07-08 17:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama" target="_blank">The Pragmatic Engineer AMA</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-07-08 16:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Lewes_Arms_-_Dwyle_Flunking_-_geograph.org_.uk_-_494221-2.jpg?fit=640%2C468&amp;quality=60&amp;ssl=1" alt="Dwile flonking, the ancient pub sport invented in 1966" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/08/post-dwile-flonking-the-ancient-pub-sport-invented-in-1.html" target="_blank">Dwile flonking, the ancient pub sport invented in 1966</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-08 21:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/WoW_Midnight_GamescomReveal_HaranirCustomization_050-1280x720.jpg" alt="World Of Warcraft’s Latest ‘Plot Twist’ Shows Why Fans Are Frustrated With The Current Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +302,6 @@
                 <span class="time">2026-07-08 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/mamdani-watch.jpg?fit=1600%2C1152&amp;quality=60&amp;ssl=1" alt="Zohran Mamdani&#x27;s retro wristwatch is a Casio classic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/08/zohran-mamdanis-retro-wristwatch-is-a-casio-classic.html" target="_blank">Zohran Mamdani&#x27;s retro wristwatch is a Casio classic</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-08 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 229 |
-        🔄 Last Updated: 21:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 232 |
+        🔄 Last Updated: 22:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
