@@ -1,34 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 14:45:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-08 15:43:06 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 14:45 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 15:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -174,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mistral.ai/news/robostral-navigate/" target="_blank">Mistral&#x27;s Robostral Navigate: a state of the art robotics navigation model</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-08 14:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/wsdjeg/giving-your-neovim-ai-assistant-a-sense-of-time-scheduled-tasks-in-chatnvim-3da9" target="_blank">Giving Your Neovim AI Assistant a Sense of Time: Scheduled Tasks in chat.nvim</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +209,6 @@
                 <span class="time">2026-07-08 08:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hamid_rm/introducing-go-workflow-engine-a-plug-and-play-workflow-solution-5dih" target="_blank">Introducing go-workflow-engine: A Plug-and-Play Workflow Solution</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-08 05:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,12 +238,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KX05G98M4EX8P317KZDQMGMN/hero-image.jpg" alt="Six Ways iOS 27 Is Making AirPods Easier to Use on iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ios-27-is-making-airpods-easier-to-use-on-iphone?utm_medium=RSS" target="_blank">Six Ways iOS 27 Is Making AirPods Easier to Use on iPhone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-08 15:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KWZW59G89884T6XEC6AZD7G6/hero-image.png" alt="This Job Interview Scam Is a Ploy to Steal Your Google Credentials" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/money/this-job-invite-scam-is-trying-to-steal-your-google-credentials?utm_medium=RSS" target="_blank">This Job Interview Scam Is a Ploy to Steal Your Google Credentials</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-08 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/tumblr_4fb45994475c462d06bf0e46f4a80517_1ef3f2a0_2048.png?fit=2048%2C1287&amp;quality=55&amp;ssl=1" alt="Collection of pixel-art skylines from old arcade and video games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/08/collection-of-pixel-art-skylines-from-old-arcade-and-video-games.html" target="_blank">Collection of pixel-art skylines from old arcade and video games</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-08 12:27</span>
             </div>
         </div>
 <div class="story">
@@ -280,29 +291,20 @@
                 <span class="time">2026-07-07 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/AcePDF-Converter-Editor.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Stop PDF headaches — convert, merge, and edit files in minutes with AcePDF for a one-time $24" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/07/stop-pdf-headaches-convert-merge-and-edit-files-in-minutes-with-acepdf-for-a-one-time-24.html" target="_blank">Stop PDF headaches — convert, merge, and edit files in minutes with AcePDF for a one-time $24</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-07 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/1000008531.jpg" alt="9 Rhythm Heaven Groove Games That Made Me Want To Put A Controller Through My TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rhythm-heaven-groove-games-frustrating-worst-best-2000713407" target="_blank">9 Rhythm Heaven Groove Games That Made Me Want To Put A Controller Through My TV</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-07 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1783368346-20260708.png" alt="Saturday Morning Breakfast Cereal - Four" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/four-3" target="_blank">Saturday Morning Breakfast Cereal - Four</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-08 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -321,22 +323,13 @@
                 <span class="time">2026-07-08 01:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1783368305-20260707.png" alt="Saturday Morning Breakfast Cereal - Turing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/turing" target="_blank">Saturday Morning Breakfast Cereal - Turing</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-07 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 226 |
-        🔄 Last Updated: 14:45 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 39 | 📸 With Images: 228 |
+        🔄 Last Updated: 15:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
