@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 18:26:02 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-08 19:28:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 18:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/08/nx-s1-5886170/supreme-court-financial-disclosures-books-gifts-income" target="_blank">Supreme Court financial disclosures reveal how their books add to their income</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-08 18:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783529660247_now_brk_haake_trump_nato_presser_260708_S3_1920x1080-yhyzv5.jpg" alt="Trump faces questions on conflict with Iran during NATO summit press conference" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,21 +88,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-tanker-strait-of-hormuz_7253693.jpg?20260520080035" alt="Energy costs rise and stocks fall sharply as US-Iran peace is shattered" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss" target="_blank">Trump on Iran: ‘We’ll probably hit them hard again tonight’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-08 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/08/nx-s1-5885770/graham-platner-maine-democrats" target="_blank">Maine Democrats say Platner&#x27;s campaign is trying to influence replacement process</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-08 13:20</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/energy-costs-rise-and-stocks-fall-sharply-as-us-iran-peace-is-shattered-13561710" target="_blank">Energy costs rise and stocks fall sharply as US-Iran peace is shattered</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-08 14:40</span>
             </div>
         </div>
 </div>
@@ -103,6 +101,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/" target="_blank">‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-08 19:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a4cd2c0b0c984e61e0cd621/master/pass/GettyImages-2284375074.jpg" alt="Dimming the Sun Would Help Lower the Risks of El Niño" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +155,29 @@
                 <span class="time">2026-07-08 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/" target="_blank">Venus Williams-backed WeWard can now lock your apps until you hit your steps</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-08 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/uptimearchitect/oracle-patching-demystified-cpu-ru-rur-and-what-changed-in-2026-42nj" target="_blank">Oracle Patching, Demystified: CPU, RU, RUR — and What Changed in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-08 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-June-2026" target="_blank">Redox OS Gets GTK3 Backend For Orbital Desktop, Fractional Scaling &amp; USB Gamepads</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-08 18:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +214,6 @@
                 <span class="time">2026-07-08 16:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenMandriva-Disrupted" target="_blank">OpenMandriva GitHub Disrupted &amp; Nefarious Package Push In Sabotage Attempt</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-08 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/" target="_blank">How GitHub Copilot enables zero DNS configuration for GitHub Pages</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-08 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JSYMDW38TWQ2NQC0BKPWRDT4/hero-image.png" alt="The Premium Sonos Ace Headphones Are $120 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sonos-ace-headphones-deal-july-2026?utm_medium=RSS" target="_blank">The Premium Sonos Ace Headphones Are $120 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-08 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KX10W2RNZQJJSWHN3W84FYW2/hero-image.jpg" alt="10 Shows Like &#x27;Off Campus&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +296,6 @@
                 <span class="time">2026-07-08 12:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/mario-kart-tour.jpg" alt="Mario Kart Tour Will Be Gone Forever September 29" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-kart-tour-service-ending-september-nintendo-mobile-2000713693" target="_blank">Mario Kart Tour Will Be Gone Forever September 29</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-08 12:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 231 |
-        🔄 Last Updated: 18:26 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 230 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
