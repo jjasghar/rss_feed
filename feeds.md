@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 16:29:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-08 17:28:51 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 16:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 17:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783529660247_now_brk_haake_trump_nato_presser_260708_S3_1920x1080-yhyzv5.jpg" alt="Trump faces questions on conflict with Iran during NATO summit press conference" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-faces-questions-on-conflict-with-iran-during-nato-summit-press-conference-266378309632" target="_blank">Trump faces questions on conflict with Iran during NATO summit press conference</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-08 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss" target="_blank">The Strait of Hormuz is now at the centre of Iranian and US calculus</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-08 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f0d/live/654565b0-af1b-11f0-904a-f9028cea88d6.png" alt="Ruth Ellis, last woman to be hanged in UK, gets conditional posthumous pardon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crel4rj801do?at_medium=RSS&at_campaign=rss" target="_blank">Ruth Ellis, last woman to be hanged in UK, gets conditional posthumous pardon</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-08 16:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump speaks at NATO summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,38 +96,20 @@
                 <span class="time">2026-07-08 13:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/8/irans-supreme-leaders-coffin-arrives-in-najaf?traffic_source=rss" target="_blank">Iran’s supreme leader’s coffin arrives in Najaf</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-08 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss" target="_blank">Syria says one killed, 36 wounded after Damascus blasts during Macron visit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-08 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/303b/live/574a8a30-7ab8-11f1-b976-0b9c15b0ccfc.jpg" alt="Trump says ceasefire is &#x27;over&#x27; after US and Iran trade strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says ceasefire is &#x27;over&#x27; after US and Iran trade strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-08 11:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma" target="_blank">If Microsoft sold off Xbox, who would even buy it?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-08 17:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +155,20 @@
                 <span class="time">2026-07-08 12:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692118a07d4b03d83b72c715/master/pass/Best%20MagSafe%20Power%20Banks%20SOURCE%20Simon%20Hill.jpg" alt="The Best MagSafe Power Banks for iPhone and Android, Plus Ones to Avoid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-power-banks/" target="_blank">The Best MagSafe Power Banks for iPhone and Android, Plus Ones to Avoid</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-08 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama" target="_blank">The Pragmatic Engineer AMA</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-07-08 16:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +212,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/sitar-agent-sidecar-config/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Airbnb Shares Architecture Behind Sitar-Agent Dynamic Configuration Sidecar for Kubernetes Services</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-08 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mistral.ai/news/robostral-navigate/" target="_blank">Mistral&#x27;s Robostral Navigate: a state of the art robotics navigation model</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-08 14:09</span>
             </div>
         </div>
 </div>
@@ -332,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 39 | 📸 With Images: 229 |
-        🔄 Last Updated: 16:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 39 | 📸 With Images: 229 |
+        🔄 Last Updated: 17:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
