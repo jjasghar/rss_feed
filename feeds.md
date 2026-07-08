@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 20:25:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-08 21:22:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 20:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 21:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/8/former-rebel-turned-government-ally-proposes-a-path-to-peace-for-sudan?traffic_source=rss" target="_blank">Former rebel turned government ally proposes a path to peace for Sudan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-08 20:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +99,6 @@
                 <span class="time">2026-07-08 16:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-tanker-strait-of-hormuz_7253693.jpg?20260520080035" alt="Energy costs rise and stocks fall sharply as US-Iran peace is shattered" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/energy-costs-rise-and-stocks-fall-sharply-as-us-iran-peace-is-shattered-13561710" target="_blank">Energy costs rise and stocks fall sharply as US-Iran peace is shattered</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-08 14:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -117,6 +120,15 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder" target="_blank">Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-08 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261524889-500x500.jpg" alt="Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/" target="_blank">Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-08 19:56</span>
             </div>
         </div>
 <div class="story">
@@ -146,20 +158,20 @@
                 <span class="time">2026-07-08 17:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/" target="_blank">Prime Intellect raises $130M Series A to help enterprises build their own AI agents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-08 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/danielbilek/the-evolving-agent-how-jean2-learns-across-sessions-2m98" target="_blank">The Evolving Agent: How Jean2 Learns Across Sessions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-08 21:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +217,6 @@
                 <span class="time">2026-07-08 16:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ahk-dev/11-of-githubs-all-time-top-100-repos-passed-through-our-tracker-before-they-blew-up-heres-what-i-m4p" target="_blank">11 of GitHub&#x27;s all-time top 100 repos passed through our tracker before they blew up. Here&#x27;s what I learned.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-08 16:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,11 +246,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/WoW_Midnight_GamescomReveal_HaranirCustomization_050-1280x720.jpg" alt="World Of Warcraft’s Latest ‘Plot Twist’ Shows Why Fans Are Frustrated With The Current Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/world-of-warcraft-haranir-2000713837" target="_blank">World Of Warcraft’s Latest ‘Plot Twist’ Shows Why Fans Are Frustrated With The Current Expansion</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-08 21:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/ZAN-1280x720.jpg" alt="Legendary Final Fantasy Artist Talks About His New Anime And The Importance Of Drawing By Hand" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/legendary-final-fantasy-artist-talks-about-his-new-anime-and-the-importance-of-drawing-by-hand-2000713808" target="_blank">Legendary Final Fantasy Artist Talks About His New Anime And The Importance Of Drawing By Hand</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2026-07-08 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HFA1NX2ZENNBGHJ79AMPW/hero-image.png" alt="The Best Sales on Headphones and Earbuds Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-deals-on-earbuds-and-headphones-right-now?utm_medium=RSS" target="_blank">The Best Sales on Headphones and Earbuds Right Now</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-08 20:00</span>
             </div>
         </div>
@@ -276,24 +297,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/08/zohran-mamdanis-retro-wristwatch-is-a-casio-classic.html" target="_blank">Zohran Mamdani&#x27;s retro wristwatch is a Casio classic</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-08 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KX05G98M4EX8P317KZDQMGMN/hero-image.jpg" alt="Six Ways iOS 27 Is Making AirPods Easier to Use on iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ios-27-is-making-airpods-easier-to-use-on-iphone?utm_medium=RSS" target="_blank">Six Ways iOS 27 Is Making AirPods Easier to Use on iPhone</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-08 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWZW59G89884T6XEC6AZD7G6/hero-image.png" alt="This Job Interview Scam Is a Ploy to Steal Your Google Credentials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/this-job-invite-scam-is-trying-to-steal-your-google-credentials?utm_medium=RSS" target="_blank">This Job Interview Scam Is a Ploy to Steal Your Google Credentials</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-08 13:30</span>
             </div>
         </div>
 </div>
@@ -333,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 229 |
-        🔄 Last Updated: 20:26 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 229 |
+        🔄 Last Updated: 21:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
