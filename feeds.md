@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 19:28:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-08 20:25:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, July 08, 2026 - 20:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +102,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a4d3e5ad99ed47ae9e00cc8/master/pass/AI-Lab-I-Made-A-Self-Improving-AI-Business.jpg" alt="I Built a Self-Improving AI, and So Can You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/" target="_blank">I Built a Self-Improving AI, and So Can You</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-08 20:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder" target="_blank">Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-08 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -137,29 +155,20 @@
                 <span class="time">2026-07-08 16:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/962781/google-pixel-11-lineup-price-increase" target="_blank">The whole Pixel line could get more expensive this year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-08 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date" target="_blank">Fi&amp;#8217;s Starlink-enabled pet tracker found my dog when LTE couldn&amp;#8217;t</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-08 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-june-2026/" target="_blank">GitHub availability report: June 2026</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-08 19:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +190,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://e360.yale.edu/features/cassandra-rauert-interview" target="_blank">What Do We Know About the Microplastics Inside Us?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-08 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-wrench"></span>
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama" target="_blank">The Pragmatic Engineer AMA</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
@@ -194,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/ahk-dev/11-of-githubs-all-time-top-100-repos-passed-through-our-tracker-before-they-blew-up-heres-what-i-m4p" target="_blank">11 of GitHub&#x27;s all-time top 100 repos passed through our tracker before they blew up. Here&#x27;s what I learned.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-08 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-slider.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 23 to offer full Wayland support (but X11 is staying)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/linux-mint-wayland-fully-supported" target="_blank">Linux Mint 23 to offer full Wayland support (but X11 is staying)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-08 16:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-slider.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 23 will have full Wayland support (but X11 is staying)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/linux-mint-wayland-fully-supported" target="_blank">Linux Mint 23 will have full Wayland support (but X11 is staying)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-08 16:13</span>
             </div>
         </div>
 </div>
@@ -242,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/ZAN-1280x720.jpg" alt="Legendary Final Fantasy Artist Talks About His New Anime And The Importance Of Drawing By Hand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/legendary-final-fantasy-artist-talks-about-his-new-anime-and-the-importance-of-drawing-by-hand-2000713808" target="_blank">Legendary Final Fantasy Artist Talks About His New Anime And The Importance Of Drawing By Hand</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-08 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JSYMDW38TWQ2NQC0BKPWRDT4/hero-image.png" alt="The Premium Sonos Ace Headphones Are $120 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +296,6 @@
                 <span class="time">2026-07-08 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/tumblr_4fb45994475c462d06bf0e46f4a80517_1ef3f2a0_2048.png?fit=2048%2C1287&amp;quality=55&amp;ssl=1" alt="Collection of pixel-art skylines from old arcade and video games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/08/collection-of-pixel-art-skylines-from-old-arcade-and-video-games.html" target="_blank">Collection of pixel-art skylines from old arcade and video games</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-08 12:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 230 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 229 |
+        🔄 Last Updated: 20:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
