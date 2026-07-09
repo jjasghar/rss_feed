@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-09 14:59:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-09 16:03:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, July 09, 2026 - 14:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, July 09, 2026 - 16:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/9/chemical-weapons-watchdog-restores-syrias-voting-rights-citing-progress?traffic_source=rss" target="_blank">Chemical weapons watchdog restores Syria’s voting rights, citing progress</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-09 15:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-main_1783582757428_hpMain_4x3t_384.jpg" alt="Iran live updates: As US and Iran trade strikes, US Embassy in Jordan issues alert" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +95,29 @@
                 <span class="time">2026-07-09 11:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783595151517_tdy_news_7a_jackson_platner_withdrawal_260709_S3_1920x1080-j88tvr.jpg" alt="Platner Drops Main Senate Bid After Sexual Assault Allegation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/graham-platner-exits-maine-senate-race-over-assault-allegation-266418757749" target="_blank">Platner Drops Main Senate Bid After Sexual Assault Allegation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-09 11:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4ea0a34c236782d7135868/master/pass/GLASS.png" alt="The 1X Neo Robot Has Freaky Fast Fingers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/" target="_blank">The 1X Neo Robot Has Freaky Fast Fingers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-09 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Sparganum_UHUHS_A.jpg" alt="Surprised doctors find 10-inch worm in man&#x27;s groin during elective surgery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/" target="_blank">Surprised doctors find 10-inch worm in man&#x27;s groin during elective surgery</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-09 15:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/duneTOP-500x500.jpg" alt="Conspiracies and regrets abound in Dune: Part Three trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +154,20 @@
                 <span class="time">2026-07-09 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/" target="_blank">Truecaller clashes with India’s telecom regulator over anti-spam rules</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-09 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4eda84351e3bcb2e38a372/master/pass/GettyImages-2262457818.jpg" alt="One of Meta’s Offices Was Briefly Overtaken by a Rogue Squirrel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/one-of-metas-offices-was-briefly-overtaken-by-a-rogue-squirrel/" target="_blank">One of Meta’s Offices Was Briefly Overtaken by a Rogue Squirrel</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-08 23:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/netflix-data-offline-online/en/mediumimage/rajasekhar-ummadisetty-ken-kurzweil-medium-1782819781543.jpg" alt="Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/netflix-data-offline-online/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-09 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="time">2026-07-09 11:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ev3lynx727/how-we-use-mcp-and-cli-together-for-dynamic-ai-agent-workflows-2j7j" target="_blank">How We Use MCP and CLI Together for Dynamic AI Agent Workflows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-09 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KWYA4DKA5DGVVB3QYBFQ332T/hero-image.jpg" alt="Here&#x27;s How to Actually &#x27;Regulate&#x27; Your Nervous System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/how-to-regulate-your-nervous-system?utm_medium=RSS" target="_blank">Here&#x27;s How to Actually &#x27;Regulate&#x27; Your Nervous System</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-09 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/04/9b299e0154de329e2bc591eaaca6b50a-1280x720.jpg" alt="Elder Scrolls VI Devs Say Xbox Layoffs Will Have ‘Substantial And Cascading Effect’ On The Game’s Already Long Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +286,6 @@
                 <span class="time">2026-07-08 22:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/22NO-ICE22-sticker-spotted-in-Tempe2C-AZ.-photo-Je.jpg?fit=1080%2C1056&amp;quality=60&amp;ssl=1" alt="ICE killed a Houston father, then called him the aggressor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/08/ice-killed-a-houston-father-then-called-him-the-aggressor.html" target="_blank">ICE killed a Houston father, then called him the aggressor</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-08 22:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,22 +309,13 @@
                 <span class="time">2026-07-08 21:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1783368346-20260708.png" alt="Saturday Morning Breakfast Cereal - Four" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/four-3" target="_blank">Saturday Morning Breakfast Cereal - Four</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-08 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 232 |
-        🔄 Last Updated: 14:59 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 235 |
+        🔄 Last Updated: 16:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
