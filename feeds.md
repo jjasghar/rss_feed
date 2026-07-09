@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-09 13:17:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-09 14:59:03 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 09, 2026 - 13:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, July 09, 2026 - 14:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-main_1783582757428_hpMain_4x3t_384.jpg" alt="Iran live updates: As US and Iran trade strikes, US Embassy in Jordan issues alert" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: As US and Iran trade strikes, US Embassy in Jordan issues alert</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-09 13:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/09/g-s1-132703/bucknell-university-coach-death-freshman-football-player-sickle-cell" target="_blank">Former coach at Bucknell University charged in death of freshman football player</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-09 13:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc1c/live/94ebba30-7b76-11f1-9af8-1139253a4180.jpg" alt="Iran launches more strikes after accusing US of striking near nuclear plant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss" target="_blank">Iran launches more strikes after accusing US of striking near nuclear plant</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-09 13:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +100,29 @@
                 <span class="time">2026-07-09 11:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc1c/live/94ebba30-7b76-11f1-9af8-1139253a4180.jpg" alt="US and Iran trade strikes for second night in a row after Trump declares ceasefire &#x27;over&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran trade strikes for second night in a row after Trump declares ceasefire &#x27;over&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-09 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-main_1783582757428_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran targets Bahrain, Kuwait after Trump’s &#x27;retribution&#x27; strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: Iran targets Bahrain, Kuwait after Trump’s &#x27;retribution&#x27; strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-09 09:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d6f/live/de506470-ecbd-11f0-85c7-cf9da063a58e.jpg" alt="Disability benefit not fit for purpose, minister leading review says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&at_campaign=rss" target="_blank">Disability benefit not fit for purpose, minister leading review says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-09 08:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/duneTOP-500x500.jpg" alt="Conspiracies and regrets abound in Dune: Part Three trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/" target="_blank">Conspiracies and regrets abound in Dune: Part Three trailer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-09 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale" target="_blank">Sonos Ace wireless headphones are steeply discounted</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-09 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +159,6 @@
                 <span class="time">2026-07-08 23:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/" target="_blank">Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-08 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/" target="_blank">Despite ‘misgivings,’ judge approves Elon Musk’s $1.5 million SEC settlement</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-08 23:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,9 +168,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Delay-D3cold-Patch-Fix" target="_blank">Proposed Linux Patch For A Brief Delay To Match PCI Spec Will Hopefully Address Some Bugs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-09 13:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17375494/foss-weekly-26-28" target="_blank">FOSS Weekly #26.28: Microslop Moment, Rustification, Brave New features, KDE Plasma Tips and Meme Distro and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-09 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/ThinkPad-USB-C-Restricted-Mode" target="_blank">Linux Prepares For New USB-C Security Feature On Lenovo ThinkPads</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-09 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://18words.com/" target="_blank">Show HN: 18 Words</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-09 12:48</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +216,6 @@
                 <span class="title"><a href="https://dev.to/ev3lynx727/how-we-use-mcp-and-cli-together-for-dynamic-ai-agent-workflows-2j7j" target="_blank">How We Use MCP and CLI Together for Dynamic AI Agent Workflows</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-09 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17375459/kde-plasma-as-personal-knowledge-base" target="_blank">Avoiding Vendor Lock-in By Using KDE Plasma As Personal Knowledge Base</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-09 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-M4-DT-Linux" target="_blank">Initial Patches Posted For Booting The Apple M4 On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-09 10:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/openai-libunwind-core-dumps/en/headerimage/generatedHeaderImage-1783451097516.jpg" alt="OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/openai-libunwind-core-dumps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-09 10:15</span>
             </div>
         </div>
 </div>
@@ -326,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 232 |
-        🔄 Last Updated: 13:17 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 232 |
+        🔄 Last Updated: 14:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
