@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-09 18:32:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-09 19:29:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, July 09, 2026 - 18:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, July 09, 2026 - 19:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/9/is-syria-stable-enough-to-engage-with-the-world?traffic_source=rss" target="_blank">Is Syria stable enough to engage with the world?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-09 18:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e57/live/85fb5d00-7b71-11f1-9af8-1139253a4180.jpg" alt="Burnham set to be next PM as 322 Labour MPs back him in first nomination tally" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +98,20 @@
                 <span class="time">2026-07-09 16:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm" target="_blank">Furore in Nigeria over fake federal agency set up in government HQ</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-09 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/getty-musk-500x500.jpg" alt="Judge doesn&#x27;t like Elon Musk settlement with SEC, but says court can&#x27;t block it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/" target="_blank">Judge doesn&#x27;t like Elon Musk settlement with SEC, but says court can&#x27;t block it</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-09 19:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +157,6 @@
                 <span class="time">2026-07-09 14:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale" target="_blank">Sonos Ace wireless headphones are steeply discounted</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-09 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -193,6 +190,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!Fvua!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56c0030d-bd49-45fb-b641-23017f5aa6af_1656x1200.png" alt="The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from" target="_blank">The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-07-09 16:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/netflix-data-offline-online/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-09 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/managing-ubuntu-on-bare-metal-at-scale" target="_blank">Managing Ubuntu on bare metal at scale</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-07-09 15:17</span>
             </div>
         </div>
 </div>
@@ -238,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Duress-e1783624131519.jpg?fit=768%2C435&amp;quality=60&amp;ssl=1" alt="Mike Johnson likes birthright citizenship when it scores goals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/09/mike-johnson-likes-birthright-citizenship-when-it-scores-goals.html" target="_blank">Mike Johnson likes birthright citizenship when it scores goals</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-09 19:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/albert-1280x640.jpg" alt="Resident Evil’s Albert Wesker Voice Actor Dropped From Convention After Abuse Allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +289,6 @@
                 <span class="time">2026-07-09 13:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRJNS3D87MWGP2FY54PCNM5P/hero-image.png" alt="This Samsung Gaming Monitor With Adjustable Stand Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-180hz-odyssey-g5-gaming-monitor-sale-july-2026?utm_medium=RSS" target="_blank">This Samsung Gaming Monitor With Adjustable Stand Is $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-09 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 18:32 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 19:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
