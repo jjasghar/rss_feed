@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-09 19:29:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-09 20:31:09 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 09, 2026 - 19:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, July 09, 2026 - 20:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/09/nx-s1-5887518/smithsonian-chief-lonnie-bunch-white-house-accusations" target="_blank">Smithsonian chief emphasizes &#x27;accuracy and integrity&#x27; after White House report</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-09 19:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +93,29 @@
                 <span class="time">2026-07-09 17:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/9/is-this-frances-far-right-national-rallys-best-chance-to-take-power?traffic_source=rss" target="_blank">Is this France’s far-right National Rally’s best chance to take power?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-09 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2279315069-500x500.jpg" alt="Allstate accuses Broadcom of auditing it because it quit VMware, CA" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/" target="_blank">Allstate accuses Broadcom of auditing it because it quit VMware, CA</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-09 20:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label" target="_blank">Google will now tell you if an ad was made with AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-09 20:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/getty-musk-500x500.jpg" alt="Judge doesn&#x27;t like Elon Musk settlement with SEC, but says court can&#x27;t block it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +152,6 @@
                 <span class="time">2026-07-09 16:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Sparganum_UHUHS_A.jpg" alt="Surprised doctors find 10-inch worm in man&#x27;s groin during elective surgery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/" target="_blank">Surprised doctors find 10-inch worm in man&#x27;s groin during elective surgery</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-09 15:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/duneTOP-500x500.jpg" alt="Conspiracies and regrets abound in Dune: Part Three trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/" target="_blank">Conspiracies and regrets abound in Dune: Part Three trailer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-09 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +173,15 @@
                 <span class="title"><a href="https://www.phoronix.com/review/aws-graviton5" target="_blank">Graviton5 CPU Benchmarks: 30% Geo Mean Improvement Over Graviton4</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-09 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/claude-desktop-linux.webp?resize=406%2C232&amp;ssl=1" alt="Claude desktop app for Linux enters beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/claude-desktop-linux-beta" target="_blank">Claude desktop app for Linux enters beta</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-09 17:39</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +211,6 @@
                 <span class="time">2026-07-09 15:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/netflix-data-offline-online/en/mediumimage/rajasekhar-ummadisetty-ken-kurzweil-medium-1782819781543.jpg" alt="Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/netflix-data-offline-online/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-09 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/CoD-PS5-1280x720.jpg" alt="Call Of Duty Black Ops 1+2 Ports Arrive On PS5, Cost $40 Each, And Don’t Include DLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/call-of-duty-black-ops-12-ports-arrive-on-ps5-cost-40-each-and-dont-include-dlc-2000714252" target="_blank">Call Of Duty Black Ops 1+2 Ports Arrive On PS5, Cost $40 Each, And Don’t Include DLC</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-09 20:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KX0X5HJ7T3XFV4QWYDPVSDRP/hero-image.jpg" alt="10 &#x27;Preview&#x27; Hacks Every Apple User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-preview-hacks-every-apple-user-should-know?utm_medium=RSS" target="_blank">10 &#x27;Preview&#x27; Hacks Every Apple User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-09 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Duress-e1783624131519.jpg?fit=768%2C435&amp;quality=60&amp;ssl=1" alt="Mike Johnson likes birthright citizenship when it scores goals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +282,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/09/your-excuses-for-not-reading-are-over-headway-premium-is-just-69-99-for-life.html" target="_blank">Your excuses for not reading are over — Headway Premium is just $69.99 for life</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-09 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KWYA4DKA5DGVVB3QYBFQ332T/hero-image.jpg" alt="Here&#x27;s How to Actually &#x27;Regulate&#x27; Your Nervous System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/how-to-regulate-your-nervous-system?utm_medium=RSS" target="_blank">Here&#x27;s How to Actually &#x27;Regulate&#x27; Your Nervous System</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-09 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/04/9b299e0154de329e2bc591eaaca6b50a-1280x720.jpg" alt="Elder Scrolls VI Devs Say Xbox Layoffs Will Have ‘Substantial And Cascading Effect’ On The Game’s Already Long Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elder-scrolls-6-vi-delays-bethesda-xbox-layoffs-release-2000714125" target="_blank">Elder Scrolls VI Devs Say Xbox Layoffs Will Have ‘Substantial And Cascading Effect’ On The Game’s Already Long Development</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-09 13:10</span>
             </div>
         </div>
 </div>
@@ -326,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 239 |
-        🔄 Last Updated: 19:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 20:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
