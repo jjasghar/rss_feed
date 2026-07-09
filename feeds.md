@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-09 17:34:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-09 18:32:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, July 09, 2026 - 17:35 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, July 09, 2026 - 18:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e57/live/85fb5d00-7b71-11f1-9af8-1139253a4180.jpg" alt="Burnham set to be next PM as 322 Labour MPs back him in first nomination tally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham set to be next PM as 322 Labour MPs back him in first nomination tally</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-09 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/9/us-expands-iran-strikes-iran-hitting-fishing-piers-near-nuclear-plant?traffic_source=rss" target="_blank">US expands Iran strikes Iran hitting  fishing piers near nuclear plant</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-09 18:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/09/nx-s1-5885040/robot-flying-aerial-aquatic-mit-birds" target="_blank">A new kind of robot swims the seas and soars the skies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-09 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-main_1783582757428_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;Dozens&#x27; of Iranian drones, missiles intercepted, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: &#x27;Dozens&#x27; of Iranian drones, missiles intercepted, official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-09 17:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -53,46 +95,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/9/chemical-weapons-watchdog-restores-syrias-voting-rights-citing-progress?traffic_source=rss" target="_blank">Chemical weapons watchdog restores Syria’s voting rights, citing progress</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-09 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-main_1783582757428_hpMain_4x3t_384.jpg" alt="Iran live updates: As US and Iran trade strikes, US Embassy in Jordan issues alert" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: As US and Iran trade strikes, US Embassy in Jordan issues alert</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-09 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/09/g-s1-132703/bucknell-university-coach-death-freshman-football-player-sickle-cell" target="_blank">Former coach at Bucknell University charged in death of freshman football player</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-09 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc1c/live/94ebba30-7b76-11f1-9af8-1139253a4180.jpg" alt="Iran launches more strikes after accusing US of striking near nuclear plant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss" target="_blank">Iran launches more strikes after accusing US of striking near nuclear plant</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-09 13:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/9/mosque-model-placed-on-top-of-northern-ireland-bonfire?traffic_source=rss" target="_blank">Mosque model placed on top of Northern Ireland bonfire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-09 12:28</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm" target="_blank">Furore in Nigeria over fake federal agency set up in government HQ</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-09 16:20</span>
             </div>
         </div>
 </div>
@@ -100,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale" target="_blank">Google&amp;#8217;s Nest Thermostat has hit its best price of the year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-09 17:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +160,29 @@
                 <span class="time">2026-07-09 14:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video" target="_blank">Character.AI wants a piece of the microdrama pie</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-09 13:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/blacknobilityenterprisellcarch/why-i-chose-neon-devto-database-partner-for-my-ai-routing-platform-2egf" target="_blank">Why I Chose Neon (dev.to Database Partner) for My AI Routing Platform</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-09 18:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/aws-graviton5" target="_blank">Graviton5 CPU Benchmarks: 30% Geo Mean Improvement Over Graviton4</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-09 17:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +217,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/managing-ubuntu-on-bare-metal-at-scale" target="_blank">Managing Ubuntu on bare metal at scale</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-07-09 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Delay-D3cold-Patch-Fix" target="_blank">Proposed Linux Patch For A Brief Delay To Match PCI Spec Will Hopefully Address Some Bugs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-09 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17375494/foss-weekly-26-28" target="_blank">FOSS Weekly #26.28: Microslop Moment, Rustification, Brave New features, KDE Plasma Tips and Meme Distro and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-09 13:05</span>
             </div>
         </div>
 </div>
@@ -292,6 +298,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1783535367-20260709.png" alt="Saturday Morning Breakfast Cereal - Zod" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/zod" target="_blank">Saturday Morning Breakfast Cereal - Zod</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-09 15:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5869.png" alt="Body Plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -314,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 17:35 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 18:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
