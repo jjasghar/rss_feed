@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-08 23:22:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-09 00:23:52 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, July 08, 2026 - 23:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, July 09, 2026 - 00:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_iran-video-of-the-ruins-of-khameneis-compound-080726?traffic_source=rss" target="_blank">Tehran releases footage showing ruins of late Iranian leader’s compound</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-09 00:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +98,6 @@
                 <span class="time">2026-07-08 20:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/139f/live/077839f0-7af2-11f1-9510-1546718f668b.jpg" alt="UK to change law so ringleader of Rochdale grooming gang can be deported" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&at_campaign=rss" target="_blank">UK to change law so ringleader of Rochdale grooming gang can be deported</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-08 18:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,9 +107,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/" target="_blank">Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-08 23:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/" target="_blank">Despite ‘misgivings,’ judge approves Elon Musk’s $1.5 million SEC settlement</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-08 23:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai" target="_blank">Meta is reportedly working on smart glasses that would be recording all the time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-08 22:37</span>
             </div>
         </div>
 <div class="story">
@@ -138,29 +157,20 @@
                 <span class="time">2026-07-08 21:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4d3e5ad99ed47ae9e00cc8/master/pass/AI-Lab-I-Made-A-Self-Improving-AI-Business.jpg" alt="I Built a Self-Improving AI, and So Can You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/" target="_blank">I Built a Self-Improving AI, and So Can You</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-08 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder" target="_blank">Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-08 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/agenyc/monorepo-vs-polyrepo-45no" target="_blank">Monorepo vs polyrepo</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-09 00:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +216,6 @@
                 <span class="time">2026-07-08 19:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-June-2026" target="_blank">Redox OS Gets GTK3 Backend For Orbital Desktop, Fractional Scaling &amp; USB Gamepads</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-08 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2603480553.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Psyllium husk is not nature&#x27;s Ozempic, but it is a pretty good source of fiber" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/08/psyllium-husk-is-not-natures-ozempic-but-it-is-a-pretty-good-source-of-fiber.html" target="_blank">Psyllium husk is not nature&#x27;s Ozempic, but it is a pretty good source of fiber</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-08 23:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/marathon-1280x757.jpg" alt="Sony Reaches Settlement With Bungie Director It Accused Of Sexual Misconduct And Adds His Name To Marathon‘s Credits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,20 +298,20 @@
                 <span class="time">2026-07-08 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HFA1NX2ZENNBGHJ79AMPW/hero-image.png" alt="The Best Sales on Headphones and Earbuds Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-deals-on-earbuds-and-headphones-right-now?utm_medium=RSS" target="_blank">The Best Sales on Headphones and Earbuds Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-08 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/08/rex-ready-player-one-part-two" target="_blank">Rex Ready Player One, Part Two</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-08 21:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1783368346-20260708.png" alt="Saturday Morning Breakfast Cereal - Four" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -343,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 232 |
-        🔄 Last Updated: 23:22 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 231 |
+        🔄 Last Updated: 00:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
