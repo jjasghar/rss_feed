@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-09 11:59:04 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-09 13:17:27 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, July 09, 2026 - 11:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, July 09, 2026 - 13:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/9/mosque-model-placed-on-top-of-northern-ireland-bonfire?traffic_source=rss" target="_blank">Mosque model placed on top of Northern Ireland bonfire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-09 12:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/09/g-s1-132694/up-first-newsletter-graham-platner-trump-iran-israel-nolan-wells" target="_blank">Graham Platner ends Senate bid. And, why Nolan Wells&#x27; death captured national attention</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-09 11:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783595151517_tdy_news_7a_jackson_platner_withdrawal_260709_S3_1920x1080-j88tvr.jpg" alt="Platner Drops Main Senate Bid After Sexual Assault Allegation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/graham-platner-exits-maine-senate-race-over-assault-allegation-266418757749" target="_blank">Platner Drops Main Senate Bid After Sexual Assault Allegation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-09 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc1c/live/94ebba30-7b76-11f1-9af8-1139253a4180.jpg" alt="US and Iran trade strikes for second night in a row after Trump declares ceasefire &#x27;over&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran trade strikes for second night in a row after Trump declares ceasefire &#x27;over&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-09 09:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-main_1783582757428_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran targets Bahrain, Kuwait after Trump’s &#x27;retribution&#x27; strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,47 +98,20 @@
                 <span class="time">2026-07-09 08:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/09/nx-s1-5887063/egypt-complain-world-cup" target="_blank">Egypt complains officials were biased in World Cup loss to Argentina</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-09 07:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f4/live/30109df0-7b0e-11f1-b976-0b9c15b0ccfc.jpg" alt="US launches more strikes on Iran with blasts reported in south of country" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss" target="_blank">US launches more strikes on Iran with blasts reported in south of country</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-09 05:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_would-the-us-protect-nato-allies-080726?traffic_source=rss" target="_blank">Would the US protect NATO allies if they were attacked?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-09 02:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/9/trump-to-ask-us-supreme-court-for-new-hearing-on-birthright-citizenship?traffic_source=rss" target="_blank">Trump to ask US Supreme Court for new hearing on birthright citizenship</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-09 00:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video" target="_blank">Character.AI wants a piece of the microdrama pie</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-09 13:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlinkv3deploy-500x500.jpg" alt="Payloads used to dictate the terms of launch. That&#x27;s finally changing." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +157,6 @@
                 <span class="time">2026-07-08 23:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai" target="_blank">Meta is reportedly working on smart glasses that would be recording all the time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-08 22:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,10 +165,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ThinkPad-USB-C-Restricted-Mode" target="_blank">Linux Prepares For New USB-C Security Feature On Lenovo ThinkPads</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-09 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/open-source-platform/en/headerimage/header-1783344860328.jpg" alt="How Open Source Enables Collaboration in Creating a Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/open-source-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Open Source Enables Collaboration in Creating a Platform</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-09 11:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ev3lynx727/how-we-use-mcp-and-cli-together-for-dynamic-ai-agent-workflows-2j7j" target="_blank">How We Use MCP and CLI Together for Dynamic AI Agent Workflows</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-09 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17375459/kde-plasma-as-personal-knowledge-base" target="_blank">Avoiding Vendor Lock-in By Using KDE Plasma As Personal Knowledge Base</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-09 10:49</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +216,6 @@
                 <span class="time">2026-07-09 10:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17375382/german-state-ditches-sharepoint" target="_blank">Another German State Just Kicked Out Microsoft ...Kind Of</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-09 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/android-beat-aligned-mobile-audio-streaming/en/headerimage/android-beat-aligned-mobile-audio-streaming-header-1783408153943.jpg" alt="Article: Beat-Aligned Mobile Audio Streaming with Virtual Chunks and Native Playback" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/android-beat-aligned-mobile-audio-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beat-Aligned Mobile Audio Streaming with Virtual Chunks and Native Playback</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-09 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rushikes-dev/how-to-compress-a-png-without-losing-quality-1b6p" target="_blank">How to Compress a PNG Without Losing Quality</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-09 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,20 +230,29 @@
                 <span class="time">2026-07-09 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/" target="_blank">Felons, Fraudsters Flog Offensive Cybersecurity Startup</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-07-08 12:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/9b299e0154de329e2bc591eaaca6b50a-1280x720.jpg" alt="Elder Scrolls VI Devs Say Xbox Layoffs Will Have ‘Substantial And Cascading Effect’ On The Game’s Already Long Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elder-scrolls-6-vi-delays-bethesda-xbox-layoffs-release-2000714125" target="_blank">Elder Scrolls VI Devs Say Xbox Layoffs Will Have ‘Substantial And Cascading Effect’ On The Game’s Already Long Development</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-09 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRJNS3D87MWGP2FY54PCNM5P/hero-image.png" alt="This Samsung Gaming Monitor With Adjustable Stand Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-180hz-odyssey-g5-gaming-monitor-sale-july-2026?utm_medium=RSS" target="_blank">This Samsung Gaming Monitor With Adjustable Stand Is $100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-09 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/Baby_Barn_Owl_281822279377529-scaled.jpg?fit=2560%2C1919&amp;quality=60&amp;ssl=1" alt="Baby barn owls rescued from a dock loft before first flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/08/ice-killed-a-houston-father-then-called-him-the-aggressor.html" target="_blank">ICE killed a Houston father, then called him the aggressor</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-08 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Lewes_Arms_-_Dwyle_Flunking_-_geograph.org_.uk_-_494221-2.jpg?fit=640%2C468&amp;quality=60&amp;ssl=1" alt="Dwile flonking, the ancient pub sport invented in 1966" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/08/post-dwile-flonking-the-ancient-pub-sport-invented-in-1.html" target="_blank">Dwile flonking, the ancient pub sport invented in 1966</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-08 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/WoW_Midnight_GamescomReveal_HaranirCustomization_050-1280x720.jpg" alt="World Of Warcraft’s Latest ‘Plot Twist’ Shows Why Fans Are Frustrated With The Current Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/world-of-warcraft-haranir-2000713837" target="_blank">World Of Warcraft’s Latest ‘Plot Twist’ Shows Why Fans Are Frustrated With The Current Expansion</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-08 21:03</span>
             </div>
         </div>
 </div>
@@ -335,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 11:59 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 232 |
+        🔄 Last Updated: 13:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
