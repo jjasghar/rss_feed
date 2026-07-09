@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-09 00:23:52 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-09 01:31:26 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, July 09, 2026 - 00:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, July 09, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/9/trump-to-ask-us-supreme-court-for-new-hearing-on-birthright-citizenship?traffic_source=rss" target="_blank">Trump to ask US Supreme Court for new hearing on birthright citizenship</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-09 00:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/08/g-s1-132220/graham-platner-maine-senate-assault-allegation" target="_blank">Graham Platner drops his bid for Senate after facing an allegation of rape</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-09 00:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +97,20 @@
                 <span class="time">2026-07-08 21:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donation" target="_blank">A new proposal for organ donation sparks concern</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-08 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/8/former-rebel-turned-government-ally-proposes-a-path-to-peace-for-sudan?traffic_source=rss" target="_blank">Former rebel turned government ally proposes a path to peace for Sudan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-08 20:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4eda84351e3bcb2e38a372/master/pass/GettyImages-2262457818.jpg" alt="One of Meta’s Offices Was Briefly Overtaken by a Rogue Squirrel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/one-of-metas-offices-was-briefly-overtaken-by-a-rogue-squirrel/" target="_blank">One of Meta’s Offices Was Briefly Overtaken by a Rogue Squirrel</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-08 23:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +156,6 @@
                 <span class="time">2026-07-08 21:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4d0ba71ec7b7e789dcf997/master/pass/InvestmentFoot_Lead.jpg" alt="Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/" target="_blank">Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-08 21:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +168,15 @@
                 <span class="title"><a href="https://dev.to/agenyc/monorepo-vs-polyrepo-45no" target="_blank">Monorepo vs polyrepo</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-09 00:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02" target="_blank">John Deere owners will get the right to repair equipment under FTC settlement</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-08 23:37</span>
             </div>
         </div>
 <div class="story">
@@ -192,28 +200,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/" target="_blank">Automating cross-repo documentation with GitHub Agentic Workflows</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-08 21:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://openai.com/index/separating-signal-from-noise-coding-evaluations/" target="_blank">Separating signal from noise in coding evaluations</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-08 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-june-2026/" target="_blank">GitHub availability report: June 2026</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-08 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/uptimearchitect/oracle-patching-demystified-cpu-ru-rur-and-what-changed-in-2026-42nj" target="_blank">Oracle Patching, Demystified: CPU, RU, RUR — and What Changed in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-08 19:17</span>
             </div>
         </div>
 </div>
@@ -339,22 +338,13 @@
                 <span class="time">2026-07-08 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5868.png" alt="Faulty Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5868" target="_blank">Faulty Memory</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-08 01:06</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 231 |
-        🔄 Last Updated: 00:24 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 231 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
