@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-09 04:24:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-07-09 08:07:00 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, July 09, 2026 - 04:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, July 09, 2026 - 08:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/09/nx-s1-5887063/egypt-complain-world-cup" target="_blank">Egypt complains officials were biased in World Cup loss to Argentina</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-09 07:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f4/live/30109df0-7b0e-11f1-b976-0b9c15b0ccfc.jpg" alt="US launches more strikes on Iran with blasts reported in south of country" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss" target="_blank">US launches more strikes on Iran with blasts reported in south of country</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-09 05:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +95,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/maine-democratic-senate-candidate-graham-platner-suspends-campaign/story?id=134536907" target="_blank">Graham Platner suspends Senate campaign after sexual assault allegation</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-09 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/08/g-s1-132220/graham-platner-maine-senate-assault-allegation" target="_blank">Graham Platner drops his bid for Senate after facing an allegation of rape</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-09 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_iran-video-of-the-ruins-of-khameneis-compound-080726?traffic_source=rss" target="_blank">Tehran releases footage showing ruins of late Iranian leader’s compound</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-09 00:15</span>
             </div>
         </div>
 </div>
@@ -163,6 +165,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rushikes-dev/how-to-compress-a-png-without-losing-quality-1b6p" target="_blank">How to Compress a PNG Without Losing Quality</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-09 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/alloydb-ai-proxy-models/en/headerimage/generatedHeaderImage-1783079201479.jpg" alt="AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference Inside the Database" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference Inside the Database</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-09 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jjozzietech/how-i-got-a-suspended-truenas-pool-back-online-without-replacing-a-single-disk-57o4" target="_blank">How I got a suspended TrueNAS pool back online without replacing a single disk</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-09 02:54</span>
@@ -193,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/vibearcade/what-is-vibe-coding-how-ai-builds-games-from-scratch-40bh" target="_blank">What Is Vibe Coding? How AI Builds Games From Scratch</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-08 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/danielbilek/the-evolving-agent-how-jean2-learns-across-sessions-2m98" target="_blank">The Evolving Agent: How Jean2 Learns Across Sessions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-08 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/" target="_blank">Automating cross-repo documentation with GitHub Agentic Workflows</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-08 21:11</span>
             </div>
         </div>
 </div>
@@ -318,22 +320,13 @@
                 <span class="time">2026-07-08 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/08/rex-ready-player-one-part-two" target="_blank">Rex Ready Player One, Part Two</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-08 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 232 |
-        🔄 Last Updated: 04:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 232 |
+        🔄 Last Updated: 08:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
