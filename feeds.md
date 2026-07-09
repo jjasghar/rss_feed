@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-09 10:12:35 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-09 11:59:04 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, July 09, 2026 - 10:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, July 09, 2026 - 11:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlinkv3deploy-500x500.jpg" alt="Payloads used to dictate the terms of launch. That&#x27;s finally changing." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/" target="_blank">Payloads used to dictate the terms of launch. That&#x27;s finally changing.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-09 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -146,20 +157,47 @@
                 <span class="time">2026-07-08 22:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/" target="_blank">Feds demand autonomous vehicle companies stop interfering with first responders</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-08 21:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ev3lynx727/how-we-use-mcp-and-cli-together-for-dynamic-ai-agent-workflows-2j7j" target="_blank">How We Use MCP and CLI Together for Dynamic AI Agent Workflows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-09 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Apple-M4-DT-Linux" target="_blank">Initial Patches Posted For Booting The Apple M4 On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-09 10:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/openai-libunwind-core-dumps/en/headerimage/generatedHeaderImage-1783451097516.jpg" alt="OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/openai-libunwind-core-dumps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-09 10:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17375382/german-state-ditches-sharepoint" target="_blank">Another German State Just Kicked Out Microsoft ...Kind Of</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-09 09:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/android-beat-aligned-mobile-audio-streaming/en/headerimage/android-beat-aligned-mobile-audio-streaming-header-1783408153943.jpg" alt="Article: Beat-Aligned Mobile Audio Streaming with Virtual Chunks and Native Playback" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -178,47 +216,20 @@
                 <span class="time">2026-07-09 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/alloydb-ai-proxy-models/en/headerimage/generatedHeaderImage-1783079201479.jpg" alt="AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference Inside the Database" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference Inside the Database</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-09 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jjozzietech/how-i-got-a-suspended-truenas-pool-back-online-without-replacing-a-single-disk-57o4" target="_blank">How I got a suspended TrueNAS pool back online without replacing a single disk</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-09 02:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/agenyc/monorepo-vs-polyrepo-45no" target="_blank">Monorepo vs polyrepo</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-09 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02" target="_blank">John Deere owners will get the right to repair equipment under FTC settlement</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-08 23:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html" target="_blank">The Language of AI Could Change How Humans Speak</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-09 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -228,20 +239,20 @@
                 <span class="time">2026-07-08 12:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html" target="_blank">Cybersecurity and the Gap Between Skill and Ability</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-08 11:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/Baby_Barn_Owl_281822279377529-scaled.jpg?fit=2560%2C1919&amp;quality=60&amp;ssl=1" alt="Baby barn owls rescued from a dock loft before first flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/08/baby-barn-owls-rescued-from-a-dock-loft-before-first-flight.html" target="_blank">Baby barn owls rescued from a dock loft before first flight</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-09 00:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2603480553.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Psyllium husk is not nature&#x27;s Ozempic, but it is a pretty good source of fiber" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,20 +298,20 @@
                 <span class="time">2026-07-08 21:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/ZAN-1280x720.jpg" alt="Legendary Final Fantasy Artist Talks About His New Anime And The Importance Of Drawing By Hand" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/legendary-final-fantasy-artist-talks-about-his-new-anime-and-the-importance-of-drawing-by-hand-2000713808" target="_blank">Legendary Final Fantasy Artist Talks About His New Anime And The Importance Of Drawing By Hand</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-08 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5869.png" alt="Body Plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5869" target="_blank">Body Plan</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-09 01:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -324,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 10:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 235 |
+        🔄 Last Updated: 11:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
