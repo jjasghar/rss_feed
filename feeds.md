@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-09 08:07:00 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-09 10:12:35 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, July 09, 2026 - 08:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, July 09, 2026 - 10:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-main_1783582757428_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran targets Bahrain, Kuwait after Trump’s &#x27;retribution&#x27; strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: Iran targets Bahrain, Kuwait after Trump’s &#x27;retribution&#x27; strikes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-09 09:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d6f/live/de506470-ecbd-11f0-85c7-cf9da063a58e.jpg" alt="Disability benefit not fit for purpose, minister leading review says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&at_campaign=rss" target="_blank">Disability benefit not fit for purpose, minister leading review says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-09 08:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/9/trump-to-ask-us-supreme-court-for-new-hearing-on-birthright-citizenship?traffic_source=rss" target="_blank">Trump to ask US Supreme Court for new hearing on birthright citizenship</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-09 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783557812073_now_staytuned_rno_platner_out_260708_S3_1920x1080-2skmqh.jpg" alt="Platner says he will suspend his Senate campaign in Maine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/platner-says-he-will-suspend-his-senate-campaign-in-maine-266406469550" target="_blank">Platner says he will suspend his Senate campaign in Maine</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-09 00:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/Graham-1-gty-er-260706_1783367881191_hpMain_2_4x3t_384.jpg" alt="Graham Platner suspends Senate campaign after sexual assault allegation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/maine-democratic-senate-candidate-graham-platner-suspends-campaign/story?id=134536907" target="_blank">Graham Platner suspends Senate campaign after sexual assault allegation</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-09 00:33</span>
             </div>
         </div>
 </div>
@@ -162,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/android-beat-aligned-mobile-audio-streaming/en/headerimage/android-beat-aligned-mobile-audio-streaming-header-1783408153943.jpg" alt="Article: Beat-Aligned Mobile Audio Streaming with Virtual Chunks and Native Playback" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/android-beat-aligned-mobile-audio-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beat-Aligned Mobile Audio Streaming with Virtual Chunks and Native Playback</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-09 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +212,6 @@
                 <span class="title"><a href="https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02" target="_blank">John Deere owners will get the right to repair equipment under FTC settlement</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-08 23:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vibearcade/what-is-vibe-coding-how-ai-builds-games-from-scratch-40bh" target="_blank">What Is Vibe Coding? How AI Builds Games From Scratch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-08 23:05</span>
             </div>
         </div>
 </div>
@@ -325,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 232 |
-        🔄 Last Updated: 08:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 235 |
+        🔄 Last Updated: 10:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
