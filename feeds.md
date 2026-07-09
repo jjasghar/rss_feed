@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-09 21:27:45 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-09 22:27:50 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, July 09, 2026 - 21:28 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, July 09, 2026 - 22:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/09/nx-s1-5887619/2026-world-cup-fifa-france-morocco-quarterfinal" target="_blank">France downs Morocco 2-0 to advance to the World Cup semifinal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-09 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss" target="_blank">Syria says cell behind ‘terrorist bombings’ in Damascus arrested</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-09 21:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/1009/66/47061831666-1080pnbcstations.jpg" alt="Kylian Mbappé falla desde el punto penal: Yassine Bounou vuelve a ser héroe para Marruecos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +100,29 @@
                 <span class="time">2026-07-09 18:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/9/is-syria-stable-enough-to-engage-with-the-world?traffic_source=rss" target="_blank">Is Syria stable enough to engage with the world?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-09 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e57/live/85fb5d00-7b71-11f1-9af8-1139253a4180.jpg" alt="Burnham set to be next PM as 322 Labour MPs back him in first nomination tally" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham set to be next PM as 322 Labour MPs back him in first nomination tally</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-09 18:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1615411744-500x500.jpg" alt="Michigan&#x27;s explosive outbreak of diarrheal parasite jumps to over 1,200 cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/" target="_blank">Michigan&#x27;s explosive outbreak of diarrheal parasite jumps to over 1,200 cases</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-09 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4ed845d214609f8c84aa7b/master/pass/Uncanny-Valley-graham-platner_0709.jpg" alt="Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/" target="_blank">Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-09 21:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2279315069-500x500.jpg" alt="Allstate accuses Broadcom of auditing it because it quit VMware, CA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +159,20 @@
                 <span class="time">2026-07-09 17:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/" target="_blank">Meta’s new AI chips will begin production in September</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-09 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4ea0a34c236782d7135868/master/pass/GLASS.png" alt="The 1X Neo Robot Has Freaky Fast Fingers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/" target="_blank">The 1X Neo Robot Has Freaky Fast Fingers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-09 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://twotimespi.dev/" target="_blank">Tau: An Educational Coding Agent</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-07-09 21:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +218,6 @@
                 <span class="time">2026-07-09 17:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!Fvua!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56c0030d-bd49-45fb-b641-23017f5aa6af_1656x1200.png" alt="The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from" target="_blank">The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-07-09 16:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,12 +238,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/1500x500.jpg" alt="Bethesda Union Workers Will Hold Rallies Next Week Protesting Mass Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bethesda-workers-rallies-next-week-protesting-mass-layoffs-2000714247" target="_blank">Bethesda Union Workers Will Hold Rallies Next Week Protesting Mass Layoffs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-09 21:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KX48FN6ZGWM3N55C4CRSDGEV/hero-image.png" alt="Sony&#x27;s Pricey 1000X &#x27;Collexion&#x27; Headphones Just Got Their First Discount" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/sony-1000x-the-collexion-headphones-deal-july-2026?utm_medium=RSS" target="_blank">Sony&#x27;s Pricey 1000X &#x27;Collexion&#x27; Headphones Just Got Their First Discount</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-09 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2019/08/Mexico.jpg?fit=800%2C600&amp;quality=60&amp;ssl=1" alt="Mexican Government files charges against ICE for murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/09/mexican-government-files-charges-against-ice-for-murder.html" target="_blank">Mexican Government files charges against ICE for murder</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-09 20:57</span>
             </div>
         </div>
 <div class="story">
@@ -273,24 +291,6 @@
                 <span class="time">2026-07-09 19:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/albert-1280x640.jpg" alt="Resident Evil’s Albert Wesker Voice Actor Dropped From Convention After Abuse Allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evil-craig-burnatowski-wesker-zeno-voice-allegations-2000714184" target="_blank">Resident Evil’s Albert Wesker Voice Actor Dropped From Convention After Abuse Allegations</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-09 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFP513K4E7AJXHX7D90JSVHD/hero-image.png" alt="The GoPro Max2 Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/gopro-360-max2-camera-sale-july-2026?utm_medium=RSS" target="_blank">The GoPro Max2 Is $200 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-09 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,22 +314,13 @@
                 <span class="time">2026-07-09 01:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/08/rex-ready-player-one-part-two" target="_blank">Rex Ready Player One, Part Two</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-08 21:53</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 21:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 22:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
