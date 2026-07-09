@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-09 20:31:09 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-09 21:27:45 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 21 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, July 09, 2026 - 20:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, July 09, 2026 - 21:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/1009/66/47061831666-1080pnbcstations.jpg" alt="Kylian Mbappé falla desde el punto penal: Yassine Bounou vuelve a ser héroe para Marruecos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/kylian-mbappe-falla-desde-el-punto-penal-yassine-bounou-vuelve-a-ser-heroe-para-marruecos-tmvo13202247" target="_blank">Kylian Mbappé falla desde el punto penal: Yassine Bounou vuelve a ser héroe para Marruecos</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-09 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/9/mexico-seeks-prosecutions-over-migrant-deaths-in-the-us?traffic_source=rss" target="_blank">Mexico seeks prosecutions over migrant deaths in the US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-09 20:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/09/nx-s1-5887518/smithsonian-chief-lonnie-bunch-white-house-accusations" target="_blank">Smithsonian chief emphasizes &#x27;accuracy and integrity&#x27; after White House report</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-09 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Iran-strikes-DB-260709_1783615379777_hpMain_4x3t_384.jpg" alt="US-Iran strikes &#x27;put into question&#x27; key parts of MOU, Qatari official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/us-iran-strikes-put-question-key-parts-mou/story?id=134623067" target="_blank">US-Iran strikes &#x27;put into question&#x27; key parts of MOU, Qatari official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-09 18:59</span>
             </div>
         </div>
 <div class="story">
@@ -64,33 +98,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham set to be next PM as 322 Labour MPs back him in first nomination tally</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-09 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/9/us-expands-iran-strikes-iran-hitting-fishing-piers-near-nuclear-plant?traffic_source=rss" target="_blank">US expands Iran strikes Iran hitting  fishing piers near nuclear plant</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-09 18:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/09/nx-s1-5885040/robot-flying-aerial-aquatic-mit-birds" target="_blank">A new kind of robot swims the seas and soars the skies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-09 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-main_1783582757428_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;Dozens&#x27; of Iranian drones, missiles intercepted, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: &#x27;Dozens&#x27; of Iranian drones, missiles intercepted, official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-09 17:38</span>
             </div>
         </div>
 </div>
@@ -161,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/an12s3/why-i-love-the-word-pivot-2f69" target="_blank">Why I Love the Word &quot;Pivot&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-09 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/blacknobilityenterprisellcarch/why-i-chose-neon-devto-database-partner-for-my-ai-routing-platform-2egf" target="_blank">Why I Chose Neon (dev.to Database Partner) for My AI Routing Platform</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-09 18:26</span>
@@ -202,15 +218,6 @@
                 <span class="time">2026-07-09 16:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/news/tangent-for-linux-com/" target="_blank">Tangent for Linux.com</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2026-07-09 15:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KX48FN6ZGWM3N55C4CRSDGEV/hero-image.png" alt="Sony&#x27;s Pricey 1000X &#x27;Collexion&#x27; Headphones Just Got Their First Discount" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sony-1000x-the-collexion-headphones-deal-july-2026?utm_medium=RSS" target="_blank">Sony&#x27;s Pricey 1000X &#x27;Collexion&#x27; Headphones Just Got Their First Discount</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-09 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/CoD-PS5-1280x720.jpg" alt="Call Of Duty Black Ops 1+2 Ports Arrive On PS5, Cost $40 Each, And Don’t Include DLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +291,6 @@
                 <span class="time">2026-07-09 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Headway-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Your excuses for not reading are over — Headway Premium is just $69.99 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/09/your-excuses-for-not-reading-are-over-headway-premium-is-just-69-99-for-life.html" target="_blank">Your excuses for not reading are over — Headway Premium is just $69.99 for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-09 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 20:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 21:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
