@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-10 06:17:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-10 08:05:19 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 10, 2026 - 06:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, July 10, 2026 - 08:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4e0/live/9586cd30-7c30-11f1-bee8-53ce494e1abc.jpg" alt="At least 11 dead and 19 missing in wildfire in southern Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss" target="_blank">At least 11 dead and 19 missing in wildfire in southern Spain</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-10 07:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco" target="_blank">Developing countries spend more repaying foreign debt than on education, UN reveals</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-10 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo" target="_blank">Ebola death toll reaches 600, as new cases suspected in other parts of Congo</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-10 06:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,33 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/10/tense-standoff-at-an-anti-migrant-protest-in-a-south-african-town?traffic_source=rss" target="_blank">Tense standoff at an anti-migrant protest in a South African town</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-10 04:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/GettyImages-2281056489_1783652779365_hpMain_4x3t_384.jpg" alt="Total of 8 suspects now indicted in alleged plot to attack White House UFC event" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/total-8-suspects-now-indicted-alleged-plot-attack/story?id=134638906" target="_blank">Total of 8 suspects now indicted in alleged plot to attack White House UFC event</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-10 03:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-spain-wildfires-12-dead_7294221.jpg?20260710061306" alt="&#x27;Devastating&#x27; wildfire kills at least 12 in southern Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/wildfire-kills-at-least-12-in-southern-spain-13562150" target="_blank">&#x27;Devastating&#x27; wildfire kills at least 12 in southern Spain</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-10 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/09/nx-s1-5887690/trump-election-assistance-commission" target="_blank">President Trump cleans house at the bipartisan Election Assistance Commission</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-10 02:52</span>
             </div>
         </div>
 </div>
@@ -188,6 +181,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Premium-Summer-26-Ending" target="_blank">Phoronix Premium 2026 Summer Support Special Ends Tonight</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-10 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.anthropic.com/news/ben-bernanke" target="_blank">Ben Bernanke Joins Anthropic Oversight Trust</a></span>
                 <span class="feed">Hacker News</span>
@@ -210,15 +212,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-10-2026-red-hat" target="_blank">Friday Five — July 10, 2026</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-07-10 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://twotimespi.dev/" target="_blank">Tau: An Educational Coding Agent</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-07-09 21:53</span>
             </div>
         </div>
 </div>
@@ -300,6 +293,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/10/rex-ready-player-one-part-three" target="_blank">Rex Ready Player One, Part Three</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-10 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5870.png" alt="A Modest Proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -322,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 06:17 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 08:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
