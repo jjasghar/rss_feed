@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-10 18:27:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-10 19:28:26 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 10, 2026 - 18:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, July 10, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/royals-gty-gmh-260710_1783707253397_hpMain_4x3t_384.jpg" alt="King Charles, Camilla meet with Prince Harry, Meghan and kids in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/king-charles-iii-queen-camilla-meet-prince-harry/story?id=134657471" target="_blank">King Charles, Camilla meet with Prince Harry, Meghan and kids in UK</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-10 19:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +102,38 @@
                 <span class="time">2026-07-10 14:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ea/live/57cceec0-7c67-11f1-926f-c90d1bcfbc84.jpg" alt="Wildfire in southern Spain leaves at least 12 dead and 23 missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss" target="_blank">Wildfire in southern Spain leaves at least 12 dead and 23 missing</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-10 14:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo" target="_blank">ICE is threatening to deport witnesses of its latest shooting</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-10 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4d5408dd7cbb1c03039d25/master/pass/Made-In-China-One-Battery-Company-is-Booming-Business.jpg" alt="Meet the Battery Startup Taking on China’s Giants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prologium-battery-startup-betting-against-china/" target="_blank">Meet the Battery Startup Taking on China’s Giants</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-10 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/" target="_blank">Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-10 17:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +161,20 @@
                 <span class="time">2026-07-10 16:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/hue-bridge-pro-1-500x500.jpg" alt="Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/" target="_blank">Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-10 16:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast" target="_blank">Netflix is turning into YouTube</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-10 16:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/" target="_blank">Disney+ is considering a free streaming tier, report says</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-10 16:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf" target="_blank">GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-10 18:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +220,6 @@
                 <span class="time">2026-07-10 15:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12" target="_blank">Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-10 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/155782_original_local_1200x1050_v3_converted.webp?fit=1050%2C664&amp;quality=55&amp;ssl=1" alt="Sony updates its decade-old RX10 superzoom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/10/sony-updates-its-decade-old-rx10-superzoom.html" target="_blank">Sony updates its decade-old RX10 superzoom</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-10 18:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/GLASS_Front-copy-scaled.jpg?fit=2560%2C1953&amp;quality=60&amp;ssl=1" alt="Coffee machines with no plastics in the brew path" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/10/earn-150-credit-with-this-70-esim.html" target="_blank">Earn $150 credit with this $70 eSIM</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-10 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/waiting-bench-1280x720.jpg" alt="Netflix Reportedly Threatening To Take Over Letterboxd" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/netflix-reportedly-threatening-to-take-over-letterboxd-2000714661" target="_blank">Netflix Reportedly Threatening To Take Over Letterboxd</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-10 14:49</span>
             </div>
         </div>
 </div>
@@ -336,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 18:27 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
