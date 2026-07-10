@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-10 12:50:23 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-10 13:36:16 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 10, 2026 - 12:50 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, July 10, 2026 - 13:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/10/norway-vs-england-world-cup-quarterfinal-haaland-kane-prediction-news?traffic_source=rss" target="_blank">Norway vs England: World Cup quarterfinal – Haaland, Kane, prediction, news</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-10 12:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/nolan-wells-2-ht-gmh-260709_1783604214015_hpMain_4x3t_384.jpg" alt="Parents of Nolan Wells call for &#x27;thorough&#x27; investigation about his mysterious death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +101,6 @@
                 <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco" target="_blank">Developing countries spend more repaying foreign debt than on education, UN reveals</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-07-10 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo" target="_blank">Ebola death toll reaches 600, as new cases suspected in other parts of Congo</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-10 06:33</span>
             </div>
         </div>
 </div>
@@ -168,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/coder_b/til-git-hooks-exist-after-a-decade-of-using-git-d1j" target="_blank">TIL Git Hooks Exist (After a Decade of Using Git)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-10 13:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ali_hamza_589ec7b3eb6688d/day-128-of-learning-mern-stack-5cjd" target="_blank">Day 128 of Learning MERN Stack</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-10 12:41</span>
@@ -180,6 +192,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered  Threats</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-10 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/" target="_blank">Late Bronze Age Collapse</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-10 11:59</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/maskdatabases/why-schema-aware-query-generation-beats-generic-ai-templates-for-production-databases-7c" target="_blank">Why Schema-Aware Query Generation Beats Generic AI Templates for Production Databases</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-10 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LLVM-Clang-NVIDIA-Rosa-Rigel" target="_blank">LLVM Clang Merges Initial Support For NVIDIA Rigel Core With Next-Gen Rosa CPU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-10 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/multi-region-latency-cost-tradeoffs/en/headerimage/multi-region-latency-cost-tradeoffs-header-1783416229477.jpg" alt="Article: Trade-Offs in Multi-Region Architectures: Latency vs. Cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/multi-region-latency-cost-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Trade-Offs in Multi-Region Architectures: Latency vs. Cost</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-10 09:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KX3SAV1A0QK7HBFXZEPG8PQC/hero-image.png" alt="This Dialogue-Enhancing Sony Dolby Atmos Soundbar Is $250 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sony-bravia-theater-bar-6-soundbar-sale-july-2026?utm_medium=RSS" target="_blank">This Dialogue-Enhancing Sony Dolby Atmos Soundbar Is $250 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-10 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/08/78a9f4f099bc1efc26e94269ca2dc46d-1280x720.jpg" alt="The Hunt For Naruto Live-Action Movie Cast Has Begun, According To Spider-Man: Brand New Day Director" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/naruto-movie-casting-destin-daniel-cretton-masashi-kishimoto-team-7-2000714611" target="_blank">The Hunt For Naruto Live-Action Movie Cast Has Begun, According To Spider-Man: Brand New Day Director</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-10 12:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KX3RPCPRRKYNTKA9WNP79Z1V/hero-image.png" alt="This Self-Cleaning iRobot Roomba Is 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/zohran-mamdani-twitch-nyc-mayor-mario-kart-world-bus-2000714306" target="_blank">Zohran Mamdani Played Mario Kart On Twitch, Should Stick To Mayoral Races</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-09 23:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/1500x500.jpg" alt="Bethesda Union Workers Will Hold Rallies Next Week Protesting Mass Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bethesda-workers-rallies-next-week-protesting-mass-layoffs-2000714247" target="_blank">Bethesda Union Workers Will Hold Rallies Next Week Protesting Mass Layoffs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-09 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KX48FN6ZGWM3N55C4CRSDGEV/hero-image.png" alt="Sony&#x27;s Pricey 1000X &#x27;Collexion&#x27; Headphones Just Got Their First Discount" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/sony-1000x-the-collexion-headphones-deal-july-2026?utm_medium=RSS" target="_blank">Sony&#x27;s Pricey 1000X &#x27;Collexion&#x27; Headphones Just Got Their First Discount</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-09 21:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 12:50 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 13:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
