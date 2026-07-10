@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-10 15:45:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-10 16:38:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, July 10, 2026 - 15:45 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, July 10, 2026 - 16:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss" target="_blank">Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-10 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/10/trump-refuses-to-sign-us-housing-bill-over-voting-act-standoff?traffic_source=rss" target="_blank">Trump refuses to sign US housing bill over voting act standoff</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-10 15:17</span>
@@ -65,6 +74,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d786/live/417764c0-7c44-11f1-8ccc-df652c9169a7.jpg" alt="Top Boy actor Micheal Ward found not guilty of rape" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cewq9vznzz5o?at_medium=RSS&at_campaign=rss" target="_blank">Top Boy actor Micheal Ward found not guilty of rape</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-10 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe89/live/7d209130-7c45-11f1-8ccc-df652c9169a7.jpg" alt="East Asia braces for destructive typhoon as landslides kill 15 in Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss" target="_blank">East Asia braces for destructive typhoon as landslides kill 15 in Philippines</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-10 13:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -73,38 +100,38 @@
                 <span class="time">2026-07-10 12:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff1/live/a2c80e40-7c4a-11f1-b92f-f7be89c06628.jpg" alt="Man fatally shot by ICE in Houston was not intended target, DHS says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss" target="_blank">Man fatally shot by ICE in Houston was not intended target, DHS says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-10 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nolan-wells-2-ht-gmh-260709_1783604214015_hpMain_4x3t_384.jpg" alt="Parents of Nolan Wells call for &#x27;thorough&#x27; investigation about his mysterious death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/parents-nolan-wells-call-investigation-seek-answers-mysterious/story?id=134627407" target="_blank">Parents of Nolan Wells call for &#x27;thorough&#x27; investigation about his mysterious death</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-10 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328" alt="Passenger &#x27;partially sucked out of window&#x27; on Ryanair flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/passenger-partially-sucked-out-of-window-on-ryanair-flight-13562267" target="_blank">Passenger &#x27;partially sucked out of window&#x27; on Ryanair flight</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-10 12:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/hue-bridge-pro-1-500x500.jpg" alt="Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/" target="_blank">Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-10 16:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast" target="_blank">Netflix is turning into YouTube</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-10 16:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/" target="_blank">Disney+ is considering a free streaming tier, report says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-10 16:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,33 +157,6 @@
                 <span class="title"><a href="https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/" target="_blank">Volkswagen Group tells its board how to fix it, unions disagree</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-10 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a506c6a96629da7c10e3c06/master/pass/How-to-Share-Your-Location-on-an-iPhone-or-Android.jpg" alt="How to Share Your Location on an iPhone or Android Phone (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-share-your-location-android-ios/" target="_blank">How to Share Your Location on an iPhone or Android Phone (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/963515/doom-the-dark-ages-revelations-review" target="_blank">Doom&amp;#8217;s new expansion shows just what makes id Software special</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cbff9493b7298932e00d65/master/pass/IMG_3324.JPG" alt="Which MacBook to Buy (2026): My Honest Advice on Which to Buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/which-macbook-should-you-buy/" target="_blank">Which MacBook to Buy (2026): My Honest Advice on Which to Buy</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-10 11:31</span>
             </div>
         </div>
 </div>
@@ -238,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/water-baby-1280x720.jpg" alt="The Water In This 2002 Surfing Game Is Blowing People’s Minds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-water-in-this-2002-surfing-game-is-blowing-peoples-minds-2000714695" target="_blank">The Water In This 2002 Surfing Game Is Blowing People’s Minds</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-10 16:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/image-76.jpg" alt="Final Fantasy VII Rebirth Fans Are Still Being Terrorized By Glitched Chocobos Two Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -282,15 +291,6 @@
                 <span class="time">2026-07-10 14:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KX3SAV1A0QK7HBFXZEPG8PQC/hero-image.png" alt="This Dialogue-Enhancing Sony Dolby Atmos Soundbar Is $250 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/sony-bravia-theater-bar-6-soundbar-sale-july-2026?utm_medium=RSS" target="_blank">This Dialogue-Enhancing Sony Dolby Atmos Soundbar Is $250 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-10 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 15:45 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 16:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
