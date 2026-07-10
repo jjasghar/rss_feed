@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-10 16:38:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-10 17:31:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, July 10, 2026 - 16:39 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, July 10, 2026 - 17:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +56,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss" target="_blank">Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-10 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-main_1783582757428_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump agrees to continue talks with Iran, but ceasefire is &#x27;OVER&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: Trump agrees to continue talks with Iran, but ceasefire is &#x27;OVER&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-10 15:47</span>
             </div>
         </div>
 <div class="story">
@@ -83,21 +95,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe89/live/7d209130-7c45-11f1-8ccc-df652c9169a7.jpg" alt="East Asia braces for destructive typhoon as landslides kill 15 in Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ea/live/57cceec0-7c67-11f1-926f-c90d1bcfbc84.jpg" alt="Wildfire in southern Spain leaves at least 12 dead and 23 missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss" target="_blank">East Asia braces for destructive typhoon as landslides kill 15 in Philippines</a></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss" target="_blank">Wildfire in southern Spain leaves at least 12 dead and 23 missing</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-07-10 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/10/norway-vs-england-world-cup-quarterfinal-haaland-kane-prediction-news?traffic_source=rss" target="_blank">Norway vs England: World Cup quarterfinal – Haaland, Kane, prediction, news</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-10 12:57</span>
+                <span class="time">2026-07-10 14:08</span>
             </div>
         </div>
 </div>
@@ -105,6 +108,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls" target="_blank">Spotify will let you fine-tune your weekly Release Radar playlist</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-10 17:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/hue-bridge-pro-1-500x500.jpg" alt="Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +162,38 @@
                 <span class="time">2026-07-10 14:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284728396-500x500.jpg" alt="Volkswagen Group tells its board how to fix it, unions disagree" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/" target="_blank">Volkswagen Group tells its board how to fix it, unions disagree</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-10 13:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://labs.quansight.org/blog/python-abi-abi3t" target="_blank">What Every Python Developer Should Know About the CPython ABI</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-07-10 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/" target="_blank">Better tools made Copilot code review worse. Here’s how we actually improved it.</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-10 15:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/plasma-67-wayland-cachyos" target="_blank">KDE Plasma 6.7 X11 vs. Wayland Session Gaming Performance For NVIDIA On CachyOS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-10 15:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/07/cloudflare-temp-accounts/en/headerimage/generatedHeaderImage-1782506205282.jpg" alt="Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,33 +219,6 @@
                 <span class="title"><a href="https://unstack.io/write-code-like-a-human-will-maintain-it" target="_blank">Write code like a human will maintain it</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-10 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Second-Pipe-GFX11-APU" target="_blank">Linux 7.3 Enabling Second Graphics Pipe For Modern AMD APUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-10 13:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/coder_b/til-git-hooks-exist-after-a-decade-of-using-git-d1j" target="_blank">TIL Git Hooks Exist (After a Decade of Using Git)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-10 13:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ali_hamza_589ec7b3eb6688d/day-128-of-learning-mern-stack-5cjd" target="_blank">Day 128 of Learning MERN Stack</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-10 12:41</span>
             </div>
         </div>
 </div>
@@ -300,6 +303,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/10/drawing" target="_blank">Drawing</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-10 16:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1783647793-20260710.png" alt="Saturday Morning Breakfast Cereal - Final" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/final" target="_blank">Saturday Morning Breakfast Cereal - Final</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-10 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/10/rex-ready-player-one-part-three" target="_blank">Rex Ready Player One, Part Three</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-07-10 07:01</span>
@@ -319,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 16:39 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 17:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
