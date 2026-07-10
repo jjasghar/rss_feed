@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-10 17:31:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-10 18:27:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 10, 2026 - 17:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, July 10, 2026 - 18:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,9 +108,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut" target="_blank">Nvidia&amp;#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-10 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls" target="_blank">Spotify will let you fine-tune your weekly Release Radar playlist</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-10 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/steammachine-500x500.jpg" alt="Valve&#x27;s new Steam Machine verification system is silent on these Steam Deck-busters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/" target="_blank">Valve&#x27;s new Steam Machine verification system is silent on these Steam Deck-busters</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-10 16:53</span>
             </div>
         </div>
 <div class="story">
@@ -144,24 +158,6 @@
                 <span class="time">2026-07-10 16:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/964056/disney-plus-free-tier-report" target="_blank">Disney Plus is reportedly looking into a free streaming tier</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-10 15:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/963382/trump-mobile-t1-phone-review" target="_blank">I spent a week using the Trump phone — it sucks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-10 14:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +170,15 @@
                 <span class="title"><a href="https://labs.quansight.org/blog/python-abi-abi3t" target="_blank">What Every Python Developer Should Know About the CPython ABI</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-07-10 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/" target="_blank">QuadRF can spot drones and see WiFi through my wall</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-10 15:59</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +217,6 @@
                 <span class="time">2026-07-10 14:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://unstack.io/write-code-like-a-human-will-maintain-it" target="_blank">Write code like a human will maintain it</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-10 13:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/GLASS_Front-copy-scaled.jpg?fit=2560%2C1953&amp;quality=60&amp;ssl=1" alt="Coffee machines with no plastics in the brew path" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/10/coffee-machines-with-no-plastics-in-the-brew-path.html" target="_blank">Coffee machines with no plastics in the brew path</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-10 18:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KX6FVWPWA4A3HSWA2NHH43NR/hero-image.png" alt="The Bose QuietComfort Ultra Headphones Are $80 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/bose-quietcomfort-ultra-headphones-deal-july-2026?utm_medium=RSS" target="_blank">The Bose QuietComfort Ultra Headphones Are $80 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-10 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/water-baby-1280x720.jpg" alt="The Water In This 2002 Surfing Game Is Blowing People’s Minds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/netflix-reportedly-threatening-to-take-over-letterboxd-2000714661" target="_blank">Netflix Reportedly Threatening To Take Over Letterboxd</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-10 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KX63W8VGDTCNGZY47708FVHB/hero-image.png" alt="This T-Mobile Deal Gets You a Free Galaxy S26" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/t-mobile-galaxy-s26-deal-july-2026?utm_medium=RSS" target="_blank">This T-Mobile Deal Gets You a Free Galaxy S26</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-10 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Buddy-e1783652169462.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="The first trailer for Buddy isn&#x27;t, you know, for kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/10/the-first-trailer-for-buddy-isnt-you-know-for-kids.html" target="_blank">The first trailer for Buddy isn&#x27;t, you know, for kids</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-10 14:04</span>
             </div>
         </div>
 </div>
@@ -340,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 17:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 18:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
