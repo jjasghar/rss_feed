@@ -1,46 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-10 14:51:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-10 15:45:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 38 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, July 10, 2026 - 14:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, July 10, 2026 - 15:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,9 +50,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/10/trump-refuses-to-sign-us-housing-bill-over-voting-act-standoff?traffic_source=rss" target="_blank">Trump refuses to sign US housing bill over voting act standoff</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-10 15:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature" target="_blank">A major housing bill is set to become law at midnight — even though Trump says he won&#x27;t sign</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-10 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/10/norway-vs-england-world-cup-quarterfinal-haaland-kane-prediction-news?traffic_source=rss" target="_blank">Norway vs England: World Cup quarterfinal – Haaland, Kane, prediction, news</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-10 12:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff1/live/a2c80e40-7c4a-11f1-b92f-f7be89c06628.jpg" alt="Man fatally shot by ICE in Houston was not intended target, DHS says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss" target="_blank">Man fatally shot by ICE in Houston was not intended target, DHS says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-10 12:51</span>
             </div>
         </div>
 <div class="story">
@@ -83,38 +100,20 @@
                 <span class="time">2026-07-10 12:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas" target="_blank">U.S.-Iran fighting appears to pause. And, life inside Israel&#x27;s military zones in Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-10 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/10/eu-states-do-not-need-consensus-to-hold-israel-accountable?traffic_source=rss" target="_blank">EU states do not need ‘consensus’ to hold Israel accountable</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-10 09:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/10/nx-s1-5886113/waymo-police-privacy-driverless-autonomous-vehicles" target="_blank">Waymo called the cops on teen riders, raising privacy concerns</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-10 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/964056/disney-plus-free-tier-report" target="_blank">Disney Plus is reportedly looking into a free streaming tier</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-10 15:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -160,20 +159,20 @@
                 <span class="time">2026-07-10 11:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070926f-lg-500x500.jpg" alt="Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/" target="_blank">Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-10 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/cloudflare-temp-accounts/en/headerimage/generatedHeaderImage-1782506205282.jpg" alt="Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/cloudflare-temp-accounts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-10 15:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12" target="_blank">Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-10 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://unstack.io/write-code-like-a-human-will-maintain-it" target="_blank">Write code like a human will maintain it</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-10 13:33</span>
             </div>
         </div>
 <div class="story">
@@ -210,24 +218,6 @@
                 <span class="time">2026-07-10 12:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/akrites-open-source-ai-threats/en/headerimage/generatedHeaderImage-1783328525989.jpg" alt="Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered  Threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered  Threats</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/" target="_blank">Late Bronze Age Collapse</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-10 11:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/image-76.jpg" alt="Final Fantasy VII Rebirth Fans Are Still Being Terrorized By Glitched Chocobos Two Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-7-rebirth-chocobo-bug-glitch-follows-video-2000714666" target="_blank">Final Fantasy VII Rebirth Fans Are Still Being Terrorized By Glitched Chocobos Two Years Later</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-10 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/aloSIM-Travelers-Mobile-Data-Plan.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Earn $150 credit with this $70 eSIM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/10/earn-150-credit-with-this-70-esim.html" target="_blank">Earn $150 credit with this $70 eSIM</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-10 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/waiting-bench-1280x720.jpg" alt="Netflix Reportedly Threatening To Take Over Letterboxd" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +291,6 @@
                 <span class="time">2026-07-10 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/08/78a9f4f099bc1efc26e94269ca2dc46d-1280x720.jpg" alt="The Hunt For Naruto Live-Action Movie Cast Has Begun, According To Spider-Man: Brand New Day Director" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/naruto-movie-casting-destin-daniel-cretton-masashi-kishimoto-team-7-2000714611" target="_blank">The Hunt For Naruto Live-Action Movie Cast Has Begun, According To Spider-Man: Brand New Day Director</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-10 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KX3RPCPRRKYNTKA9WNP79Z1V/hero-image.png" alt="This Self-Cleaning iRobot Roomba Is 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/irobot-roomba-505x-sale-july-2026?utm_medium=RSS" target="_blank">This Self-Cleaning iRobot Roomba Is 50% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-10 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,22 +314,13 @@
                 <span class="time">2026-07-10 00:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1783535367-20260709.png" alt="Saturday Morning Breakfast Cereal - Zod" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/zod" target="_blank">Saturday Morning Breakfast Cereal - Zod</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-09 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 14:51 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 15:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
