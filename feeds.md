@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-07-10 21:20:53 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-10 22:19:21 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, July 10, 2026 - 21:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, July 10, 2026 - 22:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/10/canadas-bill-c-36-tackles-ai-privacy-is-it-enough?traffic_source=rss" target="_blank">Canada’s Bill C-36 tackles AI privacy. Is it enough?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-10 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins" target="_blank">Graham Platner makes it official in Maine, submitting paperwork to leave Senate race</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-10 21:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/royals-gty-gmh-260710_1783707253397_hpMain_4x3t_384.jpg" alt="Prince Archie, Princess Lilibet reunite with King Charles in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +104,47 @@
                 <span class="time">2026-07-10 19:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss" target="_blank">Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-10 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-main_1783582757428_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump agrees to continue talks with Iran, but ceasefire is &#x27;OVER&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: Trump agrees to continue talks with Iran, but ceasefire is &#x27;OVER&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-10 15:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/" target="_blank">Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-10 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/lm10bcatch2-500x500.jpg" alt="China recovered its first reusable rocket and showed a new way to do it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/" target="_blank">China recovered its first reusable rocket and showed a new way to do it</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-10 21:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets" target="_blank">Apple sues OpenAI for allegedly stealing hardware secrets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-10 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a51395dba309b253cb3d458/master/pass/GettyImages-2233062347.jpg" alt="Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/" target="_blank">Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-10 20:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/questTOP-500x500-1783707910.jpg" alt="Check out the first images of Quest shipwreck" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -115,42 +161,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026" target="_blank">A decade later, Pokémon Go finally made good on its original promise</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-10 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo" target="_blank">ICE is threatening to deport witnesses of its latest shooting</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-10 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4d5408dd7cbb1c03039d25/master/pass/Made-In-China-One-Battery-Company-is-Booming-Business.jpg" alt="Meet the Battery Startup Taking on China’s Giants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prologium-battery-startup-betting-against-china/" target="_blank">Meet the Battery Startup Taking on China’s Giants</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-10 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/" target="_blank">Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-10 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut" target="_blank">Nvidia&amp;#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-10 17:31</span>
             </div>
         </div>
 </div>
@@ -232,6 +242,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Visual-Studio-Professional-2026.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Did anybody expect Microsoft to drop Visual Studio Pro 2026 lifetime licenses for $35?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/10/did-anybody-expect-microsoft-to-drop-visual-studio-pro-2026-lifetime-licenses-for-35.html" target="_blank">Did anybody expect Microsoft to drop Visual Studio Pro 2026 lifetime licenses for $35?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-10 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KX508R4FTB39V6N5BC5WQ6JB/hero-image.jpg" alt="10 Hacks Every Google Home User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -274,15 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/10/coffee-machines-with-no-plastics-in-the-brew-path.html" target="_blank">Coffee machines with no plastics in the brew path</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-10 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KX6FVWPWA4A3HSWA2NHH43NR/hero-image.png" alt="The Bose QuietComfort Ultra Headphones Are $80 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/bose-quietcomfort-ultra-headphones-deal-july-2026?utm_medium=RSS" target="_blank">The Bose QuietComfort Ultra Headphones Are $80 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-10 17:30</span>
             </div>
         </div>
 </div>
@@ -332,7 +342,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 21:20 UTC
+        🔄 Last Updated: 22:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
