@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-10 10:05:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-10 11:57:54 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, July 10, 2026 - 10:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, July 10, 2026 - 11:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +108,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69cbff9493b7298932e00d65/master/pass/IMG_3324.JPG" alt="Which MacBook to Buy (2026): My Honest Advice on Which to Buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/which-macbook-should-you-buy/" target="_blank">Which MacBook to Buy (2026): My Honest Advice on Which to Buy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-10 11:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070926f-lg-500x500.jpg" alt="Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/" target="_blank">Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-10 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/963399/polestar-owners-ban-dealers-service-warranty-lease" target="_blank">Polestar owners left ‘holding the bag’ after EV brand pulls out of the US</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-10 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -133,38 +161,20 @@
                 <span class="time">2026-07-10 00:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a502a0f2e185717fadec4bb/master/pass/WEB_FIDJI%20SIMO-WIRED-2025-0Z2A8962_V3.jpg" alt="OpenAI’s CEO of AGI Deployment Fidji Simo Is Stepping Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/" target="_blank">OpenAI’s CEO of AGI Deployment Fidji Simo Is Stepping Down</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-09 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/komododragon_slasher_ZA_7204-750x500-1-500x500.jpg" alt="Flores Hobbits&#x27; eating habits offer clues about their evolutionary past" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/" target="_blank">Flores Hobbits&#x27; eating habits offer clues about their evolutionary past</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-09 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1615411744-500x500.jpg" alt="Michigan&#x27;s explosive outbreak of diarrheal parasite jumps to over 1,200 cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/" target="_blank">Michigan&#x27;s explosive outbreak of diarrheal parasite jumps to over 1,200 cases</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-09 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-DT-Apple-M3-Pro-Max-Ultra" target="_blank">Linux DT Patches Provide Very Basic Support For Apple M3 Pro / Max / Ultra</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-10 10:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +220,6 @@
                 <span class="time">2026-07-10 05:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Premium-Summer-26-Ending" target="_blank">Phoronix Premium 2026 Summer Support Special Ends Tonight</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-10 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,9 +229,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html" target="_blank">The Language of AI Could Change How Humans Speak</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html" target="_blank">AI Surveillance and Social Progress</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-09 11:00</span>
+                <span class="time">2026-07-10 11:02</span>
             </div>
         </div>
 </div>
@@ -329,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 10:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 11:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
