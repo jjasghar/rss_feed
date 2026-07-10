@@ -1,39 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-07-10 13:36:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-10 14:51:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 38 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, July 10, 2026 - 13:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, July 10, 2026 - 14:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +75,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328" alt="Passenger &#x27;partially sucked out of window&#x27; on Ryanair flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/passenger-partially-sucked-out-of-window-on-ryanair-flight-13562267" target="_blank">Passenger &#x27;partially sucked out of window&#x27; on Ryanair flight</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-10 12:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas" target="_blank">U.S.-Iran fighting appears to pause. And, life inside Israel&#x27;s military zones in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-10 11:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -85,29 +110,38 @@
                 <span class="time">2026-07-10 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4e0/live/9586cd30-7c30-11f1-bee8-53ce494e1abc.jpg" alt="At least 11 dead and 19 missing in wildfire in southern Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss" target="_blank">At least 11 dead and 19 missing in wildfire in southern Spain</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-10 07:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco" target="_blank">Developing countries spend more repaying foreign debt than on education, UN reveals</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-10 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/963382/trump-mobile-t1-phone-review" target="_blank">I spent a week using the Trump phone — it sucks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-10 14:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284728396-500x500.jpg" alt="Volkswagen Group tells its board how to fix it, unions disagree" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/" target="_blank">Volkswagen Group tells its board how to fix it, unions disagree</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-10 13:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a506c6a96629da7c10e3c06/master/pass/How-to-Share-Your-Location-on-an-iPhone-or-Android.jpg" alt="How to Share Your Location on an iPhone or Android Phone (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-share-your-location-android-ios/" target="_blank">How to Share Your Location on an iPhone or Android Phone (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-10 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,38 +169,29 @@
                 <span class="time">2026-07-10 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/963399/polestar-owners-ban-dealers-service-warranty-lease" target="_blank">Polestar owners left ‘holding the bag’ after EV brand pulls out of the US</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-10 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/" target="_blank">After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-10 04:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/" target="_blank">OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-10 00:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12" target="_blank">Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-10 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Second-Pipe-GFX11-APU" target="_blank">Linux 7.3 Enabling Second Graphics Pipe For Modern AMD APUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-10 13:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +228,6 @@
                 <span class="time">2026-07-10 11:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-DT-Apple-M3-Pro-Max-Ultra" target="_blank">Linux DT Patches Provide Very Basic Support For Apple M3 Pro / Max / Ultra</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-10 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maskdatabases/why-schema-aware-query-generation-beats-generic-ai-templates-for-production-databases-7c" target="_blank">Why Schema-Aware Query Generation Beats Generic AI Templates for Production Databases</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-10 10:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +247,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/waiting-bench-1280x720.jpg" alt="Netflix Reportedly Threatening To Take Over Letterboxd" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/netflix-reportedly-threatening-to-take-over-letterboxd-2000714661" target="_blank">Netflix Reportedly Threatening To Take Over Letterboxd</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-10 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KX63W8VGDTCNGZY47708FVHB/hero-image.png" alt="This T-Mobile Deal Gets You a Free Galaxy S26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/t-mobile-galaxy-s26-deal-july-2026?utm_medium=RSS" target="_blank">This T-Mobile Deal Gets You a Free Galaxy S26</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-10 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Buddy-e1783652169462.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="The first trailer for Buddy isn&#x27;t, you know, for kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/10/the-first-trailer-for-buddy-isnt-you-know-for-kids.html" target="_blank">The first trailer for Buddy isn&#x27;t, you know, for kids</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-10 14:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KX3SAV1A0QK7HBFXZEPG8PQC/hero-image.png" alt="This Dialogue-Enhancing Sony Dolby Atmos Soundbar Is $250 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,33 +299,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/irobot-roomba-505x-sale-july-2026?utm_medium=RSS" target="_blank">This Self-Cleaning iRobot Roomba Is 50% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-10 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/JimmyDuke-e1783652040673.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Watch this classic John Ford western for absolutely free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/10/watch-this-classic-john-ford-western-for-absolutely-free.html" target="_blank">Watch this classic John Ford western for absolutely free</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-10 11:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/poop.jpg?fit=1200%2C770&amp;quality=60&amp;ssl=1" alt="A parasite is giving 1,000+ Americans &#x27;explosive&#x27; diarrhea" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/09/post-a-parasite-is-giving-1-000-americans-explosive-dia.html" target="_blank">A parasite is giving 1,000+ Americans &#x27;explosive&#x27; diarrhea</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-10 00:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-09-at-7.10.13-PM-1280x720.jpg" alt="Zohran Mamdani Played Mario Kart On Twitch, Should Stick To Mayoral Races" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/zohran-mamdani-twitch-nyc-mayor-mario-kart-world-bus-2000714306" target="_blank">Zohran Mamdani Played Mario Kart On Twitch, Should Stick To Mayoral Races</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-09 23:31</span>
             </div>
         </div>
 </div>
@@ -331,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 13:36 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 14:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
