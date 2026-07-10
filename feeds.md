@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-10 19:28:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-10 20:28:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, July 10, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, July 10, 2026 - 20:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/10/nx-s1-5870578/ronald-reagan-250th-patriotic-art" target="_blank">Patriotic art gets the spotlight as NEA funding shifts. Cue &#x27;The Ronald Reagan Overture&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-10 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8694/live/49a69120-7c8a-11f1-a046-0508c8c5d104.png" alt="Man arrested on suspicion of murder after death of Ann Widdecombe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvg50lk22jpo?at_medium=RSS&at_campaign=rss" target="_blank">Man arrested on suspicion of murder after death of Ann Widdecombe</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-10 19:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/royals-gty-gmh-260710_1783707253397_hpMain_4x3t_384.jpg" alt="King Charles, Camilla meet with Prince Harry, Meghan and kids in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +103,29 @@
                 <span class="time">2026-07-10 15:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature" target="_blank">A major housing bill is set to become law at midnight — even though Trump says he won&#x27;t sign</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-10 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d786/live/417764c0-7c44-11f1-8ccc-df652c9169a7.jpg" alt="Top Boy actor Micheal Ward found not guilty of rape" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cewq9vznzz5o?at_medium=RSS&at_campaign=rss" target="_blank">Top Boy actor Micheal Ward found not guilty of rape</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-10 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/questTOP-500x500-1783707910.jpg" alt="Check out the first images of Quest shipwreck" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/" target="_blank">Check out the first images of Quest shipwreck</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-10 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026" target="_blank">A decade later, Pokémon Go finally made good on its original promise</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-10 19:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +160,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut" target="_blank">Nvidia&amp;#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-10 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls" target="_blank">Spotify will let you fine-tune your weekly Release Radar playlist</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-10 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/steammachine-500x500.jpg" alt="Valve&#x27;s new Steam Machine verification system is silent on these Steam Deck-busters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/" target="_blank">Valve&#x27;s new Steam Machine verification system is silent on these Steam Deck-busters</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-10 16:53</span>
             </div>
         </div>
 </div>
@@ -240,6 +241,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/captain-america-vs-iron-man-in-m-1280x640.jpg" alt="Everything We Know About Marvel Tōkon: Fighting Souls, The Next Big Marvel Fighter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvel-tokon-fighting-souls-release-date-characters-pc-ps5-2000714734" target="_blank">Everything We Know About Marvel Tōkon: Fighting Souls, The Next Big Marvel Fighter</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-10 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/ambulance.jpg?fit=1200%2C785&amp;quality=60&amp;ssl=1" alt="Why an ambulance ride can cost $12,873 – blame the hearse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/10/post-why-an-ambulance-ride-can-cost-12-873-blame-the-he.html" target="_blank">Why an ambulance ride can cost $12,873 – blame the hearse</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-10 19:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/155782_original_local_1200x1050_v3_converted.webp?fit=1050%2C664&amp;quality=55&amp;ssl=1" alt="Sony updates its decade-old RX10 superzoom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -273,24 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/the-water-in-this-2002-surfing-game-is-blowing-peoples-minds-2000714695" target="_blank">The Water In This 2002 Surfing Game Is Blowing People’s Minds</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-10 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/image-76.jpg" alt="Final Fantasy VII Rebirth Fans Are Still Being Terrorized By Glitched Chocobos Two Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-7-rebirth-chocobo-bug-glitch-follows-video-2000714666" target="_blank">Final Fantasy VII Rebirth Fans Are Still Being Terrorized By Glitched Chocobos Two Years Later</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-10 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/aloSIM-Travelers-Mobile-Data-Plan.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Earn $150 credit with this $70 eSIM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/10/earn-150-credit-with-this-70-esim.html" target="_blank">Earn $150 credit with this $70 eSIM</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-10 15:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 20:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
