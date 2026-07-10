@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-10 00:24:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-10 01:31:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, July 10, 2026 - 00:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, July 10, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/10/how-world-bank-and-imf-loans-are-reshaping-policymaking-in-africa?traffic_source=rss" target="_blank">How World Bank and IMF loans are reshaping policymaking in Africa</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-10 00:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +98,20 @@
                 <span class="time">2026-07-09 22:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/09/nx-s1-5887619/2026-world-cup-fifa-france-morocco-quarterfinal" target="_blank">France downs Morocco 2-0 to advance to the World Cup semifinal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-09 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/" target="_blank">OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-10 00:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a502a0f2e185717fadec4bb/master/pass/WEB_FIDJI%20SIMO-WIRED-2025-0Z2A8962_V3.jpg" alt="OpenAI’s CEO of AGI Deployment Fidji Simo Is Stepping Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +157,29 @@
                 <span class="time">2026-07-09 20:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label" target="_blank">Google will now tell you if an ad was made with AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-09 20:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DC-Enabling-CACP" target="_blank">AMD Enabling CACP Feature On Linux For Greater OLED Power Savings</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-10 00:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-10-2026-red-hat" target="_blank">Friday Five — July 10, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-07-10 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +216,6 @@
                 <span class="time">2026-07-09 17:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/claude-desktop-linux.webp?resize=406%2C232&amp;ssl=1" alt="Claude desktop app for Linux enters beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/claude-desktop-linux-beta" target="_blank">Claude desktop app for Linux enters beta</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-09 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/gpt-5-6/" target="_blank">GPT-5.6</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-09 17:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-09-at-7.10.13-PM-1280x720.jpg" alt="Zohran Mamdani Played Mario Kart On Twitch, Should Stick To Mayoral Races" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/zohran-mamdani-twitch-nyc-mayor-mario-kart-world-bus-2000714306" target="_blank">Zohran Mamdani Played Mario Kart On Twitch, Should Stick To Mayoral Races</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-09 23:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/1500x500.jpg" alt="Bethesda Union Workers Will Hold Rallies Next Week Protesting Mass Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +289,6 @@
                 <span class="time">2026-07-09 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Duress-e1783624131519.jpg?fit=768%2C435&amp;quality=60&amp;ssl=1" alt="Mike Johnson likes birthright citizenship when it scores goals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/09/mike-johnson-likes-birthright-citizenship-when-it-scores-goals.html" target="_blank">Mike Johnson likes birthright citizenship when it scores goals</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-09 19:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,22 +303,13 @@
                 <span class="time">2026-07-09 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5869.png" alt="Body Plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5869" target="_blank">Body Plan</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-09 01:17</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 00:24 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
