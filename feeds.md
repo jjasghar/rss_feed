@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-11 02:58:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-11 04:05:59 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, July 11, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, July 11, 2026 - 04:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +55,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026?traffic_source=rss" target="_blank">Yamal does not mind lack of goals if Spain win World Cup 2026</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-11 02:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg" alt="US wants Iran to pledge to stop shooting at ships in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss" target="_blank">US wants Iran to pledge to stop shooting at ships in Strait of Hormuz</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-11 01:24</span>
             </div>
         </div>
 <div class="story">
@@ -92,15 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/report-says-iranian-regime-plotting-to-kill-trump-266520645923" target="_blank">Report says Iranian regime plotting to kill Trump</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-07-10 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Sports/wirestory_780243a17571b6b2b26074b66feec90a_4x3_384.jpg" alt="Mikel Merino stars again as Spain edges Belgium 2-1 in the World Cup quarterfinals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Sports/wireStory/belgiums-charles-de-ketelaere-ends-spains-world-cup-134661490" target="_blank">Mikel Merino stars again as Spain edges Belgium 2-1 in the World Cup quarterfinals</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-10 22:43</span>
             </div>
         </div>
 </div>
@@ -168,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6rx6905v6qwyzgn8bvij.png" alt="DevBoard: Building a Developer Productivity Hub with React, Node.js, and PostgreSQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jayaprakash_gujjari_f9cd1/devboard-building-a-developer-productivity-hub-with-react-nodejs-and-postgresql-3no9" target="_blank">DevBoard: Building a Developer Productivity Hub with React, Node.js, and PostgreSQL</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-11 03:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17376435/elm11-feather-announcement" target="_blank">ELM11-Feather Is a Feather-Compatible Board That Speaks Lua Natively</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-11 03:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,24 +218,6 @@
                 <span class="title"><a href="https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity" target="_blank">Einstein&#x27;s relativity rules chemical bonds in heavy elements, new research shows</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-10 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf" target="_blank">GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-10 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://labs.quansight.org/blog/python-abi-abi3t" target="_blank">What Every Python Developer Should Know About the CPython ABI</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-07-10 17:17</span>
             </div>
         </div>
 </div>
@@ -335,22 +334,13 @@
                 <span class="time">2026-07-10 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/toasting_marshmallows.png" alt="Toasting Marshmallows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3270/" target="_blank">Toasting Marshmallows</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-07-10 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 04:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
