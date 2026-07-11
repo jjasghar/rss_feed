@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-11 22:14:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-11 23:15:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, July 11, 2026 - 22:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, July 11, 2026 - 23:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3173/live/2ce7b1e0-7d7a-11f1-915e-25692a244600.jpg" alt="Man arrested on suspicion of murder of Ann Widdecombe, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss" target="_blank">Man arrested on suspicion of murder of Ann Widdecombe, police say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-11 23:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/i/rockcms/2026-07/544620/Diseo-sin-ttulo-63-006e7b_b8a196894309b0e55810d177a1190e9c24ca7b08.jpg" alt="Jude Bellingham levanta la mano por Inglaterra y logra el empate ante Noruega" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/jude-bellingham-levanta-la-mano-por-inglaterra-y-logra-el-empate-ante-noruega-tmvo13202845" target="_blank">Jude Bellingham levanta la mano por Inglaterra y logra el empate ante Noruega</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-07-11 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss" target="_blank">US judge dismisses January 6 case against Proud Boys after Trump order</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-11 21:53</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/senators-celebrate-bipartisan-housing-bill-becoming-law-despite/story?id=134676815" target="_blank">Senators celebrate housing bill becoming law despite Trump&#x27;s refusal to sign</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-11 19:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-venezuela-earthquake_7295445.jpg?20260711190445" alt="More than 4,300 confirmed dead in Venezuela earthquakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/more-than-4300-confirmed-dead-in-venezuela-earthquakes-13562615" target="_blank">More than 4,300 confirmed dead in Venezuela earthquakes</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-11 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg" alt="China&#x27;s second typhoon in a week makes landfall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss" target="_blank">China&#x27;s second typhoon in a week makes landfall</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-11 17:41</span>
             </div>
         </div>
 </div>
@@ -165,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/custralis/modernising-a-legacy-as400-ibm-i-system-without-rewriting-it-4k9k" target="_blank">Modernising a legacy AS/400 (IBM i) system without rewriting it</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-11 23:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vystartasv/i-made-a-free-ai-tool-that-plans-your-pqq-responses-38h5" target="_blank">I Made a Free AI Tool That Plans Your PQQ Responses</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-11 21:06</span>
@@ -204,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/merbayerp/password-managers-3-key-differences-for-a-secure-choice-46b8" target="_blank">Password Managers: 3 Key Differences for a Secure Choice</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-11 19:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6dp3lidvmpmweyje4pc.png" alt="THE STAND: Keep the Chant Alive!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/asynchronope/the-stand-keep-the-chant-alive-25hb" target="_blank">THE STAND: Keep the Chant Alive!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-11 18:07</span>
             </div>
         </div>
 </div>
@@ -302,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 22:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 23:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
