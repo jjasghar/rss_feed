@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-11 21:14:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-11 22:14:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, July 11, 2026 - 21:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, July 11, 2026 - 22:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/i/rockcms/2026-07/544620/Diseo-sin-ttulo-63-006e7b_b8a196894309b0e55810d177a1190e9c24ca7b08.jpg" alt="Jude Bellingham levanta la mano por Inglaterra y logra el empate ante Noruega" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/jude-bellingham-levanta-la-mano-por-inglaterra-y-logra-el-empate-ante-noruega-tmvo13202845" target="_blank">Jude Bellingham levanta la mano por Inglaterra y logra el empate ante Noruega</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-11 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss" target="_blank">Argentina vs Switzerland LIVE: FIFA World Cup 2026 quarterfinal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-11 21:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike" target="_blank">Palestinian aid worker who organized World Cup screenings killed in Israeli strike</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-11 21:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/trump-ss-jt-260711_1783784217389_hpMain_4x3t_384.jpg" alt="Senators celebrate housing bill becoming law despite Trump&#x27;s refusal to sign" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,33 +95,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss" target="_blank">China&#x27;s second typhoon in a week makes landfall</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-11 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/813e/live/8858dc40-7cf6-11f1-bbe2-7f9a5a48eac9.jpg" alt="Ann Widdecombe attacked nearly 24 hours before she was found dead, police believe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cgjx912wxw3o?at_medium=RSS&at_campaign=rss" target="_blank">Ann Widdecombe attacked nearly 24 hours before she was found dead, police believe</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-11 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9e/live/f34fa810-7cfd-11f1-926f-c90d1bcfbc84.jpg" alt="Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss" target="_blank">Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-11 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/f_tov_rokhanna_settlers_260711.00_01_06_08.Still001-sjhyo4.jpg" alt="Rep. Ro Khanna says he was detained by Israeli settlers during West Bank visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/rep-ro-khanna-says-he-was-detained-by-israeli-settlers-during-west-bank-visit-266542661983" target="_blank">Rep. Ro Khanna says he was detained by Israeli settlers during West Bank visit</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-11 16:55</span>
             </div>
         </div>
 </div>
@@ -175,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://antjs.org" target="_blank">Show HN: Ant – A JavaScript runtime and ecosystem</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-11 20:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lu1tr0n/tablas-strict-en-sqlite-fin-a-los-bugs-de-tipos-desde-la-337-24m7" target="_blank">Tablas STRICT en SQLite: fin a los bugs de tipos desde la 3.37</a></span>
                 <span class="feed">DEV Community</span>
@@ -208,20 +215,29 @@
                 <span class="time">2026-07-11 18:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://evanhahn.com/prefer-strict-tables-in-sqlite/" target="_blank">Prefer Strict Tables in SQLite</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-11 17:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/doomsday-1280x744.jpg" alt="Official Avengers: Doomsday Art Gives Clearest Look At Returning X-Men, Mystique’s Awful New Haircut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/official-avengers-doomsday-art-gives-clearest-look-at-returning-x-men-mystiques-awful-new-haircut-2000714986" target="_blank">Official Avengers: Doomsday Art Gives Clearest Look At Returning X-Men, Mystique’s Awful New Haircut</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-11 21:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/sam-1.png?fit=1200%2C898&amp;quality=55&amp;ssl=1" alt="You should get a Sam&#x27;s Club Membership for $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/11/you-should-get-a-sams-club-membership-for-25.html" target="_blank">You should get a Sam&#x27;s Club Membership for $25</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-11 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/zuckerberg-1280x720.jpg" alt="Meta Removes Latest AI Integration On Instagram Following SAG-AFTRA Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,24 +274,6 @@
                 <span class="time">2026-07-11 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Kill a subscription and own Microsoft Office Professional 2021 for life for just $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/11/kill-a-subscription-and-own-microsoft-office-professional-2021-for-life-for-just-30.html" target="_blank">Kill a subscription and own Microsoft Office Professional 2021 for life for just $30</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/hopkins.jpeg?fit=2280%2C2280&amp;quality=60&amp;ssl=1" alt="Anthony Hopkins releases first album at 88" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/10/anthony-hopkins-releases-first-album-at-88.html" target="_blank">Anthony Hopkins releases first album at 88</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-10 22:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 21:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 22:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
