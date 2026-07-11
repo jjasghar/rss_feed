@@ -1,28 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-11 15:19:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-11 16:15:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, July 11, 2026 - 15:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, July 11, 2026 - 16:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-2-ap-gmh-260709_1783603288406_hpMain_4x3t_384.jpg" alt="Iran live updates: Khamenei vows revenge for his father’s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: Khamenei vows revenge for his father’s death</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-11 16:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss" target="_blank">Algeria and Mali restore diplomatic ties following yearlong rift</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-11 15:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,24 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss" target="_blank">What is going on in Yemen?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-11 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/11/nx-s1-5881251/opinion-is-democracy-a-joke-count-binface-says-no" target="_blank">Opinion: Is democracy a joke? Count Binface says no.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-11 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara" target="_blank">Nigeria says army has killed 300 bandits in north-western state of Zamfara</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-11 11:59</span>
             </div>
         </div>
 </div>
@@ -159,6 +173,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres" target="_blank">We scaled PgBouncer to 4x throughput</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-11 15:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-13.6-Released" target="_blank">Debian 13.6 Released To Ship All The Latest Security Fixes, Reverts GeoIP Database</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-11 14:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jeromefromhk/the-notification-that-lied-to-me-46lm" target="_blank">The Notification That Lied to Me</a></span>
                 <span class="feed">DEV Community</span>
@@ -190,24 +222,6 @@
                 <span class="title"><a href="https://dev.to/johnnylemonny/passionaut-turn-any-passion-into-an-ai-generated-3d-knowledge-atlas-25gh" target="_blank">Passionaut: Turn Any Passion into an AI-Generated 3D Knowledge Atlas</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-11 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17376559/space-haven-review" target="_blank">I Mined and Built My Way Through Space Haven</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-11 11:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/otaready/setup-automation-is-not-readiness-verification-5fbe" target="_blank">Setup Automation Is Not Readiness Verification</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-11 11:10</span>
             </div>
         </div>
 </div>
@@ -289,6 +303,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1783714459-20260711.png" alt="Saturday Morning Breakfast Cereal - Dadalus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/dadalus" target="_blank">Saturday Morning Breakfast Cereal - Dadalus</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-11 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -306,22 +329,13 @@
                 <span class="time">2026-07-10 16:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1783647793-20260710.png" alt="Saturday Morning Breakfast Cereal - Final" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/final" target="_blank">Saturday Morning Breakfast Cereal - Final</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-10 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 15:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 16:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
