@@ -1,14 +1,18 @@
-<!-- Processing 54 RSS feeds at 2026-07-11 18:14:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-11 19:23:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
@@ -16,24 +20,23 @@
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, July 11, 2026 - 18:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, July 11, 2026 - 19:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-ss-jt-260711_1783784217389_hpMain_4x3t_384.jpg" alt="Senators celebrate housing bill becoming law despite Trump&#x27;s refusal to sign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/senators-celebrate-bipartisan-housing-bill-becoming-law-despite/story?id=134676815" target="_blank">Senators celebrate housing bill becoming law despite Trump&#x27;s refusal to sign</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-11 19:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-venezuela-earthquake_7295445.jpg?20260711190445" alt="More than 4,300 confirmed dead in Venezuela earthquakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/more-than-4300-confirmed-dead-in-venezuela-earthquakes-13562615" target="_blank">More than 4,300 confirmed dead in Venezuela earthquakes</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-11 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/813e/live/8858dc40-7cf6-11f1-bbe2-7f9a5a48eac9.jpg" alt="Ann Widdecombe attacked nearly 24 hours before she was found dead, police believe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cgjx912wxw3o?at_medium=RSS&at_campaign=rss" target="_blank">Ann Widdecombe attacked nearly 24 hours before she was found dead, police believe</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-11 17:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9e/live/f34fa810-7cfd-11f1-926f-c90d1bcfbc84.jpg" alt="Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,33 +104,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting" target="_blank">Justice Department subpoenas New York Times reporters over Air Force One reporting</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-11 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-2-ap-gmh-260709_1783603288406_hpMain_4x3t_384.jpg" alt="Iran live updates: Khamenei vows revenge for his father’s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: Khamenei vows revenge for his father’s death</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-11 16:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss" target="_blank">Algeria and Mali restore diplomatic ties following yearlong rift</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-11 15:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam" target="_blank">The biggest steam locomotive is whistle-stopping across the U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-11 15:14</span>
             </div>
         </div>
 </div>
@@ -168,12 +171,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/merbayerp/password-managers-3-key-differences-for-a-secure-choice-46b8" target="_blank">Password Managers: 3 Key Differences for a Secure Choice</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-11 19:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6dp3lidvmpmweyje4pc.png" alt="THE STAND: Keep the Chant Alive!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/asynchronope/the-stand-keep-the-chant-alive-25hb" target="_blank">THE STAND: Keep the Chant Alive!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-11 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://evanhahn.com/prefer-strict-tables-in-sqlite/" target="_blank">Prefer Strict Tables in SQLite</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-11 17:33</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +224,6 @@
                 <span class="time">2026-07-11 15:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-13.6-Released" target="_blank">Debian 13.6 Released To Ship All The Latest Security Fixes, Reverts GeoIP Database</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-11 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jeromefromhk/the-notification-that-lied-to-me-46lm" target="_blank">The Notification That Lied to Me</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-11 14:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/satyanadella.jpg" alt="Microsoft Responds To Racist Conspiracy Theories About Layoffs: ‘They Were Not Made To Replace Employees With Foreign Workers’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-responds-to-racist-conspiracy-theories-about-layoffs-they-were-not-made-to-replace-employees-with-foreign-workers-2000714977" target="_blank">Microsoft Responds To Racist Conspiracy Theories About Layoffs: ‘They Were Not Made To Replace Employees With Foreign Workers’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-11 19:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/eacollegefootball-1280x720.jpg" alt="EA Reverses Course On College Football 27 Microtransactions Following Player Revolt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +297,6 @@
                 <span class="time">2026-07-10 22:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/Rhotta1.jpg" alt="Rhotta The Hutt Is Ready To Be The Hottest Halloween Costume Of The Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rhotta-the-hutt-is-ready-to-be-the-hottest-halloween-costume-of-the-year-2000714805" target="_blank">Rhotta The Hutt Is Ready To Be The Hottest Halloween Costume Of The Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-10 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 18:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 19:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
