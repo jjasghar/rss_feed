@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-11 20:14:39 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-11 21:14:12 UTC -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, July 11, 2026 - 20:14 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, July 11, 2026 - 21:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +108,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo" target="_blank">After years of teasing, the viral Nopia synth is ‘basically finished’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-11 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger" target="_blank">Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-11 18:44</span>
@@ -149,15 +158,6 @@
                 <span class="time">2026-07-11 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch" target="_blank">A tasty RPG that will make you very hungry</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-11 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,9 +167,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vystartasv/i-made-a-free-ai-tool-that-plans-your-pqq-responses-38h5" target="_blank">I Made a Free AI Tool That Plans Your PQQ Responses</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-11 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lu1tr0n/tablas-strict-en-sqlite-fin-a-los-bugs-de-tipos-desde-la-337-24m7" target="_blank">Tablas STRICT en SQLite: fin a los bugs de tipos desde la 3.37</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-11 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/januscape-linux-vulnerability-mitigations-available" target="_blank">Januscape vulnerability CVE-2026-53359 mitigations available</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-07-11 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -199,43 +217,20 @@
                 <span class="time">2026-07-11 17:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe19vugzqrrghoxoxkwz0.png" alt="cordless v0.6: Going CLI-First — Run It, Scan the QR, You&#x27;re Paired" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/naveenneog/cordless-v06-going-cli-first-run-it-scan-the-qr-youre-paired-4lmo" target="_blank">cordless v0.6: Going CLI-First — Run It, Scan the QR, You&#x27;re Paired</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-11 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/" target="_blank">Modern Decor May Be Straining People&#x27;s Brains</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-11 16:28</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html" target="_blank">Friday Squid Blogging: “Squidbleed” Vulnerability</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-10 21:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/zuckerberg-1280x720.jpg" alt="Meta Removes Latest AI Integration On Instagram Following SAG-AFTRA Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/meta-removes-latest-ai-integration-on-instagram-following-sag-aftra-backlash-2000714982" target="_blank">Meta Removes Latest AI Integration On Instagram Following SAG-AFTRA Backlash</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-11 20:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/satyanadella.jpg" alt="Microsoft Responds To Racist Conspiracy Theories About Layoffs: ‘They Were Not Made To Replace Employees With Foreign Workers’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +276,6 @@
                 <span class="time">2026-07-10 22:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/Rhotta1.jpg" alt="Rotta The Hutt Is Ready To Be The Hottest Halloween Costume Of The Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rotta-the-hutt-is-ready-to-be-the-hottest-halloween-costume-of-the-year-2000714805" target="_blank">Rotta The Hutt Is Ready To Be The Hottest Halloween Costume Of The Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-10 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 20:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 21:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
