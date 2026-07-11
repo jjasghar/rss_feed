@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-11 17:18:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-11 18:14:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, July 11, 2026 - 17:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, July 11, 2026 - 18:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9e/live/f34fa810-7cfd-11f1-926f-c90d1bcfbc84.jpg" alt="Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss" target="_blank">Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-11 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/f_tov_rokhanna_settlers_260711.00_01_06_08.Still001-sjhyo4.jpg" alt="Rep. Ro Khanna says he was detained by Israeli settlers during West Bank visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/rep-ro-khanna-says-he-was-detained-by-israeli-settlers-during-west-bank-visit-266542661983" target="_blank">Rep. Ro Khanna says he was detained by Israeli settlers during West Bank visit</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-11 16:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +103,20 @@
                 <span class="time">2026-07-11 15:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss" target="_blank">UK police free suspect in ex-MP Ann Widdecombe murder investigation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-11 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss" target="_blank">Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-11 13:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/" target="_blank">Smart glasses without a camera? Even Realities bets productivity beats recording everyone</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-11 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +162,20 @@
                 <span class="time">2026-07-11 11:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a4edebe5c4c6eaef4e0bbcd/master/pass/Review--Beatbot-AquaSense-X-Robotic-Pool-Cleaner.jpg" alt="Beatbot AquaSense X Review: A Pool Robot That Cleans Itself" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/beatbot-aquasense-x/" target="_blank">Beatbot AquaSense X Review: A Pool Robot That Cleans Itself</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-11 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6dp3lidvmpmweyje4pc.png" alt="THE STAND: Keep the Chant Alive!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/asynchronope/the-stand-keep-the-chant-alive-25hb" target="_blank">THE STAND: Keep the Chant Alive!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-11 18:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe19vugzqrrghoxoxkwz0.png" alt="cordless v0.6: Going CLI-First — Run It, Scan the QR, You&#x27;re Paired" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +221,6 @@
                 <span class="time">2026-07-11 14:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc3-Multi-GPU-Fix" target="_blank">Linux 7.2-rc3 Bringing Display Detection Improvement To Help Some Multi-GPU Systems</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-11 13:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/eacollegefootball-1280x720.jpg" alt="EA Reverses Course On College Football 27 Microtransactions Following Player Revolt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ea-sports-reverses-course-on-college-football-microtransactions-following-player-revolt-2000714972" target="_blank">EA Reverses Course On College Football 27 Microtransactions Following Player Revolt</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-11 18:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/AVowed-1.jpg" alt="Obsidian Game Director Hits Back At ‘Cold Take Artists’ ‘Running Their Mouths’ About The Studio In The Wake Of Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +294,6 @@
                 <span class="time">2026-07-10 22:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Visual-Studio-Professional-2026.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Did anybody expect Microsoft to drop Visual Studio Pro 2026 lifetime licenses for $35?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/10/did-anybody-expect-microsoft-to-drop-visual-studio-pro-2026-lifetime-licenses-for-35.html" target="_blank">Did anybody expect Microsoft to drop Visual Studio Pro 2026 lifetime licenses for $35?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-10 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 17:19 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 18:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
