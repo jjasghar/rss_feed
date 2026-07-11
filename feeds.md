@@ -1,31 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-11 00:18:53 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-11 01:31:10 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, July 11, 2026 - 00:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, July 11, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss" target="_blank">Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-11 01:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/wh-4-ap-gmh-260710_1783694262407_hpMain_4x3t_384.jpg" alt="White House entrance undergoing &#x27;security enhancements and upgrades&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/white-house-entrance-undergoing-security-enhancements-upgrades/story?id=134660365" target="_blank">White House entrance undergoing &#x27;security enhancements and upgrades&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-11 00:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +106,38 @@
                 <span class="time">2026-07-10 21:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/royals-gty-gmh-260710_1783707253397_hpMain_4x3t_384.jpg" alt="Prince Archie, Princess Lilibet reunite with King Charles in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/king-charles-iii-queen-camilla-meet-prince-harry/story?id=134657471" target="_blank">Prince Archie, Princess Lilibet reunite with King Charles in UK</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-10 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/10/nx-s1-5870578/ronald-reagan-250th-patriotic-art" target="_blank">Patriotic art gets the spotlight as NEA funding shifts. Cue &#x27;The Ronald Reagan Overture&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-10 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a518d0cb6767a97076bfe9e/master/pass/GettyImages-2283356667.jpg" alt="OpenAI’s Head of Safety Is Leaving the Company" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-head-of-safety-leaving/" target="_blank">OpenAI’s Head of Safety Is Leaving the Company</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-11 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/" target="_blank">US cyber agency CISA had to build its incident playbook during the incident, agency reveals</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-11 01:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter" target="_blank">No, Flock isn&amp;#8217;t threatening people for debating surveillance</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-11 00:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -119,39 +157,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/" target="_blank">Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-10 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/lm10bcatch2-500x500.jpg" alt="China recovered its first reusable rocket and showed a new way to do it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/10/Sycamore-Rainbow-cropped-500x500.jpg" alt="Quantum error correction can constantly recalibrate a processor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/" target="_blank">China recovered its first reusable rocket and showed a new way to do it</a></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/" target="_blank">Quantum error correction can constantly recalibrate a processor</a></span>
                 <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-10 21:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets" target="_blank">Apple sues OpenAI for allegedly stealing hardware secrets</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-10 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a51395dba309b253cb3d458/master/pass/GettyImages-2233062347.jpg" alt="Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/" target="_blank">Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-10 20:44</span>
+                <span class="time">2026-07-10 23:02</span>
             </div>
         </div>
 </div>
@@ -159,6 +170,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Frosted-Glass-Arrives" target="_blank">Pop!_OS Rolls Out Its &quot;Frosted Glass&quot; Desktop Style For COSMIC</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-11 00:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity" target="_blank">Einstein&#x27;s relativity rules chemical bonds in heavy elements, new research shows</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-10 22:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +222,6 @@
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/" target="_blank">Better tools made Copilot code review worse. Here’s how we actually improved it.</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-07-10 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/plasma-67-wayland-cachyos" target="_blank">KDE Plasma 6.7 X11 vs. Wayland Session Gaming Performance For NVIDIA On CachyOS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-10 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/cloudflare-temp-accounts/en/headerimage/generatedHeaderImage-1782506205282.jpg" alt="Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/cloudflare-temp-accounts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-10 15:16</span>
             </div>
         </div>
 </div>
@@ -251,6 +262,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/Rhotta1.jpg" alt="Rhotta The Hutt Is Ready To Be The Hottest Halloween Costume Of The Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rhotta-the-hutt-is-ready-to-be-the-hottest-halloween-costume-of-the-year-2000714805" target="_blank">Rhotta The Hutt Is Ready To Be The Hottest Halloween Costume Of The Year</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-10 22:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Visual-Studio-Professional-2026.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Did anybody expect Microsoft to drop Visual Studio Pro 2026 lifetime licenses for $35?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -286,15 +306,6 @@
                 <span class="time">2026-07-10 19:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/155782_original_local_1200x1050_v3_converted.webp?fit=1050%2C664&amp;quality=55&amp;ssl=1" alt="Sony updates its decade-old RX10 superzoom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/10/sony-updates-its-decade-old-rx10-superzoom.html" target="_blank">Sony updates its decade-old RX10 superzoom</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-10 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,22 +338,13 @@
                 <span class="time">2026-07-10 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5870.png" alt="A Modest Proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5870" target="_blank">A Modest Proposal</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-10 00:52</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 00:19 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
