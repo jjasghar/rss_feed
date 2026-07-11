@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-11 12:14:20 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-11 13:28:01 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, July 11, 2026 - 12:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, July 11, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss" target="_blank">What is going on in Yemen?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-11 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/11/nx-s1-5881251/opinion-is-democracy-a-joke-count-binface-says-no" target="_blank">Opinion: Is democracy a joke? Count Binface says no.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-11 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara" target="_blank">Nigeria says army has killed 300 bandits in north-western state of Zamfara</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-11 11:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,33 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota" target="_blank">Minnesota is pulling troops early from D.C., as pressure grows on Michigan</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-11 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/11/world-cup-wrap-day-30?traffic_source=rss" target="_blank">World cup wrap day 30</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-11 09:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/11/cuba-suffers-second-nationwide-blackout-in-five-days?traffic_source=rss" target="_blank">Cuba suffers second nationwide blackout in five days</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-11 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-wildfire-spain-almeria_7294603.jpg?20260710140846" alt="Rescuers search for Spanish wildfire survivors as woman issues plea for help over missing parents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/rescuers-search-for-spanish-wildfire-survivors-as-woman-issues-plea-for-help-over-missing-parents-13562489" target="_blank">Rescuers search for Spanish wildfire survivors as woman issues plea for help over missing parents</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-11 08:41</span>
             </div>
         </div>
 </div>
@@ -160,6 +164,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc3-Multi-GPU-Fix" target="_blank">Linux 7.3-rc3 Bringing Display Detection Improvement To Help Some Multi-GPU Systems</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-11 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5he6fr6opyeb5u9zmkg9.png" alt="Passionaut: Turn Any Passion into an AI-Generated 3D Knowledge Atlas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johnnylemonny/passionaut-turn-any-passion-into-an-ai-generated-3d-knowledge-atlas-25gh" target="_blank">Passionaut: Turn Any Passion into an AI-Generated 3D Knowledge Atlas</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-11 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17376559/space-haven-review" target="_blank">I Mined and Built My Way Through Space Haven</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-11 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/otaready/setup-automation-is-not-readiness-verification-5fbe" target="_blank">Setup Automation Is Not Readiness Verification</a></span>
                 <span class="feed">DEV Community</span>
@@ -182,33 +213,6 @@
                 <span class="title"><a href="https://dev.to/claudia-ve/the-architecture-of-on-chain-ai-agent-execution-beyond-smart-contracts-4jlj" target="_blank">The Architecture of On-Chain AI Agent Execution: Beyond Smart Contracts</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-11 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codemaster_121482/how-to-hunt-a-bug-at-10-pm-5gkf" target="_blank">How to Hunt a Bug at 10 PM 🌙</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-11 09:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/motionmind2007/levelo-js-v2-the-typescript-rebirth-412c" target="_blank">Levelo-Js v2: The TypeScript Rebirth</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-11 06:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6rx6905v6qwyzgn8bvij.png" alt="DevBoard: Building a Developer Productivity Hub with React, Node.js, and PostgreSQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jayaprakash_gujjari_f9cd1/devboard-building-a-developer-productivity-hub-with-react-nodejs-and-postgresql-3no9" target="_blank">DevBoard: Building a Developer Productivity Hub with React, Node.js, and PostgreSQL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-11 03:59</span>
             </div>
         </div>
 </div>
@@ -322,7 +326,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 12:14 UTC
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
