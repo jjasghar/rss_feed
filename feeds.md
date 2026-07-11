@@ -1,42 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-11 01:31:10 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-11 02:58:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, July 11, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, July 11, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026?traffic_source=rss" target="_blank">Yamal does not mind lack of goals if Spain win World Cup 2026</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-11 02:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,30 +86,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783724773164_nn_kod_iran_trump_assassination_plot_260710_S3_1920x1080-ktcbh4.jpg" alt="Report says Iranian regime plotting to kill Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/report-says-iranian-regime-plotting-to-kill-trump-266520645923" target="_blank">Report says Iranian regime plotting to kill Trump</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-10 23:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Sports/wirestory_780243a17571b6b2b26074b66feec90a_4x3_384.jpg" alt="Mikel Merino stars again as Spain edges Belgium 2-1 in the World Cup quarterfinals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Sports/wireStory/belgiums-charles-de-ketelaere-ends-spains-world-cup-134661490" target="_blank">Mikel Merino stars again as Spain edges Belgium 2-1 in the World Cup quarterfinals</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-10 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/10/canadas-bill-c-36-tackles-ai-privacy-is-it-enough?traffic_source=rss" target="_blank">Canada’s Bill C-36 tackles AI privacy. Is it enough?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-10 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins" target="_blank">Graham Platner makes it official in Maine, submitting paperwork to leave Senate race</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-10 21:22</span>
             </div>
         </div>
 </div>
@@ -173,6 +170,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/irislinl7r8/i-built-7-mvps-in-12-months-heres-what-actually-worked-2go0" target="_blank">I Built 7 MVPs in 12 Months — Here&#x27;s What Actually Worked</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-11 02:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/dbusbroker.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 retires dbus-daemon after 22 year run as default" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-26-10-dbus-broker" target="_blank">Ubuntu 26.10 retires dbus-daemon after 22 year run as default</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-11 01:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Frosted-Glass-Arrives" target="_blank">Pop!_OS Rolls Out Its &quot;Frosted Glass&quot; Desktop Style For COSMIC</a></span>
                 <span class="feed">Phoronix</span>
@@ -204,24 +219,6 @@
                 <span class="title"><a href="https://labs.quansight.org/blog/python-abi-abi3t" target="_blank">What Every Python Developer Should Know About the CPython ABI</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-07-10 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/" target="_blank">QuadRF can spot drones and see WiFi through my wall</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-10 15:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/" target="_blank">Better tools made Copilot code review worse. Here’s how we actually improved it.</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-10 15:57</span>
             </div>
         </div>
 </div>
@@ -338,13 +335,22 @@
                 <span class="time">2026-07-10 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/toasting_marshmallows.png" alt="Toasting Marshmallows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3270/" target="_blank">Toasting Marshmallows</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-07-10 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
