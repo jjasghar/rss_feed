@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-11 16:15:07 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-11 17:18:49 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, July 11, 2026 - 16:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, July 11, 2026 - 17:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting" target="_blank">Justice Department subpoenas New York Times reporters over Air Force One reporting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-11 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-2-ap-gmh-260709_1783603288406_hpMain_4x3t_384.jpg" alt="Iran live updates: Khamenei vows revenge for his father’s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss" target="_blank">Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-11 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss" target="_blank">What is going on in Yemen?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-11 12:53</span>
             </div>
         </div>
 </div>
@@ -171,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe19vugzqrrghoxoxkwz0.png" alt="cordless v0.6: Going CLI-First — Run It, Scan the QR, You&#x27;re Paired" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/naveenneog/cordless-v06-going-cli-first-run-it-scan-the-qr-youre-paired-4lmo" target="_blank">cordless v0.6: Going CLI-First — Run It, Scan the QR, You&#x27;re Paired</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-11 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/" target="_blank">Modern Decor May Be Straining People&#x27;s Brains</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-11 16:28</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -206,24 +218,6 @@
                 <span class="time">2026-07-11 13:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc3-Multi-GPU-Fix" target="_blank">Linux 7.3-rc3 Bringing Display Detection Improvement To Help Some Multi-GPU Systems</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-11 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5he6fr6opyeb5u9zmkg9.png" alt="Passionaut: Turn Any Passion into an AI-Generated 3D Knowledge Atlas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johnnylemonny/passionaut-turn-any-passion-into-an-ai-generated-3d-knowledge-atlas-25gh" target="_blank">Passionaut: Turn Any Passion into an AI-Generated 3D Knowledge Atlas</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-11 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/AVowed-1.jpg" alt="Obsidian Game Director Hits Back At ‘Cold Take Artists’ ‘Running Their Mouths’ About The Studio In The Wake Of Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/obsidian-game-director-hits-back-at-cold-take-artists-making-up-stuff-about-the-studio-in-the-wake-of-layoffs-2000714963" target="_blank">Obsidian Game Director Hits Back At ‘Cold Take Artists’ ‘Running Their Mouths’ About The Studio In The Wake Of Layoffs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-11 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Kill a subscription and own Microsoft Office Professional 2021 for life for just $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/11/kill-a-subscription-and-own-microsoft-office-professional-2021-for-life-for-just-30.html" target="_blank">Kill a subscription and own Microsoft Office Professional 2021 for life for just $30</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-11 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/hopkins.jpeg?fit=2280%2C2280&amp;quality=60&amp;ssl=1" alt="Anthony Hopkins releases first album at 88" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +291,6 @@
                 <span class="time">2026-07-10 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KX508R4FTB39V6N5BC5WQ6JB/hero-image.jpg" alt="10 Hacks Every Google Home User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-google-home-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Google Home User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-10 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/captain-america-vs-iron-man-in-m-1280x640.jpg" alt="Everything We Know About Marvel Tōkon: Fighting Souls, The Next Big Marvel Fighter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-tokon-fighting-souls-release-date-characters-pc-ps5-2000714734" target="_blank">Everything We Know About Marvel Tōkon: Fighting Souls, The Next Big Marvel Fighter</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-10 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,22 +314,13 @@
                 <span class="time">2026-07-10 23:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/10/drawing" target="_blank">Drawing</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-10 16:18</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 16:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 17:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
