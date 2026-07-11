@@ -1,33 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-11 05:50:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-11 06:41:05 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, July 11, 2026 - 05:50 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, July 11, 2026 - 06:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -162,6 +158,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/motionmind2007/levelo-js-v2-the-typescript-rebirth-412c" target="_blank">Levelo-Js v2: The TypeScript Rebirth</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-11 06:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6rx6905v6qwyzgn8bvij.png" alt="DevBoard: Building a Developer Productivity Hub with React, Node.js, and PostgreSQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +211,6 @@
                 <span class="time">2026-07-11 00:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity" target="_blank">Einstein&#x27;s relativity rules chemical bonds in heavy elements, new research shows</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-10 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -253,6 +249,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/Rhotta1.jpg" alt="Rotta The Hutt Is Ready To Be The Hottest Halloween Costume Of The Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rotta-the-hutt-is-ready-to-be-the-hottest-halloween-costume-of-the-year-2000714805" target="_blank">Rotta The Hutt Is Ready To Be The Hottest Halloween Costume Of The Year</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-10 22:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/Rhotta1.jpg" alt="Rhotta The Hutt Is Ready To Be The Hottest Halloween Costume Of The Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -286,15 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/marvel-tokon-fighting-souls-release-date-characters-pc-ps5-2000714734" target="_blank">Everything We Know About Marvel Tōkon: Fighting Souls, The Next Big Marvel Fighter</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-10 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/ambulance.jpg?fit=1200%2C785&amp;quality=60&amp;ssl=1" alt="Why an ambulance ride can cost $12,873 – blame the hearse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/10/post-why-an-ambulance-ride-can-cost-12-873-blame-the-he.html" target="_blank">Why an ambulance ride can cost $12,873 – blame the hearse</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-10 19:37</span>
             </div>
         </div>
 </div>
@@ -343,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 05:50 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 06:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
