@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-11 13:28:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-11 14:25:19 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, July 11, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, July 11, 2026 - 14:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss" target="_blank">Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-11 13:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +101,29 @@
                 <span class="time">2026-07-11 11:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota" target="_blank">Minnesota is pulling troops early from D.C., as pressure grows on Michigan</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-11 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/" target="_blank">OpenAI bets on families as ChatGPT goes deeper into households</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-11 14:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-4-500x500.jpeg" alt="A Jupiter-size planet that escaped its star&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/" target="_blank">A Jupiter-size planet that escaped its star&#x27;s death</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-11 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +160,29 @@
                 <span class="time">2026-07-11 07:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a51c4611853603a10cc09d0/master/pass/JayZ-BTS-Culture-7-4.jpg" alt="Exclusive: How Jay-Z Pulled Off a Surprise-Filled Show During New York’s Wildest Summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/exclusive-how-jay-z-pulled-off-a-surprise-filled-show-during-new-yorks-wildest-summer/" target="_blank">Exclusive: How Jay-Z Pulled Off a Surprise-Filled Show During New York’s Wildest Summer</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-11 04:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a518d0cb6767a97076bfe9e/master/pass/GettyImages-2283356667.jpg" alt="OpenAI’s Head of Safety Is Leaving the Company" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-head-of-safety-leaving/" target="_blank">OpenAI’s Head of Safety Is Leaving the Company</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-11 01:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jeromefromhk/the-notification-that-lied-to-me-46lm" target="_blank">The Notification That Lied to Me</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-11 14:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc3-Multi-GPU-Fix" target="_blank">Linux 7.2-rc3 Bringing Display Detection Improvement To Help Some Multi-GPU Systems</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-11 13:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/otaready/setup-automation-is-not-readiness-verification-5fbe" target="_blank">Setup Automation Is Not Readiness Verification</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-11 11:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LLVM-x86-LFI-Merged" target="_blank">LLVM Merges x86 LFI &quot;Lightweight Fault Isolation&quot; Target For In-Process Sandboxing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-11 10:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/claudia-ve/the-architecture-of-on-chain-ai-agent-execution-beyond-smart-contracts-4jlj" target="_blank">The Architecture of On-Chain AI Agent Execution: Beyond Smart Contracts</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-11 10:08</span>
             </div>
         </div>
 </div>
@@ -325,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 14:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
