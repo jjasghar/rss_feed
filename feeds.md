@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 13:27:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-12 14:27:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 33 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 13:28 UTC</div>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 14:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/scott-graham-20260712-ap-jh_1783861073575_hpMain_4x3t_384.jpg" alt="&#x27;Lindsey Graham was irreplaceable&#x27;: South Carolina Sen. Tim Scott" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/lindsey-graham-irreplaceable-south-carolina-sen-tim-scott/story?id=134689712" target="_blank">&#x27;Lindsey Graham was irreplaceable&#x27;: South Carolina Sen. Tim Scott</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-12 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4545/live/1a6c45a0-7dd7-11f1-91f9-abeb669686c2.jpg" alt="Police say no suggestion of political motive in Widdecombe killing after new arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss" target="_blank">Police say no suggestion of political motive in Widdecombe killing after new arrest</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-12 13:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +98,20 @@
                 <span class="time">2026-07-12 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss" target="_blank">IRGC releases video of retaliatory missile strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-12 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5803170/farmers-fish-rice-snails-tropical-disease" target="_blank">Could fish be a secret ingredient for rice farmers to avoid disease and make more money?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-12 10:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables" target="_blank">Less is more with the Oura Ring 5</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-12 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,15 +157,6 @@
                 <span class="time">2026-07-11 20:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger" target="_blank">Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-11 18:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -192,6 +184,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Harmonic-Firmware-Initiative" target="_blank">HFI BIOS Aims To Provide A POST-Like Power On Screen &amp; BIOS Setup Utility For RISC-V</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-12 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Realtek-RTL8723BS-WiFi-Bad-APs" target="_blank">Realtek RTL8723BS WiFi Linux Driver Hardened Against Malicious WiFi Access Points</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-12 10:15</span>
@@ -213,15 +214,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17376876/linux-handhelds" target="_blank">8 Linux Handheld Computers You Can Splurge On</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-07-12 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jothini_ea21c8cbf21ffc20c/why-http-query-understanding-the-new-http-method-for-modern-api-design-3nd8" target="_blank">Why HTTP QUERY? Understanding the New HTTP Method for Modern API Design</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-12 05:53</span>
             </div>
         </div>
 </div>
@@ -302,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 14:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
