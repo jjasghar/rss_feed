@@ -1,29 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 17:20:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-12 18:15:13 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 17:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 18:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/who-will-replace-trump-ally-lindsey-graham-in-the-us-senate?traffic_source=rss" target="_blank">Who will replace Trump ally Lindsey Graham in the US Senate?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-12 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival" target="_blank">Toronto police looking for suspects after deadly shooting at festival</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-12 17:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,30 +87,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/Politics/scott-graham-20260712-ap-jh_1783861073575_hpMain_4x3t_384.jpg" alt="&#x27;Lindsey Graham was irreplaceable&#x27;: South Carolina Sen. Tim Scott" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-yulia-svyrydenko-prime-minister_7296070.jpg?20260712172826" alt="Ukraine&#x27;s prime minister stepping down after only a year, in Zelenskyy reshuffle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/lindsey-graham-irreplaceable-south-carolina-sen-tim-scott/story?id=134689712" target="_blank">&#x27;Lindsey Graham was irreplaceable&#x27;: South Carolina Sen. Tim Scott</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-12 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4545/live/1a6c45a0-7dd7-11f1-91f9-abeb669686c2.jpg" alt="Police say no suggestion of political motive in Widdecombe killing after new arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss" target="_blank">Police say no suggestion of political motive in Widdecombe killing after new arrest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-12 13:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants" target="_blank">A Bible passage is at the center of a debate over how the U.S. should treat immigrants</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-12 11:57</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ukraines-prime-minister-stepping-down-after-only-a-year-in-zelenskyy-reshuffle-13562826" target="_blank">Ukraine&#x27;s prime minister stepping down after only a year, in Zelenskyy reshuffle</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-12 14:43</span>
             </div>
         </div>
 </div>
@@ -158,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu26zbnqqpcyq121dg0fb.png" alt="We Taught a Snowflake Warehouse to Judge World Cup Conviction and Write the Verdict Back to Solana" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/soumyadeepdey/we-taught-a-snowflake-warehouse-to-judge-world-cup-conviction-and-write-the-verdict-back-to-solana-305i" target="_blank">We Taught a Snowflake Warehouse to Judge World Cup Conviction and Write the Verdict Back to Solana</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-12 18:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -179,6 +190,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/" target="_blank">Old and new apps, via modern coding agents</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-12 11:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/" target="_blank">Old and new apps, via modern coding agents by Terry Tao</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-12 11:09</span>
@@ -193,29 +213,20 @@
                 <span class="time">2026-07-12 10:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Realtek-RTL8723BS-WiFi-Bad-APs" target="_blank">Realtek RTL8723BS WiFi Linux Driver Hardened Against Malicious WiFi Access Points</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-12 10:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/cloudflare-hyper-bug-fix/en/headerimage/generatedHeaderImage-1782836612244.jpg" alt="Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/cloudflare-hyper-bug-fix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-12 06:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/vanillaso1-1280x667.jpg" alt="Vanillaware Artist Moved Into The Mountains For Six Years To Create Lush Love Letter To Old School RPGs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/vanillaware-artist-moved-into-the-mountains-for-six-years-to-create-lush-love-letter-to-old-school-rpgs-2000715013" target="_blank">Vanillaware Artist Moved Into The Mountains For Six Years To Create Lush Love Letter To Old School RPGs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-12 17:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/made-in-usa-monopoly-dice.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="A company tried to make Monopoly in America and couldn&#x27;t get dice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,15 +272,6 @@
                 <span class="time">2026-07-11 20:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/satyanadella.jpg" alt="Microsoft Responds To Racist Conspiracy Theories About Layoffs: ‘They Were Not Made To Replace Employees With Foreign Workers’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-responds-to-racist-conspiracy-theories-about-layoffs-they-were-not-made-to-replace-employees-with-foreign-workers-2000714977" target="_blank">Microsoft Responds To Racist Conspiracy Theories About Layoffs: ‘They Were Not Made To Replace Employees With Foreign Workers’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-11 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -289,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 17:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 18:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
