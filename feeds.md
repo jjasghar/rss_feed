@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 01:31:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-12 02:59:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/185/767/47107274779-1080pnbcstations.jpg" alt="¡Gol de Suiza! Dan Ndoye empata el duelo ante Argentina" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gol-de-suiza-dan-ndoye-empata-el-duelo-ante-argentina-tmvo13202940" target="_blank">¡Gol de Suiza! Dan Ndoye empata el duelo ante Argentina</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-12 02:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-toronto-festival-shooting_7295643.jpg?20260712033116" alt="Two dead and four injured in shooting at Toronto street festival" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/two-dead-and-four-injured-in-shooting-at-toronto-festival-police-say-13562675" target="_blank">Two dead and four injured in shooting at Toronto street festival</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-12 01:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/11/nx-s1-5890213/missouri-kentucky-summer-camp-flooding" target="_blank">200 young campers rescued as flooding hits parts of Missouri and Kentucky</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-12 01:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/IRAN-CRISIS-SHIPPING-UN_1783811209395_hpMain_4x3t_384.jpg" alt="Iran live updates: US strikes Iran after cargo ship attacked, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,33 +96,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss" target="_blank">Man arrested on suspicion of murder of Ann Widdecombe, police say</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-11 23:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/i/rockcms/2026-07/544620/Diseo-sin-ttulo-63-006e7b_b8a196894309b0e55810d177a1190e9c24ca7b08.jpg" alt="Jude Bellingham levanta la mano por Inglaterra y logra el empate ante Noruega" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/jude-bellingham-levanta-la-mano-por-inglaterra-y-logra-el-empate-ante-noruega-tmvo13202845" target="_blank">Jude Bellingham levanta la mano por Inglaterra y logra el empate ante Noruega</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-11 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss" target="_blank">US judge dismisses January 6 case against Proud Boys after Trump order</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-11 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss" target="_blank">Argentina vs Switzerland LIVE: FIFA World Cup 2026 quarterfinal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-11 21:31</span>
             </div>
         </div>
 </div>
@@ -159,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8bmnmlr9jkjusv1ifwkd.jpg" alt="I built a Rofi assistant so my mom could stop calling me for Linux help" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rapacuy-dev/i-built-a-rofi-assistant-so-my-mom-could-stop-calling-me-for-linux-help-j48" target="_blank">I built a Rofi assistant so my mom could stop calling me for Linux help</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-12 02:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -179,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.iroh.computer/blog/mesh-llm" target="_blank">Mesh LLM: distributed AI computing on iroh</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-11 22:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vystartasv/i-made-a-free-ai-tool-that-plans-your-pqq-responses-38h5" target="_blank">I Made a Free AI Tool That Plans Your PQQ Responses</a></span>
                 <span class="feed">DEV Community</span>
@@ -192,24 +214,6 @@
                 <span class="title"><a href="https://antjs.org" target="_blank">Show HN: Ant – A JavaScript runtime and ecosystem</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-11 20:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lu1tr0n/tablas-strict-en-sqlite-fin-a-los-bugs-de-tipos-desde-la-337-24m7" target="_blank">Tablas STRICT en SQLite: fin a los bugs de tipos desde la 3.37</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-11 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/januscape-linux-vulnerability-mitigations-available" target="_blank">Januscape vulnerability CVE-2026-53359 mitigations available</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-07-11 20:00</span>
             </div>
         </div>
 </div>
@@ -290,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
