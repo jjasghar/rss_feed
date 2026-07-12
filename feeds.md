@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 05:58:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-12 07:02:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 05:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/AP26103627413359_1783838393156_hpMain_4x3t_384.jpg" alt="Sen. Lindsey Graham of South Carolina dies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/sen-lindsey-graham-south-carolina-dies-71/story?id=134688641" target="_blank">Sen. Lindsey Graham of South Carolina dies</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-12 06:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45d7/live/6c178e10-7dbd-11f1-ad4b-13d0aac581db.jpg" alt="US launches fresh strikes as Iran closes Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss" target="_blank">US launches fresh strikes as Iran closes Strait of Hormuz</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-12 06:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss" target="_blank">US Senator Lindsey Graham passes away</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-12 06:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/centcom7-11_1783828408620_hpMain_4x3t_384.jpg" alt="Iran live updates: Gulf countries under attack after US retaliatory strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,33 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals" target="_blank">Alvarez&#x27;s 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-12 04:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/centcom7-11_1783828408620_hpMain_4x3t_384.jpg" alt="Iran live updates: US completes 3rd round of retaliatory strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: US completes 3rd round of retaliatory strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-12 04:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/183/315/47108320675-1080pnbcstations.jpg" alt="Lautaro Martínez liquida a Suiza en el tiempo extra y Argentina pasa a semifinales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/lautaro-martinez-liquida-a-suiza-en-el-tiempo-extra-y-argentina-pasa-a-semifinales-tmvo13202954" target="_blank">Lautaro Martínez liquida a Suiza en el tiempo extra y Argentina pasa a semifinales</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-12 03:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/185/767/47107274779-1080pnbcstations.jpg" alt="¡Gol de Suiza! Dan Ndoye empata el duelo ante Argentina" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gol-de-suiza-dan-ndoye-empata-el-duelo-ante-argentina-tmvo13202940" target="_blank">¡Gol de Suiza! Dan Ndoye empata el duelo ante Argentina</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-12 02:39</span>
             </div>
         </div>
 </div>
@@ -163,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/07/cloudflare-hyper-bug-fix/en/headerimage/generatedHeaderImage-1782836612244.jpg" alt="Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/cloudflare-hyper-bug-fix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-12 06:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/khalisollis/the-just-one-more-prompt-loop-the-neurobiology-of-ai-induced-burnout-2kan" target="_blank">The &quot;Just One More Prompt&quot; Loop: The Neurobiology of AI-Induced Burnout</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-12 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/custralis/modernising-a-legacy-as400-ibm-i-system-without-rewriting-it-4k9k" target="_blank">Modernising a legacy AS/400 (IBM i) system without rewriting it</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-11 23:07</span>
             </div>
         </div>
 </div>
@@ -294,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 05:59 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
