@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 12:14:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-12 13:27:54 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 12:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants" target="_blank">A Bible passage is at the center of a debate over how the U.S. should treat immigrants</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-12 11:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/lindsey-graham-main_1783851760559_hpMain_4x3t_384.jpg" alt="Lindsey Graham, longtime senator from South Carolina and Trump ally, dies at 71" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +104,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5803170/farmers-fish-rice-snails-tropical-disease" target="_blank">Could fish be a secret ingredient for rice farmers to avoid disease and make more money?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-12 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist" target="_blank">An artist brought &#x27;I.C.E. pops&#x27; to a Texas campus. The show was shut down in days</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-12 09:00</span>
             </div>
         </div>
 </div>
@@ -176,6 +182,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/" target="_blank">Old and new apps, via modern coding agents by Terry Tao</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-12 11:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Realtek-RTL8723BS-WiFi-Bad-APs" target="_blank">Realtek RTL8723BS WiFi Linux Driver Hardened Against Malicious WiFi Access Points</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/jothini_ea21c8cbf21ffc20c/why-http-query-understanding-the-new-http-method-for-modern-api-design-3nd8" target="_blank">Why HTTP QUERY? Understanding the New HTTP Method for Modern API Design</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-12 05:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/davisethan/bayesian-neural-networks-117g" target="_blank">Bayesian Neural Networks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-12 04:09</span>
             </div>
         </div>
 </div>
@@ -296,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 12:14 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
