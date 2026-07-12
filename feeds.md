@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 10:28:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-12 11:23:11 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 10:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 11:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4545/live/1a6c45a0-7dd7-11f1-91f9-abeb669686c2.jpg" alt="Nothing to suggest Widdecombe killing was politically motivated, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss" target="_blank">Nothing to suggest Widdecombe killing was politically motivated, police say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-12 11:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss" target="_blank">IRGC releases video of retaliatory missile strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-12 11:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5803170/farmers-fish-rice-snails-tropical-disease" target="_blank">Could fish be a secret ingredient for rice farmers to avoid disease and make more money?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-12 10:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +99,20 @@
                 <span class="time">2026-07-12 07:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/AP26103627413359_1783838393156_hpMain_4x3t_384.jpg" alt="Sen. Lindsey Graham of South Carolina dies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/sen-lindsey-graham-south-carolina-dies-71/story?id=134688641" target="_blank">Sen. Lindsey Graham of South Carolina dies</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-12 06:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45d7/live/6c178e10-7dbd-11f1-ad4b-13d0aac581db.jpg" alt="US launches fresh strikes as Iran closes Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss" target="_blank">US launches fresh strikes as Iran closes Strait of Hormuz</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-12 06:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss" target="_blank">US Senator Lindsey Graham passes away</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-12 06:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/master/pass/The-Best-Pool-Cleaning-Robots-of-2026.jpg" alt="The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-pool-cleaning-robots/" target="_blank">The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-12 11:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview" target="_blank">FL Studio head Constantin Koehncke turns to Reddit for feedback and fun</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/" target="_blank">OpenAI bets on families as ChatGPT goes deeper into households</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-11 14:13</span>
             </div>
         </div>
 </div>
@@ -291,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 10:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 11:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
