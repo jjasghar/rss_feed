@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 08:41:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-12 09:31:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 08:41 UTC</div>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 09:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist" target="_blank">An artist brought &#x27;I.C.E. pops&#x27; to a Texas campus. The show was shut down in days</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-12 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc" target="_blank">First patients enrolled in record-breaking Ebola treatment trial in DRC</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-12 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss" target="_blank">US Senator Lindsey Graham passes away</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-12 06:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/centcom7-11_1783828408620_hpMain_4x3t_384.jpg" alt="Iran live updates: Gulf countries under attack after US retaliatory strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: Gulf countries under attack after US retaliatory strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-12 05:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss" target="_blank">Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani, dies at 74</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-12 05:15</span>
             </div>
         </div>
 </div>
@@ -295,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 08:41 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 09:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
