@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 11:23:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-12 12:14:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 11:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 12:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/lindsey-graham-main_1783851760559_hpMain_4x3t_384.jpg" alt="Lindsey Graham, longtime senator from South Carolina and Trump ally, dies at 71" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/sen-lindsey-graham-south-carolina-dies-71/story?id=134688641" target="_blank">Lindsey Graham, longtime senator from South Carolina and Trump ally, dies at 71</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-12 11:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783854887768_nbc_spec_graham_dies_260712_S3_1920x1080-oppa5n.jpg" alt="Special Report: Looking back on the political legacy of Sen. Lindsey Graham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/special-report-looking-back-on-the-political-legacy-of-sen-lindsey-graham-266559557624" target="_blank">Special Report: Looking back on the political legacy of Sen. Lindsey Graham</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-12 11:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4545/live/1a6c45a0-7dd7-11f1-91f9-abeb669686c2.jpg" alt="Nothing to suggest Widdecombe killing was politically motivated, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +100,29 @@
                 <span class="time">2026-07-12 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc" target="_blank">First patients enrolled in record-breaking Ebola treatment trial in DRC</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-12 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies" target="_blank">US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-12 07:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/963346/ai-data-centers-fight" target="_blank">The fight against AI data centers is just beginning</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-12 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285149590-500x500.jpg" alt="The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/" target="_blank">The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-12 11:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/master/pass/The-Best-Pool-Cleaning-Robots-of-2026.jpg" alt="The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +159,20 @@
                 <span class="time">2026-07-11 18:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/" target="_blank">Smart glasses without a camera? Even Realities bets productivity beats recording everyone</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-11 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview" target="_blank">FL Studio head Constantin Koehncke turns to Reddit for feedback and fun</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-11 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/patrickpi1312/eu-e-invoicing-for-developers-xrechnung-vs-zugferd-vs-ebinterface-vs-peppol-51fc" target="_blank">EU e-invoicing for developers: XRechnung vs ZUGFeRD vs ebInterface vs Peppol</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-12 12:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/davisethan/bayesian-neural-networks-117g" target="_blank">Bayesian Neural Networks</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-12 04:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8bmnmlr9jkjusv1ifwkd.jpg" alt="I built a Rofi assistant so my mom could stop calling me for Linux help" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rapacuy-dev/i-built-a-rofi-assistant-so-my-mom-could-stop-calling-me-for-linux-help-j48" target="_blank">I built a Rofi assistant so my mom could stop calling me for Linux help</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-12 02:25</span>
             </div>
         </div>
 </div>
@@ -295,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 11:23 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 12:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
