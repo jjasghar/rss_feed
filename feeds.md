@@ -1,11 +1,14 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 15:19:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-12 16:17:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
@@ -13,18 +16,22 @@
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 15:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 16:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e75/live/a70b6a10-7e07-11f1-afb0-9dae682daff3.jpg" alt="US insists Strait of Hormuz is open as it exchanges strikes with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss" target="_blank">US insists Strait of Hormuz is open as it exchanges strikes with Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-12 15:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/scott-graham-20260712-ap-jh_1783861073575_hpMain_4x3t_384.jpg" alt="&#x27;Lindsey Graham was irreplaceable&#x27;: South Carolina Sen. Tim Scott" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +101,20 @@
                 <span class="time">2026-07-12 11:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4545/live/1a6c45a0-7dd7-11f1-91f9-abeb669686c2.jpg" alt="Nothing to suggest Widdecombe killing was politically motivated, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss" target="_blank">Nothing to suggest Widdecombe killing was politically motivated, police say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-12 11:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/" target="_blank">TechCrunch Mobility: A robotaxi ultimatum</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-12 16:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +160,20 @@
                 <span class="time">2026-07-12 11:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/" target="_blank">Reed Jobs would rather talk about curing cancer than his last name</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-12 00:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saint_vandora/comment-an-entire-file-in-vim-in-seconds-two-methods-every-developer-should-know-k78" target="_blank">Comment an Entire File in Vim in Seconds (Two Methods Every Developer Should Know)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-12 16:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,20 +219,20 @@
                 <span class="time">2026-07-12 06:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17376876/linux-handhelds" target="_blank">8 Linux Handheld Computers You Can Splurge On</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-12 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/made-in-usa-monopoly-dice.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="A company tried to make Monopoly in America and couldn&#x27;t get dice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/12/made-in-usa-monopoly-dice.html" target="_blank">A company tried to make Monopoly in America and couldn&#x27;t get dice</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-12 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/britain-official-government-cat.jpg?fit=1200%2C1652&amp;quality=60&amp;ssl=1" alt="The British government has kept a cat on the payroll since 1929" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,27 +278,18 @@
                 <span class="time">2026-07-11 19:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/eacollegefootball-1280x720.jpg" alt="EA Reverses Course On College Football 27 Microtransactions Following Player Revolt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ea-sports-reverses-course-on-college-football-microtransactions-following-player-revolt-2000714972" target="_blank">EA Reverses Course On College Football 27 Microtransactions Following Player Revolt</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-11 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1783714459-20260711.png" alt="Saturday Morning Breakfast Cereal - Dadalus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1783714502-20260712.png" alt="Saturday Morning Breakfast Cereal - Old" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/dadalus" target="_blank">Saturday Morning Breakfast Cereal - Dadalus</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/old-2" target="_blank">Saturday Morning Breakfast Cereal - Old</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-11 15:20</span>
+                <span class="time">2026-07-12 15:20</span>
             </div>
         </div>
 </div>
@@ -290,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 15:19 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 16:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
