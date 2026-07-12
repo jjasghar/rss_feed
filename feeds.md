@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 07:02:01 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-07-12 08:41:34 UTC -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 08:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies" target="_blank">US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-12 07:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/AP26103627413359_1783838393156_hpMain_4x3t_384.jpg" alt="Sen. Lindsey Graham of South Carolina dies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss" target="_blank">Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani, dies at 74</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-12 05:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals" target="_blank">Alvarez&#x27;s 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-12 04:10</span>
             </div>
         </div>
 </div>
@@ -177,6 +175,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17376876/linux-handhelds" target="_blank">8 Linux Handheld Computers You Can Splurge On</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-12 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jothini_ea21c8cbf21ffc20c/why-http-query-understanding-the-new-http-method-for-modern-api-design-3nd8" target="_blank">Why HTTP QUERY? Understanding the New HTTP Method for Modern API Design</a></span>
                 <span class="feed">DEV Community</span>
@@ -208,15 +215,6 @@
                 <span class="title"><a href="https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/" target="_blank">We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-12 02:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/khalisollis/the-just-one-more-prompt-loop-the-neurobiology-of-ai-induced-burnout-2kan" target="_blank">The &quot;Just One More Prompt&quot; Loop: The Neurobiology of AI-Induced Burnout</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-12 01:21</span>
             </div>
         </div>
 </div>
@@ -297,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 08:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
