@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 20:13:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-12 21:14:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 20:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 21:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -172,6 +165,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-UltraRISC-RISC-V" target="_blank">Linux 7.2 Enabling UltraRISC RISC-V Support In The Default Kernel Build</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-12 20:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://floooh.github.io/tiny8bit-preview/index.html" target="_blank">Tiny Emulators</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-12 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/magopredator/enzyorchestra-v010-validacion-cross-generador-para-diseno-de-enzimas-de-novo-4a4a" target="_blank">EnzyOrchestra v0.1.0: validación cross-generador para diseño de enzimas de novo</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,29 +216,29 @@
                 <span class="time">2026-07-12 16:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/patrickpi1312/eu-e-invoicing-for-developers-xrechnung-vs-zugferd-vs-ebinterface-vs-peppol-51fc" target="_blank">EU e-invoicing for developers: XRechnung vs ZUGFeRD vs ebInterface vs Peppol</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-12 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/" target="_blank">Old and new apps, via modern coding agents</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-12 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Mount_Rainier_over_Tacoma-scaled.jpg?fit=2560%2C1708&amp;quality=60&amp;ssl=1" alt="The rotten-egg stench that drove Bruce Springsteen out of Tacoma" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/12/aroma-of-tacoma.html" target="_blank">The rotten-egg stench that drove Bruce Springsteen out of Tacoma</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-12 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/ubisoftfun.jpg" alt="Ubisoft Drops Claim That Monetization Makes Games ‘More Fun’ From Annual Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ubisoft-drops-claim-that-monetization-makes-games-more-fun-from-annual-report-2000715026" target="_blank">Ubisoft Drops Claim That Monetization Makes Games ‘More Fun’ From Annual Report</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-12 20:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2019/05/l5dyuzkmobnf1sreh4n8-1280x718.jpg" alt="Brazilian Court Forces Xbox To Restore Hacked Account And Pay Damages As Players Grapple With An All-Digital Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +275,6 @@
                 <span class="time">2026-07-12 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/britain-official-government-cat.jpg?fit=1200%2C1652&amp;quality=60&amp;ssl=1" alt="The British government has kept a cat on the payroll since 1929" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/11/britain-official-government-cat.html" target="_blank">The British government has kept a cat on the payroll since 1929</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-12 00:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/doomsday-1280x744.jpg" alt="Official Avengers: Doomsday Art Gives Clearest Look At Returning X-Men, Mystique’s Awful New Haircut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/official-avengers-doomsday-art-gives-clearest-look-at-returning-x-men-mystiques-awful-new-haircut-2000714986" target="_blank">Official Avengers: Doomsday Art Gives Clearest Look At Returning X-Men, Mystique’s Awful New Haircut</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-11 21:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 20:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 39 | 📸 With Images: 254 |
+        🔄 Last Updated: 21:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
