@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 04:15:51 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-07-12 05:58:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 04:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 05:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/centcom7-11_1783828408620_hpMain_4x3t_384.jpg" alt="Iran live updates: Gulf countries under attack after US retaliatory strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: Gulf countries under attack after US retaliatory strikes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-12 05:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss" target="_blank">Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani, dies at 74</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-12 05:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +96,6 @@
                 <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gol-de-suiza-dan-ndoye-empata-el-duelo-ante-argentina-tmvo13202940" target="_blank">¡Gol de Suiza! Dan Ndoye empata el duelo ante Argentina</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-07-12 02:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3173/live/2ce7b1e0-7d7a-11f1-915e-25692a244600.jpg" alt="Man arrested on suspicion of murder of Ann Widdecombe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss" target="_blank">Man arrested on suspicion of murder of Ann Widdecombe</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-12 02:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-toronto-festival-shooting_7295643.jpg?20260712033116" alt="Two dead and four injured in shooting at Toronto street festival" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/two-dead-and-four-injured-in-shooting-at-toronto-festival-police-say-13562675" target="_blank">Two dead and four injured in shooting at Toronto street festival</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-12 01:41</span>
             </div>
         </div>
 </div>
@@ -169,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jothini_ea21c8cbf21ffc20c/why-http-query-understanding-the-new-http-method-for-modern-api-design-3nd8" target="_blank">Why HTTP QUERY? Understanding the New HTTP Method for Modern API Design</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-12 05:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/davisethan/bayesian-neural-networks-117g" target="_blank">Bayesian Neural Networks</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-12 04:09</span>
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/custralis/modernising-a-legacy-as400-ibm-i-system-without-rewriting-it-4k9k" target="_blank">Modernising a legacy AS/400 (IBM i) system without rewriting it</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-11 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.iroh.computer/blog/mesh-llm" target="_blank">Mesh LLM: distributed AI computing on iroh</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-11 22:38</span>
             </div>
         </div>
 </div>
@@ -297,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 04:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 05:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
