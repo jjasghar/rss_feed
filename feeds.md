@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 18:15:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-12 19:22:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 18:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 19:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss" target="_blank">Some 30 Malian soldiers killed during Anefis retaking, says army chief</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-12 19:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +103,20 @@
                 <span class="time">2026-07-12 15:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-yulia-svyrydenko-prime-minister_7296070.jpg?20260712172826" alt="Ukraine&#x27;s prime minister stepping down after only a year, in Zelenskyy reshuffle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ukraines-prime-minister-stepping-down-after-only-a-year-in-zelenskyy-reshuffle-13562826" target="_blank">Ukraine&#x27;s prime minister stepping down after only a year, in Zelenskyy reshuffle</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-12 14:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra" target="_blank">Apple’s failed self-driving car program left a legacy of powerful AI chips</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-12 16:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +162,20 @@
                 <span class="time">2026-07-12 11:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/master/pass/The-Best-Pool-Cleaning-Robots-of-2026.jpg" alt="The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-pool-cleaning-robots/" target="_blank">The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-12 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://systima.ai/blog/claude-code-vs-opencode-token-overhead" target="_blank">Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-12 18:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu26zbnqqpcyq121dg0fb.png" alt="We Taught a Snowflake Warehouse to Judge World Cup Conviction and Write the Verdict Back to Solana" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,15 +221,6 @@
                 <span class="time">2026-07-12 11:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Harmonic-Firmware-Initiative" target="_blank">HFI BIOS Aims To Provide A POST-Like Power On Screen &amp; BIOS Setup Utility For RISC-V</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-12 10:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -225,6 +233,15 @@
                 <span class="title"><a href="https://kotaku.com/vanillaware-artist-moved-into-the-mountains-for-six-years-to-create-lush-love-letter-to-old-school-rpgs-2000715013" target="_blank">Vanillaware Artist Moved Into The Mountains For Six Years To Create Lush Love Letter To Old School RPGs</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-12 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/1280px-Harry_Potter_7_boxes.jpg?fit=1280%2C960&amp;quality=60&amp;ssl=1" alt="The fan fiction that rewrote Harry Potter as an evangelical tract" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/12/hogwarts-school-of-prayer-and-miracles.html" target="_blank">The fan fiction that rewrote Harry Potter as an evangelical tract</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-12 17:54</span>
             </div>
         </div>
 <div class="story">
@@ -263,15 +280,6 @@
                 <span class="time">2026-07-11 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/zuckerberg-1280x720.jpg" alt="Meta Removes Latest AI Integration On Instagram Following SAG-AFTRA Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/meta-removes-latest-ai-integration-on-instagram-following-sag-aftra-backlash-2000714982" target="_blank">Meta Removes Latest AI Integration On Instagram Following SAG-AFTRA Backlash</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-11 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 18:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 19:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
