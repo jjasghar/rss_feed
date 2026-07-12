@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 02:59:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-12 04:15:51 UTC -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, July 12, 2026 - 04:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals" target="_blank">Alvarez&#x27;s 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-12 04:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/centcom7-11_1783828408620_hpMain_4x3t_384.jpg" alt="Iran live updates: US completes 3rd round of retaliatory strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: US completes 3rd round of retaliatory strikes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-12 04:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/183/315/47108320675-1080pnbcstations.jpg" alt="Lautaro Martínez liquida a Suiza en el tiempo extra y Argentina pasa a semifinales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/lautaro-martinez-liquida-a-suiza-en-el-tiempo-extra-y-argentina-pasa-a-semifinales-tmvo13202954" target="_blank">Lautaro Martínez liquida a Suiza en el tiempo extra y Argentina pasa a semifinales</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-12 03:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/185/767/47107274779-1080pnbcstations.jpg" alt="¡Gol de Suiza! Dan Ndoye empata el duelo ante Argentina" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -54,48 +84,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3173/live/2ce7b1e0-7d7a-11f1-915e-25692a244600.jpg" alt="Man arrested on suspicion of murder of Ann Widdecombe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss" target="_blank">Man arrested on suspicion of murder of Ann Widdecombe</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-12 02:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/07/1920x1080/skynews-toronto-festival-shooting_7295643.jpg?20260712033116" alt="Two dead and four injured in shooting at Toronto street festival" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/two-dead-and-four-injured-in-shooting-at-toronto-festival-police-say-13562675" target="_blank">Two dead and four injured in shooting at Toronto street festival</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-07-12 01:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/11/nx-s1-5890213/missouri-kentucky-summer-camp-flooding" target="_blank">200 young campers rescued as flooding hits parts of Missouri and Kentucky</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-12 01:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/IRAN-CRISIS-SHIPPING-UN_1783811209395_hpMain_4x3t_384.jpg" alt="Iran live updates: US strikes Iran after cargo ship attacked, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: US strikes Iran after cargo ship attacked, CENTCOM says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-11 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/11/nx-s1-5890169/2026-world-cup-fifa-england-norway-quarterfinal" target="_blank">In a nailbiter, England moves on to the World Cup semifinals, defeating Norway 2-1</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-11 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3173/live/2ce7b1e0-7d7a-11f1-915e-25692a244600.jpg" alt="Man arrested on suspicion of murder of Ann Widdecombe, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss" target="_blank">Man arrested on suspicion of murder of Ann Widdecombe, police say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-11 23:02</span>
             </div>
         </div>
 </div>
@@ -163,12 +166,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/davisethan/bayesian-neural-networks-117g" target="_blank">Bayesian Neural Networks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-12 04:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8bmnmlr9jkjusv1ifwkd.jpg" alt="I built a Rofi assistant so my mom could stop calling me for Linux help" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rapacuy-dev/i-built-a-rofi-assistant-so-my-mom-could-stop-calling-me-for-linux-help-j48" target="_blank">I built a Rofi assistant so my mom could stop calling me for Linux help</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-12 02:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/" target="_blank">We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-12 02:13</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://www.iroh.computer/blog/mesh-llm" target="_blank">Mesh LLM: distributed AI computing on iroh</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-11 22:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vystartasv/i-made-a-free-ai-tool-that-plans-your-pqq-responses-38h5" target="_blank">I Made a Free AI Tool That Plans Your PQQ Responses</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-11 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://antjs.org" target="_blank">Show HN: Ant – A JavaScript runtime and ecosystem</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-11 20:07</span>
             </div>
         </div>
 </div>
@@ -294,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 04:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
