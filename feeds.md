@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 08:01:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-13 10:02:34 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 08:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, July 13, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/13/explosions-and-large-fires-following-ukrainian-attacks-on-russia?traffic_source=rss" target="_blank">Explosions and large fires following Ukrainian attacks on Russia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-13 09:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss" target="_blank">Kimmit: Renewed US-Iran fighting could reignite wider regional conflict</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-13 07:41</span>
@@ -57,6 +67,15 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss" target="_blank">More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-13 06:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1848/live/dc8219e0-7e85-11f1-926f-c90d1bcfbc84.jpg" alt="At least 27 killed, 22 critically injured after fire engulfs Bangkok bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss" target="_blank">At least 27 killed, 22 critically injured after fire engulfs Bangkok bar</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-13 06:07</span>
             </div>
         </div>
 <div class="story">
@@ -77,29 +96,20 @@
                 <span class="time">2026-07-13 05:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Lindsey-Graham-1-ap-gmh-260712_1783861554906_hpMain_2_4x3t_384.jpg" alt="What to know about aortic dissections after death of Sen. Lindsey Graham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/aortic-dissections-after-death-sen-lindsey-graham/story?id=134703286" target="_blank">What to know about aortic dissections after death of Sen. Lindsey Graham</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-13 02:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aa1/live/ac026a50-7e57-11f1-926f-c90d1bcfbc84.jpg" alt="At least 27 killed, eight critically injured in Bangkok bar fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss" target="_blank">At least 27 killed, eight critically injured in Bangkok bar fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-13 02:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/clips/6a510d69d859f07ebf1da200/master/pass/sf-cops-leaked-surveillance-top-art-LR.mp4" alt="A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sfpd-drone-video-leak-surveillance/" target="_blank">A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-13 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +155,29 @@
                 <span class="time">2026-07-12 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables" target="_blank">Less is more with the Oura Ring 5</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-12 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Cloud-Hypervisor-53" target="_blank">Cloud Hypervisor 53 Released With Offloaded Snapshot/Restore Daemon</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-13 09:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://raymyers.org/post/zed-creator-calls-spade-a-spade/" target="_blank">Zig Creator Calls Spade a Spade, Anthropic Blows Smoke</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-13 08:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/reykingers_f513925d3df43/dns-propagation-time-how-long-until-your-dns-change-goes-live-3mcd" target="_blank">DNS Propagation Time: How Long Until Your DNS Change Goes Live?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-13 02:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/night-day.jpg?resize=406%2C232&amp;ssl=1" alt="How to change Night Light’s colour temperature during the day on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/night-light-scheduler-gnome-extension" target="_blank">How to change Night Light’s colour temperature during the day on Ubuntu</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-12 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc3-Released" target="_blank">Linux 7.2-rc3 Released: Close To The &quot;New Normal&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-12 21:59</span>
             </div>
         </div>
 </div>
@@ -278,6 +279,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/13/rex-ready-player-one-part-four" target="_blank">Rex Ready Player One, Part Four</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-13 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5871.png" alt="To Have And To Hold" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -300,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
