@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 15:52:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-13 16:45:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 15:52 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, July 13, 2026 - 16:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-ap-gmh-260709_1783599924746_hpMain_4x3t_384.jpg" alt="Judge refers Trump&#x27;s attorneys for potential disciplinary action over IRS lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/judge-refers-trumps-attorneys-potential-disciplinary-action-irs/story?id=134719548" target="_blank">Judge refers Trump&#x27;s attorneys for potential disciplinary action over IRS lawsuit</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-13 16:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +101,6 @@
                 <span class="time">2026-07-13 12:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya" target="_blank">The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-13 12:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -104,9 +110,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/" target="_blank">Should AI help you get away with killing your spouse?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-13 16:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/" target="_blank">As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-13 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla" target="_blank">Even Nvidia’s head of automotive fights with Nvidia for compute</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-13 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -134,24 +158,6 @@
                 <span class="title"><a href="https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/" target="_blank">6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-13 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac" target="_blank">This free Mac app reveals the truth about your mystery USB-C cables</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-13 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/clips/6a510d69d859f07ebf1da200/master/pass/sf-cops-leaked-surveillance-top-art-LR.mp4" alt="A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sfpd-drone-video-leak-surveillance/" target="_blank">A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-13 10:00</span>
             </div>
         </div>
 </div>
@@ -198,19 +204,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17379567/chatto-goes-open-source" target="_blank">Slack Who? This Self-Hosted Chat App Just Went Open Source</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-13 13:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-Desktop-Install-NVIDIA" target="_blank">FreeBSD Desktop Installer Option Working Through NVIDIA Driver Handling, Licensing</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-13 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/java-news-roundup-jul06-2026/en/headerimage/java-news-roundup-image-1783946170119.jpg" alt="Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/java-news-roundup-jul06-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-13 12:40</span>
             </div>
         </div>
 </div>
@@ -218,6 +224,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/" target="_blank">Lessons Learned from CISA’s Recent GitHub Leak</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-07-13 15:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -233,12 +248,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXDX5FM2H3FN07HBNGWH0BYA/hero-image.jpg" alt="These Five New Waze Features Are Rolling Out Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/five-new-waze-features-rolling-out-right-now?utm_medium=RSS" target="_blank">These Five New Waze Features Are Rolling Out Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-13 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2023/03/1de8efebd048d5343afb975af2d2e278.jpg" alt="It’s Ridiculous That Square Enix Is Charging Fans Full Price To Make Octopath Traveler Look Slightly Shinier" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/ridiculous-square-enix-fans-full-price-octopath-traveler-upgrade-2000715245" target="_blank">It’s Ridiculous That Square Enix Is Charging Fans Full Price To Make Octopath Traveler Look Slightly Shinier</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-13 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Xbox-Game-Pass-Ultimate.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Play 500+ games with 3 months of Xbox Game Pass Ultimate for $62" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/13/play-500-games-with-3-months-of-xbox-game-pass-ultimate-for-62.html" target="_blank">Play 500+ games with 3 months of Xbox Game Pass Ultimate for $62</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-13 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -266,24 +299,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/13/john-le-fucker.html" target="_blank">A 1278 court record may hold the first written F-word</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-13 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KX9W5HQ097TPDMQCED2S0VXS/hero-image.jpg" alt="How to Keep Android Backups From Filling Up Your Google Drive Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/keep-android-backup-from-filling-google-storage-space?utm_medium=RSS" target="_blank">How to Keep Android Backups From Filling Up Your Google Drive Storage</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-13 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/bridgers.jpg" alt="Phoebe Bridgers Launches Itch.io Page With An Infinite Runner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/phoebe-bridgers-launches-itch-io-page-with-an-infinite-runner-2000715034" target="_blank">Phoebe Bridgers Launches Itch.io Page With An Infinite Runner</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-12 22:22</span>
             </div>
         </div>
 </div>
@@ -323,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 15:52 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 16:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
