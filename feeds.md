@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 06:00:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-13 08:01:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 06:00 UTC</div>
+    <div class="newspaper-date">Monday, July 13, 2026 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss" target="_blank">Kimmit: Renewed US-Iran fighting could reignite wider regional conflict</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-13 07:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d424/live/a66cf4d0-7e83-11f1-b976-0b9c15b0ccfc.jpg" alt="More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss" target="_blank">More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-13 06:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1848/live/dc8219e0-7e85-11f1-926f-c90d1bcfbc84.jpg" alt="At least 27 killed, 22 critically injured in Bangkok bar fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss" target="_blank">At least 27 killed, 22 critically injured in Bangkok bar fire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-13 06:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +93,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss" target="_blank">At least 27 killed, eight critically injured in Bangkok bar fire</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-13 02:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/13/can-nigerias-drone-industry-deliver-africas-defence-sovereignty?traffic_source=rss" target="_blank">Can Nigeria’s drone industry deliver Africa’s defence sovereignty</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-13 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions" target="_blank">Want to own a real T. rex? It could cost you $30 million</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-13 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength?traffic_source=rss" target="_blank">Mitch McConnell releases health update, says he is ‘regaining’ strength</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-12 23:29</span>
             </div>
         </div>
 </div>
@@ -167,6 +162,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17379351/open-book-touch-crowdfunding" target="_blank">Open Book Touch is Crowdfunding: A Buttonless, Open Hardware Answer to Kindle</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-13 06:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/schlae/BeavisUltrasound" target="_blank">Beavis Ultrasound PnP ISA Sound Card Replica</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-13 05:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aloya/the-authority-boundary-problem-in-agent-tool-calls-who-decides-what-no-results-means-55d3" target="_blank">The authority boundary problem in agent tool calls: who decides what &#x27;no results&#x27; means</a></span>
                 <span class="feed">DEV Community</span>
@@ -198,24 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc3-Released" target="_blank">Linux 7.2-rc3 Released: Close To The &quot;New Normal&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-12 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dnarram/mi-insert-tardaba-25-minutos-y-no-era-culpa-de-los-datos-construyendo-un-data-warehouse-de-4e14" target="_blank">Mi INSERT tardaba 25 minutos y no era culpa de los datos: construyendo un Data Warehouse de e-commerce con PostgreSQL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-12 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://scrapfly.dev/posts/browser-math-os-fingerprint/" target="_blank">Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-12 21:12</span>
             </div>
         </div>
 </div>
@@ -283,6 +278,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5871.png" alt="To Have And To Hold" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5871" target="_blank">To Have And To Hold</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-13 01:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1783714502-20260712.png" alt="Saturday Morning Breakfast Cereal - Old" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -296,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 06:00 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
