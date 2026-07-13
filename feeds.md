@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-12 23:15:14 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-13 00:19:13 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, July 12, 2026 - 23:15 UTC</div>
+    <div class="newspaper-date">Monday, July 13, 2026 - 00:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions" target="_blank">Want to own a real T. rex? It could cost you $30 million</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-13 00:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength?traffic_source=rss" target="_blank">Mitch McConnell releases health update, says he is ‘regaining’ strength</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-12 23:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +97,20 @@
                 <span class="time">2026-07-12 19:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss" target="_blank">Some 30 Malian soldiers killed during Anefis retaking, says army chief</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-12 19:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/who-will-replace-trump-ally-lindsey-graham-in-the-us-senate?traffic_source=rss" target="_blank">Who will replace Trump ally Lindsey Graham in the US Senate?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-12 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy" target="_blank">Lorde says Ray-Ban Meta AI glasses are ‘not sexy’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-12 20:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a5397ed87a24ef3942fc9ff/master/pass/GettyImages-2267121351.jpg" alt="Uber’s Autonomous Vehicle Strategy: Slow Their Adoption" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +156,6 @@
                 <span class="time">2026-07-12 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/963346/ai-data-centers-fight" target="_blank">The fight against AI data centers is just beginning</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-12 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +177,15 @@
                 <span class="title"><a href="https://dev.to/dnarram/mi-insert-tardaba-25-minutos-y-no-era-culpa-de-los-datos-construyendo-un-data-warehouse-de-4e14" target="_blank">Mi INSERT tardaba 25 minutos y no era culpa de los datos: construyendo un Data Warehouse de e-commerce con PostgreSQL</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-12 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://scrapfly.dev/posts/browser-math-os-fingerprint/" target="_blank">Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-12 21:12</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +215,6 @@
                 <span class="time">2026-07-12 20:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://systima.ai/blog/claude-code-vs-opencode-token-overhead" target="_blank">Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-12 18:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -226,6 +227,15 @@
                 <span class="title"><a href="https://kotaku.com/phoebe-bridgers-launches-itch-io-page-with-an-infinite-runner-2000715034" target="_blank">Phoebe Bridgers Launches Itch.io Page With An Infinite Runner</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-12 22:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/1280px-American_Bison_28Yellowstone29.jpg?fit=1280%2C953&amp;quality=60&amp;ssl=1" alt="A bison tossed a Yellowstone tourist 8 feet in the air" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/12/yellowstone-bison-tosses-tourist.html" target="_blank">A bison tossed a Yellowstone tourist 8 feet in the air</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-12 21:39</span>
             </div>
         </div>
 <div class="story">
@@ -264,15 +274,6 @@
                 <span class="time">2026-07-12 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/1280px-Harry_Potter_7_boxes.jpg?fit=1280%2C960&amp;quality=60&amp;ssl=1" alt="The fan fiction that rewrote Harry Potter as an evangelical tract" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/12/hogwarts-school-of-prayer-and-miracles.html" target="_blank">The fan fiction that rewrote Harry Potter as an evangelical tract</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-12 17:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 23:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 00:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
