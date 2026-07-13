@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 18:30:11 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-13 19:28:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 18:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, July 13, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg" alt="Trump reinstating naval blockade of Iranian ports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss" target="_blank">Trump reinstating naval blockade of Iranian ports</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-13 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/13/uk-designates-irgc-as-terrorist-organisation?traffic_source=rss" target="_blank">UK designates IRGC as terrorist organisation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-13 18:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa6f/live/426291a0-7ec1-11f1-bee8-53ce494e1abc.jpg" alt="Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss" target="_blank">Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-13 17:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783961986815_now_daily_a_brk_hormuz_blockade_260713_S3_1920x1080-uj4s7q.jpg" alt="Trump says U.S. will launch an &#x27;Iranian blockade&#x27; in the Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-u-s-will-launch-an-iranian-blockade-in-the-strait-of-hormuz-266598981527" target="_blank">Trump says U.S. will launch an &#x27;Iranian blockade&#x27; in the Strait of Hormuz</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-13 16:59</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +102,20 @@
                 <span class="time">2026-07-13 16:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s" target="_blank">Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Hormuz-DB-260713_1783933862068_hpMain_4x3t_384.jpg" alt="Iran live updates: US &#x27;taking over&#x27; Strait of Hormuz, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US &#x27;taking over&#x27; Strait of Hormuz, Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-13 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/13/argentina-england-fifa-world-cup-semifinal-prediction-messi-kane-venue?traffic_source=rss" target="_blank">FIFA World Cup England vs Argentina: What to know ahead of second semifinal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-13 13:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/" target="_blank">The wildest allegations in Apple’s trade secrets lawsuit against OpenAI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-13 18:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +159,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/" target="_blank">Should AI help you get away with killing your spouse?</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-13 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/" target="_blank">As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-13 15:49</span>
             </div>
         </div>
 </div>
@@ -249,6 +249,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/1280px-366_Lone_Star_Tick_-_Amblyomma_americanum2C_Merrimac_Farm_Wildlife_Management_Area2C_Aden2C_Virginia.jpg?fit=1280%2C897&amp;quality=60&amp;ssl=1" alt="A tick bite can make you allergic to meat, and cases are climbing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/13/tick-bite-meat-allergy.html" target="_blank">A tick bite can make you allergic to meat, and cases are climbing</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-13 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/lemony-snicket.jpg" alt="The Atlantic Released A GenAI Lemony Snicket Game That Bans You If You Go Off-Script" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-atlantic-lemony-snicket-genai-ai-llm-puzzle-game-2000715264" target="_blank">The Atlantic Released A GenAI Lemony Snicket Game That Bans You If You Go Off-Script</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-13 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GJP3084DNMZCREEABHZ6V/hero-image.png" alt="Here&#x27;s How Clear Whey Powder Compares to the Regular Kind" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/what-is-clear-whey-protein-powder?utm_medium=RSS" target="_blank">Here&#x27;s How Clear Whey Powder Compares to the Regular Kind</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-13 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/everest-e1782835729237.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Sherpa left for dead on Everest tells his story" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -273,33 +300,6 @@
                 <span class="title"><a href="https://kotaku.com/ridiculous-square-enix-fans-full-price-octopath-traveler-upgrade-2000715245" target="_blank">It’s Ridiculous That Square Enix Is Charging Fans Full Price To Make Octopath Traveler Look Slightly Shinier</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-13 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Xbox-Game-Pass-Ultimate.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Play 500+ games with 3 months of Xbox Game Pass Ultimate for $62" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/13/play-500-games-with-3-months-of-xbox-game-pass-ultimate-for-62.html" target="_blank">Play 500+ games with 3 months of Xbox Game Pass Ultimate for $62</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-13 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KR3AKTKD76662MA56GMY1772/hero-image.png" alt="This M1 iPad Pro Is Still One of the Best Tablets for Creators on a Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/m1-ipad-pro-stacksocial-sale-july-2026?utm_medium=RSS" target="_blank">This M1 iPad Pro Is Still One of the Best Tablets for Creators on a Budget</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-13 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/IKEA_Pencils.jpg?fit=1488%2C1032&amp;quality=60&amp;ssl=1" alt="Surgeons use free IKEA pencils to mark bone cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/13/ikea-pencil.html" target="_blank">Surgeons use free IKEA pencils to mark bone cuts</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-13 14:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 18:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
