@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 16:45:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-13 17:36:08 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 16:45 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, July 13, 2026 - 17:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +109,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/" target="_blank">Sam Altman’s space data center trash talk is what most experts already believe</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-13 17:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5505208102c30651422b27/master/pass/GettyImages-2259673201.jpg" alt="Tesla Says It’s Building a Wheelchair-Accessible Robotaxi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi/" target="_blank">Tesla Says It’s Building a Wheelchair-Accessible Robotaxi</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-13 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/" target="_blank">Should AI help you get away with killing your spouse?</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-13 16:31</span>
@@ -142,29 +159,29 @@
                 <span class="time">2026-07-13 14:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/" target="_blank">Uber’s robotaxi lobbying effort puts it on a collision course with Waymo</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-13 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f4f651c2feaf82cfb1e4f1/master/pass/The-Best-Bidets-for-Every-Bathroom-and-Budget.jpg" alt="6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/" target="_blank">6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-13 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zzmilos/i-gave-an-ai-agent-the-same-deployment-on-four-clouds-4g1h" target="_blank">I gave an AI agent the same deployment on four clouds.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-13 17:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/papers-document-editor.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 fixes Papers bug that sent PDF links to wrong page" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-26-04-papers-pdf-viewer-bug-fixes" target="_blank">Ubuntu 26.04 fixes Papers bug that sent PDF links to wrong page</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-13 16:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/proxybrad/i-built-an-open-source-mcp-server-so-ai-agents-can-read-the-web-even-sites-that-block-bots-1oo" target="_blank">I built an open-source MCP server so AI agents can read the web - even sites that block bots</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-13 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17379567/chatto-goes-open-source" target="_blank">Slack Who? This Self-Hosted Chat App Just Went Open Source</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-13 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-Desktop-Install-NVIDIA" target="_blank">FreeBSD Desktop Installer Option Working Through NVIDIA Driver Handling, Licensing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-13 13:21</span>
             </div>
         </div>
 </div>
@@ -338,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 16:45 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 17:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
