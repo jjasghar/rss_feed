@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 21:17:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-13 22:15:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 21:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, July 13, 2026 - 22:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +102,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284895790-500x500.jpg" alt="US continues to shun Ebola-infected citizens; second American sent to Germany" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/" target="_blank">US continues to shun Ebola-infected citizens; second American sent to Germany</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-13 22:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads" target="_blank">Microsoft tests Windows Search without all the ads and fluff</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-13 21:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -139,24 +155,6 @@
                 <span class="time">2026-07-13 19:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit" target="_blank">States make last-ditch effort to stop the Paramount ‘media behemoth’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-13 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/" target="_blank">The wildest allegations in Apple’s trade secrets lawsuit against OpenAI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-13 18:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +176,15 @@
                 <span class="title"><a href="https://werd.io/climate-gov-was-destroyed-open-data-saved-it/" target="_blank">Climate.gov was destroyed. Open data saved it</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-13 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.whois.com/whois/t.me" target="_blank">Telegram&#x27;s t.me domain has been suspended</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-13 19:52</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/graviton5-epyc-xeon" target="_blank">Graviton5 Outperforming Intel Xeon Granite Rapids But Falls Short Of AMD EPYC Turin</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-13 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/papers-document-editor.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 fixes Papers bug that sent PDF links to wrong page" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-26-04-papers-pdf-viewer-bug-fixes" target="_blank">Ubuntu 26.04 fixes Papers bug that sent PDF links to wrong page</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-13 16:31</span>
             </div>
         </div>
 </div>
@@ -244,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/sephiroth-noodles.jpg" alt="We’re Finally Getting An Instant Cup Of Noodles You Can Make With Cold Water" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/were-finally-getting-an-instant-cup-of-noodles-you-can-make-with-cold-water-2000715361" target="_blank">We’re Finally Getting An Instant Cup Of Noodles You Can Make With Cold Water</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-13 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/ganonwheel-1280x720.jpg" alt="Someone Trapped Zelda: Tears Of The Kingdom’s Ganondorf Inside A Hamster Wheel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +296,6 @@
                 <span class="time">2026-07-13 17:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXDX5FM2H3FN07HBNGWH0BYA/hero-image.jpg" alt="These Five New Waze Features Are Rolling Out Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/five-new-waze-features-rolling-out-right-now?utm_medium=RSS" target="_blank">These Five New Waze Features Are Rolling Out Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-13 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 21:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 22:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
