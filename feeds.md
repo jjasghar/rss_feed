@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 04:18:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-13 06:00:23 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 04:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, July 13, 2026 - 06:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/13/sheikh-hamad-the-arab-leader-who-broke-israels-siege-on-gaza?traffic_source=rss" target="_blank">Sheikh Hamad: The Arab leader who broke Israel’s siege on Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-13 05:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Lindsey-Graham-1-ap-gmh-260712_1783861554906_hpMain_2_4x3t_384.jpg" alt="What to know about aortic dissections after death of Sen. Lindsey Graham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/aortic-dissections-after-death-sen-lindsey-graham/story?id=134703286" target="_blank">What to know about aortic dissections after death of Sen. Lindsey Graham</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-13 02:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aa1/live/ac026a50-7e57-11f1-926f-c90d1bcfbc84.jpg" alt="At least 27 killed, eight critically injured in Bangkok bar fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss" target="_blank">At least 27 killed, eight critically injured in Bangkok bar fire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-13 02:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,33 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength?traffic_source=rss" target="_blank">Mitch McConnell releases health update, says he is ‘regaining’ strength</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-12 23:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss" target="_blank">Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-12 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51a3/live/23c24750-7e34-11f1-b976-0b9c15b0ccfc.jpg" alt="At least 27 killed in Bangkok bar fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss" target="_blank">At least 27 killed in Bangkok bar fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-12 20:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf4/live/784b04d0-7e28-11f1-a203-d7c6aaf9b69a.png" alt="At least 27 killed in Bangkok bar fire, Thai authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss" target="_blank">At least 27 killed in Bangkok bar fire, Thai authorities say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-12 20:13</span>
             </div>
         </div>
 </div>
@@ -292,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 04:19 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 06:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
