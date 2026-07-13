@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 19:28:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-13 20:23:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, July 13, 2026 - 20:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg" alt="Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss" target="_blank">Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-13 20:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg" alt="Trump reinstating naval blockade of Iranian ports" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +100,38 @@
                 <span class="time">2026-07-13 16:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-ap-gmh-260709_1783599924746_hpMain_4x3t_384.jpg" alt="Judge refers Trump&#x27;s attorneys for potential disciplinary action over IRS lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/judge-refers-trumps-attorneys-potential-disciplinary-action-irs/story?id=134719548" target="_blank">Judge refers Trump&#x27;s attorneys for potential disciplinary action over IRS lawsuit</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-13 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5116065a78161ead45bb3e/master/pass/VR%20Mundial%202026%202284546127.jpg" alt="The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/" target="_blank">The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-13 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-157308908-500x500.jpg" alt="California creates $3,500 rebate for new electric vehicle buyers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/" target="_blank">California creates $3,500 rebate for new electric vehicle buyers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-13 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit" target="_blank">States make last-ditch effort to stop the Paramount ‘media behemoth’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-13 18:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +159,20 @@
                 <span class="time">2026-07-13 17:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/" target="_blank">Sam Altman’s space data center trash talk is what most experts already believe</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-13 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5505208102c30651422b27/master/pass/GettyImages-2259673201.jpg" alt="Tesla Says It’s Building a Wheelchair-Accessible Robotaxi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi/" target="_blank">Tesla Says It’s Building a Wheelchair-Accessible Robotaxi</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-13 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/" target="_blank">Should AI help you get away with killing your spouse?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-13 16:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://werd.io/climate-gov-was-destroyed-open-data-saved-it/" target="_blank">Climate.gov was destroyed. Open data saved it</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-13 19:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +218,6 @@
                 <span class="time">2026-07-13 16:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fabiensanglard.net/silpheed/index.html" target="_blank">The art and engineering of Sega CD Silpheed</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-13 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/ganonwheel-1280x720.jpg" alt="Someone Trapped Zelda: Tears Of The Kingdom’s Ganondorf Inside A Hamster Wheel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/heres-ganondorf-hamster-wheel-2000715325" target="_blank">Someone Trapped Zelda: Tears Of The Kingdom’s Ganondorf Inside A Hamster Wheel</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-13 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/1280px-366_Lone_Star_Tick_-_Amblyomma_americanum2C_Merrimac_Farm_Wildlife_Management_Area2C_Aden2C_Virginia.jpg?fit=1280%2C897&amp;quality=60&amp;ssl=1" alt="A tick bite can make you allergic to meat, and cases are climbing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +300,6 @@
                 <span class="time">2026-07-13 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/03/1de8efebd048d5343afb975af2d2e278.jpg" alt="It’s Ridiculous That Square Enix Is Charging Fans Full Price To Make Octopath Traveler Look Slightly Shinier" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ridiculous-square-enix-fans-full-price-octopath-traveler-upgrade-2000715245" target="_blank">It’s Ridiculous That Square Enix Is Charging Fans Full Price To Make Octopath Traveler Look Slightly Shinier</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-13 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 20:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
