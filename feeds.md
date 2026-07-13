@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 13:44:36 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-13 14:55:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 13:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, July 13, 2026 - 14:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -63,6 +66,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32aa/live/d7f9b550-7eb6-11f1-8439-ebc9c5f19300.jpg" alt="At least 28 killed, 25 critically injured after fire engulfs Bangkok bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss" target="_blank">At least 28 killed, 25 critically injured after fire engulfs Bangkok bar</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-13 12:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ba/live/83c67330-7eb4-11f1-b5ec-67e9897fe2ad.jpg" alt="Counter terrorism police take over investigation into Ann Widdecombe&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -72,30 +84,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya" target="_blank">The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-13 12:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/US-hits-Iran-DB-260713_1783926481120_hpMain_4x3t_384.jpg" alt="Iran live updates: US-Iran deal in &#x27;crisis stage&#x27; after strikes, Tehran official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US-Iran deal in &#x27;crisis stage&#x27; after strikes, Tehran official says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-13 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783941673032_tdy_news_7a_bradley_us_iran_strikes_260713_S3_1920x1080-lz501o.jpg" alt="US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712" target="_blank">US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-13 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment" target="_blank">Pythons&#x27; extreme biology may hold clues for treating human disease</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-13 10:00</span>
             </div>
         </div>
 </div>
@@ -163,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/07/data-ownership-localfirst/en/headerimage/generatedHeaderImage-1783923656378.jpg" alt="The Path to Sovereign Data: Challenges and Priorities in Local-First Computing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/data-ownership-localfirst/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">The Path to Sovereign Data: Challenges and Priorities in Local-First Computing</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-13 14:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/clawkwork/clawk" target="_blank">Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-13 14:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +219,6 @@
                 <span class="time">2026-07-13 11:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/aws-multi-region-signing/en/headerimage/aws-multi-region-signing-header-1783602485181.jpg" alt="Article: Removing a Hidden Round Trip from a Multi-Region AWS API" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/aws-multi-region-signing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Removing a Hidden Round Trip from a Multi-Region AWS API</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-13 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-OS-Test-Center" target="_blank">GNOME OS Creating &quot;Test Center&quot; As Its Take On Apple TestFlight For Experiment Software</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-13 10:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KR3AKTKD76662MA56GMY1772/hero-image.png" alt="This M1 iPad Pro Is Still One of the Best Tablets for Creators on a Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/m1-ipad-pro-stacksocial-sale-july-2026?utm_medium=RSS" target="_blank">This M1 iPad Pro Is Still One of the Best Tablets for Creators on a Budget</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-13 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/john-le-fucker.jpg?fit=1200%2C1513&amp;quality=60&amp;ssl=1" alt="A 1278 court record may hold the first written F-word" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/13/john-le-fucker.html" target="_blank">A 1278 court record may hold the first written F-word</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-13 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KX9W5HQ097TPDMQCED2S0VXS/hero-image.jpg" alt="How to Keep Android Backups From Filling Up Your Google Drive Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/12/aroma-of-tacoma.html" target="_blank">The rotten-egg stench that drove Bruce Springsteen out of Tacoma</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-12 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/ubisoftfun.jpg" alt="Ubisoft Drops Claim That Monetization Makes Games ‘More Fun’ From Annual Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ubisoft-drops-claim-that-monetization-makes-games-more-fun-from-annual-report-2000715026" target="_blank">Ubisoft Drops Claim That Monetization Makes Games ‘More Fun’ From Annual Report</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-12 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2019/05/l5dyuzkmobnf1sreh4n8-1280x718.jpg" alt="Brazilian Court Forces Xbox To Restore Hacked Account And Pay Damages As Players Grapple With An All-Digital Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/brazilian-courts-force-xbox-to-restore-hacked-account-and-pay-damages-2000715020" target="_blank">Brazilian Court Forces Xbox To Restore Hacked Account And Pay Damages As Players Grapple With An All-Digital Future</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-12 18:47</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 13:44 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 14:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
