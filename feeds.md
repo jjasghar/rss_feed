@@ -1,32 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 10:02:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-13 11:59:06 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, July 13, 2026 - 11:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/US-hits-Iran-DB-260713_1783926481120_hpMain_4x3t_384.jpg" alt="Iran live updates: US-Iran deal in &#x27;crisis stage&#x27; after strikes, Tehran official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US-Iran deal in &#x27;crisis stage&#x27; after strikes, Tehran official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-13 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment" target="_blank">Pythons&#x27; extreme biology may hold clues for treating human disease</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-13 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,30 +98,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1848/live/dc8219e0-7e85-11f1-926f-c90d1bcfbc84.jpg" alt="At least 27 killed, 22 critically injured after fire engulfs Bangkok bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-paris-fontainebleau_7296234.jpg?20260713072344" alt="Wildfire of &#x27;exceptional scale&#x27; breaks out in forest near Paris" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss" target="_blank">At least 27 killed, 22 critically injured after fire engulfs Bangkok bar</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-13 06:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1848/live/dc8219e0-7e85-11f1-926f-c90d1bcfbc84.jpg" alt="At least 27 killed, 22 critically injured in Bangkok bar fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss" target="_blank">At least 27 killed, 22 critically injured in Bangkok bar fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-13 06:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/13/sheikh-hamad-the-arab-leader-who-broke-israels-siege-on-gaza?traffic_source=rss" target="_blank">Sheikh Hamad: The Arab leader who broke Israel’s siege on Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-13 05:39</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/wildfire-of-exceptional-scale-breaks-out-in-forest-near-paris-13562914" target="_blank">Wildfire of &#x27;exceptional scale&#x27; breaks out in forest near Paris</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-13 06:25</span>
             </div>
         </div>
 </div>
@@ -101,6 +111,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f4f651c2feaf82cfb1e4f1/master/pass/The-Best-Bidets-for-Every-Bathroom-and-Budget.jpg" alt="6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/" target="_blank">6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-13 11:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/clips/6a510d69d859f07ebf1da200/master/pass/sf-cops-leaked-surveillance-top-art-LR.mp4" alt="A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +165,38 @@
                 <span class="time">2026-07-12 16:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale" target="_blank">One of SteelSeries&amp;#8217; best gaming headsets is over $100 off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-12 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/greko_india_0349aee58e7a3/i-built-a-quick-calculator-for-a-very-specific-very-indian-problem-golden-visa-math-vs-rbis-lrs-7j4" target="_blank">I built a quick calculator for a very specific, very Indian problem: Golden Visa math vs RBI&#x27;s LRS limit</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-13 11:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/aws-multi-region-signing/en/headerimage/aws-multi-region-signing-header-1783602485181.jpg" alt="Article: Removing a Hidden Round Trip from a Multi-Region AWS API" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/aws-multi-region-signing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Removing a Hidden Round Trip from a Multi-Region AWS API</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-13 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-OS-Test-Center" target="_blank">GNOME OS Creating &quot;Test Center&quot; As Its Take On Apple TestFlight For Experiment Software</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-13 10:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,31 +224,18 @@
                 <span class="time">2026-07-13 06:48</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/schlae/BeavisUltrasound" target="_blank">Beavis Ultrasound PnP ISA Sound Card Replica</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-13 05:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aloya/the-authority-boundary-problem-in-agent-tool-calls-who-decides-what-no-results-means-55d3" target="_blank">The authority boundary problem in agent tool calls: who decides what &#x27;no results&#x27; means</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-13 04:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/reykingers_f513925d3df43/dns-propagation-time-how-long-until-your-dns-change-goes-live-3mcd" target="_blank">DNS Propagation Time: How Long Until Your DNS Change Goes Live?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-13 02:51</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html" target="_blank">AI Data Centers and the Concentration of Wealth</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-13 11:01</span>
             </div>
         </div>
 </div>
@@ -310,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 11:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
