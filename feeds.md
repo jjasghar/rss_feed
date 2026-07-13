@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 20:23:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-13 21:17:22 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 20:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, July 13, 2026 - 21:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Darline-Graham-1-ht-gmh-260713_1783974180637_hpMain_4x3t_384.jpg" alt="South Carolina governor picks Lindsey Graham&#x27;s sister to finish his Senate term" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-lindsey-grahams-sister-finish-senate-term/story?id=134716714" target="_blank">South Carolina governor picks Lindsey Graham&#x27;s sister to finish his Senate term</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-13 20:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783974864663_f_mo_mcmaster_graham_nordone_senate_260713_S3_1920x1080-vmsgvy.jpg" alt="S.C. Gov McMaster appoints Darline Graham Nordone to fill Sen. Lindsey Graham&#x27;s seat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/s-c-gov-mcmaster-appoints-darline-graham-nordone-to-fill-sen-lindsey-graham-s-seat-266608709594" target="_blank">S.C. Gov McMaster appoints Darline Graham Nordone to fill Sen. Lindsey Graham&#x27;s seat</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-13 20:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs" target="_blank">Trump&#x27;s HHS abandons threat to withhold Medicare and Medicaid funding over trans care</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-13 20:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg" alt="Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +98,29 @@
                 <span class="time">2026-07-13 18:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa6f/live/426291a0-7ec1-11f1-bee8-53ce494e1abc.jpg" alt="Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss" target="_blank">Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-13 17:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783961986815_now_daily_a_brk_hormuz_blockade_260713_S3_1920x1080-uj4s7q.jpg" alt="Trump says U.S. will launch an &#x27;Iranian blockade&#x27; in the Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-u-s-will-launch-an-iranian-blockade-in-the-strait-of-hormuz-266598981527" target="_blank">Trump says U.S. will launch an &#x27;Iranian blockade&#x27; in the Strait of Hormuz</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-13 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates" target="_blank">Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-13 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale" target="_blank">A two-pack of DJI&amp;#8217;s most capable wireless mics just got its first price cut</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-13 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/" target="_blank">Satya Nadella has issued a shocking warning to companies using AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-13 20:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a5116065a78161ead45bb3e/master/pass/VR%20Mundial%202026%202284546127.jpg" alt="The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +157,20 @@
                 <span class="time">2026-07-13 18:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota" target="_blank">The EV market is on the road to recovery thanks to high gas prices</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-13 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/digger1-500x500.jpg" alt="Tom Cruise is utterly transformed in Digger trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/07/digger-trailer-is-giving-big-dr-strangelove-vibes/" target="_blank">Tom Cruise is utterly transformed in Digger trailer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-13 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcovlwo462ckyuyxdvwkw.png" alt="Bumblebee: Perplexity AI Open-Sources a Safe Supply-Chain Scanner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/terminalchai/bumblebee-perplexity-ai-open-sources-a-safe-supply-chain-scanner-ief" target="_blank">Bumblebee: Perplexity AI Open-Sources a Safe Supply-Chain Scanner</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-13 21:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-26-04-papers-pdf-viewer-bug-fixes" target="_blank">Ubuntu 26.04 fixes Papers bug that sent PDF links to wrong page</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-07-13 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://get-inscribe.com/blog/apple-speech-api-benchmark.html" target="_blank">Apple&#x27;s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-13 16:06</span>
             </div>
         </div>
 </div>
@@ -337,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 20:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 21:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
