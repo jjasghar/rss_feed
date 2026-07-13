@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 12:57:52 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-13 13:44:36 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 12:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, July 13, 2026 - 13:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Hormuz-DB-260713_1783933862068_hpMain_4x3t_384.jpg" alt="Iran live updates: US &#x27;taking over&#x27; Strait of Hormuz, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US &#x27;taking over&#x27; Strait of Hormuz, Trump says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-13 13:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/13/argentina-england-fifa-world-cup-semifinal-prediction-messi-kane-venue?traffic_source=rss" target="_blank">FIFA World Cup England vs Argentina: What to know ahead of second semifinal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-13 13:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ba/live/83c67330-7eb4-11f1-b5ec-67e9897fe2ad.jpg" alt="Counter terrorism police take over investigation into Ann Widdecombe&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -59,39 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783941673032_tdy_news_7a_bradley_us_iran_strikes_260713_S3_1920x1080-lz501o.jpg" alt="US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712" target="_blank">US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-13 11:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment" target="_blank">Pythons&#x27; extreme biology may hold clues for treating human disease</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-13 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/13/explosions-and-large-fires-following-ukrainian-attacks-on-russia?traffic_source=rss" target="_blank">Explosions and large fires following Ukrainian attacks on Russia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-13 09:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss" target="_blank">Kimmit: Renewed US-Iran fighting could reignite wider regional conflict</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-13 07:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d424/live/a66cf4d0-7e83-11f1-b976-0b9c15b0ccfc.jpg" alt="More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss" target="_blank">More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-13 06:45</span>
             </div>
         </div>
 </div>
@@ -159,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/proxybrad/i-built-an-open-source-mcp-server-so-ai-agents-can-read-the-web-even-sites-that-block-bots-1oo" target="_blank">I built an open-source MCP server so AI agents can read the web - even sites that block bots</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-13 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-Desktop-Install-NVIDIA" target="_blank">FreeBSD Desktop Installer Option Working Through NVIDIA Driver Handling, Licensing</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-13 13:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/07/java-news-roundup-jul06-2026/en/headerimage/java-news-roundup-image-1783946170119.jpg" alt="Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -192,24 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-OS-Test-Center" target="_blank">GNOME OS Creating &quot;Test Center&quot; As Its Take On Apple TestFlight For Experiment Software</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-13 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Cloud-Hypervisor-53" target="_blank">Cloud Hypervisor 53 Released With Offloaded Snapshot/Restore Daemon</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-13 09:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://raymyers.org/post/zed-creator-calls-spade-a-spade/" target="_blank">Zig Creator Calls Spade a Spade, Anthropic Blows Smoke</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-13 08:39</span>
             </div>
         </div>
 </div>
@@ -322,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 12:58 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 13:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
