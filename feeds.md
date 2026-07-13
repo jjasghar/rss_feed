@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 02:59:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-13 04:18:56 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, July 13, 2026 - 04:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,9 +164,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aloya/the-authority-boundary-problem-in-agent-tool-calls-who-decides-what-no-results-means-55d3" target="_blank">The authority boundary problem in agent tool calls: who decides what &#x27;no results&#x27; means</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-13 04:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/reykingers_f513925d3df43/dns-propagation-time-how-long-until-your-dns-change-goes-live-3mcd" target="_blank">DNS Propagation Time: How Long Until Your DNS Change Goes Live?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-13 02:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/night-day.jpg?resize=406%2C232&amp;ssl=1" alt="How to change Night Light’s colour temperature during the day on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/night-light-scheduler-gnome-extension" target="_blank">How to change Night Light’s colour temperature during the day on Ubuntu</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-12 22:48</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +212,6 @@
                 <span class="title"><a href="https://scrapfly.dev/posts/browser-math-os-fingerprint/" target="_blank">Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-12 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-UltraRISC-RISC-V" target="_blank">Linux 7.2 Enabling UltraRISC RISC-V Support In The Default Kernel Build</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-12 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://floooh.github.io/tiny8bit-preview/index.html" target="_blank">Tiny Emulators</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-12 20:23</span>
             </div>
         </div>
 </div>
@@ -296,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 04:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
