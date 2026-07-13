@@ -1,42 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 11:59:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-13 12:57:52 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 11:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, July 13, 2026 - 12:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ba/live/83c67330-7eb4-11f1-b5ec-67e9897fe2ad.jpg" alt="Counter terrorism police take over investigation into Ann Widdecombe&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss" target="_blank">Counter terrorism police take over investigation into Ann Widdecombe&#x27;s death</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-13 12:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/US-hits-Iran-DB-260713_1783926481120_hpMain_4x3t_384.jpg" alt="Iran live updates: US-Iran deal in &#x27;crisis stage&#x27; after strikes, Tehran official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,20 +94,20 @@
                 <span class="time">2026-07-13 06:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-paris-fontainebleau_7296234.jpg?20260713072344" alt="Wildfire of &#x27;exceptional scale&#x27; breaks out in forest near Paris" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/wildfire-of-exceptional-scale-breaks-out-in-forest-near-paris-13562914" target="_blank">Wildfire of &#x27;exceptional scale&#x27; breaks out in forest near Paris</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-13 06:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/" target="_blank">Uber’s robotaxi lobbying effort puts it on a collision course with Waymo</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-13 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f4f651c2feaf82cfb1e4f1/master/pass/The-Best-Bidets-for-Every-Bathroom-and-Budget.jpg" alt="6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -118,6 +115,15 @@
                 <span class="title"><a href="https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/" target="_blank">6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-13 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac" target="_blank">This free Mac app reveals the truth about your mystery USB-C cables</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-13 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -147,29 +153,20 @@
                 <span class="time">2026-07-12 19:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra" target="_blank">Apple’s failed self-driving car program left a legacy of powerful AI chips</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-12 16:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/" target="_blank">TechCrunch Mobility: A robotaxi ultimatum</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-12 16:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/java-news-roundup-jul06-2026/en/headerimage/java-news-roundup-image-1783946170119.jpg" alt="Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/java-news-roundup-jul06-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-13 12:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,15 +212,6 @@
                 <span class="time">2026-07-13 08:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17379351/open-book-touch-crowdfunding" target="_blank">Open Book Touch is Crowdfunding: A Buttonless, Open Hardware Answer to Kindle</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-13 06:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KX9W5HQ097TPDMQCED2S0VXS/hero-image.jpg" alt="How to Keep Android Backups From Filling Up Your Google Drive Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/keep-android-backup-from-filling-google-storage-space?utm_medium=RSS" target="_blank">How to Keep Android Backups From Filling Up Your Google Drive Storage</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-13 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/bridgers.jpg" alt="Phoebe Bridgers Launches Itch.io Page With An Infinite Runner" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +285,6 @@
                 <span class="time">2026-07-12 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/vanillaso1-1280x667.jpg" alt="Vanillaware Artist Moved Into The Mountains For Six Years To Create Lush Love Letter To Old School RPGs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/vanillaware-artist-moved-into-the-mountains-for-six-years-to-create-lush-love-letter-to-old-school-rpgs-2000715013" target="_blank">Vanillaware Artist Moved Into The Mountains For Six Years To Create Lush Love Letter To Old School RPGs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-12 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 11:59 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 12:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
