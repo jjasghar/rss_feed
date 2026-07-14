@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 20:22:23 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-07-14 21:18:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 20:22 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 21:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,10 +44,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/14/nx-s1-5893692/2026-world-cup-fifa-spain-france-semifinal" target="_blank">Spain sparkles to shock France 2-0 and advance to the World Cup final</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-14 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/401/582/47163002912-1080pnbcstations.jpg" alt="Pedro Porro se escapa y define como crack para el 0-2 de España sobre Francia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/pedro-porro-se-escapa-y-define-como-crack-para-el-0-2-de-espana-sobre-francia-tmvo13203737" target="_blank">Pedro Porro se escapa y define como crack para el 0-2 de España sobre Francia</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-14 20:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss" target="_blank">Worker killed in furnace explosion fire at Indian recycling plant</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-14 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c0/live/e8f90230-7fb4-11f1-926f-c90d1bcfbc84.jpg" alt="Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss" target="_blank">Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-14 20:10</span>
             </div>
         </div>
 <div class="story">
@@ -69,33 +95,6 @@
                 <span class="time">2026-07-14 18:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-drops-20-strait-of-hormuz-fee-plan?traffic_source=rss" target="_blank">US President Trump drops 20% Strait of Hormuz fee plan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-14 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/14/nx-s1-5893598/e-jean-carroll-trump-sexual-abuse-defamation" target="_blank">E. Jean Carroll receives $5.6 million from Trump in sexual abuse and defamation case</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-14 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-12-rt-gmh-260714_1784045888972_hpMain_4x3t_384.jpg" alt="Iran live updates: US launches airstrikes against Iran, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US launches airstrikes against Iran, official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-14 17:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,6 +107,15 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/" target="_blank">Lawsuit claims Meta&#x27;s layoff decisions were made by AI, not humans</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-14 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/" target="_blank">Apple opens its new Siri AI to everyone with the iOS 27 public beta</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-14 19:42</span>
             </div>
         </div>
 <div class="story">
@@ -146,20 +154,20 @@
                 <span class="time">2026-07-14 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale" target="_blank">Philips Hue&amp;#8217;s budget-friendly Essential starter kit has hit a new low price</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-14 17:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/imacto/ownership-theater-3hdd" target="_blank">Ownership Theater</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-14 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,19 +207,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bielcoelho/como-o-brtech-implementa-anonimato-de-verdade-a-arquitetura-de-privacidade-por-tras-dos-relatos-1dli" target="_blank">Como o brtech implementa anonimato de verdade: a arquitetura de privacidade por tras dos relatos</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-14 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!CaGY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d4f687c-ee1a-4bb9-89fe-148a7f8d07ca_2048x984.png" alt="What is “loop engineering?”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering" target="_blank">What is “loop engineering?”</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-07-14 17:01</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://prismml.com/news/bonsai-27b" target="_blank">Bonsai 27B: A 27B-Class model that runs on a phone</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-14 17:50</span>
             </div>
         </div>
 </div>
@@ -333,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 20:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 21:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
