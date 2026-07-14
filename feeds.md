@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 01:30:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-14 02:58:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/14/hungarys-parliament-votes-to-oust-president-in-latest-anti-orban-move?traffic_source=rss" target="_blank">Hungary’s parliament votes to oust president in latest anti-Orban move</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-14 02:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg" alt="UAE condemns Iran&#x27;s &#x27;brazen&#x27; attack on tankers as US launches fresh strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +94,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/s-c-gov-mcmaster-appoints-darline-graham-nordone-to-fill-sen-lindsey-graham-s-seat-266608709594" target="_blank">S.C. Gov McMaster appoints Darline Graham Nordone to fill Sen. Lindsey Graham&#x27;s seat</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-07-13 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs" target="_blank">Trump&#x27;s HHS abandons threat to withhold Medicare and Medicaid funding over trans care</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-13 20:22</span>
             </div>
         </div>
 </div>
@@ -169,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lalitm.com/post/git-history/" target="_blank">The Git history command deserves more attention</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-14 00:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Improve-Multi-Swap-Device" target="_blank">New Linux Patches Aim To Better Handle Multiple Swap Devices</a></span>
                 <span class="feed">Phoronix</span>
@@ -209,15 +212,6 @@
                 <span class="title"><a href="https://www.whois.com/whois/t.me" target="_blank">Telegram&#x27;s t.me domain has been suspended</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-13 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ilmartotch/architecture-first-vs-problem-first-what-five-months-of-over-engineering-looks-like-4jbd" target="_blank">Architecture-first vs problem-first: what five months of over-engineering looks like</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-13 18:24</span>
             </div>
         </div>
 </div>
@@ -343,13 +337,22 @@
                 <span class="time">2026-07-13 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/the_princess_and_the_pea.png" alt="The Princess and the Pea" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3271/" target="_blank">The Princess and the Pea</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-07-13 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
