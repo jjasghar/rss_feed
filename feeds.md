@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 21:18:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-07-14 22:17:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 21:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 22:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +106,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278375280-1-500x500.jpg" alt="Americans in Congo barred from returning home amid Ebola outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/" target="_blank">Americans in Congo barred from returning home amid Ebola outbreak</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-14 22:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a56781e86e56eae23982c5f/master/pass/GettyImages-1738682825.jpg" alt="The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/" target="_blank">The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-14 22:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/" target="_blank">OpenAI pushes back on Apple trade secret lawsuit</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-14 22:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/meta-ai-500x500-1784056221.jpg" alt="Lawsuit claims Meta&#x27;s layoff decisions were made by AI, not humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -127,38 +159,20 @@
                 <span class="time">2026-07-14 19:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-500x500.jpg" alt="Probe into explosive diarrheal cases points to Taco Bell and bad lettuce" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/" target="_blank">Probe into explosive diarrheal cases points to Taco Bell and bad lettuce</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-14 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/US-military-drone-boat-attack-on-Iranian-port-500x500.png" alt="US military sent explosive drone boats into combat for the first time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/" target="_blank">US military sent explosive drone boats into combat for the first time</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-14 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/" target="_blank">DeepMind CEO calls for an independent standards body to regulate frontier AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-14 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/botoclock/i-built-a-one-curl-audio-translator-with-telnyx-ai-inference-39f9" target="_blank">I Built a One-Curl Audio Translator with Telnyx AI Inference</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-14 22:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +218,6 @@
                 <span class="time">2026-07-14 18:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://prismml.com/news/bonsai-27b" target="_blank">Bonsai 27B: A 27B-Class model that runs on a phone</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-14 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/f313c795a8d84cf14699cfc1cbe24af9-1280x720.jpg" alt="Monster Hunter Wilds Getting Permanent Price Cut Ahead Of Ascendance Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/monster-hunter-wilds-getting-permanent-price-cut-ahead-of-ascendance-expansion-2000715939" target="_blank">Monster Hunter Wilds Getting Permanent Price Cut Ahead Of Ascendance Expansion</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-14 21:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KXGWB9Y7HBJ6M1EJYWTZJ2A6/hero-image.jpg" alt="How to Join the Waitlist to Try the New Siri AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +300,6 @@
                 <span class="time">2026-07-14 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2417911431.jpg?fit=1200%2C899&amp;quality=60&amp;ssl=1" alt="The only curse on Venice&#x27;s cursed island is us" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/14/the-only-curse-on-venices-cursed-island-is-us.html" target="_blank">The only curse on Venice&#x27;s cursed island is us</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-14 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 21:18 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 22:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
