@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 13:29:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-14 14:31:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 13:29 UTC</div>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 14:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdd0/live/6d55b4a0-7f84-11f1-926f-c90d1bcfbc84.jpg" alt="Wildfires burn in parts of UK as fire chiefs warn of extreme pressure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwyey14r4wzo?at_medium=RSS&at_campaign=rss" target="_blank">Wildfires burn in parts of UK as fire chiefs warn of extreme pressure</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-14 11:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -87,20 +96,20 @@
                 <span class="time">2026-07-14 10:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/bahrain-main_1784014454279_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran fires at Bahrain, Jordan after US strikes, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: Iran fires at Bahrain, Jordan after US strikes, officials say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-14 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/" target="_blank">The real AI race may no longer be at the frontier</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-14 14:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +153,6 @@
                 <span class="title"><a href="https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/" target="_blank">The Chatbot That Foretold Why People Share Secrets With ChatGPT</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-14 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/" target="_blank">Pinwheel launches a retro-inspired landline phone for kids</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-14 09:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 14:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
