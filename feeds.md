@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 05:45:01 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-14 06:39:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 05:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 06:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss" target="_blank">Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Ira</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-14 05:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6d2/live/afef9d70-7f30-11f1-87b5-9b54c3cfd843.jpg" alt="Death toll from Bangkok bar fire rises to 30 as police probe safety lapses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss" target="_blank">Death toll from Bangkok bar fire rises to 30 as police probe safety lapses</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-14 03:47</span>
             </div>
         </div>
 <div class="story">
@@ -87,20 +100,20 @@
                 <span class="time">2026-07-13 22:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Darline-Graham-1-ht-gmh-260713_1783974180637_hpMain_4x3t_384.jpg" alt="South Carolina governor picks Lindsey Graham&#x27;s sister to finish his Senate term" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-lindsey-grahams-sister-finish-senate-term/story?id=134716714" target="_blank">South Carolina governor picks Lindsey Graham&#x27;s sister to finish his Senate term</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-13 20:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Hotels.com Coupon Codes for July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hotels-com-coupon/" target="_blank">Hotels.com Coupon Codes for July 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-14 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +159,6 @@
                 <span class="time">2026-07-13 22:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284895790-500x500.jpg" alt="US continues to shun Ebola-infected citizens; second American sent to Germany" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/" target="_blank">US continues to shun Ebola-infected citizens; second American sent to Germany</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-13 22:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,9 +168,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amrree/business-automation-architect-turn-your-ai-agent-into-an-automation-engine-2faj" target="_blank">Business Automation Architect: Turn Your AI Agent Into an Automation Engine</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-14 06:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/anashussain284/why-laravels-service-container-feels-like-magic-dependency-injection-explained-23fm" target="_blank">Why Laravel&#x27;s Service Container Feels Like Magic: Dependency Injection Explained</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-14 05:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/" target="_blank">Japan develops a method to recover up to 90% of lithium from used EV batteries</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-14 02:27</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/keypdf_official/there-are-around-10-independent-pdf-engines-and-i-built-a-new-one-from-scratch-lj2" target="_blank">There are around 10 independent PDF engines, and I built a new one from scratch.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-13 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcovlwo462ckyuyxdvwkw.png" alt="Bumblebee: Perplexity AI Open-Sources a Safe Supply-Chain Scanner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/terminalchai/bumblebee-perplexity-ai-open-sources-a-safe-supply-chain-scanner-ief" target="_blank">Bumblebee: Perplexity AI Open-Sources a Safe Supply-Chain Scanner</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-13 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://werd.io/climate-gov-was-destroyed-open-data-saved-it/" target="_blank">Climate.gov was destroyed. Open data saved it</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-13 19:57</span>
             </div>
         </div>
 </div>
@@ -342,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 05:45 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 06:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
