@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 14:31:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-14 15:27:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 14:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 15:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/money-works/2026/7/14/how-the-late-father-emir-transformed-qatars-economy?traffic_source=rss" target="_blank">How the late Father Emir transformed Qatar’s economy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-14 15:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +102,38 @@
                 <span class="time">2026-07-14 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99fe/live/586f3910-7f63-11f1-9609-01288c52c40a.jpg" alt="Police continue to question murder suspect over Ann Widdecombe&#x27;s killing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yzyr3np8xo?at_medium=RSS&at_campaign=rss" target="_blank">Police continue to question murder suspect over Ann Widdecombe&#x27;s killing</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-14 10:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/965360/x-algorithm-tweak-mutuals-strangers-community" target="_blank">X admits its broken algorithm made the site feel like a &amp;#8216;battleground&amp;#8217;</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-14 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/" target="_blank">New York State halts construction of all new data centers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-14 15:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276391767-500x500.jpg" alt="New York bans data center construction for a year, rattling AI industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/" target="_blank">New York bans data center construction for a year, rattling AI industry</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-14 15:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,38 +161,20 @@
                 <span class="time">2026-07-14 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance" target="_blank">The first sunlight reflecting space mirror has been cleared for launch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-14 11:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a554a624d9965d1a9a58c89/master/pass/Review--Oura-Ring-5.jpg" alt="Oura Ring 5 Review: Still the Smart Ring to Beat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/oura-ring-5/" target="_blank">Oura Ring 5 Review: Still the Smart Ring to Beat</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-14 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a50305c2d9a50a68798f001/master/pass/inventing_eliza_chatbot_book.jpg" alt="The Chatbot That Foretold Why People Share Secrets With ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/" target="_blank">The Chatbot That Foretold Why People Share Secrets With ChatGPT</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-14 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/agentic-resource-discovery-spec/en/headerimage/generatedHeaderImage-1783309687458.jpg" alt="Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-14 13:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +220,6 @@
                 <span class="time">2026-07-14 11:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17380029/open-source-trello-alternatives" target="_blank">7 Open Source Trello Alternatives For Your Kanban Boards</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-14 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,20 +234,29 @@
                 <span class="time">2026-07-14 11:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/" target="_blank">Lessons Learned from CISA’s Recent GitHub Leak</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-07-13 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXGHA4SNE631RPZK5530ESY1/hero-image.jpg" alt="Microsoft Is Finally Fixing Windows Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/microsoft-is-finally-fixing-windows-search?utm_medium=RSS" target="_blank">Microsoft Is Finally Fixing Windows Search</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-14 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2417911431.jpg?fit=1200%2C899&amp;quality=60&amp;ssl=1" alt="The only curse on Venice&#x27;s cursed island is us" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/14/the-only-curse-on-venices-cursed-island-is-us.html" target="_blank">The only curse on Venice&#x27;s cursed island is us</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-14 14:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/switch-2-oled-1280x720.jpg" alt="Rumors Of A Switch 2 OLED Are In The Air, Despite Price Rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +293,6 @@
                 <span class="time">2026-07-13 23:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/sephiroth-noodles.jpg" alt="We’re Finally Getting An Instant Cup Of Noodles You Can Make With Cold Water" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/were-finally-getting-an-instant-cup-of-noodles-you-can-make-with-cold-water-2000715361" target="_blank">We’re Finally Getting An Instant Cup Of Noodles You Can Make With Cold Water</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-13 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Dell-Latitude-7300-Touchscreen-2019-i5-1.6GHz-16GB-RAM-256GB-SSD-Win11Pro-Refurbished.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This refurbished Dell Latitude laptop is just $250 with Windows 11 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/13/this-refurbished-dell-latitude-laptop-is-just-250-with-windows-11-pro.html" target="_blank">This refurbished Dell Latitude laptop is just $250 with Windows 11 Pro</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-13 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,22 +316,13 @@
                 <span class="time">2026-07-13 22:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1783897667-20260713.png" alt="Saturday Morning Breakfast Cereal - Evolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/evolution-10" target="_blank">Saturday Morning Breakfast Cereal - Evolution</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-13 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 14:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 15:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
