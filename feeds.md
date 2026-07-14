@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 04:03:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-14 05:45:01 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 04:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 05:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss" target="_blank">Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Ira</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-14 05:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +94,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trump-lindsey-grahams-sister-finish-senate-term/story?id=134716714" target="_blank">South Carolina governor picks Lindsey Graham&#x27;s sister to finish his Senate term</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-13 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783974864663_f_mo_mcmaster_graham_nordone_senate_260713_S3_1920x1080-vmsgvy.jpg" alt="S.C. Gov McMaster appoints Darline Graham Nordone to fill Sen. Lindsey Graham&#x27;s seat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/s-c-gov-mcmaster-appoints-darline-graham-nordone-to-fill-sen-lindsey-graham-s-seat-266608709594" target="_blank">S.C. Gov McMaster appoints Darline Graham Nordone to fill Sen. Lindsey Graham&#x27;s seat</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-13 20:34</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anashussain284/why-laravels-service-container-feels-like-magic-dependency-injection-explained-23fm" target="_blank">Why Laravel&#x27;s Service Container Feels Like Magic: Dependency Injection Explained</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-14 05:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://lalitm.com/post/git-history/" target="_blank">The Git history command deserves more attention</a></span>
                 <span class="feed">Hacker News</span>
@@ -203,15 +212,6 @@
                 <span class="title"><a href="https://werd.io/climate-gov-was-destroyed-open-data-saved-it/" target="_blank">Climate.gov was destroyed. Open data saved it</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-13 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.whois.com/whois/t.me" target="_blank">Telegram&#x27;s t.me domain has been suspended</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-13 19:52</span>
             </div>
         </div>
 </div>
@@ -342,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 04:03 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 05:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
