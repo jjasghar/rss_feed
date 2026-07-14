@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 17:24:53 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-14 18:19:28 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 14 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 17:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 18:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-drops-20-strait-of-hormuz-fee-plan?traffic_source=rss" target="_blank">US President Trump drops 20% Strait of Hormuz fee plan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-14 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/14/nx-s1-5893598/e-jean-carroll-trump-sexual-abuse-defamation" target="_blank">E. Jean Carroll receives $5.6 million from Trump in sexual abuse and defamation case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-14 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-12-rt-gmh-260714_1784045888972_hpMain_4x3t_384.jpg" alt="Iran live updates: US launches airstrikes against Iran, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US launches airstrikes against Iran, official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-14 17:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +102,47 @@
                 <span class="time">2026-07-14 15:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany" target="_blank">New US Ebola patient arrives in Germany for treatment</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-14 12:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger" target="_blank">U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-14 12:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784027775876_tdy_news_7a_simmons_us_attacks_iran_260714_S3_1920x1080-g2wjdb.jpg" alt="US Escalates Attacks on Iran; Trump to Restart Naval Blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/us-escalates-attacks-on-iran-trump-to-restart-naval-blockade-266634309728" target="_blank">US Escalates Attacks on Iran; Trump to Restart Naval Blockade</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-14 11:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/US-military-drone-boat-attack-on-Iranian-port-500x500.png" alt="US military sent explosive drone boats into combat for the first time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/" target="_blank">US military sent explosive drone boats into combat for the first time</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-14 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/" target="_blank">DeepMind CEO calls for an independent standards body to regulate frontier AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-14 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale" target="_blank">Philips Hue&amp;#8217;s budget-friendly Essential starter kit has hit a new low price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-14 17:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a1fe7c1687fab906bddd9be/master/pass/WIRED-WC26-Cristian-Mera-How-To-Watch.png" alt="How To Watch the 2026 FIFA World Cup Semifinals: France vs Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-14-2026/" target="_blank">How To Watch the 2026 FIFA World Cup Semifinals: France vs Spain</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-14 17:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,42 +161,6 @@
                 <span class="time">2026-07-14 16:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/965123/asus-rog-xbox-ally-x20-oled-preview" target="_blank">The OLED Xbox Ally X20 is so good, Asus will sell it solo</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-14 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a553fec9abf9605b011c81e/master/pass/Culture_TumblrNudityProblem_v4.gif" alt="YouTube and X Have Become ‘Gateways’ to Nudify Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/" target="_blank">YouTube and X Have Become ‘Gateways’ to Nudify Apps</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-14 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/965360/x-algorithm-tweak-mutuals-strangers-community" target="_blank">X admits its broken algorithm made the site feel like a &amp;#8216;battleground&amp;#8217;</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-14 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/" target="_blank">New York State halts construction of all new data centers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-14 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,9 +170,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ap_09/understanding-data-types-and-operators-in-c-the-foundation-every-beginner-should-master-4o9k" target="_blank">Understanding Data Types and Operators in C: The Foundation Every Beginner Should Master</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-14 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bielcoelho/como-o-brtech-implementa-anonimato-de-verdade-a-arquitetura-de-privacidade-por-tras-dos-relatos-1dli" target="_blank">Como o brtech implementa anonimato de verdade: a arquitetura de privacidade por tras dos relatos</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-14 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!CaGY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d4f687c-ee1a-4bb9-89fe-148a7f8d07ca_2048x984.png" alt="What is “loop engineering?”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering" target="_blank">What is “loop engineering?”</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-07-14 17:01</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Blender-5.2-Released" target="_blank">Blender 5.2 LTS Released With Many Great Enhancements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-14 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.verbaprima.com/" target="_blank">Show HN: Opening lines of famous literary works</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-14 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17380180/gnome-test-center-announcement" target="_blank">GNOME Wants to Let You Test Experimental Features Without Breaking Anything</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-14 15:07</span>
             </div>
         </div>
 </div>
@@ -245,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2020/11/g8gxul0frqirl5ksbeae-1280x720.jpg" alt="Games Industry Veterans Say Console Makers Have To Innovate To Survive: ‘We Should Be Afraid Of The Thousand-Dollar Console’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/games-industry-veterans-console-makers-innovate-thousand-dollar-console-2000715828" target="_blank">Games Industry Veterans Say Console Makers Have To Innovate To Survive: ‘We Should Be Afraid Of The Thousand-Dollar Console’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-14 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXEPSRVFA5RMPYFV5W1Z5M37/hero-image.jpg" alt="10 Shows Like &#x27;I Will Find You&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-i-will-find-you?utm_medium=RSS" target="_blank">10 Shows Like &#x27;I Will Find You&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-14 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KXGHA4SNE631RPZK5530ESY1/hero-image.jpg" alt="Microsoft Is Finally Fixing Windows Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,29 +302,20 @@
                 <span class="time">2026-07-14 13:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_1423696646.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Chipotle Mexican Grill actually opening a restaurant in Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/14/chipotle-mexican-grill-actually-opening-a-restaurant-in-mexico.html" target="_blank">Chipotle Mexican Grill actually opening a restaurant in Mexico</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-14 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-14 03:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1783978253-20260714.png" alt="Saturday Morning Breakfast Cereal - Communication" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/communication-2" target="_blank">Saturday Morning Breakfast Cereal - Communication</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-14 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5872.png" alt="Psybrarian" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -327,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 17:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 18:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
