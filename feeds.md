@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 00:17:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-14 01:30:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 00:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +108,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/starship_raptor3s-500x500.jpg" alt="SpaceX is gearing up for Starship&#x27;s 13th test flight later this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/" target="_blank">SpaceX is gearing up for Starship&#x27;s 13th test flight later this week</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-14 01:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/" target="_blank">Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-14 00:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a551c101ded9c2b42f746e0/master/pass/Movie-Guide-Project-Hail-Mary-Culture-MCDPRHA_MG004.jpg" alt="The Best Movies to Stream This Month (July 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -137,29 +161,20 @@
                 <span class="time">2026-07-13 21:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale" target="_blank">A two-pack of DJI&amp;#8217;s most capable wireless mics just got its first price cut</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-13 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/" target="_blank">Satya Nadella has issued a shocking warning to companies using AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-13 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Improve-Multi-Swap-Device" target="_blank">New Linux Patches Aim To Better Handle Multiple Swap Devices</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-14 00:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/ilmartotch/architecture-first-vs-problem-first-what-five-months-of-over-engineering-looks-like-4jbd" target="_blank">Architecture-first vs problem-first: what five months of over-engineering looks like</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-13 18:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/" target="_blank">Building and Shipping Mac and iOS Apps Without Ever Opening Xcode</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-13 18:22</span>
             </div>
         </div>
 </div>
@@ -302,6 +308,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5872.png" alt="Psybrarian" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5872" target="_blank">Psybrarian</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-14 01:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -328,22 +343,13 @@
                 <span class="time">2026-07-13 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5871.png" alt="To Have And To Hold" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5871" target="_blank">To Have And To Hold</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-13 01:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 00:17 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
