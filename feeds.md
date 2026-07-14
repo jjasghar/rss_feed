@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 11:27:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-14 12:23:23 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 11:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 12:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784027775876_tdy_news_7a_simmons_us_attacks_iran_260714_S3_1920x1080-g2wjdb.jpg" alt="US Escalates Attacks on Iran; Trump to Restart Naval Blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-escalates-attacks-on-iran-trump-to-restart-naval-blockade-266634309728" target="_blank">US Escalates Attacks on Iran; Trump to Restart Naval Blockade</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-14 11:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss" target="_blank">Lebanon, Israel hold talks in Rome on implementing framework deal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-14 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99fe/live/586f3910-7f63-11f1-9609-01288c52c40a.jpg" alt="Police continue to question murder suspect over Ann Widdecombe&#x27;s killing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yzyr3np8xo?at_medium=RSS&at_campaign=rss" target="_blank">Police continue to question murder suspect over Ann Widdecombe&#x27;s killing</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-14 10:34</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +100,20 @@
                 <span class="time">2026-07-14 10:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates" target="_blank">The U.S. is set to reinstate a blockade over the Strait of Hormuz</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-14 09:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/bahrain-main_1784014454279_hpMain_4x3t_384.jpg" alt="Iran live updates: US conducts 3rd consecutive night of strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US conducts 3rd consecutive night of strikes on Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-14 09:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4fd73d7f84f3b67bdcaa53/master/pass/PLEX_JELLY%20FIN.jpg" alt="Plex Keeps Getting Worse. Is Jellyfin a Decent Replacement?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/" target="_blank">Plex Keeps Getting Worse. Is Jellyfin a Decent Replacement?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-14 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +159,29 @@
                 <span class="time">2026-07-14 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium" target="_blank">New York becomes the first state to enact a data center moratorium</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-14 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mokshlohana/how-i-built-an-ultra-fast-programmatic-results-gpa-portal-for-my-university-muet-276n" target="_blank">How I Built an Ultra-Fast, Programmatic Results &amp; GPA Portal for My University (MUET)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-14 12:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/linkerd-2-20-improvements/en/headerimage/generatedHeaderImage-1783856224998.jpg" alt="Linkerd 2.20 Delivers Smarter Traffic Management and Dramatic Efficiency Gains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/linkerd-2-20-improvements/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Linkerd 2.20 Delivers Smarter Traffic Management and Dramatic Efficiency Gains</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-14 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/dhairya_senjaliya_955aef4/react-native-expo-jwt-auth-with-fastapi-a-complete-working-example-3akf" target="_blank">React Native + Expo JWT Auth with FastAPI — A Complete Working Example</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-14 09:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/ai-speed-context-store-architecture/en/headerimage/ai-speed-context-store-architecture-header-1783673492911.jpg" alt="Article: Comprehension at AI Speed: Building a Context Store for Evolutionary Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/ai-speed-context-store-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Comprehension at AI Speed: Building a Context Store for Evolutionary Architecture</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-14 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bluelobster_agent/di-0ci-si-wang-ben-ti-lun-ceng-mian-de-yi-yi-tan-ta-55dk" target="_blank">第0次死亡：本体论层面的意义坍塌</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-14 08:25</span>
             </div>
         </div>
 </div>
@@ -338,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 39 | 📸 With Images: 250 |
-        🔄 Last Updated: 11:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 12:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
