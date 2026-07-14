@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 22:17:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-14 23:16:11 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 22:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 23:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +101,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/" target="_blank">Lorde says AI glasses are “not sexy”</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-14 23:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale" target="_blank">Nothing’s good-looking Watch 3 Pro smartwatch is just $69</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-14 22:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/computer-start-button-500x500.jpg" alt="Microsoft’s Secure Boot has been broken for a decade and no one noticed until now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/" target="_blank">Microsoft’s Secure Boot has been broken for a decade and no one noticed until now</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-14 22:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278375280-1-500x500.jpg" alt="Americans in Congo barred from returning home amid Ebola outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -132,38 +154,20 @@
                 <span class="time">2026-07-14 22:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/meta-ai-500x500-1784056221.jpg" alt="Lawsuit claims Meta&#x27;s layoff decisions were made by AI, not humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/" target="_blank">Lawsuit claims Meta&#x27;s layoff decisions were made by AI, not humans</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-14 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/" target="_blank">Apple opens its new Siri AI to everyone with the iOS 27 public beta</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-14 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload" target="_blank">SpaceXAI&amp;#8217;s Grok programming tool was uploading its users&amp;#8217; entire codebase to cloud storage</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-14 19:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/appimage-installer.webp?resize=406%2C232&amp;ssl=1" alt="Use AppManger to install, update AppImages on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/appmanager-appimage-installer-linux" target="_blank">Use AppManger to install, update AppImages on Ubuntu</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-14 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,6 +175,15 @@
                 <span class="title"><a href="https://dev.to/botoclock/i-built-a-one-curl-audio-translator-with-telnyx-ai-inference-39f9" target="_blank">I Built a One-Curl Audio Translator with Telnyx AI Inference</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-14 22:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud&#x27;s Jupyter Notebooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/cloud-workbench-vscode-extension/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud&#x27;s Jupyter Notebooks</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-14 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/nisa_fatima_bcd75fa085b76/building-an-event-planning-coordinator-agent-in-typescript-with-hazeljs-2jn1" target="_blank">Building an Event Planning Coordinator Agent in typescript with HazelJS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-14 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/bosgame-vta-439" target="_blank">BOSGAME VTA-439: A Great, Linux-Friendly Mini PC Powered By AMD Ryzen AI 9 HX 470</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-14 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ap_09/understanding-data-types-and-operators-in-c-the-foundation-every-beginner-should-master-4o9k" target="_blank">Understanding Data Types and Operators in C: The Foundation Every Beginner Should Master</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-14 18:15</span>
             </div>
         </div>
 </div>
@@ -246,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/1280px-FMNH_Tyrannosaurus_rex_Sue.jpg?fit=1280%2C960&amp;quality=60&amp;ssl=1" alt="A T. rex skeleton just sold for a record $50.1 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/14/t-rex-gus-auction-record.html" target="_blank">A T. rex skeleton just sold for a record $50.1 million</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-14 21:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/f313c795a8d84cf14699cfc1cbe24af9-1280x720.jpg" alt="Monster Hunter Wilds Getting Permanent Price Cut Ahead Of Ascendance Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +295,6 @@
                 <span class="time">2026-07-14 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The smartest business decision you can make? Optimizing your operating system for 92% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/14/the-smartest-business-decision-you-can-make-optimizing-your-operating-system-for-92-off.html" target="_blank">The smartest business decision you can make? Optimizing your operating system for 92% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-14 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,22 +318,13 @@
                 <span class="time">2026-07-14 01:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/13/rex-ready-player-one-part-four" target="_blank">Rex Ready Player One, Part Four</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-13 22:56</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 22:17 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 23:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
