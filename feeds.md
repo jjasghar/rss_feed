@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 18:19:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-14 19:27:37 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 18:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 19:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/14/us-risks-falling-into-escalation-trap-if-it-deploys-troops-in-iran?traffic_source=rss" target="_blank">US risks falling into ‘escalation trap’ if it deploys troops in Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-14 18:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +99,20 @@
                 <span class="time">2026-07-14 15:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/money-works/2026/7/14/how-the-late-father-emir-transformed-qatars-economy?traffic_source=rss" target="_blank">How the late Father Emir transformed Qatar’s economy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-14 15:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-500x500.jpg" alt="Probe into explosive diarrheal cases points to Taco Bell and bad lettuce" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/" target="_blank">Probe into explosive diarrheal cases points to Taco Bell and bad lettuce</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-14 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/US-military-drone-boat-attack-on-Iranian-port-500x500.png" alt="US military sent explosive drone boats into combat for the first time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +158,29 @@
                 <span class="time">2026-07-14 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-500x500-1748638352.jpg" alt="Google revamps image search for its 25th anniversary with more images and more AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/" target="_blank">Google revamps image search for its 25th anniversary with more images and more AI</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-14 16:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nisa_fatima_bcd75fa085b76/building-an-event-planning-coordinator-agent-in-typescript-with-hazeljs-2jn1" target="_blank">Building an Event Planning Coordinator Agent in typescript with HazelJS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-14 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/bosgame-vta-439" target="_blank">BOSGAME VTA-439: A Great, Linux-Friendly Mini PC Powered By AMD Ryzen AI 9 HX 470</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-14 18:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +217,6 @@
                 <span class="time">2026-07-14 16:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ethanwritesai/we-gated-ci-on-six-open-source-llm-eval-frameworks-only-two-survived-the-merge-queue-5elf" target="_blank">We gated CI on six open-source LLM eval frameworks. Only two survived the merge queue.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-14 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Blender-5.2-Released" target="_blank">Blender 5.2 LTS Released With Many Great Enhancements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-14 16:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXGWB9Y7HBJ6M1EJYWTZJ2A6/hero-image.jpg" alt="How to Join the Waitlist to Try the New Siri AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-join-apples-new-siri-ai-waitlist?utm_medium=RSS" target="_blank">How to Join the Waitlist to Try the New Siri AI</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-14 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2020/11/g8gxul0frqirl5ksbeae-1280x720.jpg" alt="Games Industry Veterans Say Console Makers Have To Innovate To Survive: ‘We Should Be Afraid Of The Thousand-Dollar Console’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +299,6 @@
                 <span class="time">2026-07-14 14:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/switch-2-oled-1280x720.jpg" alt="Rumors Of A Switch 2 OLED Are In The Air, Despite Price Rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-2-oled-version-samsung-rumor-leak-upgrade-2028-2000715789" target="_blank">Rumors Of A Switch 2 OLED Are In The Air, Despite Price Rises</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-14 13:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 18:19 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 19:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
