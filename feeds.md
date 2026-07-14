@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-13 23:17:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-14 00:17:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, July 13, 2026 - 23:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 00:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg" alt="UAE condemns Iran&#x27;s &#x27;brazen&#x27; attack on tankers as US launches fresh strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss" target="_blank">UAE condemns Iran&#x27;s &#x27;brazen&#x27; attack on tankers as US launches fresh strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-13 23:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +96,20 @@
                 <span class="time">2026-07-13 20:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg" alt="Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss" target="_blank">Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-13 20:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a551c101ded9c2b42f746e0/master/pass/Movie-Guide-Project-Hail-Mary-Culture-MCDPRHA_MG004.jpg" alt="The Best Movies to Stream This Month (July 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-8-best-movies-to-stream-right-now/" target="_blank">The Best Movies to Stream This Month (July 2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-13 23:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a5511c8d6b114b9e570ecd7/master/pass/Sam-Neill-Death-Culture-129738219.jpg" alt="Sam Neill Inspired a Generation of Scientists" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,15 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/" target="_blank">Satya Nadella has issued a shocking warning to companies using AI</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-13 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5116065a78161ead45bb3e/master/pass/VR%20Mundial%202026%202284546127.jpg" alt="The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/" target="_blank">The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-13 19:55</span>
             </div>
         </div>
 </div>
@@ -262,6 +252,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Dell-Latitude-7300-Touchscreen-2019-i5-1.6GHz-16GB-RAM-256GB-SSD-Win11Pro-Refurbished.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This refurbished Dell Latitude laptop is just $250 with Windows 11 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/13/this-refurbished-dell-latitude-laptop-is-just-250-with-windows-11-pro.html" target="_blank">This refurbished Dell Latitude laptop is just $250 with Windows 11 Pro</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-13 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXE64WZYJG5E4AR4CQN1GWJM/hero-image.jpg" alt="How to Install the New macOS 27 Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-install-the-macos-27-beta?utm_medium=RSS" target="_blank">How to Install the New macOS 27 Beta</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-13 20:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/ganonwheel-1280x720.jpg" alt="Someone Trapped Zelda: Tears Of The Kingdom’s Ganondorf Inside A Hamster Wheel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -286,24 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/the-atlantic-lemony-snicket-genai-ai-llm-puzzle-game-2000715264" target="_blank">The Atlantic Released A GenAI Lemony Snicket Game That Bans You If You Go Off-Script</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-13 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GJP3084DNMZCREEABHZ6V/hero-image.png" alt="Here&#x27;s How Clear Whey Powder Compares to the Regular Kind" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/what-is-clear-whey-protein-powder?utm_medium=RSS" target="_blank">Here&#x27;s How Clear Whey Powder Compares to the Regular Kind</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-13 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/everest-e1782835729237.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Sherpa left for dead on Everest tells his story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/13/sherpa-left-for-dead-on-everest-tells-his-story.html" target="_blank">Sherpa left for dead on Everest tells his story</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-13 17:46</span>
             </div>
         </div>
 </div>
@@ -352,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 23:17 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 00:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
