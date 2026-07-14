@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 08:40:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-14 09:31:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 08:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, July 14, 2026 - 09:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/14/emir-of-qatar-receives-condolences-on-the-death-of-the-father-emir?traffic_source=rss" target="_blank">Emir of Qatar receives condolences on the death of the Father Emir</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-14 09:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +102,29 @@
                 <span class="time">2026-07-14 02:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg" alt="UAE condemns Iran&#x27;s &#x27;brazen&#x27; attack on tankers as US launches fresh strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss" target="_blank">UAE condemns Iran&#x27;s &#x27;brazen&#x27; attack on tankers as US launches fresh strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-13 23:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a54c2f2fb247c83ade3f957/master/pass/GettyImages-2269243394.jpg" alt="DOGE Used AI for Housing Policy. The Government Won’t Say How" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/doge-deployed-ai-housing-policy/" target="_blank">DOGE Used AI for Housing Policy. The Government Won’t Say How</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-14 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium" target="_blank">New York becomes the first state to enact a data center moratorium</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-14 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Hotels.com Coupon Codes for July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +161,29 @@
                 <span class="time">2026-07-14 00:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a551c101ded9c2b42f746e0/master/pass/Movie-Guide-Project-Hail-Mary-Culture-MCDPRHA_MG004.jpg" alt="The Best Movies to Stream This Month (July 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-8-best-movies-to-stream-right-now/" target="_blank">The Best Movies to Stream This Month (July 2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-13 23:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5511c8d6b114b9e570ecd7/master/pass/Sam-Neill-Death-Culture-129738219.jpg" alt="Sam Neill Inspired a Generation of Scientists" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/" target="_blank">Sam Neill Inspired a Generation of Scientists</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-13 22:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dhairya_senjaliya_955aef4/react-native-expo-jwt-auth-with-fastapi-a-complete-working-example-3akf" target="_blank">React Native + Expo JWT Auth with FastAPI — A Complete Working Example</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-14 09:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/ai-speed-context-store-architecture/en/headerimage/ai-speed-context-store-architecture-header-1783673492911.jpg" alt="Article: Comprehension at AI Speed: Building a Context Store for Evolutionary Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/ai-speed-context-store-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Comprehension at AI Speed: Building a Context Store for Evolutionary Architecture</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-14 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/anashussain284/why-laravels-service-container-feels-like-magic-dependency-injection-explained-23fm" target="_blank">Why Laravel&#x27;s Service Container Feels Like Magic: Dependency Injection Explained</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-14 05:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/" target="_blank">Japan develops a method to recover up to 90% of lithium from used EV batteries</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-14 02:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lalitm.com/post/git-history/" target="_blank">The Git history command deserves more attention</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-14 00:57</span>
             </div>
         </div>
 </div>
@@ -339,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 08:40 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 09:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
