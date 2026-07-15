@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-14 23:16:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-15 00:16:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, July 14, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 00:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/414/771/47165156126-1080pnbcstations.jpg" alt="Pedro Porro define como crack para el 0-2 de España sobre Francia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/pedro-porro-define-como-crack-para-el-0-2-de-espana-sobre-francia-tmvo13203773" target="_blank">Pedro Porro define como crack para el 0-2 de España sobre Francia</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-14 22:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school" target="_blank">How do young people feel about AI? 7 teens weigh in</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-14 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/14/us-risks-falling-into-escalation-trap-if-it-deploys-troops-in-iran?traffic_source=rss" target="_blank">US risks falling into ‘escalation trap’ if it deploys troops in Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-14 18:32</span>
             </div>
         </div>
 </div>
@@ -160,12 +170,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/appimage-installer.webp?resize=406%2C232&amp;ssl=1" alt="AppManager installs AppImages on Ubuntu without needing FUSE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/appmanager-appimage-installer-linux" target="_blank">AppManager installs AppImages on Ubuntu without needing FUSE</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-14 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/appimage-installer.webp?resize=406%2C232&amp;ssl=1" alt="Use AppManger to install, update AppImages on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/appmanager-appimage-installer-linux" target="_blank">Use AppManger to install, update AppImages on Ubuntu</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-07-14 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.3" target="_blank">COSMIC Epoch 1.3 Released With New Frosted Glass Option</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-14 22:41</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/imacto/ownership-theater-3hdd" target="_blank">Ownership Theater</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-14 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free" target="_blank">FreeBSD 16 Retires The Last Of Its GPL Code From Its Base System</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-14 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nisa_fatima_bcd75fa085b76/building-an-event-planning-coordinator-agent-in-typescript-with-hazeljs-2jn1" target="_blank">Building an Event Planning Coordinator Agent in typescript with HazelJS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-14 19:17</span>
             </div>
         </div>
 </div>
@@ -241,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/7d5fc6400b597e087ccae44e9d0f2d08d20bcd59-1.jpg" alt="Truth Scrapper Is A Cheerful, Messy, and Breezily Queer Mystery I Can’t Wait To Piece Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/truth-scrapper-is-a-cheerful-messy-and-breezily-queer-mystery-i-cant-wait-to-piece-together-2000715933" target="_blank">Truth Scrapper Is A Cheerful, Messy, and Breezily Queer Mystery I Can’t Wait To Piece Together</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-14 22:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/1280px-FMNH_Tyrannosaurus_rex_Sue.jpg?fit=1280%2C960&amp;quality=60&amp;ssl=1" alt="A T. rex skeleton just sold for a record $50.1 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +305,6 @@
                 <span class="time">2026-07-14 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXGHA4SNE631RPZK5530ESY1/hero-image.jpg" alt="Microsoft Is Finally Fixing Windows Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsoft-is-finally-fixing-windows-search?utm_medium=RSS" target="_blank">Microsoft Is Finally Fixing Windows Search</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-14 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 00:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
