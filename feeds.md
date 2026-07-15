@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 20:19:35 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Error processing https://www.penny-arcade.com/feed: The read operation timed out -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-15 21:18:24 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 20:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 21:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/15/nx-s1-5893895/2026-world-cup-fifa-argentina-england-semifinal" target="_blank">Argentina is back in the World Cup final after a thrilling semifinal win over England</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-15 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/518/775/47184378640-1080pnbcstations.jpg" alt="¡Se desata la locura! Lautaro Martínez marca el 2-1 ante Inglaterra" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/se-desata-la-locura-lautaro-martinez-marca-el-2-1-ante-inglaterra-tmvo13204151" target="_blank">¡Se desata la locura! Lautaro Martínez marca el 2-1 ante Inglaterra</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-15 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +102,20 @@
                 <span class="time">2026-07-15 17:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/15/pro-government-militia-seizes-boat-with-houthi-weapons-materials-in-yemen?traffic_source=rss" target="_blank">Pro-government militia seizes boat with ‘Houthi weapons materials’ in Yemen</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-15 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books" target="_blank">Hong Kong booksellers arrested for allegedly selling seditious books</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-15 15:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/" target="_blank">Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-15 20:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +161,20 @@
                 <span class="time">2026-07-15 18:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a56a73aa8c3319e5ecf8c80/master/pass/AI-Lab-AI-Still-Isnt-Smarter-Than-a-Baby-Business.jpg" alt="AI Isn’t Smarter Than a Baby—Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/" target="_blank">AI Isn’t Smarter Than a Baby—Yet</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-15 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnkqftzgjlacwbus17gj6.jpg" alt="Reverse-engineering an MMO Aion 2&#x27;s network protocol to build a real-time DPS meter (Rust + Tauri)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aionon/reverse-engineering-an-mmo-aion-2s-network-protocol-to-build-a-real-time-dps-meter-rust-tauri-3157" target="_blank">Reverse-engineering an MMO Aion 2&#x27;s network protocol to build a real-time DPS meter (Rust + Tauri)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-15 21:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,6 +182,24 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Lemonade-11.0" target="_blank">AMD Releases Lemonade 11.0 Local AI Server With Text-To-Speech, Other New Features</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-15 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/kit-firefox-logo.webp?resize=406%2C232&amp;ssl=1" alt="Firefox is getting updates twice as fast from September" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/firefox-two-week-release-cycle" target="_blank">Firefox is getting updates twice as fast from September</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-15 19:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://thinkingmachines.ai/news/introducing-inkling/" target="_blank">Inkling: Our Open-Weights Model</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-15 18:12</span>
             </div>
         </div>
 <div class="story">
@@ -193,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/mithamovictor/mastering-java-loops-under-the-hood-memory-pitfalls-and-high-scale-optimizations-3e16" target="_blank">Mastering Java Loops: Under the Hood, Memory Pitfalls, and High-Scale Optimizations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-15 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html" target="_blank">Primate Is the Last Great Web Framework</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-15 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/addtoken521/wei-shi-yao-ai-agent-du-chi-bu-kai-workflowkan-dong-xian-dai-ai-ying-yong-de-di-ceng-she-ji-1knb" target="_blank">为什么 AI Agent 都离不开 Workflow？看懂现代 AI 应用的底层设计</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-15 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/razer-blade18-windows-linux" target="_blank">Ubuntu 26.04 LTS vs. Windows 11 vs. CachyOS Performance On A $5399 Laptop</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-15 16:15</span>
             </div>
         </div>
 </div>
@@ -241,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/nvidia-1280x718.jpg" alt="Nvidia Thanks Sega For $5 Million Investment That Saved It As It Now Unleashes RAMageddon On The Gaming Industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nvidia-thanks-sega-for-5-million-investment-that-saved-it-as-it-now-unleashes-ramageddon-on-the-gaming-industry-2000716308" target="_blank">Nvidia Thanks Sega For $5 Million Investment That Saved It As It Now Unleashes RAMageddon On The Gaming Industry</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-15 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/baby-bomb-xbox-1280x720.jpg" alt="Microsoft Deletes User’s Baby Pictures Rather Than Restore Hacked Account" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +293,6 @@
                 <span class="time">2026-07-15 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Brian-Cox-in-Manhunter-The-Final-Cut.jpg?fit=1080%2C631&amp;quality=60&amp;ssl=1" alt="Trailer for Michael Mann&#x27;s &quot;Manhunter: The Final Cut&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/15/trailer-for-michael-manns-manhunter-the-final-cut.html" target="_blank">Trailer for Michael Mann&#x27;s &quot;Manhunter: The Final Cut&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-15 15:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 20:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 21:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
