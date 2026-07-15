@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 13:29:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-15 14:31:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 14:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2430/live/e77a8e60-804a-11f1-8a74-43d9da26a654.jpg" alt="Starmer says it&#x27;s the &#x27;end of my political journey&#x27; at his final Prime Minister&#x27;s Questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yzynxwk05o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer says it&#x27;s the &#x27;end of my political journey&#x27; at his final Prime Minister&#x27;s Questions</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-15 14:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022" target="_blank">China&#x27;s economy grows 4.3% in Q2, slowest since late 2022</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-15 14:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/Senate_DOJ_Blanche_Hearing-2276586160-Getty-2aklqw.jpg" alt="Todd Blanche confirmation hearing for attorney general" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +99,20 @@
                 <span class="time">2026-07-15 11:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784114473050_tdy_news_7a_simmons_iran_us_strikes_260715_S3_1920x1080-h6dgx7.jpg" alt="US Resumes Hormuz Blockade as Trump Threatens More Strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/us-resumes-hormuz-blockade-as-trump-threatens-more-strikes-266707013862" target="_blank">US Resumes Hormuz Blockade as Trump Threatens More Strikes</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-15 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/15/g-s1-133383/extreme-summer-heat-air-conditioning" target="_blank">How to keep cool in this year&#x27;s extreme summer heat even without air conditioning</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-15 11:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/" target="_blank">US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-15 14:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +158,20 @@
                 <span class="time">2026-07-15 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/" target="_blank">Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-15 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/stripe-ai-agents-benchmark/en/headerimage/generatedHeaderImage-1783301844753.jpg" alt="Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-15 14:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/postgres-ai-agents/en/mediumimage/gwen-shapira-medium-1783500671134.jpeg" alt="Presentation: Postgres for Production Agents: Your Relational Foundation for Enterprise AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,27 +203,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://academic.oup.com/sleep/article/47/1/zsad253/7280269" target="_blank">Sleep regularity is a stronger predictor of mortality risk than sleep duration</a></span>
+                <span class="title"><a href="https://academic.oup.com/sleep/article/47/1/zsad253/7280269" target="_blank">Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-15 11:46</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/claude-apps-gateway-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-15 11:04</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Is-Not-Anti-AI" target="_blank">Linus Torvalds Reaffirms That Linux Is Not &quot;Anti-AI&quot; &amp; Not A &quot;Social Warrior&quot; Project</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-15 10:35</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://academic.oup.com/sleep/article/47/1/zsad253/7280269" target="_blank">Sleep regularity is a stronger predictor of mortality risk than sleep duration</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-15 11:46</span>
             </div>
         </div>
 </div>
@@ -256,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/ProSAS_Synthetic_Aperture_Sonar_E28093_Category_2_contact.jpg?fit=602%2C295&amp;quality=60&amp;ssl=1" alt="The blurry sonar blob tabloids turned into a sunken UFO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/15/baltic-sea-anomaly.html" target="_blank">The blurry sonar blob tabloids turned into a sunken UFO</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-15 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/Avatar-Legends-The-Fighting-Game-official-screenshot-PM-Studios-Skydance-Games-1280x720.jpg" alt="Developer Accused Of Past Sexual Harassment Confirmed To Be Working On New Avatar Legends: The Fighting Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,15 +308,6 @@
                 <span class="time">2026-07-14 21:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/f313c795a8d84cf14699cfc1cbe24af9-1280x720.jpg" alt="Monster Hunter Wilds Getting Permanent Price Cut Ahead Of Ascendance Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/monster-hunter-wilds-getting-permanent-price-cut-ahead-of-ascendance-expansion-2000715939" target="_blank">Monster Hunter Wilds Getting Permanent Price Cut Ahead Of Ascendance Expansion</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-14 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -347,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 14:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
