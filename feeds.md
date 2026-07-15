@@ -1,32 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 10:31:29 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-15 11:28:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 10:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 11:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +53,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/654dede0-8024-11f1-bee8-53ce494e1abc.jpg" alt="Midnight social media curfew proposed for UK teens aged 16 and 17" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss" target="_blank">Midnight social media curfew proposed for UK teens aged 16 and 17</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-15 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/15/g-s1-133383/extreme-summer-heat-air-conditioning" target="_blank">How to keep cool in this year&#x27;s extreme summer heat even without air conditioning</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-15 11:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acd7/live/1d668290-8037-11f1-86b6-ffbb9ce74513.jpg" alt="Iran threatens to block more trade routes as US launches fresh strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss" target="_blank">Iran threatens to block more trade routes as US launches fresh strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-15 11:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/15/gibraltar-border-controls-lifted-is-it-part-of-schengen-the-uk-or-both?traffic_source=rss" target="_blank">Gibraltar border controls lifted: Is it part of Schengen, the UK – or both?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-15 10:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -60,47 +107,20 @@
                 <span class="time">2026-07-15 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/15/nx-s1-5894586/mystery-bidder-buys-t-rex" target="_blank">Mystery bidder buys T. rex nicknamed &#x27;Gus&#x27; for a record $50 million</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-15 06:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/15/argentina-england-world-cup-semifinal-messi-kane-prediction-time?traffic_source=rss" target="_blank">England vs Argentina: FIFA World Cup semifinal – Messi, Kane and prediction</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-15 06:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c0/live/e8f90230-7fb4-11f1-926f-c90d1bcfbc84.jpg" alt="Trump threatens to bomb bridges and power plants unless Iran resumes talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss" target="_blank">Trump threatens to bomb bridges and power plants unless Iran resumes talks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-15 03:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/14/nx-s1-5893664/supreme-court-justices-kagan-barrett-give-chilling-accounts-of-threats-to-their-safety" target="_blank">Supreme Court Justices give chilling accounts of threats to their safety</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-15 03:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/" target="_blank">Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-15 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +166,29 @@
                 <span class="time">2026-07-15 00:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/" target="_blank">Lorde says AI glasses are “not sexy”</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-14 23:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/claude-apps-gateway-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-15 11:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Is-Not-Anti-AI" target="_blank">Linus Torvalds Reaffirms That Linux Is Not &quot;Anti-AI&quot; &amp; Not A &quot;Social Warrior&quot; Project</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-15 10:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +225,6 @@
                 <span class="time">2026-07-15 02:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ernestohs/the-prng-draw-tape-eager-versus-lazy-1408" target="_blank">The PRNG draw-tape: eager versus lazy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-15 01:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenCL-3.1-Conformance-Apple" target="_blank">Khronos Lists First Conformant OpenCL 3.1 Implementation: Apple M1/M2 On Asahi Linux With Rusticl</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-15 01:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,15 +246,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html" target="_blank">Upcoming Speaking Engagements</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-07-14 16:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html" target="_blank">Vulnerability in FIFA’s Network</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-14 11:06</span>
             </div>
         </div>
 </div>
@@ -342,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 10:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 11:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
