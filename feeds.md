@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 17:26:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-15 18:20:52 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 17:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 18:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a56ae3fc18e5c0be30a7462/master/pass/Thinking-Labs-Releasing-Its-First-Open-Weight-Model-Business-2279106900.jpg" alt="Thinking Machines Lab Drops Its First Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/" target="_blank">Thinking Machines Lab Drops Its First Model</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-15 18:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -152,15 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/" target="_blank">Spotify expands parent-managed accounts to users on its free tier</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-15 14:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/" target="_blank">US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-15 14:21</span>
             </div>
         </div>
 </div>
@@ -260,6 +254,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXK951MTJDZXS3QY04PTZXZA/hero-image.jpg" alt="The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching ‘Cape Fear’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/cape-fear-streamalikes-books-movies-video-games-podcasts?utm_medium=RSS" target="_blank">The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching ‘Cape Fear’</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-15 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Brian-Cox-in-Manhunter-The-Final-Cut.jpg?fit=1080%2C631&amp;quality=60&amp;ssl=1" alt="Trailer for Michael Mann&#x27;s &quot;Manhunter: The Final Cut&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -293,15 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/15/nut-rage-incident.html" target="_blank">An airline exec turned a jet around over nuts in a bag</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-15 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/ProSAS_Synthetic_Aperture_Sonar_E28093_Category_2_contact.jpg?fit=602%2C295&amp;quality=60&amp;ssl=1" alt="The blurry sonar blob tabloids turned into a sunken UFO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/15/baltic-sea-anomaly.html" target="_blank">The blurry sonar blob tabloids turned into a sunken UFO</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-15 13:30</span>
             </div>
         </div>
 </div>
@@ -341,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 239 |
-        🔄 Last Updated: 17:26 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 18:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
