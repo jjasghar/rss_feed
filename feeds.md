@@ -1,10 +1,14 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 19:25:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-15 20:19:35 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Error processing https://www.penny-arcade.com/feed: The read operation timed out -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
@@ -12,20 +16,25 @@
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 19:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 20:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +54,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss" target="_blank">Russia pounds Ukraine with missile, drone strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-15 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss" target="_blank">Syrian authorities arrest ex-officer accused of chemical weapons crimes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-15 18:58</span>
@@ -57,6 +75,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/15/nx-s1-5893633/trump-regime-change-jonathan-swan-maggie-haberman" target="_blank">Trump relished in being compared to dictators like Hitler and Stalin, journalist says</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-15 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a7/live/8bde6ac0-807e-11f1-bee8-53ce494e1abc.jpg" alt="French MPs approve assisted dying law with strict rules after years of argument" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss" target="_blank">French MPs approve assisted dying law with strict rules after years of argument</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-15 17:29</span>
             </div>
         </div>
 <div class="story">
@@ -77,29 +104,38 @@
                 <span class="time">2026-07-15 15:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/15/nx-s1-5893653/cancer-disparities-gaps-research-funding-grant-disruptions" target="_blank">Cancer disparities researchers say federal funding changes have disrupted their work</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-15 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/15/how-us-iran-escalation-will-test-iraqs-balancing-act?traffic_source=rss" target="_blank">How US-Iran escalation will test Iraq’s balancing act</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-15 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down" target="_blank">Roblox is shutting down its video chat service</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-15 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-500x500.jpg" alt="Windows 0-day drops the same day Microsoft releases record number of patches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/" target="_blank">Windows 0-day drops the same day Microsoft releases record number of patches</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-15 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/" target="_blank">Daniel Ek’s body-scanning startup Neko Health raises another $700M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-15 19:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/brendan-carr-hearing-500x500-1766003291.jpg" alt="FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -127,38 +163,20 @@
                 <span class="time">2026-07-15 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a56ae3fc18e5c0be30a7462/master/pass/Thinking-Labs-Releasing-Its-First-Open-Weight-Model-Business-2279106900.jpg" alt="Thinking Machines Lab Drops Its First Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/" target="_blank">Thinking Machines Lab Drops Its First Model</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-15 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/" target="_blank">Hack suggests AI music generator Suno scraped YouTube for training data</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-15 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a57b7f003633be86b3dcdae/master/pass/OldLeo_Lead2_1.gif" alt="Lionel Messi’s Final World Cup—and the Death of Early Retirement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lionel-messis-final-world-cup-and-the-death-of-early-retirement/" target="_blank">Lionel Messi’s Final World Cup—and the Death of Early Retirement</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-15 16:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Lemonade-11.0" target="_blank">AMD Releases Lemonade 11.0 Local AI Server With Text-To-Speech, Other New Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-15 19:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +222,6 @@
                 <span class="time">2026-07-15 16:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy" target="_blank">Context engineering with Dex Horthy</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-07-15 16:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/baby-bomb-xbox-1280x720.jpg" alt="Microsoft Deletes User’s Baby Pictures Rather Than Restore Hacked Account" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-deletes-users-baby-pictures-rather-than-restore-hacked-account-2000716306" target="_blank">Microsoft Deletes User’s Baby Pictures Rather Than Restore Hacked Account</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-15 20:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXKCF9RKPHSBJM795CJXYEDA/hero-image.jpg" alt="Third-Party App Stores Are Finally Coming to Google Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/third-party-app-stores-google-play?utm_medium=RSS" target="_blank">Third-Party App Stores Are Finally Coming to Google Play</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-15 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/01/b13a28e0fb149197a1f76f7fcadc5676.jpg" alt="Overwatch Is No Longer Updating One Of Its Coolest Modes After Significant Player Drop-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/15/trailer-for-michael-manns-manhunter-the-final-cut.html" target="_blank">Trailer for Michael Mann&#x27;s &quot;Manhunter: The Final Cut&quot;</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-15 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXK5ZWXV8QV2Z01ECBTYH0CJ/hero-image.jpg" alt="You Can Now Try Siri AI on Your Wrist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/you-can-now-try-siri-ai-on-your-wrist?utm_medium=RSS" target="_blank">You Can Now Try Siri AI on Your Wrist</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-15 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/02/69e87ac0fecdd43e33e18e46c602ab09-1280x720.jpg" alt="Former BioWare Devs Are Taking An Unusual Approach To Develop Their Next Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/north-mist-studio-the-concierge-podcast-ex-bioware-developers-2000716196" target="_blank">Former BioWare Devs Are Taking An Unusual Approach To Develop Their Next Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-15 15:15</span>
             </div>
         </div>
 </div>
@@ -323,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 19:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 20:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
