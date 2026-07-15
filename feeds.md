@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 01:30:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-15 02:58:18 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/CENTCOM7-14_1784083139457_hpMain_4x3t_384.jpg" alt="Iran live updates: US carries out latest round of strikes, resumes naval blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US carries out latest round of strikes, resumes naval blockade</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-15 02:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5c4/live/12555540-7f8b-11f1-a47a-d94293d2b0e4.jpg" alt="Midnight social media curfew proposed for older UK teens" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss" target="_blank">Worker killed in furnace explosion fire at Indian recycling plant</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-14 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c0/live/e8f90230-7fb4-11f1-926f-c90d1bcfbc84.jpg" alt="Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss" target="_blank">Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-14 20:10</span>
             </div>
         </div>
 </div>
@@ -180,6 +183,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://vpd.ca/" target="_blank">Vancouver PD website features Quick Escape button that wipes itself from history</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-15 00:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/appimage-installer.webp?resize=406%2C232&amp;ssl=1" alt="AppManager installs AppImages on Ubuntu without needing FUSE" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -206,20 +218,20 @@
                 <span class="time">2026-07-14 22:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/botoclock/i-built-a-one-curl-audio-translator-with-telnyx-ai-inference-39f9" target="_blank">I Built a One-Curl Audio Translator with Telnyx AI Inference</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-14 22:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/" target="_blank">Microsoft Patches a Record 570 Security Flaws</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-07-14 19:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -303,6 +315,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5873.png" alt="Do Not Perceive Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5873" target="_blank">Do Not Perceive Him</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-15 01:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1783978253-20260714.png" alt="Saturday Morning Breakfast Cereal - Communication" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -316,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
