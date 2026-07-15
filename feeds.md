@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 15:28:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-15 16:27:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 15:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 16:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/15/pro-government-militia-seizes-boat-with-houthi-weapons-materials-in-yemen?traffic_source=rss" target="_blank">Pro-government militia seizes boat with ‘Houthi weapons materials’ in Yemen</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-15 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books" target="_blank">Hong Kong booksellers arrested for allegedly selling seditious books</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-15 15:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +105,20 @@
                 <span class="time">2026-07-15 14:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/Senate_DOJ_Blanche_Hearing-2276586160-Getty-2aklqw.jpg" alt="Todd Blanche confirmation hearing for attorney general" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-todd-blanche-confirmation-hearing-for-attorney-general-266713669963" target="_blank">Todd Blanche confirmation hearing for attorney general</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-15 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/IRGC-missiles-DB-260715_1784110309194_hpMain_4x3t_384.jpg" alt="Iran live updates: US launches daytime strikes, IRGC claims targeting of US bases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US launches daytime strikes, IRGC claims targeting of US bases</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-15 12:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser" target="_blank">Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-15 16:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +164,38 @@
                 <span class="time">2026-07-15 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability" target="_blank">The Motorola Edge 70 Max is all about power</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-15 12:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/addtoken521/wei-shi-yao-ai-agent-du-chi-bu-kai-workflowkan-dong-xian-dai-ai-ying-yong-de-di-ceng-she-ji-1knb" target="_blank">为什么 AI Agent 都离不开 Workflow？看懂现代 AI 应用的底层设计</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-15 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/razer-blade18-windows-linux" target="_blank">Ubuntu 26.04 LTS vs. Windows 11 vs. CachyOS Performance On A $5399 Laptop</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-15 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy" target="_blank">Context engineering with Dex Horthy</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-07-15 16:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/07/stripe-ai-agents-benchmark/en/headerimage/generatedHeaderImage-1783301844753.jpg" alt="Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,33 +223,6 @@
                 <span class="time">2026-07-15 12:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tran_tienvan_e45fc26d655/syncing-backend-data-for-meta-business-agent-153m" target="_blank">Syncing Backend Data for Meta Business Agent</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-15 12:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://academic.oup.com/sleep/article/47/1/zsad253/7280269" target="_blank">Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-15 11:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://academic.oup.com/sleep/article/47/1/zsad253/7280269" target="_blank">Sleep regularity is a stronger predictor of mortality risk than sleep duration</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-15 11:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,20 +246,20 @@
                 <span class="time">2026-07-14 19:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html" target="_blank">Upcoming Speaking Engagements</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-14 16:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Brian-Cox-in-Manhunter-The-Final-Cut.jpg?fit=1080%2C631&amp;quality=60&amp;ssl=1" alt="Trailer for Michael Mann&#x27;s &quot;Manhunter: The Final Cut&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/15/trailer-for-michael-manns-manhunter-the-final-cut.html" target="_blank">Trailer for Michael Mann&#x27;s &quot;Manhunter: The Final Cut&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-15 15:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/02/69e87ac0fecdd43e33e18e46c602ab09-1280x720.jpg" alt="Former BioWare Devs Are Taking An Unusual Approach To Develop Their Next Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,20 +305,20 @@
                 <span class="time">2026-07-15 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/7d5fc6400b597e087ccae44e9d0f2d08d20bcd59-1.jpg" alt="Truth Scrapper Is A Cheerful, Messy, and Breezily Queer Mystery I Can’t Wait To Piece Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/truth-scrapper-is-a-cheerful-messy-and-breezily-queer-mystery-i-cant-wait-to-piece-together-2000715933" target="_blank">Truth Scrapper Is A Cheerful, Messy, and Breezily Queer Mystery I Can’t Wait To Piece Together</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-14 22:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1784066467-20260715.png" alt="Saturday Morning Breakfast Cereal - Pac" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/pac" target="_blank">Saturday Morning Breakfast Cereal - Pac</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-15 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -333,22 +337,13 @@
                 <span class="time">2026-07-15 01:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1783978253-20260714.png" alt="Saturday Morning Breakfast Cereal - Communication" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/communication-2" target="_blank">Saturday Morning Breakfast Cereal - Communication</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-14 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 15:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 16:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
