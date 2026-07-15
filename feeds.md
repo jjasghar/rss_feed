@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 16:27:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-15 17:26:19 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 16:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 17:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +112,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/" target="_blank">Hack suggests AI music generator Suno scraped YouTube for training data</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-15 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a57b7f003633be86b3dcdae/master/pass/OldLeo_Lead2_1.gif" alt="Lionel Messi’s Final World Cup—and the Death of Early Retirement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lionel-messis-final-world-cup-and-the-death-of-early-retirement/" target="_blank">Lionel Messi’s Final World Cup—and the Death of Early Retirement</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-15 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser" target="_blank">Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser</a></span>
                 <span class="feed">The Verge</span>
@@ -146,29 +163,29 @@
                 <span class="time">2026-07-15 14:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/" target="_blank">Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-15 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest" target="_blank">The tiniest MMO</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-15 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mithamovictor/mastering-java-loops-under-the-hood-memory-pitfalls-and-high-scale-optimizations-3e16" target="_blank">Mastering Java Loops: Under the Hood, Memory Pitfalls, and High-Scale Optimizations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-15 17:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html" target="_blank">Primate Is the Last Great Web Framework</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-15 16:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,24 +222,6 @@
                 <span class="time">2026-07-15 14:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/postgres-ai-agents/en/mediumimage/gwen-shapira-medium-1783500671134.jpeg" alt="Presentation: Postgres for Production Agents: Your Relational Foundation for Enterprise AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/postgres-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Postgres for Production Agents: Your Relational Foundation for Enterprise AI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-15 12:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-Magic-Bluetooth-Battery" target="_blank">Linux Patches Finally Allow Apple Magic Keyboard/Mouse Battery Monitoring Via Bluetooth</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-15 12:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,12 +251,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/01/b13a28e0fb149197a1f76f7fcadc5676.jpg" alt="Overwatch Is No Longer Updating One Of Its Coolest Modes After Significant Player Drop-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-stadium-mode-updates-heroes-builds-blizzard-2000716267" target="_blank">Overwatch Is No Longer Updating One Of Its Coolest Modes After Significant Player Drop-Off</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-15 17:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Brian-Cox-in-Manhunter-The-Final-Cut.jpg?fit=1080%2C631&amp;quality=60&amp;ssl=1" alt="Trailer for Michael Mann&#x27;s &quot;Manhunter: The Final Cut&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/07/15/trailer-for-michael-manns-manhunter-the-final-cut.html" target="_blank">Trailer for Michael Mann&#x27;s &quot;Manhunter: The Final Cut&quot;</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-15 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXK5ZWXV8QV2Z01ECBTYH0CJ/hero-image.jpg" alt="You Can Now Try Siri AI on Your Wrist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/you-can-now-try-siri-ai-on-your-wrist?utm_medium=RSS" target="_blank">You Can Now Try Siri AI on Your Wrist</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-15 15:30</span>
             </div>
         </div>
 <div class="story">
@@ -285,24 +302,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/15/baltic-sea-anomaly.html" target="_blank">The blurry sonar blob tabloids turned into a sunken UFO</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-15 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/Avatar-Legends-The-Fighting-Game-official-screenshot-PM-Studios-Skydance-Games-1280x720.jpg" alt="Developer Accused Of Past Sexual Harassment Confirmed To Be Working On New Avatar Legends: The Fighting Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/developer-accused-of-past-sexual-harassment-confirmed-to-be-working-on-new-avatar-legends-the-fighting-game-2000716173" target="_blank">Developer Accused Of Past Sexual Harassment Confirmed To Be Working On New Avatar Legends: The Fighting Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-15 13:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXHE63MCP93QMV46YNRYXCGV/hero-image.png" alt="The Top 10 TV Shows of the Year so Far, According to Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/top-10-streaming-series-of-2026?utm_medium=RSS" target="_blank">The Top 10 TV Shows of the Year so Far, According to Streaming Data</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-15 13:00</span>
             </div>
         </div>
 </div>
@@ -342,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 16:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 239 |
+        🔄 Last Updated: 17:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
