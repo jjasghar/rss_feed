@@ -1,43 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 11:28:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-15 12:24:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 34 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 11:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 12:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,12 +52,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/IRGC-missiles-DB-260715_1784110309194_hpMain_4x3t_384.jpg" alt="Iran live updates: US launches daytime strikes, IRGC claims targeting of US bases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US launches daytime strikes, IRGC claims targeting of US bases</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-15 12:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/15/israeli-air-attack-on-gaza-apartment-kills-family-of-3?traffic_source=rss" target="_blank">Israeli air attack on Gaza apartment kills family of three</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-15 12:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/654dede0-8024-11f1-bee8-53ce494e1abc.jpg" alt="Midnight social media curfew proposed for UK teens aged 16 and 17" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss" target="_blank">Midnight social media curfew proposed for UK teens aged 16 and 17</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-15 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784114473050_tdy_news_7a_simmons_iran_us_strikes_260715_S3_1920x1080-h6dgx7.jpg" alt="US Resumes Hormuz Blockade as Trump Threatens More Strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-resumes-hormuz-blockade-as-trump-threatens-more-strikes-266707013862" target="_blank">US Resumes Hormuz Blockade as Trump Threatens More Strikes</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-15 11:21</span>
             </div>
         </div>
 <div class="story">
@@ -80,38 +105,29 @@
                 <span class="time">2026-07-15 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/15/gibraltar-border-controls-lifted-is-it-part-of-schengen-the-uk-or-both?traffic_source=rss" target="_blank">Gibraltar border controls lifted: Is it part of Schengen, the UK – or both?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-15 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-launches-attacks-across-region-as-us-strikes-continue?traffic_source=rss" target="_blank">Iran launches attacks across region as US strikes continue</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-15 09:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/15/nx-s1-5891870/todd-blanche-senate-confirmation-attorney-general" target="_blank">Todd Blanche faces high-stakes confirmation hearing for attorney general</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-15 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability" target="_blank">The Motorola Edge 70 Max is all about power</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-15 12:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5639acbebf57977f2b4f6b/master/pass/AppleIDBrainScan.jpg" alt="The Apple FaceID Co-Inventor Building a Frontier AI Model for the Human Brain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/" target="_blank">The Apple FaceID Co-Inventor Building a Frontier AI Model for the Human Brain</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-15 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,29 +164,20 @@
                 <span class="time">2026-07-15 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play" target="_blank">Google and Epic give up fighting — third-party Android app stores are coming next week</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-15 03:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/" target="_blank">OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-15 00:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tran_tienvan_e45fc26d655/syncing-backend-data-for-meta-business-agent-153m" target="_blank">Syncing Backend Data for Meta Business Agent</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-15 12:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -216,20 +223,20 @@
                 <span class="time">2026-07-15 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fabiensanglard.net/jurrasic_park_computers/index.html" target="_blank">Jurassic Park computers in excruciating detail</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-15 02:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/a-video-screen-that-is-also-a-camera.html" target="_blank">A Video Screen That Is Also a Camera</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-15 11:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -344,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 11:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 12:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
