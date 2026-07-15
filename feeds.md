@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 05:45:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-15 06:40:10 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 05:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 06:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/15/argentina-england-world-cup-semifinal-messi-kane-prediction-time?traffic_source=rss" target="_blank">England vs Argentina: FIFA World Cup semifinal – Messi, Kane and prediction</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-15 06:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c0/live/e8f90230-7fb4-11f1-926f-c90d1bcfbc84.jpg" alt="Trump threatens to bomb bridges and power plants unless Iran resumes talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss" target="_blank">Trump threatens to bomb bridges and power plants unless Iran resumes talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-15 03:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +99,20 @@
                 <span class="time">2026-07-14 23:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/414/771/47165156126-1080pnbcstations.jpg" alt="Pedro Porro define como crack para el 0-2 de España sobre Francia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/pedro-porro-define-como-crack-para-el-0-2-de-espana-sobre-francia-tmvo13203773" target="_blank">Pedro Porro define como crack para el 0-2 de España sobre Francia</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-14 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/14/nx-s1-5893692/2026-world-cup-fifa-spain-france-semifinal" target="_blank">Spain sparkles to shock France 2-0 and advance to the World Cup final</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-14 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="1Password Coupon: Score a Free Trial in July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/1password-coupon/" target="_blank">1Password Coupon: Score a Free Trial in July 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-15 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" alt="Noom Promo Codes: 50% Off Best Deals &amp; Free Trials for July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,6 +135,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/" target="_blank">OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-15 00:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/" target="_blank">Lorde says AI glasses are “not sexy”</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-14 23:10</span>
@@ -140,24 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale" target="_blank">Nothing’s good-looking Watch 3 Pro smartwatch is just $69</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-14 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/computer-start-button-500x500.jpg" alt="Microsoft’s Secure Boot has been broken for a decade and no one noticed until now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/" target="_blank">Microsoft’s Secure Boot has been broken for a decade and no one noticed until now</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-14 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278375280-1-500x500.jpg" alt="Americans in Congo barred from returning home amid Ebola outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/" target="_blank">Americans in Congo barred from returning home amid Ebola outbreak</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-14 22:09</span>
             </div>
         </div>
 </div>
@@ -338,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 05:45 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 06:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
