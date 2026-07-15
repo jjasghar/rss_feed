@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 21:18:24 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-07-15 22:17:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 21:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 22:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/smoke-niagara-ht-gmh-260715_1784132964923_hpMain_2_4x3t_384.jpg" alt="Maps show Canadian wildfire smoke descending on US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/canadian-wildfire-smoke-descends-us-spreading-great-lakes/story?id=134774391" target="_blank">Maps show Canadian wildfire smoke descending on US</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-15 19:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -93,20 +106,20 @@
                 <span class="time">2026-07-15 18:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a7/live/8bde6ac0-807e-11f1-bee8-53ce494e1abc.jpg" alt="French MPs approve assisted dying law with strict rules after years of argument" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss" target="_blank">French MPs approve assisted dying law with strict rules after years of argument</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-15 17:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery" target="_blank">Valve says iFixit will keep selling Steam Deck batteries after all</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-15 22:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +163,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/" target="_blank">FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-15 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell" target="_blank">Enshittification</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-15 18:40</span>
             </div>
         </div>
 </div>
@@ -240,12 +244,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/aiclones-1280x720.jpg" alt="AI Is Already Generating A Flood Of Indie Game Clones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/people-are-using-ai-to-quickly-clone-games-before-the-indie-devs-can-release-them-2000716336" target="_blank">AI Is Already Generating A Flood Of Indie Game Clones</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-15 22:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/nvidia-1280x718.jpg" alt="Nvidia Thanks Sega For $5 Million Investment That Saved It As It Now Unleashes RAMageddon On The Gaming Industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/nvidia-thanks-sega-for-5-million-investment-that-saved-it-as-it-now-unleashes-ramageddon-on-the-gaming-industry-2000716308" target="_blank">Nvidia Thanks Sega For $5 Million Investment That Saved It As It Now Unleashes RAMageddon On The Gaming Industry</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-15 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Office-Professional-Plus-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Skip the subscription with Microsoft Office 2019 for $20" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/15/skip-the-subscription-with-microsoft-office-2019-for-20.html" target="_blank">Skip the subscription with Microsoft Office 2019 for $20</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-15 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -258,39 +280,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXKKW9PNFRF602Z75GZXQN5M/hero-image.jpg" alt="Here&#x27;s How to Officially Suggest New Emojis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-new-emojis-are-created?utm_medium=RSS" target="_blank">Here&#x27;s How to Officially Suggest New Emojis</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-15 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KXKCF9RKPHSBJM795CJXYEDA/hero-image.jpg" alt="Third-Party App Stores Are Finally Coming to Google Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/third-party-app-stores-google-play?utm_medium=RSS" target="_blank">Third-Party App Stores Are Finally Coming to Google Play</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-15 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/01/b13a28e0fb149197a1f76f7fcadc5676.jpg" alt="Overwatch Is No Longer Updating One Of Its Coolest Modes After Significant Player Drop-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-stadium-mode-updates-heroes-builds-blizzard-2000716267" target="_blank">Overwatch Is No Longer Updating One Of Its Coolest Modes After Significant Player Drop-Off</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-15 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/t2gen2-pdp-copy-1.jpg?fit=1030%2C754&amp;quality=60&amp;ssl=1" alt="Tidbyt: a 64-by-32 pixel LED display that you can make your own apps for" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/15/tidbyt-a-64-by-32-pixel-led-display-that-you-can-make-your-own-apps-for.html" target="_blank">Tidbyt: a 64-by-32 pixel LED display that you can make your own apps for</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-15 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXK951MTJDZXS3QY04PTZXZA/hero-image.jpg" alt="The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching ‘Cape Fear’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/cape-fear-streamalikes-books-movies-video-games-podcasts?utm_medium=RSS" target="_blank">The Best Books, Movies, Video Games, and Podcasts to Check Out After Watching ‘Cape Fear’</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-15 17:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 21:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 22:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
