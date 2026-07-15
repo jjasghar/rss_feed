@@ -1,42 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 07:33:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-15 08:43:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 34 feeds processed -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 07:34 UTC</div>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 08:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -174,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/akavlabs_69/i-red-teamed-my-own-llm-security-gateway-in-four-passes-heres-every-gap-i-found-5cl9" target="_blank">I red-teamed my own LLM security gateway in four passes. Here&#x27;s every gap I found.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-15 08:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/contexory/the-best-person-to-write-your-ai-agents-skills-probably-cant-write-yaml-afm" target="_blank">The best person to write your AI agent&#x27;s skills probably can&#x27;t write YAML</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-15 05:35</span>
@@ -213,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/OpenCL-3.1-Conformance-Apple" target="_blank">Khronos Lists First Conformant OpenCL 3.1 Implementation: Apple M1/M2 On Asahi Linux With Rusticl</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-15 01:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://vpd.ca/" target="_blank">Vancouver PD website features Quick Escape button that wipes itself from history</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-15 00:15</span>
             </div>
         </div>
 </div>
@@ -343,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 07:34 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 08:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
