@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 04:03:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-15 05:45:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 04:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 05:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" alt="Noom Promo Codes: 50% Off Best Deals &amp; Free Trials for July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/noom-promo-code/" target="_blank">Noom Promo Codes: 50% Off Best Deals &amp; Free Trials for July 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-15 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -153,20 +160,20 @@
                 <span class="time">2026-07-14 22:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a56781e86e56eae23982c5f/master/pass/GettyImages-1738682825.jpg" alt="The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/" target="_blank">The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-14 22:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/contexory/the-best-person-to-write-your-ai-agents-skills-probably-cant-write-yaml-afm" target="_blank">The best person to write your AI agent&#x27;s skills probably can&#x27;t write YAML</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-15 05:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +217,6 @@
                 <span class="title"><a href="https://vpd.ca/" target="_blank">Vancouver PD website features Quick Escape button that wipes itself from history</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-15 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/appimage-installer.webp?resize=406%2C232&amp;ssl=1" alt="AppManager installs AppImages on Ubuntu without needing FUSE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/appmanager-appimage-installer-linux" target="_blank">AppManager installs AppImages on Ubuntu without needing FUSE</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-14 23:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 04:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 05:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
