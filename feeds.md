@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 02:58:18 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-15 04:03:47 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 04:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/14/nx-s1-5893664/supreme-court-justices-kagan-barrett-give-chilling-accounts-of-threats-to-their-safety" target="_blank">Supreme Court Justices give chilling accounts of threats to their safety</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-15 03:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/15/nearly-75-of-americans-think-theres-too-much-money-in-politics?traffic_source=rss" target="_blank">Nearly 75% of Americans think there’s too much money in politics</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-15 03:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/CENTCOM7-14_1784083139457_hpMain_4x3t_384.jpg" alt="Iran live updates: US carries out latest round of strikes, resumes naval blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +103,20 @@
                 <span class="time">2026-07-14 20:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/401/582/47163002912-1080pnbcstations.jpg" alt="Pedro Porro se escapa y define como crack para el 0-2 de España sobre Francia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/pedro-porro-se-escapa-y-define-como-crack-para-el-0-2-de-espana-sobre-francia-tmvo13203737" target="_blank">Pedro Porro se escapa y define como crack para el 0-2 de España sobre Francia</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-14 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss" target="_blank">Worker killed in furnace explosion fire at Indian recycling plant</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-14 20:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play" target="_blank">Google and Epic give up fighting — third-party Android app stores are coming next week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-15 03:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +162,29 @@
                 <span class="time">2026-07-14 22:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/" target="_blank">OpenAI pushes back on Apple trade secret lawsuit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-14 22:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mage0535/knowledge-and-memory-management-v002-portable-knowledge-collection-and-memory-management-3c9m" target="_blank">Knowledge-and-Memory-Management v0.0.2: Portable Knowledge Collection and Memory Management</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-15 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://fabiensanglard.net/jurrasic_park_computers/index.html" target="_blank">Jurassic Park computers in excruciating detail</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-15 02:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +219,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/appmanager-appimage-installer-linux" target="_blank">AppManager installs AppImages on Ubuntu without needing FUSE</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-07-14 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/appimage-installer.webp?resize=406%2C232&amp;ssl=1" alt="Use AppManger to install, update AppImages on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/appmanager-appimage-installer-linux" target="_blank">Use AppManger to install, update AppImages on Ubuntu</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-14 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.3" target="_blank">COSMIC Epoch 1.3 Released With New Frosted Glass Option</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-14 22:41</span>
             </div>
         </div>
 </div>
@@ -337,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 04:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
