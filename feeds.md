@@ -1,42 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 22:17:41 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-15 23:17:38 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 22:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, July 15, 2026 - 23:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1492/live/3e0e63e0-809c-11f1-ab38-b3d1805d0663.jpg" alt="William tells England to &#x27;hold their heads high&#x27; after defeat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss" target="_blank">William tells England to &#x27;hold their heads high&#x27; after defeat</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-15 22:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +106,38 @@
                 <span class="time">2026-07-15 18:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/15/nx-s1-5893633/trump-regime-change-jonathan-swan-maggie-haberman" target="_blank">Trump relished in being compared to dictators like Hitler and Stalin, journalist says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-15 18:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a57d920c34efe431f7a321a/master/pass/Northeast-Being-Blanketed-in-Canadian-Wildfire-Smoke-Science-2285609475.jpg" alt="The Northeast Is Being Blanketed in Canadian Wildfire Smoke" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/" target="_blank">The Northeast Is Being Blanketed in Canadian Wildfire Smoke</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-15 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale" target="_blank">HP&amp;#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-15 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/rally13-500x500-1784152696.jpeg" alt="Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/" target="_blank">Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-15 22:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,38 +165,29 @@
                 <span class="time">2026-07-15 20:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-500x500.jpg" alt="Windows 0-day drops the same day Microsoft releases record number of patches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/" target="_blank">Windows 0-day drops the same day Microsoft releases record number of patches</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-15 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/" target="_blank">Daniel Ek’s body-scanning startup Neko Health raises another $700M</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-15 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/brendan-carr-hearing-500x500-1766003291.jpg" alt="FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/" target="_blank">FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-15 18:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maxtesla/why-i-picked-astro-over-nextjs-for-my-site-2pf8" target="_blank">Why I picked Astro over Next.js for my site</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-15 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.2-rc1-Released" target="_blank">Mesa 26.2-rc1 Released In Ending Feature Work For This Quarter&#x27;s 3D Graphics Stack</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-15 21:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnkqftzgjlacwbus17gj6.jpg" alt="Reverse-engineering an MMO Aion 2&#x27;s network protocol to build a real-time DPS meter (Rust + Tauri)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,24 +222,6 @@
                 <span class="title"><a href="https://thinkingmachines.ai/news/introducing-inkling/" target="_blank">Inkling: Our Open-Weights Model</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-15 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/" target="_blank">GitHub for Beginners: Your roadmap to mastering the GitHub essentials</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-15 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mithamovictor/mastering-java-loops-under-the-hood-memory-pitfalls-and-high-scale-optimizations-3e16" target="_blank">Mastering Java Loops: Under the Hood, Memory Pitfalls, and High-Scale Optimizations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-15 17:11</span>
             </div>
         </div>
 </div>
@@ -334,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 22:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 23:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
