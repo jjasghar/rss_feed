@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 08:42:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-16 09:37:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 08:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 09:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-final-2026-date-time-and-venue-trump-prediction?traffic_source=rss" target="_blank">FIFA World Cup final: Date, time, halftime show, prediction and Trump</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-16 09:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-14-gty-gmh-260714_1784046375706_hpMain_4x3t_384.jpg" alt="Trump to give primetime speech on 2020 election: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-give-primetime-speech-2020-election-sources/story?id=134791893" target="_blank">Trump to give primetime speech on 2020 election: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-16 09:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war" target="_blank">Oil companies are making billions. In the U.S., calls to tax their windfall are growing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-16 09:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b67e/live/039382d0-80de-11f1-a5c2-db1656c1a0a8.jpg" alt="Iran targets military bases as US launches wave of strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,33 +96,6 @@
                 <span class="title"><a href="https://news.sky.com/story/tiktok-being-investigated-by-ofcom-over-child-safety-measures-13563884" target="_blank">TikTok under investigation in UK over child safety measures</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-07-16 05:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus" target="_blank">Moroccan intelligence insider reveals widespread use of Pegasus hacking software</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-16 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c484/live/46eda4a0-8059-11f1-bee8-53ce494e1abc.jpg" alt="US launches fresh strikes on Iran as Trump warns Tehran it &#x27;better behave&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss" target="_blank">US launches fresh strikes on Iran as Trump warns Tehran it &#x27;better behave&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-16 04:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/smoke-nyc-1-gmh-260715_1784167763081_hpMain_4x3t_384.jpg" alt="Canadian wildfire smoke descends on parts of US, including New York City" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/canadian-wildfire-smoke-descends-us-spreading-great-lakes/story?id=134774391" target="_blank">Canadian wildfire smoke descends on parts of US, including New York City</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-16 02:40</span>
             </div>
         </div>
 </div>
@@ -168,10 +165,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17381171/x11-vs-wayland-input-latency" target="_blank">Turns Out Wayland Isn&amp;#x27;t the Input Lag Disaster Everyone Says it is</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-16 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/unnobatroo/chrome-extension-to-replace-ads-with-art-1368" target="_blank">Chrome extension to replace ads with art</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-16 08:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://collider.ee/1.5.1/" target="_blank">Bring modern package management to Meson&#x27;s native wrap ecosystem</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-07-16 08:29</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +214,6 @@
                 <span class="title"><a href="https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming" target="_blank">The lost joy of music piracy</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-16 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robinzzz/canary-agentic-autofix-with-failure-classes-and-reliability-gates-id0" target="_blank">Canary Agentic Autofix With Failure Classes and Reliability Gates</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-16 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.14" target="_blank">AMD ROCm 7.14 Announced As New Production Release, Ryzen AI 400 Series Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-16 02:49</span>
             </div>
         </div>
 </div>
@@ -329,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 08:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 09:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
