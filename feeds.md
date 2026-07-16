@@ -1,29 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 11:29:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-16 12:27:37 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Generated 8 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 11:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 12:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +38,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal" target="_blank">Trump wants to fence off the park closest to the White House, a popular protest spot</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-16 12:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/16/iran-claims-strikes-on-us-bases-warns-of-wider-attacks-on-region?traffic_source=rss" target="_blank">Iran claims strikes on US bases, warns of wider attacks on region</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-16 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd9/live/86be30d0-794d-11f1-b976-0b9c15b0ccfc.jpg" alt="MI5 court evidence based on lies, report says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crmrwe84rp2o?at_medium=RSS&at_campaign=rss" target="_blank">MI5 court evidence based on lies, report says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-16 11:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,38 +92,29 @@
                 <span class="time">2026-07-16 09:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-final-2026-date-time-and-venue-trump-prediction?traffic_source=rss" target="_blank">FIFA World Cup final: Date, time, halftime show, prediction and Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-16 09:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-14-gty-gmh-260714_1784046375706_hpMain_4x3t_384.jpg" alt="Trump to give primetime speech on 2020 election: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-give-primetime-speech-2020-election-sources/story?id=134791893" target="_blank">Trump to give primetime speech on 2020 election: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-16 09:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war" target="_blank">Oil companies are making billions. In the U.S., calls to tax their windfall are growing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-16 09:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/master/pass/Purple-City%20Driving-1-1_1_resized.jpg" alt="XPeng’s New ‘Budget’ EV Looks Like the Ferrari Luce" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce/" target="_blank">XPeng’s New ‘Budget’ EV Looks Like the Ferrari Luce</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-16 12:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma" target="_blank">Google ordered to open Android and Search to rivals in Europe</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-16 12:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,29 +151,20 @@
                 <span class="time">2026-07-16 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Lenovo Coupon Codes and Deals in July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lenovo-coupon-code/" target="_blank">Lenovo Coupon Codes and Deals in July 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-16 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/" target="_blank">Lululemon backs nylon-recycling startup Syntetica in $30M Series A</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-16 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/puneetkumar2010/how-to-fix-email-not-working-on-render-smtp-blocked-n1l" target="_blank">How to Fix Email Not Working on Render (SMTP Blocked) 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-16 12:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,15 +208,6 @@
                 <span class="title"><a href="https://collider.ee/1.5.1/" target="_blank">Bring modern package management to Meson&#x27;s native wrap ecosystem</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-07-16 08:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/purnomosidi/i-got-tired-of-uploading-private-files-to-random-servers-so-i-built-a-100-client-side-tool-suite-4dan" target="_blank">I got tired of uploading private files to random servers, so I built a 100% client-side tool suite 🛠️</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-16 06:32</span>
             </div>
         </div>
 </div>
@@ -307,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 39 | 📸 With Images: 243 |
-        🔄 Last Updated: 11:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 39 | 📸 With Images: 240 |
+        🔄 Last Updated: 12:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
