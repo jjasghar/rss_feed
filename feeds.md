@@ -1,28 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 12:27:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-16 13:29:58 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Generated 8 new posts out of 19 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 12:27 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 13:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c50c/live/073b9e40-8115-11f1-8b8c-8f0447398806.jpg" alt="Italian officials handed jail terms for Genoa bridge disaster that killed 43" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss" target="_blank">Italian officials handed jail terms for Genoa bridge disaster that killed 43</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-16 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/16/us-hosts-global-meet-on-far-left-terror-whos-attending-why-it-matters?traffic_source=rss" target="_blank">US hosts global meet on ‘far-left terror’: Who’s attending, why it matters</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-16 12:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,28 +96,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister?traffic_source=rss" target="_blank">Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-16 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/16/what-is-cyclospora-diarrhoea-symptoms-foods-linked-to-us-outbreak?traffic_source=rss" target="_blank">What is cyclospora? Diarrhoea symptoms, foods linked to US outbreak</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-16 10:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3c/live/879986f0-80f3-11f1-8edb-6f86e45a0f45.jpg" alt="Protests in Ukraine&#x27;s cities against Zelensky&#x27;s removal of defence minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss" target="_blank">Protests in Ukraine&#x27;s cities against Zelensky&#x27;s removal of defence minister</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-16 09:29</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged" target="_blank">Uganda calls for travel restrictions to be lifted after last Ebola patient discharged</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-16 11:33</span>
             </div>
         </div>
 </div>
@@ -97,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/" target="_blank">Apple Intelligence approved for launch in China with Alibaba and Baidu</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-16 13:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/master/pass/Purple-City%20Driving-1-1_1_resized.jpg" alt="XPeng’s New ‘Budget’ EV Looks Like the Ferrari Luce" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -113,6 +132,15 @@
                 <span class="title"><a href="https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma" target="_blank">Google ordered to open Android and Search to rivals in Europe</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-16 12:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Xona_InSitu_Orbit_03-500x500.jpg" alt="Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/" target="_blank">Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-16 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -133,29 +161,29 @@
                 <span class="time">2026-07-16 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5869bdad0fb31ed65f955c/master/pass/Breathe-Easy-Thanks-to-the-Best-Air-Purifier-for-Every-Home.jpg" alt="Best Air Purifiers (2026): Coway, AirDoctor, IQAir, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-air-purifiers/" target="_blank">Best Air Purifiers (2026): Coway, AirDoctor, IQAir, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-16 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme" target="_blank">OnePlus officially gives up on the US and Europe</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-16 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/karthik_rathod_592ae48161/claude-in-chrome-doesnt-work-on-wsl2-heres-the-fix-one-logged-in-chrome-two-drivers-cheap-5ke" target="_blank">Claude in Chrome doesn&#x27;t work on WSL2. Here&#x27;s the fix: one logged-in Chrome, two drivers, cheap tokens</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-16 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-7-7700x3d" target="_blank">AMD Ryzen 7 7700X3D Linux Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-16 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,29 +220,29 @@
                 <span class="time">2026-07-16 08:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/unnobatroo/chrome-extension-to-replace-ads-with-art-1368" target="_blank">Chrome extension to replace ads with art</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-16 08:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://collider.ee/1.5.1/" target="_blank">Bring modern package management to Meson&#x27;s native wrap ecosystem</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-07-16 08:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-07-at-12.24.28-PM-1280x720.jpg" alt="The New Avatar Movie Is Coming To Theaters Like Fans Wanted, But In The Worst Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/avatar-aang-last-airbender-theater-showtimes-la-nyc-2000716633" target="_blank">The New Avatar Movie Is Coming To Theaters Like Fans Wanted, But In The Worst Way</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-16 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXKSBBD7QGKQJR6EC89QB698/hero-image.jpg" alt="10 Hacks Every Coros Watch User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/coros-watch-user-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Coros Watch User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-16 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2021/05/5c7a41113d2fd43be537bb8ca3b526d1-1280x720.jpg" alt="Elder Scrolls Online Studio Leadership Revealed To Be Part Of The Xbox Cuts, But Say They Have ‘Tremendous Confidence’ In The Game’s Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -249,24 +277,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/15/skip-the-subscription-with-microsoft-office-2019-for-20.html" target="_blank">Skip the subscription with Microsoft Office 2019 for $20</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-15 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/baby-bomb-xbox-1280x720.jpg" alt="Microsoft Deletes User’s Baby Pictures Rather Than Restore Hacked Account" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-deletes-users-baby-pictures-rather-than-restore-hacked-account-2000716306" target="_blank">Microsoft Deletes User’s Baby Pictures Rather Than Restore Hacked Account</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-15 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXKKW9PNFRF602Z75GZXQN5M/hero-image.jpg" alt="Here&#x27;s How to Officially Suggest New Emojis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-new-emojis-are-created?utm_medium=RSS" target="_blank">Here&#x27;s How to Officially Suggest New Emojis</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-15 20:00</span>
             </div>
         </div>
 </div>
@@ -306,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 39 | 📸 With Images: 240 |
-        🔄 Last Updated: 12:27 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 13:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
