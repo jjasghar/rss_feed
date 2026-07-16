@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 18:21:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-16 19:25:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 18:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 19:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/16/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss" target="_blank">What could a US ground invasion of Iran look like?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-16 18:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c1/live/24189380-813b-11f1-b525-63787292c170.jpg" alt="Sadiq Khan among 26 new peers to enter the Lords" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -62,6 +73,15 @@
                 <span class="title"><a href="https://abcnews.com/US/white-house-teleprompter-operator-made-100k-betting-trumps/story?id=134764573" target="_blank">Teleprompter operator made more than $100K betting on Trump&#x27;s speeches: Sources</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-16 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cba/live/4b6416b0-810b-11f1-926f-c90d1bcfbc84.jpg" alt="Zelensky&#x27;s removal of popular defence minister sparks protests in Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky&#x27;s removal of popular defence minister sparks protests in Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-16 16:36</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +102,38 @@
                 <span class="time">2026-07-16 15:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6760/live/64ab27e0-8119-11f1-b976-0b9c15b0ccfc.jpg" alt="Teenagers from 15 should be given free MenB vaccine, say UK experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c74glj9zkzko?at_medium=RSS&at_campaign=rss" target="_blank">Teenagers from 15 should be given free MenB vaccine, say UK experts</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-16 14:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids" target="_blank">Hong Kong official warns booksellers on security risks after raids</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-16 13:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-532502452-500x500-1784227863.jpg" alt="Linus Torvalds to critics of AI coding in Linux: &quot;Fork it. Or just walk away.&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/" target="_blank">Linus Torvalds to critics of AI coding in Linux: &quot;Fork it. Or just walk away.&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-16 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation" target="_blank">Kalshi says it caught Trump&amp;#8217;s teleprompter operator insider trading</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-16 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/" target="_blank">Google Vids now lets you star in your own AI videos</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-16 18:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,33 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai" target="_blank">Google is better at playing the EU regulations game</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-16 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/OnePlus-15-5-500x500.jpg" alt="OnePlus confirms shutdown in the US and Europe, ending months of speculation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/" target="_blank">OnePlus confirms shutdown in the US and Europe, ending months of speculation</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-16 16:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlink_stack1-500x500.jpg" alt="Could China and Russia really destroy Starlink? Only with a boomerang." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/" target="_blank">Could China and Russia really destroy Starlink? Only with a boomerang.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-16 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a58f0f4d35982f319740d69/master/pass/TOP%20ART!.jpg" alt="Swatch’s New Gold MoonSwatch Solves the Problem of the Nightmare Royal Pop Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/swatch-gold-moonswatch-solves-the-problem-of-the-nightmare-royal-pop-launch/" target="_blank">Swatch’s New Gold MoonSwatch Solves the Problem of the Nightmare Royal Pop Launch</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-16 15:37</span>
             </div>
         </div>
 </div>
@@ -238,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXNZMFTW07ER1AMF016JS5JP/hero-image.jpg" alt="Scammers Are Using FaceTime to Pose As Apple Support Reps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/watch-out-for-this-new-facetime-scam?utm_medium=RSS" target="_blank">Scammers Are Using FaceTime to Pose As Apple Support Reps</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-16 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/26-1-1280x720.jpg" alt="New Final Fantasy Resonance Trailer Is Peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -282,15 +293,6 @@
                 <span class="time">2026-07-16 16:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Paying_with_a_Credit_Card_282888664520129-scaled.jpg?fit=2560%2C1695&amp;quality=60&amp;ssl=1" alt="Bloomberg calls chargebacks &quot;friendly fraud&quot; — but it&#x27;s often the only option" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/16/friendly-fraud-chargebacks.html" target="_blank">Bloomberg calls chargebacks &quot;friendly fraud&quot; — but it&#x27;s often the only option</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-16 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 18:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 19:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
