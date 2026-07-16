@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 19:25:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-16 20:16:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 19:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 20:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +48,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/16/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah?traffic_source=rss" target="_blank">Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-16 20:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/16/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss" target="_blank">What could a US ground invasion of Iran look like?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-16 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/16/g-s1-133961/why-orthodox-jews-are-opposing-the-new-daylight-saving-bill-in-congress" target="_blank">Why Orthodox Jews are opposing the new daylight saving bill in Congress</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-16 17:24</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +98,29 @@
                 <span class="time">2026-07-16 16:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries" target="_blank">UK aid cuts ‘reduce bilateral support to some African countries by 90%’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-16 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/16/uk-urges-fifa-to-investigate-argentina-over-world-cup-falklands-banner?traffic_source=rss" target="_blank">UK urges FIFA to investigate Argentina over World Cup Falklands banner</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-16 15:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-3.12.16-PM-500x500.png" alt="Fear of humanoid robots spurs human workers to strike at Hyundai auto factory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/" target="_blank">Fear of humanoid robots spurs human workers to strike at Hyundai auto factory</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-16 20:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/" target="_blank">Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her Mafia skills)</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-16 20:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-532502452-500x500-1784227863.jpg" alt="Linus Torvalds to critics of AI coding in Linux: &quot;Fork it. Or just walk away.&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,24 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies" target="_blank">New York governor says she&amp;#8217;s using AI to analyze &amp;#8216;every single rule&amp;#8217; in the state</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-16 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/" target="_blank">Oil giant BP shutters its corporate venture arm after 20 years</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-16 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai" target="_blank">Google is better at playing the EU regulations game</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-16 16:55</span>
             </div>
         </div>
 </div>
@@ -196,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17381411/vocalinux-beta-release" target="_blank">Vocalinux Turns Your Speech Into Text Without Giving Away Voice Data</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-16 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sumaskeller/a-compliance-checklist-for-entering-a-new-eu-market-276g" target="_blank">A Compliance Checklist for Entering a New EU Market</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wayland-1.26-Released" target="_blank">Wayland 1.26 Released With New Pointer Warp Event</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-16 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/ubuntu-trash-icons.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 fixes trash dialog bug that defaulted to cancel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-26-04-trash-dialog-cancel-button-fix" target="_blank">Ubuntu 26.04 fixes trash dialog bug that defaulted to cancel</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-16 15:06</span>
             </div>
         </div>
 </div>
@@ -239,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXP6EFXMQYXEFZ2B70T5DPAP/hero-image.png" alt="This 77-Inch Samsung OLED TV Is More Than $1,700 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-oled-tv-woot-deal-july-2026?utm_medium=RSS" target="_blank">This 77-Inch Samsung OLED TV Is More Than $1,700 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-16 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KXNZMFTW07ER1AMF016JS5JP/hero-image.jpg" alt="Scammers Are Using FaceTime to Pose As Apple Support Reps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +289,6 @@
                 <span class="time">2026-07-16 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/playstation-games-1280x720.jpg" alt="PlayStation Turns Comments Off On YouTube As Fans Continue Yelling About Physical Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-5-6-physical-discs-youtube-comments-social-2000716707" target="_blank">PlayStation Turns Comments Off On YouTube As Fans Continue Yelling About Physical Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-16 16:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 19:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 20:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
