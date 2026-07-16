@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 16:26:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-16 17:27:10 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 16:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 17:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-1-gty-gmh-260715_1784131862105_hpMain_4x3t_384.jpg" alt="Teleprompter operator made more than $100K betting on Trump&#x27;s speeches: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/white-house-teleprompter-operator-made-100k-betting-trumps/story?id=134764573" target="_blank">Teleprompter operator made more than $100K betting on Trump&#x27;s speeches: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-16 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries" target="_blank">UK aid cuts ‘reduce bilateral support to some African countries by 90%’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-16 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +96,29 @@
                 <span class="time">2026-07-16 13:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/16/us-hosts-global-meet-on-far-left-terror-whos-attending-why-it-matters?traffic_source=rss" target="_blank">US hosts global meet on ‘far-left terror’: Who’s attending, why it matters</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-16 12:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal" target="_blank">Trump wants to fence off the park closest to the White House, a popular protest spot</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-16 12:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai" target="_blank">Google is better at playing the EU regulations game</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-16 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/OnePlus-15-5-500x500.jpg" alt="OnePlus confirms shutdown in the US and Europe, ending months of speculation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/" target="_blank">OnePlus confirms shutdown in the US and Europe, ending months of speculation</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-16 16:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlink_stack1-500x500.jpg" alt="Could China and Russia really destroy Starlink? Only with a boomerang." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +155,20 @@
                 <span class="time">2026-07-16 14:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/" target="_blank">Apple Intelligence approved for launch in China with Alibaba and Baidu</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-16 13:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/master/pass/Purple-City%20Driving-1-1_1_resized.jpg" alt="XPeng’s New ‘Budget’ EV Looks Like the Ferrari Luce" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce/" target="_blank">XPeng’s New ‘Budget’ EV Looks Like the Ferrari Luce</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-16 12:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!8VV3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa1de119-a4fd-4a85-b20a-bdc73c9db948_1182x842.png" alt="The Pulse: Grok’s CLI caught uploading all your local files to the cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading" target="_blank">The Pulse: Grok’s CLI caught uploading all your local files to the cloud</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-07-16 16:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -170,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/sumaskeller/a-compliance-checklist-for-entering-a-new-eu-market-276g" target="_blank">A Compliance Checklist for Entering a New EU Market</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-16 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wayland-1.26-Released" target="_blank">Wayland 1.26 Released With New Pointer Warp Event</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-16 15:58</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +214,6 @@
                 <span class="time">2026-07-16 13:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17381301/foss-weekly-26-29" target="_blank">FOSS Weekly #26.29: Mint Goes Wayland, OpenBook Reader, Terminal Shortcut Tips, Linux Handheld Computers and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-16 13:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-7-7700x3d" target="_blank">AMD Ryzen 7 7700X3D Linux Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-16 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,12 +234,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/serkis-1280x720.jpg" alt="Andy Serkis, Why Do You Suck Now?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/andy-serkis-why-do-you-suck-now-2000716665" target="_blank">Andy Serkis, Why Do You Suck Now?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-16 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/playstation-games-1280x720.jpg" alt="PlayStation Turns Comments Off On YouTube As Fans Continue Yelling About Physical Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/playstation-5-6-physical-discs-youtube-comments-social-2000716707" target="_blank">PlayStation Turns Comments Off On YouTube As Fans Continue Yelling About Physical Games</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-16 16:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Paying_with_a_Credit_Card_282888664520129-scaled.jpg?fit=2560%2C1695&amp;quality=60&amp;ssl=1" alt="Bloomberg calls chargebacks &quot;friendly fraud&quot; — but it&#x27;s often the only option" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/16/friendly-fraud-chargebacks.html" target="_blank">Bloomberg calls chargebacks &quot;friendly fraud&quot; — but it&#x27;s often the only option</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-16 16:10</span>
             </div>
         </div>
 <div class="story">
@@ -270,24 +285,6 @@
                 <span class="title"><a href="https://kotaku.com/ea-vp-urges-companies-to-think-about-in-game-ads-during-development-thats-a-huge-opportunity-2000716639" target="_blank">EA VP Urges Companies To Think About In-Game Ads During Development: ‘That’s A Huge Opportunity’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-16 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Skull_pekingman.jpg?fit=768%2C891&amp;quality=60&amp;ssl=1" alt="The Peking Man fossils vanished in 1941 and are still missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/16/peking-man-lost-fossils.html" target="_blank">The Peking Man fossils vanished in 1941 and are still missing</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-16 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Spike_Milligan_28464457345229.jpg?fit=2081%2C1559&amp;quality=60&amp;ssl=1" alt="The time Spike Milligan refused to pay a parking fine: &quot;send me to prison&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/16/spike-milligan-parking-fine.html" target="_blank">The time Spike Milligan refused to pay a parking fine: &quot;send me to prison&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-16 13:30</span>
             </div>
         </div>
 </div>
@@ -327,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 16:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 17:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
