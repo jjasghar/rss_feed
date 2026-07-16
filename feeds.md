@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-15 23:17:38 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-16 00:18:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, July 15, 2026 - 23:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 00:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +51,15 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss" target="_blank">William tells England to &#x27;hold their heads high&#x27; after defeat</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-15 22:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire" target="_blank">Fear and hope in Utah in the shadow of America&#x27;s largest wildfire</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-15 21:55</span>
             </div>
         </div>
 <div class="story">
@@ -97,20 +98,29 @@
                 <span class="time">2026-07-15 19:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss" target="_blank">Syrian authorities arrest ex-officer accused of chemical weapons crimes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-15 18:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a56063395e35992f7024e83/master/pass/Skullcandy_Crusher_1080_ANC_Family_Press_Images_9645.jpg" alt="Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/can-bose-help-skullcandy-shake-its-bargain-bin-reputation/" target="_blank">Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-16 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones" target="_blank">Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-16 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a57d920c34efe431f7a321a/master/pass/Northeast-Being-Blanketed-in-Canadian-Wildfire-Smoke-Science-2285609475.jpg" alt="The Northeast Is Being Blanketed in Canadian Wildfire Smoke" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,29 +157,20 @@
                 <span class="time">2026-07-15 22:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/" target="_blank">Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-15 20:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down" target="_blank">Roblox is shutting down its video chat service</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-15 20:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/he4rt/metricas-de-qualidade-de-software-na-era-da-ia-334o" target="_blank">Métricas de qualidade de software na era da IA</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-16 00:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,21 +208,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/kit-firefox-logo.webp?resize=406%2C232&amp;ssl=1" alt="Firefox is getting updates twice as fast from September" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/kit-firefox-logo.webp?resize=406%2C232&amp;ssl=1" alt="Firefox gets updates twice as fast from September" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/firefox-two-week-release-cycle" target="_blank">Firefox is getting updates twice as fast from September</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/firefox-two-week-release-cycle" target="_blank">Firefox gets updates twice as fast from September</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-07-15 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://thinkingmachines.ai/news/introducing-inkling/" target="_blank">Inkling: Our Open-Weights Model</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-15 18:12</span>
             </div>
         </div>
 </div>
@@ -334,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 23:17 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 00:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
