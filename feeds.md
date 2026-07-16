@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 05:50:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-16 06:44:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 05:50 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 06:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,10 +45,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire" target="_blank">The band playing when a Bangkok bar caught fire mourns its members among the 33 dead</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-16 06:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus" target="_blank">Moroccan intelligence insider reveals widespread use of Pegasus hacking software</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-07-16 04:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c484/live/46eda4a0-8059-11f1-bee8-53ce494e1abc.jpg" alt="US launches fresh strikes on Iran as Trump warns Tehran it &#x27;better behave&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss" target="_blank">US launches fresh strikes on Iran as Trump warns Tehran it &#x27;better behave&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-16 04:06</span>
             </div>
         </div>
 <div class="story">
@@ -83,24 +96,6 @@
                 <span class="time">2026-07-16 00:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-engulfs-toronto-canada-and-turns-its-skies-orange?traffic_source=rss" target="_blank">Wildfire smoke engulfs Toronto, Canada and turns its skies orange</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-16 00:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1492/live/3e0e63e0-809c-11f1-ab38-b3d1805d0663.jpg" alt="William tells England to &#x27;hold their heads high&#x27; after loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss" target="_blank">William tells England to &#x27;hold their heads high&#x27; after loss</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-16 00:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +108,15 @@
                 <span class="title"><a href="https://www.wired.com/story/lenovo-coupon-code/" target="_blank">Lenovo Coupon Codes and Deals in July 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-16 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/" target="_blank">Lululemon backs nylon-recycling startup Syntetica in $30M Series A</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-16 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -151,20 +155,20 @@
                 <span class="time">2026-07-15 23:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale" target="_blank">HP&amp;#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-15 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/purnomosidi/i-got-tired-of-uploading-private-files-to-random-servers-so-i-built-a-100-client-side-tool-suite-4dan" target="_blank">I got tired of uploading private files to random servers, so I built a 100% client-side tool suite 🛠️</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-16 06:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1h0fd7pu3dqx3m8ubmxk.gif" alt="Anthropic preps $965B IPO as agent infrastructure expands to microVMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/sivarampg/anthropic-preps-965b-ipo-as-agent-infrastructure-expands-to-microvms-4abb" target="_blank">Anthropic preps $965B IPO as agent infrastructure expands to microVMs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-16 05:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming" target="_blank">The lost joy of music piracy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-16 04:46</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/bikkisingh/why-your-php-form-is-not-working-5-common-bugs-fixed-5cmn" target="_blank">Why Your PHP Form Is Not Working — 5 Common Bugs Fixed</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-16 02:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mads_hansen_27b33ebfee4c9/ai-database-agents-need-review-queues-not-just-approval-buttons-1enm" target="_blank">AI database agents need review queues, not just approval buttons</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-16 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/he4rt/metricas-de-qualidade-de-software-na-era-da-ia-334o" target="_blank">Métricas de qualidade de software na era da IA</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-16 00:12</span>
             </div>
         </div>
 </div>
@@ -338,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 05:50 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 06:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
