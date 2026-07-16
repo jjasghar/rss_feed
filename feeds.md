@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 14:36:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-16 15:29:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 14:37 UTC</div>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 15:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/16/uk-urges-fifa-to-investigate-argentina-over-world-cup-falklands-banner?traffic_source=rss" target="_blank">UK urges FIFA to investigate Argentina over World Cup Falklands banner</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-16 15:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6760/live/64ab27e0-8119-11f1-b976-0b9c15b0ccfc.jpg" alt="Teenagers from 15 should be given free MenB vaccine, say UK experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c74glj9zkzko?at_medium=RSS&at_campaign=rss" target="_blank">Teenagers from 15 should be given free MenB vaccine, say UK experts</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-16 14:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids" target="_blank">Hong Kong official warns booksellers on security risks after raids</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-16 13:31</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +100,29 @@
                 <span class="time">2026-07-16 12:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/16/iran-claims-strikes-on-us-bases-warns-of-wider-attacks-on-region?traffic_source=rss" target="_blank">Iran claims strikes on US bases, warns of wider attacks on region</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-16 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd9/live/86be30d0-794d-11f1-b976-0b9c15b0ccfc.jpg" alt="MI5 court evidence based on lies, report says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crmrwe84rp2o?at_medium=RSS&at_campaign=rss" target="_blank">MI5 court evidence based on lies, report says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-16 11:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/" target="_blank">How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-16 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-Barbour-complaint-500x500.jpg" alt="Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/" target="_blank">Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-16 14:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +159,29 @@
                 <span class="time">2026-07-16 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops" target="_blank">COMPUTER COPS: Inside the big business of selling AI to the police</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-16 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/" target="_blank">Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-16 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/ubuntu-trash-icons.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 fixes trash dialog bug that defaulted to cancel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-26-04-trash-dialog-cancel-button-fix" target="_blank">Ubuntu 26.04 fixes trash dialog bug that defaulted to cancel</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-16 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.kimi.com/en" target="_blank">Kimi K3 is now live</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-16 14:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,35 +218,35 @@
                 <span class="time">2026-07-16 12:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GETAC-ACPI-Driver-Buttons-Linux" target="_blank">New Linux Driver Improving Support For GETAC Rugged Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-16 10:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://community.oneplus.com/thread/2170715118587871237" target="_blank">OnePlus halts operations in USA and Europe</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-16 10:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/mortal-shell-2.jpg" alt="PS5 Physical Editions Of Mortal Shell 2 Are Selling Out And Players Are Telling Sony To Take Note" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ps5-physical-editions-of-mortal-shell-2-are-selling-out-and-players-are-telling-sony-to-take-note-2000716627" target="_blank">PS5 Physical Editions Of Mortal Shell 2 Are Selling Out And Players Are Telling Sony To Take Note</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-16 15:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/image-92-1280x724.jpg" alt="EA VP Urges Companies To Think About In-Game Ads During Development: ‘That’s A Huge Opportunity’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/ea-vp-urges-companies-to-think-about-in-game-ads-during-development-thats-a-huge-opportunity-2000716639" target="_blank">EA VP Urges Companies To Think About In-Game Ads During Development: ‘That’s A Huge Opportunity’</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2026-07-16 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Skull_pekingman.jpg?fit=768%2C891&amp;quality=60&amp;ssl=1" alt="The Peking Man fossils vanished in 1941 and are still missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/16/peking-man-lost-fossils.html" target="_blank">The Peking Man fossils vanished in 1941 and are still missing</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-16 14:30</span>
             </div>
         </div>
@@ -257,29 +277,20 @@
                 <span class="time">2026-07-16 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2021/05/5c7a41113d2fd43be537bb8ca3b526d1-1280x720.jpg" alt="Elder Scrolls Online Studio Leadership Revealed To Be Part Of The Xbox Cuts, But Say They Have ‘Tremendous Confidence’ In The Game’s Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elder-scrolls-online-studio-leadership-revealed-to-be-part-of-the-xbox-cuts-but-say-they-have-tremendous-confidence-in-the-games-future-2000716382" target="_blank">Elder Scrolls Online Studio Leadership Revealed To Be Part Of The Xbox Cuts, But Say They Have ‘Tremendous Confidence’ In The Game’s Future</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-16 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/aiclones-1280x720.jpg" alt="AI Is Already Generating A Flood Of Indie Game Clones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/people-are-using-ai-to-quickly-clone-games-before-the-indie-devs-can-release-them-2000716336" target="_blank">AI Is Already Generating A Flood Of Indie Game Clones</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-15 22:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1784157176-20260716.png" alt="Saturday Morning Breakfast Cereal - Misery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/misery" target="_blank">Saturday Morning Breakfast Cereal - Misery</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-16 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5874.png" alt="There Will Be Pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,22 +309,13 @@
                 <span class="time">2026-07-15 23:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1784066467-20260715.png" alt="Saturday Morning Breakfast Cereal - Pac" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/pac" target="_blank">Saturday Morning Breakfast Cereal - Pac</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-15 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 14:37 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 15:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
