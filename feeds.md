@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 09:37:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-16 10:36:12 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 09:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 10:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/16/what-is-cyclospora-diarrhoea-symptoms-foods-linked-to-us-outbreak?traffic_source=rss" target="_blank">What is cyclospora? Diarrhoea symptoms, foods linked to US outbreak</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-16 10:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3c/live/879986f0-80f3-11f1-8edb-6f86e45a0f45.jpg" alt="Protests in Ukraine&#x27;s cities against Zelensky&#x27;s removal of defence minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss" target="_blank">Protests in Ukraine&#x27;s cities against Zelensky&#x27;s removal of defence minister</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-16 09:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +101,29 @@
                 <span class="time">2026-07-16 07:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire" target="_blank">The band playing when a Bangkok bar caught fire mourns its members among the 33 dead</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-16 06:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-tiktok-social-media_7243311.jpg?20260509110220" alt="TikTok under investigation in UK over child safety measures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/tiktok-being-investigated-by-ofcom-over-child-safety-measures-13563884" target="_blank">TikTok under investigation in UK over child safety measures</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-16 05:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5869bdad0fb31ed65f955c/master/pass/Breathe-Easy-Thanks-to-the-Best-Air-Purifier-for-Every-Home.jpg" alt="Best Air Purifiers (2026): Coway, AirDoctor, IQAir, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-air-purifiers/" target="_blank">Best Air Purifiers (2026): Coway, AirDoctor, IQAir, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-16 10:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme" target="_blank">OnePlus officially gives up on the US and Europe</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-16 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Lenovo Coupon Codes and Deals in July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +160,29 @@
                 <span class="time">2026-07-16 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones" target="_blank">Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-16 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a57d920c34efe431f7a321a/master/pass/Northeast-Being-Blanketed-in-Canadian-Wildfire-Smoke-Science-2285609475.jpg" alt="The Northeast Is Being Blanketed in Canadian Wildfire Smoke" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/" target="_blank">The Northeast Is Being Blanketed in Canadian Wildfire Smoke</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-15 23:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GETAC-ACPI-Driver-Buttons-Linux" target="_blank">New Linux Driver Improving Support For GETAC Rugged Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-16 10:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17381182/remap-copilot-key-linux" target="_blank">Remapping the Useless AI Slop Copilot Key in Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-16 09:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/purnomosidi/i-got-tired-of-uploading-private-files-to-random-servers-so-i-built-a-100-client-side-tool-suite-4dan" target="_blank">I got tired of uploading private files to random servers, so I built a 100% client-side tool suite 🛠️</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-16 06:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1h0fd7pu3dqx3m8ubmxk.gif" alt="Anthropic preps $965B IPO as agent infrastructure expands to microVMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sivarampg/anthropic-preps-965b-ipo-as-agent-infrastructure-expands-to-microvms-4abb" target="_blank">Anthropic preps $965B IPO as agent infrastructure expands to microVMs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-16 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming" target="_blank">The lost joy of music piracy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-16 04:46</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 09:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 10:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
