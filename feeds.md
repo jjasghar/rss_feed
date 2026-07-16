@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 04:05:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-16 05:50:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 04:05 UTC</div>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 05:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus" target="_blank">Moroccan intelligence insider reveals widespread use of Pegasus hacking software</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-16 04:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/smoke-nyc-1-gmh-260715_1784167763081_hpMain_4x3t_384.jpg" alt="Canadian wildfire smoke descends on parts of US, including New York City" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -64,6 +72,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss" target="_blank">Iran launches strikes on Gulf, even as FM visits Qatar</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-16 02:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c710/live/f0c66170-80a8-11f1-a6a9-eb791cdccb29.jpg" alt="&#x27;Passive&#x27; and &#x27;crumbled&#x27; - did Tuchel&#x27;s defensive tactics cost England?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Passive&#x27; and &#x27;crumbled&#x27; - did Tuchel&#x27;s defensive tactics cost England?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-16 00:57</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +101,20 @@
                 <span class="time">2026-07-16 00:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands" target="_blank">How global heating supercharged floods in West Africa, displacing thousands</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-16 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1492/live/3e0e63e0-809c-11f1-ab38-b3d1805d0663.jpg" alt="William tells England to &#x27;hold their heads high&#x27; after defeat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss" target="_blank">William tells England to &#x27;hold their heads high&#x27; after defeat</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-15 22:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Lenovo Coupon Codes and Deals in July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lenovo-coupon-code/" target="_blank">Lenovo Coupon Codes and Deals in July 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-16 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +160,20 @@
                 <span class="time">2026-07-15 22:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/rally13-500x500-1784152696.jpeg" alt="Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/" target="_blank">Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-15 22:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1h0fd7pu3dqx3m8ubmxk.gif" alt="Anthropic preps $965B IPO as agent infrastructure expands to microVMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sivarampg/anthropic-preps-965b-ipo-as-agent-infrastructure-expands-to-microvms-4abb" target="_blank">Anthropic preps $965B IPO as agent infrastructure expands to microVMs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-16 05:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/he4rt/metricas-de-qualidade-de-software-na-era-da-ia-334o" target="_blank">Métricas de qualidade de software na era da IA</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-16 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maxtesla/why-i-picked-astro-over-nextjs-for-my-site-2pf8" target="_blank">Why I picked Astro over Next.js for my site</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-15 22:54</span>
             </div>
         </div>
 </div>
@@ -339,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 04:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 05:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
