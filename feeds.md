@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 17:27:10 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing 54 RSS feeds at 2026-07-16 18:21:03 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 17:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 18:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c1/live/24189380-813b-11f1-b525-63787292c170.jpg" alt="Sadiq Khan among 26 new peers to enter the Lords" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cglj25k94r9o?at_medium=RSS&at_campaign=rss" target="_blank">Sadiq Khan among 26 new peers to enter the Lords</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-16 17:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/trump-1-gty-gmh-260715_1784131862105_hpMain_4x3t_384.jpg" alt="Teleprompter operator made more than $100K betting on Trump&#x27;s speeches: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +100,29 @@
                 <span class="time">2026-07-16 13:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c50c/live/073b9e40-8115-11f1-8b8c-8f0447398806.jpg" alt="Italian officials handed jail terms for Genoa bridge disaster that killed 43" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss" target="_blank">Italian officials handed jail terms for Genoa bridge disaster that killed 43</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-16 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies" target="_blank">New York governor says she&amp;#8217;s using AI to analyze &amp;#8216;every single rule&amp;#8217; in the state</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-16 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/" target="_blank">Oil giant BP shutters its corporate venture arm after 20 years</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-16 17:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +159,29 @@
                 <span class="time">2026-07-16 15:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/" target="_blank">How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-16 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-Barbour-complaint-500x500.jpg" alt="Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/" target="_blank">Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-16 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/konark_13/i-failed-a-promise-i-made-to-myself-4abj" target="_blank">I Failed a Promise I Made to Myself</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-16 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-Intern-AMD-ROCm" target="_blank">FreeBSD Intern Working On Porting AMD ROCm To The BSD World</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-16 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://substackcdn.com/image/fetch/$s_!8VV3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa1de119-a4fd-4a85-b20a-bdc73c9db948_1182x842.png" alt="The Pulse: Grok’s CLI caught uploading all your local files to the cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +218,6 @@
                 <span class="time">2026-07-16 15:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.kimi.com/en" target="_blank">Kimi K3 is now live</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-16 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/karthik_rathod_592ae48161/claude-in-chrome-doesnt-work-on-wsl2-heres-the-fix-one-logged-in-chrome-two-drivers-cheap-5ke" target="_blank">Claude in Chrome doesn&#x27;t work on WSL2. Here&#x27;s the fix: one logged-in Chrome, two drivers, cheap tokens</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-16 13:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/26-1-1280x720.jpg" alt="New Final Fantasy Resonance Trailer Is Peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-resonance-new-trailer-brave-exvius-2000716703" target="_blank">New Final Fantasy Resonance Trailer Is Peak</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-16 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXNVDFWJ3VRANDHKDGH4ZXJQ/hero-image.jpg" alt="Five Hacks Every Garmin Forerunner 170 User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-garmin-forerunner-170-hacks?utm_medium=RSS" target="_blank">Five Hacks Every Garmin Forerunner 170 User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-16 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/1280px-20110421_Tbilisi_Georgia_Panoramic.jpg?fit=1280%2C604&amp;quality=60&amp;ssl=1" alt="The country that hands you a one-year tourist visa at the airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/16/georgia-one-year-tourist-visa.html" target="_blank">The country that hands you a one-year tourist visa at the airport</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-16 17:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/serkis-1280x720.jpg" alt="Andy Serkis, Why Do You Suck Now?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,33 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/16/friendly-fraud-chargebacks.html" target="_blank">Bloomberg calls chargebacks &quot;friendly fraud&quot; — but it&#x27;s often the only option</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-16 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/mortal-shell-2.jpg" alt="PS5 Physical Editions Of Mortal Shell 2 Are Selling Out And Players Are Telling Sony To Take Note" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ps5-physical-editions-of-mortal-shell-2-are-selling-out-and-players-are-telling-sony-to-take-note-2000716627" target="_blank">PS5 Physical Editions Of Mortal Shell 2 Are Selling Out And Players Are Telling Sony To Take Note</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-16 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Windows-11-Pro-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Copilot, BitLocker, and Hyper-V for under $10? Meet this Windows 11 Pro deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/16/copilot-bitlocker-and-hyper-v-for-under-10-meet-this-windows-11-pro-deal.html" target="_blank">Copilot, BitLocker, and Hyper-V for under $10? Meet this Windows 11 Pro deal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-16 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/image-92-1280x724.jpg" alt="EA VP Urges Companies To Think About In-Game Ads During Development: ‘That’s A Huge Opportunity’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ea-vp-urges-companies-to-think-about-in-game-ads-during-development-thats-a-huge-opportunity-2000716639" target="_blank">EA VP Urges Companies To Think About In-Game Ads During Development: ‘That’s A Huge Opportunity’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-16 14:30</span>
             </div>
         </div>
 </div>
@@ -324,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 17:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 18:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
