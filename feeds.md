@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 21:19:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-16 22:18:29 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 21:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 22:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss" target="_blank">Ilhan Omar renews push for US to join ICC amid Trump pressure</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-16 21:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260716-bowl-of-salad-ch-1554-946fcb.jpg" alt="Iceberg lettuce supplier investigated as possible source in cyclosporiasis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/health/health-news/fda-names-source-cyclosporiasis-outbreak-rcna587899" target="_blank">Iceberg lettuce supplier investigated as possible source in cyclosporiasis outbreak</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-16 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb4/live/5f142cf0-815f-11f1-b976-0b9c15b0ccfc.jpg" alt="Blasts reported in Iran as US launches new wave of strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss" target="_blank">Blasts reported in Iran as US launches new wave of strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-16 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/16/nx-s1-5896396/ice-traffic-stops-shootings" target="_blank">White House says ICE traffic stops will continue after deadly shootings</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-16 21:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss" target="_blank">The hardest party to manage in the Iran talks isn’t Iran</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-16 20:40</span>
@@ -62,47 +95,29 @@
                 <span class="time">2026-07-16 20:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/16/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss" target="_blank">What could a US ground invasion of Iran look like?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-16 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/16/g-s1-133961/why-orthodox-jews-are-opposing-the-new-daylight-saving-bill-in-congress" target="_blank">Why Orthodox Jews are opposing the new daylight saving bill in Congress</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-16 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c1/live/24189380-813b-11f1-b525-63787292c170.jpg" alt="Sadiq Khan among 26 new peers to enter the Lords" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cglj25k94r9o?at_medium=RSS&at_campaign=rss" target="_blank">Sadiq Khan among 26 new peers to enter the Lords</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-16 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-1-gty-gmh-260715_1784131862105_hpMain_4x3t_384.jpg" alt="Teleprompter operator made more than $100K betting on Trump&#x27;s speeches: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/white-house-teleprompter-operator-made-100k-betting-trumps/story?id=134764573" target="_blank">Teleprompter operator made more than $100K betting on Trump&#x27;s speeches: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-16 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas" target="_blank">Fortnite is getting a bunch of AI-powered ‘personas’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-16 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/" target="_blank">Coca-Cola suspended production at its Fairlife dairy after a ransomware attack</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-16 21:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/t-mobile-store-logo-500x500-1784232890.jpg" alt="T-Mobile bungled forced plan migration, canceling some users&#x27; free lines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +152,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/" target="_blank">Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-16 20:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/" target="_blank">Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her Mafia skills)</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-16 20:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-532502452-500x500-1784227863.jpg" alt="Linus Torvalds to critics of AI coding in Linux: &quot;Fork it. Or just walk away.&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/" target="_blank">Linus Torvalds to critics of AI coding in Linux: &quot;Fork it. Or just walk away.&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-16 19:18</span>
             </div>
         </div>
 </div>
@@ -236,6 +233,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXP9YY4ZEPTCWRQANS9TXBQ9/hero-image.png" alt="The Best Headphones for Kids Are 30% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-best-headphones-for-kids-are-30-off-right-now?utm_medium=RSS" target="_blank">The Best Headphones for Kids Are 30% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-16 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/shutterstock_2678512537.jpg?fit=762%2C525&amp;quality=60&amp;ssl=1" alt="Anti-Forbes list ranks wealthy by the wealth their companies generated for others" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/16/anti-forbes-list-ranks-wealthy-by-the-wealth-their-companies-generated-for-others.html" target="_blank">Anti-Forbes list ranks wealthy by the wealth their companies generated for others</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-16 21:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KXKG91GNDQ7VVACWQB5BWY8B/hero-image.jpg" alt="10 Hacks Every Apple Messages User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -269,24 +284,6 @@
                 <span class="title"><a href="https://kotaku.com/final-fantasy-resonance-new-trailer-brave-exvius-2000716703" target="_blank">New Final Fantasy Resonance Trailer Is Peak</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-16 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXNVDFWJ3VRANDHKDGH4ZXJQ/hero-image.jpg" alt="Five Hacks Every Garmin Forerunner 170 User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-garmin-forerunner-170-hacks?utm_medium=RSS" target="_blank">Five Hacks Every Garmin Forerunner 170 User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-16 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/1280px-20110421_Tbilisi_Georgia_Panoramic.jpg?fit=1280%2C604&amp;quality=60&amp;ssl=1" alt="The country that hands you a one-year tourist visa at the airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/16/georgia-one-year-tourist-visa.html" target="_blank">The country that hands you a one-year tourist visa at the airport</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-16 17:07</span>
             </div>
         </div>
 </div>
@@ -326,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 21:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 22:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
