@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 07:38:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-16 08:42:57 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 07:38 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 08:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -63,6 +66,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-tiktok-social-media_7243311.jpg?20260509110220" alt="TikTok under investigation in UK over child safety measures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/tiktok-being-investigated-by-ofcom-over-child-safety-measures-13563884" target="_blank">TikTok under investigation in UK over child safety measures</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-16 05:41</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -87,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.com/US/canadian-wildfire-smoke-descends-us-spreading-great-lakes/story?id=134774391" target="_blank">Canadian wildfire smoke descends on parts of US, including New York City</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-16 02:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss" target="_blank">Iran launches strikes on Gulf, even as FM visits Qatar</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-16 02:10</span>
             </div>
         </div>
 </div>
@@ -166,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/unnobatroo/chrome-extension-to-replace-ads-with-art-1368" target="_blank">Chrome extension to replace ads with art</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-16 08:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/purnomosidi/i-got-tired-of-uploading-private-files-to-random-servers-so-i-built-a-100-client-side-tool-suite-4dan" target="_blank">I got tired of uploading private files to random servers, so I built a 100% client-side tool suite 🛠️</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-16 06:32</span>
@@ -205,15 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.14" target="_blank">AMD ROCm 7.14 Announced As New Production Release, Ryzen AI 400 Series Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-16 02:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bikkisingh/why-your-php-form-is-not-working-5-common-bugs-fixed-5cmn" target="_blank">Why Your PHP Form Is Not Working — 5 Common Bugs Fixed</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-16 02:35</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 07:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 08:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
