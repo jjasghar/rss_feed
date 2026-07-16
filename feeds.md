@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 10:36:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-16 11:29:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 10:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 11:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister?traffic_source=rss" target="_blank">Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-16 10:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +93,29 @@
                 <span class="time">2026-07-16 09:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b67e/live/039382d0-80de-11f1-a5c2-db1656c1a0a8.jpg" alt="Iran targets military bases as US launches wave of strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss" target="_blank">Iran targets military bases as US launches wave of strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-16 07:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops" target="_blank">COMPUTER COPS: Inside the big business of selling AI to the police</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-16 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/" target="_blank">Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-16 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a5869bdad0fb31ed65f955c/master/pass/Breathe-Easy-Thanks-to-the-Best-Air-Purifier-for-Every-Home.jpg" alt="Best Air Purifiers (2026): Coway, AirDoctor, IQAir, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +150,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/" target="_blank">Lululemon backs nylon-recycling startup Syntetica in $30M Series A</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-16 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/" target="_blank">Lululemon backs nylon recycling startup Syntetica in $30M Series A</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-16 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a56063395e35992f7024e83/master/pass/Skullcandy_Crusher_1080_ANC_Family_Press_Images_9645.jpg" alt="Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/can-bose-help-skullcandy-shake-its-bargain-bin-reputation/" target="_blank">Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-16 00:00</span>
             </div>
         </div>
 </div>
@@ -217,20 +209,6 @@
                 <span class="title"><a href="https://dev.to/purnomosidi/i-got-tired-of-uploading-private-files-to-random-servers-so-i-built-a-100-client-side-tool-suite-4dan" target="_blank">I got tired of uploading private files to random servers, so I built a 100% client-side tool suite 🛠️</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-16 06:32</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/a-video-screen-that-is-also-a-camera.html" target="_blank">A Video Screen That Is Also a Camera</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-15 11:04</span>
             </div>
         </div>
 </div>
@@ -329,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 10:36 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 11:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
