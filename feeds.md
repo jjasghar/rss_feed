@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 13:29:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-16 14:36:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 13:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 14:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6760/live/64ab27e0-8119-11f1-b976-0b9c15b0ccfc.jpg" alt="Teenagers from 15 should be given free MenB vaccine, say UK experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c74glj9zkzko?at_medium=RSS&at_campaign=rss" target="_blank">Teenagers from 15 should be given free MenB vaccine, say UK experts</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-16 14:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c50c/live/073b9e40-8115-11f1-8b8c-8f0447398806.jpg" alt="Italian officials handed jail terms for Genoa bridge disaster that killed 43" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/crmrwe84rp2o?at_medium=RSS&at_campaign=rss" target="_blank">MI5 court evidence based on lies, report says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-16 11:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged" target="_blank">Uganda calls for travel restrictions to be lifted after last Ebola patient discharged</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-16 11:33</span>
             </div>
         </div>
 </div>
@@ -178,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17381301/foss-weekly-26-29" target="_blank">FOSS Weekly #26.29: Mint Goes Wayland, OpenBook Reader, Terminal Shortcut Tips, Linux Handheld Computers and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-16 13:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-7-7700x3d" target="_blank">AMD Ryzen 7 7700X3D Linux Performance</a></span>
                 <span class="feed">Phoronix</span>
@@ -205,19 +210,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17381182/remap-copilot-key-linux" target="_blank">Remapping the Useless AI Slop Copilot Key in Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-16 09:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17381171/x11-vs-wayland-input-latency" target="_blank">Turns Out Wayland Isn&amp;#x27;t the Input Lag Disaster Everyone Says it is</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-16 08:40</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://community.oneplus.com/thread/2170715118587871237" target="_blank">OnePlus halts operations in USA and Europe</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-16 10:14</span>
             </div>
         </div>
 </div>
@@ -225,6 +221,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/image-92-1280x724.jpg" alt="EA VP Urges Companies To Think About In-Game Ads During Development: ‘That’s A Huge Opportunity’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ea-vp-urges-companies-to-think-about-in-game-ads-during-development-thats-a-huge-opportunity-2000716639" target="_blank">EA VP Urges Companies To Think About In-Game Ads During Development: ‘That’s A Huge Opportunity’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-16 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Spike_Milligan_28464457345229.jpg?fit=2081%2C1559&amp;quality=60&amp;ssl=1" alt="The time Spike Milligan refused to pay a parking fine: &quot;send me to prison&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/16/spike-milligan-parking-fine.html" target="_blank">The time Spike Milligan refused to pay a parking fine: &quot;send me to prison&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-16 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-07-at-12.24.28-PM-1280x720.jpg" alt="The New Avatar Movie Is Coming To Theaters Like Fans Wanted, But In The Worst Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,24 +273,6 @@
                 <span class="title"><a href="https://kotaku.com/people-are-using-ai-to-quickly-clone-games-before-the-indie-devs-can-release-them-2000716336" target="_blank">AI Is Already Generating A Flood Of Indie Game Clones</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-15 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/nvidia-1280x718.jpg" alt="Nvidia Thanks Sega For $5 Million Investment That Saved It As It Now Unleashes RAMageddon On The Gaming Industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nvidia-thanks-sega-for-5-million-investment-that-saved-it-as-it-now-unleashes-ramageddon-on-the-gaming-industry-2000716308" target="_blank">Nvidia Thanks Sega For $5 Million Investment That Saved It As It Now Unleashes RAMageddon On The Gaming Industry</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-15 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Office-Professional-Plus-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Skip the subscription with Microsoft Office 2019 for $20" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/15/skip-the-subscription-with-microsoft-office-2019-for-20.html" target="_blank">Skip the subscription with Microsoft Office 2019 for $20</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-15 21:00</span>
             </div>
         </div>
 </div>
@@ -316,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 13:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 14:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
