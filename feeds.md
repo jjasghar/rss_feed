@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 22:18:29 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-07-16 23:15:51 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 22:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 23:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -69,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cbd/live/1aebe3f0-815b-11f1-af12-1d73a1ab1e06.jpg" alt="Burnham to promise new path for UK when he becomes new Labour leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c2lq12z1xdlo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to promise new path for UK when he becomes new Labour leader</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-16 21:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -86,20 +98,20 @@
                 <span class="time">2026-07-16 20:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/16/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah?traffic_source=rss" target="_blank">Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-16 20:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/" target="_blank">SpaceX suddenly aborts second Starship V3 launch after ignition</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-16 23:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +157,6 @@
                 <span class="time">2026-07-16 20:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/" target="_blank">Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-16 20:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/gowthaman90/from-9-to-63-letting-a-benchmark-build-a-better-mcp-security-proxy-3gg8" target="_blank">From 9% to 63%: Letting a Benchmark Build a Better MCP Security Proxy</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-16 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/aws-continuum-code-security/en/headerimage/generatedHeaderImage-1784225072280.jpg" alt="AWS Continuum to Enable Agentic Code Security for Enterprises" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/aws-continuum-code-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Continuum to Enable Agentic Code Security for Enterprises</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-16 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -202,15 +214,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading" target="_blank">The Pulse: Grok’s CLI caught uploading all your local files to the cloud</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2026-07-16 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17381411/vocalinux-beta-release" target="_blank">Vocalinux Turns Your Speech Into Text Without Giving Away Voice Data</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-16 16:45</span>
             </div>
         </div>
 </div>
@@ -323,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 22:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 23:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
