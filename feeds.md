@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 15:29:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-16 16:26:09 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 15:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 16:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlink_stack1-500x500.jpg" alt="Could China and Russia really destroy Starlink? Only with a boomerang." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/" target="_blank">Could China and Russia really destroy Starlink? Only with a boomerang.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-16 16:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a58f0f4d35982f319740d69/master/pass/TOP%20ART!.jpg" alt="Swatch’s New Gold MoonSwatch Solves the Problem of the Nightmare Royal Pop Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/swatch-gold-moonswatch-solves-the-problem-of-the-nightmare-royal-pop-launch/" target="_blank">Swatch’s New Gold MoonSwatch Solves the Problem of the Nightmare Royal Pop Launch</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-16 15:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -141,29 +158,20 @@
                 <span class="time">2026-07-16 12:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma" target="_blank">Google ordered to open Android and Search to rivals in Europe</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-16 12:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Xona_InSitu_Orbit_03-500x500.jpg" alt="Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/" target="_blank">Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-16 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sumaskeller/a-compliance-checklist-for-entering-a-new-eu-market-276g" target="_blank">A Compliance Checklist for Entering a New EU Market</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-16 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/ubuntu-trash-icons.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 fixes trash dialog bug that defaulted to cancel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,13 +217,18 @@
                 <span class="time">2026-07-16 13:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/puneetkumar2010/how-to-fix-email-not-working-on-render-smtp-blocked-n1l" target="_blank">How to Fix Email Not Working on Render (SMTP Blocked) 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-16 12:24</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html" target="_blank">Protecting Privacy in an AI Era</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-16 14:34</span>
             </div>
         </div>
 </div>
@@ -224,12 +237,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/playstation-games-1280x720.jpg" alt="PlayStation Turns Comments Off On YouTube As Fans Continue Yelling About Physical Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-5-6-physical-discs-youtube-comments-social-2000716707" target="_blank">PlayStation Turns Comments Off On YouTube As Fans Continue Yelling About Physical Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-16 16:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/mortal-shell-2.jpg" alt="PS5 Physical Editions Of Mortal Shell 2 Are Selling Out And Players Are Telling Sony To Take Note" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/ps5-physical-editions-of-mortal-shell-2-are-selling-out-and-players-are-telling-sony-to-take-note-2000716627" target="_blank">PS5 Physical Editions Of Mortal Shell 2 Are Selling Out And Players Are Telling Sony To Take Note</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-16 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Windows-11-Pro-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Copilot, BitLocker, and Hyper-V for under $10? Meet this Windows 11 Pro deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/16/copilot-bitlocker-and-hyper-v-for-under-10-meet-this-windows-11-pro-deal.html" target="_blank">Copilot, BitLocker, and Hyper-V for under $10? Meet this Windows 11 Pro deal</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-16 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -257,24 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/16/spike-milligan-parking-fine.html" target="_blank">The time Spike Milligan refused to pay a parking fine: &quot;send me to prison&quot;</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-16 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-07-at-12.24.28-PM-1280x720.jpg" alt="The New Avatar Movie Is Coming To Theaters Like Fans Wanted, But In The Worst Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/avatar-aang-last-airbender-theater-showtimes-la-nyc-2000716633" target="_blank">The New Avatar Movie Is Coming To Theaters Like Fans Wanted, But In The Worst Way</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-16 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXKSBBD7QGKQJR6EC89QB698/hero-image.jpg" alt="10 Hacks Every Coros Watch User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/coros-watch-user-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Coros Watch User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-16 12:30</span>
             </div>
         </div>
 </div>
@@ -314,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 15:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 16:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
