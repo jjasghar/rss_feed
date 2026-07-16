@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 02:58:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-16 04:05:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 04:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +108,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/" target="_blank">Lululemon backs nylon recycling startup Syntetica in $30M Series A</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-16 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a56063395e35992f7024e83/master/pass/Skullcandy_Crusher_1080_ANC_Family_Press_Images_9645.jpg" alt="Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -146,20 +161,20 @@
                 <span class="time">2026-07-15 22:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery" target="_blank">Valve says iFixit will keep selling Steam Deck batteries after all</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-15 22:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robinzzz/canary-agentic-autofix-with-failure-classes-and-reliability-gates-id0" target="_blank">Canary Agentic Autofix With Failure Classes and Reliability Gates</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-16 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +220,6 @@
                 <span class="time">2026-07-15 22:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.2-rc1-Released" target="_blank">Mesa 26.2-rc1 Released In Ending Feature Work For This Quarter&#x27;s 3D Graphics Stack</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-15 21:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2021/05/5c7a41113d2fd43be537bb8ca3b526d1-1280x720.jpg" alt="Elder Scrolls Online Studio Leadership Revealed To Be Part Of The Xbox Cuts, But Say They Have ‘Tremendous Confidence’ In The Game’s Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elder-scrolls-online-studio-leadership-revealed-to-be-part-of-the-xbox-cuts-but-say-they-have-tremendous-confidence-in-the-games-future-2000716382" target="_blank">Elder Scrolls Online Studio Leadership Revealed To Be Part Of The Xbox Cuts, But Say They Have ‘Tremendous Confidence’ In The Game’s Future</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-16 00:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/aiclones-1280x720.jpg" alt="AI Is Already Generating A Flood Of Indie Game Clones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +293,6 @@
                 <span class="time">2026-07-15 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXKCF9RKPHSBJM795CJXYEDA/hero-image.jpg" alt="Third-Party App Stores Are Finally Coming to Google Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/third-party-app-stores-google-play?utm_medium=RSS" target="_blank">Third-Party App Stores Are Finally Coming to Google Play</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-15 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,6 +305,15 @@
                 <span class="title"><a href="https://questionablecontent.net/view.php?comic=5874" target="_blank">There Will Be Pets</a></span>
                 <span class="feed">QC RSS v2</span>
                 <span class="time">2026-07-16 01:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/15/rex-ready-player-one-part-five" target="_blank">Rex Ready Player One, Part Five</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-15 23:59</span>
             </div>
         </div>
 <div class="story">
@@ -324,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 04:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
