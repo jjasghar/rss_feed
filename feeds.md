@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 01:31:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-16 02:58:44 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, July 16, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/smoke-nyc-1-gmh-260715_1784167763081_hpMain_4x3t_384.jpg" alt="Canadian wildfire smoke descends on parts of US, including New York City" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/canadian-wildfire-smoke-descends-us-spreading-great-lakes/story?id=134774391" target="_blank">Canadian wildfire smoke descends on parts of US, including New York City</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-16 02:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss" target="_blank">Iran launches strikes on Gulf, even as FM visits Qatar</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-16 02:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,39 +79,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands" target="_blank">How global heating supercharged floods in West Africa, displacing thousands</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-16 00:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1492/live/3e0e63e0-809c-11f1-ab38-b3d1805d0663.jpg" alt="William tells England to &#x27;hold their heads high&#x27; after defeat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss" target="_blank">William tells England to &#x27;hold their heads high&#x27; after defeat</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-15 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire" target="_blank">Fear and hope in Utah in the shadow of America&#x27;s largest wildfire</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-15 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/15/nx-s1-5893895/2026-world-cup-fifa-argentina-england-semifinal" target="_blank">Argentina is back in the World Cup final after a thrilling semifinal win over England</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-15 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/518/775/47184378640-1080pnbcstations.jpg" alt="¡Se desata la locura! Lautaro Martínez marca el 2-1 ante Inglaterra" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/se-desata-la-locura-lautaro-martinez-marca-el-2-1-ante-inglaterra-tmvo13204151" target="_blank">¡Se desata la locura! Lautaro Martínez marca el 2-1 ante Inglaterra</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-15 21:01</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.14" target="_blank">AMD ROCm 7.14 Announced As New Production Release, Ryzen AI 400 Series Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-16 02:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bikkisingh/why-your-php-form-is-not-working-5-common-bugs-fixed-5cmn" target="_blank">Why Your PHP Form Is Not Working — 5 Common Bugs Fixed</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-16 02:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mads_hansen_27b33ebfee4c9/ai-database-agents-need-review-queues-not-just-approval-buttons-1enm" target="_blank">AI database agents need review queues, not just approval buttons</a></span>
                 <span class="feed">DEV Community</span>
@@ -195,24 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.2-rc1-Released" target="_blank">Mesa 26.2-rc1 Released In Ending Feature Work For This Quarter&#x27;s 3D Graphics Stack</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-15 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnkqftzgjlacwbus17gj6.jpg" alt="Reverse-engineering an MMO Aion 2&#x27;s network protocol to build a real-time DPS meter (Rust + Tauri)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aionon/reverse-engineering-an-mmo-aion-2s-network-protocol-to-build-a-real-time-dps-meter-rust-tauri-3157" target="_blank">Reverse-engineering an MMO Aion 2&#x27;s network protocol to build a real-time DPS meter (Rust + Tauri)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-15 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Lemonade-11.0" target="_blank">AMD Releases Lemonade 11.0 Local AI Server With Text-To-Speech, Other New Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-15 19:51</span>
             </div>
         </div>
 </div>
@@ -294,6 +293,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5874.png" alt="There Will Be Pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5874" target="_blank">There Will Be Pets</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-16 01:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1784066467-20260715.png" alt="Saturday Morning Breakfast Cereal - Pac" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -316,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
