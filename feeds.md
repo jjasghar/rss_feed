@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 21:14:18 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-07-17 22:14:17 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 21:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 22:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss" target="_blank">Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-17 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/nyc-smoke-1-abc-gmh-260717_1784292708797_hpMain_4x3t_384.jpg" alt="Toxic wildfire smoke chokes major US cities: Latest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/canada-wildfire-smoke-brings-unhealthy-air-quality-dozen/story?id=134845214" target="_blank">Toxic wildfire smoke chokes major US cities: Latest</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-17 21:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +102,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y300l2zvno?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says he is &#x27;finalising&#x27; cabinet ahead of becoming PM on Monday</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-17 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/17/nx-s1-5897509/lettuce-taco-bell-mexico-cyclospora-outbreak" target="_blank">Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-17 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss" target="_blank">Iranian forces: missiles and drones fired at US targets in Gulf States</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-17 16:54</span>
             </div>
         </div>
 </div>
@@ -245,6 +251,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/zp6-1280x704.jpg" alt="Disco Elysium Studio Says Game About People Forced Into Impossible Situations Didn’t Sell Well Enough To Prevent Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/disco-elysium-studio-says-game-about-people-forced-into-impossible-situations-didnt-sell-well-enough-to-prevent-layoffs-2000717249" target="_blank">Disco Elysium Studio Says Game About People Forced Into Impossible Situations Didn’t Sell Well Enough To Prevent Layoffs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-17 21:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXRT49RXN29YWN9WAYX4A7NY/hero-image.jpg" alt="Only One Apple Music Plan Didn&#x27;t Just Go up in Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-music-just-got-more-expensive?utm_medium=RSS" target="_blank">Only One Apple Music Plan Didn&#x27;t Just Go up in Price</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-17 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/jimothy-1280x720.jpg" alt="Seattle’s Newest Cryptid Is Actually Just A Very Round Raccoon Named Jimothy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -278,24 +302,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/asus-32-inch-4k-oled-gaming-monitor-deal-july-2026?utm_medium=RSS" target="_blank">This 4K OLED Gaming Monitor Is $400 Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-17 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/27A_midnight_modern_conversation272C_after_William_Hogarth._Wellcome_L0013091-scaled.jpg?fit=2560%2C1968&amp;quality=60&amp;ssl=1" alt="Your brain can track two voices at the same time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/17/cocktail-party-brain.html" target="_blank">Your brain can track two voices at the same time</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-17 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/xbox-distract-keys-1-1280x720.jpg" alt="This Feels Gross" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-feels-gross-2000717133" target="_blank">This Feels Gross</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-17 16:00</span>
             </div>
         </div>
 </div>
@@ -353,8 +359,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 21:14 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 251 |
+        🔄 Last Updated: 22:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
