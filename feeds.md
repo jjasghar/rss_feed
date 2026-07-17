@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 22:14:17 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-17 23:14:52 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 22:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 23:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +108,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/" target="_blank">Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-17 23:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale" target="_blank">Shark&amp;#8217;s versatile ChillPill cooling system is back to its best price</a></span>
                 <span class="feed">The Verge</span>
@@ -154,20 +159,20 @@
                 <span class="time">2026-07-17 19:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview" target="_blank">Pebble founder Eric Migicovsky says his 30-day warranty is all about trust</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-17 19:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/" target="_blank">Kaiser nurses say AI, workplace surveillance are making their jobs, care worse</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-17 22:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +218,6 @@
                 <span class="time">2026-07-17 15:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-ACPI-WMI-Driver-ARM64" target="_blank">Linux WMI Driver Gets Ready To Support ACPI-Based ARM64 Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-17 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2020/09/pw8woltt8utp1phldmzs.jpg" alt="I Love The Sound Of Mario’s Footsteps In Super Mario Sunshine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/i-love-sound-mario-footsteps-super-mario-sunshine-2000717264" target="_blank">I Love The Sound Of Mario’s Footsteps In Super Mario Sunshine</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-17 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/zp6-1280x704.jpg" alt="Disco Elysium Studio Says Game About People Forced Into Impossible Situations Didn’t Sell Well Enough To Prevent Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +297,6 @@
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/the-odyssey-cattle-island-scene-flashing-epilepsy-nolan-2000717199" target="_blank">The Odyssey Has A Scene That Is Giving People Headaches And Could Trigger Epilepsy: ‘Some Of The Most Aggressive Screen Flashing I’ve Ever Seen’</a></span>
                 <span class="feed">Kotaku</span>
-                <span class="time">2026-07-17 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXRFT340R8Y812PBRQMV70WE/hero-image.png" alt="This 4K OLED Gaming Monitor Is $400 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/asus-32-inch-4k-oled-gaming-monitor-deal-july-2026?utm_medium=RSS" target="_blank">This 4K OLED Gaming Monitor Is $400 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-17 18:00</span>
             </div>
         </div>
@@ -359,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 22:14 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 114 | 📡 Total Sources: 39 | 📸 With Images: 251 |
+        🔄 Last Updated: 23:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
