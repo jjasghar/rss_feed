@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-16 23:15:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-17 00:19:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 16, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 00:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/16/venezuela-earthquake-number-of-known-dead-rises-to-nearly-5000-victims?traffic_source=rss" target="_blank">Venezuela earthquake: Number of known dead rises to nearly 5,000 victims</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-16 23:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784240749407_now_hallie_cyclosporiasis_investigation_260716_S3_1920x1080-snnuki.jpg" alt="Iceberg lettuce supplier being investigated by FDA as source of cyclosporiasis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/iceberg-lettuce-supplier-being-investigated-by-fda-as-source-of-cyclosporiasis-outbreak-266809925739" target="_blank">Iceberg lettuce supplier being investigated by FDA as source of cyclosporiasis outbreak</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-16 22:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +102,20 @@
                 <span class="time">2026-07-16 21:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/16/nx-s1-5896396/ice-traffic-stops-shootings" target="_blank">White House says ICE traffic stops will continue after deadly shootings</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-16 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss" target="_blank">The hardest party to manage in the Iran talks isn’t Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-16 20:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipf13abort-500x500.jpg" alt="SpaceX scrubs Starship launch after some of its engines didn&#x27;t start" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/" target="_blank">SpaceX scrubs Starship launch after some of its engines didn&#x27;t start</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-17 00:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale" target="_blank">Samsung’s 55-inch Frame art TV is $200 cheaper than usual</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-16 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-3.12.16-PM-500x500.png" alt="Fear of humanoid robots spurs human workers to strike at Hyundai auto factory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/" target="_blank">Fear of humanoid robots spurs human workers to strike at Hyundai auto factory</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-16 20:09</span>
             </div>
         </div>
 </div>
@@ -236,6 +240,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Screenshot.jpg?fit=1080%2C743&amp;quality=60&amp;ssl=1" alt="Live map of Britain&#x27;s trains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/16/live-map-of-britains-trains.html" target="_blank">Live map of Britain&#x27;s trains</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-16 22:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/netflix-300-1280x720.jpg" alt="Netflix Brags That AI Tools Were Used In Around 300 Of Its Shows And Movies In 2026 So Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/netflix-brags-that-ai-tools-were-used-in-around-300-of-its-shows-and-movies-in-2026-so-far-2000716805" target="_blank">Netflix Brags That AI Tools Were Used In Around 300 Of Its Shows And Movies In 2026 So Far</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-16 22:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KXP9YY4ZEPTCWRQANS9TXBQ9/hero-image.png" alt="The Best Headphones for Kids Are 30% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -271,24 +293,6 @@
                 <span class="time">2026-07-16 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXNZMFTW07ER1AMF016JS5JP/hero-image.jpg" alt="Scammers Are Using FaceTime to Pose As Apple Support Reps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/watch-out-for-this-new-facetime-scam?utm_medium=RSS" target="_blank">Scammers Are Using FaceTime to Pose As Apple Support Reps</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-16 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/26-1-1280x720.jpg" alt="New Final Fantasy Resonance Trailer Is Peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-resonance-new-trailer-brave-exvius-2000716703" target="_blank">New Final Fantasy Resonance Trailer Is Peak</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-16 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +316,13 @@
                 <span class="time">2026-07-16 01:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/15/rex-ready-player-one-part-five" target="_blank">Rex Ready Player One, Part Five</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-15 23:59</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 00:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
