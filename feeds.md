@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 20:17:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-17 21:14:18 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 20:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 21:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men" target="_blank">Spain could make World Cup history: The first to win men&#x27;s and women&#x27;s trophies back-to-back</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-17 20:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3349/live/d949cc00-81d7-11f1-926f-c90d1bcfbc84.jpg" alt="US denies Iranian claims it hit civilian infrastructure in latest strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +98,6 @@
                 <span class="time">2026-07-17 16:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/17/g-s1-134179/is-smoke-in-your-home-heres-how-to-make-an-air-purifier-using-a-box-fan" target="_blank">Is smoke in your home? Here&#x27;s how to make an air purifier using a box fan</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-17 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -132,6 +131,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-500x500.png" alt="Google-backed satellites for wildfire detection launch as smoke chokes US, Canada" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/" target="_blank">Google-backed satellites for wildfire detection launch as smoke chokes US, Canada</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-17 19:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a5a63486885fb838e26f206/master/pass/GettyImages-2285777540.jpg" alt="What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,15 +157,6 @@
                 <span class="time">2026-07-17 19:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/" target="_blank">I replaced my space heater and ceiling fan with one Dyson appliance</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-17 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/annoh_karlgusta_c6fd8cba3/the-10-best-remote-job-boardsand-how-to-choose-the-right-one-3p63" target="_blank">The 10 Best Remote Job Boards(And How to Choose the Right One)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-17 20:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://goliath32.com/blog/z80.html" target="_blank">The Zilog Z80 has turned 50</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-17 19:41</span>
             </div>
         </div>
 <div class="story">
@@ -208,20 +216,20 @@
                 <span class="time">2026-07-17 13:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmgwn2gsxj9syrc8ta9nz.png" alt="Messing with multi agent orchestration? just tell your AI to think long term, this will do 80% of the job in 1% of the effort." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tomerbendavid/messing-with-multi-agent-orchestration-just-tell-your-ai-to-think-long-term-this-will-do-80-of-ff7" target="_blank">Messing with multi agent orchestration? just tell your AI to think long term, this will do 80% of the job in 1% of the effort.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-17 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html" target="_blank">Friday Squid Blogging: Squid Washing Up on Cape Cod Beach</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-17 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -305,6 +313,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1784250964-20260718.png" alt="Saturday Morning Breakfast Cereal - Subjective" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/subjective" target="_blank">Saturday Morning Breakfast Cereal - Subjective</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-17 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -336,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 20:17 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 21:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
