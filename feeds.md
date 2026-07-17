@@ -1,27 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 14:29:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-17 15:24:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 14:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 15:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +37,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/17/g-s1-134179/is-smoke-in-your-home-heres-how-to-make-an-air-purifier-using-a-box-fan" target="_blank">Is smoke in your home? Here&#x27;s how to make an air purifier using a box fan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-17 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3349/live/d949cc00-81d7-11f1-926f-c90d1bcfbc84.jpg" alt="Iran accuses US of hitting civilian infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss" target="_blank">Iran accuses US of hitting civilian infrastructure</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-17 14:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,30 +83,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784287162797_tdy_news_7a_gutierrez_trump_false_election_claims_260717_S3_1920x1080-1r0i2u.jpg" alt="Trump Uses Prime-Time Speech to Revive False Election Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/17/japan-passes-legislation-banning-violation-of-national-flag?traffic_source=rss" target="_blank">Japan passes legislation banning violation of national flag</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-17 10:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/17/g-s1-133804/pentagon-trump-world-cup-netflix-sam-neill-news-quiz" target="_blank">What will the Pentagon begin screening &#x27;war fighters&#x27; for? The quiz knows</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-17 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss" target="_blank">US strikes destroy key bridges, tower in southern Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-17 08:57</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-revives-false-election-claims-ahead-of-crucial-midterms-266832965531" target="_blank">Trump Uses Prime-Time Speech to Revive False Election Claims</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-17 11:19</span>
             </div>
         </div>
 </div>
@@ -156,6 +156,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="I got tired of paying for premium AI Chatbot, so I built a completely free alternative for Android/Windows." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/techambient/i-got-tired-of-paying-for-premium-ai-chatbot-so-i-built-a-completely-free-alternative-for-59f9" target="_blank">I got tired of paying for premium AI Chatbot, so I built a completely free alternative for Android/Windows.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-17 15:03</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -200,15 +209,6 @@
                 <span class="time">2026-07-17 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17381815/linus-torvalds-on-ai" target="_blank">Linus Torvalds Spent Years Dismissing AI, Only to Vouch for It</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-17 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -221,15 +221,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html" target="_blank">Details of Alan Turing’s Voice Encryption System</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-07-17 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html" target="_blank">Protecting Privacy in an AI Era</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-16 14:34</span>
             </div>
         </div>
 </div>
@@ -314,22 +305,13 @@
                 <span class="time">2026-07-17 03:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1784157176-20260716.png" alt="Saturday Morning Breakfast Cereal - Misery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/misery" target="_blank">Saturday Morning Breakfast Cereal - Misery</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-16 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 14:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 15:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
