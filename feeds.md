@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 06:43:04 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-07-17 07:36:51 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 06:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 07:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/17/john-esposito-transformed-how-the-west-understood-islam?traffic_source=rss" target="_blank">John Esposito transformed how the West understood Islam</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-17 06:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8760/live/117c8740-8195-11f1-b976-0b9c15b0ccfc.jpg" alt="US launches new strikes as Iran says civilian infrastructure hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,6 +71,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06f7/live/70ecfc50-811d-11f1-bee8-53ce494e1abc.jpg" alt="Burnham&#x27;s &#x27;Manchesterism&#x27; got him to No 10 - but will it work for the UK?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham&#x27;s &#x27;Manchesterism&#x27; got him to No 10 - but will it work for the UK?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-17 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb4/live/5f142cf0-815f-11f1-b976-0b9c15b0ccfc.jpg" alt="US launches fresh wave of strikes as Iran says civilian infrastructure hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -79,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss" target="_blank">China rebukes UK over nationalisation of British Steel</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-17 03:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss" target="_blank">Iranian sources say US strikes hit civilian infrastructure</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-17 02:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-260716_1784250699345_hpMain_4x3t_384.jpg" alt="Trump says White House releasing documents that show voting system vulnerabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-give-primetime-speech-2020-election-sources/story?id=134791893" target="_blank">Trump says White House releasing documents that show voting system vulnerabilities</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-17 02:33</span>
             </div>
         </div>
 </div>
@@ -237,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/Belmont-1280x716.jpg" alt="Beautiful And Ambitious With A Lot To Prove: Hands-On With Castlevania: Belmont’s Curse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/beautiful-and-ambitious-with-a-lot-to-prove-hands-on-with-castlevania-belmonts-curse-2000716828" target="_blank">Beautiful And Ambitious With A Lot To Prove: Hands-On With Castlevania: Belmont’s Curse</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-17 07:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/doom-.jpg" alt="Doom Director Addresses id Software Bloodbath: ‘What Matters The Most Is That The Games Are Good’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -281,20 +288,20 @@
                 <span class="time">2026-07-16 21:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXKG91GNDQ7VVACWQB5BWY8B/hero-image.jpg" alt="10 Hacks Every Apple Messages User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-apple-messages-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Apple Messages User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-16 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/17/rex-ready-player-one-part-six" target="_blank">Rex Ready Player One, Part Six</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-17 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5875.png" alt="Music To Their Ears" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -318,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 06:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 07:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
