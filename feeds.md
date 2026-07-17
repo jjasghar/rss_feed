@@ -1,30 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 12:22:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-17 13:29:14 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 12:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/17/un-urges-probe-into-deaths-in-pakistani-administered-kashmir-unrest?traffic_source=rss" target="_blank">UN urges probe into deaths in Pakistani-administered Kashmir unrest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-17 13:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +106,20 @@
                 <span class="time">2026-07-17 08:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/17/nx-s1-5896544/2026-world-cup-fifa-var-video-assitant-referee" target="_blank">At the World Cup, has &#x27;VAR&#x27; gone too far? Some fans say it&#x27;s ruining the tournament</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-17 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a59576601b2c605ff7c1d05/master/pass/What-Should-Be-in-Your-Emergency-Kit.jpg" alt="Essential Gear for an Emergency Kit—for Cars or Go-Bags" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/" target="_blank">Essential Gear for an Emergency Kit—for Cars or Go-Bags</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-17 12:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1167319798-500x500.jpg" alt="The report oil companies are worried about: Climate attribution science" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +165,47 @@
                 <span class="time">2026-07-17 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipf13abort-500x500.jpg" alt="SpaceX scrubs Starship launch after some of its engines didn&#x27;t start" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/" target="_blank">SpaceX scrubs Starship launch after some of its engines didn&#x27;t start</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-17 00:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmgwn2gsxj9syrc8ta9nz.png" alt="Messing with multi agent orchestration? just tell your AI to think long term, this will do 80% of the job in 1% of the effort." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tomerbendavid/messing-with-multi-agent-orchestration-just-tell-your-ai-to-think-long-term-this-will-do-80-of-ff7" target="_blank">Messing with multi agent orchestration? just tell your AI to think long term, this will do 80% of the job in 1% of the effort.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-17 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/otel-slm-ai/en/mediumimage/benomahony-medium-1783500827260.jpeg" alt="Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/otel-slm-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-17 13:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arm-Core-Local-Accelerator" target="_blank">Arm Core Local Accelerator Driver Posted For Linux As Agnostic Interface For Accelerators</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-17 12:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423" target="_blank">Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-17 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,47 +224,20 @@
                 <span class="time">2026-07-17 10:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-More-AMDGPU" target="_blank">AMD Preps More Graphics Driver Improvements For Linux 7.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-17 10:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/uber-opensearch-zone-failure/en/headerimage/generatedHeaderImage-1784274349171.jpg" alt="How Uber Builds Zone-Failure-Resilient OpenSearch Clusters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/uber-opensearch-zone-failure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Uber Builds Zone-Failure-Resilient OpenSearch Clusters</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-17 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/production-ai-platforms-evals/en/headerimage/production-ai-platforms-evals-header-1784186327712.jpg" alt="QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/production-ai-platforms-evals/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-17 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stacknotice/vite-8-complete-guide-rolldown-oxc-and-10x-faster-builds-2026-48lh" target="_blank">Vite 8 Complete Guide: Rolldown, Oxc, and 10x Faster Builds (2026)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-17 08:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html" target="_blank">Details of Alan Turing’s Voice Encryption System</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-17 11:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -231,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXNZFHF3FY5HCQVHWG4Z9SPS/hero-image.jpg" alt="That LastPass or Bitwarden Security Email May Be a Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/lastpass-bitwarden-security-email-scam?utm_medium=RSS" target="_blank">That LastPass or Bitwarden Security Email May Be a Scam</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-17 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/Belmont-1280x716.jpg" alt="Beautiful And Ambitious With A Lot To Prove: Hands-On With Castlevania: Belmont’s Curse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +306,6 @@
                 <span class="time">2026-07-16 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/shutterstock_2678512537.jpg?fit=762%2C525&amp;quality=60&amp;ssl=1" alt="Anti-Forbes list ranks wealthy by the wealth their companies generated for others" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/16/anti-forbes-list-ranks-wealthy-by-the-wealth-their-companies-generated-for-others.html" target="_blank">Anti-Forbes list ranks wealthy by the wealth their companies generated for others</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-16 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 12:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
