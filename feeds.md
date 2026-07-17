@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 07:36:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-17 08:39:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 07:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 08:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/17/nx-s1-5896544/2026-world-cup-fifa-var-video-assitant-referee" target="_blank">At the World Cup, has &#x27;VAR&#x27; gone too far? Some fans say it&#x27;s ruining the tournament</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-17 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-260716_1784250699345_hpMain_4x3t_384.jpg" alt="Trump says documents show voting vulnerabilities, China meddling and fraud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-give-primetime-speech-2020-election-sources/story?id=134791893" target="_blank">Trump says documents show voting vulnerabilities, China meddling and fraud</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-17 06:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -77,24 +94,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham&#x27;s &#x27;Manchesterism&#x27; got him to No 10 - but will it work for the UK?</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-17 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb4/live/5f142cf0-815f-11f1-b976-0b9c15b0ccfc.jpg" alt="US launches fresh wave of strikes as Iran says civilian infrastructure hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss" target="_blank">US launches fresh wave of strikes as Iran says civilian infrastructure hit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-17 04:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss" target="_blank">China rebukes UK over nationalisation of British Steel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-17 03:40</span>
             </div>
         </div>
 </div>
@@ -164,10 +163,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stacknotice/vite-8-complete-guide-rolldown-oxc-and-10x-faster-builds-2026-48lh" target="_blank">Vite 8 Complete Guide: Rolldown, Oxc, and 10x Faster Builds (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-17 08:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/fixing-memory-bug" target="_blank">Tracing a memory leak bug in PID 1 and contributing an upstream fix: a Linux support story</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-07-17 08:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/07/17/devs-who-move-fast-still-need-to-do-it-together/" target="_blank">Developers who move fast still need to do it together​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​​﻿‍​‌‍‌‍​﻿‌‌​﻿​‍‌‍‌​​﻿‌﻿‌‍​‍​‍﻿‌‌‍‌‌‌‍‌​​﻿​﻿​﻿‌‌​‍﻿‌​﻿‌​‌‍‌​​﻿​‍​﻿​﻿​‍﻿‌​﻿‍‌​﻿​​​﻿‌​‌‍‌‌​‍﻿‌‌‍‌‌​﻿​‌‌‍​﻿​﻿​﻿​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌﻿​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​​﻿‍​‌‍‌‍​﻿‌‌​﻿​‍‌‍‌​​﻿‌﻿‌‍​‍​‍﻿‌‌‍‌‌‌‍‌​​﻿​﻿​﻿‌‌​‍﻿‌​﻿‌​‌‍‌​​﻿​‍​﻿​﻿​‍﻿‌​﻿‍‌​﻿​​​﻿‌​‌‍‌‌​‍﻿‌‌‍‌‌​﻿​‌‌‍​﻿​﻿​﻿​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌﻿​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-07-17 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17381729/x-might-be-going-open-source" target="_blank">X (Formerly Twitter) is Going Open Source</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-17 07:35</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +212,6 @@
                 <span class="title"><a href="https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/" target="_blank">How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-17 03:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/6edroid/i-tried-to-build-a-dna-inspired-database-i-accidentally-made-a-postgres-index-checker-3k05" target="_blank">I tried to build a DNA-inspired database. I accidentally made a Postgres index checker.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-17 03:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kikakkz/hello-dev-community-5gkm" target="_blank">Hello DEV Community 👋</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-17 02:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Frame-X11-Server-Assembly" target="_blank">Frame: A New X11 Server Implementation Written Entirely In x86_64 Assembly</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-17 00:50</span>
             </div>
         </div>
 </div>
@@ -325,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 07:37 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 08:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
