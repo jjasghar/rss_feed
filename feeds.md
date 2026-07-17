@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 18:18:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-17 19:24:14 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 18:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 19:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a5a63486885fb838e26f206/master/pass/GettyImages-2285777540.jpg" alt="What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/" target="_blank">What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-17 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview" target="_blank">Pebble founder Eric Migicovsky says his 30-day warranty is all about trust</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-17 19:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -141,24 +155,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/" target="_blank">Troubling new details emerge on diabetes ouster controversy</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-17 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale" target="_blank">Asus’ top-end 4K QD-OLED gaming monitor is $400 off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-17 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/" target="_blank">FBI arrests man accused of using Steam games to drain victims’ crypto wallets</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-17 16:18</span>
             </div>
         </div>
 </div>
@@ -240,6 +236,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/jimothy-1280x720.jpg" alt="Seattle’s Newest Cryptid Is Actually Just A Very Round Raccoon Named Jimothy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/seattles-newest-cryptid-is-actually-just-a-very-round-raccoon-named-jimothy-2000717201" target="_blank">Seattle’s Newest Cryptid Is Actually Just A Very Round Raccoon Named Jimothy</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-17 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/05/shutterstock_633629336-1-e1784311938798.jpg?fit=768%2C489&amp;quality=60&amp;ssl=1" alt="This Los Angeles man-on-the-street interview is internet gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/17/this-los-angeles-man-on-the-street-interview-is-internet-gold.html" target="_blank">This Los Angeles man-on-the-street interview is internet gold</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-17 18:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/odyssey-1280x720.jpg" alt="The Odyssey Has A Scene That Is Giving People Headaches And Could Trigger Epilepsy: ‘Some Of The Most Aggressive Screen Flashing I’ve Ever Seen’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -275,29 +289,20 @@
                 <span class="time">2026-07-17 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXR9GSPQG7DB92DMAT71CR8M/hero-image.jpg" alt="Why Bevel Is a Way Better App for the Fitbit Air Than Google Health" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/bevel-app-for-fitbit-air?utm_medium=RSS" target="_blank">Why Bevel Is a Way Better App for the Fitbit Air Than Google Health</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Actroid-DER_01.jpg?fit=1200%2C1600&amp;quality=60&amp;ssl=1" alt="Remember Tara, the singing android that terrified the internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/17/i-feel-fantastic-tara.html" target="_blank">Remember Tara, the singing android that terrified the internet</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-17 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/17/the-23rd-annual-child-s-play-dinner-auction" target="_blank">The 23rd Annual Child&#x27;s Play Dinner Auction!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-17 18:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -321,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 18:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 19:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
