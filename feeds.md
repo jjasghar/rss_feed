@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 01:31:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-17 02:58:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss" target="_blank">Iranian sources say US strikes hit civilian infrastructure</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-17 02:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump delivers primetime address: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss" target="_blank">Ilhan Omar renews push for US to join ICC amid Trump pressure</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-16 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260716-bowl-of-salad-ch-1554-946fcb.jpg" alt="Iceberg lettuce supplier investigated as possible source in cyclosporiasis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/health/health-news/fda-names-source-cyclosporiasis-outbreak-rcna587899" target="_blank">Iceberg lettuce supplier investigated as possible source in cyclosporiasis outbreak</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-16 21:51</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kikakkz/hello-dev-community-5gkm" target="_blank">Hello DEV Community 👋</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-17 02:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Frame-X11-Server-Assembly" target="_blank">Frame: A New X11 Server Implementation Written Entirely In x86_64 Assembly</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-17 00:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-17-2026-red-hat" target="_blank">Friday Five — July 17, 2026</a></span>
                 <span class="feed">Red Hat Blog</span>
@@ -199,24 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/aws-continuum-code-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Continuum to Enable Agentic Code Security for Enterprises</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-16 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/konark_13/i-failed-a-promise-i-made-to-myself-4abj" target="_blank">I Failed a Promise I Made to Myself</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-16 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-Intern-AMD-ROCm" target="_blank">FreeBSD Intern Working On Porting AMD ROCm To The BSD World</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-16 18:00</span>
             </div>
         </div>
 </div>
@@ -311,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
