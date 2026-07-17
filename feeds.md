@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 05:51:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-17 06:43:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 05:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 06:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8760/live/117c8740-8195-11f1-b976-0b9c15b0ccfc.jpg" alt="US launches new strikes as Iran says civilian infrastructure hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss" target="_blank">US launches new strikes as Iran says civilian infrastructure hit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-17 06:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trump-give-primetime-speech-2020-election-sources/story?id=134791893" target="_blank">Trump says White House releasing documents that show voting system vulnerabilities</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-17 02:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-trump-us_7299618.jpg?20260717031746" alt="Trump accused of making &#x27;totally bogus&#x27; election claims in primetime address to nation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-alleges-chinese-election-interference-in-address-to-nation-13564219" target="_blank">Trump accused of making &#x27;totally bogus&#x27; election claims in primetime address to nation</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-17 01:46</span>
             </div>
         </div>
 </div>
@@ -234,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/doom-.jpg" alt="Doom Director Addresses id Software Bloodbath: ‘What Matters The Most Is That The Games Are Good’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/doom-director-addresses-id-software-bloodbath-what-matters-the-most-is-that-the-games-are-good-2000716853" target="_blank">Doom Director Addresses id Software Bloodbath: ‘What Matters The Most Is That The Games Are Good’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-17 04:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Screenshot.jpg?fit=1080%2C743&amp;quality=60&amp;ssl=1" alt="Live map of Britain&#x27;s trains" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -278,20 +290,20 @@
                 <span class="time">2026-07-16 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXP6EFXMQYXEFZ2B70T5DPAP/hero-image.png" alt="This 77-Inch Samsung OLED TV Is More Than $1,700 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-oled-tv-woot-deal-july-2026?utm_medium=RSS" target="_blank">This 77-Inch Samsung OLED TV Is More Than $1,700 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-16 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5875.png" alt="Music To Their Ears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5875" target="_blank">Music To Their Ears</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-17 03:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1784157176-20260716.png" alt="Saturday Morning Breakfast Cereal - Misery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -306,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 05:51 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 06:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
