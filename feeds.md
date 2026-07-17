@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 02:58:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-07-17 04:04:41 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 04:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,24 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb4/live/5f142cf0-815f-11f1-b976-0b9c15b0ccfc.jpg" alt="US launches fresh wave of strikes as Iran says civilian infrastructure hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss" target="_blank">US launches fresh wave of strikes as Iran says civilian infrastructure hit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-17 04:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss" target="_blank">China rebukes UK over nationalisation of British Steel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-17 03:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -54,48 +73,30 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump delivers primetime address: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-260716_1784250699345_hpMain_4x3t_384.jpg" alt="Trump says White House releasing documents that show voting system vulnerabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  President Trump delivers primetime address: ABC News Live</a></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-give-primetime-speech-2020-election-sources/story?id=134791893" target="_blank">Trump says White House releasing documents that show voting system vulnerabilities</a></span>
                 <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-17 00:59</span>
+                <span class="time">2026-07-17 02:33</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss" target="_blank">Falling debris from intercepted Iranian strikes sparks fires in Kuwait</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-17 00:50</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/16/nx-s1-5896487/an-analysis-of-president-trumps-address" target="_blank">An analysis of President Trump&#x27;s address</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-17 01:38</span>
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/16/venezuela-earthquake-number-of-known-dead-rises-to-nearly-5000-victims?traffic_source=rss" target="_blank">Venezuela earthquake: Number of known dead rises to nearly 5,000 victims</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-16 23:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784240749407_now_hallie_cyclosporiasis_investigation_260716_S3_1920x1080-snnuki.jpg" alt="Iceberg lettuce supplier being investigated by FDA as source of cyclosporiasis outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784251863932_nbc_spec_trump_declassified_files_election_260715_S3_1920x1080-e9mgbj.jpg" alt="Trump administration to declassify documents relating to China and U.S. elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/iceberg-lettuce-supplier-being-investigated-by-fda-as-source-of-cyclosporiasis-outbreak-266809925739" target="_blank">Iceberg lettuce supplier being investigated by FDA as source of cyclosporiasis outbreak</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-administration-to-declassify-documents-relating-to-china-and-u-s-elections-266817605523" target="_blank">Trump administration to declassify documents relating to China and U.S. elections</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-16 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss" target="_blank">Ilhan Omar renews push for US to join ICC amid Trump pressure</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-16 21:57</span>
+                <span class="time">2026-07-17 01:31</span>
             </div>
         </div>
 </div>
@@ -166,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/6edroid/i-tried-to-build-a-dna-inspired-database-i-accidentally-made-a-postgres-index-checker-3k05" target="_blank">I tried to build a DNA-inspired database. I accidentally made a Postgres index checker.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-17 03:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kikakkz/hello-dev-community-5gkm" target="_blank">Hello DEV Community 👋</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-17 02:53</span>
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/gowthaman90/from-9-to-63-letting-a-benchmark-build-a-better-mcp-security-proxy-3gg8" target="_blank">From 9% to 63%: Letting a Benchmark Build a Better MCP Security Proxy</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-16 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/aws-continuum-code-security/en/headerimage/generatedHeaderImage-1784225072280.jpg" alt="AWS Continuum to Enable Agentic Code Security for Enterprises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/aws-continuum-code-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Continuum to Enable Agentic Code Security for Enterprises</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-16 19:00</span>
             </div>
         </div>
 </div>
@@ -308,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 04:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
