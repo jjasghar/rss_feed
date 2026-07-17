@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 08:39:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-17 09:31:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 08:40 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 09:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/17/g-s1-133804/pentagon-trump-world-cup-netflix-sam-neill-news-quiz" target="_blank">What will the Pentagon begin screening &#x27;war fighters&#x27; for? The quiz knows</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-17 09:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss" target="_blank">US strikes destroy key bridges, tower in southern Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-17 08:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trump-give-primetime-speech-2020-election-sources/story?id=134791893" target="_blank">Trump says documents show voting vulnerabilities, China meddling and fraud</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-17 06:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/17/ai-xi?traffic_source=rss" target="_blank">China’s Xi says AI ‘should not be a solo performance by a single country’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-17 05:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06f7/live/70ecfc50-811d-11f1-bee8-53ce494e1abc.jpg" alt="Burnham&#x27;s &#x27;Manchesterism&#x27; got him to No 10 - but will it work for the UK?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham&#x27;s &#x27;Manchesterism&#x27; got him to No 10 - but will it work for the UK?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-17 05:00</span>
             </div>
         </div>
 </div>
@@ -161,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/07/production-ai-platforms-evals/en/headerimage/production-ai-platforms-evals-header-1784186327712.jpg" alt="QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/production-ai-platforms-evals/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-17 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,19 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/brino666/building-saas-for-authenticated-image-and-video-hosting-a-complete-guide-3o15" target="_blank">Building SaaS for Authenticated Image and Video Hosting: A Complete Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-17 05:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/" target="_blank">How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues</a></span>
+                <span class="title"><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876" target="_blank">EEG shows brain can simultaneous encode two speech streams</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-07-17 03:48</span>
+                <span class="time">2026-07-17 05:51</span>
             </div>
         </div>
 </div>
@@ -324,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 08:40 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 09:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
