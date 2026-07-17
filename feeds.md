@@ -1,42 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 13:29:14 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-17 14:29:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 14:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +44,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/17/un-urges-probe-into-deaths-in-pakistani-administered-kashmir-unrest?traffic_source=rss" target="_blank">UN urges probe into deaths in Pakistani-administered Kashmir unrest</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-17 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/17/g-s1-134175/pakistani-forces-kill-24-militants-in-border-raids-near-afghanistan" target="_blank">Pakistani forces kill 24 militants in border raids near Afghanistan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-17 13:15</span>
             </div>
         </div>
 <div class="story">
@@ -95,15 +89,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss" target="_blank">US strikes destroy key bridges, tower in southern Iran</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-17 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-mykhailo-fedorov-volodymyr-zelenskyy_7299736.jpg?20260717122821" alt="Russia is the only winner from Ukraine&#x27;s internal war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/russia-is-the-only-winner-from-ukraines-internal-war-as-zelenskyy-backs-general-syrskyi-over-mykhailo-fedorov-13564274" target="_blank">Russia is the only winner from Ukraine&#x27;s internal war</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-17 08:45</span>
             </div>
         </div>
 </div>
@@ -171,6 +156,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-ACPI-WMI-Driver-ARM64" target="_blank">Linux WMI Driver Gets Ready To Support ACPI-Based ARM64 Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-17 13:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmgwn2gsxj9syrc8ta9nz.png" alt="Messing with multi agent orchestration? just tell your AI to think long term, this will do 80% of the job in 1% of the effort." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -215,15 +209,6 @@
                 <span class="time">2026-07-17 11:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb72bpzs1bzy1ub6xhcnr.png" alt="More Power in Your Docker Compose" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mdslino/more-power-in-your-docker-compose-5pk" target="_blank">More Power in Your Docker Compose</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-17 10:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Two_C-130E_Hercules_aircraft_flying_over_mountainous_terrain_DF-ST-82-04067-scaled.jpg?fit=2560%2C1719&amp;quality=60&amp;ssl=1" alt="A homesick mechanic stole a C-130 to fly home to his wife" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/17/c130-theft-1969.html" target="_blank">A homesick mechanic stole a C-130 to fly home to his wife</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-17 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KXNZFHF3FY5HCQVHWG4Z9SPS/hero-image.jpg" alt="That LastPass or Bitwarden Security Email May Be a Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +291,6 @@
                 <span class="time">2026-07-16 22:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXP9YY4ZEPTCWRQANS9TXBQ9/hero-image.png" alt="The Best Headphones for Kids Are 30% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-best-headphones-for-kids-are-30-off-right-now?utm_medium=RSS" target="_blank">The Best Headphones for Kids Are 30% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-16 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -343,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 14:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
