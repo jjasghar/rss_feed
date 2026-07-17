@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 16:23:53 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-17 17:22:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 16:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 17:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +56,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/17/nx-s1-5897509/lettuce-taco-bell-mexico-cyclospora-outbreak" target="_blank">Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-17 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss" target="_blank">Iranian forces: missiles and drones fired at US targets in Gulf States</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-17 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/17/g-s1-134179/is-smoke-in-your-home-heres-how-to-make-an-air-purifier-using-a-box-fan" target="_blank">Is smoke in your home? Here&#x27;s how to make an air purifier using a box fan</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-17 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-260716_1784251982404_hpMain_4x3t_384.jpg" alt="Key takeaways from Trump&#x27;s elections speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/key-takeaways-trumps-elections-speech/story?id=134835191" target="_blank">Key takeaways from Trump&#x27;s elections speech</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-17 14:46</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +106,29 @@
                 <span class="time">2026-07-17 14:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/17/un-urges-probe-into-deaths-in-pakistani-administered-kashmir-unrest?traffic_source=rss" target="_blank">UN urges probe into deaths in Pakistani-administered Kashmir unrest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-17 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/17/g-s1-134175/pakistani-forces-kill-24-militants-in-border-raids-near-afghanistan" target="_blank">Pakistani forces kill 24 militants in border raids near Afghanistan</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-17 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya" target="_blank">Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-17 12:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a552821d75c37609df0acb3/master/pass/Odyssey-Postmortem-Culture-MCDODYS_UV019.jpg" alt="‘The Odyssey’ Backlash Failed Tremendously" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/" target="_blank">‘The Odyssey’ Backlash Failed Tremendously</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-17 17:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale" target="_blank">Asus’ top-end 4K QD-OLED gaming monitor is $400 off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-17 16:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +165,20 @@
                 <span class="time">2026-07-17 12:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1167319798-500x500.jpg" alt="The report oil companies are worried about: Climate attribution science" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/" target="_blank">The report oil companies are worried about: Climate attribution science</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-17 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society" target="_blank">The war on ‘woke science’ comes for space research</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-17 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/engineering/the-cost-of-saying-yes-has-changed/" target="_blank">The cost of saying yes has changed</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-17 16:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="I got tired of paying for premium AI Chatbot, so I built a completely free alternative for Android/Windows." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +222,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Arm-Core-Local-Accelerator" target="_blank">Arm Core Local Accelerator Driver Posted For Linux As Agnostic Interface For Accelerators</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-17 12:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423" target="_blank">Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-17 11:30</span>
             </div>
         </div>
 </div>
@@ -319,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 16:24 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 17:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
