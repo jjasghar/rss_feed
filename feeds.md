@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 19:24:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-17 20:17:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 19:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 20:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3349/live/d949cc00-81d7-11f1-926f-c90d1bcfbc84.jpg" alt="US denies Iranian claims it hit civilian infrastructure in latest strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss" target="_blank">US denies Iranian claims it hit civilian infrastructure in latest strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-17 18:33</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss" target="_blank">Life after amputation: Gaza women find recovery through football</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-17 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ce/live/6fb7e360-81fc-11f1-bee8-53ce494e1abc.jpg" alt="Burnham says he is &#x27;finalising&#x27; cabinet ahead of becoming PM on Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y300l2zvno?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says he is &#x27;finalising&#x27; cabinet ahead of becoming PM on Monday</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-17 17:40</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +99,38 @@
                 <span class="time">2026-07-17 15:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-260716_1784251982404_hpMain_4x3t_384.jpg" alt="Key takeaways from Trump&#x27;s elections speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/key-takeaways-trumps-elections-speech/story?id=134835191" target="_blank">Key takeaways from Trump&#x27;s elections speech</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-17 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-pamela-gwinnett-tenerife_7196254.png?20260318102642" alt="&#x27;Shameless&#x27; fraudster who stole £300k from vulnerable pensioner led away by police" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/video-shows-shameless-fraudster-who-stole-300k-from-vulnerable-pensioner-led-away-by-police-13564444" target="_blank">&#x27;Shameless&#x27; fraudster who stole £300k from vulnerable pensioner led away by police</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-17 14:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale" target="_blank">Shark&amp;#8217;s versatile ChillPill cooling system is back to its best price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-17 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/" target="_blank">AI-driven memory crunch jolts India’s smartphone market</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-17 20:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5a677665d8dd9c411b81aa/master/pass/AWS-Billing-Glitch-Business-2240015205.jpg" alt="AWS Billing Glitch Hits Customers With Billion-Dollar Fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-web-services-glitch-oh-no/" target="_blank">AWS Billing Glitch Hits Customers With Billion-Dollar Fees</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-17 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a5a63486885fb838e26f206/master/pass/GettyImages-2285777540.jpg" alt="What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +158,20 @@
                 <span class="time">2026-07-17 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast" target="_blank">Apple’s plot to crush OpenAI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-17 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a552821d75c37609df0acb3/master/pass/Odyssey-Postmortem-Culture-MCDODYS_UV019.jpg" alt="‘The Odyssey’ Backlash Failed Tremendously" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/" target="_blank">‘The Odyssey’ Backlash Failed Tremendously</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-17 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/diabetes1-500x500-1780778318.jpg" alt="Troubling new details emerge on diabetes ouster controversy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/" target="_blank">Troubling new details emerge on diabetes ouster controversy</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-17 17:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/annoh_karlgusta_c6fd8cba3/the-10-best-remote-job-boardsand-how-to-choose-the-right-one-3p63" target="_blank">The 10 Best Remote Job Boards(And How to Choose the Right One)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-17 20:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/tomerbendavid/messing-with-multi-agent-orchestration-just-tell-your-ai-to-think-long-term-this-will-do-80-of-ff7" target="_blank">Messing with multi agent orchestration? just tell your AI to think long term, this will do 80% of the job in 1% of the effort.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-17 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/otel-slm-ai/en/mediumimage/benomahony-medium-1783500827260.jpeg" alt="Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/otel-slm-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-17 13:17</span>
             </div>
         </div>
 </div>
@@ -313,6 +314,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/latitude_and_longitude.png" alt="Latitude and Longitude" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3273/" target="_blank">Latitude and Longitude</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-07-17 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5875.png" alt="Music To Their Ears" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -326,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 19:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 20:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
