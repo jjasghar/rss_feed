@@ -1,27 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 15:24:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-07-17 16:23:53 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 5 new posts out of 19 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 15:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 16:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +53,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/17/g-s1-134179/is-smoke-in-your-home-heres-how-to-make-an-air-purifier-using-a-box-fan" target="_blank">Is smoke in your home? Here&#x27;s how to make an air purifier using a box fan</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-17 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-pamela-gwinnett-tenerife_7196254.png?20260318102642" alt="&#x27;Shameless&#x27; fraudster who stole £300k from vulnerable pensioner led away by police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/video-shows-shameless-fraudster-who-stole-300k-from-vulnerable-pensioner-led-away-by-police-13564444" target="_blank">&#x27;Shameless&#x27; fraudster who stole £300k from vulnerable pensioner led away by police</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-17 14:36</span>
             </div>
         </div>
 <div class="story">
@@ -76,19 +94,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/17/yuba-my-dear-father?traffic_source=rss" target="_blank">‘Yuba’ – My dear father</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-17 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784287162797_tdy_news_7a_gutierrez_trump_false_election_claims_260717_S3_1920x1080-1r0i2u.jpg" alt="Trump Uses Prime-Time Speech to Revive False Election Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-revives-false-election-claims-ahead-of-crucial-midterms-266832965531" target="_blank">Trump Uses Prime-Time Speech to Revive False Election Claims</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-17 11:19</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya" target="_blank">Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-17 12:17</span>
             </div>
         </div>
 </div>
@@ -96,6 +105,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/" target="_blank">FBI arrests man accused of using Steam games to drain victims’ crypto wallets</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-17 16:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-500x500.jpg" alt="San Francisco orders Apple, Google to remove nudify apps from app stores" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/" target="_blank">San Francisco orders Apple, Google to remove nudify apps from app stores</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-17 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak" target="_blank">Samsung&amp;#8217;s redesigned Z Fold 8 with a wide display just leaked</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-17 15:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a59576601b2c605ff7c1d05/master/pass/What-Should-Be-in-Your-Emergency-Kit.jpg" alt="Essential Gear for an Emergency Kit—for Cars or Go-Bags" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -121,33 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society" target="_blank">The war on ‘woke science’ comes for space research</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-17 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast" target="_blank">God Of War TV series is recasting Kratos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-17 10:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a59432865c28720eb4e8366/master/pass/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg" alt="San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/" target="_blank">San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-17 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="Home Depot Promo Codes: 50% Off in July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/home-depot-promo-code/" target="_blank">Home Depot Promo Codes: 50% Off in July 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-17 05:00</span>
             </div>
         </div>
 </div>
@@ -229,6 +238,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/xbox-distract-keys-1-1280x720.jpg" alt="This Feels Gross" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-feels-gross-2000717133" target="_blank">This Feels Gross</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXR9GSPQG7DB92DMAT71CR8M/hero-image.jpg" alt="Why Bevel Is a Way Better App for the Fitbit Air Than Google Health" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/bevel-app-for-fitbit-air?utm_medium=RSS" target="_blank">Why Bevel Is a Way Better App for the Fitbit Air Than Google Health</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Actroid-DER_01.jpg?fit=1200%2C1600&amp;quality=60&amp;ssl=1" alt="Remember Tara, the singing android that terrified the internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/17/i-feel-fantastic-tara.html" target="_blank">Remember Tara, the singing android that terrified the internet</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-17 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Two_C-130E_Hercules_aircraft_flying_over_mountainous_terrain_DF-ST-82-04067-scaled.jpg?fit=2560%2C1719&amp;quality=60&amp;ssl=1" alt="A homesick mechanic stole a C-130 to fly home to his wife" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -253,33 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/beautiful-and-ambitious-with-a-lot-to-prove-hands-on-with-castlevania-belmonts-curse-2000716828" target="_blank">Beautiful And Ambitious With A Lot To Prove: Hands-On With Castlevania: Belmont’s Curse</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-17 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/doom-.jpg" alt="Doom Director Addresses id Software Bloodbath: ‘What Matters The Most Is That The Games Are Good’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/doom-director-addresses-id-software-bloodbath-what-matters-the-most-is-that-the-games-are-good-2000716853" target="_blank">Doom Director Addresses id Software Bloodbath: ‘What Matters The Most Is That The Games Are Good’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-17 04:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Screenshot.jpg?fit=1080%2C743&amp;quality=60&amp;ssl=1" alt="Live map of Britain&#x27;s trains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/16/live-map-of-britains-trains.html" target="_blank">Live map of Britain&#x27;s trains</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-16 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/netflix-300-1280x720.jpg" alt="Netflix Brags That AI Tools Were Used In Around 300 Of Its Shows And Movies In 2026 So Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/netflix-brags-that-ai-tools-were-used-in-around-300-of-its-shows-and-movies-in-2026-so-far-2000716805" target="_blank">Netflix Brags That AI Tools Were Used In Around 300 Of Its Shows And Movies In 2026 So Far</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-16 22:05</span>
             </div>
         </div>
 </div>
@@ -310,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 15:24 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 16:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
