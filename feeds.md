@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 11:27:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-17 12:22:07 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 11:27 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, July 17, 2026 - 12:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/17/yuba-my-dear-father?traffic_source=rss" target="_blank">‘Yuba’ – My dear father</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-17 11:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,6 +77,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-mykhailo-fedorov-volodymyr-zelenskyy_7299736.jpg?20260717122821" alt="Russia is the only winner from Ukraine&#x27;s internal war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/russia-is-the-only-winner-from-ukraines-internal-war-as-zelenskyy-backs-general-syrskyi-over-mykhailo-fedorov-13564274" target="_blank">Russia is the only winner from Ukraine&#x27;s internal war</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-17 08:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -86,29 +94,20 @@
                 <span class="time">2026-07-17 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/17/john-esposito-transformed-how-the-west-understood-islam?traffic_source=rss" target="_blank">John Esposito transformed how the West understood Islam</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-17 06:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8760/live/117c8740-8195-11f1-b976-0b9c15b0ccfc.jpg" alt="US launches new strikes as Iran says civilian infrastructure hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss" target="_blank">US launches new strikes as Iran says civilian infrastructure hit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-17 06:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1167319798-500x500.jpg" alt="The report oil companies are worried about: Climate attribution science" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/" target="_blank">The report oil companies are worried about: Climate attribution science</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-17 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +151,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/" target="_blank">SpaceX scrubs Starship launch after some of its engines didn&#x27;t start</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-17 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/" target="_blank">San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-16 23:25</span>
             </div>
         </div>
 </div>
@@ -332,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 11:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 12:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
