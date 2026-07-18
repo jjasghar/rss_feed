@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 10:26:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-07-18 11:19:32 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 10:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 11:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/washington-dc-wildfire-smoke_1784370570553_hpMain_4x3t_384.jpg" alt="Dangerous wildfire smoke impacting more than a dozen states" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/dangerous-wildfire-smoke-impacting-dozen-states/story?id=134870818" target="_blank">Dangerous wildfire smoke impacting more than a dozen states</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-18 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss" target="_blank">Indian police forcibly hospitalise activist after 20-day hunger strike.</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-18 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions" target="_blank">8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-18 10:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +96,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to announce plans for new North Sea oil and gas drilling</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-18 08:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/18/world-cup-final-spain-and-argentina-whose-form-guide-points-to-victory?traffic_source=rss" target="_blank">World Cup final: Spain vs Argentina – Which team has best chance to win?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-18 08:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd47/live/65f79600-8282-11f1-b976-0b9c15b0ccfc.jpg" alt="US strikes hit Iran for seventh consecutive night" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss" target="_blank">US strikes hit Iran for seventh consecutive night</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-18 07:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/longform/2026/7/18/kolkata-sings-for-messi-as-world-cup-fever-takes-hold-2?traffic_source=rss" target="_blank">Kolkata sings for Messi as World Cup fever takes hold</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-18 06:04</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mian_po_0ae30e900c601c8f5/process-a-larger-xiaohongshu-note-batch-asynchronously-6oj" target="_blank">Process A Larger Xiaohongshu Note Batch Asynchronously</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-18 11:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mayaramyadav/creating-a-sudoku-solver-using-backtracking-in-javascript-4638" target="_blank">Creating a Sudoku Solver Using Backtracking in JavaScript</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-18 10:13</span>
@@ -206,15 +216,6 @@
                 <span class="time">2026-07-18 05:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17382257/gnome-extensions-for-productivity" target="_blank">Become More Productive With These GNOME Extensions</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-18 03:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,15 +228,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html" target="_blank">Friday Squid Blogging: Squid Washing Up on Cape Cod Beach</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-07-17 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html" target="_blank">Details of Alan Turing’s Voice Encryption System</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-17 11:02</span>
             </div>
         </div>
 </div>
@@ -325,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 10:26 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 11:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
