@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 08:31:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-18 09:28:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 08:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 09:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/18/nx-s1-5896217/how-to-respond-in-awkward-moments" target="_blank">D&#x27;oh! I can&#x27;t believe I did that! Graceful ways to handle awkward moments</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-18 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da8/live/98a67e40-8287-11f1-a23b-f5a17a30f7d0.jpg" alt="Burnham to announce plans for new North Sea oil and gas drilling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to announce plans for new North Sea oil and gas drilling</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-18 08:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +101,20 @@
                 <span class="time">2026-07-18 06:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art" target="_blank">‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-18 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-fire-in-norway-100-homes-destroyed_7300471.jpg?20260718050718" alt="More than 100 homes destroyed as firefighters battle Norway blaze" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/more-than-100-homes-destroyed-as-firefighters-battle-norway-blaze-13564563" target="_blank">More than 100 homes destroyed as firefighters battle Norway blaze</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-18 02:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689f9d2d55cc281c2273340a/master/pass/The%20Best%20Tech%20for%20Back%20to%20School.png" alt="The Best Tech for Back to School" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-tech-gear-back-to-school/" target="_blank">The Best Tech for Back to School</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-18 09:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +160,29 @@
                 <span class="time">2026-07-17 22:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale" target="_blank">Shark&amp;#8217;s versatile ChillPill cooling system is back to its best price</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-17 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mudienub/kenapa-banyak-frontend-developer-memakai-nextjs-untuk-pekerjaan-tapi-vuejs-untuk-personal-2o35" target="_blank">Kenapa Banyak Frontend Developer Memakai Next.js untuk Pekerjaan, tapi Vue.js untuk Personal Project?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-18 09:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/dolt-version-control/en/headerimage/generatedHeaderImage-1783067948773.jpg" alt="Version Controlled SQL Database Dolt Releases 2.0 with Automatic Storage Cleanup and Compression" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/dolt-version-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Version Controlled SQL Database Dolt Releases 2.0 with Automatic Storage Cleanup and Compression</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-18 07:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz2hjgozt5c9588vu8np4.png" alt="stoneChat: An LLM Web Chat Built Natively for IE6/Windows XP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/enjoy_kumawat/i-almost-hand-rolled-json-rpc-for-an-mcp-server-eight-tools-later-im-glad-i-didnt-17mj" target="_blank">I Almost Hand-Rolled JSON-RPC for an MCP Server. Eight Tools Later I&#x27;m Glad I Didn&#x27;t.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-18 03:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://maurycyz.com/projects/bad_jpeg/" target="_blank">Regressive JPEGs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-18 03:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/juliojeanfils1/my-mac-said-system-data-was-using-300-gb-heres-how-i-actually-cleared-it-22ij" target="_blank">My Mac Said “System Data” Was Using 300 GB. Here’s How I Actually Cleared It.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-18 02:50</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 08:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 09:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
