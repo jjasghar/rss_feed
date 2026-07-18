@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 19:22:31 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-18 20:13:18 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 19:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 20:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time" target="_blank">Josh Kerr of Britain breaks 27-year-old world record in the mile</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-18 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss" target="_blank">Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-18 19:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +102,20 @@
                 <span class="time">2026-07-18 17:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss" target="_blank">What to expect after the US reimposes naval blockade on Iran’s ports?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-18 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/centcom-strike-ht-jt-260718_1784386368810_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says US violated MOU, says its suspending commitments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: Iran says US violated MOU, says its suspending commitments</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-18 16:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/" target="_blank">Waymo says San Francisco service has resumed after one-hour pause</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-18 19:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +161,20 @@
                 <span class="time">2026-07-18 11:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a57867336e98c56882c9e64/master/pass/GeminiStorage.jpg" alt="How Google’s New Gemini Rates Work and How to Track Your Usage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/" target="_blank">How Google’s New Gemini Rates Work and How to Track Your Usage</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-18 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iprvn/building-with-local-llms-an-engineers-approach-to-ai-assisted-development-28po" target="_blank">Building with Local LLMs: An Engineer&#x27;s Approach to AI-Assisted Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-18 20:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/gde03/retrieval-augmented-self-recall-part-6-the-fine-tune-that-did-nothing-and-shipping-it-as-an-mcp-240m" target="_blank">Retrieval-Augmented Self-Recall — Part 6: The Fine-Tune That Did Nothing, and Shipping It as an MCP Server</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-18 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DC-Apple-Studio-Display" target="_blank">AMD Linux Graphics Driver Preps Fix For Apple Studio Display</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-18 12:05</span>
             </div>
         </div>
 </div>
@@ -311,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 19:22 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 20:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
