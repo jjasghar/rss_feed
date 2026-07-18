@@ -1,34 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 11:19:32 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2026-07-18 12:14:00 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 11:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 12:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +98,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-500x500.jpg" alt="Will AI fix prior authorization—or make it worse?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/" target="_blank">Will AI fix prior authorization—or make it worse?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-18 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5a76cfd582497b4863aa7f/master/pass/The-Best-Walking-Pads-We-Use-to-Stay-Active-During-WFH-Days.jpg" alt="4 Best Walking Pads for Small Spaces and Standing Desks (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-walking-pads/" target="_blank">4 Best Walking Pads for Small Spaces and Standing Desks (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-18 11:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a57867336e98c56882c9e64/master/pass/GeminiStorage.jpg" alt="How Google’s New Gemini Rates Work and How to Track Your Usage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -139,24 +151,6 @@
                 <span class="time">2026-07-18 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/" target="_blank">Neil Rimer thinks the AI money is coming back out</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-18 04:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/" target="_blank">Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-17 23:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,9 +160,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gde03/retrieval-augmented-self-recall-part-6-the-fine-tune-that-did-nothing-and-shipping-it-as-an-mcp-240m" target="_blank">Retrieval-Augmented Self-Recall — Part 6: The Fine-Tune That Did Nothing, and Shipping It as an MCP Server</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-18 12:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DC-Apple-Studio-Display" target="_blank">AMD Linux Graphics Driver Preps Fix For Apple Studio Display</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-18 12:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mian_po_0ae30e900c601c8f5/process-a-larger-xiaohongshu-note-batch-asynchronously-6oj" target="_blank">Process A Larger Xiaohongshu Note Batch Asynchronously</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-18 11:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://velvetshark.com/ai-company-logos-that-look-like-buttholes" target="_blank">Why do AI company logos look like buttholes?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-18 11:06</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +208,6 @@
                 <span class="title"><a href="https://dev.to/mudienub/kenapa-banyak-frontend-developer-memakai-nextjs-untuk-pekerjaan-tapi-vuejs-untuk-personal-2o35" target="_blank">Kenapa Banyak Frontend Developer Memakai Next.js untuk Pekerjaan, tapi Vue.js untuk Personal Project?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-18 09:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/dolt-version-control/en/headerimage/generatedHeaderImage-1783067948773.jpg" alt="Version Controlled SQL Database Dolt Releases 2.0 with Automatic Storage Cleanup and Compression" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/dolt-version-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Version Controlled SQL Database Dolt Releases 2.0 with Automatic Storage Cleanup and Compression</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-18 07:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz2hjgozt5c9588vu8np4.png" alt="stoneChat: An LLM Web Chat Built Natively for IE6/Windows XP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/water_run_305f6dfd401fdaf/stonechat-an-llm-web-chat-built-natively-for-ie6windows-xp-2i93" target="_blank">stoneChat: An LLM Web Chat Built Natively for IE6/Windows XP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-18 06:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/synfinity-dynamics-pvt-ltd/ai-coding-assistants-compared-cursor-vs-github-copilot-vs-claude-code-4gd8" target="_blank">AI Coding Assistants Compared: Cursor vs GitHub Copilot vs Claude Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-18 05:30</span>
             </div>
         </div>
 </div>
@@ -317,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 11:19 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 12:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
