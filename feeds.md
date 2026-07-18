@@ -1,28 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 12:14:00 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-18 13:27:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 12:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/18/death-toll-from-uganda-school-bus-crash-rises-to-24?traffic_source=rss" target="_blank">Death toll from Uganda school bus crash rises to 24</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-18 13:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/washington-dc-wildfire-smoke_1784370570553_hpMain_4x3t_384.jpg" alt="Dangerous wildfire smoke impacting more than a dozen states" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,15 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/18/nx-s1-5896217/how-to-respond-in-awkward-moments" target="_blank">D&#x27;oh! I can&#x27;t believe I did that! Graceful ways to handle awkward moments</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-18 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da8/live/98a67e40-8287-11f1-a23b-f5a17a30f7d0.jpg" alt="Burnham to announce plans for new North Sea oil and gas drilling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to announce plans for new North Sea oil and gas drilling</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-18 08:59</span>
             </div>
         </div>
 </div>
@@ -230,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Zelfgebreide_trui_met_v-hals_-_Home_knitted_V-necked_sweater_28410658819829.jpg?fit=922%2C1240&amp;quality=60&amp;ssl=1" alt="Knitters believe a hand-made sweater can end your relationship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/18/sweater-curse.html" target="_blank">Knitters believe a hand-made sweater can end your relationship</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-18 12:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/pokemoan-collection-social-optimized-20260713.jpg?fit=1600%2C1359&amp;quality=60&amp;ssl=1" alt="Pokémon-parody sex toys are back, with holographic trading cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -274,15 +286,6 @@
                 <span class="time">2026-07-17 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/jimothy-1280x720.jpg" alt="Seattle’s Newest Cryptid Is Actually Just A Very Round Raccoon Named Jimothy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seattles-newest-cryptid-is-actually-just-a-very-round-raccoon-named-jimothy-2000717201" target="_blank">Seattle’s Newest Cryptid Is Actually Just A Very Round Raccoon Named Jimothy</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-17 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 12:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
