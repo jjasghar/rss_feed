@@ -1,30 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 15:18:00 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-18 16:15:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 15:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 16:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -241,6 +238,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/FileJump-2TB-Cloud-Storage-2.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Free up computer space with 2TB of cloud storage for $59 — for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/18/free-up-computer-space-with-2tb-of-cloud-storage-for-59-for-life.html" target="_blank">Free up computer space with 2TB of cloud storage for $59 — for life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-18 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/image-95-1280x740.jpg" alt="Baldur’s Gate 3 And Clair Obscur Actor Jennifer English Pulls Out Of New Fantasy Game Over Health Concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -276,20 +282,20 @@
                 <span class="time">2026-07-17 23:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2020/09/pw8woltt8utp1phldmzs.jpg" alt="I Love The Sound Of Mario’s Footsteps In Super Mario Sunshine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/i-love-sound-mario-footsteps-super-mario-sunshine-2000717264" target="_blank">I Love The Sound Of Mario’s Footsteps In Super Mario Sunshine</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-17 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1784305213-20260718.png" alt="Saturday Morning Breakfast Cereal - List" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/list-2" target="_blank">Saturday Morning Breakfast Cereal - List</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-18 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -299,22 +305,13 @@
                 <span class="time">2026-07-17 18:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1784250964-20260718.png" alt="Saturday Morning Breakfast Cereal - Subjective" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/subjective" target="_blank">Saturday Morning Breakfast Cereal - Subjective</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-17 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 15:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 16:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
