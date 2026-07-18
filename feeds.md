@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 04:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-18 05:43:15 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 05:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-fire-in-norway-100-homes-destroyed_7300471.jpg?20260718050718" alt="More than 100 homes destroyed as firefighters battle Norway blaze" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/more-than-100-homes-destroyed-as-firefighters-battle-norway-blaze-13564563" target="_blank">More than 100 homes destroyed as firefighters battle Norway blaze</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-18 02:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/IRGC-missile-DB-260716_1784195621506_hpMain_4x3t_384.jpg" alt="Iran live updates: US launches more airstrikes on Iran for 7th night, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US launches more airstrikes on Iran for 7th night, CENTCOM says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-18 02:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b00/live/0ecf40f0-81ea-11f1-b7bc-5dd9ae7a9918.jpg" alt="Trump threatens new Canada tariffs over fires sending &#x27;filthy&#x27; air into US cities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,24 +101,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-calls-for-new-election-security-measures-266865733992" target="_blank">Trump calls for new election security measures</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-07-17 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss" target="_blank">Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-17 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nyc-smoke-1-abc-gmh-260717_1784292708797_hpMain_4x3t_384.jpg" alt="Toxic wildfire smoke chokes major US cities: Latest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/canada-wildfire-smoke-brings-unhealthy-air-quality-dozen/story?id=134845214" target="_blank">Toxic wildfire smoke chokes major US cities: Latest</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-17 21:06</span>
             </div>
         </div>
 </div>
@@ -162,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/synfinity-dynamics-pvt-ltd/ai-coding-assistants-compared-cursor-vs-github-copilot-vs-claude-code-4gd8" target="_blank">AI Coding Assistants Compared: Cursor vs GitHub Copilot vs Claude Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-18 05:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/enjoy_kumawat/i-almost-hand-rolled-json-rpc-for-an-mcp-server-eight-tools-later-im-glad-i-didnt-17mj" target="_blank">I Almost Hand-Rolled JSON-RPC for an MCP Server. Eight Tools Later I&#x27;m Glad I Didn&#x27;t.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-18 03:36</span>
@@ -203,15 +221,6 @@
                 <span class="time">2026-07-18 00:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/" target="_blank">Kaiser nurses say AI, workplace surveillance are making their jobs, care worse</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-17 22:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/pokemoan-collection-social-optimized-20260713.jpg?fit=1600%2C1359&amp;quality=60&amp;ssl=1" alt="Pokémon-parody sex toys are back, with holographic trading cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/17/pokemoan-pokemon-sex-toys.html" target="_blank">Pokémon-parody sex toys are back, with holographic trading cards</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-17 23:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2020/09/pw8woltt8utp1phldmzs.jpg" alt="I Love The Sound Of Mario’s Footsteps In Super Mario Sunshine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +303,6 @@
                 <span class="time">2026-07-17 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/05/shutterstock_633629336-1-e1784311938798.jpg?fit=768%2C489&amp;quality=60&amp;ssl=1" alt="This Los Angeles man-on-the-street interview is internet gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/17/this-los-angeles-man-on-the-street-interview-is-internet-gold.html" target="_blank">This Los Angeles man-on-the-street interview is internet gold</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-17 18:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,7 +341,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 04:02 UTC
+        🔄 Last Updated: 05:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
