@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 14:23:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-18 15:18:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 14:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 15:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-kerr-johs-josh-mile_7300770.jpg?20260718161119" alt="Briton Josh Kerr breaks 27-year-old mile record in front of packed London stadium" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688" target="_blank">Briton Josh Kerr breaks 27-year-old mile record in front of packed London stadium</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-18 14:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss" target="_blank">Iraq signs 48 deals with US companies during PM’s visit to Washington</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-18 14:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,39 +77,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars" target="_blank">Why is it so hard for the U.S. to win wars?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-18 12:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/washington-dc-wildfire-smoke_1784370570553_hpMain_4x3t_384.jpg" alt="Dangerous wildfire smoke impacting more than a dozen states" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/dangerous-wildfire-smoke-impacting-dozen-states/story?id=134870818" target="_blank">Dangerous wildfire smoke impacting more than a dozen states</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-18 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss" target="_blank">Indian police forcibly hospitalise activist after 20-day hunger strike.</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-18 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions" target="_blank">8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-18 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/18/nx-s1-5896117/retro-digital-camera-analog-reboot" target="_blank">The 2000s called. They want their digital camera back</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-18 10:01</span>
             </div>
         </div>
 </div>
@@ -189,6 +179,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/" target="_blank">GPT-5.6 used a prompt to close a 30-year gap in convex optimization</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gde03/retrieval-augmented-self-recall-part-6-the-fine-tune-that-did-nothing-and-shipping-it-as-an-mcp-240m" target="_blank">Retrieval-Augmented Self-Recall — Part 6: The Fine-Tune That Did Nothing, and Shipping It as an MCP Server</a></span>
                 <span class="feed">DEV Community</span>
@@ -213,15 +212,6 @@
                 <span class="time">2026-07-18 11:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://velvetshark.com/ai-company-logos-that-look-like-buttholes" target="_blank">Why do AI company logos look like buttholes?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-18 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/image-96.jpg" alt="The New Wolverine Trailer Now Has 10,000+ Comments About PlayStation Discs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-new-wolverine-trailer-now-has-10000-comments-about-playstation-discs-2000717422" target="_blank">The New Wolverine Trailer Now Has 10,000+ Comments About PlayStation Discs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-18 15:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/image-95-1280x740.jpg" alt="Baldur’s Gate 3 And Clair Obscur Actor Jennifer English Pulls Out Of New Fantasy Game Over Health Concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +285,6 @@
                 <span class="time">2026-07-17 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-17 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,7 +314,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 14:23 UTC
+        🔄 Last Updated: 15:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
