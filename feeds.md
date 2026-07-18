@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 07:30:16 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-18 08:31:09 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 07:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 08:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/18/world-cup-final-spain-and-argentina-whose-form-guide-points-to-victory?traffic_source=rss" target="_blank">World Cup final: Spain vs Argentina – Which team has best chance to win?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-18 08:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd47/live/65f79600-8282-11f1-b976-0b9c15b0ccfc.jpg" alt="US strikes hit Iran for seventh consecutive night" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss" target="_blank">US strikes hit Iran for seventh consecutive night</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-18 07:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +96,6 @@
                 <span class="title"><a href="https://news.sky.com/story/more-than-100-homes-destroyed-as-firefighters-battle-norway-blaze-13564563" target="_blank">More than 100 homes destroyed as firefighters battle Norway blaze</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-07-18 02:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/IRGC-missile-DB-260716_1784195621506_hpMain_4x3t_384.jpg" alt="Iran live updates: US launches more airstrikes on Iran for 7th night, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US launches more airstrikes on Iran for 7th night, CENTCOM says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-18 02:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b00/live/0ecf40f0-81ea-11f1-b7bc-5dd9ae7a9918.jpg" alt="Trump threatens new Canada tariffs over fires sending &#x27;filthy&#x27; air into US cities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss" target="_blank">Trump threatens new Canada tariffs over fires sending &#x27;filthy&#x27; air into US cities</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-18 01:29</span>
             </div>
         </div>
 </div>
@@ -200,19 +201,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/juliojeanfils1/my-mac-said-system-data-was-using-300-gb-heres-how-i-actually-cleared-it-22ij" target="_blank">My Mac Said “System Data” Was Using 300 GB. Here’s How I Actually Cleared It.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-18 02:50</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://maurycyz.com/projects/bad_jpeg/" target="_blank">Regressive JPEGs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-18 03:14</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codexsavage6s/is-typescript-worth-it-29m8" target="_blank">Is Typescript worth it?</a></span>
+                <span class="title"><a href="https://dev.to/juliojeanfils1/my-mac-said-system-data-was-using-300-gb-heres-how-i-actually-cleared-it-22ij" target="_blank">My Mac Said “System Data” Was Using 300 GB. Here’s How I Actually Cleared It.</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-07-18 01:16</span>
+                <span class="time">2026-07-18 02:50</span>
             </div>
         </div>
 </div>
@@ -325,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 07:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 08:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
