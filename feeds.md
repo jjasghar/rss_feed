@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 21:14:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-18 22:14:03 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 21:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 22:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,12 +167,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/Vesktop-GNOME-theme.webp?resize=406%2C232&amp;ssl=1" alt="This theme makes Discord look more at home on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/discord-gnome-theme-adwaita-vesktop" target="_blank">This theme makes Discord look more at home on Ubuntu</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-18 21:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/iprvn/building-with-local-llms-an-engineers-approach-to-ai-assisted-development-28po" target="_blank">Building with Local LLMs: An Engineer&#x27;s Approach to AI-Assisted Development</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-18 20:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVK-Mesa-26.2-Performance" target="_blank">NVK Vulkan Performance Improving With Mesa 26.2 Against NVIDIA Proprietary Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-18 19:57</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +220,6 @@
                 <span class="time">2026-07-18 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/" target="_blank">GPT-5.6 used a prompt to close a 30-year gap in convex optimization</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-18 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gde03/retrieval-augmented-self-recall-part-6-the-fine-tune-that-did-nothing-and-shipping-it-as-an-mcp-240m" target="_blank">Retrieval-Augmented Self-Recall — Part 6: The Fine-Tune That Did Nothing, and Shipping It as an MCP Server</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-18 12:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -228,6 +232,15 @@
                 <span class="title"><a href="https://kotaku.com/shooter-historian-civvie-11-says-xbox-laid-off-those-responsible-for-the-decades-most-influential-game-2000717437" target="_blank">Shooter Historian Civvie 11 Says Xbox Laid Off Those Responsible For The Decade’s Most Influential Game</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-18 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/sexsomnia-sleep-sex.jpg?fit=1200%2C789&amp;quality=60&amp;ssl=1" alt="Some people initiate sex in their sleep and remember none of it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/18/sexsomnia-sleep-sex.html" target="_blank">Some people initiate sex in their sleep and remember none of it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-18 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -266,15 +279,6 @@
                 <span class="time">2026-07-18 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Zelfgebreide_trui_met_v-hals_-_Home_knitted_V-necked_sweater_28410658819829.jpg?fit=922%2C1240&amp;quality=60&amp;ssl=1" alt="Knitters believe a hand-made sweater can end your relationship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/18/sweater-curse.html" target="_blank">Knitters believe a hand-made sweater can end your relationship</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-18 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 21:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 22:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
