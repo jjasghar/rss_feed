@@ -1,36 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-07-17 23:14:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-18 00:18:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, July 17, 2026 - 23:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 00:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data" target="_blank">ICE shared Medicaid data it wasn&#x27;t supposed to have with Palantir</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-17 23:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +90,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss" target="_blank">Life after amputation: Gaza women find recovery through football</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-17 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ce/live/6fb7e360-81fc-11f1-bee8-53ce494e1abc.jpg" alt="Burnham says he is &#x27;finalising&#x27; cabinet ahead of becoming PM on Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y300l2zvno?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says he is &#x27;finalising&#x27; cabinet ahead of becoming PM on Monday</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-17 17:40</span>
             </div>
         </div>
 </div>
@@ -167,6 +159,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jamilxt/stop-begging-your-llm-for-valid-json-self-correcting-structured-output-in-spring-ai-20-4hl7" target="_blank">Stop Begging Your LLM for Valid JSON: Self-Correcting Structured Output in Spring AI 2.0</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-18 00:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/" target="_blank">Kaiser nurses say AI, workplace surveillance are making their jobs, care worse</a></span>
                 <span class="feed">Hacker News</span>
@@ -207,15 +208,6 @@
                 <span class="title"><a href="https://github.blog/engineering/the-cost-of-saying-yes-has-changed/" target="_blank">The cost of saying yes has changed</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-07-17 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="I got tired of paying for premium AI Chatbot, so I built a completely free alternative for Android/Windows." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techambient/i-got-tired-of-paying-for-premium-ai-chatbot-so-i-built-a-completely-free-alternative-for-59f9" target="_blank">I got tired of paying for premium AI Chatbot, so I built a completely free alternative for Android/Windows.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-17 15:03</span>
             </div>
         </div>
 </div>
@@ -355,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 114 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 23:15 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 00:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
