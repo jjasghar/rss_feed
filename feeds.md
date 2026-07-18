@@ -1,28 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 00:18:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-18 01:30:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 00:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +54,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data" target="_blank">ICE shared Medicaid data it wasn&#x27;t supposed to have with Palantir</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-17 23:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784328833500_nn_gha_trump_address_elections_260717_S3_1920x1080-znr3nt.jpg" alt="Trump calls for new election security measures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-calls-for-new-election-security-measures-266865733992" target="_blank">Trump calls for new election security measures</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-17 22:53</span>
             </div>
         </div>
 <div class="story">
@@ -81,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss" target="_blank">US denies Iranian claims it hit civilian infrastructure in latest strikes</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-17 18:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss" target="_blank">Life after amputation: Gaza women find recovery through football</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-17 18:02</span>
             </div>
         </div>
 </div>
@@ -160,6 +169,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codexsavage6s/is-typescript-worth-it-29m8" target="_blank">Is Typescript worth it?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-18 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/DXVK-3.0.2-Released" target="_blank">DXVK 3.0.2 Released With Improved Hang Debugging, Handful Of Game Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-18 00:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jamilxt/stop-begging-your-llm-for-valid-json-self-correcting-structured-output-in-spring-ai-20-4hl7" target="_blank">Stop Begging Your LLM for Valid JSON: Self-Correcting Structured Output in Spring AI 2.0</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-18 00:10</span>
@@ -184,30 +211,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/11/flatpak-apps.jpg?resize=406%2C232&amp;ssl=1" alt="Flathub’s AI slop ban looks like it was the right call" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://goliath32.com/blog/z80.html" target="_blank">The Zilog Z80 has turned 50</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-17 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/noctua-nc-lc1-36" target="_blank">Noctua NL-LC1-36 All-In-One Liquid Cooler</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-17 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/the-cost-of-saying-yes-has-changed/" target="_blank">The cost of saying yes has changed</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-17 16:46</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/flathub-ai-slop-ban-data" target="_blank">Flathub’s AI slop ban looks like it was the right call</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-17 19:53</span>
             </div>
         </div>
 </div>
@@ -248,6 +257,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-17 22:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/zp6-1280x704.jpg" alt="Disco Elysium Studio Says Game About People Forced Into Impossible Situations Didn’t Sell Well Enough To Prevent Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -281,15 +299,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/17/this-los-angeles-man-on-the-street-interview-is-internet-gold.html" target="_blank">This Los Angeles man-on-the-street interview is internet gold</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-17 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/odyssey-1280x720.jpg" alt="The Odyssey Has A Scene That Is Giving People Headaches And Could Trigger Epilepsy: ‘Some Of The Most Aggressive Screen Flashing I’ve Ever Seen’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-odyssey-cattle-island-scene-flashing-epilepsy-nolan-2000717199" target="_blank">The Odyssey Has A Scene That Is Giving People Headaches And Could Trigger Epilepsy: ‘Some Of The Most Aggressive Screen Flashing I’ve Ever Seen’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-17 18:00</span>
             </div>
         </div>
 </div>
@@ -347,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 00:18 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 112 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
