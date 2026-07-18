@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 09:28:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-18 10:26:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 09:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 10:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/18/nx-s1-5896117/retro-digital-camera-analog-reboot" target="_blank">The 2000s called. They want their digital camera back</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-18 10:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +97,20 @@
                 <span class="time">2026-07-18 06:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes" target="_blank">U.S. and Iran escalate strikes across Mideast</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-18 06:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a57867336e98c56882c9e64/master/pass/GeminiStorage.jpg" alt="How Google’s New Gemini Rates Work and How to Track Your Usage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/" target="_blank">How Google’s New Gemini Rates Work and How to Track Your Usage</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-18 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689f9d2d55cc281c2273340a/master/pass/The%20Best%20Tech%20for%20Back%20to%20School.png" alt="The Best Tech for Back to School" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +156,20 @@
                 <span class="time">2026-07-17 23:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce" target="_blank">Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-17 22:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mayaramyadav/creating-a-sudoku-solver-using-backtracking-in-javascript-4638" target="_blank">Creating a Sudoku Solver Using Backtracking in JavaScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-18 10:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +213,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17382257/gnome-extensions-for-productivity" target="_blank">Become More Productive With These GNOME Extensions</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-07-18 03:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/enjoy_kumawat/i-almost-hand-rolled-json-rpc-for-an-mcp-server-eight-tools-later-im-glad-i-didnt-17mj" target="_blank">I Almost Hand-Rolled JSON-RPC for an MCP Server. Eight Tools Later I&#x27;m Glad I Didn&#x27;t.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-18 03:36</span>
             </div>
         </div>
 </div>
@@ -329,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 09:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 10:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
