@@ -1,27 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 16:15:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-18 17:18:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 16:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 17:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss" target="_blank">What to expect after the US reimposes naval blockade on Iran’s ports?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-18 16:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/centcom-strike-ht-jt-260718_1784386368810_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says US violated MOU, says its suspending commitments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: Iran says US violated MOU, says its suspending commitments</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-18 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/18/nx-s1-5897607/2026-world-cup-fifa-argentina-spain-women-fans" target="_blank">Reporter&#x27;s Notebook: Finding World Cup joy in speaking to women who love soccer</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-18 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/07/1920x1080/skynews-kerr-johs-josh-mile_7300770.jpg?20260718161119" alt="Briton Josh Kerr breaks 27-year-old mile record in front of packed London stadium" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,33 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/18/death-toll-from-uganda-school-bus-crash-rises-to-24?traffic_source=rss" target="_blank">Death toll from Uganda school bus crash rises to 24</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-18 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d1/live/dae460c0-82a9-11f1-b976-0b9c15b0ccfc.jpg" alt="Russian online retail warehouses hit by deadly Ukrainian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss" target="_blank">Russian online retail warehouses hit by deadly Ukrainian strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-18 13:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars" target="_blank">Why is it so hard for the U.S. to win wars?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-18 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/washington-dc-wildfire-smoke_1784370570553_hpMain_4x3t_384.jpg" alt="Dangerous wildfire smoke impacting more than a dozen states" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/dangerous-wildfire-smoke-impacting-dozen-states/story?id=134870818" target="_blank">Dangerous wildfire smoke impacting more than a dozen states</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-18 10:54</span>
             </div>
         </div>
 </div>
@@ -310,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 16:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 17:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
