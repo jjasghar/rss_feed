@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 06:35:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-18 07:30:16 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 06:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 07:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +50,24 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/longform/2026/7/18/kolkata-sings-for-messi-as-world-cup-fever-takes-hold-2?traffic_source=rss" target="_blank">Kolkata sings for Messi as World Cup fever takes hold</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-18 06:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes" target="_blank">U.S. and Iran escalate strikes across Mideast</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-18 06:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art" target="_blank">‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-18 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +97,38 @@
                 <span class="time">2026-07-18 01:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data" target="_blank">ICE shared Medicaid data it wasn&#x27;t supposed to have with Palantir</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-17 23:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784329622736_nn_tco_wildfire_smoke_hazy_conditions_US_260717_S3_1920x1080-s03h81.jpg" alt="100 million Americans facing dangerous wildfire smoke" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/100-million-americans-facing-dangerous-wildfire-smoke-266866245835" target="_blank">100 million Americans facing dangerous wildfire smoke</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-17 23:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters" target="_blank">Fine, electric mountain bikes don’t suck</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-18 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="SteelSeries Coupon Codes: 15% Off in July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/steelseries-coupon-code/" target="_blank">SteelSeries Coupon Codes: 15% Off in July 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-18 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/" target="_blank">Neil Rimer thinks the AI money is coming back out</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-18 04:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,33 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale" target="_blank">Shark&amp;#8217;s versatile ChillPill cooling system is back to its best price</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-17 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/" target="_blank">AI-driven memory crunch jolts India’s smartphone market</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-17 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5a677665d8dd9c411b81aa/master/pass/AWS-Billing-Glitch-Business-2240015205.jpg" alt="AWS Billing Glitch Hits Customers With Billion-Dollar Fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-web-services-glitch-oh-no/" target="_blank">AWS Billing Glitch Hits Customers With Billion-Dollar Fees</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-17 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-500x500.png" alt="Google-backed satellites for wildfire detection launch as smoke chokes US, Canada" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/" target="_blank">Google-backed satellites for wildfire detection launch as smoke chokes US, Canada</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-17 19:50</span>
             </div>
         </div>
 </div>
@@ -189,6 +182,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17382257/gnome-extensions-for-productivity" target="_blank">Become More Productive With These GNOME Extensions</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-18 03:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/enjoy_kumawat/i-almost-hand-rolled-json-rpc-for-an-mcp-server-eight-tools-later-im-glad-i-didnt-17mj" target="_blank">I Almost Hand-Rolled JSON-RPC for an MCP Server. Eight Tools Later I&#x27;m Glad I Didn&#x27;t.</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/codexsavage6s/is-typescript-worth-it-29m8" target="_blank">Is Typescript worth it?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-18 01:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/DXVK-3.0.2-Released" target="_blank">DXVK 3.0.2 Released With Improved Hang Debugging, Handful Of Game Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-18 00:46</span>
             </div>
         </div>
 </div>
@@ -327,22 +320,13 @@
                 <span class="time">2026-07-17 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/17/rex-ready-player-one-part-six" target="_blank">Rex Ready Player One, Part Six</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-17 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 06:35 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 07:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
