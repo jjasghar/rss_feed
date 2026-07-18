@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-07-18 13:27:54 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-18 14:23:16 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, July 18, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, July 18, 2026 - 14:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +57,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/18/death-toll-from-uganda-school-bus-crash-rises-to-24?traffic_source=rss" target="_blank">Death toll from Uganda school bus crash rises to 24</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-18 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d1/live/dae460c0-82a9-11f1-b976-0b9c15b0ccfc.jpg" alt="Russian online retail warehouses hit by deadly Ukrainian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss" target="_blank">Russian online retail warehouses hit by deadly Ukrainian strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-18 13:06</span>
             </div>
         </div>
 <div class="story">
@@ -86,20 +104,20 @@
                 <span class="time">2026-07-18 10:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/18/nx-s1-5896217/how-to-respond-in-awkward-moments" target="_blank">D&#x27;oh! I can&#x27;t believe I did that! Graceful ways to handle awkward moments</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-18 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review" target="_blank">Surprise! Facial recognition smart locks are actually good</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-18 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-500x500.jpg" alt="Will AI fix prior authorization—or make it worse?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +163,29 @@
                 <span class="time">2026-07-18 07:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="SteelSeries Coupon Codes: 15% Off in July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/steelseries-coupon-code/" target="_blank">SteelSeries Coupon Codes: 15% Off in July 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-18 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wzg0911/death-by-amnesia-your-agent-said-got-it-and-forgot-everything-until-a-lawsuit-arrived-4nfa" target="_blank">Death by Amnesia: Your Agent Said Got It and Forgot Everything — Until a Lawsuit Arrived</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-18 14:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/pinecon-nexus-knowledge-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-18 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +222,6 @@
                 <span class="time">2026-07-18 11:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mayaramyadav/creating-a-sudoku-solver-using-backtracking-in-javascript-4638" target="_blank">Creating a Sudoku Solver Using Backtracking in JavaScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-18 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mudienub/kenapa-banyak-frontend-developer-memakai-nextjs-untuk-pekerjaan-tapi-vuejs-untuk-personal-2o35" target="_blank">Kenapa Banyak Frontend Developer Memakai Next.js untuk Pekerjaan, tapi Vue.js untuk Personal Project?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-18 09:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/image-95-1280x740.jpg" alt="Baldur’s Gate 3 And Clair Obscur Actor Jennifer English Pulls Out Of New Fantasy Game Over Health Concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/baldurs-gate-3-and-clair-obscur-actor-jennifer-english-pulls-out-of-new-fantasy-game-over-health-concerns-2000717415" target="_blank">Baldur’s Gate 3 And Clair Obscur Actor Jennifer English Pulls Out Of New Fantasy Game Over Health Concerns</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-18 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Bruno_Mars_Barcelona_concert_Summer_2018.jpg?fit=1080%2C1080&amp;quality=60&amp;ssl=1" alt="Two AIs got $100 each to make a music video by themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/18/ai-music-video-arena.html" target="_blank">Two AIs got $100 each to make a music video by themselves</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-18 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Zelfgebreide_trui_met_v-hals_-_Home_knitted_V-necked_sweater_28410658819829.jpg?fit=922%2C1240&amp;quality=60&amp;ssl=1" alt="Knitters believe a hand-made sweater can end your relationship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +295,6 @@
                 <span class="time">2026-07-17 22:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/zp6-1280x704.jpg" alt="Disco Elysium Studio Says Game About People Forced Into Impossible Situations Didn’t Sell Well Enough To Prevent Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/disco-elysium-studio-says-game-about-people-forced-into-impossible-situations-didnt-sell-well-enough-to-prevent-layoffs-2000717249" target="_blank">Disco Elysium Studio Says Game About People Forced Into Impossible Situations Didn’t Sell Well Enough To Prevent Layoffs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-17 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXRT49RXN29YWN9WAYX4A7NY/hero-image.jpg" alt="Only One Apple Music Plan Didn&#x27;t Just Go up in Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-music-just-got-more-expensive?utm_medium=RSS" target="_blank">Only One Apple Music Plan Didn&#x27;t Just Go up in Price</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-17 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 14:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
