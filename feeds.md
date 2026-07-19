@@ -1,47 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 09:32:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-19 10:28:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 39 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 09:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 10:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -179,6 +166,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amitkumar13/react-native-navigation-bottom-tabs-drawer-nested-stacks-and-a-reusable-modal-hoc-33p7" target="_blank">React Native Navigation: Bottom Tabs, Drawer, Nested Stacks, and a Reusable Modal HOC</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-19 10:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://twitter.com/Alibaba_Qwen/status/2078759124914098291" target="_blank">Qwen3.8 is launching and going open-weight soon</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-19 08:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ra226/i-built-a-dlp-agent-that-learns-from-every-click-heres-how-5ede" target="_blank">I Built a DLP Agent That Learns From Every Click — Here&#x27;s How</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-19 08:36</span>
@@ -209,24 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/cloudformation-express-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-19 05:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robinzzz/test-saga-compensation-when-payment-succeeds-but-inventory-times-out-2li4" target="_blank">Test Saga Compensation When Payment Succeeds but Inventory Times Out</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-19 05:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jackm-singularity/ai-agent-data-minimization-give-tools-less-context-without-breaking-results-58la" target="_blank">AI Agent Data Minimization: Give Tools Less Context Without Breaking Results</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-19 04:00</span>
             </div>
         </div>
 </div>
@@ -316,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 09:32 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 10:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
