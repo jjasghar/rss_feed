@@ -1,35 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 05:58:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-19 06:57:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 05:58 UTC</div>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 06:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss" target="_blank">US bombs Iran for eighth-straight night</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-19 05:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/19/exiled-cuban-artist-otero-alcantara-has-arrived-in-us-rubio-confirms?traffic_source=rss" target="_blank">Exiled Cuban artist Otero Alcantara has arrived in US, Rubio confirms</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-19 00:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/iranian-missile-01-gty-jt-260718_1784399746735_hpMain_4x3t_384.jpg" alt="Iran live updates: US launches airstrikes after deadly attack on troops in Jordan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US launches airstrikes after deadly attack on troops in Jordan</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-18 22:38</span>
             </div>
         </div>
 </div>
@@ -167,6 +161,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/juandastic/i-built-an-ai-app-eight-months-later-it-became-a-skill-58cn" target="_blank">I Built an AI App. Eight Months Later, It Became a Skill</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-19 06:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/cloudformation-express-mode/en/headerimage/generatedHeaderImage-1783162016860.jpg" alt="AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/cloudformation-express-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-19 05:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/robinzzz/test-saga-compensation-when-payment-succeeds-but-inventory-times-out-2li4" target="_blank">Test Saga Compensation When Payment Succeeds but Inventory Times Out</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-19 05:33</span>
@@ -197,24 +209,6 @@
                 <span class="title"><a href="https://workshop.cjpais.com/projects/transcribe-cpp" target="_blank">Transcribe.cpp</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-19 00:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/Vesktop-GNOME-theme.webp?resize=406%2C232&amp;ssl=1" alt="This theme makes Discord look more at home on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/discord-gnome-theme-adwaita-vesktop" target="_blank">This theme makes Discord look more at home on Ubuntu</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-18 21:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iprvn/building-with-local-llms-an-engineers-approach-to-ai-assisted-development-28po" target="_blank">Building with Local LLMs: An Engineer&#x27;s Approach to AI-Assisted Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-18 20:04</span>
             </div>
         </div>
 </div>
@@ -304,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 05:58 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 39 | 📸 With Images: 250 |
+        🔄 Last Updated: 06:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
