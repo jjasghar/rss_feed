@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 04:13:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-19 05:58:03 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 04:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 05:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election" target="_blank">São Tomé and Príncipe heads to polls in tense presidential election</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-19 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US launches airstrikes after deadly attack on troops in Jordan</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-18 22:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb90/live/f934e660-82d3-11f1-a42c-29abcdb2a052.jpg" alt="Two US troops killed and one missing after Iranian attack in Jordan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss" target="_blank">Two US troops killed and one missing after Iranian attack in Jordan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-18 21:12</span>
             </div>
         </div>
 </div>
@@ -163,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robinzzz/test-saga-compensation-when-payment-succeeds-but-inventory-times-out-2li4" target="_blank">Test Saga Compensation When Payment Succeeds but Inventory Times Out</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-19 05:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jackm-singularity/ai-agent-data-minimization-give-tools-less-context-without-breaking-results-58la" target="_blank">AI Agent Data Minimization: Give Tools Less Context Without Breaking Results</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-19 04:00</span>
@@ -202,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/iprvn/building-with-local-llms-an-engineers-approach-to-ai-assisted-development-28po" target="_blank">Building with Local LLMs: An Engineer&#x27;s Approach to AI-Assisted Development</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-18 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVK-Mesa-26.2-Performance" target="_blank">NVK Vulkan Performance Improving With Mesa 26.2 Against NVIDIA Proprietary Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-18 19:57</span>
             </div>
         </div>
 </div>
@@ -301,7 +305,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 04:13 UTC
+        🔄 Last Updated: 05:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
