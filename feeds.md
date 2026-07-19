@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 02:59:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-19 04:13:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 04:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/19/nx-s1-5899071/2026-world-cup-fifa-argentina-spain-final-championship" target="_blank">Argentina, Spain and their stars Lionel Messi and Lamine Yamal meet in World Cup final</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-19 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +93,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss" target="_blank">Two US troops killed and one missing after Iranian attack in Jordan</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-18 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss" target="_blank">Palestinian teenage footballer dies a week after Israeli settler attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-18 20:24</span>
             </div>
         </div>
 </div>
@@ -167,10 +162,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jackm-singularity/ai-agent-data-minimization-give-tools-less-context-without-breaking-results-58la" target="_blank">AI Agent Data Minimization: Give Tools Less Context Without Breaking Results</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-19 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GNU-Hurd-Q2-2026" target="_blank">GNU Hurd Makes Progress On AArch64, Writing Translators In Rust</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-19 00:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://workshop.cjpais.com/projects/transcribe-cpp" target="_blank">Transcribe.cpp</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-19 00:38</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/NVK-Mesa-26.2-Performance" target="_blank">NVK Vulkan Performance Improving With Mesa 26.2 Against NVIDIA Proprietary Driver</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-18 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://queue.acm.org/detail.cfm?id=3818307" target="_blank">Goodbye, and Thanks for All the Bikesheds</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-18 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wzg0911/death-by-amnesia-your-agent-said-got-it-and-forgot-everything-until-a-lawsuit-arrived-4nfa" target="_blank">Death by Amnesia: Your Agent Said Got It and Forgot Everything — Until a Lawsuit Arrived</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-18 14:06</span>
             </div>
         </div>
 </div>
@@ -305,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 04:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
