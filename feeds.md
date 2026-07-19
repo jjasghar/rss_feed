@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 21:14:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-19 22:15:00 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 21:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 22:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/852/759/47267789941-1080pnbcstations.jpg" alt="Ferran Torres anota el gol que vale un Mundial para España" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ferran-torres-anota-el-gol-que-vale-un-mundial-para-espana-tmvo13205269" target="_blank">Ferran Torres anota el gol que vale un Mundial para España</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-19 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber" target="_blank">A cavalcade of international stars headlined the World Cup&#x27;s first-ever halftime final show</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-19 21:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss" target="_blank">Israeli ministers join march to Gaza to demand return of settlements</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-19 20:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg" alt="US soldier killed and one injured after Iranian attack in Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,38 +95,20 @@
                 <span class="time">2026-07-19 19:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260624-Tartan-Army-ch-0947-95d56b.jpg" alt="The soccer fans who fell in love with America during the World Cup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/sports/soccer/soccer-fans-fell-love-america-world-cup-rcna588252" target="_blank">The soccer fans who fell in love with America during the World Cup</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-19 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/upfront/2026/7/19/what-happened-to-the-jewish-left?traffic_source=rss" target="_blank">What happened to the Jewish left?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-19 17:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss" target="_blank">Israeli settlers torch homes and mosque in Masafer Yatta</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-19 16:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285958264-500x500.jpg" alt="India&#x27;s first privately-developed rocket reaches orbit on dramatic debut launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/" target="_blank">India&#x27;s first privately-developed rocket reaches orbit on dramatic debut launch</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-19 22:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +154,20 @@
                 <span class="time">2026-07-19 16:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/" target="_blank">TechCrunch Mobility: The battle over robotaxi rules</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-19 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/dingo.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s desktop icons extension completes its GTK4 port" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-desktop-icons-extension-gtk4-port" target="_blank">Ubuntu’s desktop icons extension completes its GTK4 port</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-19 22:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/07/netflix-llm-homepage-generation/en/headerimage/netflix-genpage-recommender-1784476882801.jpeg" alt="How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,20 +213,20 @@
                 <span class="time">2026-07-19 15:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.ycombinator.com/item?id=48968606" target="_blank">Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-19 14:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/bakersfield.jpg" alt="Truth Be Told The Fallout I’m Most Looking Forward To Is Bakersfield" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/truth-be-told-the-fallout-im-most-looking-forward-to-is-bakersfield-2000717522" target="_blank">Truth Be Told The Fallout I’m Most Looking Forward To Is Bakersfield</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-19 21:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/pokemonghosttothepolls-1280x753.jpg" alt="The New England Road Trip Haunted By Pokémon Go And The AR Game That Made A Summer Stranger" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +272,6 @@
                 <span class="time">2026-07-19 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/terminator-2d-no-fate-1280x720.jpg" alt="Eric Trump Is Building An Army Of Humanoid Robot Soldiers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/eric-trump-is-building-an-army-of-humanoid-robot-soldiers-2000717446" target="_blank">Eric Trump Is Building An Army Of Humanoid Robot Soldiers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-18 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 21:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 22:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
