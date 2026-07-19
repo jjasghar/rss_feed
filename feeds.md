@@ -1,32 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 18:14:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-19 19:23:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 18:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 19:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/c05bf310-83a5-11f1-8175-0b71720eeb65.jpg" alt="Burnham to promise to give people &#x27;more breathing room&#x27; in first speech as PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to promise to give people &#x27;more breathing room&#x27; in first speech as PM</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-19 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260624-Tartan-Army-ch-0947-95d56b.jpg" alt="The soccer fans who fell in love with America during the World Cup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/soccer/soccer-fans-fell-love-america-world-cup-rcna588252" target="_blank">The soccer fans who fell in love with America during the World Cup</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-19 18:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/7/19/spain-vs-argentina-live-2026-fifa-world-cup-final?traffic_source=rss" target="_blank">Spain vs Argentina LIVE: 2026 FIFA World Cup final</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-19 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg" alt="US and Iran trade fire after two US soldiers killed in Jordan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran trade fire after two US soldiers killed in Jordan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-19 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c703/live/cadc19f0-835f-11f1-a0d2-c70a9d6f1fff.jpg" alt="Burnham will be bolder but stick to Labour manifesto, deputy leader says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham will be bolder but stick to Labour manifesto, deputy leader says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-19 11:57</span>
             </div>
         </div>
 </div>
@@ -164,6 +174,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pawfromoz/testing-ai-agents-with-agentspec-jest-for-non-deterministic-behavior-55kg" target="_blank">Testing AI Agents with AgentSpec: Jest for Non-Deterministic Behavior</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-19 19:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dvershinin/nginx-abuse-guard-module-auto-ban-scanners-and-bots-3a93" target="_blank">NGINX Abuse Guard Module: Auto-Ban Scanners and Bots</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-19 17:06</span>
@@ -203,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/excorporate/building-court-ready-pdfs-what-legal-tech-taught-me-about-deterministic-software-a5l" target="_blank">Building Court-Ready PDFs: What Legal Tech Taught Me About Deterministic Software</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-19 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mayu2008/building-ai-agents-for-social-media-with-typescript-and-honojs-4lgp" target="_blank">Building AI Agents for Social Media with TypeScript and Hono.js</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-19 12:07</span>
             </div>
         </div>
 </div>
@@ -264,22 +274,13 @@
                 <span class="time">2026-07-18 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/doom-1280x724.jpg" alt="Shooter Historian Civvie 11 Says Xbox Laid Off Those Responsible For The Decade’s Most Influential Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/shooter-historian-civvie-11-says-xbox-laid-off-those-responsible-for-the-decades-most-influential-game-2000717437" target="_blank">Shooter Historian Civvie 11 Says Xbox Laid Off Those Responsible For The Decade’s Most Influential Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-18 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 18:14 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 19:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
