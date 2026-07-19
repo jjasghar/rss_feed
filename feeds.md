@@ -1,34 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 10:28:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-19 11:22:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 10:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 11:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/19/why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-content?traffic_source=rss" target="_blank">Why is India vetting books in Kashmir in search of ‘anti-national’ content?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-19 10:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Iran-missile-DB-260719_1784443460522_hpMain_4x3t_384.jpg" alt="Iran live updates: Kuwait, Bahrain report Iranian attacks following latest US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +107,20 @@
                 <span class="time">2026-07-19 07:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Iran-missile-DB-260719_1784443460522_hpMain_4x3t_384.jpg" alt="Iran live updates: Kuwait reports Iranian attacks following latest US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: Kuwait reports Iranian attacks following latest US strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-19 06:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas" target="_blank">The grueling, 630-mile road race where the only fuel is sunlight</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-19 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +166,6 @@
                 <span class="time">2026-07-18 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-500x500.jpg" alt="Will AI fix prior authorization—or make it worse?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/" target="_blank">Will AI fix prior authorization—or make it worse?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-18 11:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,10 +174,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-AVX-512-1.372x" target="_blank">FFmpeg Lands Latest AVX-512 Optimization: 1.372x Faster In Pixel Format Conversion</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-19 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/amitkumar13/react-native-navigation-bottom-tabs-drawer-nested-stacks-and-a-reusable-modal-hoc-33p7" target="_blank">React Native Navigation: Bottom Tabs, Drawer, Nested Stacks, and a Reusable Modal HOC</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-19 10:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/alphaevolve-generally-available/en/headerimage/generatedHeaderImage-1783873354690.jpg" alt="Google&#x27;s AlphaEvolve Reaches General Availability with Evolutionary Code Optimization as a Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/alphaevolve-generally-available/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google&#x27;s AlphaEvolve Reaches General Availability with Evolutionary Code Optimization as a Service</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-19 10:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/" target="_blank">Claude Code uses Bun written in Rust now</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-19 10:03</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +223,6 @@
                 <span class="title"><a href="https://dev.to/ra226/i-built-a-dlp-agent-that-learns-from-every-click-heres-how-5ede" target="_blank">I Built a DLP Agent That Learns From Every Click — Here&#x27;s How</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-19 08:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sarkaragi/pygo-a-deep-learning-framework-where-go-calls-python-calls-c-4amo" target="_blank">PyGo: A Deep Learning Framework Where Go Calls Python Calls C++</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-19 07:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/juandastic/i-built-an-ai-app-eight-months-later-it-became-a-skill-58cn" target="_blank">I Built an AI App. Eight Months Later, It Became a Skill</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-19 06:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/cloudformation-express-mode/en/headerimage/generatedHeaderImage-1783162016860.jpg" alt="AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/cloudformation-express-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-19 05:59</span>
             </div>
         </div>
 </div>
@@ -303,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 10:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 11:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
