@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 16:16:35 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-19 17:19:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 16:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 17:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +104,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults" target="_blank">The FBI reportedly won’t investigate ICE anymore</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-19 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/" target="_blank">TechCrunch Mobility: The battle over robotaxi rules</a></span>
                 <span class="feed">TechCrunch</span>
@@ -156,20 +155,20 @@
                 <span class="time">2026-07-19 11:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b9d28bd522b4f35aea0a0d/master/pass/The-Best-Power-Banks-for-All-Your-Devices.jpg" alt="Best Power Banks (2026): My Picks After Testing Over 100" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-portable-chargers-power-banks/" target="_blank">Best Power Banks (2026): My Picks After Testing Over 100</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-19 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dvershinin/nginx-abuse-guard-module-auto-ban-scanners-and-bots-3a93" target="_blank">NGINX Abuse Guard Module: Auto-Ban Scanners and Bots</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-19 17:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,20 +214,20 @@
                 <span class="time">2026-07-19 12:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-AVX-512-1.372x" target="_blank">FFmpeg Lands Latest AVX-512 Optimization: 1.372x Faster In Pixel Format Conversion</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-19 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Ma_pona_pi_toki_pona_-_icon_28202329.png?fit=512%2C512&amp;quality=55&amp;ssl=1" alt="A whole language built from about 120 words" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/19/toki-pona.html" target="_blank">A whole language built from about 120 words</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-19 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Delta_del_Ganges-Brahmaputra_28NASA_Terra-Modis29_28499689856229.jpg?fit=1700%2C2200&amp;quality=60&amp;ssl=1" alt="What is the cause of mystery booms heard around the world?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,25 +266,11 @@
         </div>
 </div>
 </div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/18/rex-ready-player-one-part-six" target="_blank">Rex Ready Player One, Part Six</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-18 16:32</span>
-            </div>
-        </div>
-</div>
-</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 16:16 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 17:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
