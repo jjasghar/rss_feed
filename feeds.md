@@ -1,43 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 11:22:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-19 12:13:55 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 35 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 11:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 12:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c703/live/cadc19f0-835f-11f1-a0d2-c70a9d6f1fff.jpg" alt="Burnham will be bolder but stick to Labour manifesto, deputy leader says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham will be bolder but stick to Labour manifesto, deputy leader says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-19 11:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,20 +99,29 @@
                 <span class="time">2026-07-19 08:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us" target="_blank">Cuban artist and dissident exiled from country after 5 years in prison arrives in US</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-19 07:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1247505555-500x500.jpeg" alt="As mosquito ranges expand, better monitoring is key to preventing disease" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/" target="_blank">As mosquito ranges expand, better monitoring is key to preventing disease</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-19 11:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a589941063549554fcc0b79/master/pass/SpotifyVids.jpg" alt="How to Disable Music Videos in Spotify" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-disable-all-the-music-videos-in-spotify/" target="_blank">How to Disable Music Videos in Spotify</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-19 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,29 +158,20 @@
                 <span class="time">2026-07-18 18:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/design/967606/google-open-source-3d-emoji" target="_blank">Google is open-sourcing its 3D emoji</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-18 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review" target="_blank">Surprise! Facial recognition smart locks are actually good</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-18 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mayu2008/building-ai-agents-for-social-media-with-typescript-and-honojs-4lgp" target="_blank">Building AI Agents for Social Media with TypeScript and Hono.js</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-19 12:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,18 +212,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://twitter.com/Alibaba_Qwen/status/2078759124914098291" target="_blank">Qwen3.8 is launching and going open-weight soon</a></span>
+                <span class="title"><a href="https://www.qwencloud.com/pricing/token-plan" target="_blank">Qwen 3.8 Max Preview</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-07-19 08:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ra226/i-built-a-dlp-agent-that-learns-from-every-click-heres-how-5ede" target="_blank">I Built a DLP Agent That Learns From Every Click — Here&#x27;s How</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-19 08:36</span>
+                <span class="time">2026-07-19 08:57</span>
             </div>
         </div>
 </div>
@@ -312,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 11:22 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 12:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
