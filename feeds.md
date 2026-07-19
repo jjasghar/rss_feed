@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 19:23:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-19 20:14:23 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 19:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 20:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mullin-1-ap-gmh-260717_1784301533321_hpMain_4x3t_384.jpg" alt="System that DHS is urging states to use known to return faulty results: reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/system-dhs-urging-states-assess-voter-rolls-return/story?id=134863557" target="_blank">System that DHS is urging states to use known to return faulty results: reports</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-19 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/c05bf310-83a5-11f1-8175-0b71720eeb65.jpg" alt="Burnham to promise to give people &#x27;more breathing room&#x27; in first speech as PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,20 +101,29 @@
                 <span class="time">2026-07-19 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/7/19/spain-vs-argentina-live-2026-fifa-world-cup-final?traffic_source=rss" target="_blank">Spain vs Argentina LIVE: 2026 FIFA World Cup final</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-19 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera" target="_blank">Kodak EC35 is a dirt-cheap point-and-shoot film camera</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-19 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/" target="_blank">Can an Apple lawsuit derail OpenAI’s hardware plans?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-19 19:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,24 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review" target="_blank">Orchid is a delightfully retro and approachable hipster synth</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-19 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/" target="_blank">‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-19 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/" target="_blank">Nonprofit Current AI is racing to build the World Wide Web of AI, free for all</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-19 14:00</span>
             </div>
         </div>
 </div>
@@ -209,19 +204,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired" target="_blank">The Last MPEG-4 Visual Patent Has Expired</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-19 14:24</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.ycombinator.com/item?id=48968606" target="_blank">Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-19 14:41</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/excorporate/building-court-ready-pdfs-what-legal-tech-taught-me-about-deterministic-software-a5l" target="_blank">Building Court-Ready PDFs: What Legal Tech Taught Me About Deterministic Software</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-19 14:12</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired" target="_blank">The Last MPEG-4 Visual Patent Has Expired</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-19 14:24</span>
             </div>
         </div>
 </div>
@@ -276,11 +271,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1784307717-20260719-edit.png" alt="Saturday Morning Breakfast Cereal - Poof" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/poof" target="_blank">Saturday Morning Breakfast Cereal - Poof</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-19 15:20</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 19:23 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 20:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
