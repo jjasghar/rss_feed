@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 01:31:08 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-19 02:59:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss" target="_blank">Tate brothers arrested in Miami as UK adds rape, trafficking charges</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-19 02:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami" target="_blank">The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-19 00:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss" target="_blank">Palestinian teenage footballer dies a week after Israeli settler attack</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-18 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d5/live/98b78d40-82df-11f1-ae6b-3189bc758570.jpg" alt="Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-18 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time" target="_blank">Josh Kerr of Britain breaks 27-year-old world record in the mile</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-18 20:06</span>
             </div>
         </div>
 </div>
@@ -162,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNU-Hurd-Q2-2026" target="_blank">GNU Hurd Makes Progress On AArch64, Writing Translators In Rust</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-19 00:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/Vesktop-GNOME-theme.webp?resize=406%2C232&amp;ssl=1" alt="This theme makes Discord look more at home on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -206,20 +218,20 @@
                 <span class="time">2026-07-18 14:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/pinecon-nexus-knowledge-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-18 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/terminator-2d-no-fate-1280x720.jpg" alt="Eric Trump Is Building An Army Of Humanoid Robot Soldiers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/eric-trump-is-building-an-army-of-humanoid-robot-soldiers-2000717446" target="_blank">Eric Trump Is Building An Army Of Humanoid Robot Soldiers</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-18 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/doom-1280x724.jpg" alt="Shooter Historian Civvie 11 Says Xbox Laid Off Those Responsible For The Decade’s Most Influential Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +277,6 @@
                 <span class="time">2026-07-18 13:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Bruno_Mars_Barcelona_concert_Summer_2018.jpg?fit=1080%2C1080&amp;quality=60&amp;ssl=1" alt="Two AIs got $100 each to make a music video by themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/18/ai-music-video-arena.html" target="_blank">Two AIs got $100 each to make a music video by themselves</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-18 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
