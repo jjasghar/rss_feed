@@ -1,32 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 15:18:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-19 16:16:35 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 15:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 16:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss" target="_blank">Israeli settlers torch homes and mosque in Masafer Yatta</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-19 16:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister" target="_blank">Who is Andy Burnham, the U.K.&#x27;s new prime minister?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-19 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +106,29 @@
                 <span class="time">2026-07-19 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/19/why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-content?traffic_source=rss" target="_blank">Why is India vetting books in Kashmir in search of ‘anti-national’ content?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-19 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Iran-missile-DB-260719_1784443460522_hpMain_4x3t_384.jpg" alt="Iran live updates: Kuwait, Bahrain report Iranian attacks following latest US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: Kuwait, Bahrain report Iranian attacks following latest US strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-19 09:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/" target="_blank">TechCrunch Mobility: The battle over robotaxi rules</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-19 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review" target="_blank">Orchid is a delightfully retro and approachable hipster synth</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-19 15:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +165,20 @@
                 <span class="time">2026-07-19 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a589941063549554fcc0b79/master/pass/SpotifyVids.jpg" alt="How to Disable Music Videos in Spotify" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-disable-all-the-music-videos-in-spotify/" target="_blank">How to Disable Music Videos in Spotify</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-19 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas" target="_blank">The grueling, 630-mile road race where the only fuel is sunlight</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-19 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/doomhammerhell/reversal-architecture-in-distributed-financial-systems-compensation-liability-and-irreversible-36l5" target="_blank">Reversal Architecture in Distributed Financial Systems: Compensation, Liability, and Irreversible Side Effects</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-19 16:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,20 +224,20 @@
                 <span class="time">2026-07-19 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amitkumar13/react-native-navigation-bottom-tabs-drawer-nested-stacks-and-a-reusable-modal-hoc-33p7" target="_blank">React Native Navigation: Bottom Tabs, Drawer, Nested Stacks, and a Reusable Modal HOC</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-19 10:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Delta_del_Ganges-Brahmaputra_28NASA_Terra-Modis29_28499689856229.jpg?fit=1700%2C2200&amp;quality=60&amp;ssl=1" alt="What is the cause of mystery booms heard around the world?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/19/barisal-guns.html" target="_blank">What is the cause of mystery booms heard around the world?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-19 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Flying_Saucer_-_NARA_NAID_303938034_cropped-1.png?fit=894%2C561&amp;quality=55&amp;ssl=1" alt="The theory that UFOs come from Earth, not space" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -246,15 +265,6 @@
                 <span class="time">2026-07-18 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/sexsomnia-sleep-sex.jpg?fit=1200%2C789&amp;quality=60&amp;ssl=1" alt="Some people initiate sex in their sleep and remember none of it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/18/sexsomnia-sleep-sex.html" target="_blank">Some people initiate sex in their sleep and remember none of it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-18 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -269,22 +279,13 @@
                 <span class="time">2026-07-18 16:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1784305213-20260718.png" alt="Saturday Morning Breakfast Cereal - List" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/list-2" target="_blank">Saturday Morning Breakfast Cereal - List</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-18 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 15:18 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 16:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
