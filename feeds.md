@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 22:15:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-19 23:16:01 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 22:15 UTC</div>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 23:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +119,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/" target="_blank">Netflix paid $587M for Ben Affleck’s AI filmmaking startup</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-19 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review" target="_blank">This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)</a></span>
                 <span class="feed">The Verge</span>
@@ -145,20 +161,20 @@
                 <span class="time">2026-07-19 17:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults" target="_blank">The FBI reportedly won’t investigate ICE anymore</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-19 16:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bitcoin_devto/satoshi-missed-the-one-paper-that-mattered-so-much-for-the-lone-genius-9an" target="_blank">Satoshi Missed the One Paper That Mattered. So Much for the Lone Genius.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-19 23:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/dingo.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s desktop icons extension completes its GTK4 port" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,20 +220,20 @@
                 <span class="time">2026-07-19 16:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/induwara_ashinsana_9e4d5b/zero-dns-setup-with-copilot-what-it-means-for-sl-devs-1k38" target="_blank">Zero DNS setup with Copilot: what it means for SL devs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-19 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/bakersfield.jpg" alt="The Fallout I’m Most Looking Forward To Isn’t A Remaster Or A Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/truth-be-told-the-fallout-im-most-looking-forward-to-is-bakersfield-2000717522" target="_blank">The Fallout I’m Most Looking Forward To Isn’t A Remaster Or A Sequel</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-19 21:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/bakersfield.jpg" alt="Truth Be Told The Fallout I’m Most Looking Forward To Is Bakersfield" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +279,6 @@
                 <span class="time">2026-07-19 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Flying_Saucer_-_NARA_NAID_303938034_cropped-1.png?fit=894%2C561&amp;quality=55&amp;ssl=1" alt="The theory that UFOs come from Earth, not space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/19/cryptoterrestrial-hypothesis.html" target="_blank">The theory that UFOs come from Earth, not space</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-19 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 22:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 23:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
