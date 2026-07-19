@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 12:13:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-19 13:27:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 12:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, July 19, 2026 - 13:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +48,15 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham will be bolder but stick to Labour manifesto, deputy leader says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-19 11:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility" target="_blank">Violence repeatedly erupts in dementia care despite warnings, inspections show</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-19 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -90,15 +95,6 @@
                 <span class="time">2026-07-19 09:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/19/world-cup-final-2026-spain-argentina-predictions-schedule-messi?traffic_source=rss" target="_blank">Spain vs Argentina: World Cup final predictions, schedule, Messi news</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-19 08:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,6 +107,15 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/" target="_blank">As mosquito ranges expand, better monitoring is key to preventing disease</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-19 11:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b9d28bd522b4f35aea0a0d/master/pass/The-Best-Power-Banks-for-All-Your-Devices.jpg" alt="Best Power Banks (2026): My Picks After Testing Over 100" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-portable-chargers-power-banks/" target="_blank">Best Power Banks (2026): My Picks After Testing Over 100</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-19 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -147,15 +152,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/" target="_blank">Waymo says San Francisco service has resumed after one-hour pause</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-18 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak" target="_blank">Google might not kneecap the Pixel 11a with an old processor</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-18 18:25</span>
             </div>
         </div>
 </div>
@@ -223,6 +219,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Flying_Saucer_-_NARA_NAID_303938034_cropped-1.png?fit=894%2C561&amp;quality=55&amp;ssl=1" alt="The theory that UFOs come from Earth, not space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/19/cryptoterrestrial-hypothesis.html" target="_blank">The theory that UFOs come from Earth, not space</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-19 12:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/terminator-2d-no-fate-1280x720.jpg" alt="Eric Trump Is Building An Army Of Humanoid Robot Soldiers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -267,15 +272,6 @@
                 <span class="time">2026-07-18 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/image-95-1280x740.jpg" alt="Baldur’s Gate 3 And Clair Obscur Actor Jennifer English Pulls Out Of New Fantasy Game Over Health Concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/baldurs-gate-3-and-clair-obscur-actor-jennifer-english-pulls-out-of-new-fantasy-game-over-health-concerns-2000717415" target="_blank">Baldur’s Gate 3 And Clair Obscur Actor Jennifer English Pulls Out Of New Fantasy Game Over Health Concerns</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-18 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 12:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 13:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
