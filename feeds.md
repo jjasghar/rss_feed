@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 11:56:40 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-20 12:44:13 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 11:56 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 12:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784548286408_now_mnn_uk_pm_burnham_260720_S3_1920x1080-2ewvfe.jpg" alt="Andy Burnham formally appointed U.K. prime minster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/andy-burnham-formally-appointed-u-k-prime-minster-266940485538" target="_blank">Andy Burnham formally appointed U.K. prime minster</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-20 11:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel?traffic_source=rss" target="_blank">Why is Iran bombing Gulf states while avoiding US naval assets and Israel?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-20 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59a/live/8b160770-83fc-11f1-8948-1f76bc360535.jpg" alt="Trump says US strikes hit Iran in &#x27;honour&#x27; of American soldiers killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US strikes hit Iran in &#x27;honour&#x27; of American soldiers killed</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-20 11:18</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Kuwait, Bahrain report Iranian attacks after night of US strikes</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-20 09:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills" target="_blank">So distressed you can&#x27;t think straight? Lower the intensity with these 4 skills</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-20 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/20/rubio-us-open-to-diplomacy-after-ninth-night-of-bombing-iran?traffic_source=rss" target="_blank">Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-20 08:41</span>
             </div>
         </div>
 </div>
@@ -175,6 +173,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/platform-engineering-product-mindset/en/mediumimage/medium-1784106920162.jpeg" alt="Presentation: Platform Engineering for Everyone - Success Can’t Be Coded" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/platform-engineering-product-mindset/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Platform Engineering for Everyone - Success Can’t Be Coded</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-20 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Firefox-153-Downloads" target="_blank">Firefox 153 Available With Support For Vulkan Video Decoding, Experimental JPEG-XL</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-20 11:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -201,22 +217,18 @@
                 <span class="time">2026-07-20 09:01</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/" target="_blank">Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-20 08:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fagundesv/cloud-bills-took-a-decade-to-get-finops-ai-bills-wont-get-that-long-4hnh" target="_blank">Cloud Bills Took a Decade to Get FinOps. AI Bills Won&#x27;t Get That Long.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-20 03:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html" target="_blank">On Flock License Plate Tracking Cameras</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-20 11:03</span>
             </div>
         </div>
 </div>
@@ -224,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/budget-games-1280x720.jpg" alt="Constant Game Sales Have Replaced What Was Once The Best Deal In Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/budget-games-lower-prices-rerelease-game-sales-cheaper-2000716197" target="_blank">Constant Game Sales Have Replaced What Was Once The Best Deal In Gaming</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-20 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/11/58051c3169b6a993768dc17824b7e5c6-1280x720.jpg" alt="The Canceled Kingdom Hearts IV Prologue’s Cinematic Has Allegedly Leaked And Fans Are Trying To Decipher It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +290,6 @@
                 <span class="time">2026-07-19 18:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Ma_pona_pi_toki_pona_-_icon_28202329.png?fit=512%2C512&amp;quality=55&amp;ssl=1" alt="A whole language built from about 120 words" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/19/toki-pona.html" target="_blank">A whole language built from about 120 words</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-19 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 11:56 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 12:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
