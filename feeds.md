@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 14:42:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-20 15:33:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 14:42 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 15:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -92,12 +86,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/International/CENTCOM-Iran-DB-260720_1784531818214_hpMain_4x3t_384.jpg" alt="Iran live updates: Pentagon releases names of 2 service members killed in Jordan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784545727239_tdy_news_7a_simmons_iran_strikes_260720_S3_1920x1080-jvqy07.jpg" alt="US Fires at Iran After 3 US Service Members Killed in Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Pentagon releases names of 2 service members killed in Jordan</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-20 11:05</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/three-us-service-members-killed-as-iran-war-escalates-266938949752" target="_blank">US Fires at Iran After 3 US Service Members Killed in Middle East</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-20 11:08</span>
             </div>
         </div>
 </div>
@@ -105,6 +99,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283652155-500x500.jpg" alt="AliExpress fined $625M for failing to remove unsafe toys, dangerous cosmetics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/" target="_blank">AliExpress fined $625M for failing to remove unsafe toys, dangerous cosmetics</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-20 15:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/" target="_blank">YouTube clarifies policies around AI slop and upsetting videos</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-20 15:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk" target="_blank">Dr. Jill Lepore on why AI backlash is vital for the future</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-20 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/doomsdayTOP-500x500.jpg" alt="The first trailer for Avengers: Doomsday is finally here" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,33 +151,6 @@
                 <span class="title"><a href="https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products" target="_blank">AliExpress fined almost $630 million over illegal product sales</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-20 11:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685d98d53dd992266cb616c8/master/pass/The%20Best%20Family%20Board%20Games.png" alt="The 35 Best Board Games for Family Game Night" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-family-board-games/" target="_blank">The 35 Best Board Games for Family Game Night</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-20 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5d62ab05dbc7f92d1b023d/master/pass/I-Tested-5-Mushroom-Growing-Methods%E2%80%94Here%E2%80%99s-What-Worked.jpg" alt="A Beginner’s Guide to Growing Mushrooms at Home (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mushroom-growing-methods/" target="_blank">A Beginner’s Guide to Growing Mushrooms at Home (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-20 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen" target="_blank">China delivers a one-two punch to America’s AI dominance</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-20 10:16</span>
             </div>
         </div>
 </div>
@@ -238,6 +232,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/thor-1280x743.jpg" alt="10 Things We Noticed In Avengers: Doomsday’s First Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/avengers-doomsday-trailer-breakdown-x-men-steve-rogeres-2000717657" target="_blank">10 Things We Noticed In Avengers: Doomsday’s First Trailer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-20 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Charlie-Kirk-in-bronze.-Photos-Furnari-.jpg?fit=1080%2C816&amp;quality=60&amp;ssl=1" alt="Crowdfunding campaign for $100k Charlie Kirk statue languishes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/20/crowdfunding-campaign-for-100k-charlie-kirk-statue-languishes.html" target="_blank">Crowdfunding campaign for $100k Charlie Kirk statue languishes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-20 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KXZXVD9JB0585XSBD2372308/hero-image.jpg" alt="This App Lets You Use Android Auto in Any Car" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/use-android-auto-in-car-with-this-app?utm_medium=RSS" target="_blank">This App Lets You Use Android Auto in Any Car</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-20 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/Fornite-Hot-Bat-Summer-skins-official-image-Epic-Games-1280x720.jpg" alt="The Internet Sure Is Being Weird About Those Fortnite Swimsuit Skins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -264,38 +285,20 @@
                 <span class="time">2026-07-20 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/11/58051c3169b6a993768dc17824b7e5c6-1280x720.jpg" alt="The Canceled Kingdom Hearts IV Prologue’s Cinematic Has Allegedly Leaked And Fans Are Trying To Decipher It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kingdom-hearts-4-missing-link-leak-cinematic-astronaut-2000717536" target="_blank">The Canceled Kingdom Hearts IV Prologue’s Cinematic Has Allegedly Leaked And Fans Are Trying To Decipher It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-20 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/bakersfield.jpg" alt="The Fallout I’m Most Looking Forward To Isn’t A Remaster Or A Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/truth-be-told-the-fallout-im-most-looking-forward-to-is-bakersfield-2000717522" target="_blank">The Fallout I’m Most Looking Forward To Isn’t A Remaster Or A Sequel</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-19 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/bakersfield.jpg" alt="Truth Be Told The Fallout I’m Most Looking Forward To Is Bakersfield" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/truth-be-told-the-fallout-im-most-looking-forward-to-is-bakersfield-2000717522" target="_blank">Truth Be Told The Fallout I’m Most Looking Forward To Is Bakersfield</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-19 21:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1784518178-20260720.png" alt="Saturday Morning Breakfast Cereal - Sword" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/sword-3" target="_blank">Saturday Morning Breakfast Cereal - Sword</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-20 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -314,22 +317,13 @@
                 <span class="time">2026-07-20 00:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1784307717-20260719-edit.png" alt="Saturday Morning Breakfast Cereal - Poof" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/poof" target="_blank">Saturday Morning Breakfast Cereal - Poof</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-19 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 14:42 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 15:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
