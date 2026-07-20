@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 21:22:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2026-07-20 22:17:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 21:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 22:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +101,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra" target="_blank">The FCC is planning to retroactively ban disguised DJI gadgets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-20 22:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1402604764-500x500.jpg" alt="Cop charged with covering bodycam to photograph naked prisoners" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/" target="_blank">Cop charged with covering bodycam to photograph naked prisoners</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-20 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/" target="_blank">Google is working on a new AI chip designed to make Gemini more efficient</a></span>
                 <span class="feed">TechCrunch</span>
@@ -139,24 +150,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale" target="_blank">Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-20 20:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5e355b82c169106ce07adf/master/pass/2286298251" alt="Fans Flocked to World Cup Host Cities—Causing 80 Percent of the Tournament’s Emissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/new-research-estimates-most-emissions-came-from-fan-travel/" target="_blank">Fans Flocked to World Cup Host Cities—Causing 80 Percent of the Tournament’s Emissions</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-20 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/12/getty-att-logo-500x500-1745953032.jpg" alt="AT&amp;T loses key ruling in bid to stop offering basic phone service in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/" target="_blank">AT&amp;T loses key ruling in bid to stop offering basic phone service in California</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-20 19:20</span>
             </div>
         </div>
 </div>
@@ -238,6 +231,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/Triple-Double-Crunchwrap-A-La-Carte-jpg-1280x720.jpg" alt="Trump FDA Sends Mixed Signals About Diarrhea Lettuce" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/trump-fda-sends-mixed-signals-about-diarrhea-lettuce-2000717770" target="_blank">Trump FDA Sends Mixed Signals About Diarrhea Lettuce</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-20 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/NIGHTBORNE-—-A-Neill-Blomkamp-Sci-Fi-Film.-Fully-AI-4K-6-44-screenshot-1280x720.jpg" alt="I Watched District 9′s Director’s New, Awful AI-Generated Movie So You Don’t Have To" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -280,15 +282,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/20/andrew-tate-another-accused-sex-offender-in-trumpworlds-orbit-arrested-in-miami.html" target="_blank">Andrew Tate, another accused sex offender in Trumpworld&#x27;s orbit, arrested in Miami</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-20 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains thinks he won the World Cup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/20/grandpa-pudding-brains-thinks-he-won-the-world-cup.html" target="_blank">Grandpa Pudding Brains thinks he won the World Cup</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-20 16:49</span>
             </div>
         </div>
 </div>
@@ -355,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 250 |
-        🔄 Last Updated: 21:23 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 22:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
