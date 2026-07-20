@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 09:12:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-20 10:58:05 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 09:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 10:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/20/what-does-irans-attack-on-kuwait-infrastructure-mean-for-gulf?traffic_source=rss" target="_blank">What does Iran’s attack on Kuwait infrastructure mean for Gulf?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-20 10:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/CENTCOM-Iran-DB-260720_1784531818214_hpMain_4x3t_384.jpg" alt="Iran live updates: Kuwait, Bahrain report Iranian attacks after night of US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Kuwait, Bahrain report Iranian attacks after night of US strikes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-20 09:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +97,29 @@
                 <span class="time">2026-07-20 05:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/20/how-a-young-and-cohesive-spain-took-down-lionel-messis-argentina?traffic_source=rss" target="_blank">How a young and cohesive Spain took down Lionel Messi’s Argentina</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-20 03:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/20/africa-shield-why-securing-development-is-becoming-a-new-security-priority?traffic_source=rss" target="_blank">Africa Shield: Why securing development is becoming a new security priority</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-20 02:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5d62ab05dbc7f92d1b023d/master/pass/I-Tested-5-Mushroom-Growing-Methods%E2%80%94Here%E2%80%99s-What-Worked.jpg" alt="A Beginner’s Guide to Growing Mushrooms at Home (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mushroom-growing-methods/" target="_blank">A Beginner’s Guide to Growing Mushrooms at Home (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-20 10:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen" target="_blank">China delivers a one-two punch to America’s AI dominance</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-20 10:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285958264-500x500.jpg" alt="India&#x27;s first privately-developed rocket reaches orbit on dramatic debut launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +156,29 @@
                 <span class="time">2026-07-19 19:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/" target="_blank">Can an Apple lawsuit derail OpenAI’s hardware plans?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-19 19:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music" target="_blank">I hate that I don’t hate this song made with Suno</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-19 17:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCC-AVX10-V2-AUX-Patches" target="_blank">AMD Posts AVX10_V2_AUX ISA Support Patches For GCC Compiler</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-20 10:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/loom-aws-agent-platform/en/headerimage/generatedHeaderImage-1784031634775.jpg" alt="AWS Releases Loom, an Open-Source Reference Platform for Governing AI Agents at Enterprise Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/loom-aws-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Releases Loom, an Open-Source Reference Platform for Governing AI Agents at Enterprise Scale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-20 10:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/dcmerritt/the-day-i-realized-it-ran-successfully-means-nothing-in-databricks-production-59cm" target="_blank">The Day I Realized &quot;It Ran Successfully&quot; Means Nothing in Databricks Production</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-20 01:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nielsenburm/launching-artificiety-an-agentic-society-in-a-fantasy-world-1o4" target="_blank">Launching Artificiety - An agentic society in a fantasy world</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-20 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bitcoin_devto/satoshi-missed-the-one-paper-that-mattered-so-much-for-the-lone-genius-9an" target="_blank">Satoshi Missed the One Paper That Mattered. So Much for the Lone Genius.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-19 23:07</span>
             </div>
         </div>
 </div>
@@ -285,6 +280,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/20/apples-and-trees" target="_blank">Apples and Trees</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-20 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5876.png" alt="The Wiggles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -307,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 09:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 10:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
