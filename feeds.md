@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 18:34:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-20 19:30:17 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 18:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 19:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8039/live/fa3e3230-8456-11f1-8cf4-43aed99842b4.png" alt="Man, 28, charged with murder of Ann Widdecombe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn4n2erympvo?at_medium=RSS&at_campaign=rss" target="_blank">Man, 28, charged with murder of Ann Widdecombe</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-20 19:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Feehan-gonzalez-ht-gmh-260720_1784568120343_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran &#x27;will pay&#x27; for killing US troops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +103,38 @@
                 <span class="time">2026-07-20 13:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784548286408_now_mnn_uk_pm_burnham_260720_S3_1920x1080-2ewvfe.jpg" alt="Andy Burnham formally appointed U.K. prime minster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/andy-burnham-formally-appointed-u-k-prime-minster-266940485538" target="_blank">Andy Burnham formally appointed U.K. prime minster</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-20 11:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/12/getty-att-logo-500x500-1745953032.jpg" alt="AT&amp;T loses key ruling in bid to stop offering basic phone service in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/" target="_blank">AT&amp;T loses key ruling in bid to stop offering basic phone service in California</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-20 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable" target="_blank">Ford&amp;#8217;s $30,000 electric truck: all the news about the company&amp;#8217;s big EV re-do</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-20 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5e1b6fc44e73a14935dd33/master/pass/2230857423" alt="Even Mild Sleep Deprivation May Lead to Weight Gain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/even-mild-sleep-deprivation-may-lead-to-weight-gain/" target="_blank">Even Mild Sleep Deprivation May Lead to Weight Gain</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-20 19:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/disccrack-500x500.jpg" alt="RIP bargain bin: The price impact of Sony&#x27;s disc-free PlayStation plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,38 +162,20 @@
                 <span class="time">2026-07-20 16:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286209291-500x500.jpg" alt="F1 in Belgium: Machine learning algorithms are ruining the sport" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/" target="_blank">F1 in Belgium: Machine learning algorithms are ruining the sport</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-20 15:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283652155-500x500.jpg" alt="AliExpress fined $625M for failing to remove unsafe toys, dangerous cosmetics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/" target="_blank">AliExpress fined $625M for failing to remove unsafe toys, dangerous cosmetics</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-20 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/" target="_blank">YouTube clarifies policies around AI slop and upsetting videos</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-20 15:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-More-Xeon-6-MRDIMMs" target="_blank">Intel Expanding Memory Options For Current Xeon 6 / Xeon 6+ Servers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-20 18:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,21 +213,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/doordash-entity-cache-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-20 13:53</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hermesxclawctrl/how-my-ai-agent-hunts-triages-and-claims-real-bug-bounties-step-by-step-3nin" target="_blank">How My AI Agent Hunts, Triages, and Claims Real Bug Bounties (Step by Step)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-20 11:51</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/" target="_blank">China&#x27;s open-weights AI strategy is winning</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-20 14:21</span>
             </div>
         </div>
 </div>
@@ -241,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg" alt="GTA Wiki Accuses Fandom Of Ripping Off Its Articles And Shares Evidence: ‘We Want Everyone To See How Shameless They Are About It’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-wiki-accuses-fandom-of-ripping-off-its-articles-and-shares-evidence-we-want-everyone-to-see-how-shameless-they-are-about-it-2000717683" target="_blank">GTA Wiki Accuses Fandom Of Ripping Off Its Articles And Shares Evidence: ‘We Want Everyone To See How Shameless They Are About It’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-20 18:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/xboxsstudiocleanupo-1280x720.jpg" alt="Forza Horizon 5 Director Reacts To The Xbox Mess: ‘The Concept Of Game Pass Was Good…Unfortunately It Didn’t Work’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,20 +294,20 @@
                 <span class="time">2026-07-20 15:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Charlie-Kirk-in-bronze.-Photos-Furnari-.jpg?fit=1080%2C816&amp;quality=60&amp;ssl=1" alt="Crowdfunding campaign for $100k Charlie Kirk statue languishes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/20/crowdfunding-campaign-for-100k-charlie-kirk-statue-languishes.html" target="_blank">Crowdfunding campaign for $100k Charlie Kirk statue languishes</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-20 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/20/apples-and-trees" target="_blank">Apples and Trees</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-20 18:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -350,8 +358,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 18:34 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 19:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
