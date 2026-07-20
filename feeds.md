@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 10:58:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-20 11:56:40 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 10:58 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 11:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel?traffic_source=rss" target="_blank">Why is Iran bombing Gulf states while avoiding US naval assets and Israel?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-20 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/CENTCOM-Iran-DB-260720_1784531818214_hpMain_4x3t_384.jpg" alt="Iran live updates: Pentagon releases names of 2 service members killed in Jordan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Pentagon releases names of 2 service members killed in Jordan</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-20 11:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +101,38 @@
                 <span class="time">2026-07-20 08:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/CENTCOM-Iran-DB-260720_1784531818214_hpMain_4x3t_384.jpg" alt="Iran live updates: Kuwait attacked, Bahrain sounds sirens after night of US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Kuwait attacked, Bahrain sounds sirens after night of US strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-20 07:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss" target="_blank">Protest held in Houston over ICE killing of Lorenzo Salgado Araujo</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-20 05:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-500x500-1784313873.jpg" alt="Beyond grep: The case for a context-rich AI coding harness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/" target="_blank">Beyond grep: The case for a context-rich AI coding harness</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-20 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products" target="_blank">AliExpress fined almost $630 million over illegal product sales</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-20 11:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685d98d53dd992266cb616c8/master/pass/The%20Best%20Family%20Board%20Games.png" alt="The 35 Best Board Games for Family Game Night" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-family-board-games/" target="_blank">The 35 Best Board Games for Family Game Night</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-20 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a5d62ab05dbc7f92d1b023d/master/pass/I-Tested-5-Mushroom-Growing-Methods%E2%80%94Here%E2%80%99s-What-Worked.jpg" alt="A Beginner’s Guide to Growing Mushrooms at Home (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,38 +160,20 @@
                 <span class="time">2026-07-19 22:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/" target="_blank">Netflix paid $587M for Ben Affleck’s AI filmmaking startup</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-19 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review" target="_blank">This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-19 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera" target="_blank">Kodak EC35 is a dirt-cheap point-and-shoot film camera</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-19 19:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hermesxclawctrl/how-my-ai-agent-hunts-triages-and-claims-real-bug-bounties-step-by-step-3nin" target="_blank">How My AI Agent Hunts, Triages, and Claims Real Bug Bounties (Step by Step)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-20 11:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/fagundesv/cloud-bills-took-a-decade-to-get-finops-ai-bills-wont-get-that-long-4hnh" target="_blank">Cloud Bills Took a Decade to Get FinOps. AI Bills Won&#x27;t Get That Long.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-20 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dcmerritt/the-day-i-realized-it-ran-successfully-means-nothing-in-databricks-production-59cm" target="_blank">The Day I Realized &quot;It Ran Successfully&quot; Means Nothing in Databricks Production</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-20 01:12</span>
             </div>
         </div>
 </div>
@@ -311,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 10:58 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 11:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
