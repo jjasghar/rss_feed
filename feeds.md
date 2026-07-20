@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 17:32:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-20 18:34:46 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 17:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 18:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Feehan-gonzalez-ht-gmh-260720_1784568120343_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran &#x27;will pay&#x27; for killing US troops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Trump says Iran &#x27;will pay&#x27; for killing US troops</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-20 18:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss" target="_blank">Trump vows Iran will ‘pay’ for killing US soldiers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-20 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/20/nx-s1-5900888/paramount-wbd-tro-restraining-lawsuit" target="_blank">Court ruling freezes Paramount-Warner Bros. merger for now</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-20 17:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +104,29 @@
                 <span class="time">2026-07-20 11:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel?traffic_source=rss" target="_blank">Why is Iran bombing Gulf states while avoiding US naval assets and Israel?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-20 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59a/live/8b160770-83fc-11f1-8948-1f76bc360535.jpg" alt="Trump says US strikes hit Iran in &#x27;honour&#x27; of American soldiers killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US strikes hit Iran in &#x27;honour&#x27; of American soldiers killed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-20 11:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784545727239_tdy_news_7a_simmons_iran_strikes_260720_S3_1920x1080-jvqy07.jpg" alt="US Fires at Iran After 3 US Service Members Killed in Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/three-us-service-members-killed-as-iran-war-escalates-266938949752" target="_blank">US Fires at Iran After 3 US Service Members Killed in Middle East</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-20 11:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/disccrack-500x500.jpg" alt="RIP bargain bin: The price impact of Sony&#x27;s disc-free PlayStation plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/" target="_blank">RIP bargain bin: The price impact of Sony&#x27;s disc-free PlayStation plan</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-20 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/" target="_blank">Judge pauses $110B Paramount-Warner Bros merger</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-20 17:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +163,6 @@
                 <span class="time">2026-07-20 15:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk" target="_blank">Dr. Jill Lepore on why AI backlash is vital for the future</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-20 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/doomsdayTOP-500x500.jpg" alt="The first trailer for Avengers: Doomsday is finally here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/" target="_blank">The first trailer for Avengers: Doomsday is finally here</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-20 14:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +184,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-SPIR-V-Reality-2026" target="_blank">AMD Talks Up The Great Opportunities Of SPIR-V IR With ROCm</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-20 16:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/" target="_blank">$100 million for open source: A milestone built by the community</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-20 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +222,6 @@
                 <span class="time">2026-07-20 11:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/platform-engineering-product-mindset/en/mediumimage/medium-1784106920162.jpeg" alt="Presentation: Platform Engineering for Everyone - Success Can’t Be Coded" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/platform-engineering-product-mindset/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Platform Engineering for Everyone - Success Can’t Be Coded</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-20 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/xboxsstudiocleanupo-1280x720.jpg" alt="Forza Horizon 5 Director Reacts To The Xbox Mess: ‘The Concept Of Game Pass Was Good…Unfortunately It Didn’t Work’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/forza-horizon-5-director-reacts-to-the-xbox-mess-the-concept-of-game-pass-was-good-unfortunately-it-didnt-work-2000717725" target="_blank">Forza Horizon 5 Director Reacts To The Xbox Mess: ‘The Concept Of Game Pass Was Good…Unfortunately It Didn’t Work’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-20 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY0AQ9NDSSVZ5Q76P5PJ0EA7/hero-image.png" alt="This LiDAR-Powered Robot Lawn Mower Is $700 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/neomow-x-se-robot-lawn-mower-deal-july-2026?utm_medium=RSS" target="_blank">This LiDAR-Powered Robot Lawn Mower Is $700 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/tate-romania-e1739895966638.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Andrew Tate, another accused sex offender in Trumpworld&#x27;s orbit, arrested in Miami" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/20/andrew-tate-another-accused-sex-offender-in-trumpworlds-orbit-arrested-in-miami.html" target="_blank">Andrew Tate, another accused sex offender in Trumpworld&#x27;s orbit, arrested in Miami</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-20 17:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains thinks he won the World Cup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,38 +295,20 @@
                 <span class="time">2026-07-20 14:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KXZXVD9JB0585XSBD2372308/hero-image.jpg" alt="This App Lets You Use Android Auto in Any Car" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/use-android-auto-in-car-with-this-app?utm_medium=RSS" target="_blank">This App Lets You Use Android Auto in Any Car</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-20 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/Fornite-Hot-Bat-Summer-skins-official-image-Epic-Games-1280x720.jpg" alt="The Internet Sure Is Being Weird About Those Fortnite Swimsuit Skins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-internet-sure-is-being-weird-about-those-fortnite-swimsuit-skins-2000717529" target="_blank">The Internet Sure Is Being Weird About Those Fortnite Swimsuit Skins</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-20 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/703204556_122221985486051826_2398798284761367920_n-1536x804-1.jpg?fit=1536%2C804&amp;quality=60&amp;ssl=1" alt="&quot;You&#x27;ll love our meat in your mouth&quot; slogan gets food truck booted from berth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/20/youll-love-our-meat-in-your-mouth-slogan-gets-food-truck-booted-from-berth.html" target="_blank">&quot;You&#x27;ll love our meat in your mouth&quot; slogan gets food truck booted from berth</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-20 13:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/20/echoes-of-aincrad-thoughts" target="_blank">Echoes of Aincrad thoughts</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-20 17:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1784518178-20260720.png" alt="Saturday Morning Breakfast Cereal - Sword" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -332,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 17:32 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 18:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
