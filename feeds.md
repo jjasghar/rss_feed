@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 07:58:42 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-20 09:12:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 07:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 09:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills" target="_blank">So distressed you can&#x27;t think straight? Lower the intensity with these 4 skills</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-20 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/20/rubio-us-open-to-diplomacy-after-ninth-night-of-bombing-iran?traffic_source=rss" target="_blank">Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-20 08:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/CENTCOM-Iran-DB-260720_1784531818214_hpMain_4x3t_384.jpg" alt="Iran live updates: Kuwait attacked, Bahrain sounds sirens after night of US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/20/africa-shield-why-securing-development-is-becoming-a-new-security-priority?traffic_source=rss" target="_blank">Africa Shield: Why securing development is becoming a new security priority</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-20 02:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss" target="_blank">Iran war live: US military carries out another wave of strikes on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-20 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d9/live/28be34e0-83fb-11f1-bee8-53ce494e1abc.jpg" alt="Chris Mason: Burnham is fifth PM in four years - now he&#x27;ll try to buck the trend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr7knml2y99o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Burnham is fifth PM in four years - now he&#x27;ll try to buck the trend</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-19 23:53</span>
             </div>
         </div>
 </div>
@@ -169,6 +170,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sbt112321321/integrating-open-weight-llm-apis-a-developers-guide-to-transparent-ai-integration-1ac6" target="_blank">Integrating Open-Weight LLM APIs: A Developer&#x27;s Guide to Transparent AI Integration</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-20 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/" target="_blank">Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-20 08:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/fagundesv/cloud-bills-took-a-decade-to-get-finops-ai-bills-wont-get-that-long-4hnh" target="_blank">Cloud Bills Took a Decade to Get FinOps. AI Bills Won&#x27;t Get That Long.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-20 03:00</span>
@@ -199,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/bitcoin_devto/satoshi-missed-the-one-paper-that-mattered-so-much-for-the-lone-genius-9an" target="_blank">Satoshi Missed the One Paper That Mattered. So Much for the Lone Genius.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-19 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/dingo.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s desktop icons extension completes its GTK4 port" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-desktop-icons-extension-gtk4-port" target="_blank">Ubuntu’s desktop icons extension completes its GTK4 port</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-19 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc4-Released" target="_blank">Linux 7.2-rc4 Released: Looking Like The &quot;New Normal&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-19 21:16</span>
             </div>
         </div>
 </div>
@@ -306,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 07:58 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 09:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
