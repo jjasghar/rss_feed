@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 13:31:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-20 14:42:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 13:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 14:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/20/petro-to-give-farewell-speech-amid-colombia-transfer-of-power-tensions?traffic_source=rss" target="_blank">Petro to give farewell speech amid Colombia transfer-of-power tensions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-20 13:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push" target="_blank">Putin meets North Korean foreign minister in diplomatic push</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-20 13:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784548286408_now_mnn_uk_pm_burnham_260720_S3_1920x1080-2ewvfe.jpg" alt="Andy Burnham formally appointed U.K. prime minster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +100,20 @@
                 <span class="time">2026-07-20 11:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/20/what-does-irans-attack-on-kuwait-infrastructure-mean-for-gulf?traffic_source=rss" target="_blank">What does Iran’s attack on Kuwait infrastructure mean for Gulf?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-20 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/CENTCOM-Iran-DB-260720_1784531818214_hpMain_4x3t_384.jpg" alt="Iran live updates: Kuwait, Bahrain report Iranian attacks after night of US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Kuwait, Bahrain report Iranian attacks after night of US strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-20 09:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/doomsdayTOP-500x500.jpg" alt="The first trailer for Avengers: Doomsday is finally here" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/" target="_blank">The first trailer for Avengers: Doomsday is finally here</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-20 14:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-500x500-1784313873.jpg" alt="Beyond grep: The case for a context-rich AI coding harness" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +159,29 @@
                 <span class="time">2026-07-20 10:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285958264-500x500.jpg" alt="India&#x27;s first privately-developed rocket reaches orbit on dramatic debut launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/" target="_blank">India&#x27;s first privately-developed rocket reaches orbit on dramatic debut launch</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-19 22:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/uaslimcreate/testing-fastapi-endpoints-from-unit-tests-to-integration-tests-with-postgresql-36dj" target="_blank">Testing FastAPI Endpoints: From Unit Tests to Integration Tests with PostgreSQL</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-20 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/doordash-entity-cache-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-20 13:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +218,6 @@
                 <span class="time">2026-07-20 10:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/loom-aws-agent-platform/en/headerimage/generatedHeaderImage-1784031634775.jpg" alt="AWS Releases Loom, an Open-Source Reference Platform for Governing AI Agents at Enterprise Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/loom-aws-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Releases Loom, an Open-Source Reference Platform for Governing AI Agents at Enterprise Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-20 10:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sbt112321321/integrating-open-weight-llm-apis-a-developers-guide-to-transparent-ai-integration-1ac6" target="_blank">Integrating Open-Weight LLM APIs: A Developer&#x27;s Guide to Transparent AI Integration</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-20 09:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/Fornite-Hot-Bat-Summer-skins-official-image-Epic-Games-1280x720.jpg" alt="The Internet Sure Is Being Weird About Those Fortnite Swimsuit Skins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-internet-sure-is-being-weird-about-those-fortnite-swimsuit-skins-2000717529" target="_blank">The Internet Sure Is Being Weird About Those Fortnite Swimsuit Skins</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-20 14:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/703204556_122221985486051826_2398798284761367920_n-1536x804-1.jpg?fit=1536%2C804&amp;quality=60&amp;ssl=1" alt="&quot;You&#x27;ll love our meat in your mouth&quot; slogan gets food truck booted from berth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/20/youll-love-our-meat-in-your-mouth-slogan-gets-food-truck-booted-from-berth.html" target="_blank">&quot;You&#x27;ll love our meat in your mouth&quot; slogan gets food truck booted from berth</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-20 13:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/budget-games-1280x720.jpg" alt="Constant Game Sales Have Replaced What Was Once The Best Deal In Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/truth-be-told-the-fallout-im-most-looking-forward-to-is-bakersfield-2000717522" target="_blank">Truth Be Told The Fallout I’m Most Looking Forward To Is Bakersfield</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-19 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/pokemonghosttothepolls-1280x753.jpg" alt="The New England Road Trip Haunted By Pokémon Go And The AR Game That Made A Summer Stranger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-new-england-road-trip-haunted-by-pokemon-go-and-the-ar-game-that-made-a-summer-stranger-2000717519" target="_blank">The New England Road Trip Haunted By Pokémon Go And The AR Game That Made A Summer Stranger</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-19 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/verception.jpg" alt="Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510" target="_blank">Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-19 18:10</span>
             </div>
         </div>
 </div>
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 13:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 14:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
