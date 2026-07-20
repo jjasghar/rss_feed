@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 16:27:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-20 17:32:34 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 16:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 17:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +101,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale" target="_blank">LG&amp;#8217;s glossy OLED gaming monitor is rare to find under $400</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-20 16:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286209291-500x500.jpg" alt="F1 in Belgium: Machine learning algorithms are ruining the sport" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -146,20 +154,20 @@
                 <span class="time">2026-07-20 14:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-500x500-1784313873.jpg" alt="Beyond grep: The case for a context-rich AI coding harness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/" target="_blank">Beyond grep: The case for a context-rich AI coding harness</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-20 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hellmaca/my-embedding-server-died-and-i-didnt-notice-for-two-weeks-1hol" target="_blank">My embedding server died and I didn&#x27;t notice for two weeks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-20 17:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +213,6 @@
                 <span class="time">2026-07-20 11:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Firefox-153-Downloads" target="_blank">Firefox 153 Available With Support For Vulkan Video Decoding, Experimental JPEG-XL</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-20 11:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains thinks he won the World Cup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/20/grandpa-pudding-brains-thinks-he-won-the-world-cup.html" target="_blank">Grandpa Pudding Brains thinks he won the World Cup</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-20 16:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/thor-1280x743.jpg" alt="10 Things We Noticed In Avengers: Doomsday’s First Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +284,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/20/youll-love-our-meat-in-your-mouth-slogan-gets-food-truck-booted-from-berth.html" target="_blank">&quot;You&#x27;ll love our meat in your mouth&quot; slogan gets food truck booted from berth</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-20 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/budget-games-1280x720.jpg" alt="Constant Game Sales Have Replaced What Was Once The Best Deal In Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/budget-games-lower-prices-rerelease-game-sales-cheaper-2000716197" target="_blank">Constant Game Sales Have Replaced What Was Once The Best Deal In Gaming</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-20 11:00</span>
             </div>
         </div>
 </div>
@@ -334,7 +333,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 16:28 UTC
+        🔄 Last Updated: 17:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
