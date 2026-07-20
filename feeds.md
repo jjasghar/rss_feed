@@ -1,23 +1,17 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 01:31:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-20 03:25:00 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
@@ -25,21 +19,19 @@
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 36 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 01:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 03:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/20/africa-shield-why-securing-development-is-becoming-a-new-security-priority?traffic_source=rss" target="_blank">Africa Shield: Why securing development is becoming a new security priority</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-20 02:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,15 +99,6 @@
                 <span class="title"><a href="https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ferran-torres-anota-el-gol-que-vale-un-mundial-para-espana-tmvo13205269" target="_blank">Ferran Torres anota el gol que vale un Mundial para España</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-07-19 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber" target="_blank">A cavalcade of international stars headlined the World Cup&#x27;s first-ever halftime final show</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-19 21:29</span>
             </div>
         </div>
 </div>
@@ -177,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fagundesv/cloud-bills-took-a-decade-to-get-finops-ai-bills-wont-get-that-long-4hnh" target="_blank">Cloud Bills Took a Decade to Get FinOps. AI Bills Won&#x27;t Get That Long.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-20 03:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dcmerritt/the-day-i-realized-it-ran-successfully-means-nothing-in-databricks-production-59cm" target="_blank">The Day I Realized &quot;It Ran Successfully&quot; Means Nothing in Databricks Production</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-20 01:12</span>
@@ -218,20 +219,20 @@
                 <span class="time">2026-07-19 21:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/netflix-llm-homepage-generation/en/headerimage/netflix-genpage-recommender-1784476882801.jpeg" alt="How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/netflix-llm-homepage-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-19 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/11/58051c3169b6a993768dc17824b7e5c6-1280x720.jpg" alt="The Canceled Kingdom Hearts IV Prologue’s Cinematic Has Allegedly Leaked And Fans Are Trying To Decipher It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kingdom-hearts-4-missing-link-leak-cinematic-astronaut-2000717536" target="_blank">The Canceled Kingdom Hearts IV Prologue’s Cinematic Has Allegedly Leaked And Fans Are Trying To Decipher It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-20 01:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/bakersfield.jpg" alt="The Fallout I’m Most Looking Forward To Isn’t A Remaster Or A Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,20 +278,20 @@
                 <span class="time">2026-07-19 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Delta_del_Ganges-Brahmaputra_28NASA_Terra-Modis29_28499689856229.jpg?fit=1700%2C2200&amp;quality=60&amp;ssl=1" alt="What is the cause of mystery booms heard around the world?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/19/barisal-guns.html" target="_blank">What is the cause of mystery booms heard around the world?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-19 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5876.png" alt="The Wiggles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5876" target="_blank">The Wiggles</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-20 00:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1784307717-20260719-edit.png" alt="Saturday Morning Breakfast Cereal - Poof" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -305,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 01:32 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 03:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
