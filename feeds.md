@@ -1,29 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 22:17:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-07-20 23:18:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 22:17 UTC</div>
+    <div class="newspaper-date">Monday, July 20, 2026 - 23:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/20/what-are-the-new-british-prime-ministers-biggest-challenges?traffic_source=rss" target="_blank">What are the new British Prime Minister’s biggest challenges?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-20 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-260720_1784552917884_hpMain_4x3t_384.jpg" alt="Trump slaps additional 50% tariff on certain Canadian goods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-slaps-additional-50-tariff-canadian-goods/story?id=134929955" target="_blank">Trump slaps additional 50% tariff on certain Canadian goods</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-20 22:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/900b/live/19b1fef0-847d-11f1-8f17-6fca617ac634.jpg" alt="US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,24 +106,6 @@
                 <span class="time">2026-07-20 20:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament" target="_blank">10 things that wowed us at the 2026 World Cup</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-20 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8039/live/fa3e3230-8456-11f1-8cf4-43aed99842b4.png" alt="Man, 28, charged with murder of Ann Widdecombe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn4n2erympvo?at_medium=RSS&at_campaign=rss" target="_blank">Man, 28, charged with murder of Ann Widdecombe</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-20 19:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -102,9 +115,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright" target="_blank">Here are the 30,000 songs Sony is suing Udio&amp;#8217;s AI music generator over</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-20 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra" target="_blank">The FCC is planning to retroactively ban disguised DJI gadgets</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-20 22:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1402604764-500x500.jpg" alt="DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/" target="_blank">DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-20 22:15</span>
             </div>
         </div>
 <div class="story">
@@ -134,29 +165,20 @@
                 <span class="time">2026-07-20 21:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained" target="_blank">SpaceX in your index fund, explained</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-20 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale" target="_blank">Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-20 20:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/firefox-153.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 153 released with buil-in containers, QR Code generator + more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/firefox-153-new-containers-feature" target="_blank">Firefox 153 released with buil-in containers, QR Code generator + more</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-20 22:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +224,6 @@
                 <span class="time">2026-07-20 18:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hellmaca/my-embedding-server-died-and-i-didnt-notice-for-two-weeks-1hol" target="_blank">My embedding server died and I didn&#x27;t notice for two weeks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-20 17:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/01/b5957db8c7d2789669e4e99a7bf79b10.jpg" alt="Reported Director Of Obsidian’s Upcoming Fallout Game Says RPGS Are ‘At Their Best…When You Can’t Control Everything’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/reported-director-of-obsidians-upcoming-fallout-game-says-rpgs-are-at-their-best-when-you-cant-control-everything-2000717793" target="_blank">Reported Director Of Obsidian’s Upcoming Fallout Game Says RPGS Are ‘At Their Best…When You Can’t Control Everything’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-20 22:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/Triple-Double-Crunchwrap-A-La-Carte-jpg-1280x720.jpg" alt="Trump FDA Sends Mixed Signals About Diarrhea Lettuce" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -249,6 +271,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Image-charles-taylor-Shutterstock.jpg?fit=1080%2C746&amp;quality=60&amp;ssl=1" alt="Humanoid robot keeps fighting, even after his block was knocked off!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/20/humanoid-robot-keeps-fighting-even-after-his-block-was-knocked-off.html" target="_blank">Humanoid robot keeps fighting, even after his block was knocked off!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-20 20:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg" alt="GTA Wiki Accuses Fandom Of Ripping Off Its Articles And Shares Evidence: ‘We Want Everyone To See How Shameless They Are About It’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -264,24 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/forza-horizon-5-director-reacts-to-the-xbox-mess-the-concept-of-game-pass-was-good-unfortunately-it-didnt-work-2000717725" target="_blank">Forza Horizon 5 Director Reacts To The Xbox Mess: ‘The Concept Of Game Pass Was Good…Unfortunately It Didn’t Work’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-20 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KY0AQ9NDSSVZ5Q76P5PJ0EA7/hero-image.png" alt="This LiDAR-Powered Robot Lawn Mower Is $700 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/neomow-x-se-robot-lawn-mower-deal-july-2026?utm_medium=RSS" target="_blank">This LiDAR-Powered Robot Lawn Mower Is $700 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/tate-romania-e1739895966638.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Andrew Tate, another accused sex offender in Trumpworld&#x27;s orbit, arrested in Miami" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/20/andrew-tate-another-accused-sex-offender-in-trumpworlds-orbit-arrested-in-miami.html" target="_blank">Andrew Tate, another accused sex offender in Trumpworld&#x27;s orbit, arrested in Miami</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-20 17:22</span>
             </div>
         </div>
 </div>
@@ -348,8 +361,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 22:17 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 107 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 23:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
