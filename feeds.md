@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 20:27:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-20 21:22:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 20:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 21:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +47,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/900b/live/19b1fef0-847d-11f1-8f17-6fca617ac634.jpg" alt="US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss" target="_blank">US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-20 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss" target="_blank">How will Zelenskyy handle the growing political crisis at home?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-20 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/darline-graham-2-gty-gmh-260720_1784575108894_hpMain_4x3t_384.jpg" alt="Darline Graham, Lindsey Graham&#x27;s sister, says she will run for full Senate term" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/darline-graham-lindsey-grahams-sister-run-full-senate/story?id=134926606" target="_blank">Darline Graham, Lindsey Graham&#x27;s sister, says she will run for full Senate term</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-20 20:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59a/live/8b160770-83fc-11f1-8948-1f76bc360535.jpg" alt="Trump warns Iran will pay &#x27;many times over&#x27; for deaths of US soldiers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss" target="_blank">Trump warns Iran will pay &#x27;many times over&#x27; for deaths of US soldiers</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-20 20:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament" target="_blank">10 things that wowed us at the 2026 World Cup</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-20 19:56</span>
             </div>
         </div>
 <div class="story">
@@ -63,47 +100,38 @@
                 <span class="time">2026-07-20 19:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Feehan-gonzalez-ht-gmh-260720_1784568120343_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran &#x27;will pay&#x27; for killing US troops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Trump says Iran &#x27;will pay&#x27; for killing US troops</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-20 18:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss" target="_blank">Trump vows Iran will ‘pay’ for killing US soldiers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-20 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/20/nx-s1-5900888/paramount-wbd-tro-restraining-lawsuit" target="_blank">Court ruling freezes Paramount-Warner Bros. merger for now</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-20 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/20/petro-to-give-farewell-speech-amid-colombia-transfer-of-power-tensions?traffic_source=rss" target="_blank">Petro to give farewell speech amid Colombia transfer-of-power tensions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-20 13:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/" target="_blank">Google is working on a new AI chip designed to make Gemini more efficient</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-20 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-500x500-1783966818.jpg" alt="Judge halts Paramount&#x27;s $111B purchase of Warner Bros. in win for US states" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/" target="_blank">Judge halts Paramount&#x27;s $111B purchase of Warner Bros. in win for US states</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-20 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained" target="_blank">SpaceX in your index fund, explained</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-20 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +159,20 @@
                 <span class="time">2026-07-20 19:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable" target="_blank">Ford&amp;#8217;s $30,000 electric truck: all the news about the company&amp;#8217;s big EV re-do</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-20 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5e1b6fc44e73a14935dd33/master/pass/2230857423" alt="Even Mild Sleep Deprivation May Lead to Weight Gain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/even-mild-sleep-deprivation-may-lead-to-weight-gain/" target="_blank">Even Mild Sleep Deprivation May Lead to Weight Gain</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-20 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/disccrack-500x500.jpg" alt="RIP bargain bin: The price impact of Sony&#x27;s disc-free PlayStation plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/" target="_blank">RIP bargain bin: The price impact of Sony&#x27;s disc-free PlayStation plan</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-20 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alejandxr/hollowgraph-malware-uses-microsoft-365-calendar-events-as-dead-drop-c2-channel-5h02" target="_blank">HollowGraph Malware Uses Microsoft 365 Calendar Events as Dead-Drop C2 Channel</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-20 21:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +218,6 @@
                 <span class="time">2026-07-20 17:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-SPIR-V-Reality-2026" target="_blank">AMD Talks Up The Great Opportunities Of SPIR-V IR With ROCm</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-20 16:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/NIGHTBORNE-—-A-Neill-Blomkamp-Sci-Fi-Film.-Fully-AI-4K-6-44-screenshot-1280x720.jpg" alt="I Watched District 9′s Director’s New, Awful AI-Generated Movie So You Don’t Have To" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/district-9-director-ai-generated-short-film-nightborne-2000717745" target="_blank">I Watched District 9′s Director’s New, Awful AI-Generated Movie So You Don’t Have To</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-20 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg" alt="GTA Wiki Accuses Fandom Of Ripping Off Its Articles And Shares Evidence: ‘We Want Everyone To See How Shameless They Are About It’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/20/grandpa-pudding-brains-thinks-he-won-the-world-cup.html" target="_blank">Grandpa Pudding Brains thinks he won the World Cup</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-20 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/thor-1280x743.jpg" alt="10 Things We Noticed In Avengers: Doomsday’s First Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/avengers-doomsday-trailer-breakdown-x-men-steve-rogeres-2000717657" target="_blank">10 Things We Noticed In Avengers: Doomsday’s First Trailer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-20 15:25</span>
             </div>
         </div>
 </div>
@@ -354,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 20:27 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 250 |
+        🔄 Last Updated: 21:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
