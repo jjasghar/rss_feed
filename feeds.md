@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 19:30:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-20 20:27:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 19:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 20:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59a/live/8b160770-83fc-11f1-8948-1f76bc360535.jpg" alt="Trump warns Iran will pay &#x27;many times over&#x27; for deaths of US soldiers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss" target="_blank">Trump warns Iran will pay &#x27;many times over&#x27; for deaths of US soldiers</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-20 20:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8039/live/fa3e3230-8456-11f1-8cf4-43aed99842b4.png" alt="Man, 28, charged with murder of Ann Widdecombe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +99,29 @@
                 <span class="time">2026-07-20 13:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push" target="_blank">Putin meets North Korean foreign minister in diplomatic push</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-20 13:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale" target="_blank">Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-20 20:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5e355b82c169106ce07adf/master/pass/2286298251" alt="Fans Flocked to World Cup Host Cities—Causing 80 Percent of the Tournament’s Emissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/new-research-estimates-most-emissions-came-from-fan-travel/" target="_blank">Fans Flocked to World Cup Host Cities—Causing 80 Percent of the Tournament’s Emissions</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-20 19:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/12/getty-att-logo-500x500-1745953032.jpg" alt="AT&amp;T loses key ruling in bid to stop offering basic phone service in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,24 +158,6 @@
                 <span class="time">2026-07-20 18:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/" target="_blank">Judge pauses $110B Paramount-Warner Bros merger</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-20 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale" target="_blank">LG&amp;#8217;s glossy OLED gaming monitor is rare to find under $400</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-20 16:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,10 +166,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anusha_mukka/data-is-the-real-model-governance-lineage-and-provenance-1eo3" target="_blank">Data Is the Real Model: Governance, Lineage, and Provenance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-20 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NetworkManager-1.58" target="_blank">NetworkManager 1.58 Released With 464XLAT CLAT Support &amp; GENEVE Interface</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-20 20:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-More-Xeon-6-MRDIMMs" target="_blank">Intel Expanding Memory Options For Current Xeon 6 / Xeon 6+ Servers</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-20 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/java-news-roundup-jul13-2026/en/headerimage/java-news-roundup-image-1784573126569.jpg" alt="Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/java-news-roundup-jul13-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-20 18:45</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-SPIR-V-Reality-2026" target="_blank">AMD Talks Up The Great Opportunities Of SPIR-V IR With ROCm</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-20 16:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/" target="_blank">$100 million for open source: A milestone built by the community</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-20 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/uaslimcreate/testing-fastapi-endpoints-from-unit-tests-to-integration-tests-with-postgresql-36dj" target="_blank">Testing FastAPI Endpoints: From Unit Tests to Integration Tests with PostgreSQL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-20 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/" target="_blank">China&#x27;s open-weights AI strategy is winning</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-20 14:21</span>
             </div>
         </div>
 </div>
@@ -358,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 19:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 20:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
