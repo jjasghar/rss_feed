@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-19 23:16:01 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-20 00:20:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, July 19, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 00:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss" target="_blank">US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-19 23:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Iran-missile-DB-260719_1784443460522_hpMain_4x3t_384.jpg" alt="Iran live updates: US service member killed, another wounded, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698" target="_blank">Iran live updates: US service member killed, another wounded, CENTCOM says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-19 23:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/Thumb-d5ug2a.jpg" alt="Watch highlights from the 2026 World Cup final" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-highlights-from-the-2026-world-cup-final-266921541907" target="_blank">Watch highlights from the 2026 World Cup final</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-19 22:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/telemundocms/MPX/image/NBCU_Telemundo/852/759/47267789941-1080pnbcstations.jpg" alt="Ferran Torres anota el gol que vale un Mundial para España" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,33 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss" target="_blank">Israeli ministers join march to Gaza to demand return of settlements</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-19 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg" alt="US soldier killed and one injured after Iranian attack in Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss" target="_blank">US soldier killed and one injured after Iranian attack in Iraq</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-19 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/mullin-1-ap-gmh-260717_1784301533321_hpMain_4x3t_384.jpg" alt="System that DHS is urging states to use known to return faulty results: reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/system-dhs-urging-states-assess-voter-rolls-return/story?id=134863557" target="_blank">System that DHS is urging states to use known to return faulty results: reports</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-19 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/c05bf310-83a5-11f1-8175-0b71720eeb65.jpg" alt="Burnham to promise to give people &#x27;more breathing room&#x27; in first speech as PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to promise to give people &#x27;more breathing room&#x27; in first speech as PM</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-19 19:08</span>
             </div>
         </div>
 </div>
@@ -170,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nielsenburm/launching-artificiety-an-agentic-society-in-a-fantasy-world-1o4" target="_blank">Launching Artificiety - An agentic society in a fantasy world</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-20 00:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bitcoin_devto/satoshi-missed-the-one-paper-that-mattered-so-much-for-the-lone-genius-9an" target="_blank">Satoshi Missed the One Paper That Mattered. So Much for the Lone Genius.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-19 23:07</span>
@@ -209,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/dvershinin/nginx-abuse-guard-module-auto-ban-scanners-and-bots-3a93" target="_blank">NGINX Abuse Guard Module: Auto-Ban Scanners and Bots</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-19 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/doomhammerhell/reversal-architecture-in-distributed-financial-systems-compensation-liability-and-irreversible-36l5" target="_blank">Reversal Architecture in Distributed Financial Systems: Compensation, Liability, and Irreversible Side Effects</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-19 16:05</span>
             </div>
         </div>
 </div>
@@ -298,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 00:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
