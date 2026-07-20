@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 15:33:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-20 16:27:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 15:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, July 20, 2026 - 16:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +102,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286209291-500x500.jpg" alt="F1 in Belgium: Machine learning algorithms are ruining the sport" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/" target="_blank">F1 in Belgium: Machine learning algorithms are ruining the sport</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-20 15:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283652155-500x500.jpg" alt="AliExpress fined $625M for failing to remove unsafe toys, dangerous cosmetics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -144,20 +155,20 @@
                 <span class="time">2026-07-20 11:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products" target="_blank">AliExpress fined almost $630 million over illegal product sales</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-20 11:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-SPIR-V-Reality-2026" target="_blank">AMD Talks Up The Great Opportunities Of SPIR-V IR With ROCm</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-20 16:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Firefox-153-Downloads" target="_blank">Firefox 153 Available With Support For Vulkan Video Decoding, Experimental JPEG-XL</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-20 11:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GCC-AVX10-V2-AUX-Patches" target="_blank">AMD Posts AVX10_V2_AUX ISA Support Patches For GCC Compiler</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-20 10:27</span>
             </div>
         </div>
 </div>
@@ -309,6 +311,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/arthurian_connector.png" alt="Arthurian Connector" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3274/" target="_blank">Arthurian Connector</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-07-20 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5876.png" alt="The Wiggles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -322,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 15:34 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 16:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
