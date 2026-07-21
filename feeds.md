@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 16:27:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-21 17:27:49 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 16:28 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 17:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46ee/live/0e6c41b0-8511-11f1-926f-c90d1bcfbc84.jpg" alt="Ann Widdecombe was hit on head 21 times with hammer, prosecutors say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj03r77n07jo?at_medium=RSS&at_campaign=rss" target="_blank">Ann Widdecombe was hit on head 21 times with hammer, prosecutors say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-21 15:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +99,29 @@
                 <span class="time">2026-07-21 11:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora" target="_blank">Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-21 11:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale" target="_blank">Nearly every Kindle is steeply discounted at Best Buy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-21 17:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/" target="_blank">Google releases three new Gemini models — but no 3.5 Pro</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-21 17:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +158,20 @@
                 <span class="time">2026-07-21 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/968325/woot-switch-2-coupon-discount-code-deal-sale" target="_blank">The Switch 2 is $50 off at Woot for new customers</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-21 13:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/china-russia-500x500.jpg" alt="Apps targeted at US troops contain Chinese and Russian code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/" target="_blank">Apps targeted at US troops contain Chinese and Russian code</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-21 13:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thebraindonor/its-ok-to-get-lucky-1laf" target="_blank">It&#x27;s OK to Get Lucky</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-21 17:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +217,6 @@
                 <span class="time">2026-07-21 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ryzen-AI-Halo-LED-Linux-7.3" target="_blank">AMD Ryzen AI Halo LED Driver Queued For Introduction In Linux 7.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-21 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/anime-expo-main-1280x720.jpg" alt="18 Of The Best Cosplay Costumes From Anime Expo 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cosplay-gallery-anime-expo-2026-gardevoir-edgerunners-gundam-2000717976" target="_blank">18 Of The Best Cosplay Costumes From Anime Expo 2026</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-21 17:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/steve-rogers-1280x720.jpg" alt="Evil Captain America And 6 More Avengers: Doomsday Theories Fans Are Pulling From The Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +290,6 @@
                 <span class="time">2026-07-21 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/mario-in-court-1280x720.jpg" alt="Nintendo Says It Doesn’t Owe Customers Anything After Increasing Switch Prices For Tariffs It Didn’t Have To Pay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-price-class-action-lawsuit-trump-tariffs-2000717971" target="_blank">Nintendo Says It Doesn’t Owe Customers Anything After Increasing Switch Prices For Tariffs It Didn’t Have To Pay</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-21 11:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,22 +322,13 @@
                 <span class="time">2026-07-20 18:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/20/echoes-of-aincrad-thoughts" target="_blank">Echoes of Aincrad thoughts</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-20 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 16:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 17:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
