@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 20:23:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-21 21:23:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 20:24 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 21:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41?traffic_source=rss" target="_blank">Guyana reports ferry disaster death toll rises to 41</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-21 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg" alt="Zelensky sacks Ukraine&#x27;s top army commander after days of protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky sacks Ukraine&#x27;s top army commander after days of protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-21 19:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-11-gty-gmh-260721_1784648988547_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran &#x27;desperately&#x27; wants to meet despite new strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +101,29 @@
                 <span class="time">2026-07-21 15:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/7/21/searching-for-closure-venezuela-families-refuse-to-give-up-after-quakes?traffic_source=rss" target="_blank">Searching for closure: Venezuela families refuse to give up after quakes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-21 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/IMG_20260718_113853_1784578541496_hpMain_4x3t_384.jpg" alt="Millions along I-95 corridor brace for new flood threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/northeast-braces-flash-flooding-threat/story?id=134927985" target="_blank">Millions along I-95 corridor brace for new flood threat</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-21 13:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/" target="_blank">These are the countries moving to ban social media for children</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-21 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5fb4ba05ce3e4504d24a50/master/pass/The-Best-Deals-of-Best-Buy%E2%80%99s-Black-Friday-in-July-Sale.jpg" alt="Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-buy-black-friday-in-july-2026/" target="_blank">Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-21 20:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/spideyTOP-500x500.jpg" alt="Sony releases one last trailer for Spider-Man: Brand New Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +160,20 @@
                 <span class="time">2026-07-21 18:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale" target="_blank">Nearly every Kindle is steeply discounted at Best Buy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-21 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/" target="_blank">Google releases three new Gemini models — but no 3.5 Pro</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-21 17:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fluidwire/the-first-computer-bug-was-a-real-moth-5hje" target="_blank">The First Computer Bug Was a Real Moth</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-21 21:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcourseengine.ai%2Fcourse-engine-logo.png" alt="Chat-based AI course authoring: why SCORM still matters in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/ian_tappan/chat-based-ai-course-authoring-why-scorm-still-matters-in-2026-40lk" target="_blank">Chat-based AI course authoring: why SCORM still matters in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-21 20:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/" target="_blank">OpenAI and Hugging Face address security incident during model evaluation</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-21 20:09</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/thebraindonor/its-ok-to-get-lucky-1laf" target="_blank">It&#x27;s OK to Get Lucky</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-21 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/youtube/w_728,c_limit/h8TBLKyo7Rs" alt="Pushing software engineering limits with “napkin math”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/pushing-software-engineering-limits" target="_blank">Pushing software engineering limits with “napkin math”</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-07-21 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/" target="_blank">How to build interactive experiences with canvases</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-21 16:00</span>
             </div>
         </div>
 </div>
@@ -317,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 20:24 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 21:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
