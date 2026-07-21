@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 15:30:22 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-21 16:27:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 15:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 16:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/" target="_blank">How to build interactive experiences with canvases</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-21 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/samuel_akopyan_e902195a96/technical-debt-didnt-disappear-we-just-started-paying-for-it-in-tokens-22ml" target="_blank">Technical Debt Didn’t Disappear. We Just Started Paying for It in Tokens.</a></span>
                 <span class="feed">DEV Community</span>
@@ -208,15 +215,6 @@
                 <span class="time">2026-07-21 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-CR-26.27.39122.11" target="_blank">Intel Compute Runtime Continues Building Out Exciting &quot;LEO&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-21 10:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/steve-rogers-1280x720.jpg" alt="Evil Captain America And 6 More Avengers: Doomsday Theories Fans Are Pulling From The Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/avengers-doomsday-trailer-theory-evil-captain-america-hydra-2000718049" target="_blank">Evil Captain America And 6 More Avengers: Doomsday Theories Fans Are Pulling From The Trailer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-21 16:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Exodus-1280x720.jpg" alt="Hasbro’s Big Gaming Strategy Is Falling Apart After A $56 Million Write-Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,20 +288,20 @@
                 <span class="time">2026-07-21 11:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/hexcells1-1280x720.jpg" alt="After 12 Years, Hexcells Is Still The Best Logic Puzzle Game Ever Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hexcells-logic-puzzle-game-matthew-brown-best-ever-steam-2000717605" target="_blank">After 12 Years, Hexcells Is Still The Best Logic Puzzle Game Ever Made</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-21 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1784595902-20260721.png" alt="Saturday Morning Breakfast Cereal - Crawl" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/crawl" target="_blank">Saturday Morning Breakfast Cereal - Crawl</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-21 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5877.png" alt="A Friend In Need&#x27;s A Friend Indeed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -327,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 15:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 16:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
