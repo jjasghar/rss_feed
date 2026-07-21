@@ -1,37 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 12:28:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-21 13:29:33 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 12 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 12:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +54,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/IMG_20260718_113853_1784578541496_hpMain_4x3t_384.jpg" alt="Millions along I-95 corridor brace for new flood threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/northeast-braces-flash-flooding-threat/story?id=134927985" target="_blank">Millions along I-95 corridor brace for new flood threat</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-21 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr" target="_blank">The best games of 2026 so far, picked by NPR&#x27;s staff</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-21 13:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown" target="_blank">India&#x27;s youth-led Cockroach movement vows to continue protest after police crackdown</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-21 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784632407200_tdy_news_7a_simmons_iran_attacks_260721_S3_1920x1080-v2s376.jpg" alt="US Carries out 10th Night of Strikes After Service Members Killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-says-iran-will-pay-for-killing-of-us-service-members-267004485593" target="_blank">US Carries out 10th Night of Strikes After Service Members Killed</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-21 11:13</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +107,29 @@
                 <span class="time">2026-07-21 10:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss" target="_blank">Arizona’s primary elections: Which US races to watch and why they matter</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-21 10:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss" target="_blank">Lebanon’s Joseph Aoun to meet Trump: What to expect</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-21 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds" target="_blank">Healthy diet too expensive for one in three people globally, UN report finds</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-21 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/968325/woot-switch-2-coupon-discount-code-deal-sale" target="_blank">The Switch 2 is $50 off at Woot for new customers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-21 13:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/china-russia-500x500.jpg" alt="Apps targeted at US troops contain Chinese and Russian code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/" target="_blank">Apps targeted at US troops contain Chinese and Russian code</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-21 13:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a5ea5896271fcbb95eb5696/master/pass/The-Best-Smartwatches,-Backed-by-Years-of-Testing.jpg" alt="8 Best Smartwatches (2026): Apple, Google, and Hybrid Watches" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +166,29 @@
                 <span class="time">2026-07-21 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5a5366ad0fb31ed65fa3d3/master/pass/Politics_ArmyBurningThroughAITokens_v4.jpg" alt="The Army Is Burning Through Its AI Tokens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/" target="_blank">The Army Is Burning Through Its AI Tokens</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-21 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/" target="_blank">Anthropic’s landmark $1.5B copyright settlement is approved</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-21 00:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-Approves-Stratis" target="_blank">Stratis Storage Anaconda Integration Approved For Fedora 45</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-21 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/gitlab-carbon-awareness/en/headerimage/generatedHeaderImage-1784626098933.jpg" alt="GitLab Brings Carbon Awareness to CI/CD to Measure the Environmental Cost of Software Delivery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/gitlab-carbon-awareness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitLab Brings Carbon Awareness to CI/CD to Measure the Environmental Cost of Software Delivery</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-21 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +225,6 @@
                 <span class="time">2026-07-21 10:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://qwen.ai/blog?id=qwen-image-3.0" target="_blank">Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-21 08:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/gitlab-19-2-ai-agents/en/headerimage/generatedHeaderImage-1784567507763.jpg" alt="GitLab 19.2 Puts AI Agents to Work on the Security Backlog" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/gitlab-19-2-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitLab 19.2 Puts AI Agents to Work on the Security Backlog</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-21 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/discs-1280x699.jpg" alt="A Wild Stat About PlayStation Physical Game Sales In The U.S. Shows Why The ‘No Disc, No Buy’ Backlash Faces Such An Uphill Battle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/a-wild-stat-about-playstation-physical-game-sales-in-the-u-s-shows-why-the-no-disc-no-buy-backlash-faces-such-an-uphill-battle-2000717977" target="_blank">A Wild Stat About PlayStation Physical Game Sales In The U.S. Shows Why The ‘No Disc, No Buy’ Backlash Faces Such An Uphill Battle</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-21 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY0N5B3YBVEVVFKXHMW8CXTH/hero-image.png" alt="Halliday&#x27;s New Gen 2 AI Glasses Have a Monochrome HUD Designed for Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/halliday-announces-gen-2-ai-glasses?utm_medium=RSS" target="_blank">Halliday&#x27;s New Gen 2 AI Glasses Have a Monochrome HUD Designed for Work</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-21 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/mario-in-court-1280x720.jpg" alt="Nintendo Says It Doesn’t Owe Customers Anything After Increasing Switch Prices For Tariffs It Didn’t Have To Pay" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/trump-fda-sends-mixed-signals-about-diarrhea-lettuce-2000717770" target="_blank">Trump FDA Sends Mixed Signals About Diarrhea Lettuce</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-20 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/NIGHTBORNE-—-A-Neill-Blomkamp-Sci-Fi-Film.-Fully-AI-4K-6-44-screenshot-1280x720.jpg" alt="I Watched District 9′s Director’s New, Awful AI-Generated Movie So You Don’t Have To" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/district-9-director-ai-generated-short-film-nightborne-2000717745" target="_blank">I Watched District 9′s Director’s New, Awful AI-Generated Movie So You Don’t Have To</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-20 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Image-charles-taylor-Shutterstock.jpg?fit=1080%2C746&amp;quality=60&amp;ssl=1" alt="Humanoid robot keeps fighting, even after his block was knocked off!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/20/humanoid-robot-keeps-fighting-even-after-his-block-was-knocked-off.html" target="_blank">Humanoid robot keeps fighting, even after his block was knocked off!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-20 20:03</span>
             </div>
         </div>
 </div>
@@ -338,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 12:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
