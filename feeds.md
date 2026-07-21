@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 22:16:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-21 23:16:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 22:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 23:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss" target="_blank">Moldova chooses new prime minister as it pushes for EU membership</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-21 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/21/nx-s1-5902101/smithsonian-house-hearing" target="_blank">Smithsonian too focused on &#x27;oppressors and the oppressed,&#x27; say House Republicans</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-21 21:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +102,29 @@
                 <span class="time">2026-07-21 19:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-11-gty-gmh-260721_1784648988547_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran &#x27;desperately&#x27; wants to meet despite new strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Trump says Iran &#x27;desperately&#x27; wants to meet despite new strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-21 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss" target="_blank">US judge blocks Trump bid to strip work permits from immigrants</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-21 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5e09b6b1fb24623fec96bb/master/pass/RR_GT_Anechoic-Chamber_SIDE-PROFILE_220726.jpg" alt="Is the All-New Range Rover GT Stepping on Jaguar’s Tail?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt/" target="_blank">Is the All-New Range Rover GT Stepping on Jaguar’s Tail?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-21 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance" target="_blank">Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-21 22:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +161,20 @@
                 <span class="time">2026-07-21 19:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/" target="_blank">Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-21 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/pompeii1-500x500.jpg" alt="Tom Hiddleston tracks possible Pompeii survivors in new docuseries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/" target="_blank">Tom Hiddleston tracks possible Pompeii survivors in new docuseries</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-21 18:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johnfrandsen/open-banking-without-an-eidas-certificate-a-practical-developers-guide-2026-1j6" target="_blank">Open Banking Without an eIDAS Certificate: A Practical Developer&#x27;s Guide (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-21 23:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +220,6 @@
                 <span class="time">2026-07-21 18:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thebraindonor/its-ok-to-get-lucky-1laf" target="_blank">It&#x27;s OK to Get Lucky</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-21 17:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +245,15 @@
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-watch-8-classic-deal-july-2026?utm_medium=RSS" target="_blank">Samsung&#x27;s Premium Galaxy Watch 8 Is Half Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-21 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Office-2024-Professional-Plus-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Microsoft Office 2024 puts the old reliables back on your PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/21/microsoft-office-2024-puts-the-old-reliables-back-on-your-pc.html" target="_blank">Microsoft Office 2024 puts the old reliables back on your PC</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-21 21:00</span>
             </div>
         </div>
@@ -280,15 +293,6 @@
                 <span class="time">2026-07-21 18:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KY003P8T6219T4PZK92Z187E/hero-image.jpg" alt="10 Shows Like &#x27;X-Men &#x27;97&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-x-men-97?utm_medium=RSS" target="_blank">10 Shows Like &#x27;X-Men &#x27;97&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-21 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 22:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 23:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
