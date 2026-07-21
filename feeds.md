@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 10:40:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-21 11:32:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 10:40 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 11:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +51,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora" target="_blank">Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-21 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods" target="_blank">Trump imposes 50% tariffs on Canadian goods</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-21 10:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss" target="_blank">Arizona’s primary elections: Which US races to watch and why they matter</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-21 10:28</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +101,6 @@
                 <span class="time">2026-07-21 09:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3151/live/998910b0-84e5-11f1-b976-0b9c15b0ccfc.jpg" alt="Chris Mason: Starmer ally takes swipe at Burnham&#x27;s first big policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c62xzn3j1p2o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Starmer ally takes swipe at Burnham&#x27;s first big policy</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-21 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/21/nx-s1-5895979/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-21 08:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,6 +112,15 @@
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact" target="_blank">Who’s afraid of the big, bad GPU?</a></span>
                 <span class="feed">The Verge</span>
+                <span class="time">2026-07-21 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/" target="_blank">Gritt exits stealth with $34 million for robots to build solar plants—then, everything else</a></span>
+                <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-21 10:00</span>
             </div>
         </div>
@@ -148,20 +160,20 @@
                 <span class="time">2026-07-20 22:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra" target="_blank">The FCC is planning to retroactively ban disguised DJI gadgets</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-20 22:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-CR-26.27.39122.11" target="_blank">Intel Compute Runtime Continues Building Out Exciting &quot;LEO&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-21 10:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/ai-mobile/en/mediumimage/medium-1784107227726.jpeg" alt="Presentation: Engineering AI for Creativity and Curiosity on Mobile" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,34 +219,20 @@
                 <span class="time">2026-07-21 07:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sumama_jamil_173056ab0be5/nexus-engine-one-command-to-set-up-a-complete-production-environment-1m36" target="_blank">Nexus Engine: One command to Set Up a Complete production Environment</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-21 06:50</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html" target="_blank">On Flock License Plate Tracking Cameras</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-20 11:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/hexcells1-1280x720.jpg" alt="After 12 Years, Hexcells Is Still The Best Logic Puzzle Game Ever Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hexcells-logic-puzzle-game-matthew-brown-best-ever-steam-2000717605" target="_blank">After 12 Years, Hexcells Is Still The Best Logic Puzzle Game Ever Made</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-21 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/01/b5957db8c7d2789669e4e99a7bf79b10.jpg" alt="Reported Director Of Obsidian’s Upcoming Fallout Game Says RPGS Are ‘At Their Best…When You Can’t Control Everything’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +276,6 @@
                 <span class="title"><a href="https://kotaku.com/gta-wiki-accuses-fandom-of-ripping-off-its-articles-and-shares-evidence-we-want-everyone-to-see-how-shameless-they-are-about-it-2000717683" target="_blank">GTA Wiki Accuses Fandom Of Ripping Off Its Articles And Shares Evidence: ‘We Want Everyone To See How Shameless They Are About It’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-20 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/xboxsstudiocleanupo-1280x720.jpg" alt="Forza Horizon 5 Director Reacts To The Xbox Mess: ‘The Concept Of Game Pass Was Good…Unfortunately It Didn’t Work’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/forza-horizon-5-director-reacts-to-the-xbox-mess-the-concept-of-game-pass-was-good-unfortunately-it-didnt-work-2000717725" target="_blank">Forza Horizon 5 Director Reacts To The Xbox Mess: ‘The Concept Of Game Pass Was Good…Unfortunately It Didn’t Work’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-20 18:25</span>
             </div>
         </div>
 </div>
@@ -335,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 10:40 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 11:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
