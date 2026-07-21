@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 02:58:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-21 04:07:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 04:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,9 +54,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/china-and-philippines-trade-accusations-after-sailor-injured-at-sea?traffic_source=rss" target="_blank">China and Philippines trade accusations after sailor injured at sea</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-21 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/guyana-recovers-27-bodies-after-ferry-disaster-as-crew-comes-under-scrutiny?traffic_source=rss" target="_blank">Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-21 01:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56de/live/36df7440-849a-11f1-8308-d37156d085c6.jpg" alt="Trump slaps 50% tariffs on Canada and Carney vows to &#x27;intensify&#x27; trade talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss" target="_blank">Trump slaps 50% tariffs on Canada and Carney vows to &#x27;intensify&#x27; trade talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-21 00:34</span>
             </div>
         </div>
 <div class="story">
@@ -79,24 +102,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trump-slaps-additional-50-tariff-canadian-goods/story?id=134929955" target="_blank">Trump slaps additional 50% tariff on certain Canadian goods</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-20 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/IMG_20260718_113853_1784578541496_hpMain_4x3t_384.jpg" alt="Northeast braces for flash flooding threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/northeast-braces-flash-flooding-threat/story?id=134927985" target="_blank">Northeast braces for flash flooding threat</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-20 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217" alt="Trump slaps more tariffs on Canada over &#x27;discrimination&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-administration-imposes-50-tariffs-on-canadian-goods-over-continued-discrimination-13565443" target="_blank">Trump slaps more tariffs on Canada over &#x27;discrimination&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-20 21:32</span>
             </div>
         </div>
 </div>
@@ -166,6 +171,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/07/21/the-future-of-development-is-full-stack/" target="_blank">The future of development is full-stack​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿‌‍‌​​﻿​﻿‌‍‌‍​﻿‍​‌‍​‌‌‍‌‌‌‍‌‌​‍﻿‌​﻿‍​​﻿​​​﻿‍​‌‍‌​​‍﻿‌​﻿‌​​﻿​﻿​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍​﻿​﻿‌‍‌‍‌​‌‍​‍​﻿‌﻿​﻿‍​‌‍‌​​﻿​﻿​﻿‍​​﻿​‌​﻿​‌‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿‌‍‌​​﻿​﻿‌‍‌‍​﻿‍​‌‍​‌‌‍‌‌‌‍‌‌​‍﻿‌​﻿‍​​﻿​​​﻿‍​‌‍‌​​‍﻿‌​﻿‌​​﻿​﻿​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍​﻿​﻿‌‍‌‍‌​‌‍​‍​﻿‌﻿​﻿‍​‌‍‌​​﻿​﻿​﻿‍​​﻿​‌​﻿​‌‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-07-21 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Cold-Reset-Recovery-Linux" target="_blank">Cold Reset Recovery Coming Together To Better Help Intel GPUs On Linux</a></span>
                 <span class="feed">Phoronix</span>
@@ -206,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/alejandxr/hollowgraph-malware-uses-microsoft-365-calendar-events-as-dead-drop-c2-channel-5h02" target="_blank">HollowGraph Malware Uses Microsoft 365 Calendar Events as Dead-Drop C2 Channel</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-20 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anusha_mukka/data-is-the-real-model-governance-lineage-and-provenance-1eo3" target="_blank">Data Is the Real Model: Governance, Lineage, and Provenance</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-20 20:19</span>
             </div>
         </div>
 </div>
@@ -331,22 +336,13 @@
                 <span class="time">2026-07-20 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/arthurian_connector.png" alt="Arthurian Connector" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3274/" target="_blank">Arthurian Connector</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-07-20 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 04:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
