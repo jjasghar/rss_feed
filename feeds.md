@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 18:24:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-21 19:28:19 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 18:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Senate hearing on $87.6B Iran funding request" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Senate hearing on $87.6B Iran funding request</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-21 19:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46ee/live/0e6c41b0-8511-11f1-926f-c90d1bcfbc84.jpg" alt="Ann Widdecombe was hit on head 21 times with hammer, prosecutors say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +103,20 @@
                 <span class="time">2026-07-21 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784632407200_tdy_news_7a_simmons_iran_attacks_260721_S3_1920x1080-v2s376.jpg" alt="US Carries out 10th Night of Strikes After Service Members Killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-says-iran-will-pay-for-killing-of-us-service-members-267004485593" target="_blank">US Carries out 10th Night of Strikes After Service Members Killed</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-21 11:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-500x500-1776887612.jpg" alt="Nintendo says users voluntarily paid higher prices, have no right to tariff refunds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/" target="_blank">Nintendo says users voluntarily paid higher prices, have no right to tariff refunds</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-21 19:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +162,29 @@
                 <span class="time">2026-07-21 16:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/968583/samsung-galaxy-unpacked-wide-z-fold-8-iphone" target="_blank">Samsung can&amp;#8217;t afford to play it safe with Apple&amp;#8217;s first foldable looming</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-21 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/android-studio-quail-2/en/headerimage/android-studio-quail2-1784654356718.jpeg" alt="Android Studio Quail 2 Redesigns Agent Mode, Streamlines AI-Assisted Coding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/android-studio-quail-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Android Studio Quail 2 Redesigns Agent Mode, Streamlines AI-Assisted Coding</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-21 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Snap-Three-More-Vulns" target="_blank">Three New Ubuntu Snap Vulnerabilities Made Public - One Dates Back To Ubuntu 16.04 LTS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-21 18:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -170,6 +192,15 @@
                 <span class="title"><a href="https://dev.to/thebraindonor/its-ok-to-get-lucky-1laf" target="_blank">It&#x27;s OK to Get Lucky</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-21 17:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/youtube/w_728,c_limit/h8TBLKyo7Rs" alt="Pushing software engineering limits with “napkin math”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/pushing-software-engineering-limits" target="_blank">Pushing software engineering limits with “napkin math”</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-07-21 16:52</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +219,6 @@
                 <span class="title"><a href="https://e360.yale.edu/digest/benin-coral-reef" target="_blank">Long presumed dead, a thriving coral reef is discovered in West Africa</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-21 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/rspack-2-release/en/headerimage/generatedHeaderImage-1783006187263.jpg" alt="RSPack 2.0: Performance Gains, Leaner Dependencies and ESM Core" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/rspack-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">RSPack 2.0: Performance Gains, Leaner Dependencies and ESM Core</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-21 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/samuel_akopyan_e902195a96/technical-debt-didnt-disappear-we-just-started-paying-for-it-in-tokens-22ml" target="_blank">Technical Debt Didn’t Disappear. We Just Started Paying for It in Tokens.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-21 15:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-announces-the-enterprise-store" target="_blank">Canonical announces the Enterprise Store as part of Ubuntu Pro</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-07-21 14:25</span>
             </div>
         </div>
 </div>
@@ -236,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/backrooms.jpg?fit=1248%2C702&amp;quality=60&amp;ssl=1" alt="Honest Trailers gets lost in the beige hell of Backrooms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/21/honest-trailers-gets-lost-in-the-beige-hell-of-backrooms.html" target="_blank">Honest Trailers gets lost in the beige hell of Backrooms</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-21 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY003P8T6219T4PZK92Z187E/hero-image.jpg" alt="10 Shows Like &#x27;X-Men &#x27;97&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-x-men-97?utm_medium=RSS" target="_blank">10 Shows Like &#x27;X-Men &#x27;97&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-21 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/spidermanbrandnewday-1280x720.jpg" alt="The Hulk Whoops Spider-Man’s Ass In Final Brand New Day Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +294,6 @@
                 <span class="time">2026-07-21 15:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Exodus-1280x720.jpg" alt="Hasbro’s Big Gaming Strategy Is Falling Apart After A $56 Million Write-Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hasbro-56-million-impairment-charge-video-games-canceled-2000718018" target="_blank">Hasbro’s Big Gaming Strategy Is Falling Apart After A $56 Million Write-Down</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-21 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KY2G2F1NA8TGHE7T57MAXWAN/hero-image.jpg" alt="How to Watch Samsung&#x27;s July Galaxy Unpacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-watch-samsungs-july-2026-galaxy-unpacked?utm_medium=RSS" target="_blank">How to Watch Samsung&#x27;s July Galaxy Unpacked</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-21 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 18:24 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
