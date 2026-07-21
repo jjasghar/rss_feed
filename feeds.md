@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 14:38:15 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-21 15:30:22 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 14:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 15:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +108,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/968583/samsung-galaxy-unpacked-wide-z-fold-8-iphone" target="_blank">Samsung can&amp;#8217;t afford to play it safe with Apple&amp;#8217;s first foldable looming</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-21 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-500x500.png" alt="TreeSize won&#x27;t renew perpetual-license support unless users subscribe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/" target="_blank">TreeSize won&#x27;t renew perpetual-license support unless users subscribe</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-21 15:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/" target="_blank">Light made a flip phone. It’s colorful and it’s cheap.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-21 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/966560/xteink-e-ink-e-reader-x4-pro-touchscreen-light-hands-on" target="_blank">A touchscreen and light make the new X4 Pro the best version of Xteink’s tiny e-readers</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-21 14:00</span>
@@ -127,38 +158,29 @@
                 <span class="time">2026-07-21 13:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5ea5896271fcbb95eb5696/master/pass/The-Best-Smartwatches,-Backed-by-Years-of-Testing.jpg" alt="8 Best Smartwatches (2026): Apple, Google, and Hybrid Watches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-smartwatches/" target="_blank">8 Best Smartwatches (2026): Apple, Google, and Hybrid Watches</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-21 12:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact" target="_blank">Who’s afraid of the big, bad GPU?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-21 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/" target="_blank">Gritt exits stealth with $34 million for robots to build solar plants—then, everything else</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-21 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/samuel_akopyan_e902195a96/technical-debt-didnt-disappear-we-just-started-paying-for-it-in-tokens-22ml" target="_blank">Technical Debt Didn’t Disappear. We Just Started Paying for It in Tokens.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-21 15:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-announces-the-enterprise-store" target="_blank">Canonical announces the Enterprise Store as part of Ubuntu Pro</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-07-21 14:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +217,6 @@
                 <span class="time">2026-07-21 10:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-mobile/en/mediumimage/medium-1784107227726.jpeg" alt="Presentation: Engineering AI for Creativity and Curiosity on Mobile" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-mobile/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Engineering AI for Creativity and Curiosity on Mobile</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-21 10:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17383916/gnome-security-tracking-limbo" target="_blank">GNOME&amp;#x27;s Security Might Be in Peril as Lone Tracker Goes Off</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-21 10:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Exodus-1280x720.jpg" alt="Hasbro’s Big Gaming Strategy Is Falling Apart After A $56 Million Write-Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hasbro-56-million-impairment-charge-video-games-canceled-2000718018" target="_blank">Hasbro’s Big Gaming Strategy Is Falling Apart After A $56 Million Write-Down</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-21 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY2G2F1NA8TGHE7T57MAXWAN/hero-image.jpg" alt="How to Watch Samsung&#x27;s July Galaxy Unpacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-watch-samsungs-july-2026-galaxy-unpacked?utm_medium=RSS" target="_blank">How to Watch Samsung&#x27;s July Galaxy Unpacked</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-21 15:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/discs-1280x699.jpg" alt="A Wild Stat About PlayStation Physical Game Sales In The U.S. Shows Why The ‘No Disc, No Buy’ Backlash Faces Such An Uphill Battle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +290,6 @@
                 <span class="time">2026-07-21 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/01/b5957db8c7d2789669e4e99a7bf79b10.jpg" alt="Reported Director Of Obsidian’s Upcoming Fallout Game Says RPGS Are ‘At Their Best…When You Can’t Control Everything’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/reported-director-of-obsidians-upcoming-fallout-game-says-rpgs-are-at-their-best-when-you-cant-control-everything-2000717793" target="_blank">Reported Director Of Obsidian’s Upcoming Fallout Game Says RPGS Are ‘At Their Best…When You Can’t Control Everything’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-20 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/Triple-Double-Crunchwrap-A-La-Carte-jpg-1280x720.jpg" alt="Trump FDA Sends Mixed Signals About Diarrhea Lettuce" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/trump-fda-sends-mixed-signals-about-diarrhea-lettuce-2000717770" target="_blank">Trump FDA Sends Mixed Signals About Diarrhea Lettuce</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-20 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,22 +322,13 @@
                 <span class="time">2026-07-20 17:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1784518178-20260720.png" alt="Saturday Morning Breakfast Cereal - Sword" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/sword-3" target="_blank">Saturday Morning Breakfast Cereal - Sword</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-20 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 14:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 15:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
