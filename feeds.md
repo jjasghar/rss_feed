@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 00:20:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-21 01:30:57 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 00:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -65,6 +58,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217" alt="Trump slaps more tariffs on Canada over &#x27;discrimination&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-administration-imposes-50-tariffs-on-canadian-goods-over-continued-discrimination-13565443" target="_blank">Trump slaps more tariffs on Canada over &#x27;discrimination&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-20 21:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/900b/live/19b1fef0-847d-11f1-8f17-6fca617ac634.jpg" alt="US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -89,15 +91,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/darline-graham-lindsey-grahams-sister-run-full-senate/story?id=134926606" target="_blank">Darline Graham, Lindsey Graham&#x27;s sister, says she will run for full Senate term</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-20 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59a/live/8b160770-83fc-11f1-8948-1f76bc360535.jpg" alt="Trump warns Iran will pay &#x27;many times over&#x27; for deaths of US soldiers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss" target="_blank">Trump warns Iran will pay &#x27;many times over&#x27; for deaths of US soldiers</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-20 20:14</span>
             </div>
         </div>
 </div>
@@ -167,6 +160,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Cold-Reset-Recovery-Linux" target="_blank">Cold Reset Recovery Coming Together To Better Help Intel GPUs On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-21 00:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/binaryjournal/mastering-json-tips-for-confident-data-handling-4ojo" target="_blank">Mastering JSON: Tips for Confident Data Handling</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/anusha_mukka/data-is-the-real-model-governance-lineage-and-provenance-1eo3" target="_blank">Data Is the Real Model: Governance, Lineage, and Provenance</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-20 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NetworkManager-1.58" target="_blank">NetworkManager 1.58 Released With 464XLAT CLAT Support &amp; GENEVE Interface</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-20 20:12</span>
             </div>
         </div>
 </div>
@@ -341,22 +334,13 @@
                 <span class="time">2026-07-20 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5876.png" alt="The Wiggles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5876" target="_blank">The Wiggles</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-20 00:51</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 00:20 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
