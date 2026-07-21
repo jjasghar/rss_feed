@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 19:28:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-21 20:23:56 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 20:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-11-gty-gmh-260721_1784648988547_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran &#x27;desperately&#x27; wants to meet despite new strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Trump says Iran &#x27;desperately&#x27; wants to meet despite new strikes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-21 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss" target="_blank">US judge blocks Trump bid to strip work permits from immigrants</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-21 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Senate hearing on $87.6B Iran funding request" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +98,20 @@
                 <span class="time">2026-07-21 13:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr" target="_blank">The best games of 2026 so far, picked by NPR&#x27;s staff</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown" target="_blank">India&#x27;s youth-led Cockroach movement vows to continue protest after police crackdown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-21 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/spideyTOP-500x500.jpg" alt="Sony releases one last trailer for Spider-Man: Brand New Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/" target="_blank">Sony releases one last trailer for Spider-Man: Brand New Day</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-21 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-500x500-1776887612.jpg" alt="Nintendo says users voluntarily paid higher prices, have no right to tariff refunds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +157,20 @@
                 <span class="time">2026-07-21 17:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5eae6a05dbc7f92d1b09a5/master/pass/Security_A%20Hacking%20Tool%20Targeting%20AI%20Infrastructure%20Reveals%20Worrying%20Gaps_v2.jpg" alt="A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/" target="_blank">A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-21 16:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcourseengine.ai%2Fcourse-engine-logo.png" alt="Chat-based AI course authoring: why SCORM still matters in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ian_tappan/chat-based-ai-course-authoring-why-scorm-still-matters-in-2026-40lk" target="_blank">Chat-based AI course authoring: why SCORM still matters in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-21 20:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/07/android-studio-quail-2/en/headerimage/android-studio-quail2-1784654356718.jpeg" alt="Android Studio Quail 2 Redesigns Agent Mode, Streamlines AI-Assisted Coding" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +216,6 @@
                 <span class="time">2026-07-21 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://e360.yale.edu/digest/benin-coral-reef" target="_blank">Long presumed dead, a thriving coral reef is discovered in West Africa</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-21 15:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY34CMA22N6FY3ZT86XKAPHD/hero-image.png" alt="The Roomba Max 705 Robot Vacuum Is 45% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/roomba-max-705-robot-vacuum-deal-july-2026?utm_medium=RSS" target="_blank">The Roomba Max 705 Robot Vacuum Is 45% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-21 20:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/DD1-FE-KeyArt-Portrait.jpg" alt="Darkest Dungeon Is Getting Darkest Dungeon 2 Content In A Surprise DLC Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/darkest-dungeon-first-dlc-six-years-2000718098" target="_blank">Darkest Dungeon Is Getting Darkest Dungeon 2 Content In A Surprise DLC Release</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-21 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/02/xfiles-e1784661157970.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Gillian Anderson reveals X-Files LEGO set" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/21/gillian-anderson-reveals-x-files-lego-set.html" target="_blank">Gillian Anderson reveals X-Files LEGO set</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-21 19:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/backrooms.jpg?fit=1248%2C702&amp;quality=60&amp;ssl=1" alt="Honest Trailers gets lost in the beige hell of Backrooms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,33 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/spider-man-brand-new-day-trailer-hulk-fight-mj-peter-2000718085" target="_blank">The Hulk Whoops Spider-Man’s Ass In Final Brand New Day Trailer</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-21 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/anime-expo-main-1280x720.jpg" alt="18 Of The Best Cosplay Costumes From Anime Expo 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cosplay-gallery-anime-expo-2026-gardevoir-edgerunners-gundam-2000717976" target="_blank">18 Of The Best Cosplay Costumes From Anime Expo 2026</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-21 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/steve-rogers-1280x720.jpg" alt="Evil Captain America And 6 More Avengers: Doomsday Theories Fans Are Pulling From The Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/avengers-doomsday-trailer-theory-evil-captain-america-hydra-2000718049" target="_blank">Evil Captain America And 6 More Avengers: Doomsday Theories Fans Are Pulling From The Trailer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-21 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Light-Flip-Sample-scaled.jpg?fit=2560%2C1404&amp;quality=60&amp;ssl=1" alt="Light Flip is a minimalist phone without the dumb" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/21/light-flip-is-a-minimalist-phone-without-the-dumb.html" target="_blank">Light Flip is a minimalist phone without the dumb</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-21 15:37</span>
             </div>
         </div>
 </div>
@@ -322,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 20:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
