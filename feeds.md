@@ -1,32 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 05:57:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-21 06:56:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 05:57 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 06:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss" target="_blank">‘We just want to live’: Palestinians in Gaza react to Hamas election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-21 06:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/21/nx-s1-5901828/powerball-begin-united-kingdom" target="_blank">Powerball ticket sales begin Tuesday in the United Kingdom</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-21 05:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-russian-warship-north-sea_7298404.jpg?20260715165533" alt="Russian warship carries out live-fire weapons exercise 46 miles off UK coast, MoD says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/russian-warship-carries-out-live-fire-weapons-exercise-46-miles-off-uk-coast-mod-says-13561289" target="_blank">Russian warship carries out live-fire weapons exercise 46 miles off UK coast, MoD says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-21 05:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,33 +104,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss" target="_blank">Trump slaps 50% tariffs on Canada and Carney vows to &#x27;intensify&#x27; trade talks</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-21 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/20/what-are-the-new-british-prime-ministers-biggest-challenges?traffic_source=rss" target="_blank">What are the new British Prime Minister’s biggest challenges?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-20 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784587830862_nn_simmons_us_soldiers_260720_S3_1920x1080-4ysuce.jpg" alt="President Trump vows revenge on Iran for killing U.S. service members" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/president-trump-vows-revenge-on-iran-for-killing-u-s-service-members-266975813831" target="_blank">President Trump vows revenge on Iran for killing U.S. service members</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-20 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-260720_1784552917884_hpMain_4x3t_384.jpg" alt="Trump slaps additional 50% tariff on certain Canadian goods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-slaps-additional-50-tariff-canadian-goods/story?id=134929955" target="_blank">Trump slaps additional 50% tariff on certain Canadian goods</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-20 22:05</span>
             </div>
         </div>
 </div>
@@ -172,6 +182,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sumama_jamil_173056ab0be5/nexus-engine-one-command-to-set-up-a-complete-production-environment-1m36" target="_blank">Nexus Engine: One command to Set Up a Complete production Environment</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-21 06:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/janestreet/incremental" target="_blank">Incremental – A library for incremental computations</a></span>
                 <span class="feed">Hacker News</span>
@@ -201,15 +220,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/firefox-153-new-containers-feature" target="_blank">Firefox 153 released with container tabs, rounded corners + more</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-20 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/firefox-153.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 153 released with buil-in containers, QR Code generator + more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/firefox-153-new-containers-feature" target="_blank">Firefox 153 released with buil-in containers, QR Code generator + more</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-07-20 22:57</span>
             </div>
@@ -342,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 05:57 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 06:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
