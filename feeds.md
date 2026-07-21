@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 21:23:43 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-21 22:16:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 21:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 22:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss" target="_blank">Drone shows scorched landscape after Spain wildfire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-21 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kennedy-2-epa-gmh-260721_1784658197332_hpMain_4x3t_384.jpg" alt="RFK Jr. says cyclosporiasis outbreak &#x27;under control&#x27; amid 1,600 cases in 5 states" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Health/rfk-jr-cyclosporiasis-outbreak-control-amid-1600-cases/story?id=134959106" target="_blank">RFK Jr. says cyclosporiasis outbreak &#x27;under control&#x27; amid 1,600 cases in 5 states</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-21 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss" target="_blank">US judge blocks Trump bid to strip work permits from immigrants</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-21 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Senate hearing on $87.6B Iran funding request" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Senate hearing on $87.6B Iran funding request</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-21 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46ee/live/0e6c41b0-8511-11f1-926f-c90d1bcfbc84.jpg" alt="Ann Widdecombe was hit on head 21 times with hammer, prosecutors say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj03r77n07jo?at_medium=RSS&at_campaign=rss" target="_blank">Ann Widdecombe was hit on head 21 times with hammer, prosecutors say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-21 15:35</span>
             </div>
         </div>
 </div>
@@ -239,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY36HP9N9V5A12PKZM359RMY/hero-image.png" alt="Samsung&#x27;s Premium Galaxy Watch 8 Is Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-watch-8-classic-deal-july-2026?utm_medium=RSS" target="_blank">Samsung&#x27;s Premium Galaxy Watch 8 Is Half Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-21 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KY34CMA22N6FY3ZT86XKAPHD/hero-image.png" alt="The Roomba Max 705 Robot Vacuum Is 45% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -283,15 +289,6 @@
                 <span class="time">2026-07-21 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/spidermanbrandnewday-1280x720.jpg" alt="The Hulk Whoops Spider-Man’s Ass In Final Brand New Day Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/spider-man-brand-new-day-trailer-hulk-fight-mj-peter-2000718085" target="_blank">The Hulk Whoops Spider-Man’s Ass In Final Brand New Day Trailer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-21 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 21:23 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 22:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
