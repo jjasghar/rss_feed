@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 04:07:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-21 05:57:43 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 04:07 UTC</div>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 05:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -180,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/janestreet/incremental" target="_blank">Incremental – A library for incremental computations</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-21 03:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Cold-Reset-Recovery-Linux" target="_blank">Cold Reset Recovery Coming Together To Better Help Intel GPUs On Linux</a></span>
                 <span class="feed">Phoronix</span>
@@ -211,15 +212,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/firefox-153-new-containers-feature" target="_blank">Firefox 153 released with buil-in containers, QR Code generator + more</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-07-20 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alejandxr/hollowgraph-malware-uses-microsoft-365-calendar-events-as-dead-drop-c2-channel-5h02" target="_blank">HollowGraph Malware Uses Microsoft 365 Calendar Events as Dead-Drop C2 Channel</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-20 21:17</span>
             </div>
         </div>
 </div>
@@ -301,6 +293,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5877.png" alt="A Friend In Need&#x27;s A Friend Indeed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5877" target="_blank">A Friend In Need&#x27;s A Friend Indeed</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-21 01:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -341,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 04:07 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 05:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
