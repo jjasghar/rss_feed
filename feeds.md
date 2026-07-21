@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 06:56:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-21 07:47:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 06:56 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 07:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6529/live/2035d300-84c8-11f1-b976-0b9c15b0ccfc.jpg" alt="Chris Mason: New chancellor faces tough spending choices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c24mnnnd18do?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: New chancellor faces tough spending choices</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-21 07:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/guyana-recovers-27-bodies-after-ferry-disaster-as-crew-comes-under-scrutiny?traffic_source=rss" target="_blank">Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-21 01:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56de/live/36df7440-849a-11f1-8308-d37156d085c6.jpg" alt="Trump slaps 50% tariffs on Canada and Carney vows to &#x27;intensify&#x27; trade talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss" target="_blank">Trump slaps 50% tariffs on Canada and Carney vows to &#x27;intensify&#x27; trade talks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-21 00:34</span>
             </div>
         </div>
 </div>
@@ -183,6 +177,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/russel_dsouza_bd584a3cb2a/you-dont-need-10-refactoring-tools-pick-2-from-this-decision-tree-2cho" target="_blank">You Don&#x27;t Need 10 Refactoring Tools. Pick 2 From This Decision Tree.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-21 07:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sumama_jamil_173056ab0be5/nexus-engine-one-command-to-set-up-a-complete-production-environment-1m36" target="_blank">Nexus Engine: One command to Set Up a Complete production Environment</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-21 06:50</span>
@@ -213,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/binaryjournal/mastering-json-tips-for-confident-data-handling-4ojo" target="_blank">Mastering JSON: Tips for Confident Data Handling</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-21 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/firefox-153.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 153 released with container tabs, rounded corners + more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/firefox-153-new-containers-feature" target="_blank">Firefox 153 released with container tabs, rounded corners + more</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-20 22:57</span>
             </div>
         </div>
 </div>
@@ -338,22 +332,13 @@
                 <span class="time">2026-07-20 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/20/apples-and-trees" target="_blank">Apples and Trees</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-20 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 06:56 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 109 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 07:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
