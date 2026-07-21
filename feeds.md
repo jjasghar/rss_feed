@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 17:27:49 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-07-21 18:24:25 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 17:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 18:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +107,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/" target="_blank">Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-21 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/pompeii1-500x500.jpg" alt="Tom Hiddleston tracks possible Pompeii survivors in new docuseries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/" target="_blank">Tom Hiddleston tracks possible Pompeii survivors in new docuseries</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-21 18:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale" target="_blank">Nearly every Kindle is steeply discounted at Best Buy</a></span>
                 <span class="feed">The Verge</span>
@@ -123,39 +141,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6a5eae6a05dbc7f92d1b09a5/master/pass/Security_A%20Hacking%20Tool%20Targeting%20AI%20Infrastructure%20Reveals%20Worrying%20Gaps_v2.jpg" alt="A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/" target="_blank">A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-21 16:08</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/968583/samsung-galaxy-unpacked-wide-z-fold-8-iphone" target="_blank">Samsung can&amp;#8217;t afford to play it safe with Apple&amp;#8217;s first foldable looming</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-21 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-500x500.png" alt="TreeSize won&#x27;t renew perpetual-license support unless users subscribe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/" target="_blank">TreeSize won&#x27;t renew perpetual-license support unless users subscribe</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-21 15:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/" target="_blank">Light made a flip phone. It’s colorful and it’s cheap.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-21 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/966560/xteink-e-ink-e-reader-x4-pro-touchscreen-light-hands-on" target="_blank">A touchscreen and light make the new X4 Pro the best version of Xteink’s tiny e-readers</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-21 14:00</span>
             </div>
         </div>
 </div>
@@ -184,6 +184,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://e360.yale.edu/digest/benin-coral-reef" target="_blank">Long presumed dead, a thriving coral reef is discovered in West Africa</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-21 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/rspack-2-release/en/headerimage/generatedHeaderImage-1783006187263.jpg" alt="RSPack 2.0: Performance Gains, Leaner Dependencies and ESM Core" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/rspack-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">RSPack 2.0: Performance Gains, Leaner Dependencies and ESM Core</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-21 15:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/samuel_akopyan_e902195a96/technical-debt-didnt-disappear-we-just-started-paying-for-it-in-tokens-22ml" target="_blank">Technical Debt Didn’t Disappear. We Just Started Paying for It in Tokens.</a></span>
                 <span class="feed">DEV Community</span>
@@ -197,24 +215,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/canonical-announces-the-enterprise-store" target="_blank">Canonical announces the Enterprise Store as part of Ubuntu Pro</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-07-21 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-Approves-Stratis" target="_blank">Stratis Storage Anaconda Integration Approved For Fedora 45</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-21 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/gitlab-carbon-awareness/en/headerimage/generatedHeaderImage-1784626098933.jpg" alt="GitLab Brings Carbon Awareness to CI/CD to Measure the Environmental Cost of Software Delivery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/gitlab-carbon-awareness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitLab Brings Carbon Awareness to CI/CD to Measure the Environmental Cost of Software Delivery</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-21 12:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/spidermanbrandnewday-1280x720.jpg" alt="The Hulk Whoops Spider-Man’s Ass In Final Brand New Day Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/spider-man-brand-new-day-trailer-hulk-fight-mj-peter-2000718085" target="_blank">The Hulk Whoops Spider-Man’s Ass In Final Brand New Day Trailer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-21 17:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/anime-expo-main-1280x720.jpg" alt="18 Of The Best Cosplay Costumes From Anime Expo 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -255,6 +264,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Light-Flip-Sample-scaled.jpg?fit=2560%2C1404&amp;quality=60&amp;ssl=1" alt="Light Flip is a minimalist phone without the dumb" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/21/light-flip-is-a-minimalist-phone-without-the-dumb.html" target="_blank">Light Flip is a minimalist phone without the dumb</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-21 15:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Exodus-1280x720.jpg" alt="Hasbro’s Big Gaming Strategy Is Falling Apart After A $56 Million Write-Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -270,24 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/how-to-watch-samsungs-july-2026-galaxy-unpacked?utm_medium=RSS" target="_blank">How to Watch Samsung&#x27;s July Galaxy Unpacked</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-21 15:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/discs-1280x699.jpg" alt="A Wild Stat About PlayStation Physical Game Sales In The U.S. Shows Why The ‘No Disc, No Buy’ Backlash Faces Such An Uphill Battle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/a-wild-stat-about-playstation-physical-game-sales-in-the-u-s-shows-why-the-no-disc-no-buy-backlash-faces-such-an-uphill-battle-2000717977" target="_blank">A Wild Stat About PlayStation Physical Game Sales In The U.S. Shows Why The ‘No Disc, No Buy’ Backlash Faces Such An Uphill Battle</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-21 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KY0N5B3YBVEVVFKXHMW8CXTH/hero-image.png" alt="Halliday&#x27;s New Gen 2 AI Glasses Have a Monochrome HUD Designed for Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/halliday-announces-gen-2-ai-glasses?utm_medium=RSS" target="_blank">Halliday&#x27;s New Gen 2 AI Glasses Have a Monochrome HUD Designed for Work</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-21 13:00</span>
             </div>
         </div>
 </div>
@@ -313,22 +313,13 @@
                 <span class="time">2026-07-21 01:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/20/apples-and-trees" target="_blank">Apples and Trees</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-20 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 17:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 18:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
