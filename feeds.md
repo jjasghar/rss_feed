@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 01:30:57 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-21 02:58:53 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,9 +49,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/guyana-recovers-27-bodies-after-ferry-disaster-as-crew-comes-under-scrutiny?traffic_source=rss" target="_blank">Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-21 01:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/20/what-are-the-new-british-prime-ministers-biggest-challenges?traffic_source=rss" target="_blank">What are the new British Prime Minister’s biggest challenges?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-20 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784587830862_nn_simmons_us_soldiers_260720_S3_1920x1080-4ysuce.jpg" alt="President Trump vows revenge on Iran for killing U.S. service members" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/president-trump-vows-revenge-on-iran-for-killing-u-s-service-members-266975813831" target="_blank">President Trump vows revenge on Iran for killing U.S. service members</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-20 22:50</span>
             </div>
         </div>
 <div class="story">
@@ -58,39 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/IMG_20260718_113853_1784578541496_hpMain_4x3t_384.jpg" alt="Northeast braces for flash flooding threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/northeast-braces-flash-flooding-threat/story?id=134927985" target="_blank">Northeast braces for flash flooding threat</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-20 21:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217" alt="Trump slaps more tariffs on Canada over &#x27;discrimination&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/trump-administration-imposes-50-tariffs-on-canadian-goods-over-continued-discrimination-13565443" target="_blank">Trump slaps more tariffs on Canada over &#x27;discrimination&#x27;</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-07-20 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/900b/live/19b1fef0-847d-11f1-8f17-6fca617ac634.jpg" alt="US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss" target="_blank">US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-20 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss" target="_blank">How will Zelenskyy handle the growing political crisis at home?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-20 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/darline-graham-2-gty-gmh-260720_1784575108894_hpMain_4x3t_384.jpg" alt="Darline Graham, Lindsey Graham&#x27;s sister, says she will run for full Senate term" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/darline-graham-lindsey-grahams-sister-run-full-senate/story?id=134926606" target="_blank">Darline Graham, Lindsey Graham&#x27;s sister, says she will run for full Senate term</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-20 20:42</span>
             </div>
         </div>
 </div>
@@ -339,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
