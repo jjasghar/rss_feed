@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-20 23:18:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-21 00:20:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 34 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, July 20, 2026 - 23:18 UTC</div>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 00:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +108,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/" target="_blank">Anthropic’s landmark $1.5B copyright settlement is approved</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-21 00:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright" target="_blank">Here are the 30,000 songs Sony is suing Udio&amp;#8217;s AI music generator over</a></span>
                 <span class="feed">The Verge</span>
@@ -156,20 +159,29 @@
                 <span class="time">2026-07-20 21:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-500x500-1783966818.jpg" alt="Judge halts Paramount&#x27;s $111B purchase of Warner Bros. in win for US states" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/" target="_blank">Judge halts Paramount&#x27;s $111B purchase of Warner Bros. in win for US states</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-20 21:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/binaryjournal/mastering-json-tips-for-confident-data-handling-4ojo" target="_blank">Mastering JSON: Tips for Confident Data Handling</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-21 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/firefox-153.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 153 released with container tabs, rounded corners + more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/firefox-153-new-containers-feature" target="_blank">Firefox 153 released with container tabs, rounded corners + more</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-20 22:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/firefox-153.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 153 released with buil-in containers, QR Code generator + more" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/NetworkManager-1.58" target="_blank">NetworkManager 1.58 Released With 464XLAT CLAT Support &amp; GENEVE Interface</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-20 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-More-Xeon-6-MRDIMMs" target="_blank">Intel Expanding Memory Options For Current Xeon 6 / Xeon 6+ Servers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-20 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/java-news-roundup-jul13-2026/en/headerimage/java-news-roundup-image-1784573126569.jpg" alt="Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/java-news-roundup-jul13-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-20 18:45</span>
             </div>
         </div>
 </div>
@@ -361,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 107 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 23:18 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 00:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
