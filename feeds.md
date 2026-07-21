@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-21 09:46:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-21 10:40:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, July 21, 2026 - 09:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, July 21, 2026 - 10:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods" target="_blank">Trump imposes 50% tariffs on Canadian goods</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-21 10:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss" target="_blank">Lebanon’s Joseph Aoun to meet Trump: What to expect</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-21 10:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds" target="_blank">Healthy diet too expensive for one in three people globally, UN report finds</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-21 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +98,29 @@
                 <span class="time">2026-07-21 08:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6529/live/2035d300-84c8-11f1-b976-0b9c15b0ccfc.jpg" alt="Chris Mason: New chancellor faces tough spending choices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c24mnnnd18do?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: New chancellor faces tough spending choices</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-21 07:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss" target="_blank">‘We just want to live’: Palestinians in Gaza react to Hamas election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-21 06:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/21/nx-s1-5901828/powerball-begin-united-kingdom" target="_blank">Powerball ticket sales begin Tuesday in the United Kingdom</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-21 05:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact" target="_blank">Who’s afraid of the big, bad GPU?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-21 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a4fdd3a627676e81b78fc75/master/pass/WEB_CLF_WIRED_260629_CORRECTED_19.jpg" alt="Stop Saying Kids Can’t Read" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mississippi-state-testing-reading-comprehension-literacy/" target="_blank">Stop Saying Kids Can’t Read</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-21 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a5a5366ad0fb31ed65fa3d3/master/pass/Politics_ArmyBurningThroughAITokens_v4.jpg" alt="The Army Is Burning Through Its AI Tokens" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +157,20 @@
                 <span class="time">2026-07-20 22:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1402604764-500x500.jpg" alt="DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/" target="_blank">DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-20 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1402604764-500x500.jpg" alt="Cop charged with covering bodycam to photograph naked prisoners" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/" target="_blank">Cop charged with covering bodycam to photograph naked prisoners</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-20 22:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ai-mobile/en/mediumimage/medium-1784107227726.jpeg" alt="Presentation: Engineering AI for Creativity and Curiosity on Mobile" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-mobile/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Engineering AI for Creativity and Curiosity on Mobile</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-21 10:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/sumama_jamil_173056ab0be5/nexus-engine-one-command-to-set-up-a-complete-production-environment-1m36" target="_blank">Nexus Engine: One command to Set Up a Complete production Environment</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-21 06:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17383861/alacritty-terminal" target="_blank">I Finally Tried the Alacritty Terminal And It May Replace Kitty for Me</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-21 06:23</span>
             </div>
         </div>
 </div>
@@ -336,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 09:46 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 10:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
