@@ -1,28 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 19:27:55 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-22 20:21:47 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 20:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260722-trump-dignified-transfer-mn-1225-292657.jpg" alt="Trump attends dignified transfer of 4 service members killed in Iran attacks since the ceasefire ended" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/trump-attends-dignified-transfer-4-service-members-killed-iran-attacks-rcna588737" target="_blank">Trump attends dignified transfer of 4 service members killed in Iran attacks since the ceasefire ended</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-22 18:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,20 +97,38 @@
                 <span class="time">2026-07-22 15:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/22/why-traore-has-opened-a-new-front-with-burkina-fasos-muslim-community?traffic_source=rss" target="_blank">Why Traore has opened a new front with Burkina Faso’s Muslim community</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-22 14:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales" target="_blank">Tesla’s revenues are bouncing back after a dismal two years</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-22 20:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/bill-shock-500x500-1784750357.jpg" alt="ISPs&#x27; long nightmare of having to list all the fees they charge is finally over" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/" target="_blank">ISPs&#x27; long nightmare of having to list all the fees they charge is finally over</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-22 20:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a610d8207319e8f27163cc3/master/pass/Culture_The%20Anti-Odyssey%20Cope%20Is%20Getting%20Hard%20to%20Witness%20_v6.jpg" alt="‘The Odyssey’ Is Inspiring Unprecedented Levels of Cope" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-odysseys-success-is-inspiring-unprecedented-levels-of-cope/" target="_blank">‘The Odyssey’ Is Inspiring Unprecedented Levels of Cope</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-22 19:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,33 +156,6 @@
                 <span class="time">2026-07-22 17:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-3071177-500x500.jpg" alt="Next Space Force chief throws cold water on the idea of space privateers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/" target="_blank">Next Space Force chief throws cold water on the idea of space privateers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-22 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush" target="_blank">Philips’ new smart toothbrush shows you where you didn’t properly brush</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-22 15:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5fc9b9a1ae56f154ab5d6e/master/pass/Samsung%20Galaxy%20Z%20Fold8%20Ultra%20Fold8%20Flip8%201%20SOURCE%20Julian%20Chokkattu.jpg" alt="Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/" target="_blank">Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-22 13:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -160,9 +165,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/darshanraval/stop-writing-prompts-start-writing-context-1po3" target="_blank">Stop Writing Prompts. Start Writing Context</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-22 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dariusz_newecki_e35b0924c/law-outranks-intelligence-including-ours-4bod" target="_blank">Law Outranks Intelligence. Including Ours.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-22 19:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/" target="_blank">Copilot vs. raw API access: What are you actually paying for?</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-22 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -190,24 +213,6 @@
                 <span class="title"><a href="https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/" target="_blank">Next chapter: Restructuring GitHub’s bug bounty program</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-07-22 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-72-epyc-9455p" target="_blank">AMD EPYC Turin With PCIe 5.0 Storage Shows Off Nice Gains On Linux 7.2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-22 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nasrulhazim/stop-screenshotting-architecture-diagrams-build-them-as-single-file-html-50df" target="_blank">Stop Screenshotting Architecture Diagrams: Build Them as Single-File HTML</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-22 15:24</span>
             </div>
         </div>
 </div>
@@ -238,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/disgaea-1280x723.jpg" alt="Disgaea Creator Says PlayStation Might As Well Stop Making Consoles If It’s Going To Stop Making Discs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/disagaea-creator-says-playstation-might-as-well-stop-making-consoles-if-its-going-to-stop-making-discs-2000718456" target="_blank">Disgaea Creator Says PlayStation Might As Well Stop Making Consoles If It’s Going To Stop Making Discs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-22 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY5J02RMT3A41J6C4EYB6QSE/hero-image.png" alt="How Garmin&#x27;s Acquisition of TrainingPeaks Might Affect Your Fitness Routine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/garmin-acquisition-of-trainingpeaks?utm_medium=RSS" target="_blank">How Garmin&#x27;s Acquisition of TrainingPeaks Might Affect Your Fitness Routine</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-22 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/20260722140153-01KY5CE56QRWRF7SR9JJ8J2CQM-e1784743428783-1280x707.jpg" alt="Final Fantasy 10 Still Has The Best Game Opening In The Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,29 +297,20 @@
                 <span class="time">2026-07-22 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KY55KVFA3ZQSP5EKS9PH19R6/hero-image.png" alt="Roborock&#x27;s New LiDAR Robot Lawn Mower Is Already $700 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/roborock-x120h-lidar-robot-lawn-mower-deal-july-2026?utm_medium=RSS" target="_blank">Roborock&#x27;s New LiDAR Robot Lawn Mower Is Already $700 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-22 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KY50VD3HVV34M158HN0YH6MH/hero-image.jpg" alt="How to Preorder the Samsung Galaxy Z Fold 8, Z Fold 8 Ultra, or Z Flip 8" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-preorder-galaxy-z-fold-8-z-fold-8-ultra-z-flip-8?utm_medium=RSS" target="_blank">How to Preorder the Samsung Galaxy Z Fold 8, Z Fold 8 Ultra, or Z Flip 8</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-22 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/22/odyssean" target="_blank">Odyssean</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-22 19:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -347,8 +361,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 20:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
