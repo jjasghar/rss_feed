@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 15:29:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-22 16:27:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 15:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 16:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-9-ap-gmh-260722_1784736201871_hpMain_4x3t_384.jpg" alt="Trump attends dignified transfer of service members Wednesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-honor-heroes-attend-dignified-transfer-dover-air/story?id=134979766" target="_blank">Trump attends dignified transfer of service members Wednesday</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-22 16:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc9/live/6272a1d0-859f-11f1-bc30-6908d27da04d.jpg" alt="PC Harper&#x27;s widow criticises early prisoner release plan as Burnham to review scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss" target="_blank">PC Harper&#x27;s widow criticises early prisoner release plan as Burnham to review scheme</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-22 15:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +95,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trump-honor-heroes-attend-dignified-transfer-dover-air/story?id=134979766" target="_blank">Trump says he will attend dignified transfer of service members Wednesday</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-22 13:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/22/this-land-will-remain-ours-says-a-resident-in-lebanons-pilot?traffic_source=rss" target="_blank">‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-22 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg" alt="US to announce deal allowing Saudi Arabia a nuclear programme, reports say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss" target="_blank">US to announce deal allowing Saudi Arabia a nuclear programme, reports say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-22 12:40</span>
             </div>
         </div>
 </div>
@@ -170,10 +164,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-72-epyc-9455p" target="_blank">AMD EPYC Turin With PCIe 5.0 Storage Shows Off Nice Gains On Linux 7.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-22 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nasrulhazim/stop-screenshotting-architecture-diagrams-build-them-as-single-file-html-50df" target="_blank">Stop Screenshotting Architecture Diagrams: Build Them as Single-File HTML</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-22 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bento.page/slides/" target="_blank">Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-22 15:19</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/libx11-compat" target="_blank">libx11-compat Is Working To Implement Xlib Atop SDL For Wayland, macOS, Android</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-22 12:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17384756/autonomous-intern-2" target="_blank">Talk to This Glowing Pyramid on Your Desk, and It&amp;#x27;ll Run Your AI Agent for You</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-22 11:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nabeelbaghoor/one-c-core-three-platforms-what-shipping-a-background-networking-sdk-taught-me-5b2a" target="_blank">One C# Core, Three Platforms: What Shipping a Background Networking SDK Taught Me</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-22 11:26</span>
             </div>
         </div>
 </div>
@@ -309,6 +303,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1784663157-20260722.png" alt="Saturday Morning Breakfast Cereal - Bully" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/bully-2" target="_blank">Saturday Morning Breakfast Cereal - Bully</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-22 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -331,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 39 | 📸 With Images: 245 |
-        🔄 Last Updated: 15:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 16:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
