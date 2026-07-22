@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 11:32:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-22 12:28:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 11:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 12:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ed2/live/943da5d0-85bc-11f1-a407-4750df4c0797.jpg" alt="Burnham says he will review early prisoner release scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says he will review early prisoner release scheme</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-22 12:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +100,6 @@
                 <span class="time">2026-07-22 09:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/CENTCOM-plane-DB-260722_1784706802433_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran claims new attack on US base in Kuwait" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Iran claims new attack on US base in Kuwait</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-22 09:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,6 +112,15 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/" target="_blank">Ukrainian drones deliver robots directly into battle by sea and air</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-22 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid" target="_blank">Meta made its own AI detection system. It should have just used Google’s</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-22 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -149,20 +159,20 @@
                 <span class="time">2026-07-22 09:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/" target="_blank">Synthesia’s AI training platform is moving beyond videos into live coaching</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-22 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17384756/autonomous-intern-2" target="_blank">Talk to This Glowing Pyramid on Your Desk, and It&amp;#x27;ll Run Your AI Agent for You</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-22 11:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/rulestack/skillmd-how-to-write-a-claude-code-skill-that-actually-triggers-format-template-27cp" target="_blank">SKILL.md: how to write a Claude Code skill that actually triggers (format + template)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-22 05:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17384625/mpeg-4-visual-patent-expiry" target="_blank">Siemens AG Was The Last Holdout in MPEG-4 Visual&amp;#x27;s Road to Being Patent-Free</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-22 04:55</span>
             </div>
         </div>
 </div>
@@ -336,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 11:33 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 12:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
