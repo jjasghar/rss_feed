@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 12:28:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-22 13:30:11 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 12:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 13:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-8-epa-gmh-260721_1784648104416_hpMain_4x3t_384.jpg" alt="Trump says he will attend dignified transfer of service members Wednesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-honor-heroes-attend-dignified-transfer-dover-air/story?id=134979766" target="_blank">Trump says he will attend dignified transfer of service members Wednesday</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-22 13:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/22/this-land-will-remain-ours-says-a-resident-in-lebanons-pilot?traffic_source=rss" target="_blank">‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-22 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg" alt="US to announce deal allowing Saudi Arabia a nuclear programme, reports say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss" target="_blank">US to announce deal allowing Saudi Arabia a nuclear programme, reports say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-22 12:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ed2/live/943da5d0-85bc-11f1-a407-4750df4c0797.jpg" alt="Burnham says he will review early prisoner release scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -56,48 +85,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784719664248_tdy_news_7a_haake_hegseth_war_funding_260722_S3_1920x1080-86ddoe.jpg" alt="Pete Hegseth Estimates US War With Iran Has Cost $37.5B So Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-on-the-ongoing-war-with-iran-we-re-not-finished-at-all-267085893697" target="_blank">Pete Hegseth Estimates US War With Iran Has Cost $37.5B So Far</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-22 11:28</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries" target="_blank">Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-22 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-daniel-siad-jeffrey-epstein_7304103.jpg?20260722122107" alt="Modelling scout linked to Epstein found dead at Paris home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/modelling-scout-linked-to-jeffrey-epstein-found-dead-in-paris-home-13565917" target="_blank">Modelling scout linked to Epstein found dead at Paris home</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-22 10:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9fc/live/b4c56850-859a-11f1-a6e0-e3aa80f742c2.jpg" alt="Food prices have fallen – but inflation expected to rise from here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss" target="_blank">Food prices have fallen – but inflation expected to rise from here</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-22 10:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2d/live/0a96cb40-85b7-11f1-bee8-53ce494e1abc.jpg" alt="Ukrainian drones hit more sites of Russian online retailer Wildberries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss" target="_blank">Ukrainian drones hit more sites of Russian online retailer Wildberries</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-22 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260722-3x2-Rampersad-rs-e6e669.jpg" alt="U.S. identifies third service member believed to have been killed in Iranian attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/iran-war-us-service-member-killed-attack-jordan-base-military-rcna588668" target="_blank">U.S. identifies third service member believed to have been killed in Iranian attack</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-22 09:53</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/libx11-compat" target="_blank">libx11-compat Is Working To Implement Xlib Atop SDL For Wayland, macOS, Android</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-22 12:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17384756/autonomous-intern-2" target="_blank">Talk to This Glowing Pyramid on Your Desk, and It&amp;#x27;ll Run Your AI Agent for You</a></span>
                 <span class="feed">It's FOSS</span>
@@ -180,6 +191,15 @@
                 <span class="title"><a href="https://dev.to/nabeelbaghoor/one-c-core-three-platforms-what-shipping-a-background-networking-sdk-taught-me-5b2a" target="_blank">One C# Core, Three Platforms: What Shipping a Background Networking SDK Taught Me</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-22 11:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://overpaid.lol" target="_blank">OverpAId – Fire your CEO. Hire the future</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-22 10:49</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/davebrown1975/grpc-moved-into-spring-boot-41-the-new-starters-the-property-renames-and-what-we-measured-1mne" target="_blank">gRPC moved into Spring Boot 4.1: the new starters, the property renames, and what we measured</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-22 07:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/totoropurie5/rest-api-41b0" target="_blank">REST API</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-22 06:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rulestack/skillmd-how-to-write-a-claude-code-skill-that-actually-triggers-format-template-27cp" target="_blank">SKILL.md: how to write a Claude Code skill that actually triggers (format + template)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-22 05:41</span>
             </div>
         </div>
 </div>
@@ -337,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 12:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 13:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
