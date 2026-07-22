@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 02:59:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-22 04:08:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 04:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss" target="_blank">Palestine weekly: Ahead of elections, Israel doubles down on attacks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-22 03:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260717-andy-biggs-ew-1132a-22d6cd.jpg" alt="Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/trump-backed-rep-andy-biggs-wins-gop-primary-arizona-governor-rcna587980" target="_blank">Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-22 03:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss" target="_blank">Explosions in Iran as US launches new strikes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-21 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss" target="_blank">Moldova chooses new prime minister as it pushes for EU membership</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-21 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784673881595_nn_ggu_hegseth_war_cost_260721_S3_1920x1080-m11wuq.jpg" alt="Secretary Hegseth grilled over growing cost of war with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/secretary-hegseth-grilled-over-growing-cost-of-war-with-iran-267052101969" target="_blank">Secretary Hegseth grilled over growing cost of war with Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-21 22:44</span>
             </div>
         </div>
 </div>
@@ -169,9 +169,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nomurasan/your-github-release-url-opens-fine-thats-not-proof-you-can-get-the-files-back-6jk" target="_blank">Your GitHub Release URL Opens Fine. That&#x27;s Not Proof You Can Get the Files Back</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-22 04:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ssukhpinder/extension-blocks-in-c-14-are-more-than-new-syntax-31mk" target="_blank">Extension Blocks in C# 14 Are More Than New Syntax</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-22 02:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://jvns.ca/blog/2026/07/21/more-nice-django-things/" target="_blank">Some more things about Django I&#x27;ve been enjoying</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-07-22 02:46</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/johnfrandsen/open-banking-without-an-eidas-certificate-a-practical-developers-guide-2026-1j6" target="_blank">Open Banking Without an eIDAS Certificate: A Practical Developer&#x27;s Guide (2026)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-21 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/Ubuntu-certified-badge.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 will add Ubuntu Certified checking to Settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-2610-certified-hardware-check" target="_blank">Ubuntu 26.10 will add Ubuntu Certified checking to Settings</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-21 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Cryptsetup-2.8.7-Released" target="_blank">Cryptsetup 2.8.7 Released To Deal With Fallout Of Linux&#x27;s Rushed AF_ALG Deprecation</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-21 22:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 04:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
