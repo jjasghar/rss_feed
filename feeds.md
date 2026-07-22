@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 08:49:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-22 09:45:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 08:49 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 09:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/22/nx-s1-5902142/tropical-storm-bertha-makes-landfall-but-damage-appears-limited" target="_blank">Tropical Storm Bertha makes landfall but damage appears limited</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-22 09:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/22/al-jazeera-reports-from-anti-us-protest-outside-asean-summit?traffic_source=rss" target="_blank">Al Jazeera reports from anti-US protest outside ASEAN summit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-22 08:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +93,20 @@
                 <span class="time">2026-07-22 05:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss" target="_blank">Palestine weekly: Ahead of elections, Israel doubles down on attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-22 03:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260717-andy-biggs-ew-1132a-22d6cd.jpg" alt="Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/trump-backed-rep-andy-biggs-wins-gop-primary-arizona-governor-rcna587980" target="_blank">Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-22 03:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a3e755d096b0c8d95e5126a/master/pass/status_onair.jpg" alt="Flipper Busy Bar Review: An Expensive Focus Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/flipper-busy-bar/" target="_blank">Flipper Busy Bar Review: An Expensive Focus Tool</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-22 09:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +149,6 @@
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/" target="_blank">Range Rover answers the question: &quot;What if we built a not-SUV?&quot;</a></span>
                 <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-21 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5e09b6b1fb24623fec96bb/master/pass/RR_GT_Anechoic-Chamber_SIDE-PROFILE_220726.jpg" alt="Is the All-New Range Rover GT Stepping on Jaguar’s Tail?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt/" target="_blank">Is the All-New Range Rover GT Stepping on Jaguar’s Tail?</a></span>
-                <span class="feed">WIRED</span>
                 <span class="time">2026-07-21 23:01</span>
             </div>
         </div>
@@ -339,7 +331,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 08:49 UTC
+        🔄 Last Updated: 09:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
