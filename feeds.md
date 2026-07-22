@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 01:31:16 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-22 02:59:01 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss" target="_blank">How armed group alliances are reshaping Mali’s conflict and the wider Sahel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-22 02:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/21/nx-s1-5902245/government-funding-house-vote-continuing-resolution" target="_blank">House votes to extend government funding, aiming to avoid an election year shutdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-22 02:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +101,20 @@
                 <span class="time">2026-07-21 22:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc" target="_blank">Health worker monitored for Ebola in London hospital after working in DRC</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-21 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/21/nx-s1-5902101/smithsonian-house-hearing" target="_blank">Smithsonian too focused on &#x27;oppressors and the oppressed,&#x27; say House Republicans</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-21 21:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/" target="_blank">Dimension Capital’s $800M third fund shows the intersection of science and compute is booming</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-22 01:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +160,29 @@
                 <span class="time">2026-07-21 20:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5fb4ba05ce3e4504d24a50/master/pass/The-Best-Deals-of-Best-Buy%E2%80%99s-Black-Friday-in-July-Sale.jpg" alt="Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-buy-black-friday-in-july-2026/" target="_blank">Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-21 20:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ssukhpinder/extension-blocks-in-c-14-are-more-than-new-syntax-31mk" target="_blank">Extension Blocks in C# 14 Are More Than New Syntax</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-22 02:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17384570/mangowm-explore" target="_blank">I Tried MangoWM, and I&amp;#x27;m Not Going Back to Niri</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-22 02:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,29 +219,20 @@
                 <span class="time">2026-07-21 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fluidwire/the-first-computer-bug-was-a-real-moth-5hje" target="_blank">The First Computer Bug Was a Real Moth</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-21 21:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcourseengine.ai%2Fcourse-engine-logo.png" alt="Chat-based AI course authoring: why SCORM still matters in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ian_tappan/chat-based-ai-course-authoring-why-scorm-still-matters-in-2026-40lk" target="_blank">Chat-based AI course authoring: why SCORM still matters in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-21 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/" target="_blank">LG to Ban Residential Proxies from Smart TV Apps</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-07-22 01:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -246,6 +254,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/21/oldest-domains-on-the-internet.html" target="_blank">A tour of the oldest domains still on the internet</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-22 00:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/06/de6637b15951f66cf3e203948a12314e-1280x720.jpg" alt="Seamless No-Load-Screen Takeoffs Come To Starfield Three Years Later Thanks To Modder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/seamless-no-load-screen-takeoffs-come-to-starfield-three-years-later-thanks-to-modder-2000718146" target="_blank">Seamless No-Load-Screen Takeoffs Come To Starfield Three Years Later Thanks To Modder</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-21 23:30</span>
             </div>
         </div>
 <div class="story">
@@ -284,15 +301,6 @@
                 <span class="time">2026-07-21 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/02/xfiles-e1784661157970.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Gillian Anderson reveals X-Files LEGO set" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/21/gillian-anderson-reveals-x-files-lego-set.html" target="_blank">Gillian Anderson reveals X-Files LEGO set</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-21 19:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
