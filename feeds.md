@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 21:22:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-22 22:19:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 21:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 22:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation" target="_blank">House passes Pentagon funding and limits on stock trades in a last dash before recess</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-22 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +98,38 @@
                 <span class="time">2026-07-22 16:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-9-ap-gmh-260722_1784736201871_hpMain_4x3t_384.jpg" alt="Trump attends dignified transfer of service members Wednesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-honor-heroes-attend-dignified-transfer-dover-air/story?id=134979766" target="_blank">Trump attends dignified transfer of service members Wednesday</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-22 16:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/" target="_blank">Google justifies its massive AI spending with a booming cloud business</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-22 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5fb900f1768585876831c9/master/pass/Science_WhyLettuceKeepsGettingUsSick_V1-ezgif.com-video-to-gif-converter.gif" alt="Why Lettuce Is Always Making People Sick" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/why-lettuce-always-making-people-sick/" target="_blank">Why Lettuce Is Always Making People Sick</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-22 21:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/08/tesla-pondering-500x500.jpg" alt="Sales were up at Tesla but so were costs and spending" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/" target="_blank">Sales were up at Tesla but so were costs and spending</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-22 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/08/tesla-pondering-500x500.jpg" alt="Tesla&#x27;s revenues are up, but profits squeezed as Musk spends on AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,33 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales" target="_blank">Tesla’s revenues are bouncing back after a dismal two years</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-22 20:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/bill-shock-500x500-1784750357.jpg" alt="ISPs&#x27; long nightmare of having to list all the fees they charge is finally over" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/" target="_blank">ISPs&#x27; long nightmare of having to list all the fees they charge is finally over</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-22 20:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a610d8207319e8f27163cc3/master/pass/Culture_The%20Anti-Odyssey%20Cope%20Is%20Getting%20Hard%20to%20Witness%20_v6.jpg" alt="‘The Odyssey’ Is Inspiring Unprecedented Levels of Cope" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-odysseys-success-is-inspiring-unprecedented-levels-of-cope/" target="_blank">‘The Odyssey’ Is Inspiring Unprecedented Levels of Cope</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-22 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/" target="_blank">How OpenAI’s human mistake led to the AI-powered hack on Hugging Face</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-22 19:11</span>
             </div>
         </div>
 </div>
@@ -370,8 +362,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 21:22 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 22:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
