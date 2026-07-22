@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 20:21:47 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-22 21:22:09 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 20:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 21:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/22/indias-rahul-gandhi-speaks-out-after-release?traffic_source=rss" target="_blank">India’s Rahul Gandhi speaks out after release</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-22 20:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260722-trump-dignified-transfer-mn-1225-292657.jpg" alt="Trump attends dignified transfer of 4 service members killed in Iran attacks since the ceasefire ended" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +106,29 @@
                 <span class="time">2026-07-22 16:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc9/live/6272a1d0-859f-11f1-bc30-6908d27da04d.jpg" alt="PC Harper&#x27;s widow criticises early prisoner release plan as Burnham to review scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss" target="_blank">PC Harper&#x27;s widow criticises early prisoner release plan as Burnham to review scheme</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-22 15:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/08/tesla-pondering-500x500.jpg" alt="Tesla&#x27;s revenues are up, but profits squeezed as Musk spends on AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/" target="_blank">Tesla&#x27;s revenues are up, but profits squeezed as Musk spends on AI</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-22 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5fecfac92cec058a76a8e2/master/pass/politics_chinese_ai_white_house.jpg" alt="The White House Is Trying to Figure Out What to Do About Chinese AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/" target="_blank">The White House Is Trying to Figure Out What to Do About Chinese AI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-22 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +165,6 @@
                 <span class="time">2026-07-22 19:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5fd76c11a753291481624c/master/pass/Review--Dyson-V10-Konical.jpg" alt="Dyson V10 Konical Review (2026): Affordable and Solid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/dyson-v10-konical-2026/" target="_blank">Dyson V10 Konical Review (2026): Affordable and Solid</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-22 17:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/" target="_blank">Google is making it easier to switch from iPhone to Android</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-22 17:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,9 +174,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/uptimearchitect/oracle-rman-recovery-runbook-restore-recover-prove-it-50mo" target="_blank">Oracle RMAN Recovery Runbook: Restore, Recover, Prove It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-22 21:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/darshanraval/stop-writing-prompts-start-writing-context-1po3" target="_blank">Stop Writing Prompts. Start Writing Context</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-22 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Here’s why your Ubuntu 26.04 install is quiet about updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-26-04-update-notifications-disabled" target="_blank">Here’s why your Ubuntu 26.04 install is quiet about updates</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-22 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://twitter.com/na_announce/status/2079952538040672302" target="_blank">John C. Dvorak has died</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-22 19:22</span>
             </div>
         </div>
 <div class="story">
@@ -182,37 +218,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/" target="_blank">Copilot vs. raw API access: What are you actually paying for?</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-22 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56" target="_blank">Terrence Tao&#x27;s ChatGPT Conversation about the Jacobian Conjecture Counterexample</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-22 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kaixintelligence/how-ai-is-transforming-software-development-workflows-in-2026-4co9" target="_blank">How AI is Transforming Software Development Workflows in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-22 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/" target="_blank">Next chapter: Restructuring GitHub’s bug bounty program</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-22 16:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SDL-HDR10-Rendering-Support" target="_blank">SDL Lands HDR10 Rendering Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-22 19:13</span>
             </div>
         </div>
 </div>
@@ -243,6 +252,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY344CK9BA8WJS3NG0WW3SKV/hero-image.jpg" alt="How to Take Creatine for the (Possible) Mental Health Benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/does-creatine-have-mental-health-benefits?utm_medium=RSS" target="_blank">How to Take Creatine for the (Possible) Mental Health Benefits</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-22 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="The anti-vax movement keeps setting records nobody wanted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/22/the-anti-vax-movement-keeps-setting-records-nobody-wanted.html" target="_blank">The anti-vax movement keeps setting records nobody wanted</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-22 20:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/disgaea-1280x723.jpg" alt="Disgaea Creator Says PlayStation Might As Well Stop Making Consoles If It’s Going To Stop Making Discs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +304,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/22/products-are-getting-worse-on-purpose.html" target="_blank">Products are getting worse on purpose</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-22 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KY59MV7S976H4CC0S0ZWVC4T/hero-image.jpg" alt="If You Loved &#x27;House of the Dragon,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-like-house-of-the-dragon?utm_medium=RSS" target="_blank">If You Loved &#x27;House of the Dragon,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-22 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/my-friend-cayla.jpg?fit=1200%2C1200&amp;quality=60&amp;ssl=1" alt="Germany told parents to destroy this talking doll" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/22/my-friend-cayla.html" target="_blank">Germany told parents to destroy this talking doll</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-22 16:30</span>
             </div>
         </div>
 </div>
@@ -361,8 +370,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 20:21 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 21:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
