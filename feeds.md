@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 14:37:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-22 15:29:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 14:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 15:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/22/why-traore-has-opened-a-new-front-with-burkina-fasos-muslim-community?traffic_source=rss" target="_blank">Why Traore has opened a new front with Burkina Faso’s Muslim community</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-22 14:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg" alt="US to announce deal allowing Saudi Arabia a nuclear programme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss" target="_blank">US to announce deal allowing Saudi Arabia a nuclear programme</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-22 14:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc9/live/6272a1d0-859f-11f1-bc30-6908d27da04d.jpg" alt="Burnham to review early prisoner release scheme after anger over potential freeing of PC Harper&#x27;s killers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +103,29 @@
                 <span class="time">2026-07-22 12:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ed2/live/943da5d0-85bc-11f1-a407-4750df4c0797.jpg" alt="Burnham says he will review early prisoner release scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says he will review early prisoner release scheme</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-22 12:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784719664248_tdy_news_7a_haake_hegseth_war_funding_260722_S3_1920x1080-86ddoe.jpg" alt="Pete Hegseth Estimates US War With Iran Has Cost $37.5B So Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-on-the-ongoing-war-with-iran-we-re-not-finished-at-all-267085893697" target="_blank">Pete Hegseth Estimates US War With Iran Has Cost $37.5B So Far</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-22 11:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush" target="_blank">Philips’ new smart toothbrush shows you where you didn’t properly brush</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-22 15:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5fc9b9a1ae56f154ab5d6e/master/pass/Samsung%20Galaxy%20Z%20Fold8%20Ultra%20Fold8%20Flip8%201%20SOURCE%20Julian%20Chokkattu.jpg" alt="Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/" target="_blank">Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-22 13:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +162,29 @@
                 <span class="time">2026-07-22 10:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump" target="_blank">Utility companies are promising to spare us from AI’s energy bill</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-22 10:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/" target="_blank">Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-22 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nasrulhazim/stop-screenshotting-architecture-diagrams-build-them-as-single-file-html-50df" target="_blank">Stop Screenshotting Architecture Diagrams: Build Them as Single-File HTML</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-22 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/" target="_blank">PyPI releases now reject new files after 14 days</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-07-22 15:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/07/github-issues-navigation/en/headerimage/generatedHeaderImage-1783811772898.jpg" alt="GitHub Increased Instant Navigation from 4% to 22% by Rethinking Client Side Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +221,6 @@
                 <span class="time">2026-07-22 11:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://overpaid.lol" target="_blank">OverpAId – Fire your CEO. Hire the future</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-22 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/aws-billing-estimates-incident/en/headerimage/generatedHeaderImage-1784456911552.jpg" alt="AWS Billing Bug Shows Customers Trillion-Dollar Estimates While Its Own Cost Alarms Fail to Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/aws-billing-estimates-incident/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Billing Bug Shows Customers Trillion-Dollar Estimates While Its Own Cost Alarms Fail to Act</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-22 10:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY55KVFA3ZQSP5EKS9PH19R6/hero-image.png" alt="Roborock&#x27;s New LiDAR Robot Lawn Mower Is Already $700 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/roborock-x120h-lidar-robot-lawn-mower-deal-july-2026?utm_medium=RSS" target="_blank">Roborock&#x27;s New LiDAR Robot Lawn Mower Is Already $700 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-22 15:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KY50VD3HVV34M158HN0YH6MH/hero-image.jpg" alt="How to Preorder the Samsung Galaxy Z Fold 8, Z Fold 8 Ultra, or Z Flip 8" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +303,6 @@
                 <span class="time">2026-07-21 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Office-2024-Professional-Plus-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Microsoft Office 2024 puts the old reliables back on your PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/21/microsoft-office-2024-puts-the-old-reliables-back-on-your-pc.html" target="_blank">Microsoft Office 2024 puts the old reliables back on your PC</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-21 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,22 +326,13 @@
                 <span class="time">2026-07-22 00:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1784595902-20260721.png" alt="Saturday Morning Breakfast Cereal - Crawl" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/crawl" target="_blank">Saturday Morning Breakfast Cereal - Crawl</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-21 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 14:37 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 15:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
