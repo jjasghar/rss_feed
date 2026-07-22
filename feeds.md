@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 22:19:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-22 23:18:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 22:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 23:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,10 +49,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss" target="_blank">Austrian home where Hitler was born reopened as police station</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-22 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation" target="_blank">House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-22 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation" target="_blank">House passes Pentagon funding and limits on stock trades in a last dash before recess</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-22 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg" alt="US signs landmark nuclear deal with Saudi Arabia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss" target="_blank">US signs landmark nuclear deal with Saudi Arabia</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-22 21:31</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +100,20 @@
                 <span class="time">2026-07-22 18:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/22/g-s1-134813/ukraine-military-shakeup-zelenskyy" target="_blank">What to know about Ukraine&#x27;s military shakeup</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-22 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/22/us-judge-sets-2027-trial-date-for-venezuelas-maduro-and-wife?traffic_source=rss" target="_blank">US judge sets 2027 trial date for Venezuela’s Maduro and wife</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-22 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions?traffic_source=rss" target="_blank">Iran’s judiciary warns against ‘infiltrators’, announces new executions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-22 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped" target="_blank">Meta won’t have to face the next planned social media addiction trial</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-22 22:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +159,20 @@
                 <span class="time">2026-07-22 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales" target="_blank">Tesla’s revenues are bouncing back after a dismal two years</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-22 20:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria" target="_blank">Medici family mystery may be solved after more than 400 years</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-22 21:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +218,6 @@
                 <span class="time">2026-07-22 19:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SDL-HDR10-Rendering-Support" target="_blank">SDL Lands HDR10 Rendering Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-22 19:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Generated-image-1-2-1-e1784758013416.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains tells grieving parents they can ride on his cool plane" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/22/grandpa-pudding-brains-tells-grieving-parents-they-can-ride-on-his-cool-plane.html" target="_blank">Grandpa Pudding Brains tells grieving parents they can ride on his cool plane</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-22 22:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KY344CK9BA8WJS3NG0WW3SKV/hero-image.jpg" alt="How to Take Creatine for the (Possible) Mental Health Benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +298,6 @@
                 <span class="title"><a href="https://kotaku.com/final-fantasy-10-still-has-the-best-game-opening-in-the-series-2000718389" target="_blank">Final Fantasy 10 Still Has The Best Game Opening In The Series</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-22 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/allclad.jpg?fit=2412%2C1357&amp;quality=60&amp;ssl=1" alt="Products are getting worse on purpose" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/22/products-are-getting-worse-on-purpose.html" target="_blank">Products are getting worse on purpose</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-22 17:26</span>
             </div>
         </div>
 </div>
@@ -362,8 +364,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 22:19 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 23:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
