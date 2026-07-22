@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 09:45:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-22 10:40:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 09:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 10:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9fc/live/b4c56850-859a-11f1-a6e0-e3aa80f742c2.jpg" alt="Food prices have fallen – but inflation expected to rise from here" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss" target="_blank">Food prices have fallen – but inflation expected to rise from here</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-22 10:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2d/live/0a96cb40-85b7-11f1-bee8-53ce494e1abc.jpg" alt="Ukrainian drones hit more sites of Russian online retailer Wildberries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss" target="_blank">Ukrainian drones hit more sites of Russian online retailer Wildberries</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-22 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260722-3x2-Rampersad-rs-e6e669.jpg" alt="U.S. identifies third service member believed to have been killed in Iranian attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/iran-war-us-service-member-killed-attack-jordan-base-military-rcna588668" target="_blank">U.S. identifies third service member believed to have been killed in Iranian attack</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-22 09:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/CENTCOM-plane-DB-260722_1784706802433_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran claims new attack on US base in Kuwait" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Iran claims new attack on US base in Kuwait</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-22 09:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -57,47 +98,38 @@
                 <span class="time">2026-07-22 08:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs" target="_blank">Trump-backed candidates, 2020 election deniers, win Arizona primaries</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-22 08:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/22/air-defences-activate-in-iran-and-flames-rise-from-us-attacks?traffic_source=rss" target="_blank">Air defences activate in Iran and flames rise from US attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-22 07:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban" target="_blank">French lawmakers approve a sweeping social media ban for children under 15</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-22 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/22/goats-of-football-indian-village-holds-tournament-with-an-indigenous-twist?traffic_source=rss" target="_blank">Goats of football: Indian village holds tournament with an Indigenous twist</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-22 05:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5fb847a428975bd63eacd8/master/pass/The-Best-Fitbit-Models-for-Every-Lifestyle.jpg" alt="6 Best Fitbit Models for Beginners, Athletes, and Kids (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-fitbit/" target="_blank">6 Best Fitbit Models for Beginners, Athletes, and Kids (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-22 10:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump" target="_blank">Utility companies are promising to spare us from AI’s energy bill</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-22 10:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/" target="_blank">Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-22 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a3e755d096b0c8d95e5126a/master/pass/status_onair.jpg" alt="Flipper Busy Bar Review: An Expensive Focus Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -125,38 +157,20 @@
                 <span class="time">2026-07-22 03:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/" target="_blank">Dimension Capital’s $800M third fund shows the intersection of science and compute is booming</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-22 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch" target="_blank">Samsung Galaxy Unpacked July 2026: How to watch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-22 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/RR_GT_FRONT-3-4-500x500.jpg" alt="Range Rover answers the question: &quot;What if we built a not-SUV?&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/" target="_blank">Range Rover answers the question: &quot;What if we built a not-SUV?&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-21 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/aws-billing-estimates-incident/en/headerimage/generatedHeaderImage-1784456911552.jpg" alt="AWS Billing Bug Shows Customers Trillion-Dollar Estimates While Its Own Cost Alarms Fail to Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/aws-billing-estimates-incident/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Billing Bug Shows Customers Trillion-Dollar Estimates While Its Own Cost Alarms Fail to Act</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-22 10:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/nomurasan/your-github-release-url-opens-fine-thats-not-proof-you-can-get-the-files-back-6jk" target="_blank">Your GitHub Release URL Opens Fine. That&#x27;s Not Proof You Can Get the Files Back</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-22 04:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ssukhpinder/extension-blocks-in-c-14-are-more-than-new-syntax-31mk" target="_blank">Extension Blocks in C# 14 Are More Than New Syntax</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-22 02:53</span>
             </div>
         </div>
 </div>
@@ -330,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 09:45 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 10:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
