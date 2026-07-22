@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 00:18:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-22 01:31:16 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 00:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +52,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss" target="_blank">Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-22 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss" target="_blank">Explosions in Iran as US launches new strikes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-21 23:46</span>
@@ -60,6 +73,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss" target="_blank">Moldova chooses new prime minister as it pushes for EU membership</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-21 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784673881595_nn_ggu_hegseth_war_cost_260721_S3_1920x1080-m11wuq.jpg" alt="Secretary Hegseth grilled over growing cost of war with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/secretary-hegseth-grilled-over-growing-cost-of-war-with-iran-267052101969" target="_blank">Secretary Hegseth grilled over growing cost of war with Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-21 22:44</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +102,29 @@
                 <span class="time">2026-07-21 21:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss" target="_blank">Drone shows scorched landscape after Spain wildfire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-21 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kennedy-2-epa-gmh-260721_1784658197332_hpMain_4x3t_384.jpg" alt="RFK Jr. says cyclosporiasis outbreak &#x27;under control&#x27; amid 1,600 cases in 5 states" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Health/rfk-jr-cyclosporiasis-outbreak-control-amid-1600-cases/story?id=134959106" target="_blank">RFK Jr. says cyclosporiasis outbreak &#x27;under control&#x27; amid 1,600 cases in 5 states</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-21 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch" target="_blank">Samsung Galaxy Unpacked July 2026: How to watch</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-22 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/RR_GT_FRONT-3-4-500x500.jpg" alt="Range Rover answers the question: &quot;What if we built a not-SUV?&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/" target="_blank">Range Rover answers the question: &quot;What if we built a not-SUV?&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-21 23:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a5e09b6b1fb24623fec96bb/master/pass/RR_GT_Anechoic-Chamber_SIDE-PROFILE_220726.jpg" alt="Is the All-New Range Rover GT Stepping on Jaguar’s Tail?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +161,6 @@
                 <span class="time">2026-07-21 20:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/spideyTOP-500x500.jpg" alt="Sony releases one last trailer for Spider-Man: Brand New Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/" target="_blank">Sony releases one last trailer for Spider-Man: Brand New Day</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-21 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-500x500-1776887612.jpg" alt="Nintendo says users voluntarily paid higher prices, have no right to tariff refunds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/" target="_blank">Nintendo says users voluntarily paid higher prices, have no right to tariff refunds</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-21 19:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +185,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/Ubuntu-certified-badge.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 will add Ubuntu Certified checking to Settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-2610-certified-hardware-check" target="_blank">Ubuntu 26.10 will add Ubuntu Certified checking to Settings</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-21 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Cryptsetup-2.8.7-Released" target="_blank">Cryptsetup 2.8.7 Released To Deal With Fallout Of Linux&#x27;s Rushed AF_ALG Deprecation</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-21 22:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/ian_tappan/chat-based-ai-course-authoring-why-scorm-still-matters-in-2026-40lk" target="_blank">Chat-based AI course authoring: why SCORM still matters in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-21 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/" target="_blank">OpenAI and Hugging Face address security incident during model evaluation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-21 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/android-studio-quail-2/en/headerimage/android-studio-quail2-1784654356718.jpeg" alt="Android Studio Quail 2 Redesigns Agent Mode, Streamlines AI-Assisted Coding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/android-studio-quail-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Android Studio Quail 2 Redesigns Agent Mode, Streamlines AI-Assisted Coding</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-21 19:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Symbolics-3600-on.jpg?fit=2388%2C676&amp;quality=60&amp;ssl=1" alt="A tour of the oldest domains still on the internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/21/oldest-domains-on-the-internet.html" target="_blank">A tour of the oldest domains still on the internet</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-22 00:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KY36HP9N9V5A12PKZM359RMY/hero-image.png" alt="Samsung&#x27;s Premium Galaxy Watch 8 Is Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,20 +293,20 @@
                 <span class="time">2026-07-21 19:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/backrooms.jpg?fit=1248%2C702&amp;quality=60&amp;ssl=1" alt="Honest Trailers gets lost in the beige hell of Backrooms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/21/honest-trailers-gets-lost-in-the-beige-hell-of-backrooms.html" target="_blank">Honest Trailers gets lost in the beige hell of Backrooms</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-21 18:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5878.png" alt="Some Regrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5878" target="_blank">Some Regrets</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-22 00:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1784595902-20260721.png" alt="Saturday Morning Breakfast Cereal - Crawl" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,22 +316,13 @@
                 <span class="time">2026-07-21 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5877.png" alt="A Friend In Need&#x27;s A Friend Indeed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5877" target="_blank">A Friend In Need&#x27;s A Friend Indeed</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-21 01:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 00:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
