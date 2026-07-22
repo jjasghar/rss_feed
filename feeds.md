@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 13:30:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-22 14:37:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 13:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 14:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc9/live/6272a1d0-859f-11f1-bc30-6908d27da04d.jpg" alt="Burnham to review early prisoner release scheme after anger over potential freeing of PC Harper&#x27;s killers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to review early prisoner release scheme after anger over potential freeing of PC Harper&#x27;s killers</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-22 14:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-8-epa-gmh-260721_1784648104416_hpMain_4x3t_384.jpg" alt="Trump says he will attend dignified transfer of service members Wednesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +95,20 @@
                 <span class="time">2026-07-22 11:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries" target="_blank">Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-22 11:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos" target="_blank">Samsung’s newest foldable finally feels Ultra</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-22 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Ukrainian-military-robot-test-500x500.jpg" alt="Ukrainian drones deliver robots directly into battle by sea and air" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +154,20 @@
                 <span class="time">2026-07-22 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3e755d096b0c8d95e5126a/master/pass/status_onair.jpg" alt="Flipper Busy Bar Review: An Expensive Focus Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/flipper-busy-bar/" target="_blank">Flipper Busy Bar Review: An Expensive Focus Tool</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-22 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/github-issues-navigation/en/headerimage/generatedHeaderImage-1783811772898.jpg" alt="GitHub Increased Instant Navigation from 4% to 22% by Rethinking Client Side Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/github-issues-navigation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Increased Instant Navigation from 4% to 22% by Rethinking Client Side Architecture</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-22 14:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +213,6 @@
                 <span class="time">2026-07-22 10:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/davebrown1975/grpc-moved-into-spring-boot-41-the-new-starters-the-property-renames-and-what-we-measured-1mne" target="_blank">gRPC moved into Spring Boot 4.1: the new starters, the property renames, and what we measured</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-22 07:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY50VD3HVV34M158HN0YH6MH/hero-image.jpg" alt="How to Preorder the Samsung Galaxy Z Fold 8, Z Fold 8 Ultra, or Z Flip 8" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-preorder-galaxy-z-fold-8-z-fold-8-ultra-z-flip-8?utm_medium=RSS" target="_blank">How to Preorder the Samsung Galaxy Z Fold 8, Z Fold 8 Ultra, or Z Flip 8</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-22 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KWF5EZGS2SG2E1SRREAK2NGG/hero-image.jpg" alt="Lifehacker&#x27;s Big Guessing Game Is in Its Second Round" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +295,6 @@
                 <span class="time">2026-07-21 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KY34CMA22N6FY3ZT86XKAPHD/hero-image.png" alt="The Roomba Max 705 Robot Vacuum Is 45% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/roomba-max-705-robot-vacuum-deal-july-2026?utm_medium=RSS" target="_blank">The Roomba Max 705 Robot Vacuum Is 45% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-21 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 13:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 14:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
