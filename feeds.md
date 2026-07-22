@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 16:27:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-22 17:27:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 16:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 17:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions?traffic_source=rss" target="_blank">Iran’s judiciary warns against ‘infiltrators’, announces new executions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-22 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-9-ap-gmh-260722_1784736201871_hpMain_4x3t_384.jpg" alt="Trump attends dignified transfer of service members Wednesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,21 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc9/live/6272a1d0-859f-11f1-bc30-6908d27da04d.jpg" alt="Burnham to review early prisoner release scheme after anger over potential freeing of PC Harper&#x27;s killers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-nicolas-maduro-court_7127135.jpg?20260105151757" alt="US trial date set for Venezuela&#x27;s ousted president Maduro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to review early prisoner release scheme after anger over potential freeing of PC Harper&#x27;s killers</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-22 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-8-epa-gmh-260721_1784648104416_hpMain_4x3t_384.jpg" alt="Trump says he will attend dignified transfer of service members Wednesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-honor-heroes-attend-dignified-transfer-dover-air/story?id=134979766" target="_blank">Trump says he will attend dignified transfer of service members Wednesday</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-22 13:17</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-trial-date-set-for-venezuelas-ousted-president-nicolas-maduro-over-drugs-trafficking-charges-13566011" target="_blank">US trial date set for Venezuela&#x27;s ousted president Maduro</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-22 14:42</span>
             </div>
         </div>
 </div>
@@ -102,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/" target="_blank">Google is making it easier to switch from iPhone to Android</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-22 17:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-3071177-500x500.jpg" alt="Next Space Force chief throws cold water on the idea of space privateers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/" target="_blank">Next Space Force chief throws cold water on the idea of space privateers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-22 17:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +160,29 @@
                 <span class="time">2026-07-22 11:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid" target="_blank">Meta made its own AI detection system. It should have just used Google’s</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-22 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5fb847a428975bd63eacd8/master/pass/The-Best-Fitbit-Models-for-Every-Lifestyle.jpg" alt="6 Best Fitbit Models for Beginners, Athletes, and Kids (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-fitbit/" target="_blank">6 Best Fitbit Models for Beginners, Athletes, and Kids (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-22 10:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kaixintelligence/how-ai-is-transforming-software-development-workflows-in-2026-4co9" target="_blank">How AI is Transforming Software Development Workflows in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-22 17:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/" target="_blank">Next chapter: Restructuring GitHub’s bug bounty program</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-22 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +219,6 @@
                 <span class="time">2026-07-22 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/github-issues-navigation/en/headerimage/generatedHeaderImage-1783811772898.jpg" alt="GitHub Increased Instant Navigation from 4% to 22% by Rethinking Client Side Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/github-issues-navigation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Increased Instant Navigation from 4% to 22% by Rethinking Client Side Architecture</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-22 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/libx11-compat" target="_blank">libx11-compat Is Working To Implement Xlib Atop SDL For Wayland, macOS, Android</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-22 12:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY59MV7S976H4CC0S0ZWVC4T/hero-image.jpg" alt="If You Loved &#x27;House of the Dragon,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-like-house-of-the-dragon?utm_medium=RSS" target="_blank">If You Loved &#x27;House of the Dragon,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-22 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/my-friend-cayla.jpg?fit=1200%2C1200&amp;quality=60&amp;ssl=1" alt="Germany told parents to destroy this talking doll" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/22/my-friend-cayla.html" target="_blank">Germany told parents to destroy this talking doll</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-22 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KY55KVFA3ZQSP5EKS9PH19R6/hero-image.png" alt="Roborock&#x27;s New LiDAR Robot Lawn Mower Is Already $700 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +301,6 @@
                 <span class="time">2026-07-22 00:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/06/de6637b15951f66cf3e203948a12314e-1280x720.jpg" alt="Seamless No-Load-Screen Takeoffs Come To Starfield Three Years Later Thanks To Modder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seamless-no-load-screen-takeoffs-come-to-starfield-three-years-later-thanks-to-modder-2000718146" target="_blank">Seamless No-Load-Screen Takeoffs Come To Starfield Three Years Later Thanks To Modder</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-21 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KY36HP9N9V5A12PKZM359RMY/hero-image.png" alt="Samsung&#x27;s Premium Galaxy Watch 8 Is Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-watch-8-classic-deal-july-2026?utm_medium=RSS" target="_blank">Samsung&#x27;s Premium Galaxy Watch 8 Is Half Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-21 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,6 +325,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/calibration_nobel.png" alt="Calibration Nobel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3275/" target="_blank">Calibration Nobel</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-07-22 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5878.png" alt="Some Regrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -334,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 16:27 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 17:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
