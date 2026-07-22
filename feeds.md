@@ -1,35 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 18:22:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-22 19:27:55 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 18:22 UTC</div>
+    <div class="newspaper-date">Wednesday, July 22, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/22/g-s1-134813/ukraine-military-shakeup-zelenskyy" target="_blank">What to know about Ukraine&#x27;s military shakeup</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-22 18:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +92,20 @@
                 <span class="time">2026-07-22 14:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg" alt="US to announce deal allowing Saudi Arabia a nuclear programme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss" target="_blank">US to announce deal allowing Saudi Arabia a nuclear programme</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-22 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/" target="_blank">How OpenAI’s human mistake led to the AI-powered hack on Hugging Face</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-22 19:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a5fd76c11a753291481624c/master/pass/Review--Dyson-V10-Konical.jpg" alt="Dyson V10 Konical Review (2026): Affordable and Solid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +151,20 @@
                 <span class="time">2026-07-22 13:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos" target="_blank">Samsung’s newest foldable finally feels Ultra</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-22 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dariusz_newecki_e35b0924c/law-outranks-intelligence-including-ours-4bod" target="_blank">Law Outranks Intelligence. Including Ours.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-22 19:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +208,6 @@
                 <span class="title"><a href="https://dev.to/nasrulhazim/stop-screenshotting-architecture-diagrams-build-them-as-single-file-html-50df" target="_blank">Stop Screenshotting Architecture Diagrams: Build Them as Single-File HTML</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-22 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bento.page/slides/" target="_blank">Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-22 15:19</span>
             </div>
         </div>
 </div>
@@ -305,6 +298,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/258146/" target="_blank">Poorly Drawn Lines</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-07-22 16:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1784663157-20260722.png" alt="Saturday Morning Breakfast Cereal - Bully" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -345,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 18:22 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
