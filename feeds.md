@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-22 23:18:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-23 00:20:23 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, July 22, 2026 - 23:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 00:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +104,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/" target="_blank">After shocking quarter, IBM insists that AI isn’t killing the mainframe</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-22 23:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped" target="_blank">Meta won’t have to face the next planned social media addiction trial</a></span>
                 <span class="feed">The Verge</span>
@@ -150,20 +155,29 @@
                 <span class="time">2026-07-22 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5fecfac92cec058a76a8e2/master/pass/politics_chinese_ai_white_house.jpg" alt="The White House Is Trying to Figure Out What to Do About Chinese AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/" target="_blank">The White House Is Trying to Figure Out What to Do About Chinese AI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-22 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cilly/treating-firestore-as-a-public-cache-3mkm" target="_blank">Treating Firestore as a public cache</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-23 00:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Lemonade-11.5" target="_blank">Lemonade 11.5 Local AI Server Released With Completed Lemonade Router</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-22 22:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +214,6 @@
                 <span class="time">2026-07-22 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://twitter.com/na_announce/status/2079952538040672302" target="_blank">John C. Dvorak has died</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-22 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dariusz_newecki_e35b0924c/law-outranks-intelligence-including-ours-4bod" target="_blank">Law Outranks Intelligence. Including Ours.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-22 19:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/07/shutterstock_2038666817-e1784762863662.jpg?fit=768%2C523&amp;quality=60&amp;ssl=1" alt="U.S. Army finds out unlimited isn&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/22/the-u-s-army-ran-out-of-unlimited-ai.html" target="_blank">U.S. Army finds out unlimited isn&#x27;t</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-22 23:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Generated-image-1-2-1-e1784758013416.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains tells grieving parents they can ride on his cool plane" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/garmin-acquisition-of-trainingpeaks?utm_medium=RSS" target="_blank">How Garmin&#x27;s Acquisition of TrainingPeaks Might Affect Your Fitness Routine</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-22 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/20260722140153-01KY5CE56QRWRF7SR9JJ8J2CQM-e1784743428783-1280x707.jpg" alt="Final Fantasy 10 Still Has The Best Game Opening In The Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-10-still-has-the-best-game-opening-in-the-series-2000718389" target="_blank">Final Fantasy 10 Still Has The Best Game Opening In The Series</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-22 18:04</span>
             </div>
         </div>
 </div>
@@ -364,8 +360,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 23:19 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 00:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
