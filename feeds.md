@@ -1,31 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-07-23 04:07:24 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-07-23 05:58:03 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 23, 2026 - 04:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 05:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models" target="_blank">OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-23 05:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +90,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation" target="_blank">House passes Pentagon funding and limits on stock trades in a last dash before recess</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-22 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg" alt="US signs landmark nuclear deal with Saudi Arabia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss" target="_blank">US signs landmark nuclear deal with Saudi Arabia</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-22 21:31</span>
             </div>
         </div>
 </div>
@@ -163,6 +160,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dr_data/agentscaffold-memory-peer-review-and-continuous-improvement-for-ai-coding-agents-43fb" target="_blank">AgentScaffold: Memory, Peer Review, and Continuous Improvement for AI Coding Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-23 05:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/stvens_matin_783b9f9cac24/designing-idempotent-stripe-webhook-delivery-for-generated-files-346k" target="_blank">Designing Idempotent Stripe Webhook Delivery for Generated Files</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-23 02:48</span>
@@ -202,15 +208,6 @@
                 <span class="title"><a href="https://dev.to/uptimearchitect/oracle-rman-recovery-runbook-restore-recover-prove-it-50mo" target="_blank">Oracle RMAN Recovery Runbook: Restore, Recover, Prove It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-22 21:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/darshanraval/stop-writing-prompts-start-writing-context-1po3" target="_blank">Stop Writing Prompts. Start Writing Context</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-22 20:18</span>
             </div>
         </div>
 </div>
@@ -332,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 04:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 05:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
