@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-23 17:27:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-23 18:23:10 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, July 23, 2026 - 17:27 UTC</div>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 18:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +110,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/970211/patreon-layoffs-ai" target="_blank">Patreon is laying off 20 percent of workers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-23 18:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6130577c0be82b590f3664/master/pass/07226-msg-wedding-top.jpg" alt="For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/" target="_blank">For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-23 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/coyotevsacme-500x500.jpg" alt="Final Coyote vs. Acme trailer drops at SDCC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/" target="_blank">Final Coyote vs. Acme trailer drops at SDCC</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-23 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/" target="_blank">US government says Iran-linked hackers are disrupting American water and energy providers</a></span>
                 <span class="feed">TechCrunch</span>
@@ -133,38 +161,29 @@
                 <span class="time">2026-07-23 16:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/969563/halo-campaign-evolved-review-xbox-ps5-pc" target="_blank">The new Halo remake is a reminder of what Xbox used to be</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-23 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a610fc34f2b583ac1fd424b/master/pass/The-Best-Dorm-Room-Essentials-for-Heading-Back-to-College.jpg" alt="22 Back-to-School College Dorm Room Essentials (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/" target="_blank">22 Back-to-School College Dorm Room Essentials (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-23 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2236959394-500x500.jpg" alt="White House report says Trump can usher in a &quot;new golden age&quot; of science" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/" target="_blank">White House report says Trump can usher in a &quot;new golden age&quot; of science</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-23 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/max_bob_bfcc3b3f9bf1ab1f3/there-was-no-independent-measured-view-of-ai-api-latency-by-region-so-i-built-one-14ce" target="_blank">There was no independent, measured view of AI-API latency by region — so I built one</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-23 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-AI" target="_blank">AMD Announces ROCm.AI As AI-Driven Platform For Developers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-23 17:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fusvfp5h5mwl8kc3urzox.webp" alt="Six Degrees of Ayrton Senna: Learn Neo4j by Connecting 75 Years of Formula 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +220,6 @@
                 <span class="time">2026-07-23 15:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/archsteer/the-architecture-x-ray-challenge-find-one-surprise-in-your-codebase-2eh8" target="_blank">The Architecture X-Ray Challenge: Find One Surprise in Your Codebase</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-23 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/expedia-ai-observability-star/en/headerimage/generatedHeaderImage-1783819381373.jpg" alt="Expedia Uses AI Driven Service Telemetry Analyzer to Accelerate Incident Investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/expedia-ai-observability-star/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Expedia Uses AI Driven Service Telemetry Analyzer to Accelerate Incident Investigation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-23 14:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +239,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2367639903-e1784829067109.jpg?fit=768%2C358&amp;quality=60&amp;ssl=1" alt="Sony saves the Cinerama Dome from becoming condos or sadness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/23/sony-saves-the-cinerama-dome-from-becoming-condos-or-sadness.html" target="_blank">Sony saves the Cinerama Dome from becoming condos or sadness</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-23 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY7XGDT7X81AF6469H139PZ7/hero-image.png" alt="Amazfit Makes Great Fitness Trackers, but Here&#x27;s What Disappointed Me About Its Running Watches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/are-amazfit-watches-good-for-runners?utm_medium=RSS" target="_blank">Amazfit Makes Great Fitness Trackers, but Here&#x27;s What Disappointed Me About Its Running Watches</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-23 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/xbox.jpg" alt="Xbox Has Started Testing Free Cloud Gaming With Ads: ‘Advertising Has Existed In Gaming For Decades’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-testing-free-ad-supported-streaming-2000718818" target="_blank">Xbox Has Started Testing Free Cloud Gaming With Ads: ‘Advertising Has Existed In Gaming For Decades’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-23 16:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/image-57.png?fit=612%2C370&amp;quality=55&amp;ssl=1" alt="Kyle Gordon returns with pitch-perfect satire of &quot;white guy goes to Africa&quot; pop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-gilmore-girls?utm_medium=RSS" target="_blank">10 Shows Like &#x27;Gilmore Girls&#x27; You Should Watch Next</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/3840px-Darvasa_gas_crater_panorama-scaled.jpg?fit=2560%2C1087&amp;quality=60&amp;ssl=1" alt="Turkmenistan&#x27;s &quot;Gates of Hell&quot; crater is finally going out after 54 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/23/darvaza-gates-of-hell.html" target="_blank">Turkmenistan&#x27;s &quot;Gates of Hell&quot; crater is finally going out after 54 years</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-23 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Fountain_pen_writing_28literacy29-scaled.jpg?fit=2560%2C1877&amp;quality=60&amp;ssl=1" alt="Neal Stephenson&#x27;s guide to writing books with a fountain pen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/22/neal-stephenson-writing-by-hand.html" target="_blank">Neal Stephenson&#x27;s guide to writing books with a fountain pen</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-23 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/07/shutterstock_2038666817-e1784762863662.jpg?fit=768%2C523&amp;quality=60&amp;ssl=1" alt="U.S. Army finds out unlimited isn&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/22/the-u-s-army-ran-out-of-unlimited-ai.html" target="_blank">U.S. Army finds out unlimited isn&#x27;t</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-22 23:28</span>
             </div>
         </div>
 </div>
@@ -329,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 17:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 18:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
