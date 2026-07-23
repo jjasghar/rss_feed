@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-23 12:28:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-23 13:30:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 23, 2026 - 12:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 13:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute" target="_blank">British army forced to cancel training in Kenya after defence agreement dispute</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-23 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png" alt="Saudis must recognise Israel for nuclear deal, says Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss" target="_blank">Saudis must recognise Israel for nuclear deal, says Trump</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-23 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/23/how-are-companies-governments-responding-to-the-openai-hack?traffic_source=rss" target="_blank">How are companies, governments responding to the OpenAI hack?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-23 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/23/nx-s1-5901975/med-school-graphic-memoir-grace-farris" target="_blank">Get into med school in the graphic memoir &#x27;See One, Do One, Teach One&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-23 12:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/23/cricket-no-ashes-2027-tests-to-take-place-in-the-north-of-england?traffic_source=rss" target="_blank">Cricket: No Ashes 2027 Tests to take place in the north of England</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -60,42 +96,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying" target="_blank">Two Russian men jailed in Angola for terrorism and spying</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-07-23 12:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/23/g-s1-134959/ebola-outbreak-democratic-republic-congo" target="_blank">Why health officials do not have a good handle on the current Ebola outbreak</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-23 11:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Rubio-ASEAN-DB-260723_1784801448641_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran will &#x27;pay a price,&#x27; Rubio says when asked if US will escalate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Iran will &#x27;pay a price,&#x27; Rubio says when asked if US will escalate</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-23 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a6e/live/b0338440-8683-11f1-bee8-53ce494e1abc.jpg" alt="Gary Lineker among millionaires asking Andy Burnham to tax them more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss" target="_blank">Gary Lineker among millionaires asking Andy Burnham to tax them more</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-23 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-gironde-le-porge-wildfire_7304820.jpg?20260723105236" alt="More than 15,000 people evacuated as wildfire spreads in France" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/more-than-15000-people-evacuated-as-wildfire-spreads-in-france-13566261" target="_blank">More than 15,000 people evacuated as wildfire spreads in France</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-23 10:36</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fss8w63nmadu83mspf0ls.jpg" alt="[Book Sharing] Tsaisang’s Tales of the Strange: Japanese Mythology, Ghost Stories, and Sometimes Taiwan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/evanlin/book-sharing-tsaisangs-tales-of-the-strange-japanese-mythology-ghost-stories-and-sometimes-2g0i" target="_blank">[Book Sharing] Tsaisang’s Tales of the Strange: Japanese Mythology, Ghost Stories, and Sometimes Taiwan</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-23 13:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +216,6 @@
                 <span class="time">2026-07-23 10:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/dbos/en/mediumimage/medium-1784107354116.jpg" alt="Presentation: Compiling Workflows into Databases: The Architecture That Shouldn&#x27;t Work (But Does)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/dbos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Compiling Workflows into Databases: The Architecture That Shouldn&#x27;t Work (But Does)</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-23 10:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/3840px-Darvasa_gas_crater_panorama-scaled.jpg?fit=2560%2C1087&amp;quality=60&amp;ssl=1" alt="Turkmenistan&#x27;s &quot;Gates of Hell&quot; crater is finally going out after 54 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/23/darvaza-gates-of-hell.html" target="_blank">Turkmenistan&#x27;s &quot;Gates of Hell&quot; crater is finally going out after 54 years</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-23 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Fountain_pen_writing_28literacy29-scaled.jpg?fit=2560%2C1877&amp;quality=60&amp;ssl=1" alt="Neal Stephenson&#x27;s guide to writing books with a fountain pen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/does-creatine-have-mental-health-benefits?utm_medium=RSS" target="_blank">How to Take Creatine for the (Possible) Mental Health Benefits</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-22 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="The anti-vax movement keeps setting records nobody wanted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/22/the-anti-vax-movement-keeps-setting-records-nobody-wanted.html" target="_blank">The anti-vax movement keeps setting records nobody wanted</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-22 20:39</span>
             </div>
         </div>
 </div>
@@ -335,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 12:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 39 | 📸 With Images: 253 |
+        🔄 Last Updated: 13:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
