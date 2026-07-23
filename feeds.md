@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-23 20:20:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-23 21:21:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, July 23, 2026 - 20:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 21:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/23/deadly-monsoon-floods-kill-at-least-40-in-india?traffic_source=rss" target="_blank">Deadly monsoon floods kill at least 40 in India</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-23 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/23/nx-s1-5897598/egyptian-warrior-princesses-ancient-avocados-and-more-science-news" target="_blank">Egyptian warrior princesses, ancient avocados, and more science news</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-23 20:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss" target="_blank">US House votes to limit Iran war for first time since ceasefire breakdown</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-23 16:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784822009708_now_brk_alba_wh_saudideal_260723_S3_1920x1080-smyak2.jpg" alt="White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845" target="_blank">White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-23 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal" target="_blank">In a first, Chinese woman wins the prestigious Fields Medal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-23 14:56</span>
             </div>
         </div>
 </div>
@@ -242,6 +236,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/GettyImages-2205362189-1280x853.jpg" alt="Ubisoft CEO Says PlayStation Ditching Discs Has ‘Pluses And Minuses’ But Won’t ‘Disturb’ The Game Industry That Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ubisoft-says-playstation-ditching-discs-has-pluses-and-minuses-but-wont-disturb-the-game-industry-that-much-2000718878" target="_blank">Ubisoft CEO Says PlayStation Ditching Discs Has ‘Pluses And Minuses’ But Won’t ‘Disturb’ The Game Industry That Much</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-23 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Promova-Premium-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Learning a new language is less intimidating with Promova for only $80" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/23/learning-a-new-language-is-less-intimidating-with-promova-for-only-80.html" target="_blank">Learning a new language is less intimidating with Promova for only $80</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-23 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY8AJR2TA76EZE4HP6GGS3W8/hero-image.png" alt="This App Can Help Detect When Someone Near You Is Wearing Meta Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/antizuck-app-can-detect-meta-glasses?utm_medium=RSS" target="_blank">This App Can Help Detect When Someone Near You Is Wearing Meta Glasses</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-23 20:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JYM4YHQJ9PH0D6TMHDD4CJ29/hero-image.png" alt="The Samsung Galaxy S25+ Is Still One of the Best Premium Android Phones, and It&#x27;s $300 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -266,33 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/are-amazfit-watches-good-for-runners?utm_medium=RSS" target="_blank">Amazfit Makes Great Fitness Trackers, but Here&#x27;s What Disappointed Me About Its Running Watches</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-23 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/xbox.jpg" alt="Xbox Has Started Testing Free Cloud Gaming With Ads: ‘Advertising Has Existed In Gaming For Decades’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-testing-free-ad-supported-streaming-2000718818" target="_blank">Xbox Has Started Testing Free Cloud Gaming With Ads: ‘Advertising Has Existed In Gaming For Decades’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-23 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/image-57.png?fit=612%2C370&amp;quality=55&amp;ssl=1" alt="Kyle Gordon returns with pitch-perfect satire of &quot;white guy goes to Africa&quot; pop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/23/kyle-gordon-returns-with-pitch-perfect-satire-of-white-guy-goes-to-africa-pop.html" target="_blank">Kyle Gordon returns with pitch-perfect satire of &quot;white guy goes to Africa&quot; pop</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-23 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/ea-s-1280x719.jpg" alt="EA Sports FC 27 Just Revealed An Even More Expensive ‘Ultimate Plus’ Edition For $150" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ea-sports-fc-27-just-revealed-an-even-more-expensive-ultimate-plus-edition-for-150-2000718766" target="_blank">EA Sports FC 27 Just Revealed An Even More Expensive ‘Ultimate Plus’ Edition For $150</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-23 16:12</span>
             </div>
         </div>
 </div>
@@ -323,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 20:20 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 39 | 📸 With Images: 257 |
+        🔄 Last Updated: 21:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
