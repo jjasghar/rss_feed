@@ -1,36 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-07-23 15:36:06 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-23 16:28:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, July 23, 2026 - 15:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 16:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss" target="_blank">US House votes to limit Iran war for first time since ceasefire breakdown</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-23 16:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Business/homruz-epa-jef-260723_1784814562293_hpMain_4x3t_384.jpg" alt="Global oil prices cross $100 a barrel as Iran war sends fuel prices surging" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +88,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3d3507ng37o?at_medium=RSS&at_campaign=rss" target="_blank">Police failed to check Manchester synagogue attacker&#x27;s phones despite arresting him twice</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-23 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png" alt="Saudis must recognise Israel for nuclear deal, says Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss" target="_blank">Saudis must recognise Israel for nuclear deal, says Trump</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-23 13:00</span>
             </div>
         </div>
 </div>
@@ -167,6 +157,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/" target="_blank">The case for a cooldown: Why Dependabot now waits before issuing version updates</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/archsteer/the-architecture-x-ray-challenge-find-one-surprise-in-your-codebase-2eh8" target="_blank">The Architecture X-Ray Challenge: Find One Surprise in Your Codebase</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +208,6 @@
                 <span class="time">2026-07-23 13:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fss8w63nmadu83mspf0ls.jpg" alt="[Book Sharing] Tsaisang’s Tales of the Strange: Japanese Mythology, Ghost Stories, and Sometimes Taiwan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/evanlin/book-sharing-tsaisangs-tales-of-the-strange-japanese-mythology-ghost-stories-and-sometimes-2g0i" target="_blank">[Book Sharing] Tsaisang’s Tales of the Strange: Japanese Mythology, Ghost Stories, and Sometimes Taiwan</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-23 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +227,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/ea-s-1280x719.jpg" alt="EA Sports FC 27 Just Revealed An Even More Expensive ‘Ultimate Plus’ Edition For $150" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ea-sports-fc-27-just-revealed-an-even-more-expensive-ultimate-plus-edition-for-150-2000718766" target="_blank">EA Sports FC 27 Just Revealed An Even More Expensive ‘Ultimate Plus’ Edition For $150</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-23 16:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KY533Z2GNBBX2EBTQZCC7XRX/hero-image.jpg" alt="10 Shows Like &#x27;Gilmore Girls&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-gilmore-girls?utm_medium=RSS" target="_blank">10 Shows Like &#x27;Gilmore Girls&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-23 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/3840px-Darvasa_gas_crater_panorama-scaled.jpg?fit=2560%2C1087&amp;quality=60&amp;ssl=1" alt="Turkmenistan&#x27;s &quot;Gates of Hell&quot; crater is finally going out after 54 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,29 +281,20 @@
                 <span class="time">2026-07-22 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Generated-image-1-2-1-e1784758013416.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains tells grieving parents they can ride on his cool plane" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/22/grandpa-pudding-brains-tells-grieving-parents-they-can-ride-on-his-cool-plane.html" target="_blank">Grandpa Pudding Brains tells grieving parents they can ride on his cool plane</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-22 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KY344CK9BA8WJS3NG0WW3SKV/hero-image.jpg" alt="How to Take Creatine for the (Possible) Mental Health Benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/does-creatine-have-mental-health-benefits?utm_medium=RSS" target="_blank">How to Take Creatine for the (Possible) Mental Health Benefits</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-22 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1784761756-20260723.png" alt="Saturday Morning Breakfast Cereal - Alignment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/alignment" target="_blank">Saturday Morning Breakfast Cereal - Alignment</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-23 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5879.png" alt="It&#x27;s A Virtue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 15:36 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 16:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
