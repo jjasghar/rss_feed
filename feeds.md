@@ -1,26 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-23 16:28:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-23 17:27:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 18 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, July 23, 2026 - 16:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 17:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,9 +51,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss" target="_blank">Oil surges past $100 in a first since May as Middle East conflicts rage</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-23 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss" target="_blank">US House votes to limit Iran war for first time since ceasefire breakdown</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-23 16:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal" target="_blank">In a first, Chinese woman wins the prestigious Fields Medal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-23 14:56</span>
             </div>
         </div>
 <div class="story">
@@ -72,29 +101,38 @@
                 <span class="time">2026-07-23 13:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute" target="_blank">British army forced to cancel training in Kenya after defence agreement dispute</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-23 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c467/live/fab90b80-869b-11f1-b976-0b9c15b0ccfc.jpg" alt="Police failed to check Manchester synagogue attacker&#x27;s phones despite arresting him twice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3d3507ng37o?at_medium=RSS&at_campaign=rss" target="_blank">Police failed to check Manchester synagogue attacker&#x27;s phones despite arresting him twice</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-23 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/" target="_blank">US government says Iran-linked hackers are disrupting American water and energy providers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-23 17:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale" target="_blank">Corsair’s PC case with a panoramic glass design is $70 off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-23 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/01/Screen-Shot-2017-01-17-at-12.51.47-PM-500x500.png" alt="A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/" target="_blank">A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-23 16:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,38 +160,29 @@
                 <span class="time">2026-07-23 11:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/" target="_blank">Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-23 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering" target="_blank">Google hit with $1 billion fine for breaking EU antitrust rules</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-23 10:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b24dc4853ef33f258516c7/master/pass/The-Best-Meal-Delivery-Services-and-Meal-Kits-of-2026.jpg" alt="10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-meal-kit-services-1/" target="_blank">10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-23 10:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fusvfp5h5mwl8kc3urzox.webp" alt="Six Degrees of Ayrton Senna: Learn Neo4j by Connecting 75 Years of Formula 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jeremycmorgan/six-degrees-of-ayrton-senna-learn-neo4j-by-connecting-75-years-of-formula-1-1kol" target="_blank">Six Degrees of Ayrton Senna: Learn Neo4j by Connecting 75 Years of Formula 1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-23 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Instinct-MI455X-Helios" target="_blank">AMD Launches Instinct MI455X, Helios AI Rack</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-23 16:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -161,6 +190,15 @@
                 <span class="title"><a href="https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/" target="_blank">The case for a cooldown: Why Dependabot now waits before issuing version updates</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-07-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!nelU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fece389ea-6dd6-45c8-b269-718ee5fc0098_1100x620.png" alt="The Pulse: Quitting Spotify Podcasts over reliability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-quitting-spotify-podcasts" target="_blank">The Pulse: Quitting Spotify Podcasts over reliability</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-07-23 15:59</span>
             </div>
         </div>
 <div class="story">
@@ -179,33 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/expedia-ai-observability-star/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Expedia Uses AI Driven Service Telemetry Analyzer to Accelerate Incident Investigation</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-23 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17385461/collabora-online-26-04" target="_blank">Collabora Online Turns 10, Refusing to Hand Over Your Data to Someone Else&amp;#x27;s AI</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-23 14:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.eso.org/public/news/eso2610/" target="_blank">Astronomers may have found the first exomoon</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-23 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-Atomic-Remote-Install" target="_blank">Fedora 45 Atomic Desktops Look To Allow For Web-Based Remote Installations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-23 13:52</span>
             </div>
         </div>
 </div>
@@ -227,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/image-57.png?fit=612%2C370&amp;quality=55&amp;ssl=1" alt="Kyle Gordon returns with pitch-perfect satire of &quot;white guy goes to Africa&quot; pop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/23/kyle-gordon-returns-with-pitch-perfect-satire-of-white-guy-goes-to-africa-pop.html" target="_blank">Kyle Gordon returns with pitch-perfect satire of &quot;white guy goes to Africa&quot; pop</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-23 16:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/ea-s-1280x719.jpg" alt="EA Sports FC 27 Just Revealed An Even More Expensive ‘Ultimate Plus’ Edition For $150" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +292,6 @@
                 <span class="time">2026-07-22 23:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/zeldafigure-1280x720.jpg" alt="Zelda: Tears Of The Kingdom Gets Very Cool And Surprisingly Affordable Action Figures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/zelda-tears-of-the-kingdom-gets-very-cool-and-surprisingly-affordable-action-figures-2000718523" target="_blank">Zelda: Tears Of The Kingdom Gets Very Cool And Surprisingly Affordable Action Figures</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-22 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,22 +324,13 @@
                 <span class="time">2026-07-22 19:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/258146/" target="_blank">Poorly Drawn Lines</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-07-22 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 16:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 17:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
