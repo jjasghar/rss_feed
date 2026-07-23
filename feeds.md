@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-07-23 19:27:41 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-07-23 20:20:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, July 23, 2026 - 19:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 20:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +60,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/481b/live/7941df10-86c7-11f1-bf7f-25405e28486d.jpg" alt="Burnham pauses plan to release some prisoners early from September" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham pauses plan to release some prisoners early from September</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-23 18:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -68,6 +87,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784822009708_now_brk_alba_wh_saudideal_260723_S3_1920x1080-smyak2.jpg" alt="White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845" target="_blank">White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-23 15:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -76,29 +104,20 @@
                 <span class="time">2026-07-23 14:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/homruz-epa-jef-260723_1784814562293_hpMain_4x3t_384.jpg" alt="Global oil prices cross $100 a barrel as Iran war sends fuel prices surging" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/global-oil-prices-cross-100-barrel-iran-war/story?id=135017063" target="_blank">Global oil prices cross $100 a barrel as Iran war sends fuel prices surging</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-23 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/23/ebola-death-toll-in-dr-congo-surpasses-1000?traffic_source=rss" target="_blank">Ebola death toll in DR Congo surpasses 1,000</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-23 14:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/" target="_blank">Insurance startup Corgi reportedly raised more money at $4B — its third round in eight weeks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-23 20:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/7827_lores-500x500.jpg" alt="FDA reports new outbreak of explosive diarrhea with 72 cases identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -127,6 +146,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6a6231b4185179636cee2e10/master/pass/MetaDavid.jpg" alt="Meta’s New Feel-Good AI Ad Uses a Song About the World Ending" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/" target="_blank">Meta’s New Feel-Good AI Ad Uses a Song About the World Ending</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-23 18:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -135,29 +163,29 @@
                 <span class="time">2026-07-23 18:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6130577c0be82b590f3664/master/pass/07226-msg-wedding-top.jpg" alt="For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/" target="_blank">For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-23 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/coyotevsacme-500x500.jpg" alt="Final Coyote vs. Acme trailer drops at SDCC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/" target="_blank">Final Coyote vs. Acme trailer drops at SDCC</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-23 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/my-developer-associate-certification-journey-and-resources-to-certify-with-confidence-402l" target="_blank">My Developer Associate Certification Journey and Resources to Certify With Confidence</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-23 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/gitlost-github-prompt-injection/en/headerimage/gitlost-vulnerability-1784835323320.jpeg" alt="Indirect Prompt Injection Exploits GitHub&#x27;s AI Agent to Leak Private Repository Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/gitlost-github-prompt-injection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Indirect Prompt Injection Exploits GitHub&#x27;s AI Agent to Leak Private Repository Data</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-23 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-AI" target="_blank">AMD Announces ROCm.AI As AI-Driven Platform For Developers</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-23 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fusvfp5h5mwl8kc3urzox.webp" alt="Six Degrees of Ayrton Senna: Learn Neo4j by Connecting 75 Years of Formula 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jeremycmorgan/six-degrees-of-ayrton-senna-learn-neo4j-by-connecting-75-years-of-formula-1-1kol" target="_blank">Six Degrees of Ayrton Senna: Learn Neo4j by Connecting 75 Years of Formula 1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-23 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Instinct-MI455X-Helios" target="_blank">AMD Launches Instinct MI455X, Helios AI Rack</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-23 16:59</span>
             </div>
         </div>
 </div>
@@ -313,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 19:27 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 20:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
