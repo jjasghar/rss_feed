@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-23 09:45:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-23 10:41:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, July 23, 2026 - 09:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 10:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a2a/live/73191cf0-8674-11f1-8c77-df97511a6b05.jpg" alt="UK millionaires ask Andy Burnham to tax them more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss" target="_blank">UK millionaires ask Andy Burnham to tax them more</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-23 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting" target="_blank">After deadly shootings, police experts question how well ICE officers are vetted</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-23 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +102,29 @@
                 <span class="time">2026-07-23 05:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/229b/live/ddf40e50-85b5-11f1-926f-c90d1bcfbc84.jpg" alt="Police officer was violent rapist who attacked women over 14 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&at_campaign=rss" target="_blank">Police officer was violent rapist who attacked women over 14 years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-23 05:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/23/armed-attackers-kill-more-than-20-in-northwest-nigeria?traffic_source=rss" target="_blank">Armed attackers kill more than 20 in northwest Nigeria</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-23 03:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering" target="_blank">Google hit with $1 billion fine for breaking EU antitrust rules</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-23 10:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69b24dc4853ef33f258516c7/master/pass/The-Best-Meal-Delivery-Services-and-Meal-Kits-of-2026.jpg" alt="10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-meal-kit-services-1/" target="_blank">10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-23 10:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a60d76514ab8e6140d7e948/master/pass/LiquidGlass.jpg" alt="My Week of Transparent Living With Apple’s ‘More Clear’ Liquid Glass Setting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +161,20 @@
                 <span class="time">2026-07-23 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine" target="_blank">Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-23 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/" target="_blank">After shocking quarter, IBM insists that AI isn’t killing the mainframe</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-22 23:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/qcon-ai-newyork-2026-live/en/headerimage/qcon-ai-newyork-2026-live-1784537918040.jpg" alt="QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/qcon-ai-newyork-2026-live/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-23 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/multi-agent-security-operations/en/headerimage/Multi-Agent-AI-for-Production-Security-Operations-header-image-1784628074663.jpg" alt="Article: Multi-Agent AI for Production Security Operations: An A2A and MCP Architecture in a 5G Core" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/meta-react-compiler-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Ports React Compiler to Rust for Faster Builds and Tighter Toolchain Integration</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-23 06:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/" target="_blank">Pip 26.2: –only-deps solves 16 years of app deployment hacks</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-07-23 05:50</span>
             </div>
         </div>
 </div>
@@ -337,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 09:45 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 10:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
