@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-23 11:34:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-23 12:28:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, July 23, 2026 - 11:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 12:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/23/cricket-no-ashes-2027-tests-to-take-place-in-the-north-of-england?traffic_source=rss" target="_blank">Cricket: No Ashes 2027 Tests to take place in the north of England</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-23 12:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying" target="_blank">Two Russian men jailed in Angola for terrorism and spying</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-23 12:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,30 +90,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a2a/live/73191cf0-8674-11f1-8c77-df97511a6b05.jpg" alt="UK millionaires ask Andy Burnham to tax them more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-gironde-le-porge-wildfire_7304820.jpg?20260723105236" alt="More than 15,000 people evacuated as wildfire spreads in France" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss" target="_blank">UK millionaires ask Andy Burnham to tax them more</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-23 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting" target="_blank">After deadly shootings, police experts question how well ICE officers are vetted</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-23 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-23 08:47</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/more-than-15000-people-evacuated-as-wildfire-spreads-in-france-13566261" target="_blank">More than 15,000 people evacuated as wildfire spreads in France</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-23 10:36</span>
             </div>
         </div>
 </div>
@@ -105,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a610fc34f2b583ac1fd424b/master/pass/The-Best-Dorm-Room-Essentials-for-Heading-Back-to-College.jpg" alt="22 Back-to-School College Dorm Room Essentials (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/" target="_blank">22 Back-to-School College Dorm Room Essentials (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-23 12:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2236959394-500x500.jpg" alt="White House report says Trump can usher in a &quot;new golden age&quot; of science" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +157,38 @@
                 <span class="time">2026-07-23 09:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates" target="_blank">Framework’s premium laptop is shipping with less RAM</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-23 09:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/highbee/stop-running-terraform-apply-from-your-laptop-building-your-first-terraform-cicd-pipeline-with-32d3" target="_blank">Stop Running `terraform apply` From Your Laptop: Building Your First Terraform CI/CD Pipeline with GitHub Actions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-23 12:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/" target="_blank">Understanding the AI Economy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-23 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ryzen-AI-Software-1.8" target="_blank">Ryzen AI Software 1.8 Released With New Model Support, More Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-23 11:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -174,48 +199,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17385323/jellyfin-leadership-crisis" target="_blank">Plex&amp;#x27;s Open Source Alternative Jellyfin is Having a Leadership Crisis</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-23 10:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/presentations/dbos/en/mediumimage/medium-1784107354116.jpg" alt="Presentation: Compiling Workflows into Databases: The Architecture That Shouldn&#x27;t Work (But Does)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/presentations/dbos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Compiling Workflows into Databases: The Architecture That Shouldn&#x27;t Work (But Does)</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-23 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/qcon-ai-newyork-2026-live/en/headerimage/qcon-ai-newyork-2026-live-1784537918040.jpg" alt="QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/qcon-ai-newyork-2026-live/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-23 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/multi-agent-security-operations/en/headerimage/Multi-Agent-AI-for-Production-Security-Operations-header-image-1784628074663.jpg" alt="Article: Multi-Agent AI for Production Security Operations: An A2A and MCP Architecture in a 5G Core" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/multi-agent-security-operations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Multi-Agent AI for Production Security Operations: An A2A and MCP Architecture in a 5G Core</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-23 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/goodbarber/when-generation-is-free-taste-is-everything-3k30" target="_blank">When generation is free, taste is everything</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-23 08:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mjmirza/5-of-my-8-answers-were-wrong-and-the-table-hid-it-4ppo" target="_blank">5 of my 8 answers were wrong and the table hid it</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-23 07:32</span>
             </div>
         </div>
 </div>
@@ -337,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 11:34 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 12:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
