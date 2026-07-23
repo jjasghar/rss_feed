@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-23 22:18:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-23 23:16:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 23, 2026 - 22:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 23:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-28-gty-gmh-260722_1784753432967_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump considering &#x27;massive attack&#x27; on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Trump considering &#x27;massive attack&#x27; on Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-23 22:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +105,20 @@
                 <span class="time">2026-07-23 19:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/481b/live/7941df10-86c7-11f1-bf7f-25405e28486d.jpg" alt="Burnham pauses plan to release some prisoners early from September" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham pauses plan to release some prisoners early from September</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-23 18:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/" target="_blank">Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-23 22:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +164,20 @@
                 <span class="time">2026-07-23 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6231b4185179636cee2e10/master/pass/MetaDavid.jpg" alt="Meta’s New Feel-Good AI Ad Uses a Song About the World Ending" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/" target="_blank">Meta’s New Feel-Good AI Ad Uses a Song About the World Ending</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-23 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/codeberg-ai-slop-1.webp?resize=406%2C232&amp;ssl=1" alt="Codeberg bans hosting ‘mostly’ AI-generated code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/codeberg-bans-ai-generated-code" target="_blank">Codeberg bans hosting ‘mostly’ AI-generated code</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-23 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +223,6 @@
                 <span class="time">2026-07-23 18:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-AI" target="_blank">AMD Announces ROCm.AI As AI-Driven Platform For Developers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-23 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/LG-Smart-View-monitor-official-image-from-LG-press-release.jpg" alt="LG Faces Swift Backlash Over Claims Its Gaming Monitors Are Automatically Installing Adware And ‘Wiretapping’ PCs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lg-monitor-tv-ads-mcafee-microsoft-windows-2000718871" target="_blank">LG Faces Swift Backlash Over Claims Its Gaming Monitors Are Automatically Installing Adware And ‘Wiretapping’ PCs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-23 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVXV034A0Z2YGN06WGJ9FQF3/hero-image.png" alt="These Are the Best Deals on Laptops, Monitors, and PC Accessories Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/laptops-monitors-pc-accessories-deals-july-2026?utm_medium=RSS" target="_blank">These Are the Best Deals on Laptops, Monitors, and PC Accessories Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-23 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/GettyImages-2205362189-1280x853.jpg" alt="Ubisoft CEO Says PlayStation Ditching Discs Has ‘Pluses And Minuses’ But Won’t ‘Disturb’ The Game Industry That Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,29 +296,20 @@
                 <span class="time">2026-07-23 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2367639903-e1784829067109.jpg?fit=768%2C358&amp;quality=60&amp;ssl=1" alt="Sony saves the Cinerama Dome from becoming condos or sadness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/23/sony-saves-the-cinerama-dome-from-becoming-condos-or-sadness.html" target="_blank">Sony saves the Cinerama Dome from becoming condos or sadness</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-23 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KY7XGDT7X81AF6469H139PZ7/hero-image.png" alt="Amazfit Makes Great Fitness Trackers, but Here&#x27;s What Disappointed Me About Its Running Watches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/are-amazfit-watches-good-for-runners?utm_medium=RSS" target="_blank">Amazfit Makes Great Fitness Trackers, but Here&#x27;s What Disappointed Me About Its Running Watches</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-23 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/23/the-leto-protocol" target="_blank">The Leto Protocol</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-23 22:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1784761756-20260723.png" alt="Saturday Morning Breakfast Cereal - Alignment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -317,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 39 | 📸 With Images: 257 |
-        🔄 Last Updated: 22:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 23:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
