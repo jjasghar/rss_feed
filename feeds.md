@@ -1,28 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-23 05:58:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-23 06:57:30 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, July 23, 2026 - 05:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 06:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,10 +51,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss" target="_blank">Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-23 06:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models" target="_blank">OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-23 05:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/229b/live/ddf40e50-85b5-11f1-926f-c90d1bcfbc84.jpg" alt="Police officer was violent rapist who attacked women over 14 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&at_campaign=rss" target="_blank">Police officer was violent rapist who attacked women over 14 years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-23 05:12</span>
             </div>
         </div>
 <div class="story">
@@ -66,30 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784764044495_nn_cku_DignifiedTransfer_260722_S3_1920x1080-csx9cd.jpg" alt="Trump attends dignified transfer of U.S. troops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss" target="_blank">Austrian home where Hitler was born reopened as police station</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-22 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation" target="_blank">House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-22 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation" target="_blank">House passes Pentagon funding and limits on stock trades in a last dash before recess</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-22 21:51</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-attends-dignified-transfer-of-u-s-troops-267132997610" target="_blank">Trump attends dignified transfer of U.S. troops</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-22 23:47</span>
             </div>
         </div>
 </div>
@@ -97,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/" target="_blank">ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-23 06:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/orcasTOP-500x500-1784725701.jpg" alt="Orcas team up to ram sunfish until they explode" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,20 +161,29 @@
                 <span class="time">2026-07-22 22:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a5fb900f1768585876831c9/master/pass/Science_WhyLettuceKeepsGettingUsSick_V1-ezgif.com-video-to-gif-converter.gif" alt="Why Lettuce Is Always Making People Sick" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/why-lettuce-always-making-people-sick/" target="_blank">Why Lettuce Is Always Making People Sick</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-22 21:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kkibet/python-fundamentals-for-a-javascript-developer-2mim" target="_blank">Python Fundamentals for a JavaScript Developer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-23 06:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/meta-react-compiler-rust/en/headerimage/generatedHeaderImage-1784621337399.jpg" alt="Meta Ports React Compiler to Rust for Faster Builds and Tighter Toolchain Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/meta-react-compiler-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Ports React Compiler to Rust for Faster Builds and Tighter Toolchain Integration</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-23 06:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +220,6 @@
                 <span class="time">2026-07-22 22:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria" target="_blank">Medici family mystery may be solved after more than 400 years</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-22 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/uptimearchitect/oracle-rman-recovery-runbook-restore-recover-prove-it-50mo" target="_blank">Oracle RMAN Recovery Runbook: Restore, Recover, Prove It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-22 21:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Fountain_pen_writing_28literacy29-scaled.jpg?fit=2560%2C1877&amp;quality=60&amp;ssl=1" alt="Neal Stephenson&#x27;s guide to writing books with a fountain pen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/22/neal-stephenson-writing-by-hand.html" target="_blank">Neal Stephenson&#x27;s guide to writing books with a fountain pen</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-23 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/07/shutterstock_2038666817-e1784762863662.jpg?fit=768%2C523&amp;quality=60&amp;ssl=1" alt="U.S. Army finds out unlimited isn&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/22/the-anti-vax-movement-keeps-setting-records-nobody-wanted.html" target="_blank">The anti-vax movement keeps setting records nobody wanted</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-22 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/disgaea-1280x723.jpg" alt="Disgaea Creator Says PlayStation Might As Well Stop Making Consoles If It’s Going To Stop Making Discs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/disagaea-creator-says-playstation-might-as-well-stop-making-consoles-if-its-going-to-stop-making-discs-2000718456" target="_blank">Disgaea Creator Says PlayStation Might As Well Stop Making Consoles If It’s Going To Stop Making Discs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-22 19:18</span>
             </div>
         </div>
 </div>
@@ -329,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 05:58 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 06:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
