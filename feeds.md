@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-23 01:31:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-23 02:58:59 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, July 23, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +107,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine" target="_blank">Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-23 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/" target="_blank">After shocking quarter, IBM insists that AI isn’t killing the mainframe</a></span>
                 <span class="feed">TechCrunch</span>
@@ -148,20 +158,20 @@
                 <span class="time">2026-07-22 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/08/tesla-pondering-500x500.jpg" alt="Tesla&#x27;s revenues are up, but profits squeezed as Musk spends on AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/" target="_blank">Tesla&#x27;s revenues are up, but profits squeezed as Musk spends on AI</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-22 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stvens_matin_783b9f9cac24/designing-idempotent-stripe-webhook-delivery-for-generated-files-346k" target="_blank">Designing Idempotent Stripe Webhook Delivery for Generated Files</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-23 02:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +217,6 @@
                 <span class="time">2026-07-22 20:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Here’s why your Ubuntu 26.04 install is quiet about updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/ubuntu-26-04-update-notifications-disabled" target="_blank">Here’s why your Ubuntu 26.04 install is quiet about updates</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-22 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +243,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/22/the-u-s-army-ran-out-of-unlimited-ai.html" target="_blank">U.S. Army finds out unlimited isn&#x27;t</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-22 23:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/zeldafigure-1280x720.jpg" alt="Zelda: Tears Of The Kingdom Gets Very Cool And Surprisingly Affordable Action Figures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/zelda-tears-of-the-kingdom-gets-very-cool-and-surprisingly-affordable-action-figures-2000718523" target="_blank">Zelda: Tears Of The Kingdom Gets Very Cool And Surprisingly Affordable Action Figures</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-22 23:00</span>
             </div>
         </div>
 <div class="story">
@@ -278,15 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/disagaea-creator-says-playstation-might-as-well-stop-making-consoles-if-its-going-to-stop-making-discs-2000718456" target="_blank">Disgaea Creator Says PlayStation Might As Well Stop Making Consoles If It’s Going To Stop Making Discs</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-22 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KY5J02RMT3A41J6C4EYB6QSE/hero-image.png" alt="How Garmin&#x27;s Acquisition of TrainingPeaks Might Affect Your Fitness Routine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/garmin-acquisition-of-trainingpeaks?utm_medium=RSS" target="_blank">How Garmin&#x27;s Acquisition of TrainingPeaks Might Affect Your Fitness Routine</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-22 19:00</span>
             </div>
         </div>
 </div>
@@ -344,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
