@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-23 14:42:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-23 15:36:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, July 23, 2026 - 14:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, July 23, 2026 - 15:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/969563/halo-campaign-evolved-review-xbox-ps5-pc" target="_blank">The new Halo remake is a reminder of what Xbox used to be</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-23 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a610fc34f2b583ac1fd424b/master/pass/The-Best-Dorm-Room-Essentials-for-Heading-Back-to-College.jpg" alt="22 Back-to-School College Dorm Room Essentials (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -154,20 +159,38 @@
                 <span class="time">2026-07-23 10:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a60d76514ab8e6140d7e948/master/pass/LiquidGlass.jpg" alt="My Week of Transparent Living With Apple’s ‘More Clear’ Liquid Glass Setting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/my-week-of-transparent-living-with-apples-more-clear-liquid-glass-setting/" target="_blank">My Week of Transparent Living With Apple’s ‘More Clear’ Liquid Glass Setting</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-23 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/archsteer/the-architecture-x-ray-challenge-find-one-surprise-in-your-codebase-2eh8" target="_blank">The Architecture X-Ray Challenge: Find One Surprise in Your Codebase</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-23 15:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/expedia-ai-observability-star/en/headerimage/generatedHeaderImage-1783819381373.jpg" alt="Expedia Uses AI Driven Service Telemetry Analyzer to Accelerate Incident Investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/expedia-ai-observability-star/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Expedia Uses AI Driven Service Telemetry Analyzer to Accelerate Incident Investigation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-23 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17385461/collabora-online-26-04" target="_blank">Collabora Online Turns 10, Refusing to Hand Over Your Data to Someone Else&amp;#x27;s AI</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-23 14:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,48 +201,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-Atomic-Remote-Install" target="_blank">Fedora 45 Atomic Desktops Look To Allow For Web-Based Remote Installations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-23 13:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fss8w63nmadu83mspf0ls.jpg" alt="[Book Sharing] Tsaisang’s Tales of the Strange: Japanese Mythology, Ghost Stories, and Sometimes Taiwan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/evanlin/book-sharing-tsaisangs-tales-of-the-strange-japanese-mythology-ghost-stories-and-sometimes-2g0i" target="_blank">[Book Sharing] Tsaisang’s Tales of the Strange: Japanese Mythology, Ghost Stories, and Sometimes Taiwan</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-23 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/highbee/stop-running-terraform-apply-from-your-laptop-building-your-first-terraform-cicd-pipeline-with-32d3" target="_blank">Stop Running `terraform apply` From Your Laptop: Building Your First Terraform CI/CD Pipeline with GitHub Actions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-23 12:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/" target="_blank">Understanding the AI Economy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-23 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ryzen-AI-Software-1.8" target="_blank">Ryzen AI Software 1.8 Released With New Model Support, More Optimizations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-23 11:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alex_zhdankov/the-hidden-complexity-of-postgresql-logical-replication-23ml" target="_blank">The Hidden Complexity of PostgreSQL Logical Replication</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-23 11:31</span>
             </div>
         </div>
 </div>
@@ -327,22 +323,13 @@
                 <span class="time">2026-07-22 16:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1784663157-20260722.png" alt="Saturday Morning Breakfast Cereal - Bully" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/bully-2" target="_blank">Saturday Morning Breakfast Cereal - Bully</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-22 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 14:42 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 15:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
