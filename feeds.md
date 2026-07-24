@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-24 08:48:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-24 09:44:24 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, July 24, 2026 - 08:48 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, July 24, 2026 - 09:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/24/germany-appoint-klopp-as-ex-liverpool-coach-sought-to-lift-world-cup-blues?traffic_source=rss" target="_blank">Germany appoint Klopp as ex-Liverpool coach sought to lift World Cup blues</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-24 09:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df86/live/daaa3730-8739-11f1-bee8-53ce494e1abc.jpg" alt="Angela Rayner rules out rent controls in England" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss" target="_blank">Angela Rayner rules out rent controls in England</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-24 09:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-gty-jt-260723_1784835303455_hpMain_4x3t_384.jpg" alt="Trump to attend rescheduled White House correspondent&#x27;s dinner Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-attend-rescheduled-white-house-correspondents-dinner-friday/story?id=135027808" target="_blank">Trump to attend rescheduled White House correspondent&#x27;s dinner Friday</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-24 09:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/24/g-s1-134821/jimothy-ai-uk-mamdani-strait-iran-news-quiz" target="_blank">What animal is the deformed-but-adorable Jimothy? The quiz knows — do you?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-24 09:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e3/live/8d7bf160-8711-11f1-bee8-53ce494e1abc.jpg" alt="Burnham to spend first day working from northern branch of No 10" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -59,47 +102,20 @@
                 <span class="time">2026-07-24 06:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss" target="_blank">‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-24 06:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters" target="_blank">Indian activist Wangchuk ends 26-day hunger strike as &#x27;Cockroach&#x27; protesters vow to press on</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-24 05:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war" target="_blank">Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-24 05:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss" target="_blank">As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-24 03:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown" target="_blank">Microsoft pressures LG into killing unwanted McAfee ads</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-24 09:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices" target="_blank">Alexa Plus is getting an AI update to handle more complicated instructions</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-23 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/lg-UltraGear-27GR95QE-B-500x500.jpg" alt="Microsoft responds to LG monitors installing McAfee ads on Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/" target="_blank">Microsoft responds to LG monitors installing McAfee ads on Windows</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-23 20:47</span>
             </div>
         </div>
 </div>
@@ -332,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 08:48 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 09:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
