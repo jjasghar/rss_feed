@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-24 02:58:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-24 04:06:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, July 24, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, July 24, 2026 - 04:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,9 +52,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss" target="_blank">As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-24 03:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/24/us-launches-13th-night-of-strikes-as-iran-warns-of-escalation-in-the-gulf?traffic_source=rss" target="_blank">US launches 13th night of strikes as Iran warns of escalation in the Gulf</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-24 02:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg" alt="US imposes tariffs on dozens of trade partners, citing forced labour concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss" target="_blank">US imposes tariffs on dozens of trade partners, citing forced labour concerns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-24 02:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-donald-trump-us_7305495.jpg?20260724025130" alt="US imposes new tariffs on 60 countries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-imposes-new-tariffs-on-dozens-of-trade-partners-over-forced-labour-imports-13566498" target="_blank">US imposes new tariffs on 60 countries</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-23 23:44</span>
             </div>
         </div>
 <div class="story">
@@ -70,33 +100,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss" target="_blank">US imposes tariffs on dozens of trade partners over &#x27;forced labour&#x27; imports</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-23 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784846713526_nn_sbr_mounting_frustrations_over_wisconsin_police_shooting_260723_S3_1920x1080-ky8cx1.jpg" alt="Mounting frustrations over Wisconsin police shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/mounting-frustrations-over-wisconsin-police-shooting-267190853871" target="_blank">Mounting frustrations over Wisconsin police shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-23 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-28-gty-gmh-260722_1784753432967_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump considering &#x27;massive attack&#x27; on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Trump considering &#x27;massive attack&#x27; on Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-23 22:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/23/is-this-italys-george-floyd?traffic_source=rss" target="_blank">Is this Italy’s ‘George Floyd moment’?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-23 22:07</span>
             </div>
         </div>
 </div>
@@ -167,9 +170,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/micheljee/how-upgrading-door-handles-can-transform-your-homes-style-and-function-5hl8" target="_blank">How Upgrading Door Handles Can Transform Your Home&#x27;s Style and Function</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-24 04:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/josephskaf/what-i-learned-building-a-directory-of-329-ai-tools-5b4j" target="_blank">What I learned building a directory of 329 AI tools</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-24 02:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-24-2026-red-hat" target="_blank">Friday Five — July 24, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-07-24 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/aws-builders/my-developer-associate-certification-journey-and-resources-to-certify-with-confidence-402l" target="_blank">My Developer Associate Certification Journey and Resources to Certify With Confidence</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-23 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/gitlost-github-prompt-injection/en/headerimage/gitlost-vulnerability-1784835323320.jpeg" alt="Indirect Prompt Injection Exploits GitHub&#x27;s AI Agent to Leak Private Repository Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/gitlost-github-prompt-injection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Indirect Prompt Injection Exploits GitHub&#x27;s AI Agent to Leak Private Repository Data</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-23 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prasadmk/getting-real-numbers-into-the-vpa-model-the-commands-and-tools-2ol2" target="_blank">Getting Real Numbers Into the VPA Model: The Commands and Tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-23 19:23</span>
             </div>
         </div>
 </div>
@@ -318,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 04:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
