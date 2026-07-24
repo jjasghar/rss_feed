@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-24 10:37:44 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-07-24 11:30:47 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 24, 2026 - 10:37 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, July 24, 2026 - 11:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-garda-police-ireland_7305746.jpg?20260724122344" alt="&#x27;Extremely significant&#x27; car bomb intercepted near border by Irish police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/extremely-significant-car-bomb-intercepted-near-border-by-irish-police-13566599" target="_blank">&#x27;Extremely significant&#x27; car bomb intercepted near border by Irish police</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-24 11:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/24/south-african-court-pauses-impeachment-process-against-president?traffic_source=rss" target="_blank">South African court pauses impeachment process against president</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-24 10:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -58,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260724-iran-rs-b0a311.jpg" alt="U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/iran/us-iran-strikes-trump-massive-attack-war-hormuz-red-sea-oil-rcna589016" target="_blank">U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-24 10:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -66,38 +97,20 @@
                 <span class="time">2026-07-24 09:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df86/live/daaa3730-8739-11f1-bee8-53ce494e1abc.jpg" alt="Angela Rayner rules out rent controls in England" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss" target="_blank">Angela Rayner rules out rent controls in England</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-24 09:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-gty-jt-260723_1784835303455_hpMain_4x3t_384.jpg" alt="Trump to attend rescheduled White House correspondent&#x27;s dinner Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-attend-rescheduled-white-house-correspondents-dinner-friday/story?id=135027808" target="_blank">Trump to attend rescheduled White House correspondent&#x27;s dinner Friday</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-24 09:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/24/g-s1-134821/jimothy-ai-uk-mamdani-strait-iran-news-quiz" target="_blank">What animal is the deformed-but-adorable Jimothy? The quiz knows — do you?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-24 09:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Snakebot-ready-to-deploy-in-rubble-500x500.jpg" alt="Robot snakes searched for Venezuela earthquake survivors in collapsed buildings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/" target="_blank">Robot snakes searched for Venezuela earthquake survivors in collapsed buildings</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-24 11:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +156,38 @@
                 <span class="time">2026-07-23 22:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices" target="_blank">Alexa Plus is getting an AI update to handle more complicated instructions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-23 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vivekvohra/aws-s3-cloudfront-subdirectory-hosting-architecture-edge-cases-6j1" target="_blank">AWS S3 + CloudFront Subdirectory Hosting: Architecture &amp; Edge Cases</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-24 11:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-snapdragon-x-elite" target="_blank">Snapdragon X Elite Laptop Experience Still Lackluster On Ubuntu 26.04 LTS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-24 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/en/headerimage/generatedHeaderImage-1784717127691.jpg" alt="Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-24 10:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,47 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/jotai-rework-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Jotai v2.20: Rework Store Building Blocks for High-Throughput Performance and Sets the Stage for v3</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-24 06:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/micheljee/how-upgrading-door-handles-can-transform-your-homes-style-and-function-5hl8" target="_blank">How Upgrading Door Handles Can Transform Your Home&#x27;s Style and Function</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-24 04:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/josephskaf/what-i-learned-building-a-directory-of-329-ai-tools-5b4j" target="_blank">What I learned building a directory of 329 AI tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-24 02:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-24-2026-red-hat" target="_blank">Friday Five — July 24, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-07-24 00:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html" target="_blank">End-to-End Encryption and “Going Dark”</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-23 11:03</span>
             </div>
         </div>
 </div>
@@ -330,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 10:37 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 11:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
