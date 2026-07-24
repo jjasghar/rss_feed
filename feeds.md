@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-24 21:21:01 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-24 22:20:27 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, July 24, 2026 - 21:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, July 24, 2026 - 22:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aed2/live/0070b2b0-87a7-11f1-b2ab-0dd01740f9f6.jpg" alt="Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss" target="_blank">Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-24 21:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc4f/live/634ad170-87a4-11f1-9b54-591acc53357a.png" alt="Man describes trying to save mother and daughter who drowned off Essex beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -62,6 +73,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/24/spanish-police-accuse-tractor-driver-of-sparking-wildfire-as-blazes-spread?traffic_source=rss" target="_blank">Spanish police accuse tractor driver of sparking wildfire as blazes spread</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-24 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-gty-jt-260723_1784835303455_hpMain_4x3t_384.jpg" alt="Trump to give &#x27;unifying yet vicious&#x27; speech at White House correspondents&#x27; dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-attend-rescheduled-white-house-correspondents-dinner-friday/story?id=135027808" target="_blank">Trump to give &#x27;unifying yet vicious&#x27; speech at White House correspondents&#x27; dinner</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-24 20:39</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +102,29 @@
                 <span class="time">2026-07-24 18:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss" target="_blank">ICC prosecutor Khan removed over sexual misconduct allegations: Sources</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-24 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-9-rt-gmh-260723_1784841381732_hpMain_4x3t_384.jpg" alt="Trump&#x27;s hunt for leverage over Saudi Arabia fuels nuclear proliferation concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trumps-hunt-leverage-saudi-arabia-fuels-nuclear-proliferation/story?id=135026081" target="_blank">Trump&#x27;s hunt for leverage over Saudi Arabia fuels nuclear proliferation concerns</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-24 18:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/" target="_blank">TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-24 22:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-500x500.jpg" alt="Paramount/WBD merger delayed for months as states&#x27; lawsuit moves toward trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/" target="_blank">Paramount/WBD merger delayed for months as states&#x27; lawsuit moves toward trial</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-24 21:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +161,6 @@
                 <span class="time">2026-07-24 19:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban" target="_blank">Meta just created a moderation nightmare for its smart glasses</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-24 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6386315ba8c9d10fc5c6bc/master/pass/El%20Ni%C3%B1o%20intensidad%202026%20efectos1500444341.jpg" alt="The 2026 El Niño Is on Track to Be the Strongest on Record" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/" target="_blank">The 2026 El Niño Is on Track to Be the Strongest on Record</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-24 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,9 +170,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/orbitpickle307/ai-can-write-the-test-your-team-owns-the-maintenance-4ehn" target="_blank">AI Can Write the Test. Your Team Owns the Maintenance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-24 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/otezvikentiy/my-idle-clickhouse-was-merging-11-million-rows-every-30-seconds-2d4i" target="_blank">My idle ClickHouse was merging 11 million rows every 30 seconds</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-24 21:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-GR-LLM-Usage" target="_blank">Debian Considering General Resolution Over LLM Usage In The Project</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-24 21:07</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +220,6 @@
                 <span class="time">2026-07-24 17:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/claude-opus-5" target="_blank">Claude Opus 5</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-24 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17386673/codeberg-bans-ai-contributions" target="_blank">Codeberg Has Drawn a Hard Line on Use of AI With Community Backing</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-24 16:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-24 21:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/iProVPN.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="No more ads? Get speedy, secure, and seamless connectivity with this VPN for 94% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/24/astronomers-may-have-detected-an-exomoon.html" target="_blank">Astronomers may have detected an exomoon</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-24 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYACVTVREZ7JGYBVMZW8BBPB/hero-image.jpg" alt="It Just Got a Lot Cheaper to Try Gemini Spark, Google&#x27;s AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/it-just-got-cheaper-to-try-googles-agentic-ai-gemini-spark?utm_medium=RSS" target="_blank">It Just Got a Lot Cheaper to Try Gemini Spark, Google&#x27;s AI Agent</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-24 17:00</span>
             </div>
         </div>
 </div>
@@ -341,22 +343,13 @@
                 <span class="time">2026-07-24 02:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/23/the-leto-protocol" target="_blank">The Leto Protocol</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-23 22:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 21:21 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 22:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
