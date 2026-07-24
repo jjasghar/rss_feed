@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-24 19:28:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-24 20:27:02 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, July 24, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, July 24, 2026 - 20:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/24/car-bomb-attack-kills-27-in-northwest-pakistan?traffic_source=rss" target="_blank">Car bomb attack kills 27 in northwest Pakistan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-24 19:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/065e/live/19c07e70-875d-11f1-95ec-a30de4e448c4.jpg" alt="Ten killed in Russian attack on drone exhibition near Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +98,20 @@
                 <span class="time">2026-07-24 14:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/apalachee-1-gty-jef-260724_1784895993091_hpMain_4x3t_384.jpg" alt="Teen pleads guilty to committing mass shooting at his high school" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/teen-colt-gray-pleads-guilty-committing-mass-shooting/story?id=135047884" target="_blank">Teen pleads guilty to committing mass shooting at his high school</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-24 13:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/" target="_blank">Volkswagen engineers charged with insider trading tied to Rivian joint venture</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-24 19:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast/" target="_blank">Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-24 17:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release" target="_blank">Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-24 17:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/image-99.jpg" alt="How Much Longer Can PlayStation Stay In The Bunker Hiding From ‘No Disc, No Buy?’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/how-much-longer-can-playstation-stay-in-the-bunker-hiding-from-no-disc-no-buy-2000719131" target="_blank">How Much Longer Can PlayStation Stay In The Bunker Hiding From ‘No Disc, No Buy?’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-24 19:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KYAH0FJCPFGCF444HRATGMJ8/hero-image.png" alt="ChatGPT Health Is Rolling Out to Everyone, but I Don’t Trust It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -275,15 +286,6 @@
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/hi-fi-rush-physical-edition-dlc-limited-run-superdeluxe-2000719134" target="_blank">Hi-Fi Rush Physical Copies Shipped Without Promised Content: ‘We Sincerely Apologize From The Bottom Of Our Hearts’</a></span>
                 <span class="feed">Kotaku</span>
-                <span class="time">2026-07-24 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/IndyPDF-Editor-Converter.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $20 PDF editor keeps your files off the cloud and on your device (MSRP $50)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/24/this-20-pdf-editor-keeps-your-files-off-the-cloud-and-on-your-device-msrp-50.html" target="_blank">This $20 PDF editor keeps your files off the cloud and on your device (MSRP $50)</a></span>
-                <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-24 15:00</span>
             </div>
         </div>
@@ -352,7 +354,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 31 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 19:28 UTC
+        🔄 Last Updated: 20:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
