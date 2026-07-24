@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-24 18:26:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-24 19:28:17 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, July 24, 2026 - 18:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, July 24, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/065e/live/19c07e70-875d-11f1-95ec-a30de4e448c4.jpg" alt="Ten killed in Russian attack on drone exhibition near Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss" target="_blank">Ten killed in Russian attack on drone exhibition near Kyiv</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-24 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss" target="_blank">ICC prosecutor Khan removed over sexual misconduct allegations: Sources</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-24 18:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-9-rt-gmh-260723_1784841381732_hpMain_4x3t_384.jpg" alt="Trump&#x27;s hunt for leverage over Saudi Arabia fuels nuclear proliferation concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +96,29 @@
                 <span class="time">2026-07-24 13:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/24/what-to-know-about-the-white-house-correspondents-dinner-take-two?traffic_source=rss" target="_blank">What to know about the White House Correspondents’ Dinner, take two</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-24 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/24/nx-s1-5904598/a-former-nun-explains-why-she-ran-away-from-her-cloistered-life" target="_blank">A former nun explains why she ran away from her &#x27;Cloistered&#x27; life</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-24 13:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban" target="_blank">Meta just created a moderation nightmare for its smart glasses</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-24 19:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6386315ba8c9d10fc5c6bc/master/pass/El%20Ni%C3%B1o%20intensidad%202026%20efectos1500444341.jpg" alt="The 2026 El Niño Is on Track to Be the Strongest on Record" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/" target="_blank">The 2026 El Niño Is on Track to Be the Strongest on Record</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-24 18:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release" target="_blank">Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-24 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules" target="_blank">Tesla’s car door defect could lead to tougher rules for everyone</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-24 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a62963a17ddff986dd664a4/master/pass/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg" alt="Silicon Valley Is Completely Divided Over Chinese AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/" target="_blank">Silicon Valley Is Completely Divided Over Chinese AI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-24 15:00</span>
             </div>
         </div>
 </div>
@@ -197,6 +190,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/news/claude-opus-5" target="_blank">Claude Opus 5</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-24 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17386673/codeberg-bans-ai-contributions" target="_blank">Codeberg Has Drawn a Hard Line on Use of AI With Community Backing</a></span>
                 <span class="feed">It's FOSS</span>
@@ -210,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/franckpachot/b-tree-block-split-whats-the-impact-1i9c" target="_blank">B-tree block split: what&#x27;s the impact?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-24 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/" target="_blank">No Dumb Questions: What is the AI bottleneck? How does context engineering fix it?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌​﻿​﻿‌‍​‍​﻿‌‍​﻿​‍‌‍‌‌​﻿‍‌​﻿​‌​‍﻿‌​﻿‍​‌‍‌‌‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​​﻿‍​‌‍‌​‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌​﻿‌​​﻿​‍​‍﻿‌‌‍​‍​﻿‌‌​﻿‌﻿​﻿‌​​﻿‌‍‌‍​﻿​﻿​﻿​﻿‌‍​﻿​​​﻿‌﻿​﻿​﻿​﻿​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌​﻿​﻿‌‍​‍​﻿‌‍​﻿​‍‌‍‌‌​﻿‍‌​﻿​‌​‍﻿‌​﻿‍​‌‍‌‌‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​​﻿‍​‌‍‌​‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌​﻿‌​​﻿​‍​‍﻿‌‌‍​‍​﻿‌‌​﻿‌﻿​﻿‌​​﻿‌‍‌‍​﻿​﻿​﻿​﻿‌‍​﻿​​​﻿‌﻿​﻿​﻿​﻿​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-07-24 16:00</span>
             </div>
         </div>
 </div>
@@ -240,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYAH0FJCPFGCF444HRATGMJ8/hero-image.png" alt="ChatGPT Health Is Rolling Out to Everyone, but I Don’t Trust It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/chatgpt-health-is-rolling-out-to-everyone-but-i-dont-trust-it?utm_medium=RSS" target="_blank">ChatGPT Health Is Rolling Out to Everyone, but I Don’t Trust It</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-24 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KRJNJ5W39T6RD7HVB5W14JEG/hero-image.png" alt="This LG OLED Gaming Monitor Is Just $379 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,20 +287,20 @@
                 <span class="time">2026-07-24 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/WoW_Midnight_GamescomReveal_Nexus_Point_Xenas_036-1280x720.jpg" alt="Blizzard Fires Dev At The Center Of World Of Warcraft Cheating Scandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/blizzard-fires-dev-wow-cheating-scandal-2000719107" target="_blank">Blizzard Fires Dev At The Center Of World Of Warcraft Cheating Scandal</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-24 14:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/24/acquisitions-inc-auction-for-child-s-play" target="_blank">Acquisitions Inc. Auction for Child&#x27;s Play!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-24 18:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -349,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 18:26 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
