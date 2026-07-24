@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-24 17:29:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-24 18:26:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, July 24, 2026 - 17:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, July 24, 2026 - 18:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-9-rt-gmh-260723_1784841381732_hpMain_4x3t_384.jpg" alt="Trump&#x27;s hunt for leverage over Saudi Arabia fuels nuclear proliferation concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trumps-hunt-leverage-saudi-arabia-fuels-nuclear-proliferation/story?id=135026081" target="_blank">Trump&#x27;s hunt for leverage over Saudi Arabia fuels nuclear proliferation concerns</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-24 18:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +103,38 @@
                 <span class="time">2026-07-24 13:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss" target="_blank">US summons Malaysia envoy over Israel policy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-24 12:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b" target="_blank">Nothing confirms layoffs, but calls market exit rumors &amp;#8216;fake news&amp;#8217;</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-24 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/" target="_blank">Why Cognition bought Poke: AI personality is becoming a competitive advantage</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-24 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a615a679a93c24d43a612f6/master/pass/Uncanny-Valley-Moonshot-AI-Stealing-Anthropic-Models-Business.jpg" alt="Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast/" target="_blank">Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-24 17:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,38 +162,20 @@
                 <span class="time">2026-07-24 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/" target="_blank">Facebook launches a dedicated Marketplace app for sellers, adds a free verification system</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-24 12:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason" target="_blank">Whack-a-drone</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0e2350a38dc9cb19f6761a/master/pass/Best%20Air%20Conditioners%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Best Window Air Conditioners of 2026: Midea, Zafro, GE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-window-air-conditioners/" target="_blank">Best Window Air Conditioners of 2026: Midea, Zafro, GE</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-24 11:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17386848/ubuntu-26-04-update-notifier-fix" target="_blank">Ubuntu 26.04 Stopped Notifying Users About Updates, But That Was Intentional</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-24 17:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +221,6 @@
                 <span class="time">2026-07-24 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/firefox-crossword-plain.webp?resize=406%2C232&amp;ssl=1" alt="Firefox’s new tab page adds AI-powered daily crossword widget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/firefox-new-widgets-crossword" target="_blank">Firefox’s new tab page adds AI-powered daily crossword widget</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-24 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRJNJ5W39T6RD7HVB5W14JEG/hero-image.png" alt="This LG OLED Gaming Monitor Is Just $379 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/lg-ultragear-oled-gaming-monitor-sale-july-2026?utm_medium=RSS" target="_blank">This LG OLED Gaming Monitor Is Just $379 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-24 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/eso2610a.jpg?fit=1280%2C771&amp;quality=60&amp;ssl=1" alt="Astronomers may have detected an exomoon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/24/astronomers-may-have-detected-an-exomoon.html" target="_blank">Astronomers may have detected an exomoon</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-24 17:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KYACVTVREZ7JGYBVMZW8BBPB/hero-image.jpg" alt="It Just Got a Lot Cheaper to Try Gemini Spark, Google&#x27;s AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/blizzard-fires-dev-wow-cheating-scandal-2000719107" target="_blank">Blizzard Fires Dev At The Center Of World Of Warcraft Cheating Scandal</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-24 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/LITRES_Tin_for_wine2C_alcohol_2._For_milk_3._For_grains_4._Glass._Public_domain_book_illustration_from_French_encyclopedia_Larousse_du_XXC3A8me_siC3A8cle_1932.jpg?fit=546%2C364&amp;quality=60&amp;ssl=1" alt="A chemist invented a fake Frenchman to justify capital L for liters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/24/claude-litre-fake-scientist.html" target="_blank">A chemist invented a fake Frenchman to justify capital L for liters</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-24 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/3840px-World_Time_Zones_Map-scaled.png?fit=2560%2C1381&amp;quality=55&amp;ssl=1" alt="What if the whole planet ran on a single clock?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/24/abolition-of-time-zones.html" target="_blank">What if the whole planet ran on a single clock?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-24 13:00</span>
             </div>
         </div>
 </div>
@@ -346,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 17:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 18:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
