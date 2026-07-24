@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-24 06:48:59 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-07-24 07:45:17 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, July 24, 2026 - 06:49 UTC</div>
+    <div class="newspaper-date">Friday, July 24, 2026 - 07:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e3/live/8d7bf160-8711-11f1-bee8-53ce494e1abc.jpg" alt="Burnham to spend first day working from northern branch of No 10" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to spend first day working from northern branch of No 10</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-24 07:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c18a/live/839d6280-8727-11f1-926f-c90d1bcfbc84.jpg" alt="US hits dozens of trading partners with new wave of tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,6 +73,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters" target="_blank">Indian activist Wangchuk ends 26-day hunger strike as &#x27;Cockroach&#x27; protesters vow to press on</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-24 05:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war" target="_blank">Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-24 05:45</span>
@@ -79,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss" target="_blank">As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-24 03:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/24/us-launches-13th-night-of-strikes-as-iran-warns-of-escalation-in-the-gulf?traffic_source=rss" target="_blank">US launches 13th night of strikes as Iran warns of escalation in the Gulf</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-24 02:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg" alt="US imposes tariffs on dozens of trade partners, citing forced labour concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss" target="_blank">US imposes tariffs on dozens of trade partners, citing forced labour concerns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-24 02:10</span>
             </div>
         </div>
 </div>
@@ -173,6 +170,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/07/jotai-rework-performance/en/headerimage/generatedHeaderImage-1784795525005.jpg" alt="Jotai v2.20: Rework Store Building Blocks for High-Throughput Performance and Sets the Stage for v3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/jotai-rework-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Jotai v2.20: Rework Store Building Blocks for High-Throughput Performance and Sets the Stage for v3</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-24 06:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +212,6 @@
                 <span class="title"><a href="https://jdan.github.io/98.css/#status-bar" target="_blank">98.css</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-23 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/codeberg-ai-slop-1.webp?resize=406%2C232&amp;ssl=1" alt="Codeberg members vote to ban AI-generated code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/codeberg-bans-ai-generated-code" target="_blank">Codeberg members vote to ban AI-generated code</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-23 21:51</span>
             </div>
         </div>
 </div>
@@ -299,6 +296,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/24/the-leto-protocol" target="_blank">The Leto Protocol</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-24 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/23/the-leto-protocol" target="_blank">The Leto Protocol</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-07-23 22:20</span>
@@ -318,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 06:49 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 07:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
