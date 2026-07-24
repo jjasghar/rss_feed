@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-24 04:06:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-24 05:55:58 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, July 24, 2026 - 04:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, July 24, 2026 - 05:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war" target="_blank">Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-24 05:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +98,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss" target="_blank">UK complacent about war threat, warns defence boss</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-23 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg" alt="US imposes tariffs on dozens of trade partners over &#x27;forced labour&#x27; imports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss" target="_blank">US imposes tariffs on dozens of trade partners over &#x27;forced labour&#x27; imports</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-23 23:03</span>
             </div>
         </div>
 </div>
@@ -169,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/" target="_blank">Partnerships can keep open source sustainable​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍‌​﻿‍‌​﻿​‍​﻿​‌​﻿​‍​﻿​​​﻿​‍​‍﻿‌​﻿​‌‌‍‌‍​﻿​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿​​​﻿​﻿​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌‍‌‍​‍​﻿‌﻿​‍﻿‌‌‍​‌​﻿‌﻿​﻿‍​​﻿‌‌​﻿‍​​﻿​‍​﻿‍​​﻿‌﻿​﻿​﻿​﻿​‌​﻿​﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍‌​﻿‍‌​﻿​‍​﻿​‌​﻿​‍​﻿​​​﻿​‍​‍﻿‌​﻿​‌‌‍‌‍​﻿​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿​​​﻿​﻿​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌‍‌‍​‍​﻿‌﻿​‍﻿‌‌‍​‌​﻿‌﻿​﻿‍​​﻿‌‌​﻿‍​​﻿​‍​﻿‍​​﻿‌﻿​﻿​﻿​﻿​‌​﻿​﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-07-24 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/micheljee/how-upgrading-door-handles-can-transform-your-homes-style-and-function-5hl8" target="_blank">How Upgrading Door Handles Can Transform Your Home&#x27;s Style and Function</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,21 +210,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/codeberg-ai-slop-1.webp?resize=406%2C232&amp;ssl=1" alt="Codeberg bans hosting ‘mostly’ AI-generated code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/codeberg-ai-slop-1.webp?resize=406%2C232&amp;ssl=1" alt="Codeberg members vote to ban AI-generated code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/codeberg-bans-ai-generated-code" target="_blank">Codeberg bans hosting ‘mostly’ AI-generated code</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/codeberg-bans-ai-generated-code" target="_blank">Codeberg members vote to ban AI-generated code</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-07-23 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/my-developer-associate-certification-journey-and-resources-to-certify-with-confidence-402l" target="_blank">My Developer Associate Certification Journey and Resources to Certify With Confidence</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-23 20:18</span>
             </div>
         </div>
 </div>
@@ -239,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/It-is-what-it-is-e1782152725419.jpg?fit=768%2C411&amp;quality=60&amp;ssl=1" alt="Elon Musk tries out the some-of-my-best-friends defense" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/23/elon-musk-racism-half-indian-partner-economist-interview.html" target="_blank">Elon Musk tries out the some-of-my-best-friends defense</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-24 04:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/LG-Smart-View-monitor-official-image-from-LG-press-release.jpg" alt="LG Faces Swift Backlash Over Claims Its Gaming Monitors Are Automatically Installing Adware And ‘Wiretapping’ PCs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +291,6 @@
                 <span class="time">2026-07-23 20:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JYM4YHQJ9PH0D6TMHDD4CJ29/hero-image.png" alt="The Samsung Galaxy S25+ Is Still One of the Best Premium Android Phones, and It&#x27;s $300 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s25-plus-sale-july-2026?utm_medium=RSS" target="_blank">The Samsung Galaxy S25+ Is Still One of the Best Premium Android Phones, and It&#x27;s $300 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-23 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 04:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 05:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
