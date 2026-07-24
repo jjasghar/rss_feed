@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-24 20:27:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-24 21:21:01 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 24, 2026 - 20:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, July 24, 2026 - 21:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc4f/live/634ad170-87a4-11f1-9b54-591acc53357a.png" alt="Man describes trying to save mother and daughter who drowned off Essex beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz7dve71n9lo?at_medium=RSS&at_campaign=rss" target="_blank">Man describes trying to save mother and daughter who drowned off Essex beach</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-24 21:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/24/spanish-police-accuse-tractor-driver-of-sparking-wildfire-as-blazes-spread?traffic_source=rss" target="_blank">Spanish police accuse tractor driver of sparking wildfire as blazes spread</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-24 20:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +100,38 @@
                 <span class="time">2026-07-24 18:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss" target="_blank">Romanian jet fighter shoots down suspected Russian drone</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-24 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb06/live/2f9183e0-8738-11f1-a10e-a5d4f08bc20c.jpg" alt="Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss" target="_blank">Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-24 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/" target="_blank">Vietnam is looking to restrict social media for kids; here’s a look at growing number of other countries doing the same</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-24 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-500x500.jpg" alt="Anthropic&#x27;s Opus 5 is about token efficiency, not a capability leap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/" target="_blank">Anthropic&#x27;s Opus 5 is about token efficiency, not a capability leap</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-24 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a5956e5204d70a89778c8b1/master/pass/Made-In-China-China-Vape-Makers-Have-New-Way-Around-Flavor-Bans-Business.jpg" alt="Chinese Companies Are Selling Vapes With Chemicals Potentially More Potent Than Nicotine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/made-in-china-chinas-vape-makers-have-a-new-way-around-flavor-bans/" target="_blank">Chinese Companies Are Selling Vapes With Chemicals Potentially More Potent Than Nicotine</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-24 20:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,38 +159,20 @@
                 <span class="time">2026-07-24 18:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b" target="_blank">Nothing confirms layoffs, but calls market exit rumors &amp;#8216;fake news&amp;#8217;</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-24 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/" target="_blank">Why Cognition bought Poke: AI personality is becoming a competitive advantage</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-24 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a615a679a93c24d43a612f6/master/pass/Uncanny-Valley-Moonshot-AI-Stealing-Anthropic-Models-Business.jpg" alt="Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast/" target="_blank">Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-24 17:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/otezvikentiy/my-idle-clickhouse-was-merging-11-million-rows-every-30-seconds-2d4i" target="_blank">My idle ClickHouse was merging 11 million rows every 30 seconds</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-24 21:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +218,6 @@
                 <span class="time">2026-07-24 16:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/franckpachot/b-tree-block-split-whats-the-impact-1i9c" target="_blank">B-tree block split: what&#x27;s the impact?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-24 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/iProVPN.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="No more ads? Get speedy, secure, and seamless connectivity with this VPN for 94% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/24/no-more-ads-get-speedy-secure-and-seamless-connectivity-with-this-vpn-for-94-off.html" target="_blank">No more ads? Get speedy, secure, and seamless connectivity with this VPN for 94% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-24 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/image-99.jpg" alt="How Much Longer Can PlayStation Stay In The Bunker Hiding From ‘No Disc, No Buy?’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/it-just-got-cheaper-to-try-googles-agentic-ai-gemini-spark?utm_medium=RSS" target="_blank">It Just Got a Lot Cheaper to Try Gemini Spark, Google&#x27;s AI Agent</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-24 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/05/4ede135a59dbd5b58db7b4a95a330659-1280x720.jpg" alt="Hi-Fi Rush Physical Copies Shipped Without Promised Content: ‘We Sincerely Apologize From The Bottom Of Our Hearts’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hi-fi-rush-physical-edition-dlc-limited-run-superdeluxe-2000719134" target="_blank">Hi-Fi Rush Physical Copies Shipped Without Promised Content: ‘We Sincerely Apologize From The Bottom Of Our Hearts’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-24 15:00</span>
             </div>
         </div>
 </div>
@@ -353,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 20:27 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 21:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
