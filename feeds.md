@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-24 16:30:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-07-24 17:29:11 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, July 24, 2026 - 16:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, July 24, 2026 - 17:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss" target="_blank">Romanian jet fighter shoots down suspected Russian drone</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-24 16:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb06/live/2f9183e0-8738-11f1-a10e-a5d4f08bc20c.jpg" alt="Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +100,20 @@
                 <span class="time">2026-07-24 12:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a1/live/d9a08500-875d-11f1-b2ab-0dd01740f9f6.jpg" alt="US hits dozens of countries with new wave of tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss" target="_blank">US hits dozens of countries with new wave of tariffs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-24 12:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release" target="_blank">Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-24 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +159,38 @@
                 <span class="time">2026-07-24 11:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Snakebot-ready-to-deploy-in-rubble-500x500.jpg" alt="Robot snakes searched for Venezuela earthquake survivors in collapsed buildings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/" target="_blank">Robot snakes searched for Venezuela earthquake survivors in collapsed buildings</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-24 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arshtechpro/unlimited-ocr-parsing-a-40-page-pdf-in-one-pass-without-your-gpu-melting-4mc4" target="_blank">Unlimited-OCR: Parsing a 40-Page PDF in One Pass Without Your GPU Melting</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-24 17:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Imagination-BXM-4-64-Linux-7.3" target="_blank">Imagination PowerVR Driver Marking BXM-4-64 MC1 GPU As Supported In Linux 7.3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-24 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17386673/codeberg-bans-ai-contributions" target="_blank">Codeberg Has Drawn a Hard Line on Use of AI With Community Backing</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-24 16:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,39 +210,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/firefox-crossword-plain.webp?resize=406%2C232&amp;ssl=1" alt="Firefox’s new tab page adds AI-powered daily crossword widget" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/confidential-computing-and-the-new-regulatory-focus-on-data-in-use" target="_blank">Confidential computing and the new regulatory focus on data in use</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-07-24 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/obaalege/why-enterprise-ai-requires-smarter-orchestration-not-bigger-models-1145" target="_blank">Why Enterprise AI Requires Smarter Orchestration, Not Bigger Models</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-24 15:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Drop-Debian-Version" target="_blank">Ubuntu Linux Looking To Get Rid Of /etc/debian_version Historical Artifact</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-24 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vultr/deploying-kubernetes-dashboard-and-managing-cluster-resources-4426" target="_blank">Deploying Kubernetes Dashboard and Managing Cluster Resources</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-24 14:19</span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/firefox-new-widgets-crossword" target="_blank">Firefox’s new tab page adds AI-powered daily crossword widget</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-24 15:45</span>
             </div>
         </div>
 </div>
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYACVTVREZ7JGYBVMZW8BBPB/hero-image.jpg" alt="It Just Got a Lot Cheaper to Try Gemini Spark, Google&#x27;s AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/it-just-got-cheaper-to-try-googles-agentic-ai-gemini-spark?utm_medium=RSS" target="_blank">It Just Got a Lot Cheaper to Try Gemini Spark, Google&#x27;s AI Agent</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-24 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/05/4ede135a59dbd5b58db7b4a95a330659-1280x720.jpg" alt="Hi-Fi Rush Physical Copies Shipped Without Promised Content: ‘We Sincerely Apologize From The Bottom Of Our Hearts’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +288,6 @@
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/07/24/abolition-of-time-zones.html" target="_blank">What if the whole planet ran on a single clock?</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-24 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYA2KYPTG9577DK5P2D3D0VT/hero-image.png" alt="Preorders for the Samsung Galaxy Watch Ultra2 Come With a Free $100 Gift Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-watch-ultra2-deal-july-2026?utm_medium=RSS" target="_blank">Preorders for the Samsung Galaxy Watch Ultra2 Come With a Free $100 Gift Card</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-24 13:00</span>
             </div>
         </div>
@@ -347,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 16:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 17:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
