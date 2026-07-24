@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-24 12:26:09 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-24 13:29:27 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, July 24, 2026 - 12:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, July 24, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +51,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss" target="_blank">US summons Malaysia envoy over Israel policy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-24 12:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/24/spains-de-la-fuente-slams-argentinas-world-cup-conduct-as-unacceptable?traffic_source=rss" target="_blank">Spain’s De la Fuente slams Argentina’s World Cup conduct as ‘unacceptable’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-24 12:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe61/live/4d0d38e0-8758-11f1-b2ab-0dd01740f9f6.jpg" alt="Southport killer Axel Rudakubana appears to be manipulating the system, families&#x27; lawyer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&at_campaign=rss" target="_blank">Southport killer Axel Rudakubana appears to be manipulating the system, families&#x27; lawyer says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-24 11:43</span>
             </div>
         </div>
 <div class="story">
@@ -63,39 +84,21 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-garda-police-ireland_7305746.jpg?20260724122344" alt="&#x27;Extremely significant&#x27; car bomb intercepted near border by Irish police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784891972181_tdy_news_7a_engel_welker_iran_strikes_260724_S3_1920x1080-cnfo7e.jpg" alt="Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-vows-retaliation-against-iran-for-houthi-attack-in-red-sea-267213893508" target="_blank">Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-24 11:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-garda-police-ireland_7305746.jpg?20260724122344" alt="&#x27;Extremely significant&#x27; car bomb intercepted near Irish border" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/extremely-significant-car-bomb-intercepted-near-border-by-irish-police-13566599" target="_blank">&#x27;Extremely significant&#x27; car bomb intercepted near border by Irish police</a></span>
+                <span class="title"><a href="https://news.sky.com/story/extremely-significant-car-bomb-intercepted-near-border-by-irish-police-13566599" target="_blank">&#x27;Extremely significant&#x27; car bomb intercepted near Irish border</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-07-24 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/24/south-african-court-pauses-impeachment-process-against-president?traffic_source=rss" target="_blank">South African court pauses impeachment process against president</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-24 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction" target="_blank">US allies hit with new tariffs object to Trump&#x27;s forced labor claims</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-24 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb06/live/2f9183e0-8738-11f1-a10e-a5d4f08bc20c.jpg" alt="Tens of thousands evacuated from French tourist spot as wildfires spread" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss" target="_blank">Tens of thousands evacuated from French tourist spot as wildfires spread</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-24 10:27</span>
             </div>
         </div>
 </div>
@@ -103,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/" target="_blank">Facebook launches a dedicated Marketplace app for sellers, adds a free verification system</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-24 12:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason" target="_blank">Whack-a-drone</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-24 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a0e2350a38dc9cb19f6761a/master/pass/Best%20Air%20Conditioners%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Best Window Air Conditioners of 2026: Midea, Zafro, GE" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +160,20 @@
                 <span class="time">2026-07-24 01:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/" target="_blank">Meet the judges who will crown Australia’s next breakout startup</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-24 00:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a60f44261702616274b2c3e/master/pass/FDA%20Peptide.jpg" alt="An FDA Panel Just Endorsed These Unproven Peptides" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/fda-panel-endorses-unproven-peptides/" target="_blank">An FDA Panel Just Endorsed These Unproven Peptides</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-23 23:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing" target="_blank">Em dashes are fucking amazing</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-24 12:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,28 +204,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-snapdragon-x-elite" target="_blank">Snapdragon X Elite Laptop Experience Still Lackluster On Ubuntu 26.04 LTS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-24 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/en/headerimage/generatedHeaderImage-1784717127691.jpg" alt="Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-24 10:42</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/android-development-with-anbox-cloud" target="_blank">A day in the life of an Android developer with Anbox Cloud</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-07-24 11:12</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bfl.ai/blog/flux-3-mimic" target="_blank">Flux 3 X Mimic: The Next Generation of Video-Action Models</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-24 09:31</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-snapdragon-x-elite" target="_blank">Snapdragon X Elite Laptop Experience Still Lackluster On Ubuntu 26.04 LTS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-24 11:00</span>
             </div>
         </div>
 </div>
@@ -221,6 +224,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/3840px-World_Time_Zones_Map-scaled.png?fit=2560%2C1381&amp;quality=55&amp;ssl=1" alt="What if the whole planet ran on a single clock?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/24/abolition-of-time-zones.html" target="_blank">What if the whole planet ran on a single clock?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-24 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYA2KYPTG9577DK5P2D3D0VT/hero-image.png" alt="Preorders for the Samsung Galaxy Watch Ultra2 Come With a Free $100 Gift Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-watch-ultra2-deal-july-2026?utm_medium=RSS" target="_blank">Preorders for the Samsung Galaxy Watch Ultra2 Come With a Free $100 Gift Card</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2021/11/ea77975e738253523ac2f927eadd2227-1280x720.jpg" alt="Atari And Universal Sign Movie Deal For 10 Video Game Adaptations, Including Pong, Asteroids And Missile Command" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,24 +276,6 @@
                 <span class="title"><a href="https://kotaku.com/lg-monitor-tv-ads-mcafee-microsoft-windows-2000718871" target="_blank">LG Faces Swift Backlash Over Claims Its Gaming Monitors Are Automatically Installing Adware And ‘Wiretapping’ PCs</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-23 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVXV034A0Z2YGN06WGJ9FQF3/hero-image.png" alt="These Are the Best Deals on Laptops, Monitors, and PC Accessories Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/laptops-monitors-pc-accessories-deals-july-2026?utm_medium=RSS" target="_blank">These Are the Best Deals on Laptops, Monitors, and PC Accessories Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-23 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/GettyImages-2205362189-1280x853.jpg" alt="Ubisoft CEO Says PlayStation Ditching Discs Has ‘Pluses And Minuses’ But Won’t ‘Disturb’ The Game Industry That Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ubisoft-says-playstation-ditching-discs-has-pluses-and-minuses-but-wont-disturb-the-game-industry-that-much-2000718878" target="_blank">Ubisoft CEO Says PlayStation Ditching Discs Has ‘Pluses And Minuses’ But Won’t ‘Disturb’ The Game Industry That Much</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-23 21:00</span>
             </div>
         </div>
 </div>
@@ -321,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 12:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
