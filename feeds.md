@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 05:51:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-25 06:42:34 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 05:51 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 06:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,10 +47,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/25/commonwealth-games-gymnast-langtons-headfirst-crash-leads-to-concussion?traffic_source=rss" target="_blank">Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-25 06:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner" target="_blank">Trump returns to correspondents&#x27; dinner 3 months after shooting</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-25 05:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/whca-6-rt-gmh-260724_1784943700703_hpMain_4x3t_384.jpg" alt="Trump lobs insults at political opponents, press during WH correspondents&#x27; dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-attend-rescheduled-white-house-correspondents-dinner-friday/story?id=135027808" target="_blank">Trump lobs insults at political opponents, press during WH correspondents&#x27; dinner</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-25 04:37</span>
             </div>
         </div>
 <div class="story">
@@ -79,24 +96,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss" target="_blank">More than 220,000 evacuated in France and Spain due to wildfires</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-25 02:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784933540192_nn_cku_iran_missiles_update_260724_S3_1920x1080-2hpha7.jpg" alt="U.S. military intentionally allowing some Iranian projectiles through defenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/u-s-military-intentionally-allowing-some-iranian-projectiles-through-defenses-267250757926" target="_blank">U.S. military intentionally allowing some Iranian projectiles through defenses</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-24 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits" target="_blank">Paramount says it will pause its Warner acquisition while legal challenges play out</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-24 22:26</span>
             </div>
         </div>
 </div>
@@ -345,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 39 | 📸 With Images: 257 |
-        🔄 Last Updated: 05:51 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 39 | 📸 With Images: 257 |
+        🔄 Last Updated: 06:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
