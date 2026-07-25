@@ -1,36 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 01:30:57 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-25 02:58:34 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +55,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg" alt="More than 220,000 evacuated in France and Spain due to wildfires" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss" target="_blank">More than 220,000 evacuated in France and Spain due to wildfires</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-25 02:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784933540192_nn_cku_iran_missiles_update_260724_S3_1920x1080-2hpha7.jpg" alt="U.S. military intentionally allowing some Iranian projectiles through defenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -62,6 +79,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits" target="_blank">Paramount says it will pause its Warner acquisition while legal challenges play out</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-24 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/wh-correspondents-abc-jef-260724_1784904393134_hpMain_4x3t_384.jpg" alt="LIVE:  White House Correspondents&#x27; Association Dinner: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  White House Correspondents&#x27; Association Dinner: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-24 22:04</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +108,6 @@
                 <span class="time">2026-07-24 21:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/24/china-philippine-coastguard-vessels-clash-in-south-china-sea?traffic_source=rss" target="_blank">China, Philippine coastguard vessels clash in South China Sea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-24 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc4f/live/634ad170-87a4-11f1-9b54-591acc53357a.png" alt="Man describes trying to save mother and daughter who drowned off Essex beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz7dve71n9lo?at_medium=RSS&at_campaign=rss" target="_blank">Man describes trying to save mother and daughter who drowned off Essex beach</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-24 21:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +120,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/" target="_blank">I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-25 00:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a63d6e658b45fb8be88c32f/master/pass/NASA-Important-Deep-Space-Observatories-Hit-by-Spanish-Wildfires-Science-2287501646.jpg" alt="One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/" target="_blank">One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-24 22:30</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +167,20 @@
                 <span class="time">2026-07-24 21:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/" target="_blank">Vietnam is looking to restrict social media for kids; here’s a look at growing number of other countries doing the same</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-24 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vicky_acedia/azure-sql-managed-instance-vs-azure-sql-database-how-i-actually-made-the-call-3b60" target="_blank">Azure SQL Managed Instance vs Azure SQL Database: How I Actually Made the Call</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-25 02:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,20 +226,20 @@
                 <span class="time">2026-07-24 17:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Imagination-BXM-4-64-Linux-7.3" target="_blank">Imagination PowerVR Driver Marking BXM-4-64 MC1 GPU As Supported In Linux 7.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-24 17:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html" target="_blank">Friday Squid Blogging: Illex Squid Catch in the Falklands</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-24 21:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -237,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2022/09/93c3d9c45e8abd90559e8b3c25f1df4d-1280x720.jpg" alt="The Next God Of War Is In Development, Stars Kratos, Will Tie Directly To Laufey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/god-of-war-laufey-kratos-new-playstation-sdcc-2000719261" target="_blank">The Next God Of War Is In Development, Stars Kratos, Will Tie Directly To Laufey</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-25 01:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/depp-sad-1280x720.jpg" alt="Johnny Depp Promoting A Christmas Carol Prequel In July At Comic-Con Is Incredibly Embarrassing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +306,6 @@
                 <span class="title"><a href="https://kotaku.com/how-much-longer-can-playstation-stay-in-the-bunker-hiding-from-no-disc-no-buy-2000719131" target="_blank">How Much Longer Can PlayStation Stay In The Bunker Hiding From ‘No Disc, No Buy?’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-24 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYAH0FJCPFGCF444HRATGMJ8/hero-image.png" alt="ChatGPT Health Is Rolling Out to Everyone, but I Don’t Trust It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/chatgpt-health-is-rolling-out-to-everyone-but-i-dont-trust-it?utm_medium=RSS" target="_blank">ChatGPT Health Is Rolling Out to Everyone, but I Don’t Trust It</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-24 18:30</span>
             </div>
         </div>
 </div>
@@ -341,22 +358,13 @@
                 <span class="time">2026-07-24 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5880.png" alt="Humming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5880" target="_blank">Humming</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-24 02:06</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
