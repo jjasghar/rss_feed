@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 04:05:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-25 05:51:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 04:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 05:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner" target="_blank">Trump returns to correspondents&#x27; dinner 3 months after shooting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-25 05:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits" target="_blank">Paramount says it will pause its Warner acquisition while legal challenges play out</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-24 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/wh-correspondents-abc-jef-260724_1784904393134_hpMain_4x3t_384.jpg" alt="LIVE:  White House Correspondents&#x27; Association Dinner: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  White House Correspondents&#x27; Association Dinner: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-24 22:04</span>
             </div>
         </div>
 </div>
@@ -171,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iqbal120708/a-small-refresh-bug-that-uncovered-security-gaps-in-my-otp-system-3d20" target="_blank">A Small Refresh Bug That Uncovered Security Gaps in My OTP System</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-25 05:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/liuhao04/your-youtube-screenshot-is-black-because-you-screenshotted-the-wrong-layer-14cm" target="_blank">Your YouTube screenshot is black because you screenshotted the wrong layer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-25 03:55</span>
@@ -183,6 +188,15 @@
                 <span class="title"><a href="https://dev.to/vicky_acedia/azure-sql-managed-instance-vs-azure-sql-database-how-i-actually-made-the-call-3b60" target="_blank">Azure SQL Managed Instance vs Azure SQL Database: How I Actually Made the Call</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-25 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.14-Released" target="_blank">Wine 11.14 Brings WoW64 Mode To FreeBSD, Icon Support In Start Menu</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-25 00:11</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/otezvikentiy/my-idle-clickhouse-was-merging-11-million-rows-every-30-seconds-2d4i" target="_blank">My idle ClickHouse was merging 11 million rows every 30 seconds</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-24 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-GR-LLM-Usage" target="_blank">Debian Considering General Resolution Over LLM Usage In The Project</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-24 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17386848/ubuntu-26-04-update-notifier-fix" target="_blank">Ubuntu 26.04 Stopped Notifying Users About Updates, But That Was Intentional</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-24 17:41</span>
             </div>
         </div>
 </div>
@@ -349,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 04:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 39 | 📸 With Images: 257 |
+        🔄 Last Updated: 05:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
