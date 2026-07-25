@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 10:28:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-25 11:23:49 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 10:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 11:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d86e/live/21ff53b0-87ce-11f1-befd-5b1f20fd5b65.jpg" alt="Police declare &#x27;major incident&#x27; over Cairngorms wildfire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss" target="_blank">Police declare &#x27;major incident&#x27; over Cairngorms wildfire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-25 11:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss" target="_blank">How Volker Turk won a new term as UN rights chief despite Israel opposition</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-25 09:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/04/1920x1080/skynews-breaking-breakingnews_7210863.png?20260516142605" alt="India&#x27;s education minister resigns after mass protests led by &#x27;Cockroach&#x27; movement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +100,20 @@
                 <span class="time">2026-07-25 04:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss" target="_blank">‘The show must go on’: Trump returns to rescheduled White House press gala</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-25 02:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784948115580_now_brk_trump_dinner_grumbach_260724_S3_1920x1080-mg9ah5.jpg" alt="Trump touts his accomplishments and relationship with the press at Correspondents&#x27; Dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-touts-his-accomplishments-and-relationship-with-the-press-at-correspondents-dinner-267263045743" target="_blank">Trump touts his accomplishments and relationship with the press at Correspondents&#x27; Dinner</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-25 02:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-521790748-500x500.jpg" alt="With help from data, art museums are reframing the visitor experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/" target="_blank">With help from data, art museums are reframing the visitor experience</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-25 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69be039cf062c9cdcba42e33/master/pass/macbook-air-m5-03.JPG" alt="Best Laptops (2026): My Top Recommendations After Testing Hundreds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +159,29 @@
                 <span class="time">2026-07-24 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2287501646-500x500.jpg" alt="Wildfire forces evacuation of NASA&#x27;s Deep Space Network complex in Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/" target="_blank">Wildfire forces evacuation of NASA&#x27;s Deep Space Network complex in Spain</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-24 22:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aaresvic/i-scanned-1775-websites-for-gdpr-consent-leaks-heres-what-fires-before-you-click-anything-21ak" target="_blank">I scanned 1,775 websites for GDPR consent leaks. Here&#x27;s what fires before you click anything</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-25 11:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes" target="_blank">Kiwi Menu Continues Bringing macOS Vibes To GNOME</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-25 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/07/ai-rca-context-engineering/en/headerimage/header-1784749972581.jpeg" alt="AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +218,6 @@
                 <span class="time">2026-07-25 06:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arcprize.org/leaderboard" target="_blank">ARC-AGI Leaderboard</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-25 06:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iqbal120708/a-small-refresh-bug-that-uncovered-security-gaps-in-my-otp-system-3d20" target="_blank">A Small Refresh Bug That Uncovered Security Gaps in My OTP System</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-25 05:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,15 +230,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html" target="_blank">Friday Squid Blogging: Illex Squid Catch in the Falklands</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-07-24 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html" target="_blank">Why AI Needs a “Genie Coefficient”</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-24 11:03</span>
             </div>
         </div>
 </div>
@@ -338,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 10:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 11:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
