@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-24 23:19:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-25 00:21:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, July 24, 2026 - 23:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 00:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +51,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits" target="_blank">Paramount says it will pause its Warner acquisition while legal challenges play out</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-24 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1670/live/e28b44c0-8799-11f1-9d55-0b6742729f5d.jpg" alt="Police declare &#x27;major incident&#x27; as wind change increases Cairngorms wildfire risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss" target="_blank">Police declare &#x27;major incident&#x27; as wind change increases Cairngorms wildfire risk</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-24 21:56</span>
             </div>
         </div>
 <div class="story">
@@ -91,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/24/spanish-police-accuse-tractor-driver-of-sparking-wildfire-as-blazes-spread?traffic_source=rss" target="_blank">Spanish police accuse tractor driver of sparking wildfire as blazes spread</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-24 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-gty-jt-260723_1784835303455_hpMain_4x3t_384.jpg" alt="Trump to give &#x27;unifying yet vicious&#x27; speech at White House correspondents&#x27; dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-attend-rescheduled-white-house-correspondents-dinner-friday/story?id=135027808" target="_blank">Trump to give &#x27;unifying yet vicious&#x27; speech at White House correspondents&#x27; dinner</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-24 20:39</span>
             </div>
         </div>
 </div>
@@ -258,6 +254,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/mbs-trump.jpg?fit=1200%2C1065&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains cites pageant experience as Venezuela expertise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/24/trump-miss-universe-venezuela.html" target="_blank">Grandpa Pudding Brains cites pageant experience as Venezuela expertise</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-24 21:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/iProVPN.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="No more ads? Get speedy, secure, and seamless connectivity with this VPN for 94% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -282,15 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/chatgpt-health-is-rolling-out-to-everyone-but-i-dont-trust-it?utm_medium=RSS" target="_blank">ChatGPT Health Is Rolling Out to Everyone, but I Don’t Trust It</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-24 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRJNJ5W39T6RD7HVB5W14JEG/hero-image.png" alt="This LG OLED Gaming Monitor Is Just $379 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/lg-ultragear-oled-gaming-monitor-sale-july-2026?utm_medium=RSS" target="_blank">This LG OLED Gaming Monitor Is Just $379 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-24 18:00</span>
             </div>
         </div>
 </div>
@@ -357,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 23:19 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 00:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
