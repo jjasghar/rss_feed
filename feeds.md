@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 15:20:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-25 16:15:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 15:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 16:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/tankers-hormuz-gty-jt-260724_1784917608259_hpMain_4x3t_384.jpg" alt="Superspreader event of invasive species originating near Strait of Hormuz possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186" target="_blank">Superspreader event of invasive species originating near Strait of Hormuz possible</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-25 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/098c/live/b1e152d0-8819-11f1-981c-7d4dd1ef3d1d.jpg" alt="Police investigate donations by Tice company to Reform UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss" target="_blank">Police investigate donations by Tice company to Reform UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-25 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +101,29 @@
                 <span class="time">2026-07-25 12:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-wildfires-france_7306415.jpg?20260725120100" alt="&lt;a href=&quot;https://news.sky.com/story/europe-wildfires-latest-french-tourist-hotspot-evacuated-as-national-emergency-declared-in-spain-13566532?postid=12125453#liveblog-body&quot;&gt;In France, hotels for wine lovers have turned into evacuation centres&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/in-france-hotels-for-wine-lovers-have-turned-into-evacuation-centres-13566878" target="_blank">&lt;a href=&quot;https://news.sky.com/story/europe-wildfires-latest-french-tourist-hotspot-evacuated-as-national-emergency-declared-in-spain-13566532?postid=12125453#liveblog-body&quot;&gt;In France, hotels for wine lovers have turned into evacuation centres&lt;/a&gt;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-25 11:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50cf/live/22a907f0-8820-11f1-981c-7d4dd1ef3d1d.jpg" alt="Tourists describe their escape from France wildfires" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss" target="_blank">Tourists describe their escape from France wildfires</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-25 11:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/" target="_blank">Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview" target="_blank">Synth historian Oli Freke will spend big on a good bicycle</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-25 15:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +160,20 @@
                 <span class="time">2026-07-25 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69be039cf062c9cdcba42e33/master/pass/macbook-air-m5-03.JPG" alt="Best Laptops (2026): My Top Recommendations After Testing Hundreds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-laptops/" target="_blank">Best Laptops (2026): My Top Recommendations After Testing Hundreds</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-25 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a63805aa56b8af2db51d70f/master/pass/pezgato.jpg" alt="Contagious Cancer Found in North American Catfish" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/" target="_blank">Contagious Cancer Found in North American Catfish</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-25 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/himanshuai/aws-for-software-testing-complete-enterprise-guide-4i4p" target="_blank">AWS for Software Testing: Complete Enterprise Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-25 16:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/ai-rca-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-25 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17387110/ubuntu-26-10-features" target="_blank">Ubuntu 26.10 &quot;Stonking Stingray&quot;: All the New Features So Far</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-25 07:22</span>
             </div>
         </div>
 </div>
@@ -298,6 +298,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1784995387-20260725.png" alt="Saturday Morning Breakfast Cereal - Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/data-2" target="_blank">Saturday Morning Breakfast Cereal - Data</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-25 16:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -306,22 +315,13 @@
                 <span class="time">2026-07-24 18:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/24/the-leto-protocol" target="_blank">The Leto Protocol</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-24 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 15:21 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 16:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
