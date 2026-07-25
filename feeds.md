@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 07:36:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-25 08:37:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 07:37 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 08:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +167,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17387110/ubuntu-26-10-features" target="_blank">Ubuntu 26.10 &quot;Stonking Stingray&quot;: All the New Features So Far</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-25 07:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/client-side-load-balancer/en/headerimage/generatedHeaderImage-1783270035162.jpg" alt="How Zalando Built an In-Process Client-Side Load Balancer for One Million Requests per Second" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/client-side-load-balancer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Zalando Built an In-Process Client-Side Load Balancer for One Million Requests per Second</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-25 06:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://arcprize.org/leaderboard" target="_blank">ARC-AGI Leaderboard</a></span>
                 <span class="feed">Hacker News</span>
@@ -194,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/vicky_acedia/azure-sql-managed-instance-vs-azure-sql-database-how-i-actually-made-the-call-3b60" target="_blank">Azure SQL Managed Instance vs Azure SQL Database: How I Actually Made the Call</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-25 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.14-Released" target="_blank">Wine 11.14 Brings WoW64 Mode To FreeBSD, Icon Support In Start Menu</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-25 00:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/orbitpickle307/ai-can-write-the-test-your-team-owns-the-maintenance-4ehn" target="_blank">AI Can Write the Test. Your Team Owns the Maintenance</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-24 22:12</span>
             </div>
         </div>
 </div>
@@ -333,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 07:37 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 08:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
