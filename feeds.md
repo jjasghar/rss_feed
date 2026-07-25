@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 18:14:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-25 19:24:19 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 18:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 19:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss" target="_blank">Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-25 18:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg" alt="More than 250,000 flee wildfires in France and Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +105,20 @@
                 <span class="time">2026-07-25 14:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss" target="_blank">The Global South is being forced to choose creditors over children</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-25 14:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/" target="_blank">Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-25 19:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +162,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview" target="_blank">Synth historian Oli Freke will spend big on a good bicycle</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-25 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/" target="_blank">One fallen power line exposed a growing AI data center problem. Here’s how to fix it.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-25 13:05</span>
             </div>
         </div>
 </div>
@@ -241,6 +243,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains encounters the concept of elapsed time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/25/trump-dodgers-229-day-season-confusion.html" target="_blank">Grandpa Pudding Brains encounters the concept of elapsed time</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-25 18:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/deluxekiss-1280x834.jpg" alt="Rare Nintendo Console Discovered Throughout Japanese Love Hotel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -285,15 +296,6 @@
                 <span class="time">2026-07-25 13:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/topgod2-1280x720.jpg" alt="God Of War Laufey Joins The Growing Pile Of February 2027 Game Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/god-of-war-laufey-joins-the-growing-pile-of-february-2027-game-releases-2000719291" target="_blank">God Of War Laufey Joins The Growing Pile Of February 2027 Game Releases</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-25 07:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,22 +310,13 @@
                 <span class="time">2026-07-25 16:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/24/acquisitions-inc-auction-for-child-s-play" target="_blank">Acquisitions Inc. Auction for Child&#x27;s Play!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-24 18:46</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 18:15 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 19:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
