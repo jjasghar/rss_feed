@@ -1,44 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 02:58:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-25 04:05:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 04:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss" target="_blank">‘The show must go on’: Trump returns to rescheduled White House press gala</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-25 02:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784948115580_now_brk_trump_dinner_grumbach_260724_S3_1920x1080-mg9ah5.jpg" alt="Trump touts his accomplishments and relationship with the press at Correspondents&#x27; Dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-touts-his-accomplishments-and-relationship-with-the-press-at-correspondents-dinner-267263045743" target="_blank">Trump touts his accomplishments and relationship with the press at Correspondents&#x27; Dinner</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-25 02:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg" alt="More than 220,000 evacuated in France and Spain due to wildfires" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,24 +101,6 @@
                 <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  White House Correspondents&#x27; Association Dinner: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-24 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1670/live/e28b44c0-8799-11f1-9d55-0b6742729f5d.jpg" alt="Police declare &#x27;major incident&#x27; as wind change increases Cairngorms wildfire risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss" target="_blank">Police declare &#x27;major incident&#x27; as wind change increases Cairngorms wildfire risk</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-24 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aed2/live/0070b2b0-87a7-11f1-b2ab-0dd01740f9f6.jpg" alt="Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss" target="_blank">Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-24 21:47</span>
             </div>
         </div>
 </div>
@@ -176,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/liuhao04/your-youtube-screenshot-is-black-because-you-screenshotted-the-wrong-layer-14cm" target="_blank">Your YouTube screenshot is black because you screenshotted the wrong layer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-25 03:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vicky_acedia/azure-sql-managed-instance-vs-azure-sql-database-how-i-actually-made-the-call-3b60" target="_blank">Azure SQL Managed Instance vs Azure SQL Database: How I Actually Made the Call</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-25 02:30</span>
@@ -215,15 +219,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17386848/ubuntu-26-04-update-notifier-fix" target="_blank">Ubuntu 26.04 Stopped Notifying Users About Updates, But That Was Intentional</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-07-24 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arshtechpro/unlimited-ocr-parsing-a-40-page-pdf-in-one-pass-without-your-gpu-melting-4mc4" target="_blank">Unlimited-OCR: Parsing a 40-Page PDF in One Pass Without Your GPU Melting</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-24 17:19</span>
             </div>
         </div>
 </div>
@@ -349,22 +344,13 @@
                 <span class="time">2026-07-24 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/recursive_truckers_hitch.png" alt="Recursive Trucker&#x27;s Hitch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3276/" target="_blank">Recursive Trucker&#x27;s Hitch</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-07-24 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 04:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
