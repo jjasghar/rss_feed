@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 11:23:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-25 12:15:28 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 11:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 12:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-wildfires-france_7306415.jpg?20260725120100" alt="&lt;a href=&quot;https://news.sky.com/story/europe-wildfires-latest-french-tourist-hotspot-evacuated-as-national-emergency-declared-in-spain-13566532?postid=12125453#liveblog-body&quot;&gt;In France, hotels for wine lovers have turned into evacuation centres&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/in-france-hotels-for-wine-lovers-have-turned-into-evacuation-centres-13566878" target="_blank">&lt;a href=&quot;https://news.sky.com/story/europe-wildfires-latest-french-tourist-hotspot-evacuated-as-national-emergency-declared-in-spain-13566532?postid=12125453#liveblog-body&quot;&gt;In France, hotels for wine lovers have turned into evacuation centres&lt;/a&gt;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-25 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50cf/live/22a907f0-8820-11f1-981c-7d4dd1ef3d1d.jpg" alt="Tourists describe their escape from France wildfires" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss" target="_blank">Tourists describe their escape from France wildfires</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-25 11:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d86e/live/21ff53b0-87ce-11f1-befd-5b1f20fd5b65.jpg" alt="Police declare &#x27;major incident&#x27; over Cairngorms wildfire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +98,29 @@
                 <span class="time">2026-07-25 06:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner" target="_blank">Trump returns to correspondents&#x27; dinner 3 months after shooting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-25 05:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/whca-6-rt-gmh-260724_1784943700703_hpMain_4x3t_384.jpg" alt="Trump lobs insults at political opponents, press during WH correspondents&#x27; dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-attend-rescheduled-white-house-correspondents-dinner-friday/story?id=135027808" target="_blank">Trump lobs insults at political opponents, press during WH correspondents&#x27; dinner</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-25 04:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam" target="_blank">What Surrounds Us will make you think a lot about circles</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-25 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a63d9e79c06320a6eaf7c7b/master/pass/Cricut-Explore-5-vs.-Siser-Romeo--Choosing-the-Right-Smart-Cutting-Machine.jpg" alt="Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/" target="_blank">Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-25 11:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-521790748-500x500.jpg" alt="With help from data, art museums are reframing the visitor experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead" target="_blank">Forget expensive sleepbuds. Buy this pillow instead</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-25 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/" target="_blank">I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-25 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a63d6e658b45fb8be88c32f/master/pass/NASA-Important-Deep-Space-Observatories-Hit-by-Spanish-Wildfires-Science-2287501646.jpg" alt="One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/" target="_blank">One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-24 22:30</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 11:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 12:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
