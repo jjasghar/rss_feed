@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 08:37:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-25 09:30:08 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 08:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 09:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-breaking-breakingnews_7210863.png?20260516142605" alt="India&#x27;s education minister resigns after mass protests led by &#x27;Cockroach&#x27; movement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/indias-education-minister-resigns-after-mass-protests-led-by-cockroach-movement-13566842" target="_blank">India&#x27;s education minister resigns after mass protests led by &#x27;Cockroach&#x27; movement</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-25 09:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +97,29 @@
                 <span class="time">2026-07-25 02:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg" alt="More than 220,000 evacuated in France and Spain due to wildfires" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss" target="_blank">More than 220,000 evacuated in France and Spain due to wildfires</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-25 02:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a63805aa56b8af2db51d70f/master/pass/pezgato.jpg" alt="Contagious Cancer Found in North American Catfish" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/" target="_blank">Contagious Cancer Found in North American Catfish</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-25 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead" target="_blank">Forget expensive sleepbuds. Buy this pillow instead</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-25 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +156,20 @@
                 <span class="time">2026-07-24 22:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/" target="_blank">TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-24 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-500x500.jpg" alt="Paramount/WBD merger delayed for months as states&#x27; lawsuit moves toward trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/" target="_blank">Paramount/WBD merger delayed for months as states&#x27; lawsuit moves toward trial</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-24 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/ai-rca-context-engineering/en/headerimage/header-1784749972581.jpeg" alt="AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/ai-rca-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-25 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,6 +177,15 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17387110/ubuntu-26-10-features" target="_blank">Ubuntu 26.10 &quot;Stonking Stingray&quot;: All the New Features So Far</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-07-25 07:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/" target="_blank">Android May Soon Restrict On-Device ADB</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-25 06:57</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/iqbal120708/a-small-refresh-bug-that-uncovered-security-gaps-in-my-otp-system-3d20" target="_blank">A Small Refresh Bug That Uncovered Security Gaps in My OTP System</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-25 05:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/liuhao04/your-youtube-screenshot-is-black-because-you-screenshotted-the-wrong-layer-14cm" target="_blank">Your YouTube screenshot is black because you screenshotted the wrong layer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-25 03:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vicky_acedia/azure-sql-managed-instance-vs-azure-sql-database-how-i-actually-made-the-call-3b60" target="_blank">Azure SQL Managed Instance vs Azure SQL Database: How I Actually Made the Call</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-25 02:30</span>
             </div>
         </div>
 </div>
@@ -337,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 08:37 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 09:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
