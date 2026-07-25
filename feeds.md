@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 06:42:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-25 07:36:57 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 06:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 07:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arcprize.org/leaderboard" target="_blank">ARC-AGI Leaderboard</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-25 06:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/iqbal120708/a-small-refresh-bug-that-uncovered-security-gaps-in-my-otp-system-3d20" target="_blank">A Small Refresh Bug That Uncovered Security Gaps in My OTP System</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +214,6 @@
                 <span class="time">2026-07-24 22:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/otezvikentiy/my-idle-clickhouse-was-merging-11-million-rows-every-30-seconds-2d4i" target="_blank">My idle ClickHouse was merging 11 million rows every 30 seconds</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-24 21:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/topgod2-1280x720.jpg" alt="God Of War Laufey Joins The Growing Pile Of February 2027 Game Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/god-of-war-laufey-joins-the-growing-pile-of-february-2027-game-releases-2000719291" target="_blank">God Of War Laufey Joins The Growing Pile Of February 2027 Game Releases</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-25 07:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2022/09/93c3d9c45e8abd90559e8b3c25f1df4d-1280x720.jpg" alt="The Next God Of War Is In Development, Stars Kratos, Will Tie Directly To Laufey" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +296,6 @@
                 <span class="time">2026-07-24 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/image-99.jpg" alt="How Much Longer Can PlayStation Stay In The Bunker Hiding From ‘No Disc, No Buy?’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/how-much-longer-can-playstation-stay-in-the-bunker-hiding-from-no-disc-no-buy-2000719131" target="_blank">How Much Longer Can PlayStation Stay In The Bunker Hiding From ‘No Disc, No Buy?’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-24 19:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,22 +328,13 @@
                 <span class="time">2026-07-24 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/24/the-leto-protocol" target="_blank">The Leto Protocol</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-24 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 39 | 📸 With Images: 257 |
-        🔄 Last Updated: 06:42 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 07:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
