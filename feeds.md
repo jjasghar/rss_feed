@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 09:30:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-25 10:28:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 1 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 09:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 10:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69be039cf062c9cdcba42e33/master/pass/macbook-air-m5-03.JPG" alt="Best Laptops (2026): My Top Recommendations After Testing Hundreds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-laptops/" target="_blank">Best Laptops (2026): My Top Recommendations After Testing Hundreds</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-25 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a63805aa56b8af2db51d70f/master/pass/pezgato.jpg" alt="Contagious Cancer Found in North American Catfish" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -145,15 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/" target="_blank">Wildfire forces evacuation of NASA&#x27;s Deep Space Network complex in Spain</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-24 22:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses" target="_blank">After backlash, Meta pauses plan to ‘rate limit’ its smart glasses</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-24 22:27</span>
             </div>
         </div>
 </div>
@@ -334,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 09:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 10:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
