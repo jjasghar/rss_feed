@@ -1,35 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 21:15:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-25 22:15:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 21:15 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 22:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +56,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss" target="_blank">Israeli forces tear gas journalists reporting Nablus shootout</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-25 21:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +110,20 @@
                 <span class="time">2026-07-25 16:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/tankers-hormuz-gty-jt-260724_1784917608259_hpMain_4x3t_384.jpg" alt="Superspreader event of invasive species originating near Strait of Hormuz possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186" target="_blank">Superspreader event of invasive species originating near Strait of Hormuz possible</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-25 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/" target="_blank">Warner Bros. lawsuit accuses Amazon of illegally poaching executives</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-25 20:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/blade3-500x500.jpg" alt="SDCC teaser gives us our first good look at Blade Runner 2099" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +169,29 @@
                 <span class="time">2026-07-25 16:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/" target="_blank">Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-25 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/secbyshresth/building-a-cross-platform-disk-usage-analyzer-in-c-2m2e" target="_blank">Building a Cross-Platform Disk Usage Analyzer in C</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-25 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/" target="_blank">A 77-year-old Republican man is staging a solo protest against Flock cameras</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-25 21:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,29 +228,20 @@
                 <span class="time">2026-07-25 14:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wonderlab/ai-evaluation-series-06-deepeval-in-practice-enterprise-agent-evaluation-suite-22c" target="_blank">AI Evaluation Series (06): DeepEval in Practice — Enterprise Agent Evaluation Suite</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-25 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaresvic/i-scanned-1775-websites-for-gdpr-consent-leaks-heres-what-fires-before-you-click-anything-21ak" target="_blank">I scanned 1,775 websites for GDPR consent leaks. Here&#x27;s what fires before you click anything</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-25 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/thickthieves.jpg" alt="Warren Spector’s Thick As Thieves Ends Support After Two Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/warren-spectors-thick-as-thieves-ends-support-after-two-months-2000719337" target="_blank">Warren Spector’s Thick As Thieves Ends Support After Two Months</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-25 21:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Windows-11-Pro-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Make an old PC feel new again with this $10 Windows 11 Pro deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +287,6 @@
                 <span class="time">2026-07-25 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/captain-america-vs-iron-man-in-m-1280x640.jpg" alt="Marvel Tōkon’s Open Beta On PC Is A Mess" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-tokons-open-beta-on-pc-is-a-mess-2000719297" target="_blank">Marvel Tōkon’s Open Beta On PC Is A Mess</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-25 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 21:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 22:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
