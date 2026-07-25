@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-25 16:15:59 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-25 17:19:07 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, July 25, 2026 - 16:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, July 25, 2026 - 17:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg" alt="More than 250,000 flee wildfires in France and Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss" target="_blank">More than 250,000 flee wildfires in France and Spain</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-25 17:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss" target="_blank">Iran’s government spars with state TV as mediators push talks with US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-25 16:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/tankers-hormuz-gty-jt-260724_1784917608259_hpMain_4x3t_384.jpg" alt="Superspreader event of invasive species originating near Strait of Hormuz possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +97,20 @@
                 <span class="time">2026-07-25 14:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss" target="_blank">F1 needs better balance between business and sport, says Norris</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-25 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning" target="_blank">COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-25 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/" target="_blank">Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-25 16:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/" target="_blank">Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-25 11:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-521790748-500x500.jpg" alt="With help from data, art museums are reframing the visitor experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/" target="_blank">With help from data, art museums are reframing the visitor experience</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-25 11:00</span>
             </div>
         </div>
 </div>
@@ -239,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2019/11/y7cdfudhh8kelpo60uxv-1280x720.jpg" alt="Conker, Lobo, Charles Martinet’s Donkey Kong Voice And Other Splendors Of Bygone E3 Booths" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/conker-lobo-charles-martinets-donkey-kong-voice-and-other-splendors-of-bygone-e3-booths-2000719306" target="_blank">Conker, Lobo, Charles Martinet’s Donkey Kong Voice And Other Splendors Of Bygone E3 Booths</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-25 16:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/HP-ProBook-640-G9-14.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This refurbished HP ProBook with a 12th Gen Core i5 is down to $439.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -283,15 +288,6 @@
                 <span class="time">2026-07-25 01:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/depp-sad-1280x720.jpg" alt="Johnny Depp Promoting A Christmas Carol Prequel In July At Comic-Con Is Incredibly Embarrassing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/johnny-depp-promoting-a-christmas-carol-prequel-in-july-at-comic-con-is-incredibly-embarrassing-2000719232" target="_blank">Johnny Depp Promoting A Christmas Carol Prequel In July At Comic-Con Is Incredibly Embarrassing</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-24 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 16:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 17:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
