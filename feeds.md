@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 10:30:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-26 11:26:21 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 10:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 11:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/26/why-the-uk-cancelled-a-military-exercise-in-kenya-and-what-it-means?traffic_source=rss" target="_blank">Why the UK cancelled a military exercise in Kenya – and what it means</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-26 10:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda8/live/0a15f7b0-88c6-11f1-8155-cf5eb1f28fd2.jpg" alt="What we know so far about the Berlin Pride ramming attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +100,20 @@
                 <span class="time">2026-07-26 02:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/shalamcheh-strike-rt-jef-260724_1784917537193_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump met with advisers on Iran options, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Trump met with advisers on Iran options, sources say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-26 01:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a656c3b058eb027ca64bec5/master/pass/The-Best-Backpacking-Sleeping-Pads.jpg" alt="The Best Backpacking Sleeping Pads, Tested on the Trail (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-backpacking-sleeping-pad/" target="_blank">The Best Backpacking Sleeping Pads, Tested on the Trail (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-26 11:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +159,6 @@
                 <span class="time">2026-07-25 18:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipflt13_1-500x500.jpg" alt="SpaceX eyes tower catch for next Starship after auspicious end to 13th flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/" target="_blank">SpaceX eyes tower catch for next Starship after auspicious end to 13th flight</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-25 17:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +171,15 @@
                 <span class="title"><a href="https://dev.to/esparksit/how-to-scope-custom-software-without-overspending-2fpj" target="_blank">How to Scope Custom Software Without Overspending</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-26 10:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17387475/sonictree-music-player" target="_blank">Play Local Music With File-Manager Simplicity</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-26 09:36</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/eks-version-rollback/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-26 06:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vaibhav_shukla_20/building-an-autonomy-error-budget-gateway-with-signoz-and-opentelemetry-4ia3" target="_blank">Building an Autonomy Error Budget Gateway with SigNoz and OpenTelemetry</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-26 05:38</span>
             </div>
         </div>
 </div>
@@ -298,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 10:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 11:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
