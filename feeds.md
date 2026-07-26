@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 09:38:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-26 10:30:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 09:38 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 10:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -71,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260725-sara-gilson-shawn-duffey-lr-4b9dfb.jpg" alt="Influencer killed by husband after she accused him of pedophilia on TikTok" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/influencer-sara-gilson-killed-rcna589211" target="_blank">Influencer killed by husband after she accused him of pedophilia on TikTok</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-26 04:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -86,15 +100,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Trump met with advisers on Iran options, sources say</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-26 01:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride" target="_blank">One dead, several injured after vehicle plows through crowd at Berlin Pride event</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-26 01:10</span>
             </div>
         </div>
 </div>
@@ -165,9 +170,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/esparksit/how-to-scope-custom-software-without-overspending-2fpj" target="_blank">How to Scope Custom Software Without Overspending</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-26 10:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/apsis-cc/terraform-e-yaml-implementacao-pratica-em-projetos-de-cicd-5h97" target="_blank">Terraform e YAML - Implementação Prática em Projetos de CI/CD</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-26 09:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/pixelsmash-vulnerability/en/headerimage/generatedHeaderImage-1785042241189.jpg" alt="AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/pixelsmash-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-26 09:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://astral.sh/blog/ruff-v0.16.0" target="_blank">Ruff v0.16.0 – Significant new updates – 413 default rules up from 59</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-26 09:01</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/vaibhav_shukla_20/building-an-autonomy-error-budget-gateway-with-signoz-and-opentelemetry-4ia3" target="_blank">Building an Autonomy Error Budget Gateway with SigNoz and OpenTelemetry</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-26 05:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pastesheet/google-sheets-in-vs-code-cursor-and-windsurf-over-mcp-5467" target="_blank">Google Sheets in VS Code, Cursor, and Windsurf over MCP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-26 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jamin_e16996ba0e309177/how-i-built-a-peptide-dosage-calculator-with-nextjs-and-why-ssr-matters-more-than-you-think-3fk8" target="_blank">How I Built a Peptide Dosage Calculator with Next.js — and Why SSR Matters More Than You Think</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-26 02:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.ktz.me/esp32-plane-radar/" target="_blank">An ESP32 based plane radar for my desk</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-26 02:35</span>
             </div>
         </div>
 </div>
@@ -293,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 09:38 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 10:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
