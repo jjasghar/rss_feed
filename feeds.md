@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 19:25:01 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-07-26 20:18:28 UTC -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 19:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 20:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,6 +161,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/richarddillman/youre-not-blocked-your-work-is-1f77" target="_blank">You&#x27;re Not Blocked. Your Work Is.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-26 20:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNU-Binutils-2.47" target="_blank">GNU Binutils 2.47 Released With More RISC-V Extensions, New Options</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-26 19:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jay9122/tracing-voice-ai-is-hard-how-i-instrumented-streaming-llms-with-opentelemetry-and-signoz-5c03" target="_blank">Tracing Voice AI is Hard: How I Instrumented Streaming LLMs with OpenTelemetry and SigNoz</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-26 18:06</span>
@@ -201,29 +211,20 @@
                 <span class="time">2026-07-26 15:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pavelespitia/streaming-long-ai-jobs-to-the-browser-sse-patterns-from-building-an-audit-tool-2lc8" target="_blank">Streaming Long AI Jobs to the Browser: SSE Patterns From Building an Audit Tool</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-26 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/" target="_blank">Park by Robot at London Gatwick Airport</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-26 14:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/pragmataoriginal.jpg" alt="Capcom Producer Says Resident Evil Remakes Enable Original Games Like Pragmata" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/capcom-producer-says-resident-evil-remakes-enable-original-games-like-pragmata-2000719404" target="_blank">Capcom Producer Says Resident Evil Remakes Enable Original Games Like Pragmata</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-26 19:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/05/d66a92b5f066dee597aeac4507d061de.jpg" alt="Big PlayStation Game Sale Is A Perfect Chance To Build Up Your Physical Collection Before Sony Kills Discs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +270,6 @@
                 <span class="time">2026-07-25 21:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Windows-11-Pro-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Make an old PC feel new again with this $10 Windows 11 Pro deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/25/make-an-old-pc-feel-new-again-with-this-10-windows-11-pro-deal.html" target="_blank">Make an old PC feel new again with this $10 Windows 11 Pro deal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-25 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 19:25 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 20:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
