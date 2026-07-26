@@ -1,45 +1,47 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 01:31:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-26 02:58:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 36 feeds processed -->
+<!-- Generated 5 new posts out of 38 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +57,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/26/flavio-bolsonaro-launches-brazil-presidential-bid-with-milei-support?traffic_source=rss" target="_blank">Flavio Bolsonaro launches Brazil presidential bid with Milei support</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-26 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/shalamcheh-strike-rt-jef-260724_1784917537193_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump met with advisers on Iran options, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987" target="_blank">Iran live updates: Trump met with advisers on Iran options, sources say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-26 01:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured" target="_blank">One dead, several injured after vehicle plows through crowd at LGBTQ+ event in Germany</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-26 01:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg" alt="More than 300,000 flee wildfires in France and Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,33 +109,6 @@
                 <span class="title"><a href="https://abcnews.com/International/manhunt-underway-after-vehicle-drives-crowd-berlin-lgtbq/story?id=135089674" target="_blank">1 dead, several injured after vehicle drives into crowd at Berlin LGBTQ celebration</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-25 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785021201346_wnn_jts_maine_candidate_260725_S3_1920x1080-g2b8fv.jpg" alt="Maine Democrats select Troy Jackson as Senate candidate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/maine-democrats-select-troy-jackson-as-senate-candidate-267274821994" target="_blank">Maine Democrats select Troy Jackson as Senate candidate</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-25 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-anthony-joshua-kristian-prenga_7306842.jpg?20260726000117" alt="Anthony Joshua wins comeback bout in second-round knockout" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/anthony-joshua-wins-comeback-bout-against-kristian-prenga-in-second-round-knockout-13567028" target="_blank">Anthony Joshua wins comeback bout in second-round knockout</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-25 22:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss" target="_blank">Israeli forces tear gas journalists reporting Nablus shootout</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-25 21:08</span>
             </div>
         </div>
 </div>
@@ -176,6 +178,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jamin_e16996ba0e309177/how-i-built-a-peptide-dosage-calculator-with-nextjs-and-why-ssr-matters-more-than-you-think-3fk8" target="_blank">How I Built a Peptide Dosage Calculator with Next.js — and Why SSR Matters More Than You Think</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-26 02:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.0-Release" target="_blank">Ubuntu Touch 24.04-2.0 Released With Support For Notches &amp; Rounded Corners</a></span>
                 <span class="feed">Phoronix</span>
@@ -216,15 +227,6 @@
                 <span class="title"><a href="https://dev.to/secbyshresth/building-a-cross-platform-disk-usage-analyzer-in-c-2m2e" target="_blank">Building a Cross-Platform Disk Usage Analyzer in C</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-25 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/" target="_blank">A 77-year-old Republican man is staging a solo protest against Flock cameras</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-25 21:32</span>
             </div>
         </div>
 </div>
@@ -305,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 253 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
