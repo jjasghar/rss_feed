@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 08:45:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-26 09:38:14 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 08:45 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 09:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda8/live/0a15f7b0-88c6-11f1-8155-cf5eb1f28fd2.jpg" alt="What we know so far about the Berlin Pride ramming attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss" target="_blank">What we know so far about the Berlin Pride ramming attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-26 09:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +93,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride" target="_blank">One dead, several injured after vehicle plows through crowd at Berlin Pride event</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-26 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured" target="_blank">One dead, several injured after vehicle plows through crowd at LGBTQ+ event in Germany</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-26 01:10</span>
             </div>
@@ -168,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/apsis-cc/terraform-e-yaml-implementacao-pratica-em-projetos-de-cicd-5h97" target="_blank">Terraform e YAML - Implementação Prática em Projetos de CI/CD</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-26 09:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/07/eks-version-rollback/en/headerimage/generatedHeaderImage-1783696042627.jpg" alt="Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -210,15 +213,6 @@
                 <span class="title"><a href="https://blog.ktz.me/esp32-plane-radar/" target="_blank">An ESP32 based plane radar for my desk</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-26 02:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.0-Release" target="_blank">Ubuntu Touch 24.04-2.0 Released With Support For Notches &amp; Rounded Corners</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-26 00:15</span>
             </div>
         </div>
 </div>
@@ -299,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 08:45 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 09:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
