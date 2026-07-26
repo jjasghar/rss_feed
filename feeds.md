@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 16:18:05 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-26 17:19:46 UTC -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 16:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 17:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss" target="_blank">Israel obstructing takeover of pilot zones in Lebanon’s south: Military</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-26 16:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/boarding-20260726-gty-jh_1785070634819_hpMain_4x3t_384.jpg" alt="GOP Rep. Turner: &#x27;Not a lot of options&#x27; for Trump in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,20 +99,29 @@
                 <span class="time">2026-07-26 10:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump" target="_blank">Rage-giving, innovation and cuts: How public media has survived without federal funds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-26 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/" target="_blank">Inside one London founder house rewriting the founder-house rules</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-26 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con" target="_blank">Carrie is just trying to make a friend in the new trailer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-26 15:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,29 +158,20 @@
                 <span class="time">2026-07-25 20:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/blade3-500x500.jpg" alt="SDCC teaser gives us our first good look at Blade Runner 2099" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/" target="_blank">SDCC teaser gives us our first good look at Blade Runner 2099</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-25 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/" target="_blank">Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-25 19:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ivangavlik/clojure-vars-notes-5h66" target="_blank">Clojure vars - notes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-26 17:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="The Sentry dashboard was empty for months — here&#x27;s why (and the 2-line fix that mattered most)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/skedaddle/how-to-self-host-an-ai-api-gateway-with-sub2api-3i99" target="_blank">How to Self-Host an AI API Gateway With Sub2API</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-26 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/esparksit/how-to-scope-custom-software-without-overspending-2fpj" target="_blank">How to Scope Custom Software Without Overspending</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-26 10:10</span>
             </div>
         </div>
 </div>
@@ -289,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 16:18 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 17:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
