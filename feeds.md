@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 15:21:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-26 16:18:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 15:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 16:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,12 +158,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="The Sentry dashboard was empty for months — here&#x27;s why (and the 2-line fix that mattered most)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alkhassim_lawalumar/the-sentry-dashboard-was-empty-for-months-heres-why-and-the-2-line-fix-that-mattered-most-20em" target="_blank">The Sentry dashboard was empty for months — here&#x27;s why (and the 2-line fix that mattered most)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-26 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KVM-Chainsaw-Linux-7.3" target="_blank">&quot;KVM Chainsaw&quot; Expected To Hit Linux 7.3 For Dealing With God Data Structure</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-26 15:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pavelespitia/streaming-long-ai-jobs-to-the-browser-sse-patterns-from-building-an-audit-tool-2lc8" target="_blank">Streaming Long AI Jobs to the Browser: SSE Patterns From Building an Audit Tool</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-26 15:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/" target="_blank">Park by Robot at London Gatwick Airport</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-26 14:40</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +209,6 @@
                 <span class="title"><a href="https://dev.to/esparksit/how-to-scope-custom-software-without-overspending-2fpj" target="_blank">How to Scope Custom Software Without Overspending</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-26 10:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17387475/sonictree-music-player" target="_blank">Play Local Music With File-Manager Simplicity</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-26 09:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/apsis-cc/terraform-e-yaml-implementacao-pratica-em-projetos-de-cicd-5h97" target="_blank">Terraform e YAML - Implementação Prática em Projetos de CI/CD</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-26 09:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/pixelsmash-vulnerability/en/headerimage/generatedHeaderImage-1785042241189.jpg" alt="AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/pixelsmash-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-26 09:09</span>
             </div>
         </div>
 </div>
@@ -292,22 +284,13 @@
                 <span class="time">2026-07-26 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1784995387-20260725.png" alt="Saturday Morning Breakfast Cereal - Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/data-2" target="_blank">Saturday Morning Breakfast Cereal - Data</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-25 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 15:21 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 16:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
