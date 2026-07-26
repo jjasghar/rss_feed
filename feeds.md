@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 14:28:54 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-26 15:21:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 14:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 15:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/boarding-20260726-gty-jh_1785070634819_hpMain_4x3t_384.jpg" alt="GOP Rep. Turner: &#x27;Not a lot of options&#x27; for Trump in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/gop-rep-turner-lot-options-trump-iran/story?id=135095843" target="_blank">GOP Rep. Turner: &#x27;Not a lot of options&#x27; for Trump in Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-26 15:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump" target="_blank">Rage-giving, innovation and cuts: How public media has survived without federal funds</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-26 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda8/live/0a15f7b0-88c6-11f1-8155-cf5eb1f28fd2.jpg" alt="What we know so far about the Berlin Pride ramming attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss" target="_blank">What we know so far about the Berlin Pride ramming attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-26 09:18</span>
             </div>
         </div>
 </div>
@@ -168,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pavelespitia/streaming-long-ai-jobs-to-the-browser-sse-patterns-from-building-an-audit-tool-2lc8" target="_blank">Streaming Long AI Jobs to the Browser: SSE Patterns From Building an Audit Tool</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-26 15:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4b1m38jmz4h69spm8vky.png" alt="How to Self-Host an AI API Gateway With Sub2API" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,20 +219,20 @@
                 <span class="time">2026-07-26 09:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://astral.sh/blog/ruff-v0.16.0" target="_blank">Ruff v0.16.0 – Significant new updates – 413 default rules up from 59</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-26 09:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Prompting-Systems.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Make ChatGPT, Claude, and other AI tools work better for you with this $30 prompt tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/26/make-chatgpt-claude-and-other-ai-tools-work-better-for-you-with-this-30-prompt-tool.html" target="_blank">Make ChatGPT, Claude, and other AI tools work better for you with this $30 prompt tool</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-26 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/mcu-poster-1-1280x720.jpg" alt="Marvel Boss Responds To Avengers: Doomsday Trailer Backlash Over The Lack Of Build-Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,20 +278,20 @@
                 <span class="time">2026-07-25 18:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/deluxekiss-1280x834.jpg" alt="Rare Nintendo Console Discovered Throughout Japanese Love Hotel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rare-nintendo-console-discovered-throughout-japanese-love-hotel-2000719317" target="_blank">Rare Nintendo Console Discovered Throughout Japanese Love Hotel</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-25 18:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1784999731-20260726.png" alt="Saturday Morning Breakfast Cereal - Dance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/dance-4" target="_blank">Saturday Morning Breakfast Cereal - Dance</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-26 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1784995387-20260725.png" alt="Saturday Morning Breakfast Cereal - Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -299,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 14:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 15:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
