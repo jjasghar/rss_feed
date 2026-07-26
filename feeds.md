@@ -1,36 +1,49 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 04:16:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-26 05:59:10 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 40 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 04:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 05:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +59,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07fa/live/cd423fb0-889d-11f1-8cfc-af2281532ba4.jpg" alt="Burnham says he is prepared to call out Trump &#x27;if right for Britain&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says he is prepared to call out Trump &#x27;if right for Britain&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-26 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,6 +90,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride" target="_blank">One dead, several injured after vehicle plows through crowd at Berlin Pride event</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-26 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured" target="_blank">One dead, several injured after vehicle plows through crowd at LGBTQ+ event in Germany</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-26 01:10</span>
@@ -80,24 +111,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss" target="_blank">More than 300,000 flee wildfires in France and Spain</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-26 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss" target="_blank">What’s behind the Israeli crackdown in the occupied West Bank?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-25 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/2286980402_1785016716751_hpMain_4x3t_384.jpg" alt="1 dead, several injured after vehicle drives into crowd at Berlin LGBTQ celebration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/manhunt-underway-after-vehicle-drives-crowd-berlin-lgtbq/story?id=135089674" target="_blank">1 dead, several injured after vehicle drives into crowd at Berlin LGBTQ celebration</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-25 23:26</span>
             </div>
         </div>
 </div>
@@ -168,6 +181,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vaibhav_shukla_20/building-an-autonomy-error-budget-gateway-with-signoz-and-opentelemetry-4ia3" target="_blank">Building an Autonomy Error Budget Gateway with SigNoz and OpenTelemetry</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-26 05:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pastesheet/google-sheets-in-vs-code-cursor-and-windsurf-over-mcp-5467" target="_blank">Google Sheets in VS Code, Cursor, and Windsurf over MCP</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-26 04:00</span>
@@ -180,6 +202,15 @@
                 <span class="title"><a href="https://dev.to/jamin_e16996ba0e309177/how-i-built-a-peptide-dosage-calculator-with-nextjs-and-why-ssr-matters-more-than-you-think-3fk8" target="_blank">How I Built a Peptide Dosage Calculator with Next.js — and Why SSR Matters More Than You Think</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-26 02:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.ktz.me/esp32-plane-radar/" target="_blank">An ESP32 based plane radar for my desk</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-26 02:35</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +229,6 @@
                 <span class="title"><a href="https://dev.to/raxxostudios/why-i-keep-shipping-small-tools-instead-of-one-big-product-54gj" target="_blank">Why I Keep Shipping Small Tools Instead of One Big Product</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-26 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf" target="_blank">DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-25 23:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/martinschenk/the-number-that-lied-rebuilding-a-usage-meter-that-actually-helps-4792" target="_blank">The number that lied: rebuilding a usage meter that actually helps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-25 23:04</span>
             </div>
         </div>
 </div>
@@ -296,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 04:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 05:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
