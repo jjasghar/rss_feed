@@ -1,28 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 22:17:02 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-26 23:17:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 22:17 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 23:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss" target="_blank">Trump’s border czar probes possible vetting failures after ICE shooting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-26 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-zelenskyy-ramsay_7307352.jpg?20260726203652" alt="Sackings, &#x27;drone deal&#x27; and a &#x27;long war&#x27;: Zelenskyy speaks to Sky News" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/sackings-drone-deal-and-a-long-war-volodymyr-zelenskyy-speaks-to-sky-news-13567240" target="_blank">Sackings, &#x27;drone deal&#x27; and a &#x27;long war&#x27;: Zelenskyy speaks to Sky News</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-26 19:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ece8/live/8c522e20-8924-11f1-b2ab-0dd01740f9f6.jpg" alt="Berlin Pride attack suspect shot and killed during police operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,24 +98,6 @@
                 <span class="time">2026-07-26 17:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss" target="_blank">Israel obstructing takeover of pilot zones in Lebanon’s south: Military</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-26 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/boarding-20260726-gty-jh_1785070634819_hpMain_4x3t_384.jpg" alt="GOP Rep. Turner: &#x27;Not a lot of options&#x27; for Trump in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/gop-rep-turner-lot-options-trump-iran/story?id=135095843" target="_blank">GOP Rep. Turner: &#x27;Not a lot of options&#x27; for Trump in Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-26 15:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +119,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/" target="_blank">Can Apple make smart glasses that aren’t a constant privacy threat?</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-26 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/neuromancer-500x500-1785074845.jpg" alt="First teaser for Apple TV&#x27;s Neuromancer debuts at SDCC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/" target="_blank">First teaser for Apple TV&#x27;s Neuromancer debuts at SDCC</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-26 19:48</span>
             </div>
         </div>
 <div class="story">
@@ -142,20 +157,20 @@
                 <span class="time">2026-07-26 15:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook" target="_blank">The vertical video takeover is here</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-26 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/james_lin/the-deepseek-leak-why-infrastructure-secrets-matter-more-than-model-weights-3c3n" target="_blank">The DeepSeek Leak: Why Infrastructure Secrets Matter More Than Model Weights</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-26 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2020/02/chrome-browser-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Chrome finally arrives on Arm64 Linux, Widevine DRM included" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/jay9122/tracing-voice-ai-is-hard-how-i-instrumented-streaming-llms-with-opentelemetry-and-signoz-5c03" target="_blank">Tracing Voice AI is Hard: How I Instrumented Streaming LLMs with OpenTelemetry and SigNoz</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-26 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ivangavlik/clojure-vars-notes-5h66" target="_blank">Clojure vars - notes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-26 17:14</span>
             </div>
         </div>
 </div>
@@ -288,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 22:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 23:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
