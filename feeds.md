@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 20:18:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-26 21:16:10 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 20:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 21:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ece8/live/8c522e20-8924-11f1-b2ab-0dd01740f9f6.jpg" alt="Berlin Pride attack suspect shot and killed during police operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss" target="_blank">Berlin Pride attack suspect shot and killed during police operation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-26 19:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785090960638_now_brk_berlin_suspect_killed_260726_S3_1920x1080-p557ra.jpg" alt="Suspect in Berlin Pride march attack shot and killed by police" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,20 +102,29 @@
                 <span class="time">2026-07-26 15:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/26/what-next-for-indias-cockroach-movement-after-education-minister-sacked?traffic_source=rss" target="_blank">What next for India’s ‘Cockroach’ movement after education minister sacked</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-26 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/" target="_blank">Can Apple make smart glasses that aren’t a constant privacy threat?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-26 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/971101/apple-smart-glasses-privacy" target="_blank">Apple is banking on privacy to set its smart glasses apart</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-26 19:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,24 +161,6 @@
                 <span class="time">2026-07-26 11:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/" target="_blank">Monday.com is the latest tech company to blame AI for layoffs — here are 20 others</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-26 01:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/" target="_blank">Warner Bros. lawsuit accuses Amazon of illegally poaching executives</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-25 20:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +182,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNU-Binutils-2.47" target="_blank">GNU Binutils 2.47 Released With More RISC-V Extensions, New Options</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-26 19:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://beyondloom.com/decker/" target="_blank">Decker, a platform that builds on the legacy of Hypercard and classic macOS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-26 18:23</span>
             </div>
         </div>
 <div class="story">
@@ -202,20 +220,20 @@
                 <span class="time">2026-07-26 16:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KVM-Chainsaw-Linux-7.3" target="_blank">&quot;KVM Chainsaw&quot; Expected To Hit Linux 7.3 For Dealing With God Data Structure</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-26 15:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/Promo-image-from-the-Pokemon-Card-Store-website-1280x720.jpg" alt="Pokémon Company Strikes Blow Against Scalpers With Facial Recognition Checks To ‘Prevent Crime’ At Card Stores In Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-company-strikes-blow-against-scalpers-with-facial-recognition-checks-to-prevent-crime-at-card-stores-in-japan-2000719407" target="_blank">Pokémon Company Strikes Blow Against Scalpers With Facial Recognition Checks To ‘Prevent Crime’ At Card Stores In Japan</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-26 20:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/pragmataoriginal.jpg" alt="Capcom Producer Says Resident Evil Remakes Enable Original Games Like Pragmata" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,15 +279,6 @@
                 <span class="time">2026-07-26 00:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/thickthieves.jpg" alt="Warren Spector’s Thick As Thieves Ends Support After Two Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/warren-spectors-thick-as-thieves-ends-support-after-two-months-2000719337" target="_blank">Warren Spector’s Thick As Thieves Ends Support After Two Months</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-25 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -289,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 20:18 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 21:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
