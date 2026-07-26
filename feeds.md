@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 21:16:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-26 22:17:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 21:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 22:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +100,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review" target="_blank">Champagne and Bullets belongs on the Mount Rushmore of bad movies</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-26 21:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/" target="_blank">Can Apple make smart glasses that aren’t a constant privacy threat?</a></span>
                 <span class="feed">TechCrunch</span>
@@ -152,20 +151,20 @@
                 <span class="time">2026-07-26 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a656c3b058eb027ca64bec5/master/pass/The-Best-Backpacking-Sleeping-Pads.jpg" alt="The Best Backpacking Sleeping Pads, Tested on the Trail (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-backpacking-sleeping-pad/" target="_blank">The Best Backpacking Sleeping Pads, Tested on the Trail (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-26 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2020/02/chrome-browser-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Chrome finally arrives on Arm64 Linux, Widevine DRM included" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available" target="_blank">Chrome finally arrives on Arm64 Linux, Widevine DRM included</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-26 20:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,20 +210,20 @@
                 <span class="time">2026-07-26 17:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="The Sentry dashboard was empty for months — here&#x27;s why (and the 2-line fix that mattered most)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alkhassim_lawalumar/the-sentry-dashboard-was-empty-for-months-heres-why-and-the-2-line-fix-that-mattered-most-20em" target="_blank">The Sentry dashboard was empty for months — here&#x27;s why (and the 2-line fix that mattered most)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-26 16:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/mystanglerfish.jpg" alt="Cyan Worlds Gives A Look At What Could Have Been A New Myst Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cyan-worlds-gives-a-look-at-what-could-have-been-a-new-myst-sequel-2000719419" target="_blank">Cyan Worlds Gives A Look At What Could Have Been A New Myst Sequel</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-26 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/Promo-image-from-the-Pokemon-Card-Store-website-1280x720.jpg" alt="Pokémon Company Strikes Blow Against Scalpers With Facial Recognition Checks To ‘Prevent Crime’ At Card Stores In Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +269,6 @@
                 <span class="time">2026-07-26 13:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/AVE-Mizar-1973-N68X-XL.jpg?fit=1024%2C683&amp;quality=60&amp;ssl=1" alt="The time two guys bolted a Ford Pinto to a Cessna and called it a flying car" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/25/ave-mizar.html" target="_blank">The time two guys bolted a Ford Pinto to a Cessna and called it a flying car</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-26 00:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 21:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 22:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
