@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 18:17:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-26 19:25:01 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 18:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 19:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785090960638_now_brk_berlin_suspect_killed_260726_S3_1920x1080-p557ra.jpg" alt="Suspect in Berlin Pride march attack shot and killed by police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/berlin-police-kill-suspect-in-pride-festival-attack-after-manhunt-267285573905" target="_blank">Suspect in Berlin Pride march attack shot and killed by police</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-26 18:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires" target="_blank">Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-26 18:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/26/what-next-for-indias-cockroach-movement-after-education-minister-sacked?traffic_source=rss" target="_blank">What next for India’s ‘Cockroach’ movement after education minister sacked</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-26 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785071550236_mtp_clip_kornacki_260726_S3_1920x1080-ji7xfv.jpg" alt="Kornacki: Which states Democrats ‘have to win’ for control of Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/kornacki-which-states-democrats-have-to-win-for-control-of-congress-267283013943" target="_blank">Kornacki: Which states Democrats ‘have to win’ for control of Congress</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-26 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260726-berlin-2-nd-ef7550.jpg" alt="Manhunt underway for suspect with ‘Islamist’ ties after deadly Berlin Pride attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/germany/manhunt-underway-suspect-islamist-ties-deadly-berlin-pride-attack-rcna589276" target="_blank">Manhunt underway for suspect with ‘Islamist’ ties after deadly Berlin Pride attack</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-26 12:01</span>
             </div>
         </div>
 </div>
@@ -297,7 +298,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 18:17 UTC
+        🔄 Last Updated: 19:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
