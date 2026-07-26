@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 13:28:12 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-26 14:28:54 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 14:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +56,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/26/what-next-for-indias-cockroach-movement-after-education-minister-sacked?traffic_source=rss" target="_blank">What next for India’s ‘Cockroach’ movement after education minister sacked</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-26 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785071550236_mtp_clip_kornacki_260726_S3_1920x1080-ji7xfv.jpg" alt="Kornacki: Which states Democrats ‘have to win’ for control of Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/kornacki-which-states-democrats-have-to-win-for-control-of-congress-267283013943" target="_blank">Kornacki: Which states Democrats ‘have to win’ for control of Congress</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-26 13:12</span>
             </div>
         </div>
 <div class="story">
@@ -89,15 +101,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss" target="_blank">What we know so far about the Berlin Pride ramming attack</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-26 09:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss" target="_blank">Joshua comes back twice to knock out Prenga and set up Fury showdown</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-26 06:37</span>
             </div>
         </div>
 </div>
@@ -165,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4b1m38jmz4h69spm8vky.png" alt="How to Self-Host an AI API Gateway With Sub2API" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/skedaddle/how-to-self-host-an-ai-api-gateway-with-sub2api-3i99" target="_blank">How to Self-Host an AI API Gateway With Sub2API</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-26 14:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,20 +221,20 @@
                 <span class="time">2026-07-26 09:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/eks-version-rollback/en/headerimage/generatedHeaderImage-1783696042627.jpg" alt="Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/eks-version-rollback/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-26 06:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/mcu-poster-1-1280x720.jpg" alt="Marvel Boss Responds To Avengers: Doomsday Trailer Backlash Over The Lack Of Build-Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvels-kevin-feige-defends-lack-of-avengers-doomsday-buildup-thanos-sat-on-a-chair-2000719364" target="_blank">Marvel Boss Responds To Avengers: Doomsday Trailer Backlash Over The Lack Of Build-Up</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-26 13:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/AVE-Mizar-1973-N68X-XL.jpg?fit=1024%2C683&amp;quality=60&amp;ssl=1" alt="The time two guys bolted a Ford Pinto to a Cessna and called it a flying car" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +280,6 @@
                 <span class="time">2026-07-25 18:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2019/11/y7cdfudhh8kelpo60uxv-1280x720.jpg" alt="Conker, Lobo, Charles Martinet’s Donkey Kong Voice And Other Splendors Of Bygone E3 Booths" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/conker-lobo-charles-martinets-donkey-kong-voice-and-other-splendors-of-bygone-e3-booths-2000719306" target="_blank">Conker, Lobo, Charles Martinet’s Donkey Kong Voice And Other Splendors Of Bygone E3 Booths</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-25 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 14:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
