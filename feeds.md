@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 17:19:46 UTC -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-07-26 18:17:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 17:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, July 26, 2026 - 18:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss" target="_blank">Israel launches military incursion into Syria amid UN condemnation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-26 17:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/world/germany/manhunt-underway-suspect-islamist-ties-deadly-berlin-pride-attack-rcna589276" target="_blank">Manhunt underway for suspect with ‘Islamist’ ties after deadly Berlin Pride attack</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-07-26 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/26/why-the-uk-cancelled-a-military-exercise-in-kenya-and-what-it-means?traffic_source=rss" target="_blank">Why the UK cancelled a military exercise in Kenya – and what it means</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-26 10:47</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jay9122/tracing-voice-ai-is-hard-how-i-instrumented-streaming-llms-with-opentelemetry-and-signoz-5c03" target="_blank">Tracing Voice AI is Hard: How I Instrumented Streaming LLMs with OpenTelemetry and SigNoz</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-26 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ivangavlik/clojure-vars-notes-5h66" target="_blank">Clojure vars - notes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-26 17:14</span>
@@ -208,20 +218,20 @@
                 <span class="time">2026-07-26 14:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4b1m38jmz4h69spm8vky.png" alt="How to Self-Host an AI API Gateway With Sub2API" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/skedaddle/how-to-self-host-an-ai-api-gateway-with-sub2api-3i99" target="_blank">How to Self-Host an AI API Gateway With Sub2API</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-26 14:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/05/d66a92b5f066dee597aeac4507d061de.jpg" alt="Big PlayStation Game Sale Is A Perfect Chance To Build Up Your Physical Collection Before Sony Kills Discs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/big-playstation-game-sale-is-a-perfect-chance-to-build-up-your-physical-collection-before-sony-kills-discs-2000719394" target="_blank">Big PlayStation Game Sale Is A Perfect Chance To Build Up Your Physical Collection Before Sony Kills Discs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-26 17:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Prompting-Systems.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Make ChatGPT, Claude, and other AI tools work better for you with this $30 prompt tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +277,6 @@
                 <span class="time">2026-07-25 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains encounters the concept of elapsed time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/25/trump-dodgers-229-day-season-confusion.html" target="_blank">Grandpa Pudding Brains encounters the concept of elapsed time</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-25 18:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 17:19 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 18:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
