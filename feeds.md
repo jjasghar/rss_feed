@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 19:28:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-27 20:27:39 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 20:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +108,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-500x500.jpg" alt="Police missed one underscore—and sent the wrong man to prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/" target="_blank">Police missed one underscore—and sent the wrong man to prison</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-27 20:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a678683a61c4389773966d4/master/pass/Security_GoogleSearchScrew-UpExposedPrivateClaudeChat-.gif" alt="Private Claude Chats Exposed in Google and Bing Search Results" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/" target="_blank">Private Claude Chats Exposed in Google and Bing Search Results</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-27 20:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/971545/xbox-outage-disc-physical-games" target="_blank">Xbox’s huge outage even blocked games on disc</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-27 19:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -126,33 +159,6 @@
                 <span class="title"><a href="https://www.wired.com/story/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago/" target="_blank">Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-27 15:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/" target="_blank">Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-27 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_8936-1-500x500.jpeg" alt="Framework Laptop 13 Pro review: Much better battery, much worse price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/" target="_blank">Framework Laptop 13 Pro review: Much better battery, much worse price</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-27 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/" target="_blank">Snapchat now lets you share what you’re listening to in real time</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-27 13:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +240,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYJGFAXKDZ0471S1HK7CDTGB/hero-image.webp" alt="How Apple Might Try to Make Its Smart Glasses Less Creepy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-smart-glasses-privacy-report?utm_medium=RSS" target="_blank">How Apple Might Try to Make Its Smart Glasses Less Creepy</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-27 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/mike-johnson-e1768323420532.jpg?fit=768%2C480&amp;quality=60&amp;ssl=1" alt="MAGA Mike shares the Republican plan for midterm success: intercessory prayer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/27/mike-johnson-republicans-congress-intercessory-prayer.html" target="_blank">MAGA Mike shares the Republican plan for midterm success: intercessory prayer</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-27 19:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2219855141-e1785172062500.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Two men rode the elevator to the top of the Space Needle and jumped off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -267,24 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/27/nangeli-breast-tax.html" target="_blank">The legend of India&#x27;s &quot;breast tax&quot; and the woman who defied it</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-27 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HHFZW0PT3FZC53NHGRPD2/hero-image.png" alt="No, Bananas Don&#x27;t Destroy the Nutrients in Smoothies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/can-you-put-bananas-in-smoothies?utm_medium=RSS" target="_blank">No, Bananas Don&#x27;t Destroy the Nutrients in Smoothies</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-27 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/splatoon-raiders-2-1280x691.jpg" alt="Splatoon Raiders Is Now A Top-10 Highest User-Rated Game On Metacritic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/splatoon-raiders-is-now-a-top-10-highest-user-rated-game-on-metacritic-2000719487" target="_blank">Splatoon Raiders Is Now A Top-10 Highest User-Rated Game On Metacritic</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-27 15:30</span>
             </div>
         </div>
 </div>
@@ -333,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 20:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
