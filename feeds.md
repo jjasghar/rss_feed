@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 18:27:55 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-27 19:28:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 18:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss" target="_blank">Pakistan-administered Kashmir opens polls in violence-wracked vote</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-27 18:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/Bryan-Kohberger-1-ap-gmh-260727_1785173502932_hpMain_4x3t_384.jpg" alt="Kohberger trying to challenge conviction in University of Idaho murders" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/bryan-kohberger-challenge-conviction-university-idaho-murders-court/story?id=135126516" target="_blank">Kohberger trying to challenge conviction in University of Idaho murders</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-27 18:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846e/live/d5f99f40-89dd-11f1-b8ee-9b3c26ad07bb.jpg" alt="Wildfire now nine miles away from French city of Bordeaux, mayor warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss" target="_blank">Wildfire now nine miles away from French city of Bordeaux, mayor warns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-27 17:50</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +96,20 @@
                 <span class="time">2026-07-27 16:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/27/israeli-raid-sparks-fire-at-un-palestinian-refugee-centre?traffic_source=rss" target="_blank">Israeli raid sparks fire at UN Palestinian refugee centre</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-27 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6786/live/a29902f0-89c7-11f1-a501-d9a9d2e9b6c1.jpg" alt="Devastating European wildfires in maps - and how they&#x27;re being tackled" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss" target="_blank">Devastating European wildfires in maps - and how they&#x27;re being tackled</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-27 14:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale" target="_blank">Nanoleaf&amp;#8217;s colorful pegboard and shelf kit is half off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-27 19:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +155,6 @@
                 <span class="time">2026-07-27 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity" target="_blank">Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-27 12:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +167,15 @@
                 <span class="title"><a href="https://dev.to/tosane932/the-blinking-toilet-light-and-my-isprocessing-flag-were-doing-the-same-job-3geg" target="_blank">The Blinking Toilet Light and My `isProcessing` Flag Were Doing the Same Job</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-27 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/" target="_blank">The harness is all you need (mostly)</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-27 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/16-Tile-32-Tile-AMX-Performance" target="_blank">Mysterious 16-Tile &amp; 32-Tile AMX Implementations Talked Up For More Performance</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-27 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/" target="_blank">GitHub Copilot app for Beginners: Getting started</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-27 16:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 18:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
