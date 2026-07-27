@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 16:40:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-27 17:30:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 16:40 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 17:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia" target="_blank">The &#x27;cockroach&#x27; in the machine: How Gen Z is rattling South Asia&#x27;s elites</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-27 16:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +94,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss" target="_blank">Oil price dives as US and Iran pause attacks</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-27 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms" target="_blank">3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-27 11:45</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jacobjerryarackal/harness-engineering-the-missing-framework-for-ai-native-development-3mjl" target="_blank">Harness Engineering: The Missing Framework for AI-Native Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-27 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/16-Tile-32-Tile-AMX-Performance" target="_blank">Mysterious 16-Tile &amp; 32-Tile AMX Implementations Talked Up For More Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-27 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/" target="_blank">GitHub Copilot app for Beginners: Getting started</a></span>
                 <span class="feed">The GitHub Blog</span>
@@ -190,28 +208,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/framework-laptop-13-pro" target="_blank">Framework Laptop 13 Pro: Aiming To Be One Of The Best Upgradeable Linux Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-27 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/linknpark/our-api-docs-told-ai-agents-to-do-the-exact-thing-that-fails-4o4g" target="_blank">Our API docs told AI agents to do the exact thing that fails</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-27 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17388096/pironman-5-pro-max-review" target="_blank">Pironman 5 Pro Max Review: SunFounder&#x27;s Most Capable Pi 5 Case Doubles as an AI Desktop</a></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17388206/firedragon-v13-release" target="_blank">FireDragon Browser Swoops in With New Wings</a></span>
                 <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-27 12:35</span>
+                <span class="time">2026-07-27 15:05</span>
             </div>
         </div>
 </div>
@@ -233,6 +233,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2219855141-e1785172062500.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Two men rode the elevator to the top of the Space Needle and jumped off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/27/two-men-rode-elevator-top-space-needle-jumped-off.html" target="_blank">Two men rode the elevator to the top of the Space Needle and jumped off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-27 17:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/05/1cdb3cf333e9b7ef18f25329ad58a6ce.jpg" alt="Clair Obscur And 10 Other PlayStation 5 RPGs That Are Cheaper Than Usual During Sony’s Summer Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/clair-obscur-and-10-other-playstation-5-rpgs-that-are-cheaper-than-usual-during-sonys-summer-sale-2000719485" target="_blank">Clair Obscur And 10 Other PlayStation 5 RPGs That Are Cheaper Than Usual During Sony’s Summer Sale</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-27 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYJ5WNB359GZF45M5NRVH3VS/hero-image.jpg" alt="If You Loved ‘I Will Find You,’ There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-to-watch-after-i-will-find-you?utm_medium=RSS" target="_blank">If You Loved ‘I Will Find You,’ There&#x27;s One Movie You Need to Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-27 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/1280px-A_view_of_Nagercoil.jpg?fit=1280%2C864&amp;quality=60&amp;ssl=1" alt="The legend of India&#x27;s &quot;breast tax&quot; and the woman who defied it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,33 +287,6 @@
                 <span class="time">2026-07-27 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/08/8c8fa65c91f95d78d5ebcc1ff9b8f7c9-1280x720.jpg" alt="New Baldur’s Gate 3 Mod Has Given Me All The Excuse I Need To Play The Game Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/baldurs-gate-3-third-person-camera-mod-dragon-age-origins-2000719452" target="_blank">New Baldur’s Gate 3 Mod Has Given Me All The Excuse I Need To Play The Game Again</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-27 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KR0V7JVZZ600C9F4QG5XSQ9W/hero-image.png" alt="This Acer OLED Gaming Monitor Is Over $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/acer-predator-x27u-oled-monitor-sale-july-2026?utm_medium=RSS" target="_blank">This Acer OLED Gaming Monitor Is Over $200 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/JeanIposthume.jpg?fit=1516%2C1857&amp;quality=60&amp;ssl=1" alt="France once had a king who reigned for four days — his entire life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/26/john-i-france-infant-king.html" target="_blank">France once had a king who reigned for four days — his entire life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-26 23:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,6 +311,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/forth.png" alt="Forth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3277/" target="_blank">Forth</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-07-27 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5881.png" alt="Overwhelmingly Negative" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -324,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 16:40 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 253 |
+        🔄 Last Updated: 17:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
