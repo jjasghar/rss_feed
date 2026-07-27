@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 22:20:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-27 23:20:25 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 22:20 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 23:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +55,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss" target="_blank">US diplomats walk out as France addresses UN Security Council</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-27 23:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f168/live/0cc79030-89e4-11f1-910d-e39ce05500dc.jpg" alt="Reform UK reports Zack Polanski to police over guillotine T-shirt post" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss" target="_blank">Reform UK reports Zack Polanski to police over guillotine T-shirt post</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-27 21:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260727-minnesota-state-capitol-bf-1517-5341f7.jpg" alt="Federal judge blocks Minnesota’s prediction market ban days before it takes effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/tech/tech-news/minnesota-prediction-market-ban-blocked-federal-judge-rcna589494" target="_blank">Federal judge blocks Minnesota’s prediction market ban days before it takes effect</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-27 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged" target="_blank">Platner energized Maine&#x27;s Democrats. Jackson&#x27;s challenge will be to keep them engaged</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-27 21:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss" target="_blank">Will Peru’s new leader Keiko Fujimori reject her father’s legacy?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-27 20:47</span>
@@ -62,47 +105,20 @@
                 <span class="time">2026-07-27 18:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Bryan-Kohberger-1-ap-gmh-260727_1785173502932_hpMain_4x3t_384.jpg" alt="Kohberger trying to challenge conviction in University of Idaho murders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/bryan-kohberger-challenge-conviction-university-idaho-murders-court/story?id=135126516" target="_blank">Kohberger trying to challenge conviction in University of Idaho murders</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-27 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846e/live/d5f99f40-89dd-11f1-b8ee-9b3c26ad07bb.jpg" alt="Wildfire now nine miles away from French city of Bordeaux, mayor warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss" target="_blank">Wildfire now nine miles away from French city of Bordeaux, mayor warns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-27 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia" target="_blank">The &#x27;cockroach&#x27; in the machine: How Gen Z is rattling South Asia&#x27;s elites</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-27 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dca2/live/b72d1570-2ea6-11f1-b297-95b0a0a8331e.png" alt="Funeral director who left people unburied breached families&#x27; trust &#x27;on industrial scale&#x27;, court hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cp8ek0682jdo?at_medium=RSS&at_campaign=rss" target="_blank">Funeral director who left people unburied breached families&#x27; trust &#x27;on industrial scale&#x27;, court hears</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-27 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a67dc3d4180a96e737b7769/master/pass/France-Records-Its-First-Ever-Pyrocumulonimbus-Cloud-Science-2286803963.jpg" alt="France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/" target="_blank">France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-27 22:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg" alt="Microsoft unveils AI security tools it says outperform competing platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +164,6 @@
                 <span class="time">2026-07-27 20:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a678683a61c4389773966d4/master/pass/Security_GoogleSearchScrew-UpExposedPrivateClaudeChat-.gif" alt="Private Claude Chats Exposed in Google and Bing Search Results" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/" target="_blank">Private Claude Chats Exposed in Google and Bing Search Results</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-27 20:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/numbpill3d/i-tested-7-ai-osint-agents-on-my-own-digital-footprint-heres-what-they-found-in-4-minutes-27fn" target="_blank">I Tested 7 AI OSINT Agents on My Own Digital Footprint - Here&#x27;s What They Found in 4 Minutes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-27 22:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/news/position-open-weights-models" target="_blank">Our position on open-weights models</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-27 22:03</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +219,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/" target="_blank">The harness is all you need (mostly)</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-27 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/company/the-harness-is-all-you-need-mostly/" target="_blank">The harness is all you need (mostly)</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-07-27 18:00</span>
             </div>
@@ -295,6 +302,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/27/a-wolv-in-creep-s-clothing" target="_blank">A Wolv In Creep&#x27;s Clothing</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-27 20:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1784999773-20260727.png" alt="Saturday Morning Breakfast Cereal - Taxonomy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -335,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 22:20 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 23:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
