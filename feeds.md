@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 01:31:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-27 02:59:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/police-crime-scene-st-lv-240818_1723999717435_hpMain_4x3t_384.jpg" alt="Multiple people shot at Seattle Center: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/multiple-people-shot-seattle-center-police/story?id=135108867" target="_blank">Multiple people shot at Seattle Center: Police</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-27 02:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260726-seattle-skyline-ww-1903-c53578.jpg" alt="Multiple people injured in Seattle Center shooting, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/multiple-people-injured-seattle-center-shooting-police-say-rcna589371" target="_blank">Multiple people injured in Seattle Center shooting, police say</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-27 02:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-zelenskyy-ramsay_7307352.jpg?20260726203652" alt="Sackings, &#x27;drone deal&#x27; and a &#x27;long war&#x27;: Zelenskyy speaks to Sky News" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-zelenskyy-ramsay_7307352.jpg?20260726203652" alt="Zelenskyy on defence sackings, a possible drone deal, and a &#x27;long war&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/sackings-drone-deal-and-a-long-war-volodymyr-zelenskyy-speaks-to-sky-news-13567240" target="_blank">Sackings, &#x27;drone deal&#x27; and a &#x27;long war&#x27;: Zelenskyy speaks to Sky News</a></span>
+                <span class="title"><a href="https://news.sky.com/story/sackings-drone-deal-and-a-long-war-volodymyr-zelenskyy-speaks-to-sky-news-13567240" target="_blank">Zelenskyy on defence sackings, a possible drone deal, and a &#x27;long war&#x27;</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-07-26 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ece8/live/8c522e20-8924-11f1-b2ab-0dd01740f9f6.jpg" alt="Berlin Pride attack suspect shot and killed during police operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss" target="_blank">Berlin Pride attack suspect shot and killed during police operation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-26 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7731/live/42f6c270-8921-11f1-ba41-9bff51dd5d72.jpg" alt="Firefighters battle wildfire as tens of thousands evacuated near Bordeaux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss" target="_blank">Firefighters battle wildfire as tens of thousands evacuated near Bordeaux</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-26 18:40</span>
             </div>
         </div>
 </div>
@@ -177,6 +177,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nikolays.github.io/PGSimCity/" target="_blank">PGSimCity - How PostgreSQL Works</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-27 00:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/experientiallabs/world-model-optimizer" target="_blank">Show HN: Distill and serve small models with frontier quality for half the cost</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-26 23:35</span>
@@ -192,6 +201,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc5-Released" target="_blank">Linux 7.2-rc5 Released: &quot;Once More We Have Quite A Massive -rc5&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-26 22:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2020/02/chrome-browser-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Chrome finally arrives on Arm64 Linux, Widevine DRM included" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -200,29 +218,20 @@
                 <span class="time">2026-07-26 20:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/richarddillman/youre-not-blocked-your-work-is-1f77" target="_blank">You&#x27;re Not Blocked. Your Work Is.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-26 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNU-Binutils-2.47" target="_blank">GNU Binutils 2.47 Released With More RISC-V Extensions, New Options</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-26 19:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/JeanIposthume.jpg?fit=1516%2C1857&amp;quality=60&amp;ssl=1" alt="France once had a king who reigned for four days — his entire life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/26/john-i-france-infant-king.html" target="_blank">France once had a king who reigned for four days — his entire life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-26 23:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/mystanglerfish.jpg" alt="Cyan Worlds Gives A Look At What Could Have Been A New Myst Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +277,6 @@
                 <span class="time">2026-07-26 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/mcu-poster-1-1280x720.jpg" alt="Marvel Boss Responds To Avengers: Doomsday Trailer Backlash Over The Lack Of Build-Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvels-kevin-feige-defends-lack-of-avengers-doomsday-buildup-thanos-sat-on-a-chair-2000719364" target="_blank">Marvel Boss Responds To Avengers: Doomsday Trailer Backlash Over The Lack Of Build-Up</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-26 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 65 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 67 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
