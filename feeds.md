@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 14:56:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-07-27 15:52:07 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 14:57 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 15:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/27/israeli-raid-sparks-fire-at-un-palestinian-refugee-centre?traffic_source=rss" target="_blank">Israeli raid sparks fire at UN Palestinian refugee centre</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-27 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6786/live/a29902f0-89c7-11f1-a501-d9a9d2e9b6c1.jpg" alt="Devastating European wildfires in maps - and how they&#x27;re being tackled" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss" target="_blank">Devastating European wildfires in maps - and how they&#x27;re being tackled</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-27 14:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/CENTCOM-tanker-DB-260727_1785146447820_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump holds off strikes, weighs diplomacy, stockpiles, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +100,47 @@
                 <span class="time">2026-07-27 11:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/27/india-zimbabwe-t20-cricket-match-vaibhav-sooryavanshi-vvs-laxman?traffic_source=rss" target="_blank">Sooryavanshi praised by Laxman after teen stars against Zimbabwe in T20</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-27 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force" target="_blank">In Memphis, an &#x27;anti-crime&#x27; task force quietly turned into an ICE crackdown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-27 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network" target="_blank">Amazon&amp;#8217;s trying to launch a global satellite cellphone network in 2028</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-27 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a67739a2186d961242b1ab7/master/pass/2026-07-21T202356Z_860259229_RC2UHMAW66S6_RTRMADP_3_CANADA-WHALES.JPG" alt="Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago/" target="_blank">Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-27 15:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/" target="_blank">Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-27 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_8936-1-500x500.jpeg" alt="Framework Laptop 13 Pro review: Much better battery, much worse price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/" target="_blank">Framework Laptop 13 Pro review: Much better battery, much worse price</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-27 15:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -123,47 +159,29 @@
                 <span class="time">2026-07-27 12:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a65803612757d944a5401b6/master/pass/The-Best-Handheld-Vacuums.jpg" alt="The 10 Best WIRED-Tested Handheld Vacuums of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-handheld-vacuum/" target="_blank">The 10 Best WIRED-Tested Handheld Vacuums of 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-27 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-500x500.jpg" alt="Artist sues AI meme generator for selling deeply personal comic as ad template" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/" target="_blank">Artist sues AI meme generator for selling deeply personal comic as ad template</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-27 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a63ddfc7b2f84e64f1f3fcf/master/pass/Donald-Trump-AI-Brain-Trust-Politics.jpg" alt="This Is Donald Trump’s AI Brain Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/" target="_blank">This Is Donald Trump’s AI Brain Trust</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-27 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/" target="_blank">Europe got its own TBPN-style live show, and everyone’s angling for a guest spot</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-27 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/dotnet-11-preview-6/en/headerimage/twitterCard-1785154508838.jpg" alt="Microsoft Releases .NET 11 Preview 6 With Language and Framework Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/dotnet-11-preview-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Releases .NET 11 Preview 6 With Language and Framework Updates</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-27 15:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/framework-laptop-13-pro" target="_blank">Framework Laptop 13 Pro: Aiming To Be One Of The Best Upgradeable Linux Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-27 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,22 +218,18 @@
                 <span class="time">2026-07-27 11:26</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-virtualization-hwe-stack-confidential-computing" target="_blank">Ubuntu’s virtualization hardware enablement (HWE) stack: a new model for confidential computing enablement</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-07-27 10:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Netflix Details Its In-House LLM Serving Platform with Triton and vLLM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/netflix-llm-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Details Its In-House LLM Serving Platform with Triton and vLLM</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-27 07:33</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html" target="_blank">Cognyte Sells a Mobile Cell Surveillance Van</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-27 11:04</span>
             </div>
         </div>
 </div>
@@ -223,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/splatoon-raiders-2-1280x691.jpg" alt="Splatoon Raiders Is Now A Top-10 Highest User-Rated Game On Metacritic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/splatoon-raiders-is-now-a-top-10-highest-user-rated-game-on-metacritic-2000719487" target="_blank">Splatoon Raiders Is Now A Top-10 Highest User-Rated Game On Metacritic</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-27 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/08/8c8fa65c91f95d78d5ebcc1ff9b8f7c9-1280x720.jpg" alt="New Baldur’s Gate 3 Mod Has Given Me All The Excuse I Need To Play The Game Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +291,6 @@
                 <span class="time">2026-07-26 20:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/pragmataoriginal.jpg" alt="Capcom Producer Says Resident Evil Remakes Enable Original Games Like Pragmata" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/capcom-producer-says-resident-evil-remakes-enable-original-games-like-pragmata-2000719404" target="_blank">Capcom Producer Says Resident Evil Remakes Enable Original Games Like Pragmata</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-26 19:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,22 +314,13 @@
                 <span class="time">2026-07-27 00:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1784999731-20260726.png" alt="Saturday Morning Breakfast Cereal - Dance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/dance-4" target="_blank">Saturday Morning Breakfast Cereal - Dance</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-26 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 14:57 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 15:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
