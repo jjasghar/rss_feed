@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-26 23:17:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-27 00:21:13 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, July 26, 2026 - 23:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 00:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +108,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/" target="_blank">Are brain waves the next unlock for physical AI?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-27 00:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review" target="_blank">Champagne and Bullets belongs on the Mount Rushmore of bad movies</a></span>
                 <span class="feed">The Verge</span>
@@ -148,20 +159,20 @@
                 <span class="time">2026-07-26 17:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con" target="_blank">Carrie is just trying to make a friend in the new trailer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-26 15:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/experientiallabs/world-model-optimizer" target="_blank">Show HN: Distill and serve small models with frontier quality for half the cost</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-26 23:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +216,6 @@
                 <span class="title"><a href="https://beyondloom.com/decker/" target="_blank">Decker, a platform that builds on the legacy of Hypercard and classic macOS</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-26 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jay9122/tracing-voice-ai-is-hard-how-i-instrumented-streaming-llms-with-opentelemetry-and-signoz-5c03" target="_blank">Tracing Voice AI is Hard: How I Instrumented Streaming LLMs with OpenTelemetry and SigNoz</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-26 18:06</span>
             </div>
         </div>
 </div>
@@ -294,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 23:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 00:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
