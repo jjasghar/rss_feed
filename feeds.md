@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 00:21:13 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-27 01:31:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 00:21 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss" target="_blank">Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-27 00:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss" target="_blank">Trump’s border czar probes possible vetting failures after ICE shooting</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-26 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a2/live/0e818a60-8922-11f1-a7ab-8b30adf0800a.jpg" alt="PM pledges continued support for Ukraine ahead of Zelensky visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss" target="_blank">PM pledges continued support for Ukraine ahead of Zelensky visit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-26 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -74,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785090960638_now_brk_berlin_suspect_killed_260726_S3_1920x1080-p557ra.jpg" alt="Suspect in Berlin Pride march attack shot and killed by police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7731/live/42f6c270-8921-11f1-ba41-9bff51dd5d72.jpg" alt="Firefighters battle wildfire as tens of thousands evacuated near Bordeaux" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/berlin-police-kill-suspect-in-pride-festival-attack-after-manhunt-267285573905" target="_blank">Suspect in Berlin Pride march attack shot and killed by police</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-26 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires" target="_blank">Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-26 18:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss" target="_blank">Israel launches military incursion into Syria amid UN condemnation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-26 17:40</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss" target="_blank">Firefighters battle wildfire as tens of thousands evacuated near Bordeaux</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-26 18:40</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgnx5uvo438fs16l1zcn4.png" alt="Lemonade Second Squeeze: Model Archeology on 2019&#x27;s GPT-2XL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/earlgreyhot1701d/lemonade-second-squeeze-model-archeology-on-2019s-gpt-2xl-32jm" target="_blank">Lemonade Second Squeeze: Model Archeology on 2019&#x27;s GPT-2XL</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-27 01:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -207,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNU-Binutils-2.47" target="_blank">GNU Binutils 2.47 Released With More RISC-V Extensions, New Options</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-26 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://beyondloom.com/decker/" target="_blank">Decker, a platform that builds on the legacy of Hypercard and classic macOS</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-26 18:23</span>
             </div>
         </div>
 </div>
@@ -283,6 +283,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5881.png" alt="Overwhelmingly Negative" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5881" target="_blank">Overwhelmingly Negative</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-27 00:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1784999731-20260726.png" alt="Saturday Morning Breakfast Cereal - Dance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -296,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 00:21 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 65 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
