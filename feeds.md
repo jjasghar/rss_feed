@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 15:52:07 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-07-27 16:40:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 15:52 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 16:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us?traffic_source=rss" target="_blank">Iran: Currently no negotiations with the US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-27 16:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms" target="_blank">3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-27 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/biteofseattle_1785121808040_hpMain_4x3t_384.jpeg" alt="&#x27;Horrific violence&#x27;: 3 dead, 4 injured in Seattle festival shooting, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/multiple-people-shot-seattle-center-police/story?id=135108867" target="_blank">&#x27;Horrific violence&#x27;: 3 dead, 4 injured in Seattle festival shooting, officials say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-27 11:26</span>
             </div>
         </div>
 </div>
@@ -165,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/" target="_blank">GitHub Copilot app for Beginners: Getting started</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-27 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf" target="_blank">Kimi-K3 Technical Report [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-27 15:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/07/dotnet-11-preview-6/en/headerimage/twitterCard-1785154508838.jpg" alt="Microsoft Releases .NET 11 Preview 6 With Language and Framework Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -200,24 +214,6 @@
                 <span class="time">2026-07-27 12:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Virtualization-HWE-Stack" target="_blank">Ubuntu To Provide Virtualization HWE Stack For Ubuntu 26.04 LTS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-27 11:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/kotlin-serverless/en/mediumimage/elena-medium-1784808530534.jpeg" alt="Presentation: Clean Architecture for Serverless: Business Logic You Can Take Anywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/kotlin-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Clean Architecture for Serverless: Business Logic You Can Take Anywhere</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-27 11:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/1280px-A_view_of_Nagercoil.jpg?fit=1280%2C864&amp;quality=60&amp;ssl=1" alt="The legend of India&#x27;s &quot;breast tax&quot; and the woman who defied it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/27/nangeli-breast-tax.html" target="_blank">The legend of India&#x27;s &quot;breast tax&quot; and the woman who defied it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-27 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HHFZW0PT3FZC53NHGRPD2/hero-image.png" alt="No, Bananas Don&#x27;t Destroy the Nutrients in Smoothies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/can-you-put-bananas-in-smoothies?utm_medium=RSS" target="_blank">No, Bananas Don&#x27;t Destroy the Nutrients in Smoothies</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-27 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/splatoon-raiders-2-1280x691.jpg" alt="Splatoon Raiders Is Now A Top-10 Highest User-Rated Game On Metacritic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,29 +287,20 @@
                 <span class="time">2026-07-26 23:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/mystanglerfish.jpg" alt="Cyan Worlds Gives A Look At What Could Have Been A New Myst Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cyan-worlds-gives-a-look-at-what-could-have-been-a-new-myst-sequel-2000719419" target="_blank">Cyan Worlds Gives A Look At What Could Have Been A New Myst Sequel</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-26 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/Promo-image-from-the-Pokemon-Card-Store-website-1280x720.jpg" alt="Pokémon Company Strikes Blow Against Scalpers With Facial Recognition Checks To ‘Prevent Crime’ At Card Stores In Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-company-strikes-blow-against-scalpers-with-facial-recognition-checks-to-prevent-crime-at-card-stores-in-japan-2000719407" target="_blank">Pokémon Company Strikes Blow Against Scalpers With Facial Recognition Checks To ‘Prevent Crime’ At Card Stores In Japan</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-26 20:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1784999773-20260727.png" alt="Saturday Morning Breakfast Cereal - Taxonomy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/taxonomy-2" target="_blank">Saturday Morning Breakfast Cereal - Taxonomy</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-27 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -319,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 15:52 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 16:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
