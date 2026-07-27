@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 21:22:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-27 22:20:08 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 21:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 22:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg" alt="Microsoft unveils AI security tools it says outperform competing platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/" target="_blank">Microsoft unveils AI security tools it says outperform competing platforms</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-27 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/" target="_blank">Satya Nadella says companies that trust one AI for everything may not survive</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-27 21:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a67bbceae27b42b1eabd271/master/pass/incendios%20Espa%C3%B1a%20tecnolog%C3%ADa%202285568676.jpg" alt="New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -140,29 +157,38 @@
                 <span class="time">2026-07-27 20:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/971545/xbox-outage-disc-physical-games" target="_blank">Xbox’s huge outage even blocked games on disc</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-27 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale" target="_blank">Nanoleaf&amp;#8217;s colorful pegboard and shelf kit is half off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-27 19:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/numbpill3d/i-tested-7-ai-osint-agents-on-my-own-digital-footprint-heres-what-they-found-in-4-minutes-27fn" target="_blank">I Tested 7 AI OSINT Agents on My Own Digital Footprint - Here&#x27;s What They Found in 4 Minutes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-27 22:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/mission-center-cpu-power-temperature-1-1.webp?resize=406%2C232&amp;ssl=1" alt="Mission Center update adds battery, partition and power draw stats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/mission-center-battery-power-draw-reporting" target="_blank">Mission Center update adds battery, partition and power draw stats</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-27 21:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-PMF-Testing-Tool-Linux-7.3" target="_blank">AMD PMF Testing Tool Slated For Linux 7.3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-27 21:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +214,6 @@
                 <span class="title"><a href="https://github.blog/company/the-harness-is-all-you-need-mostly/" target="_blank">The harness is all you need (mostly)</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-07-27 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jacobjerryarackal/harness-engineering-the-missing-framework-for-ai-native-development-3mjl" target="_blank">Harness Engineering: The Missing Framework for AI-Native Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-27 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/" target="_blank">MAI-Cyber 1</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-27 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/16-Tile-32-Tile-AMX-Performance" target="_blank">Mysterious 16-Tile &amp; 32-Tile AMX Implementations Talked Up For More Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-27 16:41</span>
             </div>
         </div>
 </div>
@@ -336,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 21:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 22:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
