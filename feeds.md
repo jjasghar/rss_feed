@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 17:30:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-27 18:27:55 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 17:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 18:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +51,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/Bryan-Kohberger-1-ap-gmh-260727_1785173502932_hpMain_4x3t_384.jpg" alt="Kohberger trying to challenge conviction in University of Idaho murders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/bryan-kohberger-challenge-conviction-university-idaho-murders-court/story?id=135126516" target="_blank">Kohberger trying to challenge conviction in University of Idaho murders</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-27 18:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia" target="_blank">The &#x27;cockroach&#x27; in the machine: How Gen Z is rattling South Asia&#x27;s elites</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-27 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dca2/live/b72d1570-2ea6-11f1-b297-95b0a0a8331e.png" alt="Funeral director who left people unburied breached families&#x27; trust &#x27;on industrial scale&#x27;, court hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cp8ek0682jdo?at_medium=RSS&at_campaign=rss" target="_blank">Funeral director who left people unburied breached families&#x27; trust &#x27;on industrial scale&#x27;, court hears</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-27 16:46</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +102,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss" target="_blank">Devastating European wildfires in maps - and how they&#x27;re being tackled</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-27 14:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/CENTCOM-tanker-DB-260727_1785146447820_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump holds off strikes, weighs diplomacy, stockpiles, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: Trump holds off strikes, weighs diplomacy, stockpiles, sources say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-27 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92a8/live/d2b46450-89a6-11f1-a85a-79136c2d298e.jpg" alt="Oil price dives as US and Iran pause attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss" target="_blank">Oil price dives as US and Iran pause attacks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-27 11:50</span>
             </div>
         </div>
 </div>
@@ -164,9 +172,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tosane932/the-blinking-toilet-light-and-my-isprocessing-flag-were-doing-the-same-job-3geg" target="_blank">The Blinking Toilet Light and My `isProcessing` Flag Were Doing the Same Job</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-27 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/company/the-harness-is-all-you-need-mostly/" target="_blank">The harness is all you need (mostly)</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-27 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jacobjerryarackal/harness-engineering-the-missing-framework-for-ai-native-development-3mjl" target="_blank">Harness Engineering: The Missing Framework for AI-Native Development</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-27 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/" target="_blank">MAI-Cyber 1</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-27 16:52</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +220,6 @@
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/" target="_blank">GitHub Copilot app for Beginners: Getting started</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-07-27 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf" target="_blank">Kimi-K3 Technical Report [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-27 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/dotnet-11-preview-6/en/headerimage/twitterCard-1785154508838.jpg" alt="Microsoft Releases .NET 11 Preview 6 With Language and Framework Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/dotnet-11-preview-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Releases .NET 11 Preview 6 With Language and Framework Updates</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-27 15:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17388206/firedragon-v13-release" target="_blank">FireDragon Browser Swoops in With New Wings</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-27 15:05</span>
             </div>
         </div>
 </div>
@@ -333,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 39 | 📸 With Images: 253 |
-        🔄 Last Updated: 17:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 18:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
