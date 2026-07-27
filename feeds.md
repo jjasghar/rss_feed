@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 04:21:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-27 06:06:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 04:21 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 06:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +50,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/27/pakistans-kashmir-votes-why-the-election-hinges-on-12-disputed-seats?traffic_source=rss" target="_blank">Pakistan’s Kashmir votes: Why the election hinges on 12 disputed seats</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-27 05:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c163/live/37ae8280-8918-11f1-9303-cf4043796b6f.jpg" alt="NHS &#x27;will collapse&#x27; without social care reform, PM tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss" target="_blank">NHS &#x27;will collapse&#x27; without social care reform, PM tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-27 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/biteofseattle_1785121808040_hpMain_4x3t_384.jpeg" alt="2 dead, 5 injured in shooting at Seattle Center during food festival: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/multiple-people-shot-seattle-center-police/story?id=135108867" target="_blank">2 dead, 5 injured in shooting at Seattle Center during food festival: Officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-27 04:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785123953727_nbc_spec_seattle_deaths_king_260726_S3_1920x1080-pt1iv7.jpg" alt="At least two dead, five injured in Seattle shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/seattle-shooting-kills-at-least-two-people-five-others-injured-267294789759" target="_blank">At least two dead, five injured in Seattle shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-27 03:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/police-crime-scene-st-lv-240818_1723999717435_hpMain_4x3t_384.jpg" alt="Multiple people shot at Seattle Center: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -55,42 +101,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/multiple-people-injured-seattle-center-shooting-police-say-rcna589371" target="_blank">Multiple people injured in Seattle Center shooting, police say</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-07-27 02:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss" target="_blank">Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-27 00:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss" target="_blank">Trump’s border czar probes possible vetting failures after ICE shooting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-26 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a2/live/0e818a60-8922-11f1-a7ab-8b30adf0800a.jpg" alt="PM pledges continued support for Ukraine ahead of Zelensky visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss" target="_blank">PM pledges continued support for Ukraine ahead of Zelensky visit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-26 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea46/live/ade66450-8912-11f1-bd73-9dd00d6a13bb.jpg" alt="Badenoch says PM must rule out tax rises to fund social care reform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo?at_medium=RSS&at_campaign=rss" target="_blank">Badenoch says PM must rule out tax rises to fund social care reform</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-26 21:00</span>
             </div>
         </div>
 </div>
@@ -158,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thibault_monteiro/flux-3-genere-la-bande-son-en-meme-temps-que-limage-5gm" target="_blank">Flux 3 génère la bande-son en même temps que l&#x27;image</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-27 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/tanstack-table-v9-beta/en/headerimage/generatedHeaderImage-1784821719878.jpg" alt="TanStack Table V9 Beta: Tree-Shakable Features, TanStack Store State, and Lower Memory Usage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/tanstack-table-v9-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">TanStack Table V9 Beta: Tree-Shakable Features, TanStack Store State, and Lower Memory Usage</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-27 05:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgnx5uvo438fs16l1zcn4.png" alt="Lemonade Second Squeeze: Model Archeology on 2019&#x27;s GPT-2XL" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -191,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/james_lin/the-deepseek-leak-why-infrastructure-secrets-matter-more-than-model-weights-3c3n" target="_blank">The DeepSeek Leak: Why Infrastructure Secrets Matter More Than Model Weights</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-26 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc5-Released" target="_blank">Linux 7.2-rc5 Released: &quot;Once More We Have Quite A Massive -rc5&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-26 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2020/02/chrome-browser-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Chrome finally arrives on Arm64 Linux, Widevine DRM included" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available" target="_blank">Chrome finally arrives on Arm64 Linux, Widevine DRM included</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-26 20:42</span>
             </div>
         </div>
 </div>
@@ -298,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 67 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 04:21 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 06:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
