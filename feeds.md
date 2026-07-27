@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 13:46:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-27 14:56:49 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 13:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 14:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/CENTCOM-tanker-DB-260727_1785146447820_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump holds off strikes, weighs diplomacy, stockpiles, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: Trump holds off strikes, weighs diplomacy, stockpiles, sources say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-27 13:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92a8/live/d2b46450-89a6-11f1-a85a-79136c2d298e.jpg" alt="Oil price dives as US and Iran pause attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss" target="_blank">Oil price dives as US and Iran pause attacks</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-27 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms" target="_blank">3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-27 11:45</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +100,6 @@
                 <span class="time">2026-07-27 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/27/tadej-pogacar-tour-de-france-2026-cycling-record-fifth-title?traffic_source=rss" target="_blank">Tadej Pogacar wins Tour de France for a record-equalling fifth time</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-27 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger" target="_blank">Uganda begins emergency food handouts after 19 die from hunger</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-27 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +112,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/" target="_blank">Snapchat now lets you share what you’re listening to in real time</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity" target="_blank">Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-27 12:06</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +159,29 @@
                 <span class="time">2026-07-27 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/" target="_blank">Are brain waves the next unlock for physical AI?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-27 00:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/linknpark/our-api-docs-told-ai-agents-to-do-the-exact-thing-that-fails-4o4g" target="_blank">Our API docs told AI agents to do the exact thing that fails</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-27 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17388096/pironman-5-pro-max-review" target="_blank">Pironman 5 Pro Max Review: SunFounder&#x27;s Most Capable Pi 5 Case Doubles as an AI Desktop</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-27 12:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,29 +218,20 @@
                 <span class="time">2026-07-27 07:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://huggingface.co/moonshotai/Kimi-K3" target="_blank">Kimi-K3 Releases on HuggingFace 7/27</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-27 06:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thibault_monteiro/flux-3-genere-la-bande-son-en-meme-temps-que-limage-5gm" target="_blank">Flux 3 génère la bande-son en même temps que l&#x27;image</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-27 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/08/8c8fa65c91f95d78d5ebcc1ff9b8f7c9-1280x720.jpg" alt="New Baldur’s Gate 3 Mod Has Given Me All The Excuse I Need To Play The Game Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/baldurs-gate-3-third-person-camera-mod-dragon-age-origins-2000719452" target="_blank">New Baldur’s Gate 3 Mod Has Given Me All The Excuse I Need To Play The Game Again</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-27 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KR0V7JVZZ600C9F4QG5XSQ9W/hero-image.png" alt="This Acer OLED Gaming Monitor Is Over $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +277,6 @@
                 <span class="time">2026-07-26 19:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/05/d66a92b5f066dee597aeac4507d061de.jpg" alt="Big PlayStation Game Sale Is A Perfect Chance To Build Up Your Physical Collection Before Sony Kills Discs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/big-playstation-game-sale-is-a-perfect-chance-to-build-up-your-physical-collection-before-sony-kills-discs-2000719394" target="_blank">Big PlayStation Game Sale Is A Perfect Chance To Build Up Your Physical Collection Before Sony Kills Discs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-26 17:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 72 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 13:46 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 14:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
