@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 08:07:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-27 10:15:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 08:07 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 10:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,10 +47,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force" target="_blank">In Memphis, an &#x27;anti-crime&#x27; task force quietly turned into an ICE crackdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-27 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/27/tadej-pogacar-tour-de-france-2026-cycling-record-fifth-title?traffic_source=rss" target="_blank">Tadej Pogacar wins Tour de France for a record-equalling fifth time</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-27 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger" target="_blank">Uganda begins emergency food handouts after 19 die from hunger</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-27 07:00</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +98,29 @@
                 <span class="time">2026-07-27 04:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785123953727_nbc_spec_seattle_deaths_king_260726_S3_1920x1080-pt1iv7.jpg" alt="At least two dead, five injured in Seattle shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/seattle-shooting-kills-at-least-two-people-five-others-injured-267294789759" target="_blank">At least two dead, five injured in Seattle shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-27 03:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/police-crime-scene-st-lv-240818_1723999717435_hpMain_4x3t_384.jpg" alt="Multiple people shot at Seattle Center: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/multiple-people-shot-seattle-center-police/story?id=135108867" target="_blank">Multiple people shot at Seattle Center: Police</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-27 02:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a63ddfc7b2f84e64f1f3fcf/master/pass/Donald-Trump-AI-Brain-Trust-Politics.jpg" alt="This Is Donald Trump’s AI Brain Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/" target="_blank">This Is Donald Trump’s AI Brain Trust</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-27 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/" target="_blank">Europe got its own TBPN-style live show, and everyone’s angling for a guest spot</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-27 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +157,20 @@
                 <span class="time">2026-07-26 19:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/971101/apple-smart-glasses-privacy" target="_blank">Apple is banking on privacy to set its smart glasses apart</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-26 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/" target="_blank">Inside one London founder house rewriting the founder-house rules</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-26 17:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Netflix Details Its In-House LLM Serving Platform with Triton and vLLM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/netflix-llm-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Details Its In-House LLM Serving Platform with Triton and vLLM</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-27 07:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +214,6 @@
                 <span class="title"><a href="https://nikolays.github.io/PGSimCity/" target="_blank">PGSimCity - How PostgreSQL Works</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-27 00:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/experientiallabs/world-model-optimizer" target="_blank">Show HN: Distill and serve small models with frontier quality for half the cost</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-26 23:35</span>
             </div>
         </div>
 </div>
@@ -302,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 71 | 📡 Total Sources: 39 | 📸 With Images: 253 |
-        🔄 Last Updated: 08:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 68 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 10:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
