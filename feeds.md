@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 20:27:39 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-27 21:22:22 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 20:27 UTC</div>
+    <div class="newspaper-date">Monday, July 27, 2026 - 21:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss" target="_blank">Will Peru’s new leader Keiko Fujimori reject her father’s legacy?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-27 20:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +99,29 @@
                 <span class="time">2026-07-27 16:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us?traffic_source=rss" target="_blank">Iran: Currently no negotiations with the US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-27 16:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a67bbceae27b42b1eabd271/master/pass/incendios%20Espa%C3%B1a%20tecnolog%C3%ADa%202285568676.jpg" alt="New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/" target="_blank">New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-27 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2015/02/salad-500x429.jpg" alt="Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/" target="_blank">Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-27 20:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-500x500.jpg" alt="Police missed one underscore—and sent the wrong man to prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,24 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale" target="_blank">Nanoleaf&amp;#8217;s colorful pegboard and shelf kit is half off</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-27 19:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network" target="_blank">Amazon&amp;#8217;s trying to launch a global satellite cellphone network in 2028</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-27 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a67739a2186d961242b1ab7/master/pass/2026-07-21T202356Z_860259229_RC2UHMAW66S6_RTRMADP_3_CANADA-WHALES.JPG" alt="Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago/" target="_blank">Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-27 15:33</span>
             </div>
         </div>
 </div>
@@ -240,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Visual-Studio-Professional-2026-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Create apps and websites with this powerful Microsoft coding tool — now only $30 through August 9" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/27/create-apps-and-websites-with-this-powerful-microsoft-coding-tool-now-only-30-through-august-9.html" target="_blank">Create apps and websites with this powerful Microsoft coding tool — now only $30 through August 9</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-27 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KYJGFAXKDZ0471S1HK7CDTGB/hero-image.webp" alt="How Apple Might Try to Make Its Smart Glasses Less Creepy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -282,15 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/what-to-watch-after-i-will-find-you?utm_medium=RSS" target="_blank">If You Loved ‘I Will Find You,’ There&#x27;s One Movie You Need to Watch Next</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-27 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/1280px-A_view_of_Nagercoil.jpg?fit=1280%2C864&amp;quality=60&amp;ssl=1" alt="The legend of India&#x27;s &quot;breast tax&quot; and the woman who defied it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/27/nangeli-breast-tax.html" target="_blank">The legend of India&#x27;s &quot;breast tax&quot; and the woman who defied it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-27 16:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 20:27 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 21:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
