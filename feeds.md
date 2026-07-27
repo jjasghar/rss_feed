@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 12:01:43 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-07-27 13:46:25 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 12:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, July 27, 2026 - 13:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92a8/live/d2b46450-89a6-11f1-a85a-79136c2d298e.jpg" alt="Oil price dives as US and Iran pause attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss" target="_blank">Oil price dives as US and Iran pause attacks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-27 11:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/biteofseattle_1785121808040_hpMain_4x3t_384.jpeg" alt="&#x27;Horrific violence&#x27;: 3 dead, 4 injured in Seattle festival shooting, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +98,20 @@
                 <span class="time">2026-07-27 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/27/pakistans-kashmir-votes-why-the-election-hinges-on-12-disputed-seats?traffic_source=rss" target="_blank">Pakistan’s Kashmir votes: Why the election hinges on 12 disputed seats</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-27 05:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/" target="_blank">Snapchat now lets you share what you’re listening to in real time</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-27 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a65803612757d944a5401b6/master/pass/The-Best-Handheld-Vacuums.jpg" alt="The 10 Best WIRED-Tested Handheld Vacuums of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -111,6 +119,15 @@
                 <span class="title"><a href="https://www.wired.com/gallery/the-best-handheld-vacuum/" target="_blank">The 10 Best WIRED-Tested Handheld Vacuums of 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-27 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-500x500.jpg" alt="Artist sues AI meme generator for selling deeply personal comic as ad template" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/" target="_blank">Artist sues AI meme generator for selling deeply personal comic as ad template</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-27 10:50</span>
             </div>
         </div>
 <div class="story">
@@ -138,24 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/" target="_blank">Are brain waves the next unlock for physical AI?</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-27 00:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review" target="_blank">Champagne and Bullets belongs on the Mount Rushmore of bad movies</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-26 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/" target="_blank">Can Apple make smart glasses that aren’t a constant privacy threat?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-26 21:06</span>
             </div>
         </div>
 </div>
@@ -223,6 +222,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KR0V7JVZZ600C9F4QG5XSQ9W/hero-image.png" alt="This Acer OLED Gaming Monitor Is Over $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/acer-predator-x27u-oled-monitor-sale-july-2026?utm_medium=RSS" target="_blank">This Acer OLED Gaming Monitor Is Over $200 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/JeanIposthume.jpg?fit=1516%2C1857&amp;quality=60&amp;ssl=1" alt="France once had a king who reigned for four days — his entire life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -267,20 +275,20 @@
                 <span class="time">2026-07-26 17:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Prompting-Systems.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Make ChatGPT, Claude, and other AI tools work better for you with this $30 prompt tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/26/make-chatgpt-claude-and-other-ai-tools-work-better-for-you-with-this-30-prompt-tool.html" target="_blank">Make ChatGPT, Claude, and other AI tools work better for you with this $30 prompt tool</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-26 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/27/a-wolv-in-creep-s-clothing" target="_blank">A Wolv In Creep&#x27;s Clothing</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-27 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5881.png" alt="Overwhelmingly Negative" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -304,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 69 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 12:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 72 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 13:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
