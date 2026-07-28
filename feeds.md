@@ -1,39 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 08:52:06 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-07-28 09:50:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 08:52 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 09:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/netanyahu-gty-er-260727_1785171293286_hpMain_4x3t_384.jpg" alt="Netanyahu and Zelenskyy to push their agendas at White House meetings with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/netanyahu-zelenskyy-push-agendas-white-house-meetings-trump/story?id=135123010" target="_blank">Netanyahu and Zelenskyy to push their agendas at White House meetings with Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-28 08:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/28/future-at-stake-india-moves-to-demolish-university-muslim-leader-founded?traffic_source=rss" target="_blank">‘Future at stake’: India moves to demolish university Muslim leader founded</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-28 08:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/japan-quake_1785225525593_hpMain_4x3t_384.jpg" alt="Magnitude 7.1 earthquake rocks Japan as tsunami warning issued" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +92,20 @@
                 <span class="time">2026-07-28 07:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires" target="_blank">With wildfires raging in France and Spain, fire crews race against next heat wave</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-28 06:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss" target="_blank">Palestine weekly: West Bank in flames after Tal killings</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-28 05:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children" target="_blank">Hugging Face is being used to easily undress women and children</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-28 09:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +149,6 @@
                 <span class="title"><a href="https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/" target="_blank">France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-27 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/971649/x-money-launch-elon-musk" target="_blank">X Money is launching in the US starting today</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-27 22:10</span>
             </div>
         </div>
 </div>
@@ -331,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 256 |
-        🔄 Last Updated: 08:52 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 256 |
+        🔄 Last Updated: 09:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
