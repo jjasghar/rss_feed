@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 15:42:58 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-07-28 16:29:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 15:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 16:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a258/live/0c48a680-8a84-11f1-83c5-cf36fe4b083e.jpg" alt="Gironde wildfires flare up as French region braces for new 40C heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss" target="_blank">Gironde wildfires flare up as French region braces for new 40C heatwave</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-28 16:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss" target="_blank">Is Netanyahu’s Trump card losing its power in Israel?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-28 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Saudi-smoke-DB-260728_1785222844754_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump criticizes Netanyahu over Israeli intel on Pickaxe Mountain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: Trump criticizes Netanyahu over Israeli intel on Pickaxe Mountain</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-28 15:24</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +97,29 @@
                 <span class="time">2026-07-28 13:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb86/live/0c7ab500-8a6e-11f1-924e-bfa32777c3ff.jpg" alt="French Navy carries out shooting drill mid interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss" target="_blank">French Navy carries out shooting drill mid interview</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-28 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/graham_funeral-xpmmyy.jpg" alt="Funeral services held for Sen. Lindsey Graham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-funeral-services-held-for-sen-lindsey-graham-267378757822" target="_blank">Funeral services held for Sen. Lindsey Graham</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-28 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-500x500.jpg" alt="Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/" target="_blank">Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-28 16:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/971880/hbo-max-vertical-video-feed-shorts" target="_blank">HBO Max is putting on vertical shorts</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-28 15:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +156,29 @@
                 <span class="time">2026-07-28 13:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a67c199fc15b8f5aefc0293/master/pass/The-Coolest-Gifts-We%E2%80%99d-Give-Our-Moms.jpg" alt="Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-gifts-for-mom-2026/" target="_blank">Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-28 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a67c5e22b60ff99d769f6fe/master/pass/The-Best-Apple-Watch-for-Your-Health,-Fitness,-and-Everyday-Life.jpg" alt="Best Apple Watch (2026): Series 11, SE 3, and Ultra 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-apple-watch/" target="_blank">Best Apple Watch (2026): Series 11, SE 3, and Ultra 3</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-28 11:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fabperso/three-bugs-my-ai-agents-couldnt-fix-13bn" target="_blank">Three bugs my AI agents couldn&#x27;t fix</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-28 16:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Starling-Swift-Desktop" target="_blank">Starling: A New Linux Desktop Written In Swift, Own Wayland Compositor &amp; Written With AI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-28 15:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/amtocbot/retry-storms-in-c-exponential-backoff-and-jitter-with-httpclient-lah" target="_blank">Retry Storms in C#: Exponential Backoff and Jitter with HttpClient</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-28 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17390033/grapheneos-duress-password-indictment" target="_blank">A GrapheneOS Privacy Feature Just Became the Basis for a Federal Indictment</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-28 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/grafana-assistant-data-source/en/headerimage/generatedHeaderImage-1785087229848.jpg" alt="Grafana Assistant Expands to More Than 30 Data Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/grafana-assistant-data-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana Assistant Expands to More Than 30 Data Sources</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-28 12:00</span>
             </div>
         </div>
 </div>
@@ -263,6 +262,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYKH7EK3YJRN5W8ZB1YXJCF5/hero-image.jpg" alt="Seven Ways to Make Your Email Aliases Even More Secure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-increase-email-alias-security?utm_medium=RSS" target="_blank">Seven Ways to Make Your Email Aliases Even More Secure</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-28 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KYMFC1Q4GBS384ANGZ0BX2DD/hero-image.jpg" alt="Apple Will Now Let You Lease Your Next iPhone, iPad, Mac, or Apple Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -278,15 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/live-action-link-actor-didnt-play-zelda-breath-of-the-wild-at-launch-because-he-was-only-eight-years-old-i-was-watching-playthroughs-2000719752" target="_blank">Live-Action Link Actor Didn’t Play Zelda: Breath Of The Wild At Launch Because He Was Only Eight Years Old: ‘I Was Watching Playthroughs’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-28 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/masterchieffine-1280x720.jpg" alt="Xbox Swings Into Damage Control Mode And Calls Extended Outage That Locked Players Out Of Their Games ‘Unacceptable’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-swings-into-damage-control-mode-and-calls-extended-outage-that-locked-players-out-of-their-games-unacceptable-2000719748" target="_blank">Xbox Swings Into Damage Control Mode And Calls Extended Outage That Locked Players Out Of Their Games ‘Unacceptable’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-28 12:29</span>
             </div>
         </div>
 </div>
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 15:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 16:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
