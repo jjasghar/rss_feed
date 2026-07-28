@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 16:29:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-07-28 17:28:37 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 16:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 17:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral" target="_blank">Leaders gather in Washington to pay their final tributes to Lindsey Graham</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-28 17:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a258/live/0c48a680-8a84-11f1-83c5-cf36fe4b083e.jpg" alt="Gironde wildfires flare up as French region braces for new 40C heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss" target="_blank">Gironde wildfires flare up as French region braces for new 40C heatwave</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-28 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb86/live/0c7ab500-8a6e-11f1-924e-bfa32777c3ff.jpg" alt="French Navy carries out &#x27;shooting drill&#x27; mid interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss" target="_blank">French Navy carries out &#x27;shooting drill&#x27; mid interview</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-28 16:12</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change" target="_blank">Photos: Spain and France&#x27;s battle record wildfires</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-28 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Congress honors Sen. Lindsey Graham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Congress honors Sen. Lindsey Graham</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-28 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/7/28/iraqi-pm-visits-turkiye-to-boost-ties-despite-complex-challenges?traffic_source=rss" target="_blank">Iraqi PM visits Turkiye to boost ties despite complex challenges</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-28 13:55</span>
             </div>
         </div>
 </div>
@@ -235,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2022/09/5ee55e8b4221e93fbfcffd61ff570eed-1280x720.jpg" alt="Shigeru Miyamoto Sums Up Everything Wrong With The Industry In One Sentence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/shigeru-miyamoto-sums-up-everything-wrong-with-the-industry-in-one-sentence-2000719771" target="_blank">Shigeru Miyamoto Sums Up Everything Wrong With The Industry In One Sentence</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-28 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/spideyglitch-1280x720.jpg" alt="Spider-Man 2 Gets Free Update For Brand New Day And Marvel Tōkon And It’s A Bit…Buggy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -279,15 +288,6 @@
                 <span class="time">2026-07-28 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/link-s.jpg" alt="Live-Action Link Actor Didn’t Play Zelda: Breath Of The Wild At Launch Because He Was Only Eight Years Old: ‘I Was Watching Playthroughs’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/live-action-link-actor-didnt-play-zelda-breath-of-the-wild-at-launch-because-he-was-only-eight-years-old-i-was-watching-playthroughs-2000719752" target="_blank">Live-Action Link Actor Didn’t Play Zelda: Breath Of The Wild At Launch Because He Was Only Eight Years Old: ‘I Was Watching Playthroughs’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-28 13:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 16:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 17:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
