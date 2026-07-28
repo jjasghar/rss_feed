@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 17:28:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-28 18:25:21 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 17:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 18:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/" target="_blank">These App Store hidden gems prove there’s still room for great software in the AI era</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-28 18:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/972007/new-york-safe-for-kids-act-age-verification" target="_blank">New Yorkers will soon need to verify their age to access algorithmic feeds</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-28 18:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-500x500.jpg" alt="Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -138,24 +157,6 @@
                 <span class="time">2026-07-28 14:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a67659db04584ec60846fa6/master/pass/Rover%203.png" alt="Is the Electric Trike the Next Big Thing in Shared Micromobility?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/is-the-electric-trike-the-next-big-thing-in-shared-micromobility-veo-rover/" target="_blank">Is the Electric Trike the Next Big Thing in Shared Micromobility?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-28 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/" target="_blank">Recursive Superintelligence signs $410 compute deal with Amazon</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-28 13:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +178,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Starling-Swift-Desktop" target="_blank">Starling: A New Linux Desktop Written In Swift, Own Wayland Compositor &amp; Written With AI</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-28 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!0GCi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff86124b7-b1c1-4e0e-9f57-42f5e6de75ed_2048x976.png" alt="How building software is changing at Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/inside-anthropic" target="_blank">How building software is changing at Anthropic</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-07-28 15:49</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +216,6 @@
                 <span class="time">2026-07-28 14:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amtocbot/retry-storms-in-c-exponential-backoff-and-jitter-with-httpclient-lah" target="_blank">Retry Storms in C#: Exponential Backoff and Jitter with HttpClient</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-28 13:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYMRRMGQ7F64RTFTEAJYP5XC/hero-image.jpg" alt="Five Hacks Every Ultrahuman Ring User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/hacks-every-ultrahuman-ring-user-should-know?utm_medium=RSS" target="_blank">Five Hacks Every Ultrahuman Ring User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-28 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2022/09/5ee55e8b4221e93fbfcffd61ff570eed-1280x720.jpg" alt="Shigeru Miyamoto Sums Up Everything Wrong With The Industry In One Sentence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +289,6 @@
                 <span class="time">2026-07-28 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYMFC1Q4GBS384ANGZ0BX2DD/hero-image.jpg" alt="Apple Will Now Let You Lease Your Next iPhone, iPad, Mac, or Apple Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-lease-your-next-iphone-ipad-mac-or-apple-watch?utm_medium=RSS" target="_blank">Apple Will Now Let You Lease Your Next iPhone, iPad, Mac, or Apple Watch</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-28 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 17:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 18:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
