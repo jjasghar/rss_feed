@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 06:48:08 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-28 07:49:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 06:48 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 07:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -94,12 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb38/live/76a92500-89f7-11f1-ad85-33848ec6bcfe.jpg" alt="Burnham says pupils in England need clearer pathway into work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/US/GettyImages-1236122962_1785204659292_hpMain_4x3t_384.jpg" alt="&#x27;I was freaking out,&#x27; says Howard student among 500 unenrolled over tuition payment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says pupils in England need clearer pathway into work</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-28 02:56</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/freaking-howard-university-student-500-unenrolled-tuition-payment/story?id=135138538" target="_blank">&#x27;I was freaking out,&#x27; says Howard student among 500 unenrolled over tuition payment</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-28 03:14</span>
             </div>
         </div>
 </div>
@@ -114,6 +111,15 @@
                 <span class="title"><a href="https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/" target="_blank">Hugging Face Has a Deepfake Nudes Problem</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-28 05:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/" target="_blank">Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-28 04:30</span>
             </div>
         </div>
 <div class="story">
@@ -150,15 +156,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/" target="_blank">Microsoft unveils AI security tools it says outperform competing platforms</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-27 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/" target="_blank">Satya Nadella says companies that trust one AI for everything may not survive</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-27 21:17</span>
             </div>
         </div>
 </div>
@@ -325,22 +322,13 @@
                 <span class="time">2026-07-27 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/27/a-wolv-in-creep-s-clothing" target="_blank">A Wolv In Creep&#x27;s Clothing</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-27 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 06:48 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 07:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
