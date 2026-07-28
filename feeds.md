@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 00:19:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-28 01:30:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 00:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss" target="_blank">US diplomats walk out as France addresses UN Security Council</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-27 23:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260726-trump-netanyahu-ww-1402-d52452.jpg" alt="Netanyahu to join Trump for high-stakes meeting at the White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/netanyahu-join-trump-high-stakes-meeting-white-house-rcna589326" target="_blank">Netanyahu to join Trump for high-stakes meeting at the White House</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-27 23:00</span>
             </div>
         </div>
 <div class="story">
@@ -93,20 +100,20 @@
                 <span class="time">2026-07-27 20:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss" target="_blank">Pakistan-administered Kashmir opens polls in violence-wracked vote</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-27 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/" target="_blank">Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-28 00:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a67dc3d4180a96e737b7769/master/pass/France-Records-Its-First-Ever-Pyrocumulonimbus-Cloud-Science-2286803963.jpg" alt="France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/" target="_blank">New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-27 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2015/02/salad-500x429.jpg" alt="Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/" target="_blank">Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-27 20:42</span>
             </div>
         </div>
 </div>
@@ -240,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/wings.gif?fit=683%2C384&amp;ssl=1" alt="Decker is Hypercard for the modern web" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/27/decker-is-hypercard-for-the-modern-web.html" target="_blank">Decker is Hypercard for the modern web</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-27 23:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/dragon-age-1280x712.jpg" alt="Ex–Dragon Age Producer Calls EA A ‘Hedge Fund With A Video Game Hobby’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -284,20 +291,20 @@
                 <span class="time">2026-07-27 17:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/1cdb3cf333e9b7ef18f25329ad58a6ce.jpg" alt="Clair Obscur And 10 Other PlayStation 5 RPGs That Are Cheaper Than Usual During Sony’s Summer Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/clair-obscur-and-10-other-playstation-5-rpgs-that-are-cheaper-than-usual-during-sonys-summer-sale-2000719485" target="_blank">Clair Obscur And 10 Other PlayStation 5 RPGs That Are Cheaper Than Usual During Sony’s Summer Sale</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-27 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5882.png" alt="Let It Ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5882" target="_blank">Let It Ride</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-28 00:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -334,22 +341,13 @@
                 <span class="time">2026-07-27 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5881.png" alt="Overwhelmingly Negative" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5881" target="_blank">Overwhelmingly Negative</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-27 00:41</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 00:19 UTC
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
