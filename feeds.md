@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 18:25:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-07-28 19:28:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 18:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-10-gty-gmh-260728_1785262996663_hpMain_4x3t_384.jpg" alt="&#x27;A true American original&#x27;: Trump eulogizes Sen. Lindsey Graham at Washington funeral" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/sen-lindsey-grahams-funeral-service-place-dc-tuesday/story?id=135118944" target="_blank">&#x27;A true American original&#x27;: Trump eulogizes Sen. Lindsey Graham at Washington funeral</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-28 18:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +97,29 @@
                 <span class="time">2026-07-28 15:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change" target="_blank">Photos: Spain and France&#x27;s battle record wildfires</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-28 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/972021/epos-h3-hybrid-wired-gaming-headset-deal-sale" target="_blank">This comfy gaming headset that can play audio from two sources is $25</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-28 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/" target="_blank">Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-28 19:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/streaming/971880/hbo-max-vertical-video-feed-shorts" target="_blank">HBO Max is putting on vertical shorts</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-28 15:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/" target="_blank">Data centers may face temporary power cuts to prevent blackouts on largest US grid</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-28 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/971790/apple-homepad-rumor-launch" target="_blank">Apple’s reported ‘HomePad’ may launch as early as October</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-28 14:39</span>
             </div>
         </div>
 </div>
@@ -236,6 +235,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/pokopia-dlc-1280x720.jpeg" alt="Pokopia’s First Major DLC, Bubbly Basin, Is Out Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokopias-first-major-dlc-bubbly-basin-release-date-2000719869" target="_blank">Pokopia’s First Major DLC, Bubbly Basin, Is Out Next Week</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-28 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/09/Depositphotos_60327969_s-2019.jpg?fit=700%2C467&amp;quality=60&amp;ssl=1" alt="Tourists turned Auschwitz&#x27;s death tracks into a photo set" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/28/tourists-photo-shoot-auschwitz-train-tracks.html" target="_blank">Tourists turned Auschwitz&#x27;s death tracks into a photo set</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-28 18:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KYMRRMGQ7F64RTFTEAJYP5XC/hero-image.jpg" alt="Five Hacks Every Ultrahuman Ring User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -269,24 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/28/pocketbyte-a-modular-handheld-gadget-for-play-life-and-tinkering.html" target="_blank">PocketByte: a modular handheld gadget for &quot;play, life, and tinkering&quot;</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-28 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/VS-YouTube-Pragmata-FirstContactTrailerPS5Games-151-1-1280x720.jpg" alt="Capcom’s On An Epic Win Streak And The Numbers Are Backing It Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/capcoms-on-an-epic-win-streak-and-the-numbers-are-backing-it-up-2000719764" target="_blank">Capcom’s On An Epic Win Streak And The Numbers Are Backing It Up</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-28 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYKH7EK3YJRN5W8ZB1YXJCF5/hero-image.jpg" alt="Seven Ways to Make Your Email Aliases Even More Secure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-increase-email-alias-security?utm_medium=RSS" target="_blank">Seven Ways to Make Your Email Aliases Even More Secure</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-28 14:30</span>
             </div>
         </div>
 </div>
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 18:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
