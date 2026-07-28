@@ -1,28 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 09:50:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-28 10:47:18 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 09:50 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 10:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6796/live/77b193e0-8a71-11f1-b8a3-41b986490a13.jpg" alt="People trapped inside Japan shopping centre after earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&at_campaign=rss" target="_blank">People trapped inside Japan shopping centre after earthquake</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-28 10:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/28/moment-7-1-magnitude-earthquake-rocks-southern-japan?traffic_source=rss" target="_blank">Moment 7.1-magnitude earthquake rocks southern Japan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-28 09:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/netanyahu-gty-er-260727_1785171293286_hpMain_4x3t_384.jpg" alt="Netanyahu and Zelenskyy to push their agendas at White House meetings with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss" target="_blank">Sixty Palestinians detained by Israel return to Gaza, describe abuses</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-28 08:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e00c/live/b4de9dd0-8a49-11f1-9d58-5fb372bdafd2.jpg" alt="Schools to offer technical subjects to pupils from age 14 in England, Burnham says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss" target="_blank">Schools to offer technical subjects to pupils from age 14 in England, Burnham says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-28 08:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war" target="_blank">Netanyahu to meet Trump in a first encounter since the Iran war began</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-28 07:42</span>
             </div>
         </div>
 </div>
@@ -157,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/07/remix-3-beta-preview/en/headerimage/generatedHeaderImage-1785171903193.jpg" alt="Remix 3 Beta Preview Ditches React for a Web-Standards Full-Stack Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/remix-3-beta-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Remix 3 Beta Preview Ditches React for a Web-Standards Full-Stack Framework</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-28 09:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -199,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/numbpill3d/i-tested-7-ai-osint-agents-on-my-own-digital-footprint-heres-what-they-found-in-4-minutes-27fn" target="_blank">I Tested 7 AI OSINT Agents on My Own Digital Footprint - Here&#x27;s What They Found in 4 Minutes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-27 22:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/position-open-weights-models" target="_blank">Our position on open-weights models</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-27 22:03</span>
             </div>
         </div>
 </div>
@@ -320,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 256 |
-        🔄 Last Updated: 09:50 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 257 |
+        🔄 Last Updated: 10:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
