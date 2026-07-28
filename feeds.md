@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 22:19:17 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-28 23:18:36 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 22:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 23:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/american-airlines-plane-gty-jt-260728_1785279077371_hpMain_4x3t_384.jpg" alt="American Airlines flights grounded nationwide due to IT outage: FAA" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/american-airlines-flights-grounded-nationwide-due-outage-faa/story?id=135172101" target="_blank">American Airlines flights grounded nationwide due to IT outage: FAA</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-28 22:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/apalachee-1-gty-jef-260724_1784895993091_hpMain_4x3t_384.jpg" alt="Teen sentenced to life without parole for deadly mass shooting at his high school" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss" target="_blank">Some parents on benefits to get up to £4,500 for child starting apprenticeship</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-28 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral" target="_blank">Leaders gather in Washington to pay their final tributes to Lindsey Graham</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-28 17:08</span>
             </div>
         </div>
 </div>
@@ -162,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/brunotlps/python-data-model-part-1-492k" target="_blank">Python Data Model - Part 1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-28 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/openai/codex-security" target="_blank">OpenAI just open-sourced Codex Security</a></span>
                 <span class="feed">Hacker News</span>
@@ -204,15 +217,6 @@
                 <span class="time">2026-07-28 16:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Starling-Swift-Desktop" target="_blank">Starling: A New Linux Desktop Written In Swift, Own Wayland Compositor &amp; Written With AI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-28 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/sopranos-1280x720.jpg" alt="HBO Is Getting Down In The Slop With Everyone Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hbo-is-getting-down-in-the-slop-with-everyone-else-2000719950" target="_blank">HBO Is Getting Down In The Slop With Everyone Else</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-28 22:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Betelgeuse-B-identified-by-the-target-as-image.jpg?fit=1080%2C660&amp;quality=60&amp;ssl=1" alt="Supergiant Betelgeuse&#x27;s smaller companion star imaged" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +290,6 @@
                 <span class="time">2026-07-28 19:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/09/Depositphotos_60327969_s-2019.jpg?fit=700%2C467&amp;quality=60&amp;ssl=1" alt="Tourists turned Auschwitz&#x27;s death tracks into a photo set" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/28/tourists-photo-shoot-auschwitz-train-tracks.html" target="_blank">Tourists turned Auschwitz&#x27;s death tracks into a photo set</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-28 18:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 22:19 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 23:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
