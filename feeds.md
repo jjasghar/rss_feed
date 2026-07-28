@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 10:47:18 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-28 11:38:05 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 10:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 11:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption" target="_blank">Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-28 11:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/28/magnitude-7-1-earthquake-shakes-southern-japan-tsunami-warning-issued?traffic_source=rss" target="_blank">Magnitude 7.1 earthquake shakes southern Japan, tsunami warning issued</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-28 11:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6796/live/77b193e0-8a71-11f1-b8a3-41b986490a13.jpg" alt="People trapped inside Japan shopping centre after earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +95,20 @@
                 <span class="time">2026-07-28 08:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/japan-quake_1785225525593_hpMain_4x3t_384.jpg" alt="Magnitude 7.1 earthquake rocks Japan as tsunami warning issued" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/magnitude-71-earthquake-rocks-japan-tsunami-warning-issued/story?id=135143882" target="_blank">Magnitude 7.1 earthquake rocks Japan as tsunami warning issued</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-28 08:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss" target="_blank">Sixty Palestinians detained by Israel return to Gaza, describe abuses</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-28 08:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a67c5e22b60ff99d769f6fe/master/pass/The-Best-Apple-Watch-for-Your-Health,-Fitness,-and-Everyday-Life.jpg" alt="Best Apple Watch (2026): Series 11, SE 3, and Ultra 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-apple-watch/" target="_blank">Best Apple Watch (2026): Series 11, SE 3, and Ultra 3</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-28 11:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +154,20 @@
                 <span class="time">2026-07-28 00:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a67dc3d4180a96e737b7769/master/pass/France-Records-Its-First-Ever-Pyrocumulonimbus-Cloud-Science-2286803963.jpg" alt="France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/" target="_blank">France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-27 22:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/olga_ermolaeva_f7bd121ab9/part-2-the-spring-transactional-pattern-that-drained-our-hikari-pool-1jdo" target="_blank">Part 2. The Spring @Transactional Pattern That Drained Our Hikari Pool</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-28 11:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/07/remix-3-beta-preview/en/headerimage/generatedHeaderImage-1785171903193.jpg" alt="Remix 3 Beta Preview Ditches React for a Web-Standards Full-Stack Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,34 +213,20 @@
                 <span class="time">2026-07-28 05:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/numbpill3d/i-tested-7-ai-osint-agents-on-my-own-digital-footprint-heres-what-they-found-in-4-minutes-27fn" target="_blank">I Tested 7 AI OSINT Agents on My Own Digital Footprint - Here&#x27;s What They Found in 4 Minutes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-27 22:08</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html" target="_blank">Cognyte Sells a Mobile Cell Surveillance Van</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-27 11:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2020/11/rbweh4pfeyyx8f7m68ei-1280x720.jpg" alt="PlayStation Veteran Says Japan Studio Was Closed Because It Couldn’t Make Games That ‘Drive Hardware Sales’ Like God Of War Or Uncharted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-veteran-says-japan-studio-was-closed-because-it-couldnt-make-games-that-drive-hardware-sales-like-god-of-war-or-uncharted-2000719737" target="_blank">PlayStation Veteran Says Japan Studio Was Closed Because It Couldn’t Make Games That ‘Drive Hardware Sales’ Like God Of War Or Uncharted</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-28 11:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_428306737-small.jpg?fit=2222%2C1481&amp;quality=60&amp;ssl=1" alt="The many brands of Taylor Farms, suspected source of America&#x27;s diarrhea lettuce" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +272,6 @@
                 <span class="time">2026-07-27 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/mike-johnson-e1768323420532.jpg?fit=768%2C480&amp;quality=60&amp;ssl=1" alt="MAGA Mike shares the Republican plan for midterm success: intercessory prayer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/27/mike-johnson-republicans-congress-intercessory-prayer.html" target="_blank">MAGA Mike shares the Republican plan for midterm success: intercessory prayer</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-27 19:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 257 |
-        🔄 Last Updated: 10:47 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 257 |
+        🔄 Last Updated: 11:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
