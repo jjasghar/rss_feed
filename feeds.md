@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 19:28:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-07-28 20:23:23 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 11 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 20:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/apalachee-1-gty-jef-260724_1784895993091_hpMain_4x3t_384.jpg" alt="Teen sentenced to life without parole for deadly mass shooting at his high school" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/teen-colt-gray-sentenced-life-parole-deadly-mass/story?id=135156780" target="_blank">Teen sentenced to life without parole for deadly mass shooting at his high school</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-28 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/28/g-s1-135640/ukraine-war-peace-negotiator-russia" target="_blank">Ukraine negotiator: &#x27;We have the upper hand&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-28 20:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-10-gty-gmh-260728_1785262996663_hpMain_4x3t_384.jpg" alt="&#x27;A true American original&#x27;: Trump eulogizes Sen. Lindsey Graham at Washington funeral" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/554a/live/122cc280-8aab-11f1-b8ee-9b3c26ad07bb.jpg" alt="Wildfires in south-west France flare up as region braces for new 40C heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss" target="_blank">Wildfires in south-west France flare up as region braces for new 40C heatwave</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-28 16:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a258/live/0c48a680-8a84-11f1-83c5-cf36fe4b083e.jpg" alt="Gironde wildfires flare up as French region braces for new 40C heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -70,38 +99,38 @@
                 <span class="time">2026-07-28 16:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb86/live/0c7ab500-8a6e-11f1-924e-bfa32777c3ff.jpg" alt="French Navy carries out &#x27;shooting drill&#x27; mid interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss" target="_blank">French Navy carries out &#x27;shooting drill&#x27; mid interview</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-28 16:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss" target="_blank">Is Netanyahu’s Trump card losing its power in Israel?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-28 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Saudi-smoke-DB-260728_1785222844754_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump criticizes Netanyahu over Israeli intel on Pickaxe Mountain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: Trump criticizes Netanyahu over Israeli intel on Pickaxe Mountain</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-28 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1711353151-500x500.jpg" alt="Despite AI hype, Google&#x27;s data shows workers aren&#x27;t automating themselves away" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/" target="_blank">Despite AI hype, Google&#x27;s data shows workers aren&#x27;t automating themselves away</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-28 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a68eaf74f75fc1c0d7f7718/master/pass/Ebay%20Harrasment%2002.jpg" alt="Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/" target="_blank">Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-28 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta" target="_blank">AI leaders sign statement asking the government to do something about automated AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-28 19:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,38 +158,29 @@
                 <span class="time">2026-07-28 18:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/972007/new-york-safe-for-kids-act-age-verification" target="_blank">New Yorkers will soon need to verify their age to access algorithmic feeds</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-28 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-500x500.jpg" alt="Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/" target="_blank">Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-28 16:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/971880/hbo-max-vertical-video-feed-shorts" target="_blank">HBO Max is putting on vertical shorts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-28 15:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6" target="_blank">Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-28 20:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/" target="_blank">Substack writers, you need a website</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-28 16:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +217,6 @@
                 <span class="time">2026-07-28 15:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexzerntev/reality-doesnt-fit-in-a-prompt-425g" target="_blank">Reality Doesn’t Fit in a Prompt</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-28 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-hx470-windows-linux" target="_blank">CachyOS Outperforming Windows 11, Slight Advantage Over Ubuntu &amp; Fedora On AMD Ryzen AI 9 HX 470</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-28 14:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/image-2-1280x720.jpg" alt="Final Fantasy 14′s Next Expansion Will Feature A Crossover With Final Fantasy 7 So Of Course Fans Are Gonna Fight About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-14-evercold-final-fantasy-7-remake-crossover-raid-2000719881" target="_blank">Final Fantasy 14′s Next Expansion Will Feature A Crossover With Final Fantasy 7 So Of Course Fans Are Gonna Fight About It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-28 20:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/raygunyoutube.jpg?fit=1236%2C725&amp;quality=60&amp;ssl=1" alt="Netflix honors Raygun with a documentary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/28/netflix-honors-raygun-with-a-documentary.html" target="_blank">Netflix honors Raygun with a documentary</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-28 19:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/pokopia-dlc-1280x720.jpeg" alt="Pokopia’s First Major DLC, Bubbly Basin, Is Out Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/shigeru-miyamoto-sums-up-everything-wrong-with-the-industry-in-one-sentence-2000719771" target="_blank">Shigeru Miyamoto Sums Up Everything Wrong With The Industry In One Sentence</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-28 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/spideyglitch-1280x720.jpg" alt="Spider-Man 2 Gets Free Update For Brand New Day And Marvel Tōkon And It’s A Bit…Buggy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/spider-man-2-insomniac-brand-new-day-marvel-tokon-suit-2000719804" target="_blank">Spider-Man 2 Gets Free Update For Brand New Day And Marvel Tōkon And It’s A Bit…Buggy</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-28 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/PocketByte.jpg?fit=2000%2C1547&amp;quality=60&amp;ssl=1" alt="PocketByte: a modular handheld gadget for &quot;play, life, and tinkering&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/28/pocketbyte-a-modular-handheld-gadget-for-play-life-and-tinkering.html" target="_blank">PocketByte: a modular handheld gadget for &quot;play, life, and tinkering&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-28 15:07</span>
             </div>
         </div>
 </div>
@@ -325,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 20:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
