@@ -1,23 +1,21 @@
-<!-- Processing 54 RSS feeds at 2026-07-27 23:20:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-28 00:19:01 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
@@ -25,17 +23,16 @@
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, July 27, 2026 - 23:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 00:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -120,6 +117,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/971649/x-money-launch-elon-musk" target="_blank">X Money is launching in the US starting today</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-27 22:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg" alt="Microsoft unveils AI security tools it says outperform competing platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -153,15 +159,6 @@
                 <span class="title"><a href="https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/" target="_blank">Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-27 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-500x500.jpg" alt="Police missed one underscore—and sent the wrong man to prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/" target="_blank">Police missed one underscore—and sent the wrong man to prison</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-27 20:22</span>
             </div>
         </div>
 </div>
@@ -243,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/dragon-age-1280x712.jpg" alt="Ex–Dragon Age Producer Calls EA A ‘Hedge Fund With A Video Game Hobby’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ex-dragon-age-producer-calls-ea-a-hedge-fund-with-a-video-game-hobby-2000719579" target="_blank">Ex–Dragon Age Producer Calls EA A ‘Hedge Fund With A Video Game Hobby’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-27 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Visual-Studio-Professional-2026-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Create apps and websites with this powerful Microsoft coding tool — now only $30 through August 9" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -284,15 +290,6 @@
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/clair-obscur-and-10-other-playstation-5-rpgs-that-are-cheaper-than-usual-during-sonys-summer-sale-2000719485" target="_blank">Clair Obscur And 10 Other PlayStation 5 RPGs That Are Cheaper Than Usual During Sony’s Summer Sale</a></span>
                 <span class="feed">Kotaku</span>
-                <span class="time">2026-07-27 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYJ5WNB359GZF45M5NRVH3VS/hero-image.jpg" alt="If You Loved ‘I Will Find You,’ There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-to-watch-after-i-will-find-you?utm_medium=RSS" target="_blank">If You Loved ‘I Will Find You,’ There&#x27;s One Movie You Need to Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-27 17:00</span>
             </div>
         </div>
@@ -351,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 23:20 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 00:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
