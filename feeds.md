@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 21:22:29 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-28 22:19:17 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 21:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 22:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785264219485_nbc_spec_trump_tribute_full_260728_S3_1920x1080-312wgb.jpg" alt="Watch President Trump&#x27;s full tribute to Sen. Lindsey Graham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-president-trump-s-full-tribute-to-sen-lindsey-graham-267401285762" target="_blank">Watch President Trump&#x27;s full tribute to Sen. Lindsey Graham</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-28 18:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6ce/live/12757a60-8aa2-11f1-951f-a70d41b77a63.jpg" alt="Some parents on benefits to get up to £4,500 for child starting apprenticeship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -87,20 +95,29 @@
                 <span class="time">2026-07-28 17:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/554a/live/122cc280-8aab-11f1-b8ee-9b3c26ad07bb.jpg" alt="Wildfires in south-west France flare up as region braces for new 40C heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss" target="_blank">Wildfires in south-west France flare up as region braces for new 40C heatwave</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-28 16:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit" target="_blank">Ariana Grande is suing the hackers who&amp;#8217;ve been leaking her songs and videos for years</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-28 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/" target="_blank">Bot-detection startup Spur nabs $200M from Insight</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-28 21:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta" target="_blank">AI leaders sign statement asking the government to do something about automated AI</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-28 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/972021/epos-h3-hybrid-wired-gaming-headset-deal-sale" target="_blank">This comfy gaming headset that can play audio from two sources is $25</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-28 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/" target="_blank">Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-28 19:09</span>
             </div>
         </div>
 </div>
@@ -234,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Betelgeuse-B-identified-by-the-target-as-image.jpg?fit=1080%2C660&amp;quality=60&amp;ssl=1" alt="Supergiant Betelgeuse&#x27;s smaller companion star imaged" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/28/supergiant-betelgeuses-smaller-companion-star-imaged.html" target="_blank">Supergiant Betelgeuse&#x27;s smaller companion star imaged</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-28 21:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Project-Professional-2024-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Your spreadsheet has officially been promoted—Microsoft Project is $44.97 right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -278,15 +286,6 @@
                 <span class="time">2026-07-28 18:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYMRRMGQ7F64RTFTEAJYP5XC/hero-image.jpg" alt="Five Hacks Every Ultrahuman Ring User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/hacks-every-ultrahuman-ring-user-should-know?utm_medium=RSS" target="_blank">Five Hacks Every Ultrahuman Ring User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-28 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 21:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 22:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
