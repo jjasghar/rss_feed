@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 04:05:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-28 05:55:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 04:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 05:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/28/mamdani-tackles-cost-of-living-crisis-in-new-york-with-30-discounts?traffic_source=rss" target="_blank">Mamdani tackles cost of living crisis in New York with 30% discounts</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-28 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0668/live/9c356860-8a3d-11f1-b2ab-0dd01740f9f6.jpg" alt="Spain and France brace for new heatwaves as wildfire closes in on Bordeaux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss" target="_blank">Spain and France brace for new heatwaves as wildfire closes in on Bordeaux</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-28 04:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +102,20 @@
                 <span class="time">2026-07-28 00:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss" target="_blank">US diplomats walk out as France addresses UN Security Council</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-27 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260726-trump-netanyahu-ww-1402-d52452.jpg" alt="Netanyahu to join Trump for high-stakes meeting at the White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/netanyahu-join-trump-high-stakes-meeting-white-house-rcna589326" target="_blank">Netanyahu to join Trump for high-stakes meeting at the White House</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-27 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a67cfabae27b42b1eabd681/master/pass/Security_HuggingFaceHasaDeepfakeNudesProblem_v1.gif" alt="Hugging Face Has a Deepfake Nudes Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/" target="_blank">Hugging Face Has a Deepfake Nudes Problem</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-28 05:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +159,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/" target="_blank">Satya Nadella says companies that trust one AI for everything may not survive</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-27 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a67bbceae27b42b1eabd271/master/pass/incendios%20Espa%C3%B1a%20tecnolog%C3%ADa%202285568676.jpg" alt="New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/" target="_blank">New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-27 21:06</span>
             </div>
         </div>
 </div>
@@ -235,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_428306737-small.jpg?fit=2222%2C1481&amp;quality=60&amp;ssl=1" alt="The many brands of Taylor Farms, suspected source of America&#x27;s diarrhea lettuce" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/27/the-many-brands-of-taylor-farms-suspected-source-of-americas-diarrhea-lettuce.html" target="_blank">The many brands of Taylor Farms, suspected source of America&#x27;s diarrhea lettuce</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-28 03:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/wings.gif?fit=683%2C384&amp;ssl=1" alt="Decker is Hypercard for the modern web" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -277,15 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/27/mike-johnson-republicans-congress-intercessory-prayer.html" target="_blank">MAGA Mike shares the Republican plan for midterm success: intercessory prayer</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-27 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2219855141-e1785172062500.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Two men rode the elevator to the top of the Space Needle and jumped off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/27/two-men-rode-elevator-top-space-needle-jumped-off.html" target="_blank">Two men rode the elevator to the top of the Space Needle and jumped off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-27 17:11</span>
             </div>
         </div>
 </div>
@@ -335,7 +340,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 259 |
-        🔄 Last Updated: 04:05 UTC
+        🔄 Last Updated: 05:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
