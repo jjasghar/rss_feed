@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 11:38:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-28 12:31:27 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 11:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 12:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -69,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce2e/live/eef58e80-8a6b-11f1-924e-bfa32777c3ff.jpg" alt="Zelensky to press Trump on air defences while in Washington" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky to press Trump on air defences while in Washington</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-28 10:41</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -78,21 +90,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/Politics/netanyahu-gty-er-260727_1785171293286_hpMain_4x3t_384.jpg" alt="Netanyahu and Zelenskyy to push their agendas at White House meetings with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-aeon-mall-earthquake_7308451.jpg?20260728111434" alt="Major earthquake hits southern Japan injuring at least 50" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/netanyahu-zelenskyy-push-agendas-white-house-meetings-trump/story?id=135123010" target="_blank">Netanyahu and Zelenskyy to push their agendas at White House meetings with Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-28 08:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/28/future-at-stake-india-moves-to-demolish-university-muslim-leader-founded?traffic_source=rss" target="_blank">‘Future at stake’: India moves to demolish university Muslim leader founded</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-28 08:45</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/major-earthquake-hits-japan-13567677" target="_blank">Major earthquake hits southern Japan injuring at least 50</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-28 08:57</span>
             </div>
         </div>
 </div>
@@ -160,12 +163,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/07/grafana-assistant-data-source/en/headerimage/generatedHeaderImage-1785087229848.jpg" alt="Grafana Assistant Expands to More Than 30 Data Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/grafana-assistant-data-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana Assistant Expands to More Than 30 Data Sources</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-28 12:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/olga_ermolaeva_f7bd121ab9/part-2-the-spring-transactional-pattern-that-drained-our-hikari-pool-1jdo" target="_blank">Part 2. The Spring @Transactional Pattern That Drained Our Hikari Pool</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-28 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17389531/ferrite-editor" target="_blank">I Really Want to Love This Markdown Editor, But One Thing Holds It Back</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-28 10:26</span>
             </div>
         </div>
 <div class="story">
@@ -195,22 +216,18 @@
                 <span class="time">2026-07-28 07:40</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yamada_tanaka_c941e884150/building-a-browser-based-voxel-editor-with-react-three-fiber-20af" target="_blank">Building a Browser-Based Voxel Editor with React Three Fiber</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-28 06:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17389389/british-flavored-linux-foundation-proposal" target="_blank">OpenUK Wants Britain to Stop Giving Away Open Source Creations</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-28 05:34</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html" target="_blank">Axon Is Another License Plate Surveillance Company</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-28 11:06</span>
             </div>
         </div>
 </div>
@@ -218,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/masterchieffine-1280x720.jpg" alt="Xbox Swings Into Damage Control Mode And Calls Extended Outage That Locked Players Out Of Their Games ‘Unacceptable’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-swings-into-damage-control-mode-and-calls-extended-outage-that-locked-players-out-of-their-games-unacceptable-2000719748" target="_blank">Xbox Swings Into Damage Control Mode And Calls Extended Outage That Locked Players Out Of Their Games ‘Unacceptable’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-28 12:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Old_Man_of_the_Lake_-_Crater_Lake_National_Park_-_NPS_8.jpg?fit=600%2C800&amp;quality=60&amp;ssl=1" alt="A tree has been floating upright in this lake since 1896" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/28/old-man-of-the-lake.html" target="_blank">A tree has been floating upright in this lake since 1896</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-28 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2020/11/rbweh4pfeyyx8f7m68ei-1280x720.jpg" alt="PlayStation Veteran Says Japan Studio Was Closed Because It Couldn’t Make Games That ‘Drive Hardware Sales’ Like God Of War Or Uncharted" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -252,24 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/ex-dragon-age-producer-calls-ea-a-hedge-fund-with-a-video-game-hobby-2000719579" target="_blank">Ex–Dragon Age Producer Calls EA A ‘Hedge Fund With A Video Game Hobby’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-27 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Visual-Studio-Professional-2026-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Create apps and websites with this powerful Microsoft coding tool — now only $30 through August 9" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/27/create-apps-and-websites-with-this-powerful-microsoft-coding-tool-now-only-30-through-august-9.html" target="_blank">Create apps and websites with this powerful Microsoft coding tool — now only $30 through August 9</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-27 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYJGFAXKDZ0471S1HK7CDTGB/hero-image.webp" alt="How Apple Might Try to Make Its Smart Glasses Less Creepy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-smart-glasses-privacy-report?utm_medium=RSS" target="_blank">How Apple Might Try to Make Its Smart Glasses Less Creepy</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-27 19:30</span>
             </div>
         </div>
 </div>
@@ -309,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 257 |
-        🔄 Last Updated: 11:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 12:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
