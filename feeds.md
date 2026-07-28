@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 05:55:14 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-07-28 06:48:08 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 05:55 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 06:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires" target="_blank">With wildfires raging in France and Spain, fire crews race against next heat wave</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-28 06:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss" target="_blank">Palestine weekly: West Bank in flames after Tal killings</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-28 05:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says pupils in England need clearer pathway into work</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-28 02:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nolan-wells-10-gty-gmh-260722_1784739145389_hpMain_4x3t_384.jpg" alt="Witnesses told authorities Nolan Wells had &#x27;heavy&#x27; alcohol intake: Preliminary info" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/witnesses-told-authorities-nolan-wells-heavy-alcohol-intake/story?id=135133934" target="_blank">Witnesses told authorities Nolan Wells had &#x27;heavy&#x27; alcohol intake: Preliminary info</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-28 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin" target="_blank">Rand Paul releases Anthony Fauci&#x27;s pandemic-era diary notes. Here&#x27;s what they tell us</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-28 00:05</span>
             </div>
         </div>
 </div>
@@ -170,6 +170,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yamada_tanaka_c941e884150/building-a-browser-based-voxel-editor-with-react-three-fiber-20af" target="_blank">Building a Browser-Based Voxel Editor with React Three Fiber</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-28 06:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17389389/british-flavored-linux-foundation-proposal" target="_blank">OpenUK Wants Britain to Stop Giving Away Open Source Creations</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-28 05:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/numbpill3d/i-tested-7-ai-osint-agents-on-my-own-digital-footprint-heres-what-they-found-in-4-minutes-27fn" target="_blank">I Tested 7 AI OSINT Agents on My Own Digital Footprint - Here&#x27;s What They Found in 4 Minutes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-27 22:08</span>
@@ -185,39 +203,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/mission-center-app-linux.webp?resize=406%2C232&amp;ssl=1" alt="Mission Center adds battery, partition and power draw info" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/mission-center-battery-power-draw-reporting" target="_blank">Mission Center adds battery, partition and power draw info</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-27 21:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/mission-center-cpu-power-temperature-1-1.webp?resize=406%2C232&amp;ssl=1" alt="Mission Center update adds battery, partition and power draw stats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/mission-center-battery-power-draw-reporting" target="_blank">Mission Center update adds battery, partition and power draw stats</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-07-27 21:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-PMF-Testing-Tool-Linux-7.3" target="_blank">AMD PMF Testing Tool Slated For Linux 7.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-27 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tosane932/the-blinking-toilet-light-and-my-isprocessing-flag-were-doing-the-same-job-3geg" target="_blank">The Blinking Toilet Light and My `isProcessing` Flag Were Doing the Same Job</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-27 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/" target="_blank">The harness is all you need (mostly)</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-27 18:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 259 |
-        🔄 Last Updated: 05:55 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 06:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
