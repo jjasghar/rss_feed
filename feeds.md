@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 20:23:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-28 21:22:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 20:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 21:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -73,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6ce/live/12757a60-8aa2-11f1-951f-a70d41b77a63.jpg" alt="Some parents on benefits to get up to £4,500 for child starting apprenticeship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss" target="_blank">Some parents on benefits to get up to £4,500 for child starting apprenticeship</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-28 17:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -90,20 +96,20 @@
                 <span class="time">2026-07-28 16:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a258/live/0c48a680-8a84-11f1-83c5-cf36fe4b083e.jpg" alt="Gironde wildfires flare up as French region braces for new 40C heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss" target="_blank">Gironde wildfires flare up as French region braces for new 40C heatwave</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-28 16:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike" target="_blank">The union drive at the Wikimedia Foundation is expanding</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-28 21:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1711353151-500x500.jpg" alt="Despite AI hype, Google&#x27;s data shows workers aren&#x27;t automating themselves away" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +155,6 @@
                 <span class="time">2026-07-28 19:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/" target="_blank">These App Store hidden gems prove there’s still room for great software in the AI era</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-28 18:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,10 +163,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/openai/codex-security" target="_blank">OpenAI just open-sourced Codex Security</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-28 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6" target="_blank">Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-28 20:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="GitHub Introduces Default &quot;Cooldown&quot; Policy for Dependabot Version Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/github-dependabot-cooldown/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Introduces Default &quot;Cooldown&quot; Policy for Dependabot Version Updates</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-28 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +214,6 @@
                 <span class="time">2026-07-28 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!0GCi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff86124b7-b1c1-4e0e-9f57-42f5e6de75ed_2048x976.png" alt="How building software is changing at Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/inside-anthropic" target="_blank">How building software is changing at Anthropic</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-07-28 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maricode/replicating-gitlabs-centralized-cicd-pipeline-in-github-using-a-central-repository-to-avoid-38ap" target="_blank">Replicating GitLab&#x27;s Centralized CI/CD Pipeline in GitHub Using a Central Repository to Avoid Duplication</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-28 15:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Project-Professional-2024-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Your spreadsheet has officially been promoted—Microsoft Project is $44.97 right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/28/your-spreadsheet-has-officially-been-promoted-microsoft-project-is-44-97-right-now.html" target="_blank">Your spreadsheet has officially been promoted—Microsoft Project is $44.97 right now</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-28 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/image-2-1280x720.jpg" alt="Final Fantasy 14′s Next Expansion Will Feature A Crossover With Final Fantasy 7 So Of Course Fans Are Gonna Fight About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +287,6 @@
                 <span class="time">2026-07-28 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2022/09/5ee55e8b4221e93fbfcffd61ff570eed-1280x720.jpg" alt="Shigeru Miyamoto Sums Up Everything Wrong With The Industry In One Sentence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/shigeru-miyamoto-sums-up-everything-wrong-with-the-industry-in-one-sentence-2000719771" target="_blank">Shigeru Miyamoto Sums Up Everything Wrong With The Industry In One Sentence</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-28 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,22 +310,13 @@
                 <span class="time">2026-07-28 00:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/27/a-wolv-in-creep-s-clothing" target="_blank">A Wolv In Creep&#x27;s Clothing</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-27 20:26</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 20:23 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 21:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
