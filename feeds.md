@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 14:46:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-28 15:42:58 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 14:47 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, July 28, 2026 - 15:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss" target="_blank">Is Netanyahu’s Trump card losing its power in Israel?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-28 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change" target="_blank">Photos: Spain and France&#x27;s battle record wildfires</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-28 15:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Congress honors Sen. Lindsey Graham" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +98,20 @@
                 <span class="time">2026-07-28 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-congo-drc_7308552.jpg?20260728131523" alt="Ebola outbreak in DR Congo &#x27;fastest on record&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ebola-outbreak-in-dr-congo-fastest-on-record-13567760" target="_blank">Ebola outbreak in DR Congo &#x27;fastest on record&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-28 11:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption" target="_blank">Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-28 11:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/" target="_blank">Data centers may face temporary power cuts to prevent blackouts on largest US grid</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-28 15:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +157,20 @@
                 <span class="time">2026-07-28 11:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children" target="_blank">Hugging Face is being used to easily undress women and children</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-28 09:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maricode/replicating-gitlabs-centralized-cicd-pipeline-in-github-using-a-central-repository-to-avoid-38ap" target="_blank">Replicating GitLab&#x27;s Centralized CI/CD Pipeline in GitHub Using a Central Repository to Avoid Duplication</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-28 15:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,10 +183,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-hx470-windows-linux" target="_blank">CachyOS Outperforming Windows 11, Slight Advantage Over Ubuntu &amp; Fedora On AMD Ryzen AI 9 HX 470</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-28 14:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/amtocbot/retry-storms-in-c-exponential-backoff-and-jitter-with-httpclient-lah" target="_blank">Retry Storms in C#: Exponential Backoff and Jitter with HttpClient</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-28 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17390033/grapheneos-duress-password-indictment" target="_blank">A GrapheneOS Privacy Feature Just Became the Basis for a Federal Indictment</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-28 12:56</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/grafana-assistant-data-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana Assistant Expands to More Than 30 Data Sources</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-28 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/olga_ermolaeva_f7bd121ab9/part-2-the-spring-transactional-pattern-that-drained-our-hikari-pool-1jdo" target="_blank">Part 2. The Spring @Transactional Pattern That Drained Our Hikari Pool</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-28 11:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17389531/ferrite-editor" target="_blank">I Really Want to Love This Markdown Editor, But One Thing Holds It Back</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-28 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-P-State-Better-1p-Lows" target="_blank">AMD P-State Linux Driver Patches Can Boost 1%-Low FPS Gaming Performance By 31%</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-28 10:03</span>
             </div>
         </div>
 </div>
@@ -240,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/spideyglitch-1280x720.jpg" alt="Spider-Man 2 Gets Free Update For Brand New Day And Marvel Tōkon And It’s A Bit…Buggy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/spider-man-2-insomniac-brand-new-day-marvel-tokon-suit-2000719804" target="_blank">Spider-Man 2 Gets Free Update For Brand New Day And Marvel Tōkon And It’s A Bit…Buggy</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-28 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/PocketByte.jpg?fit=2000%2C1547&amp;quality=60&amp;ssl=1" alt="PocketByte: a modular handheld gadget for &quot;play, life, and tinkering&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/28/pocketbyte-a-modular-handheld-gadget-for-play-life-and-tinkering.html" target="_blank">PocketByte: a modular handheld gadget for &quot;play, life, and tinkering&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-28 15:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/VS-YouTube-Pragmata-FirstContactTrailerPS5Games-151-1-1280x720.jpg" alt="Capcom’s On An Epic Win Streak And The Numbers Are Backing It Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,29 +289,20 @@
                 <span class="time">2026-07-28 12:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Old_Man_of_the_Lake_-_Crater_Lake_National_Park_-_NPS_8.jpg?fit=600%2C800&amp;quality=60&amp;ssl=1" alt="A tree has been floating upright in this lake since 1896" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/28/old-man-of-the-lake.html" target="_blank">A tree has been floating upright in this lake since 1896</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-28 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2020/11/rbweh4pfeyyx8f7m68ei-1280x720.jpg" alt="PlayStation Veteran Says Japan Studio Was Closed Because It Couldn’t Make Games That ‘Drive Hardware Sales’ Like God Of War Or Uncharted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-veteran-says-japan-studio-was-closed-because-it-couldnt-make-games-that-drive-hardware-sales-like-god-of-war-or-uncharted-2000719737" target="_blank">PlayStation Veteran Says Japan Studio Was Closed Because It Couldn’t Make Games That ‘Drive Hardware Sales’ Like God Of War Or Uncharted</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-28 11:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1785184164-20260728.png" alt="Saturday Morning Breakfast Cereal - Codebase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/codebase" target="_blank">Saturday Morning Breakfast Cereal - Codebase</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-28 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5882.png" alt="Let It Ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -317,22 +321,13 @@
                 <span class="time">2026-07-27 20:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1784999773-20260727.png" alt="Saturday Morning Breakfast Cereal - Taxonomy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/taxonomy-2" target="_blank">Saturday Morning Breakfast Cereal - Taxonomy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-27 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 14:47 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 15:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
