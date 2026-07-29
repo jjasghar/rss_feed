@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 07:01:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-29 08:54:10 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 08:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/29/nx-s1-5901898/morning-news-brief" target="_blank">Morning news brief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-29 08:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +95,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park" target="_blank">Kenya investigating unexpected deaths of 15 elephants in national park</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-07-29 00:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/clayton-4-gty-gmh-260715_1784126042737_hpMain_4x3t_384.jpg" alt="Senate votes to confirm Jay Clayton as director of national intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/senate-votes-confirm-jay-clayton-director-national-intelligence/story?id=135167184" target="_blank">Senate votes to confirm Jay Clayton as director of national intelligence</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-28 23:56</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anas_sheikh_2/authentication-in-nextjs-15-the-pattern-i-use-for-every-saas-957" target="_blank">Authentication in Next.js 15 The Pattern I Use for Every SaaS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-29 08:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mathiasahlgren/how-to-replace-a-google-form-with-a-real-html-form-on-your-site-5hh4" target="_blank">How to Replace a Google Form With a Real HTML Form on Your Site</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-29 06:56</span>
@@ -177,6 +186,15 @@
                 <span class="title"><a href="https://dev.to/iqtechsolutions/a-green-architecture-test-can-still-miss-the-bug-go0" target="_blank">A Green Architecture Test Can Still Miss the Bug</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-29 05:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes" target="_blank">More Tailscale tricks for your jailbroken Kindle</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-29 04:58</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/ARCTIC-Fan-Controller-Launches" target="_blank">ARCTIC Launches Its New Fan Controller That Already Has Mainline Linux Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-29 00:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zephico/how-to-make-contract-engineers-actually-work-lessons-from-the-other-side-1afa" target="_blank">How to make contract engineers actually work: lessons from the other side</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-29 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/brunotlps/python-data-model-part-1-492k" target="_blank">Python Data Model - Part 1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-28 22:54</span>
             </div>
         </div>
 </div>
@@ -303,6 +303,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/29/cyberbullies" target="_blank">Cyberbullies</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-29 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5883.png" alt="All Elbows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -325,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 08:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
