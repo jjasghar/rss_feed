@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 18:17:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-29 19:27:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 18:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 19:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss" target="_blank">Hindus take holy dip in India’s rivers on sacred holiday</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-29 18:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +103,29 @@
                 <span class="time">2026-07-29 14:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b0f/live/24b2aaa0-8b41-11f1-b2d7-b96c6bc9d7f5.jpg" alt="More than half of England in drought, Environment Agency declares" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss" target="_blank">More than half of England in drought, Environment Agency declares</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-29 14:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a69252ebd14a916c83ccf41/master/pass/Which-of-Dyson%E2%80%99s-2026-Stick-Vacuums-Is-Worth-the-Upgrade-.jpg" alt="Which of Dyson’s 2026 Vacuum Models Is the Best?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dyson-vacuum-comparison-2026/" target="_blank">Which of Dyson’s 2026 Vacuum Models Is the Best?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-29 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/" target="_blank">Claude Opus 5 became downright ruthless when tasked with running a vending machine</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-29 18:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +162,29 @@
                 <span class="time">2026-07-29 15:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales" target="_blank">The Ferrari Luce has at least 500 fans</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-29 15:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/" target="_blank">Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-29 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/geewiz/how-i-schedule-work-and-communication-with-morgen-4lb1" target="_blank">How I schedule work and communication with Morgen</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-29 19:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Beta-Video-Streaming" target="_blank">Steam Client Adds HDR Streaming On Steam Deck OLED, AV1 Video Streaming</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-29 19:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +219,6 @@
                 <span class="title"><a href="https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/" target="_blank">Tame Dependabot: Group your updates, slow the cadence, keep security fast</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-07-29 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/drumih/turbo-fieldfare" target="_blank">Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-29 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tamizuddin/manjaro-i3-essential-shortcut-commands-for-ultimate-productivity-h4n" target="_blank">Manjaro i3: Essential Shortcut Commands for Ultimate Productivity</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-29 14:35</span>
             </div>
         </div>
 </div>
@@ -251,6 +259,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYAE830XW3TR5MY7AGRM7Q2G/hero-image.jpg" alt="10 Hacks Every Even Realities G2 Smart Glasses User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-for-even-realities-g2-glasses?utm_medium=RSS" target="_blank">10 Hacks Every Even Realities G2 Smart Glasses User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-29 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/pkmngen1recomp-1280x720.jpg" alt="Pokémon Red And Blue Mod Turns The Game Boy Games Into A Gorgeous 3D Diorama" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-red-blue-recompilation-project-voxel-3d-mod-2000720281" target="_blank">Pokémon Red And Blue Mod Turns The Game Boy Games Into A Gorgeous 3D Diorama</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-29 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/trophy1-e1785348625361.jpg?fit=768%2C1043&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s participation trophy heads to the Big Apple" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/29/trump-trophy-new-york-city.html" target="_blank">Trump&#x27;s participation trophy heads to the Big Apple</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-29 18:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/katyperry-trapped-1280x720.jpg" alt="Katy Perry Trapped In Large Plastic Bottle During Recent Concert" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -277,38 +312,20 @@
                 <span class="time">2026-07-29 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/last-sentinel-1280x720.jpg" alt="The Ambitious Open-World Cyberpunk Action Game Troy Baker Was Working On Gets Hit With Mass Layoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/last-sentinel-development-reboot-troy-baker-tencent-pubg-mobile-2000720164" target="_blank">The Ambitious Open-World Cyberpunk Action Game Troy Baker Was Working On Gets Hit With Mass Layoff</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/RP_FLIP_28Floating_Instrument_Platform29_in_August_2009_28cropped29.jpg?fit=1712%2C1284&amp;quality=60&amp;ssl=1" alt="This 355-foot research ship worked by flipping vertical in the ocean" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/29/rp-flip.html" target="_blank">This 355-foot research ship worked by flipping vertical in the ocean</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-29 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/lutke.jpg?fit=1600%2C994&amp;quality=60&amp;ssl=1" alt="Shopify CEO endorses stripping voting rights from poor and pensioners" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/28/shopify-ceo-endorses-stripping-voting-rights-from-poor-and-pensioners.html" target="_blank">Shopify CEO endorses stripping voting rights from poor and pensioners</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-29 01:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/29/cyberbullies" target="_blank">Cyberbullies</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-07-29 18:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1785184202-20260729.png" alt="Saturday Morning Breakfast Cereal - Hashtag" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -328,6 +345,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/vera_rubin_observatory.png" alt="Vera Rubin Observatory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3278/" target="_blank">Vera Rubin Observatory</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-07-29 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5883.png" alt="All Elbows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -341,8 +367,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 18:17 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 19:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
