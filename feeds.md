@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 21:16:26 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-07-29 22:17:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 21:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 22:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss" target="_blank">Is FIFA selling parts of the World Cup to private investors?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-29 21:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +100,20 @@
                 <span class="time">2026-07-29 18:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0138/live/d922f0a0-8b7b-11f1-843a-4d201c635cc1.jpg" alt="Saudi Arabia&#x27;s dilemma as it tries to stay out of US-Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss" target="_blank">Saudi Arabia&#x27;s dilemma as it tries to stay out of US-Iran war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-29 18:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a693e3ab3e509eda947fa86/master/pass/politics_republicans_suport_ICE.jpg" alt="It Looks Like Nothing Can Dent MAGA’s Support for ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/" target="_blank">It Looks Like Nothing Can Dent MAGA’s Support for ICE</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-29 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +159,6 @@
                 <span class="time">2026-07-29 18:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg" alt="Anthropic is finding bugs faster than Microsoft can fix them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/" target="_blank">Anthropic is finding bugs faster than Microsoft can fix them</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-29 15:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +180,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-AMDGPU-GFX6-Modifiers" target="_blank">DRM Format Modifiers For Old AMD GPUs Coming With Linux 7.3: Thanks Valve</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-29 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://christianselig.com/2026/07/vision-pro-house/" target="_blank">The coolest use for the Vision Pro</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-29 20:39</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/geewiz/how-i-schedule-work-and-communication-with-morgen-4lb1" target="_blank">How I schedule work and communication with Morgen</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-29 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Beta-Video-Streaming" target="_blank">Steam Client Adds HDR Streaming On Steam Deck OLED, AV1 Video Streaming</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-29 19:07</span>
             </div>
         </div>
 </div>
@@ -255,6 +255,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/05/adbafffe54439bcfbfc6e78ceeff473d-1280x720.jpg" alt="Here’s Why GTA 6 Fans Are Convinced That After Waiting Over A Year, Trailer 3 Is Coming Soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/heres-why-gta-6-fans-are-convinced-that-after-waiting-over-a-year-trailer-3-is-coming-soon-2000720315" target="_blank">Here’s Why GTA 6 Fans Are Convinced That After Waiting Over A Year, Trailer 3 Is Coming Soon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-29 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/xbox-green.jpg" alt="Xbox Revenue Dropped $1.7 Billion Last Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,15 +307,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/29/trump-trophy-new-york-city.html" target="_blank">Trump&#x27;s participation trophy heads to the Big Apple</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-29 18:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/katyperry-trapped-1280x720.jpg" alt="Katy Perry Trapped In Large Plastic Bottle During Recent Concert" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/katy-perry-trapped-in-large-plastic-bottle-during-recent-concert-2000720236" target="_blank">Katy Perry Trapped In Large Plastic Bottle During Recent Concert</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-29 16:45</span>
             </div>
         </div>
 </div>
@@ -364,8 +364,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 21:16 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 22:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
