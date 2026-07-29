@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 16:27:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-29 17:24:56 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 16:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 17:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity" target="_blank">&#x27;Taiwan Travelogue&#x27; rethinks history, colonialism, and identity</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-29 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61b6/live/24160460-8b60-11f1-b4bb-f7524edbe34a.jpg" alt="Two firefighters die in Crete as wildfires threaten parts of southern Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss" target="_blank">Two firefighters die in Crete as wildfires threaten parts of southern Europe</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-29 16:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-argentina-falklands_7298610.jpg?20260715222933" alt="FIFA opens disciplinary case against Argentina FA over Falklands banner and other incidents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/fifa-opens-case-against-argentina-fa-over-falklands-banner-and-other-incidents-13568193" target="_blank">FIFA opens disciplinary case against Argentina FA over Falklands banner and other incidents</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-29 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,33 +95,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss" target="_blank">More than half of England in drought, Environment Agency declares</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-29 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-athens-greece_7309490.jpg?20260729151744" alt="Body of British woman &#x27;found inside suitcase&#x27; in Greece" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/body-of-scottish-woman-found-inside-suitcase-in-greece-13568130" target="_blank">Body of British woman &#x27;found inside suitcase&#x27; in Greece</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-29 14:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/fauci-3-gty-gmh-260729_1785328587433_hpMain_4x3t_384.jpg" alt="Fauci invokes 5th Amendment during Senate testimony on COVID-19 response" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Health/fauci-invokes-5th-amendment-senate-testimony-refrains-answering/story?id=135185235" target="_blank">Fauci invokes 5th Amendment during Senate testimony on COVID-19 response</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-29 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785330105347_now_brk_fauci_opening_fifth_260729_S3_1920x1080-0b9u5q.jpg" alt="Dr. Fauci invokes his Fifth Amendment right not to testify at Senate hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/dr-fauci-invokes-his-fifth-amendment-right-not-to-testify-at-senate-hearing-267446853703" target="_blank">Dr. Fauci invokes his Fifth Amendment right not to testify at Senate hearing</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-29 13:01</span>
             </div>
         </div>
 </div>
@@ -251,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/katyperry-trapped-1280x720.jpg" alt="Katy Perry Trapped In Large Plastic Bottle During Recent Concert" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/katy-perry-trapped-in-large-plastic-bottle-during-recent-concert-2000720236" target="_blank">Katy Perry Trapped In Large Plastic Bottle During Recent Concert</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-29 16:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KYQ43QV5DFE6P4CRVHSMXS3K/hero-image.jpg" alt="You Can Now Let Gemini &#x27;See&#x27; Your Mac&#x27;s Display for Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -295,15 +297,6 @@
                 <span class="time">2026-07-29 01:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/ebay-pig-mask-1536x864-1785271315.jpeg?fit=1536%2C864&amp;quality=60&amp;ssl=1" alt="Ebay and former execs to pay $55.7m after harassment campaign against journalists" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/28/ebay-and-former-execs-to-pay-55-7m-for-harassment-campaign-against-journalists.html" target="_blank">Ebay and former execs to pay $55.7m after harassment campaign against journalists</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-29 00:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -341,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 16:27 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 17:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
