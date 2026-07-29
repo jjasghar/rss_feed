@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 00:18:13 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-29 01:30:54 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 00:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/clayton-4-gty-gmh-260715_1784126042737_hpMain_4x3t_384.jpg" alt="Senate votes to confirm Jay Clayton as director of national intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/senate-votes-confirm-jay-clayton-director-national-intelligence/story?id=135167184" target="_blank">Senate votes to confirm Jay Clayton as director of national intelligence</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-28 23:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/sen-lindsey-grahams-funeral-service-place-dc-tuesday/story?id=135118944" target="_blank">&#x27;A true American original&#x27;: Trump eulogizes Sen. Lindsey Graham at Washington funeral</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-28 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785264219485_nbc_spec_trump_tribute_full_260728_S3_1920x1080-312wgb.jpg" alt="Watch President Trump&#x27;s full tribute to Sen. Lindsey Graham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-president-trump-s-full-tribute-to-sen-lindsey-graham-267401285762" target="_blank">Watch President Trump&#x27;s full tribute to Sen. Lindsey Graham</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-28 18:43</span>
             </div>
         </div>
 </div>
@@ -168,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ARCTIC-Fan-Controller-Launches" target="_blank">ARCTIC Launches Its New Fan Controller That Already Has Mainline Linux Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-29 00:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zephico/how-to-make-contract-engineers-actually-work-lessons-from-the-other-side-1afa" target="_blank">How to make contract engineers actually work: lessons from the other side</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +219,6 @@
                 <span class="time">2026-07-28 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/" target="_blank">Substack writers, you need a website</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-28 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/ebay-pig-mask-1536x864-1785271315.jpeg?fit=1536%2C864&amp;quality=60&amp;ssl=1" alt="Ebay and former execs to pay $55.7m after harassment campaign against journalists" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/28/ebay-and-former-execs-to-pay-55-7m-for-harassment-campaign-against-journalists.html" target="_blank">Ebay and former execs to pay $55.7m after harassment campaign against journalists</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-29 00:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/farmers-store.jpg" alt="An Ambitious New Stardew Valley Mod Lets You Run A Supermarket With An ‘Overcooked-Style Kitchen’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,20 +292,20 @@
                 <span class="time">2026-07-28 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/image-2-1280x720.jpg" alt="Final Fantasy 14′s Next Expansion Will Feature A Crossover With Final Fantasy 7 So Of Course Fans Are Gonna Fight About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-14-evercold-final-fantasy-7-remake-crossover-raid-2000719881" target="_blank">Final Fantasy 14′s Next Expansion Will Feature A Crossover With Final Fantasy 7 So Of Course Fans Are Gonna Fight About It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-28 20:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5883.png" alt="All Elbows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5883" target="_blank">All Elbows</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-29 00:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1785184164-20260728.png" alt="Saturday Morning Breakfast Cereal - Codebase" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -306,22 +315,13 @@
                 <span class="time">2026-07-28 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5882.png" alt="Let It Ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5882" target="_blank">Let It Ride</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-28 00:57</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 00:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
