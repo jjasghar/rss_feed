@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 22:17:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-29 23:18:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 22:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 23:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin" target="_blank">Animal spillover? Lab leak? What the science says about the origins of COVID-19</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-29 23:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +99,20 @@
                 <span class="time">2026-07-29 18:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss" target="_blank">Hindus take holy dip in India’s rivers on sacred holiday</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-29 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed" target="_blank">Microsoft confirms Copilot ‘super app’ coming this year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-29 22:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a693e3ab3e509eda947fa86/master/pass/politics_republicans_suport_ICE.jpg" alt="It Looks Like Nothing Can Dent MAGA’s Support for ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +158,20 @@
                 <span class="time">2026-07-29 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview" target="_blank">OpenAI president says it&amp;#8217;s &amp;#8216;building a family of devices&amp;#8217; for its AI chatbots</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-29 18:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/02/GNOME-48.jpg?resize=406%2C232&amp;ssl=1" alt="Mosaic is an i3-style auto-tiling extension for GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/mosaic-automatic-window-tiling-gnome-shell" target="_blank">Mosaic is an i3-style auto-tiling extension for GNOME Shell</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-07-29 22:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +217,6 @@
                 <span class="time">2026-07-29 19:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/geewiz/how-i-schedule-work-and-communication-with-morgen-4lb1" target="_blank">How I schedule work and communication with Morgen</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-29 19:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -256,6 +255,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/xbox-logo2-1280x720.jpg" alt="Microsoft CEO Says Xbox Will ‘Return To Growth’ This Fiscal Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-ceo-says-xbox-will-return-to-growth-this-fiscal-year-2000720333" target="_blank">Microsoft CEO Says Xbox Will ‘Return To Growth’ This Fiscal Year</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-29 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYQP24DE4BS3YF9E89GH9MDZ/hero-image.png" alt="This Is the Robot Vacuum I Use Every Day, and It&#x27;s 47% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/roborock-qrevo-curvx-deal-july-2026?utm_medium=RSS" target="_blank">This Is the Robot Vacuum I Use Every Day, and It&#x27;s 47% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-29 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/05/adbafffe54439bcfbfc6e78ceeff473d-1280x720.jpg" alt="Here’s Why GTA 6 Fans Are Convinced That After Waiting Over A Year, Trailer 3 Is Coming Soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -289,24 +306,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/10-hacks-for-even-realities-g2-glasses?utm_medium=RSS" target="_blank">10 Hacks Every Even Realities G2 Smart Glasses User Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-29 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/pkmngen1recomp-1280x720.jpg" alt="Pokémon Red And Blue Mod Turns The Game Boy Games Into A Gorgeous 3D Diorama" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-red-blue-recompilation-project-voxel-3d-mod-2000720281" target="_blank">Pokémon Red And Blue Mod Turns The Game Boy Games Into A Gorgeous 3D Diorama</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-29 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/trophy1-e1785348625361.jpg?fit=768%2C1043&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s participation trophy heads to the Big Apple" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/29/trump-trophy-new-york-city.html" target="_blank">Trump&#x27;s participation trophy heads to the Big Apple</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-29 18:13</span>
             </div>
         </div>
 </div>
@@ -364,8 +363,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 22:17 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 23:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
