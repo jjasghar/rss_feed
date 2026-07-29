@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 15:35:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-29 16:27:12 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 15:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 16:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +54,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/29/ex-fifa-chief-blatter-blasts-plan-to-sell-stake-in-world-cup-to-investors?traffic_source=rss" target="_blank">Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-29 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss" target="_blank">Why Saudi Arabia holds the key to Palestinian statehood</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-29 14:39</span>
@@ -65,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-athens-greece_7309490.jpg?20260729151744" alt="Body of British woman &#x27;found inside suitcase&#x27; in Greece" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/body-of-scottish-woman-found-inside-suitcase-in-greece-13568130" target="_blank">Body of British woman &#x27;found inside suitcase&#x27; in Greece</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-29 14:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/fauci-3-gty-gmh-260729_1785328587433_hpMain_4x3t_384.jpg" alt="Fauci invokes 5th Amendment during Senate testimony on COVID-19 response" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -74,30 +96,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b0f/live/24b2aaa0-8b41-11f1-b2d7-b96c6bc9d7f5.jpg" alt="More than half of England officially in drought, Environment Agency says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785330105347_now_brk_fauci_opening_fifth_260729_S3_1920x1080-0b9u5q.jpg" alt="Dr. Fauci invokes his Fifth Amendment right not to testify at Senate hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss" target="_blank">More than half of England officially in drought, Environment Agency says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-29 12:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49fc/live/e2274390-8b4e-11f1-b2ab-0dd01740f9f6.jpg" alt="More than 100 aftershocks hit Japan after powerful quake that killed 13" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss" target="_blank">More than 100 aftershocks hit Japan after powerful quake that killed 13</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-29 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss" target="_blank">American, Asian confederations blindsided by FIFA’s World Cup plan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-29 11:41</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/dr-fauci-invokes-his-fifth-amendment-right-not-to-testify-at-senate-hearing-267446853703" target="_blank">Dr. Fauci invokes his Fifth Amendment right not to testify at Senate hearing</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-29 13:01</span>
             </div>
         </div>
 </div>
@@ -105,6 +109,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg" alt="Anthropic is finding bugs faster than Microsoft can fix them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/" target="_blank">Anthropic is finding bugs faster than Microsoft can fix them</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-29 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/" target="_blank">Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-29 15:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/Civ7-Steam-Deck-500x500.jpg" alt="New AMD Linux patch boosts low-end gaming performance on Steam Deck" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +163,38 @@
                 <span class="time">2026-07-29 14:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a69d8904c937e721cb8d348/master/pass/AustraliaMsuk.jpg" alt="X Says Australia’s Under-16 Social Media Ban Risks Interfering With Foreign Law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/x-says-australias-under-16s-social-media-bans-risk-interfering-with-foreign-law/" target="_blank">X Says Australia’s Under-16 Social Media Ban Risks Interfering With Foreign Law</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-29 13:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/etruscan-500x500-1785331397.jpg" alt="What happens when you put AI to work deciphering lost languages?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/" target="_blank">What happens when you put AI to work deciphering lost languages?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-29 13:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/formal-methods-with-hillel-wayne" target="_blank">Formal methods with Hillel Wayne</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-07-29 16:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/ai-search-governance-in-2026-removal-deindexing-and-monitoring-become-one-strategy-28dd" target="_blank">AI Search Governance in 2026: Removal, Deindexing and Monitoring Become One Strategy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-29 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/drumih/turbo-fieldfare" target="_blank">Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-29 15:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-7.3-Peak-Bandwidth" target="_blank">Intel Graphics Driver Support For Xe3 &quot;Peak Bandwidth Threshold&quot; Feature In Linux 7.3</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-29 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17392959/gog-galaxy-is-coming-to-linux" target="_blank">Good News Gamers! GOG is Officially Coming to Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-29 12:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/toolzo/compressing-an-image-to-exactly-50kb-in-the-browser-with-no-server-6fg" target="_blank">Compressing an image to exactly 50KB in the browser, with no server</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-29 12:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/microsoft-agents-aks-routing/en/headerimage/generatedHeaderImage-1785241354822.jpg" alt="Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/microsoft-agents-aks-routing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-29 12:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 15:35 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 16:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
