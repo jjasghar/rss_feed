@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 04:06:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-29 05:57:56 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 04:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 05:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss" target="_blank">Iran attacks US bases in Middle East as Trump meets Netanyahu</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-29 05:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/ice-agent-gty-jt-260204_1771533708132_hpMain_4x3t_384.jpg" alt="ICE agents used racial slurs to refer to Latinos, videos and texts appear to show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/ice-agents-racial-slurs-refer-latinos-videos-texts/story?id=135171780" target="_blank">ICE agents used racial slurs to refer to Latinos, videos and texts appear to show</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-29 02:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed9a/live/c30f11e0-8b08-11f1-baef-9b9692338545.jpg" alt="Burnham invites Tories and Lib Dems to social care talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss" target="_blank">Burnham invites Tories and Lib Dems to social care talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-29 01:59</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +99,20 @@
                 <span class="time">2026-07-28 23:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785281366309_nn_rsa_Wildfires_260728_S3_1920x1080-e1t4y4.jpg" alt="European wildfires force new evacuations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/european-wildfires-force-new-evacuations-267419205712" target="_blank">European wildfires force new evacuations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-28 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss" target="_blank">Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-28 23:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="LG Promo Codes and Coupons for July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lg-promo-code/" target="_blank">LG Promo Codes and Coupons for July 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-29 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a6929c87648cc825532f98e/master/pass/Runaway-OpenAI-Model-Even-Worse-Than-It-Seemed-Business-1393231668.jpg" alt="OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +158,20 @@
                 <span class="time">2026-07-28 21:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike" target="_blank">The union drive at the Wikimedia Foundation is expanding</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-28 21:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iqtechsolutions/a-green-architecture-test-can-still-miss-the-bug-go0" target="_blank">A Green Architecture Test Can Still Miss the Bug</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-29 05:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +217,6 @@
                 <span class="time">2026-07-28 20:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/openai/codex-security" target="_blank">OpenAI just open-sourced Codex Security</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-28 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/lutke.jpg?fit=1600%2C994&amp;quality=60&amp;ssl=1" alt="Shopify CEO endorses stripping voting rights from poor and pensioners" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/28/shopify-ceo-endorses-stripping-voting-rights-from-poor-and-pensioners.html" target="_blank">Shopify CEO endorses stripping voting rights from poor and pensioners</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-29 01:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/ebay-pig-mask-1536x864-1785271315.jpeg?fit=1536%2C864&amp;quality=60&amp;ssl=1" alt="Ebay and former execs to pay $55.7m after harassment campaign against journalists" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +299,6 @@
                 <span class="time">2026-07-28 21:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Project-Professional-2024-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Your spreadsheet has officially been promoted—Microsoft Project is $44.97 right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/28/your-spreadsheet-has-officially-been-promoted-microsoft-project-is-44-97-right-now.html" target="_blank">Your spreadsheet has officially been promoted—Microsoft Project is $44.97 right now</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-28 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 04:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 05:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
