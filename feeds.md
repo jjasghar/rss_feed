@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 19:27:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-07-29 20:18:59 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 19:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 20:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/fed-reserve-gty-jef-260727_1785180551833_hpMain_4x3t_384.jpg" alt="Fed holds interest rates steady as economy weathers resurgent inflation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/fed-issue-interest-rate-decision-gas-prices-rise/story?id=135130446" target="_blank">Fed holds interest rates steady as economy weathers resurgent inflation</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-29 18:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +99,20 @@
                 <span class="time">2026-07-29 15:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss" target="_blank">Why Saudi Arabia holds the key to Palestinian statehood</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-29 14:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/" target="_blank">The Hugging Face AI break-in, as told through an increasingly committed bear metaphor</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-29 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a69252ebd14a916c83ccf41/master/pass/Which-of-Dyson%E2%80%99s-2026-Stick-Vacuums-Is-Worth-the-Upgrade-.jpg" alt="Which of Dyson’s 2026 Vacuum Models Is the Best?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,6 +135,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/972583/apple-upgrade-program-deal" target="_blank">What’s the catch with the Apple Upgrade program?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-29 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview" target="_blank">OpenAI president says it&amp;#8217;s &amp;#8216;building a family of devices&amp;#8217; for its AI chatbots</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-29 18:15</span>
@@ -144,29 +158,20 @@
                 <span class="time">2026-07-29 15:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/" target="_blank">Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-29 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/Civ7-Steam-Deck-500x500.jpg" alt="New AMD Linux patch boosts low-end gaming performance on Steam Deck" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/" target="_blank">New AMD Linux patch boosts low-end gaming performance on Steam Deck</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-29 15:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/openk3/kimi-k3-open-weights-what-shipped-and-how-the-repository-is-actually-organized-48md" target="_blank">Kimi K3 Open Weights: What Shipped and How the Repository Is Actually Organized</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-29 20:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +217,6 @@
                 <span class="time">2026-07-29 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/" target="_blank">Tame Dependabot: Group your updates, slow the cadence, keep security fast</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-29 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -258,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/dragons-dogma-2-dlc-trailer-1280x720.jpg" alt="Dragon’s Dogma 2: Dark Arisen Developers Say They Aren’t Nerfing Dragonsplague—Just Making It More Clear" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dragons-dogma-2-dark-arisen-developers-say-they-arent-nerfing-dragonsplague-just-making-it-more-clear-2000720220" target="_blank">Dragon’s Dogma 2: Dark Arisen Developers Say They Aren’t Nerfing Dragonsplague—Just Making It More Clear</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-29 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KYAE830XW3TR5MY7AGRM7Q2G/hero-image.jpg" alt="10 Hacks Every Even Realities G2 Smart Glasses User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,15 +306,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/gemini-can-now-take-action-on-your-mac?utm_medium=RSS" target="_blank">You Can Now Let Gemini &#x27;See&#x27; Your Mac&#x27;s Display for Free</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-29 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/1780_Raynal_and_Bonne_Map_of_New_England_and_the_Maritime_Provinces_-_Geographicus_-_Canada-bonne-1780.jpg?fit=2500%2C1772&amp;quality=60&amp;ssl=1" alt="New England needed candles at noon and nobody knew why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/29/new-englands-dark-day.html" target="_blank">New England needed candles at noon and nobody knew why</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-29 14:30</span>
             </div>
         </div>
 </div>
@@ -367,8 +363,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 19:27 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 20:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
