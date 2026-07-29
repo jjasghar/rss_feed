@@ -1,45 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 12:35:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-29 13:31:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 36 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 12:36 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 13:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/fauci-3-gty-gmh-260729_1785328587433_hpMain_4x3t_384.jpg" alt="Fauci invokes 5th Amendment during Senate testimony on COVID-19 response" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Health/fauci-invokes-5th-amendment-senate-testimony-refrains-answering/story?id=135185235" target="_blank">Fauci invokes 5th Amendment during Senate testimony on COVID-19 response</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-29 13:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b0f/live/24b2aaa0-8b41-11f1-b2d7-b96c6bc9d7f5.jpg" alt="More than half of England officially in drought, Environment Agency says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -100,20 +100,29 @@
                 <span class="time">2026-07-29 10:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher" target="_blank">New York school pauses plan to deploy humanlike AI robot teacher after backlash</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-29 09:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/" target="_blank">DoorDash is building its own drone delivery business</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-29 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6910fccc0fa027fbd6babc/master/pass/The-Best-Festival-Gear.jpg" alt="Festival Must-Haves, Field-Tested at Lost Lands and Electric Forest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-festival-gear/" target="_blank">Festival Must-Haves, Field-Tested at Lost Lands and Electric Forest</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-29 12:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,24 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning" target="_blank">We’re running out of reasons to ignore AI safety</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-29 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/" target="_blank">As AI content floods the internet, Pangram raises $9M to detect it</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-29 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239391568-500x500-1785272581.jpg" alt="Elon Musk finally launches X Money. What could possibly go wrong?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/" target="_blank">Elon Musk finally launches X Money. What could possibly go wrong?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-29 10:00</span>
             </div>
         </div>
 </div>
@@ -212,19 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://koreader.rocks/" target="_blank">KOReader</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-29 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows" target="_blank">Valve Sponsors Work Bringing Open-Source RADV Driver To Windows</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-29 10:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/cloudflare-internal-dns/en/headerimage/generatedHeaderImage-1785077156796.jpg" alt="Cloudflare Makes Internal DNS Generally Available" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/cloudflare-internal-dns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Makes Internal DNS Generally Available</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-29 10:30</span>
             </div>
         </div>
 </div>
@@ -255,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/RP_FLIP_28Floating_Instrument_Platform29_in_August_2009_28cropped29.jpg?fit=1712%2C1284&amp;quality=60&amp;ssl=1" alt="This 355-foot research ship worked by flipping vertical in the ocean" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/29/rp-flip.html" target="_blank">This 355-foot research ship worked by flipping vertical in the ocean</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-29 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/lutke.jpg?fit=1600%2C994&amp;quality=60&amp;ssl=1" alt="Shopify CEO endorses stripping voting rights from poor and pensioners" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,15 +300,6 @@
                 <span class="time">2026-07-28 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Betelgeuse-B-identified-by-the-target-as-image.jpg?fit=1080%2C660&amp;quality=60&amp;ssl=1" alt="Supergiant Betelgeuse&#x27;s smaller companion star imaged" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/28/supergiant-betelgeuses-smaller-companion-star-imaged.html" target="_blank">Supergiant Betelgeuse&#x27;s smaller companion star imaged</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-28 21:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -347,7 +338,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 12:36 UTC
+        🔄 Last Updated: 13:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
