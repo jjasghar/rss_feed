@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 10:50:09 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-07-29 11:41:37 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 10:50 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 11:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates" target="_blank">U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-29 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/372e/live/5e41f130-8b15-11f1-b8ee-9b3c26ad07bb.jpg" alt="Amber heat health alerts in force as heatwave reaches 35C peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +96,29 @@
                 <span class="time">2026-07-29 08:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e8/live/3f41c370-8b13-11f1-a7ab-8b30adf0800a.jpg" alt="Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss" target="_blank">Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-29 06:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning" target="_blank">We’re running out of reasons to ignore AI safety</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-29 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/" target="_blank">As AI content floods the internet, Pangram raises $9M to detect it</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-29 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239391568-500x500-1785272581.jpg" alt="Elon Musk finally launches X Money. What could possibly go wrong?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +155,20 @@
                 <span class="time">2026-07-29 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6929c87648cc825532f98e/master/pass/Runaway-OpenAI-Model-Even-Worse-Than-It-Seemed-Business-1393231668.jpg" alt="OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/" target="_blank">OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-29 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/" target="_blank">Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-29 00:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/skhell/building-an-aruba-central-producer-in-go-four-api-edge-cases-we-had-to-solve-p60" target="_blank">Building an Aruba Central Producer in Go: Four API edge cases we had to solve</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-29 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +214,6 @@
                 <span class="time">2026-07-29 08:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mathiasahlgren/how-to-replace-a-google-form-with-a-real-html-form-on-your-site-5hh4" target="_blank">How to Replace a Google Form With a Real HTML Form on Your Site</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-29 06:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -226,18 +223,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html" target="_blank">Measuring LLMs’ Ability to Perform Cryptanalysis</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/long-lived-vulnerability-in-microsoft-secure-boot.html" target="_blank">Long-Lived Vulnerability in Microsoft Secure Boot</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-29 01:47</span>
+                <span class="time">2026-07-29 11:01</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html" target="_blank">Axon Is Another License Plate Surveillance Company</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html" target="_blank">Measuring LLMs’ Ability to Perform Cryptanalysis</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-28 11:06</span>
+                <span class="time">2026-07-29 01:47</span>
             </div>
         </div>
 </div>
@@ -336,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 10:50 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
