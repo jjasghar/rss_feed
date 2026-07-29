@@ -1,32 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 11:41:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-29 12:35:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 11:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 12:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +55,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b0f/live/24b2aaa0-8b41-11f1-b2d7-b96c6bc9d7f5.jpg" alt="More than half of England officially in drought, Environment Agency says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss" target="_blank">More than half of England officially in drought, Environment Agency says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-29 12:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss" target="_blank">American, Asian confederations blindsided by FIFA’s World Cup plan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-29 11:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,6 +92,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-pavel-durov-telegram_7309266.jpg?20260729115800" alt="Russia charges Telegram founder with facilitating terrorism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/russia-charges-telegram-founder-pavel-durov-with-facilitating-terrorism-13568035" target="_blank">Russia charges Telegram founder with facilitating terrorism</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-29 10:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -69,38 +109,38 @@
                 <span class="time">2026-07-29 09:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/29/nx-s1-5901898/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-29 08:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss" target="_blank">US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-29 08:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-cruzeiro-internacional_7309045.jpg?20260729074957" alt="Brazilian footballer gets unusual punishment for breaking opponent&#x27;s leg" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/brazilian-footballer-victor-gabriel-gets-unusual-punishment-for-breaking-opponents-leg-13567992" target="_blank">Brazilian footballer gets unusual punishment for breaking opponent&#x27;s leg</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-29 08:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/972254/nothing-ear-3a-earbuds-review" target="_blank">The Nothing Ear 3A deliver great, but sometimes buggy, performance for the price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-29 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a21d98fe718dcf460b03639/master/pass/The-Best-Pool-Accessories-to-Upgrade-Your-Summer.jpg" alt="The 15 Best Pool Accessories to Upgrade Your Summer (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-best-pool-accessories/" target="_blank">The 15 Best Pool Accessories to Upgrade Your Summer (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-29 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/" target="_blank">Fast Metals is treating waste with more waste to extract critical minerals</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-29 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,38 +168,38 @@
                 <span class="time">2026-07-29 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a67a6ff5eab3f8d3cb1cd9d/master/pass/Boomers-Keep-Giving-Kids-AI-Slop-Books-Business-563558499.jpg" alt="Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/" target="_blank">Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-29 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="LG Promo Codes and Coupons for July 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lg-promo-code/" target="_blank">LG Promo Codes and Coupons for July 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-29 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/A263825_large-500x500.jpg" alt="Audi has a new flagship designed with the US in mind: The 2027 Q9" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/" target="_blank">Audi has a new flagship designed with the US in mind: The 2027 Q9</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-29 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/toolzo/compressing-an-image-to-exactly-50kb-in-the-browser-with-no-server-6fg" target="_blank">Compressing an image to exactly 50KB in the browser, with no server</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-29 12:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/microsoft-agents-aks-routing/en/headerimage/generatedHeaderImage-1785241354822.jpg" alt="Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/microsoft-agents-aks-routing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-29 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17392669/ubuntu-rolling-release-virtualization-stack" target="_blank">Ubuntu Now Has a Rolling Release Model! But Not For The Distro</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-29 11:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,33 +225,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/cloudflare-internal-dns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Makes Internal DNS Generally Available</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-29 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/google-says-llmstxt-does-not-affect-search-or-ai-overviews-what-seo-teams-should-do-2f81" target="_blank">Google Says llms.txt Does Not Affect Search or AI Overviews: What SEO Teams Should Do</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-29 09:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/securing-mcp-production-gateway/en/headerimage/securing-mcp-production-gateway-header-1784884301110.jpg" alt="Article: Securing MCP in Production: Defense-in-Depth Beyond the Gateway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/securing-mcp-production-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Securing MCP in Production: Defense-in-Depth Beyond the Gateway</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-29 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anas_sheikh_2/authentication-in-nextjs-15-the-pattern-i-use-for-every-saas-957" target="_blank">Authentication in Next.js 15 The Pattern I Use for Every SaaS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-29 08:45</span>
             </div>
         </div>
 </div>
@@ -333,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:41 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 12:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
