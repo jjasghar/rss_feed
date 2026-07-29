@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-28 23:18:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-29 00:18:13 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, July 28, 2026 - 23:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 00:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss" target="_blank">Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-28 23:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/american-airlines-plane-gty-jt-260728_1785279077371_hpMain_4x3t_384.jpg" alt="American Airlines flights grounded nationwide due to IT outage: FAA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +101,29 @@
                 <span class="time">2026-07-28 18:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6ce/live/12757a60-8aa2-11f1-951f-a70d41b77a63.jpg" alt="Some parents on benefits to get up to £4,500 for child starting apprenticeship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss" target="_blank">Some parents on benefits to get up to £4,500 for child starting apprenticeship</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-28 17:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/" target="_blank">Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-29 00:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban" target="_blank">The US is banning foreign robots</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-28 22:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +160,20 @@
                 <span class="time">2026-07-28 20:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a68eaf74f75fc1c0d7f7718/master/pass/Ebay%20Harrasment%2002.jpg" alt="Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/" target="_blank">Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-28 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta" target="_blank">AI leaders sign statement asking the government to do something about automated AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-28 19:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zephico/how-to-make-contract-engineers-actually-work-lessons-from-the-other-side-1afa" target="_blank">How to make contract engineers actually work: lessons from the other side</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-29 00:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +219,6 @@
                 <span class="time">2026-07-28 16:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fabperso/three-bugs-my-ai-agents-couldnt-fix-13bn" target="_blank">Three bugs my AI agents couldn&#x27;t fix</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-28 16:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,12 +239,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/farmers-store.jpg" alt="An Ambitious New Stardew Valley Mod Lets You Run A Supermarket With An ‘Overcooked-Style Kitchen’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/an-ambitious-new-stardew-valley-mod-lets-you-run-a-supermarket-with-an-overcooked-style-kitchen-2000719876" target="_blank">An Ambitious New Stardew Valley Mod Lets You Run A Supermarket With An ‘Overcooked-Style Kitchen’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-28 23:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/sopranos-1280x720.jpg" alt="HBO Is Getting Down In The Slop With Everyone Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/hbo-is-getting-down-in-the-slop-with-everyone-else-2000719950" target="_blank">HBO Is Getting Down In The Slop With Everyone Else</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-28 22:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYN8E2KFNA6SXZ79N3DFY0C0/hero-image.png" alt="This 55-Inch Samsung Mini LED TV Is $160 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-55-inch-mini-led-deal-july-2026?utm_medium=RSS" target="_blank">This 55-Inch Samsung Mini LED TV Is $160 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-28 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -270,24 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/final-fantasy-14-evercold-final-fantasy-7-remake-crossover-raid-2000719881" target="_blank">Final Fantasy 14′s Next Expansion Will Feature A Crossover With Final Fantasy 7 So Of Course Fans Are Gonna Fight About It</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-28 20:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/raygunyoutube.jpg?fit=1236%2C725&amp;quality=60&amp;ssl=1" alt="Netflix honors Raygun with a documentary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/28/netflix-honors-raygun-with-a-documentary.html" target="_blank">Netflix honors Raygun with a documentary</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-28 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/pokopia-dlc-1280x720.jpeg" alt="Pokopia’s First Major DLC, Bubbly Basin, Is Out Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokopias-first-major-dlc-bubbly-basin-release-date-2000719869" target="_blank">Pokopia’s First Major DLC, Bubbly Basin, Is Out Next Week</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-28 19:15</span>
             </div>
         </div>
 </div>
@@ -318,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 23:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 00:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
