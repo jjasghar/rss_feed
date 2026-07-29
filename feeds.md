@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 01:30:54 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-29 02:58:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e492/live/622e2ae0-8ae6-11f1-b8ee-9b3c26ad07bb.png" alt="Polanski says guillotine re-post was mistake but refuses to apologise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss" target="_blank">Polanski says guillotine re-post was mistake but refuses to apologise</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-29 00:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/clayton-4-gty-gmh-260715_1784126042737_hpMain_4x3t_384.jpg" alt="Senate votes to confirm Jay Clayton as director of national intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/senate-votes-confirm-jay-clayton-director-national-intelligence/story?id=135167184" target="_blank">Senate votes to confirm Jay Clayton as director of national intelligence</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-28 23:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785281366309_nn_rsa_Wildfires_260728_S3_1920x1080-e1t4y4.jpg" alt="European wildfires force new evacuations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/european-wildfires-force-new-evacuations-267419205712" target="_blank">European wildfires force new evacuations</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-28 23:30</span>
             </div>
         </div>
 <div class="story">
@@ -66,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino" target="_blank">FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-28 23:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/american-airlines-plane-gty-jt-260728_1785279077371_hpMain_4x3t_384.jpg" alt="American Airlines flights grounded nationwide due to IT outage: FAA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -74,38 +97,20 @@
                 <span class="time">2026-07-28 22:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/apalachee-1-gty-jef-260724_1784895993091_hpMain_4x3t_384.jpg" alt="Teen sentenced to life without parole for deadly mass shooting at his high school" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/teen-colt-gray-sentenced-life-parole-deadly-mass/story?id=135156780" target="_blank">Teen sentenced to life without parole for deadly mass shooting at his high school</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-28 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/28/g-s1-135640/ukraine-war-peace-negotiator-russia" target="_blank">Ukraine negotiator: &#x27;We have the upper hand&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-28 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-10-gty-gmh-260728_1785262996663_hpMain_4x3t_384.jpg" alt="&#x27;A true American original&#x27;: Trump eulogizes Sen. Lindsey Graham at Washington funeral" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/sen-lindsey-grahams-funeral-service-place-dc-tuesday/story?id=135118944" target="_blank">&#x27;A true American original&#x27;: Trump eulogizes Sen. Lindsey Graham at Washington funeral</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-28 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6929c87648cc825532f98e/master/pass/Runaway-OpenAI-Model-Even-Worse-Than-It-Seemed-Business-1393231668.jpg" alt="OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/" target="_blank">OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-29 00:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +156,6 @@
                 <span class="time">2026-07-28 21:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1711353151-500x500.jpg" alt="Despite AI hype, Google&#x27;s data shows workers aren&#x27;t automating themselves away" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/" target="_blank">Despite AI hype, Google&#x27;s data shows workers aren&#x27;t automating themselves away</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-28 20:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -196,6 +192,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/openai/codex-security" target="_blank">Codex Security</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-28 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/openai/codex-security" target="_blank">OpenAI just open-sourced Codex Security</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-28 20:52</span>
@@ -210,20 +215,20 @@
                 <span class="time">2026-07-28 20:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="GitHub Introduces Default &quot;Cooldown&quot; Policy for Dependabot Version Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/github-dependabot-cooldown/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Introduces Default &quot;Cooldown&quot; Policy for Dependabot Version Updates</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-28 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html" target="_blank">Measuring LLMs’ Ability to Perform Cryptanalysis</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-29 01:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -320,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
