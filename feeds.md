@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 02:58:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-29 04:06:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 04:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/ice-agent-gty-jt-260204_1771533708132_hpMain_4x3t_384.jpg" alt="ICE agents used racial slurs to refer to Latinos, videos and texts appear to show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/ice-agents-racial-slurs-refer-latinos-videos-texts/story?id=135171780" target="_blank">ICE agents used racial slurs to refer to Latinos, videos and texts appear to show</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-29 02:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e492/live/622e2ae0-8ae6-11f1-b8ee-9b3c26ad07bb.png" alt="Polanski says guillotine re-post was mistake but refuses to apologise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss" target="_blank">Polanski says guillotine re-post was mistake but refuses to apologise</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-29 00:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park" target="_blank">Kenya investigating unexpected deaths of 15 elephants in national park</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-29 00:48</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss" target="_blank">Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-28 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino" target="_blank">FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-28 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/american-airlines-plane-gty-jt-260728_1785279077371_hpMain_4x3t_384.jpg" alt="American Airlines flights grounded nationwide due to IT outage: FAA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/american-airlines-flights-grounded-nationwide-due-outage-faa/story?id=135172101" target="_blank">American Airlines flights grounded nationwide due to IT outage: FAA</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-28 22:59</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/theaiprism/the-death-of-the-app-store-how-ai-agents-killed-individual-apps-2jff" target="_blank">The Death of the App Store: How AI Agents Killed Individual Apps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-29 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/ARCTIC-Fan-Controller-Launches" target="_blank">ARCTIC Launches Its New Fan Controller That Already Has Mainline Linux Support</a></span>
                 <span class="feed">Phoronix</span>
@@ -204,15 +216,6 @@
                 <span class="title"><a href="https://github.com/openai/codex-security" target="_blank">OpenAI just open-sourced Codex Security</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-28 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6" target="_blank">Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-28 20:13</span>
             </div>
         </div>
 </div>
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 04:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
