@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 20:18:59 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-29 21:16:26 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 20:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 21:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers" target="_blank">The Trump administration&#x27;s move to end subsidies for Medicare drug plans could cost consumers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-29 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/hormuz-gty-jef-260729_1785334006559_hpMain_4x3t_384.jpg" alt="Oil prices surge after Trump vows retaliation for Iranian attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/oil-prices-surge-after-trump-vows-retaliation-iranian/story?id=135185546" target="_blank">Oil prices surge after Trump vows retaliation for Iranian attack</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-29 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss" target="_blank">Videos show aftermath of US-Saudi strikes on Iraq PMF bases</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-29 20:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Business/fed-reserve-gty-jef-260727_1785180551833_hpMain_4x3t_384.jpg" alt="Fed holds interest rates steady as economy weathers resurgent inflation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,39 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity" target="_blank">&#x27;Taiwan Travelogue&#x27; rethinks history, colonialism, and identity</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-29 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61b6/live/24160460-8b60-11f1-b4bb-f7524edbe34a.jpg" alt="Two firefighters die in Crete as wildfires threaten parts of southern Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0138/live/d922f0a0-8b7b-11f1-843a-4d201c635cc1.jpg" alt="Saudi Arabia&#x27;s dilemma as it tries to stay out of US-Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss" target="_blank">Two firefighters die in Crete as wildfires threaten parts of southern Europe</a></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss" target="_blank">Saudi Arabia&#x27;s dilemma as it tries to stay out of US-Iran war</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-07-29 16:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-argentina-falklands_7298610.jpg?20260715222933" alt="FIFA opens disciplinary case against Argentina FA over Falklands banner and other incidents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/fifa-opens-case-against-argentina-fa-over-falklands-banner-and-other-incidents-13568193" target="_blank">FIFA opens disciplinary case against Argentina FA over Falklands banner and other incidents</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-29 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/29/ex-fifa-chief-blatter-blasts-plan-to-sell-stake-in-world-cup-to-investors?traffic_source=rss" target="_blank">Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-29 15:46</span>
+                <span class="time">2026-07-29 18:41</span>
             </div>
         </div>
 </div>
@@ -167,9 +168,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jarrod2112/building-an-ai-operating-layer-episode-1-why-i-didnt-start-sooner-5ab9" target="_blank">Building an AI Operating Layer - Episode 1: Why I Didn&#x27;t Start Sooner</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-29 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-AMDGPU-GFX6-Modifiers" target="_blank">DRM Format Modifiers For Old AMD GPUs Coming With Linux 7.3: Thanks Valve</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-29 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/openk3/kimi-k3-open-weights-what-shipped-and-how-the-repository-is-actually-organized-48md" target="_blank">Kimi K3 Open Weights: What Shipped and How the Repository Is Actually Organized</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-29 20:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.kimi.com/code/docs/en/kimi-code/models" target="_blank">Kimi K3-256k</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-29 19:25</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Steam-Beta-Video-Streaming" target="_blank">Steam Client Adds HDR Streaming On Steam Deck OLED, AV1 Video Streaming</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-29 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/karim_gueye_48291b6fc720c/what-ai-agents-actually-pay-for-six-weeks-of-data-from-101-pay-per-call-endpoints-1bd2" target="_blank">What AI agents actually pay for — six weeks of data from 101 pay-per-call endpoints</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-29 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/formal-methods-with-hillel-wayne" target="_blank">Formal methods with Hillel Wayne</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-07-29 16:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/ai-search-governance-in-2026-removal-deindexing-and-monitoring-become-one-strategy-28dd" target="_blank">AI Search Governance in 2026: Removal, Deindexing and Monitoring Become One Strategy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-29 16:20</span>
             </div>
         </div>
 </div>
@@ -254,6 +255,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/xbox-green.jpg" alt="Xbox Revenue Dropped $1.7 Billion Last Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-revenue-dropped-1-7-billion-last-year-2000720316" target="_blank">Xbox Revenue Dropped $1.7 Billion Last Year</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-29 21:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/dragons-dogma-2-dlc-trailer-1280x720.jpg" alt="Dragon’s Dogma 2: Dark Arisen Developers Say They Aren’t Nerfing Dragonsplague—Just Making It More Clear" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +307,6 @@
                 <span class="title"><a href="https://kotaku.com/katy-perry-trapped-in-large-plastic-bottle-during-recent-concert-2000720236" target="_blank">Katy Perry Trapped In Large Plastic Bottle During Recent Concert</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-29 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYQ43QV5DFE6P4CRVHSMXS3K/hero-image.jpg" alt="You Can Now Let Gemini &#x27;See&#x27; Your Mac&#x27;s Display for Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/gemini-can-now-take-action-on-your-mac?utm_medium=RSS" target="_blank">You Can Now Let Gemini &#x27;See&#x27; Your Mac&#x27;s Display for Free</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-29 15:00</span>
             </div>
         </div>
 </div>
@@ -363,8 +364,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 20:19 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 21:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
