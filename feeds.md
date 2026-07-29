@@ -1,43 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 09:51:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-29 10:50:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Error processing https://www.phoronix.com/rss.php: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 09:51 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, July 29, 2026 - 10:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/372e/live/5e41f130-8b15-11f1-b8ee-9b3c26ad07bb.jpg" alt="Amber heat health alerts in force as heatwave reaches 35C peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/weather/articles/cgq534n0w85o?at_medium=RSS&at_campaign=rss" target="_blank">Amber heat health alerts in force as heatwave reaches 35C peak</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-29 10:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher" target="_blank">New York school pauses plan to deploy humanlike AI robot teacher after backlash</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-29 09:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-cruzeiro-internacional_7309045.jpg?20260729074957" alt="Brazilian footballer gets unusual punishment for breaking opponent&#x27;s leg" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/brazilian-footballer-victor-gabriel-gets-unusual-punishment-for-breaking-opponents-leg-13567992" target="_blank">Brazilian footballer gets unusual punishment for breaking opponent&#x27;s leg</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-29 08:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e8/live/3f41c370-8b13-11f1-a7ab-8b30adf0800a.jpg" alt="Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -80,38 +99,20 @@
                 <span class="time">2026-07-29 06:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss" target="_blank">Iran attacks US bases in Middle East as Trump meets Netanyahu</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-29 05:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/ice-agent-gty-jt-260204_1771533708132_hpMain_4x3t_384.jpg" alt="ICE agents used racial slurs to refer to Latinos, videos and texts appear to show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/ice-agents-racial-slurs-refer-latinos-videos-texts/story?id=135171780" target="_blank">ICE agents used racial slurs to refer to Latinos, videos and texts appear to show</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-29 02:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed9a/live/c30f11e0-8b08-11f1-baef-9b9692338545.jpg" alt="Burnham invites Tories and Lib Dems to social care talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss" target="_blank">Burnham invites Tories and Lib Dems to social care talks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-29 01:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239391568-500x500-1785272581.jpg" alt="Elon Musk finally launches X Money. What could possibly go wrong?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/" target="_blank">Elon Musk finally launches X Money. What could possibly go wrong?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-29 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a67a6ff5eab3f8d3cb1cd9d/master/pass/Boomers-Keep-Giving-Kids-AI-Slop-Books-Business-563558499.jpg" alt="Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -157,20 +158,29 @@
                 <span class="time">2026-07-29 00:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban" target="_blank">The US is banning foreign robots</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-28 22:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows" target="_blank">Valve Sponsors Work Bringing Open-Source RADV Driver To Windows</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-29 10:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/cloudflare-internal-dns/en/headerimage/generatedHeaderImage-1785077156796.jpg" alt="Cloudflare Makes Internal DNS Generally Available" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/cloudflare-internal-dns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Makes Internal DNS Generally Available</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-29 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/mathiasahlgren/how-to-replace-a-google-form-with-a-real-html-form-on-your-site-5hh4" target="_blank">How to Replace a Google Form With a Real HTML Form on Your Site</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-29 06:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iqtechsolutions/a-green-architecture-test-can-still-miss-the-bug-go0" target="_blank">A Green Architecture Test Can Still Miss the Bug</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-29 05:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes" target="_blank">More Tailscale tricks for your jailbroken Kindle</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-29 04:58</span>
             </div>
         </div>
 </div>
@@ -344,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 39 | 📸 With Images: 264 |
-        🔄 Last Updated: 09:51 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 10:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
