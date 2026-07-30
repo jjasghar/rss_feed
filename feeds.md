@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 04:03:58 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-07-30 05:52:34 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 04:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 05:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -78,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b19/live/7de7b8e0-8b87-11f1-af36-51c4f770e76f.png" alt="Major incident declared over coastal heath fire in Suffolk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss" target="_blank">Major incident declared over coastal heath fire in Suffolk</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-30 01:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-18-gty-260727_1785180946243_hpMain_4x3t_384.jpg" alt="Iran live updates: US begins retaliatory strikes against Iran, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -86,20 +101,20 @@
                 <span class="time">2026-07-30 00:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss" target="_blank">Iran war live: Trump threatens to hit back hard over strikes on Jordan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-30 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="Nike Promo Codes and Discounts: 30% for August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nike-promo-code/" target="_blank">Nike Promo Codes and Discounts: 30% for August 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-30 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +160,20 @@
                 <span class="time">2026-07-29 19:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a69252ebd14a916c83ccf41/master/pass/Which-of-Dyson%E2%80%99s-2026-Stick-Vacuums-Is-Worth-the-Upgrade-.jpg" alt="Which of Dyson’s 2026 Vacuum Models Is the Best?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dyson-vacuum-comparison-2026/" target="_blank">Which of Dyson’s 2026 Vacuum Models Is the Best?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-29 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/surajrkhonde/episode-7-local-development-15ba" target="_blank">Episode 7: Local Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-30 05:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,28 +204,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research" target="_blank">AI&#x27;s top startups are barely publishing their research</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-29 21:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jarrod2112/building-an-ai-operating-layer-episode-1-why-i-didnt-start-sooner-5ab9" target="_blank">Building an AI Operating Layer - Episode 1: Why I Didn&#x27;t Start Sooner</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-29 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-AMDGPU-GFX6-Modifiers" target="_blank">DRM Format Modifiers For Old AMD GPUs Coming With Linux 7.3: Thanks Valve</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-29 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://christianselig.com/2026/07/vision-pro-house/" target="_blank">The coolest use for the Vision Pro</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-29 20:39</span>
             </div>
         </div>
 </div>
@@ -342,7 +348,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 04:04 UTC
+        🔄 Last Updated: 05:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
