@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 16:28:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-07-30 17:28:42 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 32 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 16:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 17:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss" target="_blank">‘To play God’: Cuba’s healthcare system collapses under US pressure</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-30 16:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785427849593_now_daily_a_blanche_trump_pull_260730_S3_1920x1080-p0lvq1.jpg" alt="Trump says he could pull Blanche&#x27;s attorney general nomination until GOP holdouts leave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-he-could-pull-blanche-s-attorney-general-nomination-until-gop-holdouts-leave-267524677834" target="_blank">Trump says he could pull Blanche&#x27;s attorney general nomination until GOP holdouts leave</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-30 16:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-8-gty-gmh-260729_1785354603688_hpMain_4x3t_384.jpg" alt="Trump floats temporarily withdrawing Blanche&#x27;s AG nomination over GOP holdouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,29 +103,29 @@
                 <span class="time">2026-07-30 13:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-athens-greece_7310409.jpg?20260730150133" alt="Greek police believe phone of British woman found dead in suitcase was used to stall investigation - reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/greek-police-probe-foul-play-in-death-of-scottish-woman-found-in-suitcase-13568468" target="_blank">Greek police believe phone of British woman found dead in suitcase was used to stall investigation - reports</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-30 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot" target="_blank">Alien Terrorist Removal Court to hold its first-ever hearing after 30 years</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-30 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons" target="_blank">NASA’s Curiosity rover found a ‘sea of polygons’ on Mars</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-30 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6b6dfa2b183a271524a823/master/pass/GettyImages-2264121440.jpg" alt="For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/" target="_blank">For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-30 17:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,24 +162,6 @@
                 <span class="time">2026-07-30 15:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/" target="_blank">Netflix lands global streaming deal for ‘The Walking Dead’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-30 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6a8a2bd6b54781fab7d961/master/pass/Google-Trying-to-Bring-AI-Into-Physical-World-Business.jpg" alt="Gemini Robotics 2 Brings Google&#x27;s AI Into the Physical World" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-gemini-can-control-humanoid-robots/" target="_blank">Gemini Robotics 2 Brings Google&#x27;s AI Into the Physical World</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-30 15:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,9 +171,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/schiff_heimlich/set-e-will-kill-your-script-for-no-good-reason-175h" target="_blank">set -e Will Kill Your Script For No Good Reason</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-30 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/otaready/one-contract-multiple-enforcement-points-for-safe-ai-agent-execution-15o8" target="_blank">One Contract, Multiple Enforcement Points for Safe AI Agent Execution</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-30 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/" target="_blank">Physicists Solve a Muon Mystery. Now, Old Results Don&#x27;t Add Up</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-30 15:22</span>
             </div>
         </div>
 <div class="story">
@@ -205,24 +221,6 @@
                 <span class="time">2026-07-30 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/disaggregation-industrial-systems/en/mediumimage/murat-demirbas-medium-1784809202010.jpg" alt="Presentation: Parting the Clouds: The Rise of Disaggregated Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/disaggregation-industrial-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Parting the Clouds: The Rise of Disaggregated Systems</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-30 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://remysharp.com/links/2026-07-23-35890312" target="_blank">&#x27;VPNs are lawful technical tools,&#x27; says EU Court in landmark copyright ruling</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-30 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,20 +244,29 @@
                 <span class="time">2026-07-30 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html" target="_blank">Measuring the Tendency of AI Agents to Go Rogue</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-29 17:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/eso2.jpg" alt="The Elder Scrolls Online Delays Big Features After Mass Layoffs: ‘I Expected Drip Feed But This Is Brutal’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-elder-scrolls-online-delays-big-features-after-mass-layoffs-i-expected-drip-feed-but-this-is-brutal-2000720507" target="_blank">The Elder Scrolls Online Delays Big Features After Mass Layoffs: ‘I Expected Drip Feed But This Is Brutal’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-30 17:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYSTSJ4CP2TD4MNXRRQ234K7/hero-image.jpg" alt="The Pixel 11&#x27;s Biggest New Feature Might Be Its Inflated Price Tag" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-pixel-11s-biggest-new-feature-might-be-its-inflated-price-tag?utm_medium=RSS" target="_blank">The Pixel 11&#x27;s Biggest New Feature Might Be Its Inflated Price Tag</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-30 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/62srSqZfJbdeavBLazN3sn-1280x720.jpg" alt="10 Games To Satisfy Your Silksong Cravings While We Wait For New DLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,24 +301,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/30/marmots-now-have-an-onlyfans-account-to-fund-research.html" target="_blank">Marmots now have an OnlyFans account to fund research</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-30 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYSGG93Z4D1PBT1CHG60EBF3/hero-image.jpg" alt="These Shokz Clip-On Headphones Are 30% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/shokz-opendots-one-clip-on-headphones-sale-july-2026?utm_medium=RSS" target="_blank">These Shokz Clip-On Headphones Are 30% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-30 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYQN0RAANFT0SCMMPPMB2T45/hero-image.png" alt="Spotify Just Launched a New Running Mode, and I&#x27;m Surprised How Much I Love It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/spotify-new-running-mode-impressions?utm_medium=RSS" target="_blank">Spotify Just Launched a New Running Mode, and I&#x27;m Surprised How Much I Love It</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-30 13:00</span>
             </div>
         </div>
 </div>
@@ -351,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 17:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
