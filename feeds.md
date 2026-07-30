@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 15:35:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-30 16:28:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 14 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 15:35 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 16:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +52,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-8-gty-gmh-260729_1785354603688_hpMain_4x3t_384.jpg" alt="Trump floats temporarily withdrawing Blanche&#x27;s AG nomination over GOP holdouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/gops-cornyn-continues-block-todd-blanche-attorney-general/story?id=135228494" target="_blank">Trump floats temporarily withdrawing Blanche&#x27;s AG nomination over GOP holdouts</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-30 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation" target="_blank">The economy slowed a bit -- but Americans continued to spend</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-30 14:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b68/live/37bfd650-8654-11f1-8bc3-95f8c3a93002.jpg" alt="Drought declared across whole of Wales as conditions &#x27;deteriorate&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss" target="_blank">Drought declared across whole of Wales as conditions &#x27;deteriorate&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-30 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries" target="_blank">US government map of Africa mislabels every country at global conference</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-30 13:59</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +105,47 @@
                 <span class="time">2026-07-30 13:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/30/england-appoint-root-and-fleming-as-test-cricket-captain-and-coach?traffic_source=rss" target="_blank">England appoint Root and Fleming as Test cricket captain and coach</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-30 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan" target="_blank">Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-30 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43f2/live/f9315470-8c09-11f1-a7ab-8b30adf0800a.jpg" alt="UK on track for record heat-related deaths this year, UKHSA estimates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0m78g01r8jo?at_medium=RSS&at_campaign=rss" target="_blank">UK on track for record heat-related deaths this year, UKHSA estimates</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-30 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/" target="_blank">Okta buys AI security startup Permiso; source says for about $200M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-30 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6a649d6a06c49f95fa2cca/master/pass/CAR.jpg" alt="The New Friend AI Pendant Can Now Talk Back to You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/" target="_blank">The New Friend AI Pendant Can Now Talk Back to You</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-4-500x500-1785423728.png" alt="Quantum computers outperform classical ones, with results you can trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/" target="_blank">Quantum computers outperform classical ones, with results you can trust</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-30 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/973173/asus-rog-rtx-5080-price-hike-best-buy" target="_blank">Best Buy is selling an RTX 5080 for more than the RTX 5090’s MSRP</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-30 15:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -123,47 +164,29 @@
                 <span class="time">2026-07-30 15:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/MCP-logo-500x500.jpg" alt="New MCP specification addresses the main barrier to enterprise adoption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/" target="_blank">New MCP specification addresses the main barrier to enterprise adoption</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-30 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval" target="_blank">Zoox can now charge for rides in its steering-wheel-free robotaxis</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-30 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/" target="_blank">TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-30 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/" target="_blank">FTC sues Hims &amp; Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-30 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/otaready/one-contract-multiple-enforcement-points-for-safe-ai-agent-execution-15o8" target="_blank">One Contract, Multiple Enforcement Points for Safe AI Agent Execution</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-30 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/" target="_blank">Gemini Robotics 2 brings whole body intelligence to robots</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-30 15:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,29 +223,20 @@
                 <span class="time">2026-07-30 13:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lwn.net/Articles/1086041/" target="_blank">GCC steering committee announces AI policy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-30 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/AI-research-into-action/en/headerimage/header-1784099949941.jpg" alt="AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/AI-research-into-action/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-30 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html" target="_blank">American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-30 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -246,6 +260,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/62srSqZfJbdeavBLazN3sn-1280x720.jpg" alt="10 Games To Satisfy Your Silksong Cravings While We Wait For New DLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hollow-knight-silksong-game-recommendations-blasphemous-super-metroid-2000720471" target="_blank">10 Games To Satisfy Your Silksong Cravings While We Wait For New DLC</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYSTTEM3CKS4QHRDD3ZEG31J/hero-image.png" alt="This Anker Charging Station Is 30% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-prime-charging-station-sale-july-2026?utm_medium=RSS" target="_blank">This Anker Charging Station Is 30% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-30 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/05_GoW_EDAY_PlaysLikeNew_Final-7ef1be5a3c94e92a7462-1900x1080-1-1280x728.jpg" alt="Gears Of War: E-Day Multiplayer Promises No Premium Battle Pass Bullsh*t: ‘Almost All Of It Can Be Earned Through Gameplay’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,29 +314,20 @@
                 <span class="time">2026-07-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Tippi_Hedren_and_her_husband_Noel_Marshall.jpg?fit=451%2C600&amp;quality=60&amp;ssl=1" alt="A family filmed with untrained lions and most of the crew got hurt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/30/roar-most-dangerous-film.html" target="_blank">A family filmed with untrained lions and most of the crew got hurt</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-30 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/Dell-Ram-chart-inverted-Kinek00-Kotaku-ShutterStock.jpg" alt="RAM Manufacturer Gets Pummeled By Stock Market For Only Making $55 Billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ram-manufacturer-gets-pummeled-by-stock-market-for-only-making-55-billion-2000720432" target="_blank">RAM Manufacturer Gets Pummeled By Stock Market For Only Making $55 Billion</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-30 11:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1785374027-20260730.png" alt="Saturday Morning Breakfast Cereal - Crank" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/crank" target="_blank">Saturday Morning Breakfast Cereal - Crank</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-07-30 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5884.png" alt="All Ankles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -328,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 15:35 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
