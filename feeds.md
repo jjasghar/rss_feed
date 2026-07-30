@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 13:30:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-30 14:43:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 13:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 14:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +108,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval" target="_blank">Zoox can now charge for rides in its steering-wheel-free robotaxis</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-30 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/" target="_blank">TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-30 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/" target="_blank">FTC sues Hims &amp; Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap</a></span>
                 <span class="feed">TechCrunch</span>
@@ -140,29 +159,29 @@
                 <span class="time">2026-07-30 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6a62d82adda589c3c4de65/master/pass/The-Best-Shower-Filters-for-Removing-Chlorine-and-PFAS.jpg" alt="7 Best Shower Filters of 2026 Are WIRED-Tested and -Approved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-shower-water-filters/" target="_blank">7 Best Shower Filters of 2026 Are WIRED-Tested and -Approved</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-30 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan" target="_blank">SwitchBot makes a better fan</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-30 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/disaggregation-industrial-systems/en/mediumimage/murat-demirbas-medium-1784809202010.jpg" alt="Presentation: Parting the Clouds: The Rise of Disaggregated Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/disaggregation-industrial-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Parting the Clouds: The Rise of Disaggregated Systems</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-30 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://remysharp.com/links/2026-07-23-35890312" target="_blank">&#x27;VPNs are lawful technical tools,&#x27; says EU Court in landmark copyright ruling</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-30 13:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +218,6 @@
                 <span class="time">2026-07-30 10:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17396275/orionchat" target="_blank">I Found a Simple Open WebUI Alternative for Running Ollama Models in a Web Browser</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-30 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Huawei-Half-Open-Mesa-Vulkan" target="_blank">Huawei Considers Open-Sourcing A Half-Hearted Mesa Vulkan Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-30 10:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYSGG93Z4D1PBT1CHG60EBF3/hero-image.jpg" alt="These Shokz Clip-On Headphones Are 30% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/shokz-opendots-one-clip-on-headphones-sale-july-2026?utm_medium=RSS" target="_blank">These Shokz Clip-On Headphones Are 30% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-30 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KYQN0RAANFT0SCMMPPMB2T45/hero-image.png" alt="Spotify Just Launched a New Running Mode, and I&#x27;m Surprised How Much I Love It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +300,6 @@
                 <span class="time">2026-07-29 22:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/xbox-logo2-1280x720.jpg" alt="Microsoft CEO Says Xbox Will ‘Return To Growth’ This Fiscal Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-ceo-says-xbox-will-return-to-growth-this-fiscal-year-2000720333" target="_blank">Microsoft CEO Says Xbox Will ‘Return To Growth’ This Fiscal Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-29 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 39 | 📸 With Images: 261 |
-        🔄 Last Updated: 13:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 14:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
