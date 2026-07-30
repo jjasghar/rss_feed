@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 00:19:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-30 01:30:36 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 00:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-18-gty-260727_1785180946243_hpMain_4x3t_384.jpg" alt="Iran live updates: US begins retaliatory strikes against Iran, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: US begins retaliatory strikes against Iran, CENTCOM says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-30 00:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +97,6 @@
                 <span class="time">2026-07-29 21:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers" target="_blank">The Trump administration&#x27;s move to end subsidies for Medicare drug plans could cost consumers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-29 20:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +109,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed" target="_blank">Microsoft confirms Copilot ‘super app’ coming this year</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-29 22:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-500x500.jpg" alt="Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/" target="_blank">Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-29 22:07</span>
             </div>
         </div>
 <div class="story">
@@ -151,20 +156,20 @@
                 <span class="time">2026-07-29 18:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/972583/apple-upgrade-program-deal" target="_blank">What’s the catch with the Apple Upgrade program?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-29 18:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.5-Released" target="_blank">COSMIC Epoch 1.5 Brings More Fixes &amp; Improvements To System76&#x27;s Desktop</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-30 00:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/02/GNOME-48.jpg?resize=406%2C232&amp;ssl=1" alt="Mosaic is an i3-style auto-tiling extension for GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/openk3/kimi-k3-open-weights-what-shipped-and-how-the-repository-is-actually-organized-48md" target="_blank">Kimi K3 Open Weights: What Shipped and How the Repository Is Actually Organized</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-29 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.kimi.com/code/docs/en/kimi-code/models" target="_blank">Kimi K3-256k</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-29 19:25</span>
             </div>
         </div>
 </div>
@@ -351,22 +347,13 @@
                 <span class="time">2026-07-29 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5883.png" alt="All Elbows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5883" target="_blank">All Elbows</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-29 00:26</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 00:19 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
