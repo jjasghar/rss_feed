@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-07-29 23:18:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-30 00:19:24 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, July 29, 2026 - 23:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 00:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,10 +50,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss" target="_blank">Iran war live: Trump threatens to hit back hard over strikes on Jordan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-30 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin" target="_blank">Animal spillover? Lab leak? What the science says about the origins of COVID-19</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-29 23:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/netanyahu-5-abc-gmh-260729_1785349159346_hpMain_4x3t_384.jpg" alt="&#x27;It&#x27;s his decision&#x27;: Netanyahu says choice on how to proceed with Iran is Trump&#x27;s" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/decision-netanyahu-choice-proceed-iran-trumps/story?id=135203352" target="_blank">&#x27;It&#x27;s his decision&#x27;: Netanyahu says choice on how to proceed with Iran is Trump&#x27;s</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-29 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/x_nn_llamas_pope_extended_260729.00_00_27_02.Still001-w325bo.jpg" alt="Pope Leo XIV reflects on being the first American pope" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/pope-leo-xiv-reflects-on-being-the-first-american-pope-267483717647" target="_blank">Pope Leo XIV reflects on being the first American pope</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-29 22:51</span>
             </div>
         </div>
 <div class="story">
@@ -70,33 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers" target="_blank">The Trump administration&#x27;s move to end subsidies for Medicare drug plans could cost consumers</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-29 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/hormuz-gty-jef-260729_1785334006559_hpMain_4x3t_384.jpg" alt="Oil prices surge after Trump vows retaliation for Iranian attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/oil-prices-surge-after-trump-vows-retaliation-iranian/story?id=135185546" target="_blank">Oil prices surge after Trump vows retaliation for Iranian attack</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-29 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss" target="_blank">Videos show aftermath of US-Saudi strikes on Iraq PMF bases</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-29 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/fed-reserve-gty-jef-260727_1785180551833_hpMain_4x3t_384.jpg" alt="Fed holds interest rates steady as economy weathers resurgent inflation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/fed-issue-interest-rate-decision-gas-prices-rise/story?id=135130446" target="_blank">Fed holds interest rates steady as economy weathers resurgent inflation</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-29 18:59</span>
             </div>
         </div>
 </div>
@@ -363,8 +365,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 23:18 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 00:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
