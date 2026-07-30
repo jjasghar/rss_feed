@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 08:51:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-30 09:47:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 08:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 09:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/construction-gty-jt-260728_1785263432446_hpMain_4x3t_384.jpg" alt="Government report to show how US economy performed amid Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/government-report-show-us-economy-performed-amid-iran/story?id=135152547" target="_blank">Government report to show how US economy performed amid Iran war</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-30 09:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss" target="_blank">Apartheid wealth cannot buy silence on Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-30 09:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/30/nx-s1-5909222/parasite-cyclospora-outbreak-odyssey-nolan" target="_blank">Here&#x27;s how &#x27;parasite&#x27; went from a laughing matter to a serious biological threat</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-30 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,33 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss" target="_blank">US strikes cause extensive damage on Iran’s Qeshm Island</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-30 07:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/30/storm-apologize-after-co-owner-berates-teen-girls-for-support-of-cunningham?traffic_source=rss" target="_blank">Storm apologize after co-owner berates teen girls for support of Cunningham</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-30 06:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b19/live/7de7b8e0-8b87-11f1-af36-51c4f770e76f.png" alt="Homes and caravan park evacuated due to major heath fire in Suffolk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss" target="_blank">Homes and caravan park evacuated due to major heath fire in Suffolk</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-30 06:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds" target="_blank">A quarter of young Africans believe USAID cuts could be positive, survey finds</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-30 05:00</span>
             </div>
         </div>
 </div>
@@ -164,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/opdev1004/rinojs-3-building-modern-websites-without-a-frontend-framework-4h7p" target="_blank">Rino.js 3, Building Modern Websites Without a Frontend Framework</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-30 09:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/07/lambda-self-managed-storage/en/headerimage/generatedHeaderImage-1784880181733.jpg" alt="AWS Lambda&#x27;s Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -206,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.5-Released" target="_blank">COSMIC Epoch 1.5 Brings More Fixes &amp; Improvements To System76&#x27;s Desktop</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-30 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/02/GNOME-48.jpg?resize=406%2C232&amp;ssl=1" alt="Mosaic is an i3-style auto-tiling extension for GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/07/mosaic-automatic-window-tiling-gnome-shell" target="_blank">Mosaic is an i3-style auto-tiling extension for GNOME Shell</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-07-29 22:26</span>
             </div>
         </div>
 </div>
@@ -337,7 +335,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 08:51 UTC
+        🔄 Last Updated: 09:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
