@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 01:30:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-07-30 02:58:28 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/CENTCOM729_1785378864233_hpMain_4x3t_384.jpg" alt="Iran live updates: US completes &#x27;heavy wave&#x27; of strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: US completes &#x27;heavy wave&#x27; of strikes on Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-30 02:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-18-gty-260727_1785180946243_hpMain_4x3t_384.jpg" alt="Iran live updates: US begins retaliatory strikes against Iran, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +99,20 @@
                 <span class="time">2026-07-29 22:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss" target="_blank">Is FIFA selling parts of the World Cup to private investors?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-29 21:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/" target="_blank">Microsoft is openly competing with OpenAI, Anthropic more than ever</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-30 00:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/dyson-vacuum-comparison-2026/" target="_blank">Which of Dyson’s 2026 Vacuum Models Is the Best?</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-29 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/" target="_blank">Claude Opus 5 became downright ruthless when tasked with running a vending machine</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-29 18:45</span>
             </div>
         </div>
 </div>
@@ -238,20 +240,29 @@
                 <span class="time">2026-07-29 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html" target="_blank">Measuring LLMs’ Ability to Perform Cryptanalysis</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-29 01:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Glen.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Oscar-winning Once singer Glen Hansard dies in a Dublin crash at 56" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/29/oscar-winning-once-singer-glen-hansard-dies-in-a-dublin-crash-at-56.html" target="_blank">Oscar-winning Once singer Glen Hansard dies in a Dublin crash at 56</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-30 01:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/xbox-logo2-1280x720.jpg" alt="Here’s How Microsoft’s CEO Spoke About Xbox A Year Ago Vs. Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-ceo-says-xbox-will-return-to-growth-this-fiscal-year-2000720333" target="_blank">Here’s How Microsoft’s CEO Spoke About Xbox A Year Ago Vs. Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-29 22:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/xbox-logo2-1280x720.jpg" alt="Microsoft CEO Says Xbox Will ‘Return To Growth’ This Fiscal Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,29 +299,20 @@
                 <span class="time">2026-07-29 21:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/dragons-dogma-2-dlc-trailer-1280x720.jpg" alt="Dragon’s Dogma 2: Dark Arisen Developers Say They Aren’t Nerfing Dragonsplague—Just Making It More Clear" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dragons-dogma-2-dark-arisen-developers-say-they-arent-nerfing-dragonsplague-just-making-it-more-clear-2000720220" target="_blank">Dragon’s Dogma 2: Dark Arisen Developers Say They Aren’t Nerfing Dragonsplague—Just Making It More Clear</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-29 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYAE830XW3TR5MY7AGRM7Q2G/hero-image.jpg" alt="10 Hacks Every Even Realities G2 Smart Glasses User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-for-even-realities-g2-glasses?utm_medium=RSS" target="_blank">10 Hacks Every Even Realities G2 Smart Glasses User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-29 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5884.png" alt="All Ankles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5884" target="_blank">All Ankles</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-30 01:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -352,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
