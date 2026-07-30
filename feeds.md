@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 17:28:42 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-07-30 18:26:19 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 17:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 18:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss" target="_blank">Turtle rescued from rubble a month after Venezuela earthquake</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-30 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/30/nx-s1-5913172/freedom-250-july-fourth-10-million" target="_blank">The Trump administration wants $10 million more to cover its July Fourth celebrations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-30 17:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +93,20 @@
                 <span class="time">2026-07-30 14:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b68/live/37bfd650-8654-11f1-8bc3-95f8c3a93002.jpg" alt="Drought declared across whole of Wales as conditions &#x27;deteriorate&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss" target="_blank">Drought declared across whole of Wales as conditions &#x27;deteriorate&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-30 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries" target="_blank">US government map of Africa mislabels every country at global conference</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-30 13:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/" target="_blank">LinkedIn adds a button to report AI-generated ‘slop’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-30 18:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +152,20 @@
                 <span class="time">2026-07-30 15:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/973173/asus-rog-rtx-5080-price-hike-best-buy" target="_blank">Best Buy is selling an RTX 5080 for more than the RTX 5090’s MSRP</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-30 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/" target="_blank">Stacked sessions and pull requests in the GitHub Copilot app</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-07-30 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,20 +211,20 @@
                 <span class="time">2026-07-30 15:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/nvidia-rtx-5090-laptop-linux" target="_blank">Nouveau vs. NVIDIA R610 On CachyOS With The GeForce RTX 5090 Laptop GPU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-30 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/" target="_blank">Read This Before You Buy That TV Streaming Stick</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-07-30 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -249,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYSZTB956GQ0T4MYBDXTJWY3/hero-image.jpg" alt="If You Loved ‘Stuart Fails to Save the Universe,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-movie-to-watch-after-stuart-fails-to-save-the-universe?utm_medium=RSS" target="_blank">If You Loved ‘Stuart Fails to Save the Universe,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-30 17:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/eso2.jpg" alt="The Elder Scrolls Online Delays Big Features After Mass Layoffs: ‘I Expected Drip Feed But This Is Brutal’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +302,6 @@
                 <span class="time">2026-07-30 15:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Image-OnlyMarms.jpg?fit=1080%2C513&amp;quality=60&amp;ssl=1" alt="Marmots now have an OnlyFans account to fund research" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/30/marmots-now-have-an-onlyfans-account-to-fund-research.html" target="_blank">Marmots now have an OnlyFans account to fund research</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-30 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 17:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 18:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
