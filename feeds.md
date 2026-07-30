@@ -1,39 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 11:34:22 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-30 12:29:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 11:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 12:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +55,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/30/england-appoint-root-and-fleming-as-test-cricket-captain-and-coach?traffic_source=rss" target="_blank">England appoint Root and Fleming as Test cricket captain and coach</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-30 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan" target="_blank">Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-30 11:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43f2/live/f9315470-8c09-11f1-a7ab-8b30adf0800a.jpg" alt="UK on track for record heat-related deaths this year, UKHSA estimates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0m78g01r8jo?at_medium=RSS&at_campaign=rss" target="_blank">UK on track for record heat-related deaths this year, UKHSA estimates</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-30 11:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785409998900_tdy_news_7a_gutierrez_iran_war_260730_S3_1920x1080-5lw60w.jpg" alt="US Strikes Iran in Wake of Surprise Attack on American Forces" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-launches-retaliatory-strikes-on-iran-following-surprise-attack-267503173784" target="_blank">US Strikes Iran in Wake of Surprise Attack on American Forces</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-30 11:13</span>
             </div>
         </div>
 <div class="story">
@@ -76,38 +108,20 @@
                 <span class="time">2026-07-30 09:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss" target="_blank">US hits multiple targets in Iran as IRGC pledges retaliation: What we know</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-30 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/construction-gty-jt-260728_1785263432446_hpMain_4x3t_384.jpg" alt="Government report to show how US economy performed amid Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/government-report-show-us-economy-performed-amid-iran/story?id=135152547" target="_blank">Government report to show how US economy performed amid Iran war</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-30 09:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss" target="_blank">Apartheid wealth cannot buy silence on Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-30 09:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review" target="_blank">A second lens makes DJI’s Osmo Pocket 4P my new favorite video camera</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-30 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a6a62d82adda589c3c4de65/master/pass/The-Best-Shower-Filters-for-Removing-Chlorine-and-PFAS.jpg" alt="7 Best Shower Filters of 2026 Are WIRED-Tested and -Approved" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +167,29 @@
                 <span class="time">2026-07-29 22:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-500x500.jpg" alt="Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/" target="_blank">Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-29 22:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lwn.net/Articles/1086041/" target="_blank">GCC steering committee announces AI policy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-30 11:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/AI-research-into-action/en/headerimage/header-1784099949941.jpg" alt="AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/AI-research-into-action/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-30 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,29 +226,20 @@
                 <span class="time">2026-07-30 10:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/opdev1004/rinojs-3-building-modern-websites-without-a-frontend-framework-4h7p" target="_blank">Rino.js 3, Building Modern Websites Without a Frontend Framework</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-30 09:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/lambda-self-managed-storage/en/headerimage/generatedHeaderImage-1784880181733.jpg" alt="AWS Lambda&#x27;s Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/lambda-self-managed-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Lambda&#x27;s Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-30 07:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html" target="_blank">Should You Use AI for a Task? Here’s a Simple Way to Decide</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-30 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -240,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Tippi_Hedren_and_her_husband_Noel_Marshall.jpg?fit=451%2C600&amp;quality=60&amp;ssl=1" alt="A family filmed with untrained lions and most of the crew got hurt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/30/roar-most-dangerous-film.html" target="_blank">A family filmed with untrained lions and most of the crew got hurt</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-30 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/Dell-Ram-chart-inverted-Kinek00-Kotaku-ShutterStock.jpg" alt="RAM Manufacturer Gets Pummeled By Stock Market For Only Making $55 Billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +308,6 @@
                 <span class="time">2026-07-29 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/adbafffe54439bcfbfc6e78ceeff473d-1280x720.jpg" alt="Here’s Why GTA 6 Fans Are Convinced That After Waiting Over A Year, Trailer 3 Is Coming Soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/heres-why-gta-6-fans-are-convinced-that-after-waiting-over-a-year-trailer-3-is-coming-soon-2000720315" target="_blank">Here’s Why GTA 6 Fans Are Convinced That After Waiting Over A Year, Trailer 3 Is Coming Soon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-29 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 39 | 📸 With Images: 261 |
-        🔄 Last Updated: 11:34 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 261 |
+        🔄 Last Updated: 12:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
