@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 06:48:15 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-07-30 07:45:22 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 06:48 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 07:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss" target="_blank">US strikes cause extensive damage on Iran’s Qeshm Island</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-30 07:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +101,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss" target="_blank">US launches &#x27;heavy&#x27; strikes on Iran after attempted attack on American troops</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-30 03:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/CENTCOM729_1785378864233_hpMain_4x3t_384.jpg" alt="Iran live updates: US completes &#x27;heavy wave&#x27; of strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: US completes &#x27;heavy wave&#x27; of strikes on Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-30 02:41</span>
             </div>
         </div>
 </div>
@@ -168,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/samsonpg/i-built-tryquickimg-compress-heicjpgpng-in-the-browser-no-upload-4bn0" target="_blank">I built TryQuickImg: compress HEIC/JPG/PNG in the browser — no upload</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-30 07:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/surajrkhonde/episode-7-local-development-15ba" target="_blank">Episode 7: Local Development</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-30 05:43</span>
@@ -207,15 +219,6 @@
                 <span class="title"><a href="https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research" target="_blank">AI&#x27;s top startups are barely publishing their research</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-29 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jarrod2112/building-an-ai-operating-layer-episode-1-why-i-didnt-start-sooner-5ab9" target="_blank">Building an AI Operating Layer - Episode 1: Why I Didn&#x27;t Start Sooner</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-29 21:04</span>
             </div>
         </div>
 </div>
@@ -332,22 +335,13 @@
                 <span class="time">2026-07-29 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/29/cyberbullies" target="_blank">Cyberbullies</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-29 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 06:48 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 07:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
