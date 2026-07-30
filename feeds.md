@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 22:20:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-30 23:19:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 22:20 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 23:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss" target="_blank">Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-30 22:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026" target="_blank">Mortgage rates hit their highest level in a year, driven by war and inflation concerns</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-30 20:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +104,6 @@
                 <span class="time">2026-07-30 18:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-yalda-hakim-theresa-may_7309773.jpg?20260730155957" alt="&#x27;Once a KGB man, always a KGB man&#x27;: Why Theresa May&#x27;s view on Russia hasn&#x27;t changed in a world that has" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/once-a-kgb-man-always-a-kgb-man-why-theresa-mays-view-on-russia-hasnt-changed-in-a-world-that-has-13568568" target="_blank">&#x27;Once a KGB man, always a KGB man&#x27;: Why Theresa May&#x27;s view on Russia hasn&#x27;t changed in a world that has</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-07-30 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/30/nx-s1-5913172/freedom-250-july-fourth-10-million" target="_blank">The Trump administration wants $10 million more to cover its July Fourth celebrations</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-30 17:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,9 +113,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai" target="_blank">Tim Cook hints at iCloud Plus tier for AI power users</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-30 22:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth" target="_blank">Xbox CEO says the team has one year to start growing again</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-30 22:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-869824586-500x500.jpg" alt="Tim Cook passes the baton in Apple&#x27;s Q3 2026 earnings call" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/" target="_blank">Tim Cook passes the baton in Apple&#x27;s Q3 2026 earnings call</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-30 22:05</span>
             </div>
         </div>
 <div class="story">
@@ -139,29 +163,20 @@
                 <span class="time">2026-07-30 20:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/discburn-500x500.jpg" alt="The disc is not the game: Physical releases increasingly require extra downloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/" target="_blank">The disc is not the game: Physical releases increasingly require extra downloads</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-30 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-500x500.png" alt="Chrome may get faster updates with no restart required" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/" target="_blank">Chrome may get faster updates with no restart required</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-30 19:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shubham_shaw_63d2b4bec156/exploring-webassembly-on-the-server-beyond-the-browser-sandbox-382i" target="_blank">Exploring WebAssembly on the Server: Beyond the Browser Sandbox</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-30 22:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +222,6 @@
                 <span class="time">2026-07-30 18:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/" target="_blank">Stacked sessions and pull requests in the GitHub Copilot app</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-30 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -253,6 +259,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/slops-1280x853.jpg" alt="Microsoft Adds ‘Seems Like AI Slop’ Button To LinkedIn After Just Spending $41 Billion On AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-adds-seems-like-ai-slop-button-to-linkedin-after-just-spending-41-billion-on-ai-2000720593" target="_blank">Microsoft Adds ‘Seems Like AI Slop’ Button To LinkedIn After Just Spending $41 Billion On AI</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-30 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/EA-logored-1280x720.jpg" alt="EA Says Its $55 Billion Sale To Saudi Arabia And Private Equity Will Go Through Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,15 +313,6 @@
                 <span class="time">2026-07-30 19:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYSZTB956GQ0T4MYBDXTJWY3/hero-image.jpg" alt="If You Loved ‘Stuart Fails to Save the Universe,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-movie-to-watch-after-stuart-fails-to-save-the-universe?utm_medium=RSS" target="_blank">If You Loved ‘Stuart Fails to Save the Universe,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-30 17:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 39 | 📸 With Images: 259 |
-        🔄 Last Updated: 22:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 23:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
