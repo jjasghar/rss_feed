@@ -1,44 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 12:29:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-30 13:30:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 35 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 12:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 13:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot" target="_blank">Alien Terrorist Removal Court to hold its first-ever hearing after 30 years</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-30 13:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -99,20 +99,38 @@
                 <span class="time">2026-07-30 10:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war" target="_blank">Russian strikes across Ukraine kill at least 8 civilians and wound dozens</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-30 09:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/" target="_blank">FTC sues Hims &amp; Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-30 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6a95ab56a0931a8adbd7bc/master/pass/Politics_DOGE%20Veteran%20Takes%20Leadership%20Role%20at%20Polymarket_v1.jpg" alt="DOGE Veterans Are Landing Big Jobs at Prediction Markets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/doge-veterans-are-landing-big-jobs-at-prediction-markets/" target="_blank">DOGE Veterans Are Landing Big Jobs at Prediction Markets</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-30 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists" target="_blank">Spotify Running Mode helps match tunes to tempo</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-30 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,33 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan" target="_blank">SwitchBot makes a better fan</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-30 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="Nike Promo Codes and Discounts: 30% for August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nike-promo-code/" target="_blank">Nike Promo Codes and Discounts: 30% for August 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-30 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/" target="_blank">Microsoft is openly competing with OpenAI, Anthropic more than ever</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-30 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed" target="_blank">Microsoft confirms Copilot ‘super app’ coming this year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-29 22:17</span>
             </div>
         </div>
 </div>
@@ -255,6 +246,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYQN0RAANFT0SCMMPPMB2T45/hero-image.png" alt="Spotify Just Launched a New Running Mode, and I&#x27;m Surprised How Much I Love It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/spotify-new-running-mode-impressions?utm_medium=RSS" target="_blank">Spotify Just Launched a New Running Mode, and I&#x27;m Surprised How Much I Love It</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-30 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Tippi_Hedren_and_her_husband_Noel_Marshall.jpg?fit=451%2C600&amp;quality=60&amp;ssl=1" alt="A family filmed with untrained lions and most of the crew got hurt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -299,15 +299,6 @@
                 <span class="time">2026-07-29 22:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYQP24DE4BS3YF9E89GH9MDZ/hero-image.png" alt="This Is the Robot Vacuum I Use Every Day, and It&#x27;s 47% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/roborock-qrevo-curvx-deal-july-2026?utm_medium=RSS" target="_blank">This Is the Robot Vacuum I Use Every Day, and It&#x27;s 47% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-29 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -345,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 261 |
-        🔄 Last Updated: 12:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 39 | 📸 With Images: 261 |
+        🔄 Last Updated: 13:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
