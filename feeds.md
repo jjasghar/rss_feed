@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 18:26:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-30 19:28:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 18:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -99,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-500x500.png" alt="Chrome may get faster updates with no restart required" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/" target="_blank">Chrome may get faster updates with no restart required</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-30 19:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -143,20 +156,38 @@
                 <span class="time">2026-07-30 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-4-500x500-1785423728.png" alt="Quantum computers outperform classical ones, with results you can trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/" target="_blank">Quantum computers outperform classical ones, with results you can trust</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-30 15:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/revenueclaw/raspberry-pi-5-price-history-how-far-have-prices-come-187h" target="_blank">Raspberry Pi 5 Price History: How Far Have Prices Come?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-30 19:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/" target="_blank">UEFA and its national associations will not participate in FIFA competitions</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-30 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-2.1-ALLM" target="_blank">AMD Posts Linux Patches For HDMI 2.1 Auto Low-Latency Mode &quot;ALLM&quot; &amp; VRR</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-30 18:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,37 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/otaready/one-contract-multiple-enforcement-points-for-safe-ai-agent-execution-15o8" target="_blank">One Contract, Multiple Enforcement Points for Safe AI Agent Execution</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-30 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/" target="_blank">Physicists Solve a Muon Mystery. Now, Old Results Don&#x27;t Add Up</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-30 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/" target="_blank">Gemini Robotics 2 brings whole body intelligence to robots</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-30 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/07/30/introducing-stack-internal-new-platform-experience/" target="_blank">Your trusted knowledge layer: Introducing Stack Internal&#x27;s new platform experience​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‌‌‍‌​‌‍​﻿‌‍‌‍​﻿​‌‌‍​‍‌‍​﻿‌‍​‌​‍﻿‌​﻿​﻿​﻿​‍​﻿‍‌​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌‌​‍﻿‌​﻿‍‌‌‍​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿​‍​﻿​﻿‌‍‌‍​﻿​﻿​﻿​﻿​﻿‌﻿​﻿‍‌​﻿‌﻿​﻿‌​​﻿​‌​﻿‍‌​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‌‌‍‌​‌‍​﻿‌‍‌‍​﻿​‌‌‍​‍‌‍​﻿‌‍​‌​‍﻿‌​﻿​﻿​﻿​‍​﻿‍‌​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌‌​‍﻿‌​﻿‍‌‌‍​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿​‍​﻿​﻿‌‍‌‍​﻿​﻿​﻿​﻿​﻿‌﻿​﻿‍‌​﻿‌﻿​﻿‌​​﻿​‌​﻿‍‌​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-07-30 15:10</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17396525/keychron-zgm-mouse-firmware" target="_blank">Keychron Built Open Source Firmware for Gaming Mice, and Linux Users Stand to Gain the Most</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-30 16:42</span>
             </div>
         </div>
 </div>
@@ -325,22 +329,13 @@
                 <span class="time">2026-07-30 01:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/29/cyberbullies" target="_blank">Cyberbullies</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-29 18:46</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 18:26 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
