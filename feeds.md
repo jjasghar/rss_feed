@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 02:58:28 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-30 04:03:58 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 04:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +42,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/30/aje-onl-nf_dramatic-sea-rescue-as-firefighters-die-in-greece-290726?traffic_source=rss" target="_blank">Dramatic sea rescue as firefighters die on the Greek island of Crete</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-30 03:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7724/live/4674b810-8bb2-11f1-b2ab-0dd01740f9f6.jpg" alt="US launches &#x27;heavy&#x27; strikes on Iran after attempted attack on American troops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss" target="_blank">US launches &#x27;heavy&#x27; strikes on Iran after attempted attack on American troops</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-30 03:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/CENTCOM729_1785378864233_hpMain_4x3t_384.jpg" alt="Iran live updates: US completes &#x27;heavy wave&#x27; of strikes on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: US completes &#x27;heavy wave&#x27; of strikes on Iran</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-30 02:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c653/live/f6fd7a60-8b8e-11f1-9432-3dcf466331f0.png" alt="Burnham says nuclear sub investment will protect UK and boost jobs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says nuclear sub investment will protect UK and boost jobs</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-30 02:36</span>
             </div>
         </div>
 <div class="story">
@@ -70,33 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss" target="_blank">Iran war live: Trump threatens to hit back hard over strikes on Jordan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-30 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin" target="_blank">Animal spillover? Lab leak? What the science says about the origins of COVID-19</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-29 23:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/netanyahu-5-abc-gmh-260729_1785349159346_hpMain_4x3t_384.jpg" alt="&#x27;It&#x27;s his decision&#x27;: Netanyahu says choice on how to proceed with Iran is Trump&#x27;s" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/decision-netanyahu-choice-proceed-iran-trumps/story?id=135203352" target="_blank">&#x27;It&#x27;s his decision&#x27;: Netanyahu says choice on how to proceed with Iran is Trump&#x27;s</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-29 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/x_nn_llamas_pope_extended_260729.00_00_27_02.Still001-w325bo.jpg" alt="Pope Leo XIV reflects on being the first American pope" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/pope-leo-xiv-reflects-on-being-the-first-american-pope-267483717647" target="_blank">Pope Leo XIV reflects on being the first American pope</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-29 22:51</span>
             </div>
         </div>
 </div>
@@ -166,6 +162,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four" target="_blank">NSF pilots 4-year PhDs with industry research placements</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-30 02:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.5-Released" target="_blank">COSMIC Epoch 1.5 Brings More Fixes &amp; Improvements To System76&#x27;s Desktop</a></span>
                 <span class="feed">Phoronix</span>
@@ -206,15 +211,6 @@
                 <span class="title"><a href="https://christianselig.com/2026/07/vision-pro-house/" target="_blank">The coolest use for the Vision Pro</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-29 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/openk3/kimi-k3-open-weights-what-shipped-and-how-the-repository-is-actually-organized-48md" target="_blank">Kimi K3 Open Weights: What Shipped and How the Repository Is Actually Organized</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-29 20:04</span>
             </div>
         </div>
 </div>
@@ -340,22 +336,13 @@
                 <span class="time">2026-07-29 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/vera_rubin_observatory.png" alt="Vera Rubin Observatory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3278/" target="_blank">Vera Rubin Observatory</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-07-29 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 04:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
