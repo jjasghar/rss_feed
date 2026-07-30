@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 21:22:14 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-30 22:20:25 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 21:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 22:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +107,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth" target="_blank">Xbox CEO says the team has one year to start growing again</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-30 22:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/973430/apple-q3-2026-earnings" target="_blank">Apple&amp;#8217;s iPhone and Mac sales keep growing despite RAM shortages</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-07-30 20:49</span>
@@ -146,20 +157,20 @@
                 <span class="time">2026-07-30 19:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale" target="_blank">Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-30 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/solonjava/solon-file-upload-uploadedfile-over-multipartfile-22gf" target="_blank">Solon File Upload: UploadedFile Over MultipartFile</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-30 22:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +216,6 @@
                 <span class="time">2026-07-30 17:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/schiff_heimlich/set-e-will-kill-your-script-for-no-good-reason-175h" target="_blank">set -e Will Kill Your Script For No Good Reason</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-30 17:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +253,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/EA-logored-1280x720.jpg" alt="EA Says Its $55 Billion Sale To Saudi Arabia And Private Equity Will Go Through Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ea-says-sale-saudi-arabia-go-through-next-week-2000720596" target="_blank">EA Says Its $55 Billion Sale To Saudi Arabia And Private Equity Will Go Through Next Week</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-30 21:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/image-11-2-1280x759.jpg" alt="One Of 2026’s Best Games Is Adding Chaotic 8-Player Co-Op" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,15 +307,6 @@
                 <span class="time">2026-07-30 17:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/eso2.jpg" alt="The Elder Scrolls Online Delays Big Features After Mass Layoffs: ‘I Expected Drip Feed But This Is Brutal’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-elder-scrolls-online-delays-big-features-after-mass-layoffs-i-expected-drip-feed-but-this-is-brutal-2000720507" target="_blank">The Elder Scrolls Online Delays Big Features After Mass Layoffs: ‘I Expected Drip Feed But This Is Brutal’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-30 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 39 | 📸 With Images: 258 |
-        🔄 Last Updated: 21:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 39 | 📸 With Images: 259 |
+        🔄 Last Updated: 22:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
