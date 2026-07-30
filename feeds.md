@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 19:28:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-30 20:23:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 20:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +49,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss" target="_blank">Pakistan coal mine explosion kills at least 11, traps dozens</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-30 20:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ce/live/4f6564e0-8be6-11f1-861c-757141bb522d.jpg" alt="Suffolk wildfire still growing and unpredictable, says fire service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss" target="_blank">Suffolk wildfire still growing and unpredictable, says fire service</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-30 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss" target="_blank">Turtle rescued from rubble a month after Venezuela earthquake</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-30 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-yalda-hakim-theresa-may_7309773.jpg?20260730155957" alt="&#x27;Once a KGB man, always a KGB man&#x27;: Why Theresa May&#x27;s view on Russia hasn&#x27;t changed in a world that has" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/once-a-kgb-man-always-a-kgb-man-why-theresa-mays-view-on-russia-hasnt-changed-in-a-world-that-has-13568568" target="_blank">&#x27;Once a KGB man, always a KGB man&#x27;: Why Theresa May&#x27;s view on Russia hasn&#x27;t changed in a world that has</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-30 18:01</span>
             </div>
         </div>
 <div class="story">
@@ -62,39 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aae/live/be7e8ec0-8c30-11f1-89bb-9b3e3c6f25f4.jpg" alt="Uefa to boycott World Cups if Fifa plans approved" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss" target="_blank">‘To play God’: Cuba’s healthcare system collapses under US pressure</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-30 16:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785427849593_now_daily_a_blanche_trump_pull_260730_S3_1920x1080-p0lvq1.jpg" alt="Trump says he could pull Blanche&#x27;s attorney general nomination until GOP holdouts leave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-he-could-pull-blanche-s-attorney-general-nomination-until-gop-holdouts-leave-267524677834" target="_blank">Trump says he could pull Blanche&#x27;s attorney general nomination until GOP holdouts leave</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-30 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-8-gty-gmh-260729_1785354603688_hpMain_4x3t_384.jpg" alt="Trump floats temporarily withdrawing Blanche&#x27;s AG nomination over GOP holdouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/gops-cornyn-continues-block-todd-blanche-attorney-general/story?id=135228494" target="_blank">Trump floats temporarily withdrawing Blanche&#x27;s AG nomination over GOP holdouts</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-30 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation" target="_blank">The economy slowed a bit -- but Americans continued to spend</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-30 14:47</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss" target="_blank">Uefa to boycott World Cups if Fifa plans approved</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-30 16:47</span>
             </div>
         </div>
 </div>
@@ -103,12 +105,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/discburn-500x500.jpg" alt="The disc is not the game: Physical releases increasingly require extra downloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/" target="_blank">The disc is not the game: Physical releases increasingly require extra downloads</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-30 20:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-500x500.png" alt="Chrome may get faster updates with no restart required" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/" target="_blank">Chrome may get faster updates with no restart required</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-30 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale" target="_blank">Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-30 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -136,24 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/" target="_blank">For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-07-30 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/" target="_blank">Okta buys AI security startup Permiso; source says for about $200M</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-30 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6a649d6a06c49f95fa2cca/master/pass/CAR.jpg" alt="The New Friend AI Pendant Can Now Talk Back to You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/" target="_blank">The New Friend AI Pendant Can Now Talk Back to You</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-30 16:00</span>
             </div>
         </div>
 </div>
@@ -253,6 +255,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/wonder-man-mcu-1280x720.jpg" alt="Why Is Disney Canceling A Marvel Show It Already Greenlit The Second Season Of?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/why-is-disney-canceling-a-marvel-show-it-already-greenlit-the-second-season-of-2000720574" target="_blank">Why Is Disney Canceling A Marvel Show It Already Greenlit The Second Season Of?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-30 20:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KYSZTB956GQ0T4MYBDXTJWY3/hero-image.jpg" alt="If You Loved ‘Stuart Fails to Save the Universe,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -297,15 +308,6 @@
                 <span class="time">2026-07-30 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/05_GoW_EDAY_PlaysLikeNew_Final-7ef1be5a3c94e92a7462-1900x1080-1-1280x728.jpg" alt="Gears Of War: E-Day Multiplayer Promises No Premium Battle Pass Bullsh*t: ‘Almost All Of It Can Be Earned Through Gameplay’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gears-of-war-e-day-multiplayer-promises-no-premium-battle-pass-bullsht-almost-all-of-it-can-be-earned-through-gameplay-2000720472" target="_blank">Gears Of War: E-Day Multiplayer Promises No Premium Battle Pass Bullsh*t: ‘Almost All Of It Can Be Earned Through Gameplay’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-30 15:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 20:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
