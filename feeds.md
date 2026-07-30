@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 10:40:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-30 11:34:22 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 10:40 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 11:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43f2/live/f9315470-8c09-11f1-a7ab-8b30adf0800a.jpg" alt="UK on track for record heat-related deaths this year, UKHSA estimates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0m78g01r8jo?at_medium=RSS&at_campaign=rss" target="_blank">UK on track for record heat-related deaths this year, UKHSA estimates</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-30 11:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss" target="_blank">AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-30 10:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +103,20 @@
                 <span class="time">2026-07-30 09:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/30/nx-s1-5909222/parasite-cyclospora-outbreak-odyssey-nolan" target="_blank">Here&#x27;s how &#x27;parasite&#x27; went from a laughing matter to a serious biological threat</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-30 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/30/saudi-arabia-confirmed-to-host-asian-champions-league-elite-finals?traffic_source=rss" target="_blank">Saudi Arabia confirmed to host Asian Champions League Elite finals</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-30 08:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6a62d82adda589c3c4de65/master/pass/The-Best-Shower-Filters-for-Removing-Chlorine-and-PFAS.jpg" alt="7 Best Shower Filters of 2026 Are WIRED-Tested and -Approved" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-shower-water-filters/" target="_blank">7 Best Shower Filters of 2026 Are WIRED-Tested and -Approved</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-30 11:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +162,6 @@
                 <span class="time">2026-07-29 22:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a693e3ab3e509eda947fa86/master/pass/politics_republicans_suport_ICE.jpg" alt="It Looks Like Nothing Can Dent MAGA’s Support for ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/" target="_blank">It Looks Like Nothing Can Dent MAGA’s Support for ICE</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-29 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +174,33 @@
                 <span class="title"><a href="https://dev.to/elangbamjohnson/building-aianalyzer-a-swift-static-analysis-tool-that-knows-when-to-trust-its-own-ai-46d7" target="_blank">Building AIAnalyzer: A Swift Static Analysis Tool That Knows When to Trust Its Own AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-30 10:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bennuttall.com/blog/2026/07/gpiozero-flow/" target="_blank">Gpiozero Flow</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-30 10:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17396275/orionchat" target="_blank">I Found a Simple Open WebUI Alternative for Running Ollama Models in a Web Browser</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-07-30 10:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Huawei-Half-Open-Mesa-Vulkan" target="_blank">Huawei Considers Open-Sourcing A Half-Hearted Mesa Vulkan Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-30 10:18</span>
             </div>
         </div>
 <div class="story">
@@ -195,33 +221,6 @@
                 <span class="time">2026-07-30 07:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/samsonpg/i-built-tryquickimg-compress-heicjpgpng-in-the-browser-no-upload-4bn0" target="_blank">I built TryQuickImg: compress HEIC/JPG/PNG in the browser — no upload</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-30 07:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/surajrkhonde/episode-7-local-development-15ba" target="_blank">Episode 7: Local Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-30 05:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four" target="_blank">NSF pilots 4-year PhDs with industry research placements</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-30 02:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,20 +235,20 @@
                 <span class="time">2026-07-29 17:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/long-lived-vulnerability-in-microsoft-secure-boot.html" target="_blank">Long-Lived Vulnerability in Microsoft Secure Boot</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-29 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/Dell-Ram-chart-inverted-Kinek00-Kotaku-ShutterStock.jpg" alt="RAM Manufacturer Gets Pummeled By Stock Market For Only Making $55 Billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ram-manufacturer-gets-pummeled-by-stock-market-for-only-making-55-billion-2000720432" target="_blank">RAM Manufacturer Gets Pummeled By Stock Market For Only Making $55 Billion</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-30 11:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Glen.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Oscar-winning Once singer Glen Hansard dies in a Dublin crash at 56" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,15 +294,6 @@
                 <span class="time">2026-07-29 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/xbox-green.jpg" alt="Xbox Revenue Dropped $1.7 Billion Last Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-revenue-dropped-1-7-billion-last-year-2000720316" target="_blank">Xbox Revenue Dropped $1.7 Billion Last Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-29 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -341,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 10:40 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 39 | 📸 With Images: 261 |
+        🔄 Last Updated: 11:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
