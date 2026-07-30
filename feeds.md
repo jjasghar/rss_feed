@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 20:23:53 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-07-30 21:22:14 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 20:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, July 30, 2026 - 21:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +49,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss" target="_blank">Pakistan coal mine explosion kills at least 11, traps dozens</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-30 20:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minnesota-water-tower-gty-jt-260730_1785436577309_hpMain_4x3t_384.jpg" alt="Investigators probing possible Iran connection in water system hacks: US officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/investigators-iran-connection-minnesota-water-system-hacks-us/story?id=135237777" target="_blank">Investigators probing possible Iran connection in water system hacks: US officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-30 19:54</span>
             </div>
         </div>
 <div class="story">
@@ -90,20 +96,38 @@
                 <span class="time">2026-07-30 17:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aae/live/be7e8ec0-8c30-11f1-89bb-9b3e3c6f25f4.jpg" alt="Uefa to boycott World Cups if Fifa plans approved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss" target="_blank">Uefa to boycott World Cups if Fifa plans approved</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-30 16:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/973430/apple-q3-2026-earnings" target="_blank">Apple&amp;#8217;s iPhone and Mac sales keep growing despite RAM shortages</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-30 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/" target="_blank">Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-30 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6ba84f970c4c92c947f52b/master/pass/Model-Behavior-Anthropic-OpenAI-Business.jpg" alt="Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/" target="_blank">Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-30 20:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/discburn-500x500.jpg" alt="The disc is not the game: Physical releases increasingly require extra downloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +155,20 @@
                 <span class="time">2026-07-30 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/" target="_blank">LinkedIn adds a button to report AI-generated ‘slop’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-30 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons" target="_blank">NASA’s Curiosity rover found a ‘sea of polygons’ on Mars</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-30 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6b6dfa2b183a271524a823/master/pass/GettyImages-2264121440.jpg" alt="For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/" target="_blank">For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-30 17:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/openais-goblin-post-highlights-an-emerging-risk-in-ai-alignment-and-reliability-2dn8" target="_blank">OpenAI’s Goblin Post Highlights an Emerging Risk in AI Alignment and Reliability</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-30 21:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +214,6 @@
                 <span class="time">2026-07-30 17:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17396525/keychron-zgm-mouse-firmware" target="_blank">Keychron Built Open Source Firmware for Gaming Mice, and Linux Users Stand to Gain the Most</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-07-30 16:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -255,12 +252,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/image-11-2-1280x759.jpg" alt="One Of 2026’s Best Games Is Adding Chaotic 8-Player Co-Op" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/one-of-2026s-best-games-is-adding-chaotic-8-player-co-op-2000720585" target="_blank">One Of 2026’s Best Games Is Adding Chaotic 8-Player Co-Op</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-30 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYPX0K1AEEHTTAJET1BTZ52Z/hero-image.jpg" alt="10 Hacks Every Samsung Galaxy User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-samsung-galaxy-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Samsung Galaxy User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-30 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/wonder-man-mcu-1280x720.jpg" alt="Why Is Disney Canceling A Marvel Show It Already Greenlit The Second Season Of?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/why-is-disney-canceling-a-marvel-show-it-already-greenlit-the-second-season-of-2000720574" target="_blank">Why Is Disney Canceling A Marvel Show It Already Greenlit The Second Season Of?</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-30 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/800px-TESLA_badge_on_a_car.jpg?fit=800%2C533&amp;quality=60&amp;ssl=1" alt="The cars he hated became the prosecution&#x27;s photo department" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/30/teslas-record-alleged-irvine-vandal.html" target="_blank">The cars he hated became the prosecution&#x27;s photo department</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-30 19:10</span>
             </div>
         </div>
 <div class="story">
@@ -279,33 +303,6 @@
                 <span class="title"><a href="https://kotaku.com/the-elder-scrolls-online-delays-big-features-after-mass-layoffs-i-expected-drip-feed-but-this-is-brutal-2000720507" target="_blank">The Elder Scrolls Online Delays Big Features After Mass Layoffs: ‘I Expected Drip Feed But This Is Brutal’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-30 17:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYSTSJ4CP2TD4MNXRRQ234K7/hero-image.jpg" alt="The Pixel 11&#x27;s Biggest New Feature Might Be Its Inflated Price Tag" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-pixel-11s-biggest-new-feature-might-be-its-inflated-price-tag?utm_medium=RSS" target="_blank">The Pixel 11&#x27;s Biggest New Feature Might Be Its Inflated Price Tag</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-30 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/62srSqZfJbdeavBLazN3sn-1280x720.jpg" alt="10 Games To Satisfy Your Silksong Cravings While We Wait For New DLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hollow-knight-silksong-game-recommendations-blasphemous-super-metroid-2000720471" target="_blank">10 Games To Satisfy Your Silksong Cravings While We Wait For New DLC</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYSTTEM3CKS4QHRDD3ZEG31J/hero-image.png" alt="This Anker Charging Station Is 30% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-prime-charging-station-sale-july-2026?utm_medium=RSS" target="_blank">This Anker Charging Station Is 30% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-30 16:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 20:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 39 | 📸 With Images: 258 |
+        🔄 Last Updated: 21:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
