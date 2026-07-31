@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 01:31:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-31 02:59:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 01:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -82,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb9c/live/1884aea0-8c35-11f1-89bb-9b3e3c6f25f4.jpg" alt="Andy Burnham to give regional mayors share of income tax" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham to give regional mayors share of income tax</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-30 21:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -90,20 +100,20 @@
                 <span class="time">2026-07-30 20:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss" target="_blank">Pakistan coal mine explosion kills at least 11, traps dozens</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-30 20:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6bef5432fc2d440b7d5e3e/master/pass/Business_Claude-Escape.jpg" alt="Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/" target="_blank">Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-31 01:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +159,20 @@
                 <span class="time">2026-07-30 22:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/973430/apple-q3-2026-earnings" target="_blank">Apple&amp;#8217;s iPhone and Mac sales keep growing despite RAM shortages</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-30 20:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/code_dreamer_bfe08175100f/i-tried-to-clone-google-docs-but-ended-up-building-a-calmer-writing-app-4o2m" target="_blank">I tried to clone Google Docs, but ended up building a calmer writing app</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-31 02:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +218,6 @@
                 <span class="time">2026-07-30 21:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/revenueclaw/raspberry-pi-5-price-history-how-far-have-prices-come-187h" target="_blank">Raspberry Pi 5 Price History: How Far Have Prices Come?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-30 19:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -254,6 +255,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/kinney.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="AI assistant named for long-dead pharmacy founder mutters incomprehensibly and &quot;demands that you talk to him&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/30/ai-assistant-named-for-long-dead-pharmacy-founder-mutters-incomprehensibly-and-demands-that-you-talk-to-him.html" target="_blank">AI assistant named for long-dead pharmacy founder mutters incomprehensibly and &quot;demands that you talk to him&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-31 01:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/polygons.jpg?fit=1080%2C621&amp;quality=60&amp;ssl=1" alt="Curiosity rover finds field of honeycomb-textured &quot;polygons&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -299,20 +309,20 @@
                 <span class="time">2026-07-30 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/EA-logored-1280x720.jpg" alt="EA Says Its $55 Billion Sale To Saudi Arabia And Private Equity Will Go Through Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ea-says-sale-saudi-arabia-go-through-next-week-2000720596" target="_blank">EA Says Its $55 Billion Sale To Saudi Arabia And Private Equity Will Go Through Next Week</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-30 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5885.png" alt="Soggy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5885" target="_blank">Soggy</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-07-31 00:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1785374027-20260730.png" alt="Saturday Morning Breakfast Cereal - Crank" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -327,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 39 | 📸 With Images: 257 |
-        🔄 Last Updated: 01:32 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
