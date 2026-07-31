@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 14:45:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-31 15:39:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 34 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 14:45 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 15:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c661/live/5712d6b0-8cf3-11f1-a7ab-8b30adf0800a.jpg" alt="Disgraced funeral boss who failed to bury bodies jailed for 20 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss" target="_blank">Disgraced funeral boss who failed to bury bodies jailed for 20 years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-31 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss" target="_blank">World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-31 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool" target="_blank">Keeping cool without AC: Our readers share their tips</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-31 14:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,38 +97,29 @@
                 <span class="time">2026-07-31 12:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1205/live/c66b3870-8cb9-11f1-b49b-bb9fc846a015.jpg" alt="About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory&#x27;s leader says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss" target="_blank">About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory&#x27;s leader says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-31 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1205/live/c66b3870-8cb9-11f1-b49b-bb9fc846a015.jpg" alt="About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss" target="_blank">About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-31 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy" target="_blank">Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-31 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/" target="_blank">Samsung expects memory shortage to worsen through 2027 and last until 2028</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-31 15:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation" target="_blank">New York sues Kalshi for allegedly running an ‘illegal gambling operation’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-31 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,29 +156,20 @@
                 <span class="time">2026-07-31 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/" target="_blank">Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-31 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-500x500.jpg" alt="How a Yale AI-cheating dispute became a 13-count federal lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/" target="_blank">How a Yale AI-cheating dispute became a 13-count federal lawsuit</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-31 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/booyaka101/debugging-a-black-box-36-renders-against-claude-and-the-part-where-my-own-data-was-wrong-43ag" target="_blank">Debugging a black box: 36 renders against Claude, and the part where my own data was wrong</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-31 15:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Free-Lunch Guide to Idea Circularity</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-31 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.358" target="_blank">Vulkan 1.4.358 Released With New Image Tiling Control Extension</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-31 09:53</span>
             </div>
         </div>
 </div>
@@ -330,6 +321,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/main_span.png" alt="Main Span" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3279/" target="_blank">Main Span</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-07-31 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5885.png" alt="Soggy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -338,22 +338,13 @@
                 <span class="time">2026-07-31 00:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1785374027-20260730.png" alt="Saturday Morning Breakfast Cereal - Crank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/crank" target="_blank">Saturday Morning Breakfast Cereal - Crank</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-30 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 14:45 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 15:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
