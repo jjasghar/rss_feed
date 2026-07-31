@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 04:12:29 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-31 06:00:04 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 04:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 06:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +49,15 @@
                 <span class="title"><a href="https://abcnews.com/International/trump-announces-hamas-disarmament-agreement-part-gaza-peace/story?id=135246610" target="_blank">Trump announces Hamas disarmament agreement as part of Gaza peace plan</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-07-31 03:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260730-president-trump-vsb-1932-15ab0b.jpg" alt="Trump says peace plan will lead to Hamas disarmament; Israel’s support uncertain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/gaza/trump-says-peace-plan-will-lead-hamas-disarmament-israel-support-uncer-rcna590151" target="_blank">Trump says peace plan will lead to Hamas disarmament; Israel’s support uncertain</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-31 00:11</span>
             </div>
         </div>
 <div class="story">
@@ -94,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss" target="_blank">Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-30 22:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb9c/live/1884aea0-8c35-11f1-89bb-9b3e3c6f25f4.jpg" alt="Andy Burnham to give regional mayors share of income tax" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham to give regional mayors share of income tax</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-30 21:32</span>
             </div>
         </div>
 </div>
@@ -170,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://greyswansignals.com/?theme=dark" target="_blank">The AI trade now runs on borrowed money, and the lenders are repricing it</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-31 04:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftezeu1d1kyke0mfr5zag.gif" alt="What was your win this week?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,15 +212,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-31-2026-red-hat" target="_blank">Friday Five — July 31, 2026</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-07-31 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shubham_shaw_63d2b4bec156/exploring-webassembly-on-the-server-beyond-the-browser-sandbox-382i" target="_blank">Exploring WebAssembly on the Server: Beyond the Browser Sandbox</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-30 22:54</span>
             </div>
         </div>
 </div>
@@ -342,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 04:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 06:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
