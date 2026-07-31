@@ -1,32 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 06:00:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-31 07:10:04 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 06:00 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 07:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -88,12 +99,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785451617805_nn_kod_trump_blanche_nomination_073026_S3_1920x1080-ygssop.jpg" alt="Trump threatens to withdraw Blanche nomination" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss" target="_blank">Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-30 22:34</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-threatens-to-withdraw-blanche-nomination-267549765645" target="_blank">Trump threatens to withdraw Blanche nomination</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-07-30 22:47</span>
             </div>
         </div>
 </div>
@@ -101,6 +112,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Mattress Firm Coupons: Save up to $700 |" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mattress-firm-coupon/" target="_blank">Mattress Firm Coupons: Save up to $700 |</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-31 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a6bef5432fc2d440b7d5e3e/master/pass/Business_Claude-Escape.jpg" alt="Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +166,29 @@
                 <span class="time">2026-07-30 22:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-869824586-500x500.jpg" alt="Tim Cook passes the baton in Apple&#x27;s Q3 2026 earnings call" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/" target="_blank">Tim Cook passes the baton in Apple&#x27;s Q3 2026 earnings call</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-30 22:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/07/31/what-happens-internet-when-robots-act-like-humans/" target="_blank">What happens to the internet when robots act like humans?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‍​‌‍‌​‌‍​‌​﻿‍‌​﻿‍‌​﻿‍‌​﻿​‍​‍﻿‌​﻿​​​﻿‌‍‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌‍​﻿​​​﻿​‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌​‌‍‌​​‍﻿‌‌‍‌‍​﻿‌‍‌‍‌​‌‍​﻿‌‍‌​​﻿‌​​﻿‌‌‌‍​‍‌‍​﻿​﻿‌﻿​﻿​﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‍​‌‍‌​‌‍​‌​﻿‍‌​﻿‍‌​﻿‍‌​﻿​‍​‍﻿‌​﻿​​​﻿‌‍‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌‍​﻿​​​﻿​‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌​‌‍‌​​‍﻿‌‌‍‌‍​﻿‌‍‌‍‌​‌‍​﻿‌‍‌​​﻿‌​​﻿‌‌‌‍​‍‌‍​﻿​﻿‌﻿​﻿​﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-07-31 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aditya_borgaonkar/i-got-tired-of-managing-ai-api-keys-so-i-built-yantra-ai-40b0" target="_blank">I got tired of managing AI API keys, so I built Yantra AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-31 07:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,36 +211,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://earendil.com/posts/session-portability/" target="_blank">The session you cannot take with you</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-31 03:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return" target="_blank">A California aquifer may have crossed the point of no return</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-07-31 03:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/code_dreamer_bfe08175100f/i-tried-to-clone-google-docs-but-ended-up-building-a-calmer-writing-app-4o2m" target="_blank">I tried to clone Google Docs, but ended up building a calmer writing app</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-31 02:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ryan_2b4e3744aa0d037019fe/50-headline-prompts-that-dont-sound-like-ai-wrote-them-11hc" target="_blank">50 headline prompts that don&#x27;t sound like AI wrote them</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-31 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-31-2026-red-hat" target="_blank">Friday Five — July 31, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-07-31 00:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 06:00 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 07:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
