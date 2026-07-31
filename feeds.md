@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 00:21:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-31 01:31:55 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 00:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 01:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss" target="_blank">US Escalation with Iran is ‘pointless’, warns former US diplomat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-31 00:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d8e/live/9614c1f0-8c6e-11f1-a7ab-8b30adf0800a.jpg" alt="Hamas says it has agreed to disarm after Trump announces Board of Peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss" target="_blank">Hamas says it has agreed to disarm after Trump announces Board of Peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-31 00:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +99,20 @@
                 <span class="time">2026-07-30 20:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minnesota-water-tower-gty-jt-260730_1785436577309_hpMain_4x3t_384.jpg" alt="Investigators probing possible Iran connection in water system hacks: US officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/investigators-iran-connection-minnesota-water-system-hacks-us/story?id=135237777" target="_blank">Investigators probing possible Iran connection in water system hacks: US officials</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-30 19:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ce/live/4f6564e0-8be6-11f1-861c-757141bb522d.jpg" alt="Suffolk wildfire still growing and unpredictable, says fire service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss" target="_blank">Suffolk wildfire still growing and unpredictable, says fire service</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-30 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/" target="_blank">Anthropic says its own AI models breached three companies during security tests</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-31 01:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a6bd3709585cd0b1c9cc267/master/pass/The-FCC-Is-Coming-for-Robot-Vacuums.-How-Soon-Will-It-Be-a-Problem-.jpg" alt="How the FCC’s New Rule Will Affect Robot Vacuums" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,15 +158,6 @@
                 <span class="time">2026-07-30 20:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/" target="_blank">Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-30 20:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +170,15 @@
                 <span class="title"><a href="https://dev.to/ryan_2b4e3744aa0d037019fe/50-headline-prompts-that-dont-sound-like-ai-wrote-them-11hc" target="_blank">50 headline prompts that don&#x27;t sound like AI wrote them</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-31 00:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-31-2026-red-hat" target="_blank">Friday Five — July 31, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-07-31 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/revenueclaw/raspberry-pi-5-price-history-how-far-have-prices-come-187h" target="_blank">Raspberry Pi 5 Price History: How Far Have Prices Come?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-30 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/" target="_blank">UEFA and its national associations will not participate in FIFA competitions</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-30 18:40</span>
             </div>
         </div>
 </div>
@@ -260,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/polygons.jpg?fit=1080%2C621&amp;quality=60&amp;ssl=1" alt="Curiosity rover finds field of honeycomb-textured &quot;polygons&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/30/curiosity-rover-finds-field-of-honeycomb-textured-polygons.html" target="_blank">Curiosity rover finds field of honeycomb-textured &quot;polygons&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-31 00:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/ashaxbox-1280x720.jpg" alt="Xbox CEO Lays Out Post-Layoff Priorities For Ambitious Growth After A Terrible Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -305,15 +308,6 @@
                 <span class="time">2026-07-30 21:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/image-11-2-1280x759.jpg" alt="One Of 2026’s Best Games Is Adding Chaotic 8-Player Co-Op" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/one-of-2026s-best-games-is-adding-chaotic-8-player-co-op-2000720585" target="_blank">One Of 2026’s Best Games Is Adding Chaotic 8-Player Co-Op</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-30 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,22 +322,13 @@
                 <span class="time">2026-07-30 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5884.png" alt="All Ankles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5884" target="_blank">All Ankles</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-30 01:13</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 39 | 📸 With Images: 258 |
-        🔄 Last Updated: 00:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 39 | 📸 With Images: 257 |
+        🔄 Last Updated: 01:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
