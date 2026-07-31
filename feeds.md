@@ -1,41 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 21:21:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-31 22:18:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 21:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 22:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss" target="_blank">Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-31 21:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +106,29 @@
                 <span class="time">2026-07-31 17:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths" target="_blank">At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-31 17:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2163385148-500x500.jpg" alt="Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/" target="_blank">Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-31 22:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/" target="_blank">Rivian spinoff Also to start delivering e-bikes after months of delays</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-31 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2218358312-500x500.jpg" alt="Reddit keeps weird DMCA lawsuit against web scraper alive despite Google’s loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,29 +165,20 @@
                 <span class="time">2026-07-31 18:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2150797132-500x500.jpg" alt="High school defends staying silent while boys made AI nudes of 59 classmates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/" target="_blank">High school defends staying silent while boys made AI nudes of 59 classmates</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-31 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/" target="_blank">Sam Altman isn’t the only one who wants to pump the brakes on AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-31 17:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/priya_sajja_c336921bbda87/beyond-the-resume-why-every-tech-professional-needs-a-portfolio-1dp2" target="_blank">Beyond the Resume: Why Every Tech Professional Needs a Portfolio</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-31 22:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +224,6 @@
                 <span class="time">2026-07-31 17:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/" target="_blank">Don’t stop early: Case-folding source code at memory speed</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-07-31 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -260,6 +261,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Voibe-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Voibe gives Mac users a much faster way to get words down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/31/voibe-gives-mac-users-a-much-faster-way-to-get-words-down.html" target="_blank">Voibe gives Mac users a much faster way to get words down</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-31 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KYVDX2484D70XD8RC08K2N58/hero-image.jpg" alt="10 Snipping Tool Hacks Every Windows 11 User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,15 +313,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/31/at-4-a-gallon-again-even-republicans-souring-on-iran-war.html" target="_blank">At $4 a gallon again, even Republicans souring on Iran war</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-31 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/Guillermo-Del-Toro-In-Death-Stranding-with-the-Dead-Cells-protag-Sony-Motion-Twin.jpg" alt="Guillermo Del Toro Wants Extra Checkpoints In Games For ‘Elderly Players’ After Getting His Ass Kicked By Dead Cells" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/guillermo-del-toro-gdt-dead-cells-video-games-difficulty-2000720732" target="_blank">Guillermo Del Toro Wants Extra Checkpoints In Games For ‘Elderly Players’ After Getting His Ass Kicked By Dead Cells</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-31 13:01</span>
             </div>
         </div>
 </div>
@@ -369,8 +370,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 21:21 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 22:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
