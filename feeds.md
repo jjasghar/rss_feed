@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 12:33:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-31 13:30:51 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 12:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 13:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +100,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a6b80ea3f1c7c0cdd779c39/master/pass/Review--Steelseries-Arctis-Nova-Pro-Omni.jpg" alt="Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/steelseries-arctis-nova-pro-omni/" target="_blank">Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-31 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/pathogenic1-500x500.png" alt="Pathogenic review: Damn, it feels good to be a virus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/" target="_blank">Pathogenic review: Damn, it feels good to be a virus</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-31 13:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -142,29 +153,20 @@
                 <span class="time">2026-07-31 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6c0e475abc2a8fa7b821f5/master/pass/Review--SJY-Zeph-Open-Back-Planar-Magnetic-Headphones.jpg" alt="SJY Zeph Open-Back Headphones Review: Music Through Magnets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/sjy-zeph-open-back-planar-magnetic-headphones/" target="_blank">SJY Zeph Open-Back Headphones Review: Music Through Magnets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-31 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6baf032bc54c722b6ba526/master/pass/GettyImages-2287485272.jpg" alt="The World Is Too Hot. El Niño Is Partly to Blame" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/world-heat-wave-el-nino-to-blame/" target="_blank">The World Is Too Hot. El Niño Is Partly to Blame</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-31 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-AMD-Per-Core-Dynamic" target="_blank">Linux 7.3 To Allow Tuning AMD P-State Dynamic EPP With Per CPU Core Granularity</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-31 13:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +212,6 @@
                 <span class="time">2026-07-31 07:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aditya_borgaonkar/i-got-tired-of-managing-ai-api-keys-so-i-built-yantra-ai-40b0" target="_blank">I got tired of managing AI API keys, so I built Yantra AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-31 07:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/Guillermo-Del-Toro-In-Death-Stranding-with-the-Dead-Cells-protag-Sony-Motion-Twin.jpg" alt="Guillermo Del Toro Wants Extra Checkpoints In Games For ‘Elderly Players’ After Getting His Ass Kicked By Dead Cells" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/guillermo-del-toro-gdt-dead-cells-video-games-difficulty-2000720732" target="_blank">Guillermo Del Toro Wants Extra Checkpoints In Games For ‘Elderly Players’ After Getting His Ass Kicked By Dead Cells</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-31 13:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/Stellar-Blade-Blood-Rain-Wanna-be-in-LOVE-music-video-Shift-Up-1280x720.jpg" alt="Even Stellar Blade Fans Hate The Sequel’s Official GenAI Music Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +294,6 @@
                 <span class="time">2026-07-30 23:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Image-Casio.jpg?fit=1080%2C637&amp;quality=60&amp;ssl=1" alt="Casio&#x27;s new Ring Watch has a few smart features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/30/casios-new-ring-watch-has-a-few-smart-features.html" target="_blank">Casio&#x27;s new Ring Watch has a few smart features</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-30 23:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 12:33 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 13:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
