@@ -1,42 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 22:18:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-31 23:18:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 22:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 23:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/reflecting-pool-gty-jt-260731_1785536078039_hpMain_4x3t_384.jpg" alt="DOJ dropping Reflecting Pool vandalism charge against Olympian David Hearn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/doj-moves-dismiss-reflecting-pool-case-olympian-citing/story?id=135274977" target="_blank">DOJ dropping Reflecting Pool vandalism charge against Olympian David Hearn</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-31 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss" target="_blank">Israeli settlers vandalise Palestinian cemetery in West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-31 22:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss" target="_blank">World reacts with cautious optimism to Hamas disarmament agreement</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-31 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss" target="_blank">Syrian lawyer takes on ex-Assad official in landmark trial</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-31 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-12-gty-gmh-260731_1785515036703_hpMain_4x3t_384.jpg" alt="Trump blames Minnesota governor, not Iran, for cyberattacks on state&#x27;s water systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-blames-minnesota-governor-iran-cyberattacks-states-water/story?id=135266259" target="_blank">Trump blames Minnesota governor, not Iran, for cyberattacks on state&#x27;s water systems</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-31 17:27</span>
             </div>
         </div>
 </div>
@@ -191,6 +188,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tailscale.com/blog/hugging-face-intrusion" target="_blank">Tailscale didn&#x27;t stop the Hugging Face intrusion</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-31 19:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cloudhoste/how-to-deploy-self-hosted-n8n-on-a-eu399mo-european-vps-28cl" target="_blank">How to Deploy Self-Hosted n8n on a €3.99/mo European VPS</a></span>
                 <span class="feed">DEV Community</span>
@@ -213,15 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/07/terraform-policy-as-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-07-31 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/svyatov/kubernetes-earned-its-security-badge-in-2017-and-never-came-back-58eh" target="_blank">Kubernetes earned its security badge in 2017 and never came back</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-31 17:23</span>
             </div>
         </div>
 </div>
@@ -261,6 +258,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/01/washington-monument-by-pedro-szekely.jpg?fit=1261%2C806&amp;quality=60&amp;ssl=1" alt="DOJ admits the Reflecting Pool &quot;vandal&quot; was the contractor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/31/doj-reflecting-pool-contractor-david-hearn.html" target="_blank">DOJ admits the Reflecting Pool &quot;vandal&quot; was the contractor</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-31 22:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Voibe-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Voibe gives Mac users a much faster way to get words down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -304,15 +310,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/07/31/if-you-like-indie-games-have-you-tried-the-itch-desktop-app.html" target="_blank">If you like indie games, have you tried the Itch desktop app?</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-07-31 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_431335693-e1780949810544.jpg?fit=768%2C508&amp;quality=60&amp;ssl=1" alt="At $4 a gallon again, even Republicans souring on Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/31/at-4-a-gallon-again-even-republicans-souring-on-iran-war.html" target="_blank">At $4 a gallon again, even Republicans souring on Iran war</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-31 13:40</span>
             </div>
         </div>
 </div>
@@ -370,8 +367,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 22:18 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 23:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
