@@ -1,19 +1,23 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 08:58:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-31 09:57:16 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
@@ -21,19 +25,21 @@
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 08:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 09:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +55,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths" target="_blank">At least 18 die as 49,000 people cross to Spanish enclave of Ceuta from Morocco</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-07-31 09:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss" target="_blank">At least 11, including children, injured in Israeli raids near Nablus</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-31 09:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz" target="_blank">Who&#x27;s driving a bookmobile full of Epstein files? The quiz knows!</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-31 09:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +109,20 @@
                 <span class="time">2026-07-31 03:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260730-president-trump-vsb-1932-15ab0b.jpg" alt="Trump says peace plan will lead to Hamas disarmament; Israel’s support uncertain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/gaza/trump-says-peace-plan-will-lead-hamas-disarmament-israel-support-uncer-rcna590151" target="_blank">Trump says peace plan will lead to Hamas disarmament; Israel’s support uncertain</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-07-31 00:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss" target="_blank">US Escalation with Iran is ‘pointless’, warns former US diplomat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-31 00:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d8e/live/9614c1f0-8c6e-11f1-a7ab-8b30adf0800a.jpg" alt="Hamas says it has agreed to disarm after Trump announces Board of Peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss" target="_blank">Hamas says it has agreed to disarm after Trump announces Board of Peace plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-31 00:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6baf032bc54c722b6ba526/master/pass/GettyImages-2287485272.jpg" alt="The World Is Too Hot. El Niño Is Partly to Blame" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/world-heat-wave-el-nino-to-blame/" target="_blank">The World Is Too Hot. El Niño Is Partly to Blame</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-31 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Mattress Firm Coupons: Save up to $700 |" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +168,29 @@
                 <span class="time">2026-07-30 22:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth" target="_blank">Xbox CEO says the team has one year to start growing again</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-30 22:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.358" target="_blank">Vulkan 1.4.358 Released With New Image Tiling Control Extension</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-31 09:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/virtual-threads-after-jdk24/en/headerimage/virtual-threads-after-jdk24-header-1785232507934.jpg" alt="Article: Virtual Threads After JDK 24: What Changed for Production Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/virtual-threads-after-jdk24/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Virtual Threads After JDK 24: What Changed for Production Java</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-31 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +225,6 @@
                 <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-1ed" target="_blank">What was your win this week?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-31 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://earendil.com/posts/session-portability/" target="_blank">The session you cannot take with you</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-31 03:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return" target="_blank">A California aquifer may have crossed the point of no return</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-31 03:27</span>
             </div>
         </div>
 </div>
@@ -258,6 +264,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/kh-1280x720.jpg" alt="Square Enix Says Kingdom Hearts Art Accused Of Using GenAI Was Just Regular Human Error" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/square-enix-says-kingdom-hearts-art-accused-of-using-genai-was-just-regular-human-error-2000720610" target="_blank">Square Enix Says Kingdom Hearts Art Accused Of Using GenAI Was Just Regular Human Error</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-31 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/kinney.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="AI assistant named for long-dead pharmacy founder mutters incomprehensibly and &quot;demands that you talk to him&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,15 +318,6 @@
                 <span class="time">2026-07-30 22:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/slops-1280x853.jpg" alt="Microsoft Adds ‘Seems Like AI Slop’ Button To LinkedIn After Just Spending $41 Billion On AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-adds-seems-like-ai-slop-button-to-linkedin-after-just-spending-41-billion-on-ai-2000720593" target="_blank">Microsoft Adds ‘Seems Like AI Slop’ Button To LinkedIn After Just Spending $41 Billion On AI</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-30 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -349,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 08:58 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 09:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
