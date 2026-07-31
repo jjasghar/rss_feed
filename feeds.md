@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 02:59:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-07-31 04:12:29 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 04:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-ap-gmh-260730_1785433170256_hpMain_4x3t_384.jpg" alt="Trump announces Hamas disarmament agreement as part of Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/trump-announces-hamas-disarmament-agreement-part-gaza-peace/story?id=135246610" target="_blank">Trump announces Hamas disarmament agreement as part of Gaza peace plan</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-31 03:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +103,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham to give regional mayors share of income tax</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-07-30 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026" target="_blank">Mortgage rates hit their highest level in a year, driven by war and inflation concerns</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-30 20:37</span>
             </div>
         </div>
 </div>
@@ -165,6 +170,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftezeu1d1kyke0mfr5zag.gif" alt="What was your win this week?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-1ed" target="_blank">What was your win this week?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-31 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return" target="_blank">A California aquifer may have crossed the point of no return</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-07-31 03:27</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/shubham_shaw_63d2b4bec156/exploring-webassembly-on-the-server-beyond-the-browser-sandbox-382i" target="_blank">Exploring WebAssembly on the Server: Beyond the Browser Sandbox</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-30 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/solonjava/solon-file-upload-uploadedfile-over-multipartfile-22gf" target="_blank">Solon File Upload: UploadedFile Over MultipartFile</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-30 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/openais-goblin-post-highlights-an-emerging-risk-in-ai-alignment-and-reliability-2dn8" target="_blank">OpenAI’s Goblin Post Highlights an Emerging Risk in AI Alignment and Reliability</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-30 21:20</span>
             </div>
         </div>
 </div>
@@ -337,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 04:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
