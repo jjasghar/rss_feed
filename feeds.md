@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 19:28:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-31 20:26:04 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 20:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/" target="_blank">Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-31 19:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277100086-500x500.jpg" alt="Would you get tattooed just to interview at a 7-days-a-week AI startup?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -147,15 +156,6 @@
                 <span class="time">2026-07-31 15:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation" target="_blank">New York sues Kalshi for allegedly running an ‘illegal gambling operation’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-31 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +177,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/OSS-Firmware-MSI-B850-P-WIFI" target="_blank">The First Open-Source Firmware Released For Modern AMD Ryzen AM5 Platform</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-07-31 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/07/terraform-policy-as-code/en/headerimage/terraform-1-4-null-resource-1785517729441.jpeg" alt="Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/07/terraform-policy-as-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-07-31 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/booyaka101/debugging-a-black-box-36-renders-against-claude-and-the-part-where-my-own-data-was-wrong-43ag" target="_blank">Debugging a black box: 36 renders against Claude, and the part where my own data was wrong</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-31 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Nouveau-Atomic-Mode-Setting-26" target="_blank">Nouveau Preparing To Finally Enable Atomic Mode-Setting By Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-31 15:22</span>
             </div>
         </div>
 </div>
@@ -352,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 20:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
