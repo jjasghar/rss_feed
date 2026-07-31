@@ -1,40 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-30 23:19:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-31 00:21:28 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, July 30, 2026 - 23:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 00:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss" target="_blank">Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-30 23:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +105,20 @@
                 <span class="time">2026-07-30 18:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss" target="_blank">Turtle rescued from rubble a month after Venezuela earthquake</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-30 18:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6bd3709585cd0b1c9cc267/master/pass/The-FCC-Is-Coming-for-Robot-Vacuums.-How-Soon-Will-It-Be-a-Problem-.jpg" alt="How the FCC’s New Rule Will Affect Robot Vacuums" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/" target="_blank">How the FCC’s New Rule Will Affect Robot Vacuums</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-30 23:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +164,20 @@
                 <span class="time">2026-07-30 20:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6ba84f970c4c92c947f52b/master/pass/Model-Behavior-Anthropic-OpenAI-Business.jpg" alt="Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/" target="_blank">Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-30 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ryan_2b4e3744aa0d037019fe/50-headline-prompts-that-dont-sound-like-ai-wrote-them-11hc" target="_blank">50 headline prompts that don&#x27;t sound like AI wrote them</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-31 00:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +223,6 @@
                 <span class="time">2026-07-30 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-2.1-ALLM" target="_blank">AMD Posts Linux Patches For HDMI 2.1 Auto Low-Latency Mode &quot;ALLM&quot; &amp; VRR</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-30 18:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -260,6 +261,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/ashaxbox-1280x720.jpg" alt="Xbox CEO Lays Out Post-Layoff Priorities For Ambitious Growth After A Terrible Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-ceo-lays-out-post-layoff-priorities-for-ambitious-growth-after-a-terrible-year-2000720600" target="_blank">Xbox CEO Lays Out Post-Layoff Priorities For Ambitious Growth After A Terrible Year</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-30 23:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Image-Casio.jpg?fit=1080%2C637&amp;quality=60&amp;ssl=1" alt="Casio&#x27;s new Ring Watch has a few smart features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/30/casios-new-ring-watch-has-a-few-smart-features.html" target="_blank">Casio&#x27;s new Ring Watch has a few smart features</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-30 23:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-30 22:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/slops-1280x853.jpg" alt="Microsoft Adds ‘Seems Like AI Slop’ Button To LinkedIn After Just Spending $41 Billion On AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -284,33 +312,6 @@
                 <span class="title"><a href="https://kotaku.com/one-of-2026s-best-games-is-adding-chaotic-8-player-co-op-2000720585" target="_blank">One Of 2026’s Best Games Is Adding Chaotic 8-Player Co-Op</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-30 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYPX0K1AEEHTTAJET1BTZ52Z/hero-image.jpg" alt="10 Hacks Every Samsung Galaxy User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-samsung-galaxy-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Samsung Galaxy User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-30 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/wonder-man-mcu-1280x720.jpg" alt="Why Is Disney Canceling A Marvel Show It Already Greenlit The Second Season Of?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/why-is-disney-canceling-a-marvel-show-it-already-greenlit-the-second-season-of-2000720574" target="_blank">Why Is Disney Canceling A Marvel Show It Already Greenlit The Second Season Of?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-30 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/800px-TESLA_badge_on_a_car.jpg?fit=800%2C533&amp;quality=60&amp;ssl=1" alt="The cars he hated became the prosecution&#x27;s photo department" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/30/teslas-record-alleged-irvine-vandal.html" target="_blank">The cars he hated became the prosecution&#x27;s photo department</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-30 19:10</span>
             </div>
         </div>
 </div>
@@ -341,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 23:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 39 | 📸 With Images: 258 |
+        🔄 Last Updated: 00:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
